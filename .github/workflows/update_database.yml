@@ -1,0 +1,32 @@
+name: Update Database
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Exécutez tous les premiers jours de chaque mois à minuit UTC
+
+jobs:
+  update_database:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt  # Assurez-vous de spécifier vos dépendances Python ici
+
+    - name: Run Python script
+      run: python your_script.py  # Remplacez par le nom de votre script Python
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "GitHub Actions"
+        git commit -am "Update database"
+        git push
