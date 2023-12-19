@@ -21,6 +21,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Create .kaggle directory
+        run: mkdir -p /home/runner/.kaggle
+
       - name: Set up Kaggle credentials
         run: echo "$KAGGLE_JSON" > /home/runner/.kaggle/kaggle.json && chmod 600 /home/runner/.kaggle/kaggle.json
 
