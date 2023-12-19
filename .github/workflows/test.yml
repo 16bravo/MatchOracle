@@ -21,5 +21,8 @@ jobs:
     - name: Print Python Version
       run: python --version
 
+    - name: Upgrade pip
+      run: pip install --upgrade pip
+
     - name: Install distutils
       run: pip install distutils
