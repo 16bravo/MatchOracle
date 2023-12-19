@@ -39,7 +39,7 @@ matches['match_id'] = range(1, len(matches) + 1)
 #Filtre sur la validité des matches
 # Chargement des données depuis les fichiers CSV
 # matches a été généré avec l'API Kaggle
-teams_db = pd.read_excel('teams_db.xlsx')  # Assurez-vous que le fichier est au format Excel
+teams_db = pd.read_excel('./data/teams_db.xlsx')
 
 # Fusion des DataFrames sur les colonnes home_team et away_team
 merged_df = pd.merge(matches, teams_db[['team', 'tricode']], how='inner', left_on='home_team', right_on='team')
