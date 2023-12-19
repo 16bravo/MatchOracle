@@ -22,4 +22,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run initialization script
-        run: python db_initialisation.py
+        run: python scripts/db_initialisation.py
