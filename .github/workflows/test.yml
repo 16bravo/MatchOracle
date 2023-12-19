@@ -20,3 +20,6 @@ jobs:
 
     - name: Print Python Version
       run: python --version
+
+    - name: Install distutils
+      run: pip install distutils
