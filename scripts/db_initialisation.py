@@ -242,12 +242,12 @@ cursor.execute('''
 ''')
 
 # Chargement des données Excel dans un DataFrame pandas
-excel_file_path = 'teams_db.xlsx'
-df_teams = pd.read_excel(excel_file_path)
+#excel_file_path = 'teams_db.xlsx'
+#df_teams = pd.read_excel(excel_file_path)
 
 # Insértion des données dans les tables
-df_teams.to_sql('Teams', conn, index=False, if_exists='replace')  # Utilisez 'replace' ou 'append' selon votre besoin
-ranking_df.to_sql('Rankings', conn, index=False, if_exists='append')  # Utilisez 'replace' ou 'append' selon votre besoin
+teams_db.to_sql('Teams', conn, index=False, if_exists='replace')
+ranking_df.to_sql('Rankings', conn, index=False, if_exists='append')
 
 # Validez et fermez la connexion à la base de données
 conn.commit()
