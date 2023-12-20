@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- Ajoutez la référence au thème Bootstrap -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/dataTables.bootstrap4.min.css">
+  <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/dataTables.bootstrap4.min.js"></script>
   <title>Bravo!Ranking</title>
 </head>
 <body class="bg-light">
@@ -42,20 +46,23 @@
   // Référence vers le corps du tableau
   const tableBody = document.getElementById('table-body');
 
-  // Chargement du JSON et construction du tableau
+  // Chargement du JSON et construction du tableau avec DataTables
   loadJSON().then(jsonData => {
     // Boucle à travers les données JSON et construit les lignes du tableau
     jsonData.forEach(item => {
       const row = document.createElement('tr');
       row.innerHTML = `
         <td>${item.ranking}</td>
-        <td><img src="${item.flag}" alt="${item.team}" width="30"></td>
+        <td><img src="img/${item.flag}" alt="${item.team}" width="30"></td>
         <td>${item.team}</td>
         <td>${item.points}</td>
         <td>${item.confederation}</td>
       `;
       tableBody.appendChild(row);
     });
+
+    // Activer DataTables sur le tableau
+    $('#myTable').DataTable();
   });
 </script>
 
