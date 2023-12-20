@@ -21,4 +21,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run JSON generation script
-        run: python scripts/json_generation.py
+        run: |
+          echo "Working Directory: $(pwd)"
+          echo "Files in Current Directory: $(ls -al)"
+          python scripts/json_generation.py
