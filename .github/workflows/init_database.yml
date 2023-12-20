@@ -17,17 +17,31 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
+      - name: Vérifier l'existence de la base de données
+        id: check-db
+        run: |
+            if [ -f ./data/BranvoRanking.db ]; then
+              echo "Database exists already. No need for init."
+              echo "::set-output name=init_required::false"
+            else
+              echo "Database does not exist. Init needed."
+              echo "::set-output name=init_required::true"
+            fi
 
       - name: Install dependencies
+        if: steps.check-db.outputs.init_required == 'true'
         run: pip install -r requirements.txt
 
       - name: Create .kaggle directory
+        if: steps.check-db.outputs.init_required == 'true'
         run: mkdir -p /home/runner/.kaggle
 
       - name: Set up Kaggle credentials
+        if: steps.check-db.outputs.init_required == 'true'
         run: echo "$KAGGLE_JSON" > /home/runner/.kaggle/kaggle.json && chmod 600 /home/runner/.kaggle/kaggle.json
         env:
           KAGGLE_JSON: ${{ secrets.KAGGLE_JSON }}
 
       - name: Run initialization script
+        if: steps.check-db.outputs.init_required == 'true'
         run: python scripts/db_initialisation.py
