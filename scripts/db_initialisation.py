@@ -39,7 +39,7 @@ matches['match_id'] = range(1, len(matches) + 1)
 #Filtre sur la validité des matches
 # Chargement des données depuis les fichiers CSV
 # matches a été généré avec l'API Kaggle
-teams_db = pd.read_excel('./data/teams_db.xlsx')
+teams_db = pd.read_excel('data/teams_db.xlsx')
 
 # Fusion des DataFrames sur les colonnes home_team et away_team
 merged_df = pd.merge(matches, teams_db[['team', 'tricode']], how='inner', left_on='home_team', right_on='team')
@@ -210,7 +210,7 @@ ranking_df = ranking_df[['year', 'month', 'team', 'points', 'ranking']]
 # ## Création de la base et des tables
 
 # Chemin et nom de la base de données
-database_path = './data/BravoRanking.db'
+database_path = 'data/BravoRanking.db'
 
 # Connexion à la base de données (la base sera créée si elle n'existe pas)
 conn = sqlite3.connect(database_path)

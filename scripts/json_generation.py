@@ -2,7 +2,7 @@ import sqlite3
 import json
 
 # Connexion à la base de données SQLite
-database_path = "./data/BravoRanking.db"
+database_path = "data/BravoRanking.db"
 connection = sqlite3.connect(database_path)
 cursor = connection.cursor()
 
@@ -32,7 +32,7 @@ data = [dict(zip(column_names, row)) for row in rows]
 connection.close()
 
 # Exportation des données vers un fichier JSON
-json_path = "./data/LastMonthRanking.json"
+json_path = "data/LastMonthRanking.json"
 with open(json_path, "w", encoding="utf-8") as json_file:
     json.dump(data, json_file, indent=2)
 

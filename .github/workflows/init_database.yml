@@ -20,7 +20,7 @@ jobs:
       - name: Vérifier l'existence de la base de données
         id: check-db
         run: |
-            if [ -f ./data/BranvoRanking.db ]; then
+            if [ -f data/BranvoRanking.db ]; then
               echo "Database exists already. No need for init."
               echo "::set-output name=init_required::false"
             else
