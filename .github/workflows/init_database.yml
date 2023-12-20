@@ -45,3 +45,15 @@ jobs:
       - name: Run initialization script
         if: steps.check-db.outputs.init_required == 'true'
         run: python scripts/db_initialisation.py
+
+      - name: Commit changes
+        if: steps.check-db.outputs.init_required == 'true'
+        run: |
+          git config --global user.email "c.bravo2@yahoo.fr"
+          git config --global user.name "16bravo"
+          git add data/BravoRanking.db
+          git commit -m "Creation database"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
