@@ -7,16 +7,14 @@ connection = sqlite3.connect(database_path)
 cursor = connection.cursor()
 
 # Exécution de la requête SQL pour sélectionner toutes les lignes de la table
-cursor.execute('''WITH year_max AS (
-                    SELECT MAX(YEAR) FROM Rankings
-                ),
-                month_max AS (
-                    SELECT MAX(MONTH) FROM Rankings WHERE YEAR = (SELECT * FROM year_max)
+cursor.execute('''WITH date_max AS (
+                    SELECT MAX(date) FROM Rankings
                 )
                 SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation
                 FROM Rankings r
                 LEFT JOIN Teams t ON (r.team = t.team)
-                WHERE year = (SELECT * FROM year_max) AND month = (SELECT * FROM month_max)'''
+                WHERE date = (SELECT * FROM date_max)
+               '''
 )
 
 # Récupération de toutes les lignes sous forme de liste de tuples
