@@ -1,9 +1,10 @@
 name: DB Update
 
 on:
-  push:
-    branches:
-      - main
+  workflow_run:
+    workflows: ["DB Initialisation"]
+    types:
+      - completed
 
 jobs:
   init_db:
