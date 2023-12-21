@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - name: Vérifier l'existence de la base de données
+      - name: Check if database exists
         id: check-db
         run: |
             if [ -f data/BravoRanking.db ]; then
@@ -52,7 +52,7 @@ jobs:
           git config --global user.email "c.bravo2@yahoo.fr"
           git config --global user.name "16bravo"
           git add data/BravoRanking.db
-          git commit -m "Creation database"
+          git commit -m "Database Creation"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
         env:
