@@ -1,32 +1,59 @@
-name: Update Database
+name: DB Update
 
 on:
-  schedule:
-    - cron: '0 0 1 * *'  # Exécutez tous les premiers jours de chaque mois à minuit UTC
+  push:
+    branches:
+      - main
 
 jobs:
-  update_database:
+  init_db:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Check if database exists
+        id: check-db
+        run: |
+            if [ -f data/BravoRanking.db ]; then
+              echo "Database exists already. OK for update."
+              echo "::set-output name=update_ok::true"
+            else
+              echo "Database does not exist. KO for update."
+              echo "::set-output name=update_ok::false"
+            fi
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt  # Assurez-vous de spécifier vos dépendances Python ici
+      - name: Install dependencies
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: pip install -r requirements.txt
 
-    - name: Run Python script
-      run: python your_script.py  # Remplacez par le nom de votre script Python
+      - name: Create .kaggle directory
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: mkdir -p /home/runner/.kaggle
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "GitHub Actions"
-        git commit -am "Update database"
-        git push
+      - name: Set up Kaggle credentials
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: echo "$KAGGLE_JSON" > /home/runner/.kaggle/kaggle.json && chmod 600 /home/runner/.kaggle/kaggle.json
+        env:
+          KAGGLE_JSON: ${{ secrets.KAGGLE_JSON }}
+
+      - name: Run update script
+        if: steps.check-db.outputs.init_required == 'true'
+        run: python scripts/db_update.py
+
+      - name: Commit changes
+        if: steps.check-db.outputs.init_required == 'true'
+        run: |
+          git config --global user.email "c.bravo2@yahoo.fr"
+          git config --global user.name "16bravo"
+          git add data/BravoRanking.db
+          git commit -m "Database Update"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
