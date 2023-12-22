@@ -11,6 +11,7 @@ from datetime import datetime
 import sqlite3
 
 ## EXTRACT DATA FROM KAGGLE AND EXCEL
+
 # Download data set
 # https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/?select=results.csv
 dataset = "martj42/international-football-results-from-1872-to-2017"
