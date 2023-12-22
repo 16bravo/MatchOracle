@@ -71,12 +71,12 @@ else:
     # Retrieve the maximum date from the Rankings table
     last_date_query = "SELECT MAX(date) FROM Rankings"
     last_date = pd.read_sql(last_date_query, conn).iloc[0, 0]
-    last_date = datetime.strptime(last_date, "%Y-%m-%d")
+    last_date = datetime.strptime(last_date, "%Y-%m-%d %H:%M:%S.%f")
     last_year = last_date.year
     last_month = last_date.month
     last_day = last_date.day
     # Load DataFrame from database
-    teams_query = f"SELECT team, points FROM Rankings WHERE year = {last_year} AND month = {last_month} AND day = {last_day}"
+    teams_query = f"SELECT r.team, r.points, t.startDate, t.endDate FROM Rankings r LEFT JOIN Teams t ON (r.team = t.team) WHERE year = {last_year} AND month = {last_month} AND day = {last_day}"
     teams_db = pd.read_sql(teams_query, conn)
     teams['team'] = teams_db['team']
     teams['points'] = teams_db['points']
@@ -137,11 +137,16 @@ teams['ranking'] = range(1, len(teams) + 1)
 
 ## GET POINTS YEAR BY YEAR AND TODAY
 
+today_date = pd.Timestamp(datetime.now())
+today = pd.DataFrame({'date': [today_date]})
+
 start_date = matches['date'].min()
 end_date = matches['date'].max()
 
+start_date = last_date if pd.isna(start_date) else start_date
+end_date = today_date if pd.isna(end_date) else end_date
+
 EOY_dates = pd.date_range(start=start_date, end=end_date, freq='A-DEC') # 'A-DEC' for each December 31st
-today = pd.DataFrame({'date': [pd.Timestamp(datetime.now())]})
 
 historical_points = pd.DataFrame({'date': EOY_dates})
 historical_points = pd.concat([historical_points, today], ignore_index=True)
