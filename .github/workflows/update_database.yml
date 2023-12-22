@@ -53,16 +53,20 @@ jobs:
       - name: Run update script
         if: steps.check-db.outputs.update_ok == 'true'
         run: python scripts/db_update.py
-
+        
       - name: Commit changes
         if: steps.check-db.outputs.update_ok == 'true'
         run: |
           git config --global user.email "c.bravo2@yahoo.fr"
           git config --global user.name "16bravo"
-          git add data/BravoRanking.db
-          git commit -m "Database Update"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push
+          if git diff --quiet data/BravoRanking.db; then
+            echo "No changes in BravoRanking.json. Skipping commit."
+          else
+            git add data/BravoRanking.db
+            git commit -m "Database Update"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
