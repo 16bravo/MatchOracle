@@ -57,11 +57,15 @@ jobs:
         if: steps.check-db.outputs.init_required == 'true'
         run: |
           git config --global user.email "c.bravo2@yahoo.fr"
-          git config --global user.name "16bravo"
-          git add data/BravoRanking.db
-          git commit -m "Database Creation"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push
+            git config --global user.name "16bravo"
+            if git diff --quiet data/BravoRanking.db; then
+              echo "No changes in BravoRanking.db. Skipping commit."
+            else
+              git add data/BravoRanking.db
+              git commit -m "Database Creation"
+              git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+              git push
+            fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
