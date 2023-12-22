@@ -39,10 +39,13 @@ jobs:
         run: |
             git config --global user.email "c.bravo2@yahoo.fr"
             git config --global user.name "16bravo"
-            git add data/LastMonthRanking.json
-            git commit -m "Update LastMonthRanking.json"
-            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-            git push
+            if git diff --quiet data/LastMonthRanking.json; then
+              echo "No changes in LastMonthRanking.json. Skipping commit."
+            else
+              git add data/LastMonthRanking.json
+              git commit -m "Update LastMonthRanking.json"
+              git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+              git push
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
