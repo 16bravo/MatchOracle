@@ -46,6 +46,7 @@ jobs:
               git commit -m "Update LastMonthRanking.json"
               git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
               git push
+            fi
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
