@@ -17,7 +17,7 @@
 <div class="container mt-5">
   <h1 class="mb-4">Bravo!Ranking</h1>
   
-  <table class="table table-striped">
+  <table class="table table-striped" id="myTable">
     <thead class="thead-dark">
       <tr>
         <th>#</th>
@@ -62,22 +62,28 @@
       tableBody.appendChild(row);
     });
 
-        // Activer DataTables sur le tableau avec Select
-        const dataTable = $('#myTable').DataTable({
+    // Activer DataTables sur le tableau avec Select
+    const dataTable = $('#myTable').DataTable({
       select: true  // Activer la fonctionnalité Select
     });
 
-    // Ajouter un menu déroulant pour la colonne "Confédération"
-    const confederationFilter = $('<select class="form-control"><option value="">Filtrer par confédération</option></select>')
-      .appendTo('#myTable_filter')
-      .on('change', function () {
-        const selectedValue = $(this).val();
-        dataTable.column(4).search(selectedValue).draw();
-      });
+    // Attendre que DataTables soit entièrement initialisé
+    $(document).on('init.dt', function (e, settings) {
+      // Accéder à la DataTable instance à partir des paramètres
+      var dataTable = settings.oInstance;
 
-    // Remplir le menu déroulant avec les valeurs uniques de la colonne "Confédération"
-    dataTable.column(4).data().unique().sort().each(function (value, index) {
-      confederationFilter.append(`<option value="${value}">${value}</option>`);
+      // Ajouter un menu déroulant pour la colonne "Confédération"
+      const confederationFilter = $('<select class="form-control"><option value="">Filtrer par confédération</option></select>')
+        .appendTo('#myTable_filter')
+        .on('change', function () {
+          const selectedValue = $(this).val();
+          dataTable.column(4).search(selectedValue).draw();
+        });
+
+      // Remplir le menu déroulant avec les valeurs uniques de la colonne "Confédération"
+      dataTable.column(4).data().unique().sort().each(function (value, index) {
+        confederationFilter.append(`<option value="${value}">${value}</option>`);
+      });
     });
   });
 </script>
