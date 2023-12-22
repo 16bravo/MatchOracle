@@ -8,6 +8,7 @@
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/dataTables.bootstrap4.min.css">
   <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
   <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/select/1.3.3/js/dataTables.select.min.js"></script>
   <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/dataTables.bootstrap4.min.js"></script>
   <title>Bravo!Ranking</title>
 </head>
@@ -61,8 +62,23 @@
       tableBody.appendChild(row);
     });
 
-    // Activer DataTables sur le tableau
-    $('#myTable').DataTable();
+        // Activer DataTables sur le tableau avec Select
+        const dataTable = $('#myTable').DataTable({
+      select: true  // Activer la fonctionnalité Select
+    });
+
+    // Ajouter un menu déroulant pour la colonne "Confédération"
+    const confederationFilter = $('<select class="form-control"><option value="">Filtrer par confédération</option></select>')
+      .appendTo('#myTable_filter')
+      .on('change', function () {
+        const selectedValue = $(this).val();
+        dataTable.column(4).search(selectedValue).draw();
+      });
+
+    // Remplir le menu déroulant avec les valeurs uniques de la colonne "Confédération"
+    dataTable.column(4).data().unique().sort().each(function (value, index) {
+      confederationFilter.append(`<option value="${value}">${value}</option>`);
+    });
   });
 </script>
 
