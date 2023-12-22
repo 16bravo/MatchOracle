@@ -110,9 +110,9 @@ for index, match in  tqdm(matches.iterrows(), total=len(matches), desc="Calculat
     matches.at[index, 'match_home_points'] = match_home_points
     matches.at[index, 'match_away_points'] = match_away_points
     
-    # Update the points in the 'teams' DataFrame with the average over the last 12 months
+    # Update the points in the 'teams' DataFrame with the average over the last 4 years
     for team in [home_team, away_team]:
-        team_matches = matches[((matches['home_team'] == team) | (matches['away_team'] == team)) & (matches['date'] <= match['date']) & (matches['date'] > match['date']- relativedelta(years=1))]
+        team_matches = matches[((matches['home_team'] == team) | (matches['away_team'] == team)) & ((matches['date'] <= match['date']) & (matches['date'] > match['date']- relativedelta(years=4)))]
         
         team_matches.loc[:, 'match_team_points'] = team_matches.apply(lambda row: row['match_home_points'] if row['home_team'] == team else row['match_away_points'], axis=1)
 
