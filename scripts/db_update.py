@@ -26,7 +26,7 @@ matches['match_id'] = range(1, len(matches) + 1)
 # Match validity filter
 # Load data from CSV files
 # matches generated with Kaggle API
-teams_db = pd.read_excel('teams_db.xlsx')  # Assurez-vous que le fichier est au format Excel
+teams_db = pd.read_excel('data/teams_db.xlsx')  # Assurez-vous que le fichier est au format Excel
 
 # Merge DataFrames on home_team and away_team columns
 merged_df = pd.merge(matches, teams_db[['team', 'tricode']], how='inner', left_on='home_team', right_on='team')
@@ -63,7 +63,7 @@ teams = pd.DataFrame(columns=['team', 'points'])
 if result[0] == 0:
     last_date = datetime(1872, 1, 1)
     # Load the DataFrame from the Excel file
-    teams_db = pd.read_excel("teams_db.xlsx")
+    teams_db = pd.read_excel("data/teams_db.xlsx")
     teams['team'] = teams_db['team']
     teams['points'] = teams_db['base']
     
@@ -140,9 +140,10 @@ start_date = matches['date'].min()
 end_date = matches['date'].max()
 
 EOY_dates = pd.date_range(start=start_date, end=end_date, freq='A-DEC') # 'A-DEC' for each December 31st
+today = pd.DataFrame({'date': [pd.Timestamp(datetime.now())]})
 
 historical_points = pd.DataFrame({'date': EOY_dates})
-historical_points = historical_points.append({'date': pd.Timestamp(datetime.now())}, ignore_index=True)
+historical_points = pd.concat([historical_points, today], ignore_index=True)
 historical_points = pd.concat([historical_points, pd.DataFrame(columns=teams['team'].unique())], axis=1)
 
 for index, row in tqdm(historical_points.iterrows(), total=len(historical_points), desc="Calculating Historical Points"):
