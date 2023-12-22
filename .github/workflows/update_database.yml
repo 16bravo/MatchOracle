@@ -51,11 +51,11 @@ jobs:
           KAGGLE_JSON: ${{ secrets.KAGGLE_JSON }}
 
       - name: Run update script
-        if: steps.check-db.outputs.init_required == 'true'
+        if: steps.check-db.outputs.update_ok == 'true'
         run: python scripts/db_update.py
 
       - name: Commit changes
-        if: steps.check-db.outputs.init_required == 'true'
+        if: steps.check-db.outputs.update_ok == 'true'
         run: |
           git config --global user.email "c.bravo2@yahoo.fr"
           git config --global user.name "16bravo"
