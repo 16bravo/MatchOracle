@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <!-- Ajoutez la référence au thème Bootstrap -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/dataTables.bootstrap4.min.css">
   <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.5.1.js"></script>
@@ -16,7 +15,11 @@
 
 <div class="container mt-5">
   <h1 class="mb-4">Bravo!Ranking</h1>
-  
+
+  <label for="yearSelect">Year:</label>
+  <select id="yearSelect" class="form-control">
+  </select>
+
   <table class="table table-striped" id="myTable">
     <thead class="thead-dark">
       <tr>
@@ -28,28 +31,46 @@
       </tr>
     </thead>
     <tbody id="table-body">
-      <!-- Les données du JSON seront insérées ici -->
+      <!-- JSON data will be inserted here -->
     </tbody>
   </table>
 </div>
 
 <script>
-  // Chemin vers le fichier JSON
-  const jsonFilePath = 'data/LastMonthRanking.json';
+  document.addEventListener('DOMContentLoaded', function () {
+    const yearSelect = document.getElementById('yearSelect');
+    const currentYear = new Date().getFullYear();
 
-  // Fonction pour charger le fichier JSON
-  async function loadJSON() {
-    const response = await fetch(jsonFilePath);
+    // Add an option for the current year (Last)
+    const lastOption = document.createElement('option');
+    lastOption.value = 'last';
+    lastOption.textContent = 'Last';
+    yearSelect.appendChild(lastOption);
+
+    // Add options for years from 1872 to current year
+    for (let year = currentYear; year >= 1872; year--) {
+      const option = document.createElement('option');
+      option.value = year.toString();
+      option.textContent = year.toString();
+      yearSelect.appendChild(option);
+    }
+
+  // Default JSON file path
+  let jsonFilePath = 'data/json/LastRankings.json';
+
+  // Function to load the JSON file
+  async function loadJSON(filePath) {
+    const response = await fetch(filePath);
     const jsonData = await response.json();
     return jsonData;
   }
 
-  // Référence vers le corps du tableau
+  // Reference to table body
   const tableBody = document.getElementById('table-body');
 
-  // Chargement du JSON et construction du tableau avec DataTables
-  loadJSON().then(jsonData => {
-    // Boucle à travers les données JSON et construit les lignes du tableau
+  // Initial JSON loading
+  loadJSON(jsonFilePath).then(jsonData => {
+    // Loops through JSON data and constructs array rows
     jsonData.forEach(item => {
       const row = document.createElement('tr');
       row.innerHTML = `
@@ -62,30 +83,38 @@
       tableBody.appendChild(row);
     });
 
-    // Activer DataTables sur le tableau avec Select
+    // Activate DataTables on the array with Select
     const dataTable = $('#myTable').DataTable({
-      select: true  // Activer la fonctionnalité Select
+      select: true  // Activate Select functionality
     });
 
-    // Attendre que DataTables soit entièrement initialisé
-    $(document).on('init.dt', function (e, settings) {
-      // Accéder à la DataTable instance à partir des paramètres
-      var dataTable = settings.oInstance;
+    // Add an event manager to change the year
+    yearSelect.addEventListener('change', function () {
+      const selectedYear = this.value;
+      if (selectedYear === 'last') {
+        jsonFilePath = 'data/json/LastRankings.json';
+      } else {
+        jsonFilePath = `data/json/${selectedYear}Rankings.json`;
+      }
 
-      // Ajouter un menu déroulant pour la colonne "Confédération"
-      const confederationFilter = $('<select class="form-control"><option value="">Filtrer par confédération</option></select>')
-        .appendTo('#myTable_filter')
-        .on('change', function () {
-          const selectedValue = $(this).val();
-          dataTable.column(4).search(selectedValue).draw();
+      // Empty existing table
+      dataTable.clear().draw();
+
+      // Load the new JSON and update the table
+      loadJSON(jsonFilePath).then(newJsonData => {
+        newJsonData.forEach(newItem => {
+          const newRow = dataTable.row.add([
+            newItem.ranking,
+            `<img src="img/${newItem.flag}" alt="${newItem.team}" width="30">`,
+            newItem.team,
+            newItem.points,
+            newItem.confederation
+          ]).draw(false).node();
         });
-
-      // Remplir le menu déroulant avec les valeurs uniques de la colonne "Confédération"
-      dataTable.column(4).data().unique().sort().each(function (value, index) {
-        confederationFilter.append(`<option value="${value}">${value}</option>`);
       });
     });
   });
+});
 </script>
 
 </body>

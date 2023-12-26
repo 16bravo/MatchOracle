@@ -136,6 +136,7 @@ teams = teams.sort_values(by='points', ascending=False)
 # Add a new "ranking" column based on the sorted index
 teams['ranking'] = range(1, len(teams) + 1)
 
+
 ## GET POINTS YEAR BY YEAR AND TODAY
 
 today_date = pd.Timestamp(datetime.now())
@@ -150,7 +151,10 @@ end_date = today_date if pd.isna(end_date) else end_date
 EOY_dates = pd.date_range(start=start_date, end=end_date, freq='A-DEC') # 'A-DEC' for each December 31st
 
 historical_points = pd.DataFrame({'date': EOY_dates})
-historical_points = pd.concat([historical_points, today], ignore_index=True)
+
+if datetime.now().month != 12 and datetime.now().day != 31:
+    historical_points = pd.concat([historical_points, today], ignore_index=True)
+
 historical_points = pd.concat([historical_points, pd.DataFrame(columns=teams['team'].unique())], axis=1)
 
 for index, row in tqdm(historical_points.iterrows(), total=len(historical_points), desc="Calculating Historical Points"):
