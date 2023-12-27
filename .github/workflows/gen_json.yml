@@ -2,12 +2,12 @@ name: JSON Generation
 
 on:
   workflow_run:
-    workflows: ["DB Update"]
+    workflows: ["DB Update","DB Update Monthly"]
     types:
       - completed
 
 jobs:
-  init_db:
+  json_gen:
     runs-on: ubuntu-latest
 
     steps:
