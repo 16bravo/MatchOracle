@@ -48,7 +48,7 @@
     yearSelect.appendChild(lastOption);
 
     // Add options for years from 1872 to current year
-    for (let year = currentYear; year >= 1872; year--) {
+    for (let year = currentYear-1; year >= 1872; year--) {
       const option = document.createElement('option');
       option.value = year.toString();
       option.textContent = year.toString();
