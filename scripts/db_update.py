@@ -43,10 +43,8 @@ matches = matches.sort_values(by='match_id', ascending=True)
 
 matches['home_points_before'] = None
 matches['away_points_before'] = None
-matches['match_level'] = None
+matches['expected_result'] = None
 matches['calculated_result'] = None
-matches['match_home_points'] = None
-matches['match_away_points'] = None
 matches['home_points_after'] = None
 matches['away_points_after'] = None
 
@@ -102,40 +100,36 @@ for index, match in  tqdm(matches.iterrows(), total=len(matches), desc="Calculat
     points_away_team = teams.loc[teams['team'] == away_team, 'points'].values[0]
 
     # Point calculations
-    calculated_result = ((1/(1+math.exp(-1*(home_score-away_score)/5))-0.5)*21-int(not match['neutral']))*200
+    if match['tournament'] == "FIFA World Cup":
+        match_coef = 60
+    elif match['tournament'] == "Friendly":
+        match_coef = 20
+    else:
+        match_coef = 40
 
-    match_level = teams.loc[teams['team'] == home_team, 'points'].values[0]*0.5+teams.loc[teams['team'] == away_team, 'points'].values[0]*0.5
+    expected_result = ((1/(1+math.exp(-1*(points_home_team-points_away_team)/850))-0.5)*33-1.25*int(not match['neutral']))/6.5
+    calculated_result = ((1/(1+math.exp(-1*(home_score-away_score)/5))-0.5)*21-int(not match['neutral']))/3
 
-    match_home_points = match_level + calculated_result
-    match_away_points = match_level - calculated_result
-    
-    matches.at[index, 'match_home_points'] = match_home_points
-    matches.at[index, 'match_away_points'] = match_away_points
-    
-    # Update the points in the 'teams' DataFrame with the average over the last 4 years
-    for team in [home_team, away_team]:
-        team_matches = matches[((matches['home_team'] == team) | (matches['away_team'] == team)) & ((matches['date'] <= match['date']) & (matches['date'] > match['date']- relativedelta(years=4)))]
+    home_points_after = points_home_team + (calculated_result-expected_result) * match_coef
+    away_points_after = points_away_team - (calculated_result-expected_result) * match_coef
+
+    teams.loc[teams['team'] == home_team, 'points'] = home_points_after
+    teams.loc[teams['team'] == away_team, 'points'] = away_points_after
         
-        team_matches.loc[:, 'match_team_points'] = team_matches.apply(lambda row: row['match_home_points'] if row['home_team'] == team else row['match_away_points'], axis=1)
-
-        team_avg_points = team_matches['match_team_points'].mean()
-        
-        # Update the value in the 'teams' DataFrame
-        teams.loc[teams['team'] == team, 'points'] = team_avg_points
-    
     matches.at[index, 'home_points_before'] = points_home_team
     matches.at[index, 'away_points_before'] = points_away_team
-    matches.at[index, 'match_level'] = match_level
+    matches.at[index, 'expected_result'] = expected_result
     matches.at[index, 'calculated_result'] = calculated_result
-    matches.at[index, 'home_points_after'] = teams.loc[teams['team'] == home_team, 'points'].values[0]
-    matches.at[index, 'away_points_after'] = teams.loc[teams['team'] == away_team, 'points'].values[0]
+    matches.at[index, 'home_points_after'] = home_points_after
+    matches.at[index, 'away_points_after'] = away_points_after
 
-# Sort the "teams" DataFrame by points in descending order
+
 teams = teams.sort_values(by='points', ascending=False)
 
-# Add a new "ranking" column based on the sorted index
 teams['ranking'] = range(1, len(teams) + 1)
 
+#matches.to_excel('matches.xlsx', index=False)
+#sys.exit()
 
 ## GET POINTS YEAR BY YEAR AND TODAY
 
@@ -152,7 +146,7 @@ EOY_dates = pd.date_range(start=start_date, end=end_date, freq='A-DEC') # 'A-DEC
 
 historical_points = pd.DataFrame({'date': EOY_dates})
 
-if datetime.now().month != 12 and datetime.now().day != 31:
+if not (datetime.now().month == 12 and datetime.now().day == 31):
     historical_points = pd.concat([historical_points, today], ignore_index=True)
 
 historical_points = pd.concat([historical_points, pd.DataFrame(columns=teams['team'].unique())], axis=1)
