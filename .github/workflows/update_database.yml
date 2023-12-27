@@ -7,7 +7,7 @@ on:
       - completed
 
 jobs:
-  init_db:
+  update_db_manually:
     runs-on: ubuntu-latest
 
     steps:

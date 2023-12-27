@@ -2,10 +2,10 @@ name: DB Update Monthly
 
 on:
   schedule:
-    - cron: '0 0 27 * *'
+    - cron: '0 0 28 * *'
 
 jobs:
-  init_db:
+  monthly_update:
     runs-on: ubuntu-latest
 
     steps:
