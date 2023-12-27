@@ -22,7 +22,7 @@ for year in years:
                     LEFT JOIN Teams t ON (r.team = t.team)
                     WHERE year = ? - 1 AND month = 12 AND day = 31
                    )
-                    SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation, (p.ranking - r.ranking) AS ranking_change, (p.points - r.points) AS points_change
+                    SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation, (p.ranking - r.ranking) AS ranking_change, (r.points - p.points) AS points_change
                     FROM Rankings r
                     LEFT JOIN Teams t ON (r.team = t.team)
                     LEFT JOIN previous_year p ON (r.team = p.team)
@@ -60,7 +60,7 @@ cursor.execute('''
                     LEFT JOIN Teams t ON (r.team = t.team)
                     WHERE year = (SELECT year FROM max_date) - 1 AND month = 12 AND day = 31
                    )
-                SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation, (p.ranking - r.ranking) AS ranking_change, (p.points - r.points) AS points_change
+                SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation, (p.ranking - r.ranking) AS ranking_change, (r.points - p.points) AS points_change
                 FROM Rankings r
                 LEFT JOIN previous_year p ON (r.team = p.team)
                 LEFT JOIN Teams t ON (r.team = t.team)
