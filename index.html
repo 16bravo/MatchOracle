@@ -112,7 +112,9 @@
           newJsonData.forEach(newItem => {
             const newRow = dataTable.row.add([
               newItem.ranking,
-              newItem.ranking_change,
+              `<td data-toggle="tooltip" title="${newItem.ranking_change >= 0 ? '+' : ''}${newItem.ranking_change}">
+              ${newItem.ranking_change !== 0 ? `<i class="${newItem.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${newItem.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color: gray;"></i>'}
+              </td>`,
               `<img src="img/${newItem.flag}" alt="${newItem.team}" width="30">`,
               newItem.team,
               newItem.points,
