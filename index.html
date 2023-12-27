@@ -77,7 +77,7 @@
       jsonData.forEach(item => {
         const row = document.createElement('tr');
         row.innerHTML = `
-        <td>${item.ranking}</td>
+          <td>${item.ranking}</td>
           <td data-toggle="tooltip" title="${item.ranking_change >= 0 ? '+' : ''}${item.ranking_change}">
             ${item.ranking_change !== 0 ? `<i class="${item.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${item.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
           </td>
@@ -111,6 +111,7 @@
         loadJSON(jsonFilePath).then(newJsonData => {
           newJsonData.forEach(newItem => {
             const newRow = dataTable.row.add([
+              newItem.ranking,
               newItem.ranking_change,
               `<img src="img/${newItem.flag}" alt="${newItem.team}" width="30">`,
               newItem.team,
