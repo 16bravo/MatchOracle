@@ -16,11 +16,18 @@ for year in years:
 
     # Execute SQL query to select data for current year
     cursor.execute('''
-                    SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation
+                   WITH previous_year AS (
+                    SELECT r.ranking, r.team, r.points
                     FROM Rankings r
                     LEFT JOIN Teams t ON (r.team = t.team)
+                    WHERE year = ? - 1 AND month = 12 AND day = 31
+                   )
+                    SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation, (p.ranking - r.ranking) AS ranking_change, (p.points - r.points) AS points_change
+                    FROM Rankings r
+                    LEFT JOIN Teams t ON (r.team = t.team)
+                    LEFT JOIN previous_year p ON (r.team = p.team)
                     WHERE year = ? AND month = 12 AND day = 31
-                   ''', (year,))
+                   ''', (year,year))
 
     # Data recovery
     rows = cursor.fetchall()
@@ -44,8 +51,18 @@ for year in years:
 # Generate last date file
 # Execute SQL query to select all table rows
 cursor.execute('''
-                SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation
+                WITH max_date AS (
+                    SELECT MAX(date) as max_date, strftime('%Y', MAX(date)) AS year FROM Rankings
+                ),
+               previous_year AS (
+                    SELECT r.ranking, r.team, r.points
+                    FROM Rankings r
+                    LEFT JOIN Teams t ON (r.team = t.team)
+                    WHERE year = (SELECT year FROM max_date) - 1 AND month = 12 AND day = 31
+                   )
+                SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation, (p.ranking - r.ranking) AS ranking_change, (p.points - r.points) AS points_change
                 FROM Rankings r
+                LEFT JOIN previous_year p ON (r.team = p.team)
                 LEFT JOIN Teams t ON (r.team = t.team)
                 WHERE date = (SELECT MAX(date) FROM Rankings)
                '''
