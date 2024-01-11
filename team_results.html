@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <title>Team Results</title>
+</head>
+<body class="bg-light">
+
+  <div class="container mt-5">
+    <h1 class="mb-4">Team Results</h1>
+
+    <table class="table table-striped" id="teamResultsTable">
+      <thead class="thead-dark">
+        <tr>
+          <th>Date</th>
+          <th>Home Team</th>
+          <th>Home Score</th>
+          <th>Away Score</th>
+          <th>Away Team</th>
+          <th>Home Points</th>
+          <th></th>
+          <th>Away Points</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="team-results-body">
+        <!-- Results will be inserted here -->
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Extract team name from the URL
+      const teamName = decodeURIComponent(new URLSearchParams(window.location.search).get('team'));
+
+      // Default JSON file path for team results (adjust as needed)
+      const jsonFilePath = `data/json/matches/${teamName}.json`;
+
+      // Function to load team results JSON file
+      async function loadTeamResultsJSON(filePath) {
+        const response = await fetch(filePath);
+        const jsonData = await response.json();
+        return jsonData;
+      }
+
+      // Reference to team results table body
+      const teamResultsBody = document.getElementById('team-results-body');
+
+      // Initial JSON loading
+      loadTeamResultsJSON(jsonFilePath).then(teamResultsData => {
+        // Loop through team results data and construct table rows
+        teamResultsData.forEach(result => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${result.date}</td>
+            <td>${result.team1}</td>
+            <td>${result.score1}</td>
+            <td>${result.score2}</td>
+            <td>${result.team2}</td>
+            <td>${result.rating1}</td>
+            <td>${result.rating_ev1}</td>
+            <td>${result.rating2}</td>
+            <td>${result.rating_ev2}</td>
+          `;
+          teamResultsBody.appendChild(row);
+        });
+      });
+    });
+  </script>
+</body>
+</html>

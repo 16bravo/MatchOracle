@@ -34,6 +34,21 @@ cursor.execute('''
     );
 ''')
 
+cursor.execute('''
+    CREATE TABLE IF NOT EXISTS Matches (
+        match_id INTEGER PRIMARY KEY AUTOINCREMENT,
+        date DATE NOT NULL,
+        team1 VARCHAR(50) NOT NULL,
+        team2 VARCHAR(50) NOT NULL,
+        score1 INTEGER NOT NULL,
+        score2 INTEGER NOT NULL,
+        rating1 INTEGER NOT NULL,
+        rating2 INTEGER NOT NULL,
+        rating_ev1 INTEGER NOT NULL,
+        rating_ev2 INTEGER NOT NULL       
+    );
+''')
+
 
 # Load Teams data from Excel to Table
 excel_file_path = 'data/teams_db.xlsx'
