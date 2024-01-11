@@ -15,10 +15,8 @@
       <thead class="thead-dark">
         <tr>
           <th>Date</th>
-          <th>Home Team</th>
-          <th>Home Score</th>
-          <th>Away Score</th>
-          <th>Away Team</th>
+          <th>Match</th>
+          <th>Score</th>
           <th>Home Points</th>
           <th></th>
           <th>Away Points</th>
@@ -60,7 +58,10 @@
             <td>${match.date}</td>
             <td>${match.team1} vs ${match.team2}</td>
             <td>${match.score1} - ${match.score2}</td>
-            <td>${match.rating1} - ${match.rating2}</td>
+            <td>${Math.round(match.rating1)}</td>
+            <td>${Math.round(match.rating_ev1)}</td>
+            <td>${Math.round(match.rating2)}</td>
+            <td>${Math.round(match.rating_ev2)}</td>
           `;
           teamResultsBody.appendChild(row);
         });
