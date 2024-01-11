@@ -129,6 +129,7 @@ teams = teams.sort_values(by='points', ascending=False)
 teams['ranking'] = range(1, len(teams) + 1)
 
 #matches.to_excel('matches.xlsx', index=False)
+
 #sys.exit()
 
 ## GET POINTS YEAR BY YEAR AND TODAY
@@ -195,9 +196,20 @@ ranking_df['ranking'] = ranking_df['ranking'].astype(int)
 
 ranking_df = ranking_df[['date', 'year', 'month', 'day', 'team', 'points', 'ranking']]
 
+
 ## DATABASE INSERTION
 conn = sqlite3.connect(database_path)
 cursor = conn.cursor()
+
+# Insert matches data into SQLite table
+matches['date'] = matches['date'].dt.strftime('%Y-%m-%d')
+for index, row in matches.iterrows():
+    cursor.execute('''
+        INSERT INTO matches (date, team1, team2, score1, score2, rating1, rating2, rating_ev1, rating_ev2)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+    ''', (row['date'], row['home_team'], row['away_team'], row['home_score'], row['away_score'],
+          row['home_points_after'], row['away_points_after'],
+          row['home_points_after'] - row['home_points_before'], row['away_points_after'] - row['away_points_before']))
 
 ranking_df.to_sql('Rankings', conn, index=False, if_exists='append')  # Utilisez 'replace' ou 'append' selon votre besoin
 

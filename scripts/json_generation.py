@@ -7,6 +7,43 @@ database_path = "data/BravoRanking.db"
 connection = sqlite3.connect(database_path)
 cursor = connection.cursor()
 
+
+# MATCHES RESULT BY TEAMS
+cursor.execute('SELECT DISTINCT team1 FROM matches UNION SELECT DISTINCT team2 FROM matches')
+teams = [row[0] for row in cursor.fetchall()]
+
+for team in teams:
+    # Sélectionner les matches pour le pays donné
+    cursor.execute('''
+        SELECT date, team1, team2, score1, score2, rating1, rating2, rating_ev1, rating_ev2
+        FROM matches
+        WHERE team1 = ? OR team2 = ?
+    ''', (team, team))
+
+    matches_data = cursor.fetchall()
+
+    json_data = {
+    'team': team,
+    'matches': [{
+        'date': date,
+        'team1': team1,
+        'team2': team2,
+        'score1': score1,
+        'score2': score2,
+        'rating1': rating1,
+        'rating2': rating2,
+        'rating_ev1': rating_ev1,
+        'rating_ev2': rating_ev2,
+    } for date, team1, team2, score1, score2, rating1, rating2, rating_ev1, rating_ev2 in matches_data]
+    }
+
+    output_file_path = Path(f"data/json/matches/{team}.json")
+    
+    with open(output_file_path, 'w', encoding="utf-8") as json_file:
+        json.dump(json_data, json_file, indent=2)
+
+
+# YEARLY RANKINGS
 # Execute SQL query to obtain list of current years
 cursor.execute("SELECT DISTINCT year FROM Rankings")
 years = cursor.fetchall()
