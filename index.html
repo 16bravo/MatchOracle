@@ -114,7 +114,7 @@
         // Add click event to team cells
         const teamCell = row.querySelector('.team-cell');
         teamCell.addEventListener('click', function () {
-          const teamName = this.getAttribute('data-team');
+          const teamName = this.innerHTML;
           handleTeamClick(teamName);
         });
       });
