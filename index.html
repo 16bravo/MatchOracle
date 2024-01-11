@@ -11,6 +11,12 @@
   <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/select/1.3.3/js/dataTables.select.min.js"></script>
   <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/dataTables.bootstrap4.min.js"></script>
   <title>Bravo!Ranking</title>
+  <style>
+    .team-cell {
+      color: rgb(0, 50, 100);
+      cursor: pointer;
+    }
+  </style>
 </head>
 <body class="bg-light">
 
@@ -84,7 +90,7 @@
     // Function to handle team click
     function handleTeamClick(teamName) {
         // Navigate to a new page with team results (you can customize this URL)
-        window.location.href = `${baseUrl}/team-results.html?team=${encodeURIComponent(teamName)}`;
+        window.location.href = `${baseUrl}/team_results.html?team=${encodeURIComponent(teamName)}`;
     }
 
     // Initial JSON loading

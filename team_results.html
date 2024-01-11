@@ -51,19 +51,16 @@
 
       // Initial JSON loading
       loadTeamResultsJSON(jsonFilePath).then(teamResultsData => {
+        console.log('Team Results Data:', teamResultsData);
+        const matchesArray = teamResultsData.matches || [];
         // Loop through team results data and construct table rows
-        teamResultsData.forEach(result => {
+        matchesArray.forEach(match => {
           const row = document.createElement('tr');
           row.innerHTML = `
-            <td>${result.date}</td>
-            <td>${result.team1}</td>
-            <td>${result.score1}</td>
-            <td>${result.score2}</td>
-            <td>${result.team2}</td>
-            <td>${result.rating1}</td>
-            <td>${result.rating_ev1}</td>
-            <td>${result.rating2}</td>
-            <td>${result.rating_ev2}</td>
+            <td>${match.date}</td>
+            <td>${match.team1} vs ${match.team2}</td>
+            <td>${match.score1} - ${match.score2}</td>
+            <td>${match.rating1} - ${match.rating2}</td>
           `;
           teamResultsBody.appendChild(row);
         });
