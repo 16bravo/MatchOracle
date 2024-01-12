@@ -38,14 +38,16 @@ cursor.execute('''
     CREATE TABLE IF NOT EXISTS Matches (
         match_id INTEGER PRIMARY KEY AUTOINCREMENT,
         date DATE NOT NULL,
+        city VARCHAR(50) NULL,
+        country VARCHAR(50) NULL,
+        tournament VARCHAR(60) NULL,
         team1 VARCHAR(50) NOT NULL,
         team2 VARCHAR(50) NOT NULL,
         score1 INTEGER NOT NULL,
         score2 INTEGER NOT NULL,
         rating1 INTEGER NOT NULL,
         rating2 INTEGER NOT NULL,
-        rating_ev1 INTEGER NOT NULL,
-        rating_ev2 INTEGER NOT NULL       
+        rating_ev INTEGER NOT NULL       
     );
 ''')
 

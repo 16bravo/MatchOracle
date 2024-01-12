@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <title>Team Results</title>
+  <style>
+    .match {
+      text-align : center ;
+    }
+  </style>
 </head>
 <body class="bg-light">
 
@@ -15,12 +20,13 @@
       <thead class="thead-dark">
         <tr>
           <th>Date</th>
+          <th>Location</th>
+          <th>Team 1 Level</th>
           <th>Match</th>
           <th>Score</th>
-          <th>Home Points</th>
+          <th>Team 2 Level</th>
           <th></th>
-          <th>Away Points</th>
-          <th></th>
+          <th>Evolution</th>
         </tr>
       </thead>
       <tbody id="team-results-body">
@@ -56,12 +62,13 @@
           const row = document.createElement('tr');
           row.innerHTML = `
             <td>${match.date}</td>
-            <td>${match.team1} vs ${match.team2}</td>
-            <td>${match.score1} - ${match.score2}</td>
+            <td>${match.city} (${match.country})</td>
+            <td>${match.tournament}</td>
             <td>${Math.round(match.rating1)}</td>
-            <td>${Math.round(match.rating_ev1)}</td>
+            <td>${match.team1} vs ${match.team2}</td>
+            <td class="match">${match.score1} - ${match.score2}</td>
             <td>${Math.round(match.rating2)}</td>
-            <td>${Math.round(match.rating_ev2)}</td>
+            <td>${Math.round(match.rating_ev)}</td>
           `;
           teamResultsBody.appendChild(row);
         });
