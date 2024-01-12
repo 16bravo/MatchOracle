@@ -12,7 +12,8 @@
   <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/dataTables.bootstrap4.min.js"></script>
   <title>Bravo!Ranking</title>
   <style>
-    .team-cell {
+     a {
+      text-decoration: none;
       color: rgb(0, 50, 100);
       cursor: pointer;
     }
@@ -104,7 +105,7 @@
             ${item.ranking_change !== 0 ? `<i class="${item.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${item.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
           </td>
           <td><img src="img/${item.flag}" alt="${item.team}" width="30"></td>
-          <td class="team-cell">${item.team}</td>
+          <td class="team-cell"><a href=""https://16bravo.github.io/BravoRanking/team_results.html?team=${item.team}">${item.team}</a></td>
           <td>${item.points}</td>
           <td>${item.points_change}</td>
           <td>${item.confederation}</td>
@@ -142,10 +143,10 @@
             const newRow = dataTable.row.add([
               newItem.ranking,
               `<td data-toggle="tooltip" title="${newItem.ranking_change >= 0 ? '+' : ''}${newItem.ranking_change}">
-              ${newItem.ranking_change !== 0 ? `<i class="${newItem.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${newItem.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color: gray;"></i>'}
+                ${newItem.ranking_change !== 0 ? `<i class="${newItem.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${newItem.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
               </td>`,
               `<img src="img/${newItem.flag}" alt="${newItem.team}" width="30">`,
-              newItem.team,
+              `<a href=""https://16bravo.github.io/BravoRanking/team_results.html?team=${newItem.team}"> ${newItem.team} </a>`,
               newItem.points,
               newItem.points_change,
               newItem.confederation
