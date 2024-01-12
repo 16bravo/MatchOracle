@@ -9,6 +9,12 @@
     .match {
       text-align : center ;
     }
+
+    a {
+      text-decoration: none;
+      color: rgb(0, 50, 100);
+      cursor: pointer;
+    }
   </style>
 </head>
 <body class="bg-light">
@@ -21,11 +27,11 @@
         <tr>
           <th>Date</th>
           <th>Location</th>
+          <th>Tournament</th>
           <th>Team 1 Level</th>
           <th>Match</th>
           <th>Score</th>
           <th>Team 2 Level</th>
-          <th></th>
           <th>Evolution</th>
         </tr>
       </thead>
@@ -65,7 +71,7 @@
             <td>${match.city} (${match.country})</td>
             <td>${match.tournament}</td>
             <td>${Math.round(match.rating1)}</td>
-            <td>${match.team1} vs ${match.team2}</td>
+            <td class="match"><a href="https://16bravo.github.io/BravoRanking/team_results.html?team=${match.team1}">${match.team1}</a> vs <a href="https://16bravo.github.io/BravoRanking/team_results.html?team=${match.team2}">${match.team2}</a></td>
             <td class="match">${match.score1} - ${match.score2}</td>
             <td>${Math.round(match.rating2)}</td>
             <td>${Math.round(match.rating_ev)}</td>
