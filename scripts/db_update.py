@@ -14,7 +14,7 @@ import sqlite3
 
 # Download data set
 # https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/?select=results.csv
-dataset = "martj42/international-football-results-from-1872-to-2017"
+dataset = "patateriedata/all-international-football-results"
 sys.argv = [sys.argv[0]] + f"datasets download {dataset}".split(" ")
 kaggle.cli.main()
 
@@ -205,9 +205,9 @@ cursor = conn.cursor()
 matches['date'] = matches['date'].dt.strftime('%Y-%m-%d')
 for index, row in matches.iterrows():
     cursor.execute('''
-        INSERT INTO matches (date, city, country, tournament, team1, team2, score1, score2, rating1, rating2, rating_ev)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    ''', (row['date'], row['city'], row['country'], row['tournament'], row['home_team'], row['away_team'], row['home_score'], row['away_score'],
+        INSERT INTO matches (date, country, tournament, team1, team2, score1, score2, rating1, rating2, rating_ev)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    ''', (row['date'] row['country'], row['tournament'], row['home_team'], row['away_team'], row['home_score'], row['away_score'],
           row['home_points_after'], row['away_points_after'],
           row['home_points_after'] - row['home_points_before']))
 
