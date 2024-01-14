@@ -13,14 +13,14 @@ import sqlite3
 ## EXTRACT DATA FROM KAGGLE AND EXCEL
 
 # Download data set
-# https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/?select=results.csv
+# https://www.kaggle.com/datasets/patateriedata/all-international-football-results
 dataset = "patateriedata/all-international-football-results"
 sys.argv = [sys.argv[0]] + f"datasets download {dataset}".split(" ")
 kaggle.cli.main()
 
 zfile = ZipFile(f"{dataset.split('/')[1]}.zip")
 
-matches = {f.filename:pd.read_csv(zfile.open(f)) for f in zfile.infolist() }["results.csv"]
+matches = {f.filename:pd.read_csv(zfile.open(f)) for f in zfile.infolist() }["all_matches.csv"]
 
 matches['match_id'] = range(1, len(matches) + 1)
 
