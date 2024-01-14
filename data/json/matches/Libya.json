@@ -2,6 +2,42 @@
   "team": "Libya",
   "matches": [
     {
+      "date": "1953-08-03",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Palestine",
+      "score1": 5,
+      "score2": 2,
+      "rating1": 1428.7592798528872,
+      "rating2": 1153.971341685062,
+      "rating_ev": 27.759279852887175
+    },
+    {
+      "date": "1953-08-06",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Egypt",
+      "team2": "Libya",
+      "score1": 10,
+      "score2": 2,
+      "rating1": 1697.918175018292,
+      "rating2": 1352.9331058861922,
+      "rating_ev": -75.82617396669502
+    },
+    {
+      "date": "1953-08-09",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Jordan",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1359.1676119256733,
+      "rating2": 1217.2137839130617,
+      "rating_ev": 6.234506039481175
+    },
+    {
       "date": "1957-06-02",
       "country": "Tunisia",
       "tournament": "Friendly",
@@ -9,9 +45,45 @@
       "team2": "Libya",
       "score1": 4,
       "score2": 2,
-      "rating1": 1562.37958488463,
-      "rating2": 1394.62041511537,
-      "rating_ev": -6.379584884630049
+      "rating1": 1553.7063414426457,
+      "rating2": 1353.7980454790093,
+      "rating_ev": -5.3695664466640665
+    },
+    {
+      "date": "1957-10-19",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Tunisia",
+      "team2": "Libya",
+      "score1": 4,
+      "score2": 3,
+      "rating1": 1555.7743709810761,
+      "rating2": 1351.7300159405788,
+      "rating_ev": -2.0680295384304372
+    },
+    {
+      "date": "1957-10-21",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Morocco",
+      "team2": "Libya",
+      "score1": 5,
+      "score2": 1,
+      "rating1": 1648.1232329049412,
+      "rating2": 1313.8604519614291,
+      "rating_ev": -37.86956397914969
+    },
+    {
+      "date": "1957-10-23",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Iraq",
+      "team2": "Libya",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1529.2812962568146,
+      "rating2": 1298.0987169693178,
+      "rating_ev": -15.761734992111315
     },
     {
       "date": "1958-04-03",
@@ -21,33 +93,117 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 1,
-      "rating1": 1619.4509094262146,
-      "rating2": 1390.1695056891554,
-      "rating_ev": -4.450909426214594
+      "rating1": 1642.1714272575537,
+      "rating2": 1297.2150446102585,
+      "rating_ev": -0.8836723590593465
     },
     {
       "date": "1958-05-09",
       "country": "Tunisia",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Tunisia",
       "team2": "Libya",
       "score1": 4,
       "score2": 1,
-      "rating1": 1574.825549302373,
-      "rating2": 1377.7235412714124,
-      "rating_ev": -12.445964417742971
+      "rating1": 1517.6886386871918,
+      "rating2": 1273.7892489015285,
+      "rating_ev": -23.425795708729993
+    },
+    {
+      "date": "1958-05-11",
+      "country": "Tunisia",
+      "tournament": "Friendly tournament",
+      "team1": "Morocco",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1618.0527888331005,
+      "rating2": 1280.5064155251878,
+      "rating_ev": 6.7171666236592955
+    },
+    {
+      "date": "1960-12-31",
+      "country": "Libya",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Algeria",
+      "score1": 0,
+      "score2": 7,
+      "rating1": 1248.8405604253464,
+      "rating2": 1773.9217520155844,
+      "rating_ev": -31.665855099841338
+    },
+    {
+      "date": "1961-09-03",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Kuwait",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1349.6079904622266,
+      "rating2": 1255.2325699631199,
+      "rating_ev": 6.392009537773447
+    },
+    {
+      "date": "1961-09-04",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Morocco",
+      "team2": "Libya",
+      "score1": 6,
+      "score2": 2,
+      "rating1": 1607.292974121796,
+      "rating2": 1226.7791773692743,
+      "rating_ev": -28.453392593845592
+    },
+    {
+      "date": "1961-09-06",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Egypt",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1791.3061959204001,
+      "rating2": 1246.4049027556637,
+      "rating_ev": 19.625725386389377
+    },
+    {
+      "date": "1961-09-08",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Saudi Arabia",
+      "score1": 5,
+      "score2": 1,
+      "rating1": 1290.019921328026,
+      "rating2": 1041.9555369555087,
+      "rating_ev": 43.61501857236226
+    },
+    {
+      "date": "1961-09-10",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Lebanon",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1302.7257077422278,
+      "rating2": 1256.4230109030425,
+      "rating_ev": 12.705786414201839
     },
     {
       "date": "1962-03-11",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Tunisia",
       "score1": 6,
       "score2": 3,
-      "rating1": 1399.2648312878864,
-      "rating2": 1489.3863569309142,
-      "rating_ev": 21.541290016474022
+      "rating1": 1344.3559351025547,
+      "rating2": 1369.8599043377508,
+      "rating_ev": 41.6302273603269
     },
     {
       "date": "1962-06-03",
@@ -57,33 +213,33 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 2,
-      "rating1": 1483.8769504644622,
-      "rating2": 1404.7742377543384,
-      "rating_ev": 5.509406466451992
+      "rating1": 1366.2777916543698,
+      "rating2": 1347.9380477859356,
+      "rating_ev": 3.582112683380956
+    },
+    {
+      "date": "1964-02-29",
+      "country": "Libya",
+      "tournament": "Friendly tournament",
+      "team1": "Libya",
+      "team2": "Sudan",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1367.1147588936112,
+      "rating2": 1511.353597054427,
+      "rating_ev": 19.1767111076756
     },
     {
       "date": "1964-03-08",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1389.6576839786735,
-      "rating2": 1241.1193797080787,
-      "rating_ev": -15.116553775664897
-    },
-    {
-      "date": "1964-03-15",
-      "country": "Libya",
-      "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Malta",
-      "score1": 2,
-      "score2": 2,
-      "rating1": 1382.4781141700216,
-      "rating2": 1250.5146190816474,
-      "rating_ev": -7.179569808651877
+      "rating1": 1344.835862597029,
+      "rating2": 1344.4406305305797,
+      "rating_ev": -22.27889629658216
     },
     {
       "date": "1964-11-14",
@@ -93,69 +249,129 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1387.2821139473447,
-      "rating2": 1224.07234475588,
-      "rating_ev": 4.8039997773230425
+      "rating1": 1357.300559629089,
+      "rating2": 1307.4428858408155,
+      "rating_ev": 12.46469703206003
     },
     {
       "date": "1964-11-16",
-      "country": "Kuwait",
-      "tournament": "Arab Cup",
-      "team1": "Jordan",
-      "team2": "Libya",
-      "score1": 2,
-      "score2": 5,
-      "rating1": 1015.7489960058246,
-      "rating2": 1407.3685147129315,
-      "rating_ev": 20.086400765586745
-    },
-    {
-      "date": "1964-11-17",
-      "country": "Kuwait",
-      "tournament": "Arab Cup",
-      "team1": "Iraq",
-      "team2": "Libya",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1546.4926219306021,
-      "rating2": 1416.1823920136005,
-      "rating_ev": 8.813877300668992
-    },
-    {
-      "date": "1964-11-19",
       "country": "Kuwait",
       "tournament": "Arab Cup",
       "team1": "Kuwait",
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1220.9060240584572,
-      "rating2": 1409.8369994734758,
-      "rating_ev": -6.345392540124749
+      "rating1": 1129.3476285439,
+      "rating2": 1348.9157274325926,
+      "rating_ev": -8.384832196496518
+    },
+    {
+      "date": "1964-11-18",
+      "country": "Kuwait",
+      "tournament": "Arab Cup",
+      "team1": "Libya",
+      "team2": "Jordan",
+      "score1": 5,
+      "score2": 2,
+      "rating1": 1365.9516643889517,
+      "rating2": 926.7864344717198,
+      "rating_ev": 17.035936956359137
+    },
+    {
+      "date": "1964-11-20",
+      "country": "Kuwait",
+      "tournament": "Arab Cup",
+      "team1": "Iraq",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1515.807520937414,
+      "rating2": 1375.4413610360002,
+      "rating_ev": 9.489696647048504
     },
     {
       "date": "1965-03-14",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Kuwait",
       "score1": 4,
       "score2": 1,
-      "rating1": 1421.7276389674678,
-      "rating2": 1206.9280906217093,
-      "rating_ev": 11.890639493992012
+      "rating1": 1395.6427189082585,
+      "rating2": 1103.2556719209172,
+      "rating_ev": 20.201357872258313
     },
     {
       "date": "1965-03-19",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Morocco",
       "score1": 1,
       "score2": 0,
-      "rating1": 1431.8655184058628,
-      "rating2": 1612.818416713376,
-      "rating_ev": 10.137879438394975
+      "rating1": 1419.0096772060306,
+      "rating2": 1626.195594056141,
+      "rating_ev": 23.366958297772044
+    },
+    {
+      "date": "1965-09-02",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Oman",
+      "score1": 15,
+      "score2": 1,
+      "rating1": 1520.5753053783428,
+      "rating2": 936.4343718276876,
+      "rating_ev": 101.56562817231224
+    },
+    {
+      "date": "1965-09-03",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Sudan",
+      "team2": "Libya",
+      "score1": 4,
+      "score2": 2,
+      "rating1": 1610.715758949157,
+      "rating2": 1496.9112755184808,
+      "rating_ev": -23.664029859862012
+    },
+    {
+      "date": "1965-09-04",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Syria",
+      "score1": 6,
+      "score2": 3,
+      "rating1": 1528.5226343179345,
+      "rating2": 1311.3118105319672,
+      "rating_ev": 31.611358799453683
+    },
+    {
+      "date": "1965-09-09",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Egypt",
+      "team2": "Libya",
+      "score1": 8,
+      "score2": 1,
+      "rating1": 1972.7875006294485,
+      "rating2": 1472.3371459381829,
+      "rating_ev": -56.18548837975163
+    },
+    {
+      "date": "1965-09-10",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Palestine",
+      "score1": 4,
+      "score2": 2,
+      "rating1": 1482.3763849635027,
+      "rating2": 1164.7413891610156,
+      "rating_ev": 10.03923902531983
     },
     {
       "date": "1966-02-13",
@@ -165,33 +381,45 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1260.0663238673874,
-      "rating2": 1422.3138136201228,
-      "rating_ev": -9.551704785739958
+      "rating1": 1233.5966366250427,
+      "rating2": 1470.4961579598364,
+      "rating_ev": -11.880227003666278
     },
     {
-      "date": "1966-03-11",
+      "date": "1966-03-12",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Morocco",
       "score1": 4,
       "score2": 0,
-      "rating1": 1451.5898939699096,
-      "rating2": 1577.9356011075479,
-      "rating_ev": 29.276080349786753
+      "rating1": 1527.3879896593257,
+      "rating2": 1570.4219042162458,
+      "rating_ev": 56.89183169948933
     },
     {
       "date": "1966-03-14",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
+      "team1": "Libya",
+      "team2": "Tunisia",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1525.255593376372,
+      "rating2": 1588.2867441388576,
+      "rating_ev": -2.1323962829537777
+    },
+    {
+      "date": "1966-03-18",
+      "country": "Libya",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Iraq",
       "score1": 0,
       "score2": 2,
-      "rating1": 1437.4110634921221,
-      "rating2": 1548.1373631250815,
-      "rating_ev": -14.178830477787415
+      "rating1": 1492.920101921534,
+      "rating2": 1573.2972485831299,
+      "rating_ev": -32.33549145483789
     },
     {
       "date": "1966-03-27",
@@ -201,33 +429,33 @@
       "team2": "Malta",
       "score1": 0,
       "score2": 1,
-      "rating1": 1422.3366521978153,
-      "rating2": 1275.1407351616942,
-      "rating_ev": -15.074411294306856
+      "rating1": 1475.437843950008,
+      "rating2": 1251.0788945965687,
+      "rating_ev": -17.482257971525996
     },
     {
       "date": "1966-04-01",
       "country": "Iraq",
       "tournament": "Arab Cup",
       "team1": "Libya",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 0,
-      "rating1": 1417.7206333412475,
-      "rating2": 1349.6160188565677,
-      "rating_ev": -4.6160188565677345
-    },
-    {
-      "date": "1966-04-03",
-      "country": "Iraq",
-      "tournament": "Arab Cup",
-      "team1": "Libya",
       "team2": "Oman",
       "score1": 21,
       "score2": 0,
-      "rating1": 1531.2735652677798,
-      "rating2": 924.4470680734678,
-      "rating_ev": 113.55293192653221
+      "rating1": 1570.6421917037806,
+      "rating2": 659.1623466883697,
+      "rating_ev": 95.20434775377248
+    },
+    {
+      "date": "1966-04-02",
+      "country": "Iraq",
+      "tournament": "Arab Cup",
+      "team1": "Libya",
+      "team2": "Palestine",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1546.848778452452,
+      "rating2": 1188.534802412344,
+      "rating_ev": -23.793413251328502
     },
     {
       "date": "1966-04-04",
@@ -237,33 +465,33 @@
       "team2": "Syria",
       "score1": 0,
       "score2": 0,
-      "rating1": 1519.7063401533612,
-      "rating2": 1348.3330482827964,
-      "rating_ev": -11.567225114418534
+      "rating1": 1538.604884615341,
+      "rating2": 1416.7654265675862,
+      "rating_ev": -8.243893837111045
     },
     {
       "date": "1966-04-06",
       "country": "Iraq",
       "tournament": "Arab Cup",
       "team1": "Libya",
-      "team2": "Yemen",
-      "score1": 13,
+      "team2": "North Yemen",
+      "score1": 14,
       "score2": 0,
-      "rating1": 1604.3796658270153,
-      "rating2": 805.5708540587179,
-      "rating_ev": 84.67332567365406
+      "rating1": 1623.5149743311567,
+      "rating2": 764.681409364638,
+      "rating_ev": 84.91008971581573
     },
     {
-      "date": "1966-04-09",
+      "date": "1966-04-08",
       "country": "Iraq",
       "tournament": "Arab Cup",
       "team1": "Iraq",
       "team2": "Libya",
       "score1": 3,
       "score2": 1,
-      "rating1": 1592.942072240529,
-      "rating2": 1580.2649710607666,
-      "rating_ev": -24.114694766248704
+      "rating1": 1609.1681435126577,
+      "rating2": 1599.2155708238263,
+      "rating_ev": -24.299403507330453
     },
     {
       "date": "1966-04-10",
@@ -273,33 +501,21 @@
       "team2": "Lebanon",
       "score1": 6,
       "score2": 1,
-      "rating1": 1629.5370717251617,
-      "rating2": 1270.7383758925234,
-      "rating_ev": 49.27210066439511
-    },
-    {
-      "date": "1966-05-25",
-      "country": "Lithuania",
-      "tournament": "Friendly",
-      "team1": "Lithuania",
-      "team2": "Libya",
-      "score1": 6,
-      "score2": 0,
-      "rating1": 1234.6921282219362,
-      "rating2": 1581.83854678225,
-      "rating_ev": -47.69852494291172
+      "rating1": 1648.864615277243,
+      "rating2": 1295.7683566457597,
+      "rating_ev": 49.649044453416764
     },
     {
       "date": "1966-12-09",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Egypt",
       "score1": 2,
       "score2": 2,
-      "rating1": 1585.1695029799555,
-      "rating2": 1729.1130903144324,
-      "rating_ev": 3.330956197705518
+      "rating1": 1660.0262166789532,
+      "rating2": 1921.6305949038315,
+      "rating_ev": 11.161601401710186
     },
     {
       "date": "1967-02-15",
@@ -309,69 +525,165 @@
       "team2": "Libya",
       "score1": 4,
       "score2": 0,
-      "rating1": 1482.2713843914187,
-      "rating2": 1557.501992245862,
-      "rating_ev": -27.667510734093412
+      "rating1": 1528.6095957363382,
+      "rating2": 1631.4873997640966,
+      "rating_ev": -28.538816914856625
     },
     {
       "date": "1967-03-07",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Sudan",
       "score1": 1,
       "score2": 1,
-      "rating1": 1553.9902473712255,
-      "rating2": 1537.8665061587244,
-      "rating_ev": -3.5117448746366335
+      "rating1": 1626.112812923722,
+      "rating2": 1641.3228282779673,
+      "rating_ev": -5.374586840374604
     },
     {
       "date": "1967-03-12",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Iraq",
       "score1": 0,
       "score2": 1,
-      "rating1": 1545.4073675908767,
-      "rating2": 1603.2446395515008,
-      "rating_ev": -8.582879780348776
+      "rating1": 1606.0036141554592,
+      "rating2": 1637.6053843108623,
+      "rating_ev": -20.109198768262786
     },
     {
       "date": "1967-03-24",
       "country": "Egypt",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Egypt",
       "team2": "Libya",
       "score1": 3,
       "score2": 2,
-      "rating1": 1717.7756862778044,
-      "rating2": 1547.4774028111972,
-      "rating_ev": 2.0700352203205057
+      "rating1": 1882.7229445563737,
+      "rating2": 1614.5727976609128,
+      "rating_ev": 8.569183505453566
+    },
+    {
+      "date": "1967-04-21",
+      "country": "Libya",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Libya",
+      "team2": "Niger",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1608.0322651100096,
+      "rating2": 1130.2132802732701,
+      "rating_ev": -6.540532550903208
+    },
+    {
+      "date": "1967-09-08",
+      "country": "Tunisia",
+      "tournament": "Mediterranean Games",
+      "team1": "Tunisia",
+      "team2": "Libya",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1643.7359514560192,
+      "rating2": 1572.925157780166,
+      "rating_ev": -35.10710732984353
+    },
+    {
+      "date": "1967-09-24",
+      "country": "Niger",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Niger",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1144.252112632718,
+      "rating2": 1552.3403823867952,
+      "rating_ev": -20.58477539337082
+    },
+    {
+      "date": "1967-11-12",
+      "country": "Libya",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Libya",
+      "team2": "Algeria",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1557.753313300355,
+      "rating2": 1732.733845912822,
+      "rating_ev": 5.412930913559876
+    },
+    {
+      "date": "1967-11-26",
+      "country": "Algeria",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Algeria",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1730.6317668002966,
+      "rating2": 1559.8553924128805,
+      "rating_ev": 2.1020791125254163
     },
     {
       "date": "1969-01-26",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Ethiopia",
       "score1": 2,
       "score2": 0,
-      "rating1": 1570.3049504686883,
-      "rating2": 1538.6473147402883,
-      "rating_ev": 22.827547657491095
+      "rating1": 1584.9526143891048,
+      "rating2": 1586.7713881042978,
+      "rating_ev": 25.09722197622432
     },
     {
       "date": "1969-02-09",
       "country": "Ethiopia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Ethiopia",
       "team2": "Libya",
       "score1": 5,
       "score2": 1,
-      "rating1": 1588.089788582039,
-      "rating2": 1520.8624766269375,
-      "rating_ev": -49.442473841750825
+      "rating1": 1634.2145845822586,
+      "rating2": 1537.509417911144,
+      "rating_ev": -47.44319647796078
+    },
+    {
+      "date": "1970-07-05",
+      "country": "Libya",
+      "tournament": "Friendly tournament",
+      "team1": "Libya",
+      "team2": "Algeria",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1538.143113068499,
+      "rating2": 1642.063794622166,
+      "rating_ev": 0.6336951573548504
+    },
+    {
+      "date": "1970-07-07",
+      "country": "Libya",
+      "tournament": "Friendly tournament",
+      "team1": "Libya",
+      "team2": "Egypt",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1564.3190020418067,
+      "rating2": 1814.1878817551562,
+      "rating_ev": 26.175888973307792
+    },
+    {
+      "date": "1970-07-12",
+      "country": "Libya",
+      "tournament": "Friendly tournament",
+      "team1": "Libya",
+      "team2": "Sudan",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 1550.2779024718177,
+      "rating2": 1671.4311152197406,
+      "rating_ev": -14.041099569989
     },
     {
       "date": "1970-09-01",
@@ -381,9 +693,9 @@
       "team2": "Tunisia",
       "score1": 2,
       "score2": 2,
-      "rating1": 1519.0150538544663,
-      "rating2": 1555.2976632112338,
-      "rating_ev": -1.847422772471191
+      "rating1": 1548.0058841280331,
+      "rating2": 1570.916889880239,
+      "rating_ev": -2.2720183437845662
     },
     {
       "date": "1970-09-04",
@@ -393,9 +705,9 @@
       "team2": "Tunisia",
       "score1": 3,
       "score2": 2,
-      "rating1": 1524.2546892037237,
-      "rating2": 1550.0580278619764,
-      "rating_ev": 5.239635349257469
+      "rating1": 1552.8463095903248,
+      "rating2": 1566.0764644179474,
+      "rating_ev": 4.840425462291705
     },
     {
       "date": "1970-09-24",
@@ -405,81 +717,81 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1560.2832491856595,
-      "rating2": 1514.0294678800406,
-      "rating_ev": -10.225221323683172
+      "rating1": 1576.67712329355,
+      "rating2": 1542.2456507147222,
+      "rating_ev": -10.600658875602676
     },
     {
       "date": "1970-12-27",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Egypt",
       "score1": 0,
       "score2": 1,
-      "rating1": 1508.504914366928,
-      "rating2": 1756.64510638507,
-      "rating_ev": -5.524553513112551
+      "rating1": 1538.7566672517921,
+      "rating2": 1817.6768652180863,
+      "rating_ev": -3.4889834629300367
     },
     {
       "date": "1971-01-03",
       "country": "Egypt",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Egypt",
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1750.2409251874315,
-      "rating2": 1514.9090955645665,
-      "rating_ev": 6.404181197638536
+      "rating1": 1809.4777662773188,
+      "rating2": 1546.9557661925596,
+      "rating_ev": 8.199098940767499
     },
     {
       "date": "1971-07-09",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Syria",
       "score1": 2,
       "score2": 1,
-      "rating1": 1514.5732732795157,
-      "rating2": 1364.4342878152072,
-      "rating_ev": -0.33582228505088096
+      "rating1": 1549.4333753422106,
+      "rating2": 1446.68030174563,
+      "rating_ev": 2.477609149651016
     },
     {
       "date": "1971-07-13",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Egypt",
       "score1": 0,
       "score2": 2,
-      "rating1": 1504.8022594158913,
-      "rating2": 1755.6606865632257,
-      "rating_ev": -9.771013863624376
+      "rating1": 1527.4213404677444,
+      "rating2": 1760.7696609200175,
+      "rating_ev": -22.01203487446628
     },
     {
       "date": "1971-07-16",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Sudan",
       "score1": 4,
       "score2": 6,
-      "rating1": 1490.6823259715097,
-      "rating2": 1603.2677354446962,
-      "rating_ev": -14.119933444381559
+      "rating1": 1503.2225787273874,
+      "rating2": 1703.9608775618467,
+      "rating_ev": -24.198761740356986
     },
     {
       "date": "1971-07-18",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Egypt",
       "score1": 2,
       "score2": 0,
-      "rating1": 1509.527997111588,
-      "rating2": 1736.8150154231473,
-      "rating_ev": 18.845671140078366
+      "rating1": 1540.4803830018948,
+      "rating2": 1723.51185664551,
+      "rating_ev": 37.25780427450741
     },
     {
       "date": "1971-11-24",
@@ -489,9 +801,9 @@
       "team2": "Algeria",
       "score1": 0,
       "score2": 0,
-      "rating1": 1508.438416708646,
-      "rating2": 1568.6000606809334,
-      "rating_ev": -1.089580402942147
+      "rating1": 1538.0726999808676,
+      "rating2": 1556.7119139973722,
+      "rating_ev": -2.4076830210271964
     },
     {
       "date": "1971-12-19",
@@ -501,9 +813,9 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1145.9722761531891,
-      "rating2": 1507.5465570574195,
-      "rating_ev": -0.8918596512264685
+      "rating1": 1091.9499270653787,
+      "rating2": 1534.751894617329,
+      "rating_ev": -3.3208053635385113
     },
     {
       "date": "1972-01-01",
@@ -513,9 +825,9 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 2,
-      "rating1": 1346.75730392315,
-      "rating2": 1482.539687500849,
-      "rating_ev": -25.006869556570564
+      "rating1": 1267.7251119439638,
+      "rating2": 1503.1425275862887,
+      "rating_ev": -31.609367031040392
     },
     {
       "date": "1972-01-05",
@@ -525,9 +837,9 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1630.105653820641,
-      "rating2": 1454.5258704170417,
-      "rating_ev": -28.013817083807226
+      "rating1": 1578.4315467439674,
+      "rating2": 1470.5494141190277,
+      "rating_ev": -32.59311346726099
     },
     {
       "date": "1972-01-07",
@@ -537,9 +849,9 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1693.1426488556933,
-      "rating2": 1469.5649122809484,
-      "rating_ev": 15.039041863906732
+      "rating1": 1692.0770544177863,
+      "rating2": 1484.526459615953,
+      "rating_ev": 13.977045496925257
     },
     {
       "date": "1973-08-11",
@@ -549,21 +861,9 @@
       "team2": "United Arab Emirates",
       "score1": 2,
       "score2": 2,
-      "rating1": 1444.7369040487993,
-      "rating2": 1169.2487998852655,
-      "rating_ev": -24.82800823214916
-    },
-    {
-      "date": "1973-08-14",
-      "country": "Libya",
-      "tournament": "Palestine Cup",
-      "team1": "Libya",
-      "team2": "Yemen",
-      "score1": 10,
-      "score2": 0,
-      "rating1": 1499.256892848871,
-      "rating2": 549.9943522008579,
-      "rating_ev": 54.519988800071815
+      "rating1": 1457.7356685017696,
+      "rating2": 1151.9603472359552,
+      "rating_ev": -26.79079111418332
     },
     {
       "date": "1973-08-18",
@@ -573,9 +873,9 @@
       "team2": "Iraq",
       "score1": 0,
       "score2": 0,
-      "rating1": 1496.265006787222,
-      "rating2": 1546.6118652704251,
-      "rating_ev": -2.9918860616489837
+      "rating1": 1457.7985560325055,
+      "rating2": 1553.2707568441783,
+      "rating_ev": 0.0628875307359067
     },
     {
       "date": "1973-08-21",
@@ -585,9 +885,21 @@
       "team2": "Algeria",
       "score1": 0,
       "score2": 2,
-      "rating1": 1467.5910643406576,
-      "rating2": 1602.000612892982,
-      "rating_ev": -28.673942446564524
+      "rating1": 1432.1433748045622,
+      "rating2": 1611.244199306852,
+      "rating_ev": -25.65518122794333
+    },
+    {
+      "date": "1973-08-31",
+      "country": "Libya",
+      "tournament": "Palestine Cup",
+      "team1": "Libya",
+      "team2": "Yemen",
+      "score1": 10,
+      "score2": 0,
+      "rating1": 1499.028097694631,
+      "rating2": 771.3462341884693,
+      "rating_ev": 66.88472289006882
     },
     {
       "date": "1974-06-07",
@@ -597,9 +909,9 @@
       "team2": "Iraq",
       "score1": 1,
       "score2": 0,
-      "rating1": 1472.8609676143824,
-      "rating2": 1499.617762053386,
-      "rating_ev": 5.269903273724822
+      "rating1": 1503.5035444562138,
+      "rating2": 1505.2411540142962,
+      "rating_ev": 4.475446761582816
     },
     {
       "date": "1974-08-24",
@@ -609,69 +921,69 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1254.8013195534875,
-      "rating2": 1476.282065071652,
-      "rating_ev": 3.421097457269525
+      "rating1": 1266.573036875553,
+      "rating2": 1506.354039574965,
+      "rating_ev": 2.850495118751269
     },
     {
       "date": "1974-09-04",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Malta",
       "score1": 0,
       "score2": 0,
-      "rating1": 1466.8843659597312,
-      "rating2": 1264.1990186654082,
-      "rating_ev": -9.397699111920701
+      "rating1": 1486.4854774079151,
+      "rating2": 1286.441599042603,
+      "rating_ev": -19.86856216704996
     },
     {
       "date": "1974-09-06",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "DR Congo",
       "score1": 0,
       "score2": 2,
-      "rating1": 1454.9194950013443,
-      "rating2": 1635.731417070338,
-      "rating_ev": -11.964870958386882
+      "rating1": 1466.6915933598023,
+      "rating2": 1733.3019801258222,
+      "rating_ev": -19.793884048112886
     },
     {
       "date": "1974-09-10",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Somalia",
       "score1": 3,
       "score2": 2,
-      "rating1": 1440.9376215014304,
-      "rating2": 833.5291546736153,
-      "rating_ev": -13.981873499913945
+      "rating1": 1440.1061270208368,
+      "rating2": 884.2127856985278,
+      "rating_ev": -26.58546633896549
     },
     {
-      "date": "1974-09-13",
-      "country": "Libya",
-      "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Somalia",
-      "score1": 3,
-      "score2": 2,
-      "rating1": 1427.688511189512,
-      "rating2": 846.7782649855336,
-      "rating_ev": -13.249110311918457
+      "date": "1974-09-28",
+      "country": "Syria",
+      "tournament": "Kuneitra Cup",
+      "team1": "Syria",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1454.9691547550638,
+      "rating2": 1432.2097380135326,
+      "rating_ev": -7.896389007304151
     },
     {
       "date": "1974-09-30",
       "country": "Syria",
       "tournament": "Kuneitra Cup",
       "team1": "Libya",
-      "team2": "Yemen",
+      "team2": "North Yemen",
       "score1": 9,
       "score2": 1,
-      "rating1": 1469.435137668547,
-      "rating2": 442.0620299501869,
-      "rating_ev": 41.74662647903506
+      "rating1": 1475.298304414594,
+      "rating2": 475.1123343367864,
+      "rating_ev": 43.08856640106137
     },
     {
       "date": "1974-10-02",
@@ -681,45 +993,45 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1454.1300713816913,
-      "rating2": 1226.5287746262604,
-      "rating_ev": -15.305066286855663
+      "rating1": 1454.6553644220328,
+      "rating2": 1145.4451268826115,
+      "rating_ev": -20.642939992561196
     },
     {
       "date": "1974-10-04",
       "country": "Syria",
       "tournament": "Kuneitra Cup",
-      "team1": "Libya",
-      "team2": "Sudan",
-      "score1": 1,
-      "score2": 3,
-      "rating1": 1431.1559980367913,
-      "rating2": 1555.1530424316463,
-      "rating_ev": -22.974073344900034
+      "team1": "Sudan",
+      "team2": "Libya",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1584.538611266302,
+      "rating2": 1433.5086475841558,
+      "rating_ev": -21.146716837876966
     },
     {
       "date": "1974-11-10",
       "country": "Tunisia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Tunisia",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1674.4949917352963,
-      "rating2": 1437.6597176544492,
-      "rating_ev": 6.503719617657907
+      "rating1": 1672.5864511945874,
+      "rating2": 1439.7476978563193,
+      "rating_ev": 6.2390502721634675
     },
     {
       "date": "1974-11-22",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Tunisia",
       "score1": 1,
       "score2": 0,
-      "rating1": 1460.0272164980045,
-      "rating2": 1652.127492891741,
-      "rating_ev": 22.367498843555268
+      "rating1": 1461.8809883683996,
+      "rating2": 1650.4531606825071,
+      "rating_ev": 22.133290512080293
     },
     {
       "date": "1975-01-09",
@@ -729,9 +1041,9 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 1,
-      "rating1": 1523.3189848763275,
-      "rating2": 1450.640759452115,
-      "rating_ev": -9.386457045889529
+      "rating1": 1572.832693492797,
+      "rating2": 1453.9583534169467,
+      "rating_ev": -7.922634951452892
     },
     {
       "date": "1975-01-14",
@@ -741,21 +1053,69 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1529.0199720467149,
-      "rating2": 1448.767772720932,
-      "rating_ev": -1.8729867311828912
+      "rating1": 1558.4999588713945,
+      "rating2": 1452.8883999976658,
+      "rating_ev": -1.0699534192808642
+    },
+    {
+      "date": "1975-02-23",
+      "country": "Morocco",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Morocco",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1740.9863159033996,
+      "rating2": 1462.1582782154,
+      "rating_ev": 9.269878217734231
+    },
+    {
+      "date": "1975-03-14",
+      "country": "Libya",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Libya",
+      "team2": "Morocco",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 1458.4280847890134,
+      "rating2": 1733.689630954421,
+      "rating_ev": -3.730193426386677
+    },
+    {
+      "date": "1975-08-31",
+      "country": "Algeria",
+      "tournament": "Mediterranean Games",
+      "team1": "Algeria",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1585.9781130233448,
+      "rating2": 1457.674968661071,
+      "rating_ev": -0.7531161279423486
+    },
+    {
+      "date": "1975-09-02",
+      "country": "Algeria",
+      "tournament": "Mediterranean Games",
+      "team1": "Egypt",
+      "team2": "Libya",
+      "score1": 4,
+      "score2": 2,
+      "rating1": 1685.417460458708,
+      "rating2": 1442.6838160152254,
+      "rating_ev": -14.99115264584566
     },
     {
       "date": "1975-12-21",
       "country": "Tunisia",
       "tournament": "Palestine Cup",
-      "team1": "Libya",
-      "team2": "Syria",
-      "score1": 2,
-      "score2": 3,
-      "rating1": 1437.1751801248524,
-      "rating2": 1499.8951265675398,
-      "rating_ev": -11.592592596079612
+      "team1": "Syria",
+      "team2": "Libya",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1543.378960559524,
+      "rating2": 1434.234607551695,
+      "rating_ev": -8.44920846353034
     },
     {
       "date": "1975-12-23",
@@ -765,9 +1125,9 @@
       "team2": "Syria",
       "score1": 1,
       "score2": 0,
-      "rating1": 1454.8731693154332,
-      "rating2": 1482.197137376959,
-      "rating_ev": 17.697989190580756
+      "rating1": 1454.6982136940017,
+      "rating2": 1522.9153544172175,
+      "rating_ev": 20.463606142306617
     },
     {
       "date": "1976-01-01",
@@ -777,9 +1137,9 @@
       "team2": "Sudan",
       "score1": 1,
       "score2": 0,
-      "rating1": 1461.1635903529454,
-      "rating2": 1520.0873873873275,
-      "rating_ev": 6.29042103751226
+      "rating1": 1461.6702099960964,
+      "rating2": 1542.1080151625695,
+      "rating_ev": 6.971996302094794
     },
     {
       "date": "1976-03-10",
@@ -789,33 +1149,45 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 2,
-      "rating1": 1233.275169009969,
-      "rating2": 1457.099688685003,
-      "rating_ev": -4.063901667942446
+      "rating1": 1263.2537481322165,
+      "rating2": 1458.498502935773,
+      "rating_ev": -3.1717070603233424
     },
     {
       "date": "1976-04-01",
       "country": "Algeria",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Algeria",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1604.3482330572126,
-      "rating2": 1457.589222094129,
-      "rating_ev": 0.4895334091258974
+      "rating1": 1605.1030152897738,
+      "rating2": 1458.947451039427,
+      "rating_ev": 0.44894810365394733
     },
     {
       "date": "1976-04-16",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Algeria",
       "score1": 0,
       "score2": 0,
-      "rating1": 1460.692181816927,
-      "rating2": 1601.2452733344146,
-      "rating_ev": 3.102959722798005
+      "rating1": 1462.0146339862877,
+      "rating2": 1602.0358323429132,
+      "rating_ev": 3.067182946860612
+    },
+    {
+      "date": "1976-05-03",
+      "country": "Libya",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "South Korea",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 1458.2778608732172,
+      "rating2": 1669.6585780250389,
+      "rating_ev": -3.7367731130705124
     },
     {
       "date": "1976-09-08",
@@ -825,9 +1197,9 @@
       "team2": "Algeria",
       "score1": 0,
       "score2": 1,
-      "rating1": 1454.2252561076627,
-      "rating2": 1578.8356312910635,
-      "rating_ev": -6.46692570926416
+      "rating1": 1451.9919049245057,
+      "rating2": 1582.3277293129177,
+      "rating_ev": -6.285955948711489
     },
     {
       "date": "1976-09-10",
@@ -837,9 +1209,9 @@
       "team2": "Algeria",
       "score1": 1,
       "score2": 0,
-      "rating1": 1462.0962481002202,
-      "rating2": 1570.964639298506,
-      "rating_ev": 7.870991992557492
+      "rating1": 1460.0329252252045,
+      "rating2": 1574.2867090122188,
+      "rating_ev": 8.041020300698847
     },
     {
       "date": "1976-10-20",
@@ -849,9 +1221,9 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1558.3737605181004,
-      "rating2": 1460.772787858962,
-      "rating_ev": -1.3234602412583172
+      "rating1": 1537.6163986825707,
+      "rating2": 1458.1354933151717,
+      "rating_ev": -1.8974319100327648
     },
     {
       "date": "1976-10-22",
@@ -861,9 +1233,9 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 1,
-      "rating1": 1566.4579382607724,
-      "rating2": 1452.68861011629,
-      "rating_ev": -8.084177742671955
+      "rating1": 1546.2402483707406,
+      "rating2": 1449.5116436270018,
+      "rating_ev": -8.623849688169912
     },
     {
       "date": "1976-11-01",
@@ -873,9 +1245,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1556.7448394275934,
-      "rating2": 1444.5544554275318,
-      "rating_ev": -8.134154688758144
+      "rating1": 1561.2048962263943,
+      "rating2": 1441.611749318038,
+      "rating_ev": -7.899894308963894
     },
     {
       "date": "1976-11-04",
@@ -885,33 +1257,33 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1660.5108879907511,
-      "rating2": 1433.0599143148797,
-      "rating_ev": -11.494541112652087
+      "rating1": 1662.7180134346233,
+      "rating2": 1430.2733377127913,
+      "rating_ev": -11.33841160524662
     },
     {
       "date": "1977-03-13",
       "country": "Guinea",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Guinea",
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1711.9625918783497,
-      "rating2": 1413.2751489835991,
-      "rating_ev": -19.784765331280596
+      "rating1": 1757.4070672314274,
+      "rating2": 1413.4625561648752,
+      "rating_ev": -16.810781547916122
     },
     {
       "date": "1977-03-25",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Guinea",
       "score1": 0,
       "score2": 2,
-      "rating1": 1397.660397313497,
-      "rating2": 1727.5773435484518,
-      "rating_ev": -15.614751670102123
+      "rating1": 1400.4564894931996,
+      "rating2": 1770.413133903103,
+      "rating_ev": -13.006066671675626
     },
     {
       "date": "1977-06-03",
@@ -921,93 +1293,81 @@
       "team2": "Cuba",
       "score1": 1,
       "score2": 0,
-      "rating1": 1399.994124602052,
-      "rating2": 1334.2736453730145,
-      "rating_ev": 2.3337272885548828
+      "rating1": 1409.2397899896098,
+      "rating2": 1547.0405140259845,
+      "rating_ev": 8.78330049641022
     },
     {
       "date": "1977-07-17",
       "country": "Malaysia",
-      "tournament": "Merdeka Tournament",
+      "tournament": "Independence Tournament",
       "team1": "South Korea",
       "team2": "Libya",
       "score1": 4,
       "score2": 0,
-      "rating1": 1713.4163254893779,
-      "rating2": 1363.178285262529,
-      "rating_ev": -36.81583933952288
+      "rating1": 1726.6803559254486,
+      "rating2": 1372.6720501017205,
+      "rating_ev": -36.567739887889275
     },
     {
       "date": "1977-07-19",
       "country": "Malaysia",
-      "tournament": "Merdeka Tournament",
+      "tournament": "Independence Tournament",
       "team1": "Iraq",
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1554.1485242601118,
-      "rating2": 1375.2482351985013,
-      "rating_ev": 12.069949935972318
+      "rating1": 1536.2802709956622,
+      "rating2": 1383.0264610400675,
+      "rating_ev": 10.354410938346973
     },
     {
       "date": "1977-07-21",
       "country": "Malaysia",
-      "tournament": "Merdeka Tournament",
+      "tournament": "Independence Tournament",
       "team1": "Malaysia",
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1491.5232870963946,
-      "rating2": 1388.6177611754958,
-      "rating_ev": 13.36952597699451
+      "rating1": 1525.4379563617301,
+      "rating2": 1398.04368160946,
+      "rating_ev": 15.01722056939252
     },
     {
       "date": "1977-07-23",
       "country": "Malaysia",
-      "tournament": "Merdeka Tournament",
+      "tournament": "Independence Tournament",
       "team1": "Libya",
       "team2": "Thailand",
       "score1": 2,
       "score2": 2,
-      "rating1": 1377.7614200163914,
-      "rating2": 1217.0152370409744,
-      "rating_ev": -10.856341159104431
+      "rating1": 1388.6643581063697,
+      "rating2": 1249.9414586640316,
+      "rating_ev": -9.37932350309029
     },
     {
       "date": "1977-07-27",
       "country": "Malaysia",
-      "tournament": "Merdeka Tournament",
+      "tournament": "Independence Tournament",
       "team1": "Myanmar",
       "team2": "Libya",
       "score1": 3,
       "score2": 1,
-      "rating1": 1423.2940596926387,
-      "rating2": 1351.2658855237346,
-      "rating_ev": -26.495534492656816
+      "rating1": 1427.6615665103684,
+      "rating2": 1361.753713520313,
+      "rating_ev": -26.910644586056605
     },
     {
-      "date": "1977-09-24",
+      "date": "1978-01-13",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "African Games qualifier",
       "team1": "Libya",
-      "team2": "Malta",
+      "team2": "Tunisia",
       "score1": 1,
       "score2": 0,
-      "rating1": 1351.4564882463578,
-      "rating2": 1218.0152343710745,
-      "rating_ev": 0.19060272262322542
-    },
-    {
-      "date": "1977-09-28",
-      "country": "Libya",
-      "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Cyprus",
-      "score1": 1,
-      "score2": 0,
-      "rating1": 1348.8003430645344,
-      "rating2": 1124.616669544038,
-      "rating_ev": -2.6561451818233763
+      "rating1": 1391.5023768317487,
+      "rating2": 1696.3776257027178,
+      "rating_ev": 29.74866331143562
     },
     {
       "date": "1978-01-18",
@@ -1017,21 +1377,33 @@
       "team2": "Morocco",
       "score1": 0,
       "score2": 1,
-      "rating1": 1349.381407770366,
-      "rating2": 1700.702153002862,
-      "rating_ev": 0.5810647058315226
+      "rating1": 1388.7798261190724,
+      "rating2": 1632.6724250875127,
+      "rating_ev": -2.722550712676366
+    },
+    {
+      "date": "1978-01-25",
+      "country": "Tunisia",
+      "tournament": "African Games qualifier",
+      "team1": "Tunisia",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1686.515669723942,
+      "rating2": 1398.6417820978481,
+      "rating_ev": 9.861955978775768
     },
     {
       "date": "1978-03-12",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Algeria",
       "score1": 1,
       "score2": 0,
-      "rating1": 1359.3953981399268,
-      "rating2": 1536.3904884671415,
-      "rating_ev": 10.013990369560815
+      "rating1": 1415.9931418933713,
+      "rating2": 1533.0246063349969,
+      "rating_ev": 17.351359795523194
     },
     {
       "date": "1978-05-14",
@@ -1041,93 +1413,129 @@
       "team2": "Malta",
       "score1": 1,
       "score2": 0,
-      "rating1": 1357.0888907406088,
-      "rating2": 1144.1171582164993,
-      "rating_ev": -2.3065073993179794
+      "rating1": 1413.052754958046,
+      "rating2": 1179.7377351478901,
+      "rating_ev": -2.9403869353252503
+    },
+    {
+      "date": "1978-07-14",
+      "country": "Algeria",
+      "tournament": "African Games",
+      "team1": "Libya",
+      "team2": "Malawi",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1426.1703629357792,
+      "rating2": 1385.9396496931452,
+      "rating_ev": 13.117607977733087
+    },
+    {
+      "date": "1978-07-18",
+      "country": "Algeria",
+      "tournament": "African Games",
+      "team1": "Algeria",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1536.1724634273787,
+      "rating2": 1424.3082088683511,
+      "rating_ev": -1.8621540674280368
+    },
+    {
+      "date": "1978-07-22",
+      "country": "Algeria",
+      "tournament": "African Games",
+      "team1": "Egypt",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1646.4876746371851,
+      "rating2": 1423.5027965476988,
+      "rating_ev": -0.8054123206522945
     },
     {
       "date": "1978-09-20",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
-      "team2": "Yemen DPR",
+      "team2": "Yemen",
       "score1": 2,
       "score2": 0,
-      "rating1": 1356.5111229428244,
-      "rating2": 963.1983319843589,
-      "rating_ev": -0.5777677977844178
+      "rating1": 1417.1367517083909,
+      "rating2": 942.1389236615126,
+      "rating_ev": -6.3660448393079605
     },
     {
-      "date": "1979-02-07",
-      "country": "Libya",
-      "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Greece",
-      "score1": 2,
-      "score2": 2,
-      "rating1": 1364.0720267650001,
-      "rating2": 1701.540708474819,
-      "rating_ev": 7.56090382217576
-    },
-    {
-      "date": "1979-02-16",
-      "country": "Libya",
-      "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Poland",
+      "date": "1979-03-25",
+      "country": "Tunisia",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Tunisia",
+      "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1384.7607628154508,
-      "rating2": 1917.8867416447506,
-      "rating_ev": 20.688736050450643
+      "rating1": 1708.7040883452141,
+      "rating2": 1426.6199167876423,
+      "rating_ev": 9.483165079251421
+    },
+    {
+      "date": "1979-04-13",
+      "country": "Libya",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Libya",
+      "team2": "Tunisia",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1478.4581757250357,
+      "rating2": 1656.8658294078207,
+      "rating_ev": 51.83825893739345
     },
     {
       "date": "1979-04-15",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Ethiopia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1391.501829360022,
-      "rating2": 1351.708096952363,
-      "rating_ev": 6.74106654457114
+      "rating1": 1481.3702788221653,
+      "rating2": 1385.045045313732,
+      "rating_ev": 2.9121030971296022
     },
     {
       "date": "1979-04-29",
       "country": "Ethiopia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Ethiopia",
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1348.4434575058754,
-      "rating2": 1394.7664688065097,
-      "rating_ev": 3.2646394464875357
+      "rating1": 1385.151232740022,
+      "rating2": 1481.2640913958755,
+      "rating_ev": -0.10618742628980726
     },
     {
       "date": "1979-06-24",
       "country": "Algeria",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Algeria",
       "team2": "Libya",
       "score1": 3,
       "score2": 1,
-      "rating1": 1593.1365768106575,
-      "rating2": 1383.930890484705,
-      "rating_ev": -10.835578321804633
+      "rating1": 1642.8304026671638,
+      "rating2": 1468.114848144383,
+      "rating_ev": -13.149243251492635
     },
     {
       "date": "1979-07-08",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Algeria",
       "score1": 1,
       "score2": 0,
-      "rating1": 1404.6762283914627,
-      "rating2": 1572.3912389038999,
-      "rating_ev": 20.74533790675764
+      "rating1": 1486.8262539736463,
+      "rating2": 1624.1189968379003,
+      "rating_ev": 18.711405829263413
     },
     {
       "date": "1979-08-19",
@@ -1137,81 +1545,105 @@
       "team2": "Libya",
       "score1": 5,
       "score2": 0,
-      "rating1": 1959.5583968399287,
-      "rating2": 1390.7805488158758,
-      "rating_ev": -13.895679575586882
+      "rating1": 2014.7990157326767,
+      "rating2": 1472.1791201713086,
+      "rating_ev": -14.647133802337748
     },
     {
       "date": "1979-09-03",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1384.5358485191302,
-      "rating2": 1282.1925146721749,
-      "rating_ev": -6.244700296745577
-    },
-    {
-      "date": "1980-04-27",
-      "country": "Malta",
-      "tournament": "Friendly",
-      "team1": "Malta",
-      "team2": "Libya",
-      "score1": 0,
-      "score2": 3,
-      "rating1": 1125.7663191091215,
-      "rating2": 1400.5473359221126,
-      "rating_ev": 16.01148740298231
+      "rating1": 1447.1146819997064,
+      "rating2": 1167.9925690951661,
+      "rating_ev": -25.064438171602205
     },
     {
       "date": "1980-05-08",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Gambia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1401.3203180275063,
-      "rating2": 1273.3118951961767,
-      "rating_ev": 0.772982105393794
+      "rating1": 1445.983084889989,
+      "rating2": 1289.6709753035623,
+      "rating_ev": -1.1315971097174042
     },
     {
       "date": "1980-07-06",
-      "country": "Gambia",
-      "tournament": "FIFA World Cup qualification",
+      "country": "The Gambia",
+      "tournament": "World Cup qualifier",
       "team1": "Gambia",
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1275.302203860641,
-      "rating2": 1399.330009363042,
-      "rating_ev": -1.9903086644642372
+      "rating1": 1298.981041691041,
+      "rating2": 1436.6730185025103,
+      "rating_ev": -9.310066387478628
+    },
+    {
+      "date": "1980-09-30",
+      "country": "Turkey",
+      "tournament": "Islamic Games",
+      "team1": "Libya",
+      "team2": "Malaysia",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1445.4355259758684,
+      "rating2": 1340.9245539487438,
+      "rating_ev": 8.762507473358028
     },
     {
       "date": "1980-10-01",
       "country": "Turkey",
-      "tournament": "Friendly",
+      "tournament": "Islamic Games",
       "team1": "Turkey",
       "team2": "Libya",
       "score1": 1,
       "score2": 2,
-      "rating1": 1582.5746329568492,
-      "rating2": 1415.0419927686498,
-      "rating_ev": 15.711983405607725
+      "rating1": 1608.8725642792401,
+      "rating2": 1476.6030009274525,
+      "rating_ev": 31.167474951584154
     },
     {
       "date": "1980-10-04",
       "country": "Turkey",
-      "tournament": "Friendly",
+      "tournament": "Islamic Games",
       "team1": "Libya",
       "team2": "Saudi Arabia",
       "score1": 2,
       "score2": 0,
-      "rating1": 1427.2395296076159,
-      "rating2": 1348.6229615401537,
-      "rating_ev": 12.197536838966016
+      "rating1": 1499.7450975730055,
+      "rating2": 1378.2308458293276,
+      "rating_ev": 23.14209664555301
+    },
+    {
+      "date": "1981-06-26",
+      "country": "Libya",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Iran",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 1498.8459274964735,
+      "rating2": 1801.7042012831596,
+      "rating_ev": -0.8991700765320729
+    },
+    {
+      "date": "1982-02-03",
+      "country": "Libya",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Guinea",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1509.1007062386482,
+      "rating2": 1463.777755173826,
+      "rating_ev": 10.254778742174722
     },
     {
       "date": "1982-02-05",
@@ -1221,9 +1653,9 @@
       "team2": "Guinea",
       "score1": 3,
       "score2": 0,
-      "rating1": 1446.6577163679672,
-      "rating2": 1469.6890192570988,
-      "rating_ev": 19.41818676035132
+      "rating1": 1525.3188607946925,
+      "rating2": 1447.5596006177818,
+      "rating_ev": 16.218154556044283
     },
     {
       "date": "1982-02-19",
@@ -1233,117 +1665,117 @@
       "team2": "Qatar",
       "score1": 2,
       "score2": 1,
-      "rating1": 1443.026423939448,
-      "rating2": 1187.4499142105633,
-      "rating_ev": -3.6312924285191457
+      "rating1": 1518.7189242579138,
+      "rating2": 1166.2107680385252,
+      "rating_ev": -6.599936536778614
     },
     {
       "date": "1982-03-05",
       "country": "Libya",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Libya",
       "team2": "Ghana",
       "score1": 2,
       "score2": 2,
-      "rating1": 1448.23761320154,
-      "rating2": 1620.2042178844783,
-      "rating_ev": 5.211189262091921
+      "rating1": 1519.6731788005088,
+      "rating2": 1628.3413300334896,
+      "rating_ev": 0.9542545425949811
     },
     {
       "date": "1982-03-09",
       "country": "Libya",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Libya",
       "team2": "Tunisia",
       "score1": 2,
       "score2": 0,
-      "rating1": 1484.8202582730892,
-      "rating2": 1657.6484551805577,
-      "rating_ev": 36.58264507154922
+      "rating1": 1548.0784694197764,
+      "rating2": 1598.7931291450495,
+      "rating_ev": 28.40529061926759
     },
     {
       "date": "1982-03-12",
       "country": "Libya",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Libya",
       "team2": "Cameroon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1489.854222554267,
-      "rating2": 1659.1743792033294,
-      "rating_ev": 5.033964281177759
+      "rating1": 1548.4966170317691,
+      "rating2": 1649.2262426355715,
+      "rating_ev": 0.41814761199270833
     },
     {
       "date": "1982-03-16",
       "country": "Libya",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Libya",
       "team2": "Zambia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1504.8661453291593,
-      "rating2": 1587.1701721666807,
-      "rating_ev": 15.011922774892355
+      "rating1": 1560.3559741526703,
+      "rating2": 1596.0445242018982,
+      "rating_ev": 11.859357120901223
     },
     {
       "date": "1982-03-19",
       "country": "Libya",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Libya",
       "team2": "Ghana",
       "score1": 1,
       "score2": 1,
-      "rating1": 1508.0947736284734,
-      "rating2": 1650.516472723303,
-      "rating_ev": 3.228628299314096
+      "rating1": 1560.5822694250598,
+      "rating2": 1658.4724083993774,
+      "rating_ev": 0.22629527238950686
     },
     {
       "date": "1983-04-08",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Senegal",
       "score1": 2,
       "score2": 1,
-      "rating1": 1514.900865964967,
-      "rating2": 1476.0660215390192,
-      "rating_ev": 6.806092336493521
+      "rating1": 1563.2428167713852,
+      "rating2": 1463.1965274360296,
+      "rating_ev": 2.660547346325302
     },
     {
       "date": "1983-04-24",
       "country": "Senegal",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Senegal",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1486.697659013689,
-      "rating2": 1504.269228490297,
-      "rating_ev": -10.631637474669787
+      "rating1": 1477.4777473855945,
+      "rating2": 1548.9615968218202,
+      "rating_ev": -14.281219949564957
     },
     {
       "date": "1983-04-28",
       "country": "Ethiopia",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Ghana",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1657.603237687529,
-      "rating2": 1501.7857193183136,
-      "rating_ev": -2.483509171983542
+      "rating1": 1675.4699453687995,
+      "rating2": 1542.1453165020098,
+      "rating_ev": -6.816280319810403
     },
     {
       "date": "1983-05-01",
       "country": "Ethiopia",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Ethiopia",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1317.433594135991,
-      "rating2": 1491.8524130359024,
-      "rating_ev": -9.933306282411195
+      "rating1": 1317.7431548309798,
+      "rating2": 1519.1601752033957,
+      "rating_ev": -22.985141298614053
     },
     {
       "date": "1983-05-03",
@@ -1353,33 +1785,33 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1312.8270088057648,
-      "rating2": 1496.4589983661285,
-      "rating_ev": 4.606585330226153
+      "rating1": 1313.9330621871154,
+      "rating2": 1522.9702678472602,
+      "rating_ev": 3.8100926438644365
     },
     {
-      "date": "1983-08-20",
-      "country": "Greece",
-      "tournament": "Friendly",
-      "team1": "Greece",
+      "date": "1983-05-08",
+      "country": "Kenya",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Kenya",
       "team2": "Libya",
-      "score1": 3,
-      "score2": 2,
-      "rating1": 1663.444824119942,
-      "rating2": 1497.2985113237437,
-      "rating_ev": 0.8395129576151703
-    },
-    {
-      "date": "1983-08-24",
-      "country": "Turkey",
-      "tournament": "Friendly",
-      "team1": "Turkey",
-      "team2": "Libya",
-      "score1": 0,
+      "score1": 1,
       "score2": 0,
-      "rating1": 1438.4558315570032,
-      "rating2": 1498.3951445557886,
-      "rating_ev": 1.096633232044951
+      "rating1": 1410.6264973624545,
+      "rating2": 1507.0088127154156,
+      "rating_ev": -15.96145513184456
+    },
+    {
+      "date": "1983-05-22",
+      "country": "Libya",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Libya",
+      "team2": "Kenya",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1523.2497203544606,
+      "rating2": 1394.3855897234096,
+      "rating_ev": 16.240907639044963
     },
     {
       "date": "1983-08-29",
@@ -1389,9 +1821,21 @@
       "team2": "Zimbabwe",
       "score1": 3,
       "score2": 1,
-      "rating1": 1507.039185643157,
-      "rating2": 1410.9477704309522,
-      "rating_ev": 8.64404108736835
+      "rating1": 1532.5828217163064,
+      "rating2": 1458.2228433988844,
+      "rating_ev": 9.33310136184582
+    },
+    {
+      "date": "1983-09-13",
+      "country": "Morocco",
+      "tournament": "Mediterranean Games",
+      "team1": "Morocco",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1614.1293898321126,
+      "rating2": 1514.3725346589972,
+      "rating_ev": -18.210287057309188
     },
     {
       "date": "1983-10-09",
@@ -1401,9 +1845,33 @@
       "team2": "Malta",
       "score1": 4,
       "score2": 0,
-      "rating1": 1521.8335931438548,
-      "rating2": 1188.302684952973,
-      "rating_ev": 14.794407500697844
+      "rating1": 1530.6734281021284,
+      "rating2": 1245.9391104317572,
+      "rating_ev": 16.300893443131145
+    },
+    {
+      "date": "1983-10-14",
+      "country": "Libya",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Libya",
+      "team2": "Algeria",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1547.4848711584502,
+      "rating2": 1656.4887072521767,
+      "rating_ev": 16.811443056321878
+    },
+    {
+      "date": "1983-10-28",
+      "country": "Algeria",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Algeria",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1671.9784979572746,
+      "rating2": 1531.9950804533523,
+      "rating_ev": -15.489790705097903
     },
     {
       "date": "1985-01-02",
@@ -1413,117 +1881,141 @@
       "team2": "Morocco",
       "score1": 0,
       "score2": 0,
-      "rating1": 1522.4122121564003,
-      "rating2": 1635.244918305803,
-      "rating_ev": 0.5786190125454596
+      "rating1": 1532.7091904289643,
+      "rating2": 1649.8290669490698,
+      "rating_ev": 0.7141099756120184
     },
     {
       "date": "1985-02-22",
       "country": "Sudan",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Sudan",
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1331.9893963812972,
-      "rating2": 1516.3706793094618,
-      "rating_ev": -6.04153284693848
+      "rating1": 1348.7366929484817,
+      "rating2": 1527.0718318410702,
+      "rating_ev": -5.637358587894141
     },
     {
       "date": "1985-03-08",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Sudan",
       "score1": 4,
       "score2": 0,
-      "rating1": 1552.9526704697532,
-      "rating2": 1295.4074052210058,
-      "rating_ev": 36.58199116029141
+      "rating1": 1564.0108708242035,
+      "rating2": 1311.7976539653484,
+      "rating_ev": 36.93903898313329
     },
     {
       "date": "1985-03-29",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Tunisia",
       "score1": 2,
       "score2": 0,
-      "rating1": 1581.636089486512,
-      "rating2": 1636.470513853383,
-      "rating_ev": 28.683419016758762
+      "rating1": 1589.4857692257879,
+      "rating2": 1596.8790802029653,
+      "rating_ev": 25.47489840158437
     },
     {
       "date": "1985-04-14",
       "country": "Tunisia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Tunisia",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1641.5089645531446,
-      "rating2": 1576.5976387867504,
-      "rating_ev": -5.038450699761597
+      "rating1": 1604.7499851685968,
+      "rating2": 1581.6148642601563,
+      "rating_ev": -7.870904965631553
     },
     {
       "date": "1985-07-14",
       "country": "Ghana",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Ghana",
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1605.9000871676392,
-      "rating2": 1584.4579894076703,
-      "rating_ev": 7.860350620919917
+      "rating1": 1591.097717135913,
+      "rating2": 1588.216567769954,
+      "rating_ev": 6.601703509797744
     },
     {
       "date": "1985-07-26",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Ghana",
       "score1": 2,
       "score2": 0,
-      "rating1": 1607.7301451692515,
-      "rating2": 1582.627931406058,
-      "rating_ev": 23.27215576158119
+      "rating1": 1610.380173545112,
+      "rating2": 1568.934111360755,
+      "rating_ev": 22.163605775157976
+    },
+    {
+      "date": "1985-08-03",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Iraq",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1660.6602502283552,
+      "rating2": 1584.186156856098,
+      "rating_ev": -26.194016689014006
+    },
+    {
+      "date": "1985-08-07",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Syria",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1593.01132030772,
+      "rating2": 1256.802861793951,
+      "rating_ev": 8.825163451622075
     },
     {
       "date": "1985-08-23",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Mozambique",
       "score1": 2,
       "score2": 1,
-      "rating1": 1599.2395799418423,
-      "rating2": 1332.2856965953192,
-      "rating_ev": -8.490565227409206
+      "rating1": 1584.590512274853,
+      "rating2": 1318.697762741092,
+      "rating_ev": -8.420808032867171
     },
     {
       "date": "1985-09-15",
       "country": "Mozambique",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Mozambique",
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1356.413166644942,
-      "rating2": 1575.1121098922195,
-      "rating_ev": -24.127470049622843
+      "rating1": 1342.7633843923632,
+      "rating2": 1560.5248906235818,
+      "rating_ev": -24.065621651271158
     },
     {
       "date": "1985-10-06",
       "country": "Morocco",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Morocco",
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1691.4994753849721,
-      "rating2": 1545.12552030564,
-      "rating_ev": -29.986589586579385
+      "rating1": 1689.8735024287046,
+      "rating2": 1531.3589973829796,
+      "rating_ev": -29.165893240602145
     },
     {
       "date": "1985-10-11",
@@ -1533,21 +2025,21 @@
       "team2": "Mexico",
       "score1": 3,
       "score2": 1,
-      "rating1": 1564.0057661531791,
-      "rating2": 1792.4098479917202,
-      "rating_ev": 18.880245847539072
+      "rating1": 1552.5066308587864,
+      "rating2": 1854.787913364566,
+      "rating_ev": 21.147633475806742
     },
     {
       "date": "1985-10-18",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Morocco",
       "score1": 1,
       "score2": 0,
-      "rating1": 1579.919023950633,
-      "rating2": 1675.5862175875184,
-      "rating_ev": 15.913257797453753
+      "rating1": 1569.0060320972234,
+      "rating2": 1673.3741011902675,
+      "rating_ev": 16.49940123843703
     },
     {
       "date": "1988-03-10",
@@ -1557,45 +2049,45 @@
       "team2": "Malta",
       "score1": 1,
       "score2": 0,
-      "rating1": 1576.1420332339949,
-      "rating2": 1315.858411778395,
-      "rating_ev": -3.776990716638011
+      "rating1": 1566.8437740907607,
+      "rating2": 1358.491480535277,
+      "rating_ev": -2.1622580064627073
     },
     {
       "date": "1988-06-03",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Burkina Faso",
       "score1": 3,
       "score2": 0,
-      "rating1": 1594.0892084929424,
-      "rating2": 1267.498830867929,
-      "rating_ev": 17.947175258947482
+      "rating1": 1584.2795910364641,
+      "rating2": 1249.8899410690374,
+      "rating_ev": 17.435816945703436
     },
     {
       "date": "1988-07-03",
       "country": "Burkina Faso",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Burkina Faso",
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1308.7606175502044,
-      "rating2": 1552.827421810667,
-      "rating_ev": -41.26178668227544
+      "rating1": 1291.6003944642373,
+      "rating2": 1542.5691376412642,
+      "rating_ev": -41.71045339519992
     },
     {
       "date": "1989-01-08",
       "country": "Ivory Coast",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Ivory Coast",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1607.7690308920207,
-      "rating2": 1547.476038487479,
-      "rating_ev": -5.351383323187974
+      "rating1": 1607.8274199572836,
+      "rating2": 1537.8723630190393,
+      "rating_ev": -4.696774622224893
     },
     {
       "date": "1991-11-27",
@@ -1605,21 +2097,21 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1313.9175138479745,
-      "rating2": 1529.0083645177795,
-      "rating_ev": -18.46767396969949
+      "rating1": 1356.424130931128,
+      "rating2": 1520.980041492299,
+      "rating_ev": -16.89232152674026
     },
     {
       "date": "1992-07-03",
       "country": "North Korea",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Kazakhstan",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1414.409745149786,
-      "rating2": 1518.2960507005791,
-      "rating_ev": -10.712313817200311
+      "rating1": 1401.0199449041768,
+      "rating2": 1498.541075446783,
+      "rating_ev": -22.438966045516054
     },
     {
       "date": "1992-08-09",
@@ -1629,9 +2121,9 @@
       "team2": "Niger",
       "score1": 0,
       "score2": 0,
-      "rating1": 1511.8549005422644,
-      "rating2": 1403.2945459719851,
-      "rating_ev": -6.441150158314713
+      "rating1": 1492.531712140815,
+      "rating2": 1397.6315102654614,
+      "rating_ev": -6.009363305968009
     },
     {
       "date": "1992-08-12",
@@ -1641,9 +2133,9 @@
       "team2": "Mali",
       "score1": 0,
       "score2": 1,
-      "rating1": 1498.3080137325057,
-      "rating2": 1399.617478979811,
-      "rating_ev": -13.54688680975869
+      "rating1": 1477.4477554651116,
+      "rating2": 1329.9478061107466,
+      "rating_ev": -15.083956675703348
     },
     {
       "date": "1992-08-14",
@@ -1653,9 +2145,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1406.7177383786784,
-      "rating2": 1491.2077543336384,
-      "rating_ev": -7.100259398867365
+      "rating1": 1338.4980082485206,
+      "rating2": 1468.8975533273376,
+      "rating_ev": -8.550202137774022
     },
     {
       "date": "1997-04-27",
@@ -1665,9 +2157,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1343.4486103308045,
-      "rating2": 1475.340447368329,
-      "rating_ev": -15.867306965309353
+      "rating1": 1330.2595540322043,
+      "rating2": 1453.3085130100567,
+      "rating_ev": -15.589040317280933
     },
     {
       "date": "1997-04-30",
@@ -1677,57 +2169,105 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1390.5736329280462,
-      "rating2": 1475.640497098546,
-      "rating_ev": 0.30004973021686965
+      "rating1": 1441.6308912339111,
+      "rating2": 1455.8563749918815,
+      "rating_ev": 2.5478619818247807
+    },
+    {
+      "date": "1997-07-14",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Oman",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1448.721647180387,
+      "rating2": 1343.3412854293226,
+      "rating_ev": -7.134727811494486
+    },
+    {
+      "date": "1997-07-17",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Jordan",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1354.740507775911,
+      "rating2": 1442.7590234347224,
+      "rating_ev": -5.962623745664587
+    },
+    {
+      "date": "1997-07-19",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1328.6487378622696,
+      "rating2": 1426.686041541548,
+      "rating_ev": -16.0729818931743
     },
     {
       "date": "1997-09-20",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Bahrain",
       "score1": 2,
       "score2": 1,
-      "rating1": 1474.459494533318,
-      "rating2": 1297.4417299907539,
-      "rating_ev": -1.1810025652278
+      "rating1": 1428.161754001158,
+      "rating2": 1310.5725885759914,
+      "rating_ev": 1.4757124596098947
+    },
+    {
+      "date": "1997-09-23",
+      "country": "Libya",
+      "tournament": "Friendly tournament",
+      "team1": "Libya",
+      "team2": "Chad",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1434.1729454618714,
+      "rating2": 1152.3587291058989,
+      "rating_ev": 6.011191460713462
     },
     {
       "date": "1997-09-25",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Jordan",
       "score1": 1,
       "score2": 1,
-      "rating1": 1466.9504215277493,
-      "rating2": 1324.524224242769,
-      "rating_ev": -7.50907300556878
+      "rating1": 1426.4287257968967,
+      "rating2": 1406.69956135354,
+      "rating_ev": -7.7442196649747075
     },
     {
       "date": "1998-07-31",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Algeria",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1434.311733633764,
-      "rating2": 1510.2187214199787,
-      "rating_ev": -32.63868789398521
+      "score1": 1,
+      "score2": 3,
+      "rating1": 1395.8902795996862,
+      "rating2": 1502.7708633877032,
+      "rating_ev": -30.538446197210533
     },
     {
       "date": "1998-08-14",
       "country": "Algeria",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Algeria",
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1540.830661146399,
-      "rating2": 1403.6997939073437,
-      "rating_ev": -30.61193972642036
+      "rating1": 1531.5381837583118,
+      "rating2": 1367.1229592290777,
+      "rating_ev": -28.76732037060856
     },
     {
       "date": "1998-09-13",
@@ -1737,9 +2277,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 2,
-      "rating1": 1298.547380972884,
-      "rating2": 1400.4673393369858,
-      "rating_ev": -3.232454570357959
+      "rating1": 1308.2380392971395,
+      "rating2": 1365.3110640163136,
+      "rating_ev": -1.8118952127640569
     },
     {
       "date": "1998-09-16",
@@ -1749,9 +2289,9 @@
       "team2": "Libya",
       "score1": 5,
       "score2": 1,
-      "rating1": 1526.4579419974082,
-      "rating2": 1379.833813088162,
-      "rating_ev": -20.633526248823728
+      "rating1": 1557.7971602084824,
+      "rating2": 1346.7100634561539,
+      "rating_ev": -18.60100056015972
     },
     {
       "date": "1998-09-22",
@@ -1761,21 +2301,21 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1547.2462220161208,
-      "rating2": 1381.59243043008,
-      "rating_ev": 1.7586173419178976
+      "rating1": 1555.9279845214642,
+      "rating2": 1351.0886576080018,
+      "rating_ev": 4.378594151847892
     },
     {
       "date": "1998-09-24",
       "country": "Qatar",
       "tournament": "Arab Cup",
-      "team1": "Libya",
-      "team2": "Jordan",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1364.4153701782043,
-      "rating2": 1344.7814570764294,
-      "rating_ev": -17.177060251875673
+      "team1": "Jordan",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1406.8258147440697,
+      "rating2": 1339.7887016914958,
+      "rating_ev": -11.29995591650595
     },
     {
       "date": "1999-05-16",
@@ -1785,9 +2325,69 @@
       "team2": "Senegal",
       "score1": 2,
       "score2": 1,
-      "rating1": 1370.1931152205552,
-      "rating2": 1412.951721154925,
-      "rating_ev": 5.7777450423509435
+      "rating1": 1346.1681289117926,
+      "rating2": 1407.8997715169533,
+      "rating_ev": 6.379427220296748
+    },
+    {
+      "date": "1999-08-21",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Iraq",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1389.8387390916394,
+      "rating2": 1573.2806625609128,
+      "rating_ev": 43.67061017984679
+    },
+    {
+      "date": "1999-08-23",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Syria",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1392.460869416357,
+      "rating2": 1431.1271898413138,
+      "rating_ev": 2.6221303247175456
+    },
+    {
+      "date": "1999-08-25",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1382.5585384248898,
+      "rating2": 1236.045562783992,
+      "rating_ev": -9.902330991467124
+    },
+    {
+      "date": "1999-08-27",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "United Arab Emirates",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1402.9777711262946,
+      "rating2": 1470.5376941993404,
+      "rating_ev": 20.41923270140478
+    },
+    {
+      "date": "1999-08-29",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Iraq",
+      "team2": "Libya",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1634.4636951103919,
+      "rating2": 1388.2204222517585,
+      "rating_ev": -14.757348874536092
     },
     {
       "date": "1999-11-19",
@@ -1797,9 +2397,9 @@
       "team2": "Togo",
       "score1": 2,
       "score2": 1,
-      "rating1": 1374.2297810115501,
-      "rating2": 1362.152289948254,
-      "rating_ev": 4.036665790994903
+      "rating1": 1392.0078608885287,
+      "rating2": 1372.0832808002392,
+      "rating_ev": 3.7874386367702755
     },
     {
       "date": "1999-11-27",
@@ -1809,9 +2409,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1467.4861893321306,
-      "rating2": 1372.8136091315712,
-      "rating_ev": -1.416171879978947
+      "rating1": 1490.2421697784819,
+      "rating2": 1390.7444404332023,
+      "rating_ev": -1.263420455326468
     },
     {
       "date": "1999-12-04",
@@ -1821,33 +2421,33 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 2,
-      "rating1": 1202.5359418080525,
-      "rating2": 1377.6867268388864,
-      "rating_ev": 4.873117707315259
+      "rating1": 1220.81246579061,
+      "rating2": 1395.6280968596334,
+      "rating_ev": 4.883656426431116
     },
     {
       "date": "1999-12-23",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Gabon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1389.6128522085337,
-      "rating2": 1396.9172464461037,
-      "rating_ev": 11.926125369647252
+      "rating1": 1417.238619264196,
+      "rating2": 1367.6387346938855,
+      "rating_ev": 21.610522404562516
     },
     {
       "date": "1999-12-29",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Togo",
       "score1": 2,
       "score2": 0,
-      "rating1": 1399.5144319441806,
-      "rating2": 1343.067151348689,
-      "rating_ev": 9.90157973564692
+      "rating1": 1435.146242544778,
+      "rating2": 1330.9197733941303,
+      "rating_ev": 17.90762328058213
     },
     {
       "date": "2000-01-26",
@@ -1857,81 +2457,105 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 2,
-      "rating1": 1327.893733306876,
-      "rating2": 1393.0271898355963,
-      "rating_ev": -6.487242108584269
+      "rating1": 1296.7400906985854,
+      "rating2": 1426.6126455339495,
+      "rating_ev": -8.533597010828544
     },
     {
       "date": "2000-04-09",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Mali",
       "score1": 3,
       "score2": 0,
-      "rating1": 1431.7687530859107,
-      "rating2": 1414.563899549349,
-      "rating_ev": 38.74156325031436
+      "rating1": 1462.72337752039,
+      "rating2": 1406.7089353291267,
+      "rating_ev": 36.11073198644044
     },
     {
       "date": "2000-04-23",
       "country": "Mali",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Mali",
       "team2": "Libya",
       "score1": 3,
       "score2": 1,
-      "rating1": 1439.7533566930988,
-      "rating2": 1408.8875021681688,
-      "rating_ev": -22.88125091774191
+      "rating1": 1434.2650284502595,
+      "rating2": 1437.528281798448,
+      "rating_ev": -25.195095721941925
     },
     {
       "date": "2000-06-18",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Cameroon",
       "score1": 0,
       "score2": 3,
-      "rating1": 1374.8448620724903,
-      "rating2": 1651.2742397354361,
-      "rating_ev": -34.04264009567851
+      "rating1": 1402.2725147992505,
+      "rating2": 1660.5403079480145,
+      "rating_ev": -35.255766999197476
+    },
+    {
+      "date": "2000-06-28",
+      "country": "Libya",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Ivory Coast",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1416.659690257594,
+      "rating2": 1501.615754692787,
+      "rating_ev": 14.387175458343563
+    },
+    {
+      "date": "2000-07-02",
+      "country": "Chad",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Chad",
+      "team2": "Libya",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1258.0493775793673,
+      "rating2": 1383.2474824386118,
+      "rating_ev": -33.412207818982324
     },
     {
       "date": "2000-07-14",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Chad",
       "score1": 3,
       "score2": 1,
-      "rating1": 1390.7554186989305,
-      "rating2": 1257.0022703217776,
-      "rating_ev": 15.910556626440211
+      "rating1": 1397.7745958577932,
+      "rating2": 1243.5222641601858,
+      "rating_ev": 14.527113419181433
     },
     {
       "date": "2000-09-10",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Sudan",
       "score1": 1,
       "score2": 0,
-      "rating1": 1392.0040444839565,
-      "rating2": 1271.0491715744292,
-      "rating_ev": 1.248625785025979
+      "rating1": 1399.4572658749262,
+      "rating2": 1284.9344619258268,
+      "rating_ev": 1.6826700171329776
     },
     {
       "date": "2000-11-19",
       "country": "Ivory Coast",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Ivory Coast",
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1568.0847706434422,
-      "rating2": 1394.3072217758952,
-      "rating_ev": 2.3031772919387095
+      "rating1": 1556.8331327657504,
+      "rating2": 1400.5845932307116,
+      "rating_ev": 1.1273273557853827
     },
     {
       "date": "2000-11-22",
@@ -1941,141 +2565,141 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1591.1130162839188,
-      "rating2": 1403.242205962701,
-      "rating_ev": 8.934984186805877
+      "rating1": 1580.6922036856283,
+      "rating2": 1409.012610729765,
+      "rating_ev": 8.42801749905334
     },
     {
       "date": "2001-01-14",
       "country": "Egypt",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Egypt",
       "team2": "Libya",
       "score1": 4,
       "score2": 0,
-      "rating1": 1680.6201261525964,
-      "rating2": 1370.1835553834471,
-      "rating_ev": -33.058650579253936
+      "rating1": 1695.061517686349,
+      "rating2": 1376.4923968907426,
+      "rating_ev": -32.52021383902229
     },
     {
       "date": "2001-01-28",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Libya",
       "score1": 3,
       "score2": 1,
-      "rating1": 1419.8241187612607,
-      "rating2": 1349.9481895979502,
-      "rating_ev": -20.235365785496924
+      "rating1": 1412.9672002950958,
+      "rating2": 1355.4208670540786,
+      "rating_ev": -21.071529836664013
     },
     {
       "date": "2001-02-23",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Togo",
       "score1": 3,
       "score2": 3,
-      "rating1": 1346.5475831956662,
-      "rating2": 1390.8649344423682,
-      "rating_ev": -3.4006064022839837
+      "rating1": 1351.477464026076,
+      "rating2": 1387.7892367695465,
+      "rating_ev": -3.943403028002649
     },
     {
       "date": "2001-03-10",
       "country": "Zambia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Zambia",
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1389.0242937130815,
-      "rating2": 1325.857261227119,
-      "rating_ev": -20.690321968547323
+      "rating1": 1396.1698797293927,
+      "rating2": 1330.9278621157573,
+      "rating_ev": -20.549601910318643
     },
     {
       "date": "2001-03-23",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Egypt",
       "score1": 2,
       "score2": 0,
-      "rating1": 1368.1587287144364,
-      "rating2": 1628.2404803218596,
-      "rating_ev": 42.301467487317495
+      "rating1": 1373.633529489461,
+      "rating2": 1639.9620950481628,
+      "rating_ev": 42.70566737370359
     },
     {
       "date": "2001-04-22",
       "country": "Cameroon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Cameroon",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1682.4942537137038,
-      "rating2": 1379.0372447909986,
-      "rating_ev": 10.878516076562164
+      "rating1": 1690.8942715488174,
+      "rating2": 1384.6907539457616,
+      "rating_ev": 11.057224456300673
     },
     {
       "date": "2001-06-03",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Ivory Coast",
       "score1": 0,
       "score2": 3,
-      "rating1": 1346.0435150604185,
-      "rating2": 1638.2249453815625,
-      "rating_ev": -32.99372973058007
+      "rating1": 1350.3657086099204,
+      "rating2": 1622.5620153248708,
+      "rating_ev": -34.325045335841196
     },
     {
       "date": "2001-06-17",
       "country": "Sudan",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Sudan",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1330.727646407164,
-      "rating2": 1336.2302022800666,
-      "rating_ev": -9.813312780351907
+      "rating1": 1347.6153029411373,
+      "rating2": 1341.3504826128235,
+      "rating_ev": -9.015225997096877
     },
     {
       "date": "2001-06-29",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1338.10846178421,
-      "rating2": 1460.4738908010088,
-      "rating_ev": 1.8782595041434433
+      "rating1": 1342.758549867699,
+      "rating2": 1458.1514681277247,
+      "rating_ev": 1.4080672548755047
     },
     {
       "date": "2001-07-15",
       "country": "Togo",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Togo",
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1449.0741380927655,
-      "rating2": 1321.7626150320232,
-      "rating_ev": -16.345846752186844
+      "rating1": 1461.1099060988126,
+      "rating2": 1326.8801873924103,
+      "rating_ev": -15.878362475288668
     },
     {
       "date": "2001-07-27",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Zambia",
       "score1": 2,
       "score2": 4,
-      "rating1": 1293.6283915956358,
-      "rating2": 1436.0155584403171,
-      "rating_ev": -28.1342234363874
+      "rating1": 1298.8100436348066,
+      "rating2": 1442.1446904241784,
+      "rating_ev": -28.070143757603773
     },
     {
       "date": "2002-08-27",
@@ -2085,9 +2709,9 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1635.5102581328463,
-      "rating2": 1314.0857152089368,
-      "rating_ev": 20.457323613301014
+      "rating1": 1642.0529788795882,
+      "rating2": 1319.307357190957,
+      "rating_ev": 20.497313556150402
     },
     {
       "date": "2002-09-02",
@@ -2097,33 +2721,33 @@
       "team2": "Togo",
       "score1": 4,
       "score2": 0,
-      "rating1": 1341.5365498354874,
-      "rating2": 1409.9046175715953,
-      "rating_ev": 27.45083462655066
+      "rating1": 1346.9471536631077,
+      "rating2": 1421.299736518596,
+      "rating_ev": 27.639796472150692
     },
     {
       "date": "2002-09-08",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "DR Congo",
       "score1": 3,
       "score2": 2,
-      "rating1": 1354.4690729848026,
-      "rating2": 1406.0079666786157,
-      "rating_ev": 12.932523149315102
+      "rating1": 1360.9631963070583,
+      "rating2": 1428.522971103849,
+      "rating_ev": 14.016042643950641
     },
     {
       "date": "2002-10-13",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1145.851392076789,
-      "rating2": 1332.4658182125163,
-      "rating_ev": -22.003254772286255
+      "rating1": 1163.7665841272315,
+      "rating2": 1339.6721417660733,
+      "rating_ev": -21.291054540984987
     },
     {
       "date": "2003-02-12",
@@ -2133,21 +2757,21 @@
       "team2": "Canada",
       "score1": 2,
       "score2": 4,
-      "rating1": 1322.3373935001769,
-      "rating2": 1561.7314456334284,
-      "rating_ev": -10.128424712339438
+      "rating1": 1329.9170383495948,
+      "rating2": 1581.286351820933,
+      "rating_ev": -9.755103416478505
     },
     {
       "date": "2003-03-30",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Botswana",
       "score1": 0,
       "score2": 0,
-      "rating1": 1302.9982384358964,
-      "rating2": 1110.9299648811261,
-      "rating_ev": -19.339155064280476
+      "rating1": 1311.5868655794961,
+      "rating2": 1134.6837022874079,
+      "rating_ev": -18.33017277009867
     },
     {
       "date": "2003-04-30",
@@ -2157,9 +2781,9 @@
       "team2": "Argentina",
       "score1": 1,
       "score2": 3,
-      "rating1": 1306.510210972607,
-      "rating2": 2013.3632547886389,
-      "rating_ev": 3.511972536710573
+      "rating1": 1315.8948090364775,
+      "rating2": 2053.0307981833403,
+      "rating_ev": 4.30794345698132
     },
     {
       "date": "2003-06-03",
@@ -2169,69 +2793,69 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 2,
-      "rating1": 1363.5960270051162,
-      "rating2": 1303.9827495339355,
-      "rating_ev": -2.52746143867148
+      "rating1": 1382.9859968031503,
+      "rating2": 1313.6749564181519,
+      "rating_ev": -2.2198526183256035
     },
     {
       "date": "2003-06-07",
       "country": "Botswana",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Botswana",
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1117.3858696141854,
-      "rating2": 1313.0097127255547,
-      "rating_ev": 9.026963191619188
+      "rating1": 1137.421377550927,
+      "rating2": 1323.351844864239,
+      "rating_ev": 9.676888446087105
     },
     {
       "date": "2003-06-22",
-      "country": "DR Congo",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Dem Rep of the Congo",
+      "tournament": "African Nations Cup qualifier",
       "team1": "DR Congo",
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1431.5099738047163,
-      "rating2": 1311.6848695052597,
-      "rating_ev": -1.3248432202949516
+      "rating1": 1468.78460813645,
+      "rating2": 1317.730262152006,
+      "rating_ev": -5.621582712233021
     },
     {
       "date": "2003-07-05",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Eswatini",
       "score1": 6,
       "score2": 2,
-      "rating1": 1350.042592434093,
-      "rating2": 1118.972747005779,
-      "rating_ev": 38.357722928833255
+      "rating1": 1356.3203737644296,
+      "rating2": 1128.707852088567,
+      "rating_ev": 38.5901116124237
     },
     {
       "date": "2003-10-11",
       "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 966.3432396402343,
-      "rating2": 1346.9237074802677,
-      "rating_ev": -3.1188849538252725
+      "rating1": 927.424202213025,
+      "rating2": 1350.5015687643336,
+      "rating_ev": -5.818805000096063
     },
     {
       "date": "2003-11-16",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Libya",
       "team2": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "score1": 8,
       "score2": 0,
-      "rating1": 1411.3874489889574,
-      "rating2": 893.05093476549,
-      "rating_ev": 64.46374150868974
+      "rating1": 1412.5827158990537,
+      "rating2": 856.7471985762091,
+      "rating_ev": 62.08114713472014
     },
     {
       "date": "2004-01-16",
@@ -2241,9 +2865,9 @@
       "team2": "Kenya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1423.2415080195228,
-      "rating2": 1428.2761550312912,
-      "rating_ev": 11.854059030565395
+      "rating1": 1424.5738695668726,
+      "rating2": 1433.9264537379165,
+      "rating_ev": 11.991153667818935
     },
     {
       "date": "2004-01-19",
@@ -2253,9 +2877,9 @@
       "team2": "Kenya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1434.3876231492802,
-      "rating2": 1417.1300399015338,
-      "rating_ev": 11.14611512975739
+      "rating1": 1435.8489342877947,
+      "rating2": 1422.6513890169945,
+      "rating_ev": 11.275064720922046
     },
     {
       "date": "2004-02-18",
@@ -2265,9 +2889,9 @@
       "team2": "Ukraine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1438.1157309031496,
-      "rating2": 1651.1674865811856,
-      "rating_ev": 3.7281077538693808
+      "rating1": 1440.2233486123537,
+      "rating2": 1674.028175951703,
+      "rating_ev": 4.374414324558984
     },
     {
       "date": "2004-03-26",
@@ -2277,21 +2901,21 @@
       "team2": "Qatar",
       "score1": 1,
       "score2": 0,
-      "rating1": 1446.9439635145334,
-      "rating2": 1491.311296589542,
-      "rating_ev": 8.828232611383783
+      "rating1": 1449.0033087671325,
+      "rating2": 1491.8486939867619,
+      "rating_ev": 8.779960154778792
     },
     {
       "date": "2004-04-30",
       "country": "Nigeria",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Jordan",
       "score1": 1,
       "score2": 0,
-      "rating1": 1458.4958023748954,
-      "rating2": 1589.0046803359444,
-      "rating_ev": 11.551838860362068
+      "rating1": 1472.4006901519708,
+      "rating2": 1584.1773708296248,
+      "rating_ev": 23.397381384838354
     },
     {
       "date": "2004-05-30",
@@ -2301,93 +2925,105 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 2,
-      "rating1": 1385.7941401688784,
-      "rating2": 1451.9753576723988,
-      "rating_ev": -6.520444702496661
+      "rating1": 1387.8484337649002,
+      "rating2": 1465.5163890327765,
+      "rating_ev": -6.884301119194333
     },
     {
       "date": "2004-06-06",
       "country": "Ivory Coast",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Ivory Coast",
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1678.0977119346912,
-      "rating2": 1442.876357687026,
-      "rating_ev": -9.098999985372757
+      "rating1": 1664.7025937644144,
+      "rating2": 1454.731983238102,
+      "rating_ev": -10.784405794674512
     },
     {
       "date": "2004-06-18",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Libya",
       "team2": "Cameroon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1455.011598900584,
-      "rating2": 1731.456674961471,
-      "rating_ev": 12.135241213557947
+      "rating1": 1462.3282874093914,
+      "rating2": 1670.0291905377264,
+      "rating_ev": 7.5963041712893755
     },
     {
       "date": "2004-07-03",
       "country": "Sudan",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Sudan",
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1299.5734416734817,
-      "rating2": 1465.9990218489256,
-      "rating_ev": 10.987422948341646
+      "rating1": 1327.3614730619481,
+      "rating2": 1474.6075859722498,
+      "rating_ev": 12.279298562858457
     },
     {
       "date": "2004-09-03",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Libya",
       "team2": "Benin",
       "score1": 4,
       "score2": 1,
-      "rating1": 1490.008840109391,
-      "rating2": 1254.8447674165034,
-      "rating_ev": 24.00981826046541
+      "rating1": 1497.5365600556502,
+      "rating2": 1246.1956633527911,
+      "rating_ev": 22.928974083400362
     },
     {
       "date": "2004-10-08",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Libya",
       "team2": "Egypt",
       "score1": 2,
       "score2": 1,
-      "rating1": 1511.5386808630271,
-      "rating2": 1691.0321770786825,
-      "rating_ev": 21.52984075363611
+      "rating1": 1518.0269314467025,
+      "rating2": 1681.919486018471,
+      "rating_ev": 20.49037139105235
+    },
+    {
+      "date": "2004-10-20",
+      "country": "Libya",
+      "tournament": "Friendly tournament",
+      "team1": "Libya",
+      "team2": "Nigeria",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1541.5801889553336,
+      "rating2": 1751.5836043464715,
+      "rating_ev": 23.553257508631077
     },
     {
       "date": "2004-10-22",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Jordan",
       "score1": 1,
       "score2": 0,
-      "rating1": 1518.4129426694067,
-      "rating2": 1595.7638418341571,
-      "rating_ev": 6.874261806379536
+      "rating1": 1554.7599336427206,
+      "rating2": 1609.952527691511,
+      "rating_ev": 13.179744687387029
     },
     {
       "date": "2005-03-27",
       "country": "Egypt",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Egypt",
       "team2": "Libya",
       "score1": 4,
       "score2": 1,
-      "rating1": 1756.073977876969,
-      "rating2": 1496.0620298679373,
-      "rating_ev": -22.35091280146935
+      "rating1": 1752.174699852586,
+      "rating2": 1529.8876564051477,
+      "rating_ev": -24.872277237572916
     },
     {
       "date": "2005-05-27",
@@ -2397,33 +3033,33 @@
       "team2": "Malawi",
       "score1": 1,
       "score2": 1,
-      "rating1": 1484.2376010946784,
-      "rating2": 1203.16970139299,
-      "rating_ev": -11.824428773258887
+      "rating1": 1517.307411107618,
+      "rating2": 1211.5473668589575,
+      "rating_ev": -12.5802452975297
     },
     {
       "date": "2005-06-03",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Libya",
       "team2": "Ivory Coast",
       "score1": 0,
       "score2": 0,
-      "rating1": 1492.314502199112,
-      "rating2": 1707.2448920561483,
-      "rating_ev": 8.076901104433546
+      "rating1": 1522.7629651640318,
+      "rating2": 1698.3804585347557,
+      "rating_ev": 5.455554056413803
     },
     {
       "date": "2005-06-19",
       "country": "Cameroon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Cameroon",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1713.390351404673,
-      "rating2": 1497.4330980752775,
-      "rating_ev": 5.1185958761655
+      "rating1": 1675.5789110928133,
+      "rating2": 1523.6032154407199,
+      "rating_ev": 0.8402502766880389
     },
     {
       "date": "2005-08-17",
@@ -2433,9 +3069,9 @@
       "team2": "Nigeria",
       "score1": 0,
       "score2": 1,
-      "rating1": 1493.3909458454457,
-      "rating2": 1695.0164488169899,
-      "rating_ev": -4.0421522298318
+      "rating1": 1518.7407671746998,
+      "rating2": 1694.2308781656693,
+      "rating_ev": -4.86244826602001
     },
     {
       "date": "2005-08-24",
@@ -2445,33 +3081,33 @@
       "team2": "Libya",
       "score1": 4,
       "score2": 0,
-      "rating1": 1847.5888721118174,
-      "rating2": 1479.6487022684664,
-      "rating_ev": -13.742243576979263
+      "rating1": 1860.6740852065268,
+      "rating2": 1504.6356156830573,
+      "rating_ev": -14.105151491642573
     },
     {
       "date": "2005-09-02",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Libya",
       "team2": "Sudan",
       "score1": 0,
       "score2": 0,
-      "rating1": 1465.1744332047078,
-      "rating2": 1345.858283922302,
-      "rating_ev": -14.474269063758584
+      "rating1": 1489.2404894776912,
+      "rating2": 1356.2183124464805,
+      "rating_ev": -15.395126205366068
     },
     {
       "date": "2005-10-09",
       "country": "Benin",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Benin",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1254.203440370106,
-      "rating2": 1443.0246078860378,
-      "rating_ev": -22.149825318670082
+      "rating1": 1248.546449687382,
+      "rating2": 1465.245013012221,
+      "rating_ev": -23.99547646547012
     },
     {
       "date": "2005-11-16",
@@ -2481,9 +3117,9 @@
       "team2": "DR Congo",
       "score1": 2,
       "score2": 1,
-      "rating1": 1450.1368791853738,
-      "rating2": 1440.4499352877392,
-      "rating_ev": 7.112271299336044
+      "rating1": 1472.7933439572005,
+      "rating2": 1476.8364698249554,
+      "rating_ev": 7.548330944979398
     },
     {
       "date": "2005-12-02",
@@ -2493,9 +3129,9 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1462.2872399465855,
-      "rating2": 1453.4182360742045,
-      "rating_ev": 3.2813568888307145
+      "rating1": 1475.8504818413437,
+      "rating2": 1475.794791131066,
+      "rating_ev": 3.001447173865472
     },
     {
       "date": "2006-01-02",
@@ -2505,9 +3141,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1550.255497946541,
-      "rating2": 1445.0625285083718,
-      "rating_ev": -8.355707565832745
+      "rating1": 1511.6648516983769,
+      "rating2": 1465.5646917788295,
+      "rating_ev": -10.230099352236493
     },
     {
       "date": "2006-01-12",
@@ -2517,69 +3153,69 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1705.18349279607,
-      "rating2": 1448.7212476675545,
-      "rating_ev": 3.6587191591827377
+      "rating1": 1712.5227216094202,
+      "rating2": 1468.8276063125504,
+      "rating_ev": 3.2629145337209593
     },
     {
       "date": "2006-01-20",
       "country": "Egypt",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Egypt",
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1762.1545318739952,
-      "rating2": 1431.0689274395938,
-      "rating_ev": -17.652320227960672
+      "rating1": 1795.1182495461424,
+      "rating2": 1451.9651172081174,
+      "rating_ev": -16.862489104433052
     },
     {
       "date": "2006-01-24",
       "country": "Egypt",
-      "tournament": "African Cup of Nations",
-      "team1": "Libya",
-      "team2": "Ivory Coast",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1435.830324241249,
-      "rating2": 1743.2628490174009,
-      "rating_ev": 4.76139680165511
+      "tournament": "African Nations Cup",
+      "team1": "Ivory Coast",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1737.6331977636155,
+      "rating2": 1455.097149622452,
+      "rating_ev": 3.132032414334617
     },
     {
       "date": "2006-01-28",
       "country": "Egypt",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Libya",
       "team2": "Morocco",
       "score1": 0,
       "score2": 0,
-      "rating1": 1449.850198821448,
-      "rating2": 1658.0460909673463,
-      "rating_ev": 14.01987458019903
+      "rating1": 1466.0268321027509,
+      "rating2": 1627.8685404865853,
+      "rating_ev": 10.92968248029888
     },
     {
       "date": "2006-05-30",
       "country": "Tunisia",
-      "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Uruguay",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1454.3107461649286,
-      "rating2": 1835.0497139528889,
-      "rating_ev": 4.4605473434805845
+      "tournament": "Friendly tournament",
+      "team1": "Uruguay",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1857.251763185072,
+      "rating2": 1475.5771934957652,
+      "rating_ev": 9.550361393014327
     },
     {
       "date": "2006-06-02",
       "country": "Tunisia",
-      "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Belarus",
+      "tournament": "Friendly tournament",
+      "team1": "Belarus",
+      "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1457.6611572935456,
-      "rating2": 1563.311633106738,
-      "rating_ev": 3.3504111286169973
+      "rating1": 1572.2119273049586,
+      "rating2": 1481.7077448817527,
+      "rating_ev": 6.130551385987474
     },
     {
       "date": "2006-06-05",
@@ -2589,9 +3225,9 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1774.1599306242692,
-      "rating2": 1446.284927210801,
-      "rating_ev": -11.376230082744542
+      "rating1": 1793.156283054273,
+      "rating2": 1470.181015346901,
+      "rating_ev": -11.526729534851711
     },
     {
       "date": "2006-08-05",
@@ -2601,9 +3237,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1426.9914445358802,
-      "rating2": 1441.4068638744936,
-      "rating_ev": -4.8780633363073775
+      "rating1": 1488.4308724957662,
+      "rating2": 1466.4586094689976,
+      "rating_ev": -3.722405877903384
     },
     {
       "date": "2006-08-16",
@@ -2613,9 +3249,9 @@
       "team2": "Uganda",
       "score1": 3,
       "score2": 2,
-      "rating1": 1443.4842204952724,
-      "rating2": 1369.679238932965,
-      "rating_ev": 2.077356620778801
+      "rating1": 1468.5267763360816,
+      "rating2": 1394.4319376549029,
+      "rating_ev": 2.0681668670840736
     },
     {
       "date": "2006-08-26",
@@ -2625,9 +3261,9 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1161.0667420810237,
-      "rating2": 1444.9671413948063,
-      "rating_ev": 1.4829208995338377
+      "rating1": 1181.3672151681105,
+      "rating2": 1469.8678203949323,
+      "rating_ev": 1.3410440588506845
     },
     {
       "date": "2006-08-29",
@@ -2637,21 +3273,21 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1166.646753247272,
-      "rating2": 1439.387130228558,
-      "rating_ev": -5.580011166248369
+      "rating1": 1187.0807865999554,
+      "rating2": 1464.1542489630874,
+      "rating_ev": -5.713571431844912
     },
     {
       "date": "2006-09-03",
       "country": "Ethiopia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Ethiopia",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1415.581728729073,
-      "rating2": 1429.034715794112,
-      "rating_ev": -10.352414434446018
+      "rating1": 1424.8623764991255,
+      "rating2": 1452.8187518110196,
+      "rating_ev": -11.335497152067774
     },
     {
       "date": "2006-10-01",
@@ -2661,21 +3297,21 @@
       "team2": "Sudan",
       "score1": 1,
       "score2": 0,
-      "rating1": 1428.9463651889762,
-      "rating2": 1286.6608113314733,
-      "rating_ev": -0.0883506051357017
+      "rating1": 1452.2808885286759,
+      "rating2": 1295.724833741659,
+      "rating_ev": -0.5378632823437783
     },
     {
       "date": "2006-10-08",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "DR Congo",
       "score1": 1,
       "score2": 1,
-      "rating1": 1423.5759064942167,
-      "rating2": 1438.846781205759,
-      "rating_ev": -5.3704586947594635
+      "rating1": 1447.3145939174387,
+      "rating2": 1468.5439825699575,
+      "rating_ev": -4.966294611237117
     },
     {
       "date": "2006-11-15",
@@ -2685,9 +3321,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1630.7616103978748,
-      "rating2": 1418.5903888352555,
-      "rating_ev": -4.985517658961271
+      "rating1": 1661.2681829703954,
+      "rating2": 1442.534303744583,
+      "rating_ev": -4.780290172855757
     },
     {
       "date": "2007-02-07",
@@ -2697,9 +3333,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1408.84302201548,
-      "rating2": 1414.0061494520642,
-      "rating_ev": -4.584239383191289
+      "rating1": 1393.7590492677673,
+      "rating2": 1436.7492121644432,
+      "rating_ev": -5.785091580139806
     },
     {
       "date": "2007-03-20",
@@ -2709,21 +3345,21 @@
       "team2": "Mauritania",
       "score1": 0,
       "score2": 0,
-      "rating1": 1403.2534187352317,
-      "rating2": 1156.9562736309126,
-      "rating_ev": -10.752730716832502
+      "rating1": 1426.8249030339023,
+      "rating2": 1207.2331054820643,
+      "rating_ev": -9.924309130540905
     },
     {
       "date": "2007-03-25",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Namibia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1396.7640003542488,
-      "rating2": 1160.1447650079986,
-      "rating_ev": -6.489418380982897
+      "rating1": 1418.8598684746294,
+      "rating2": 1159.893444112982,
+      "rating_ev": -7.965034559272908
     },
     {
       "date": "2007-05-27",
@@ -2733,33 +3369,33 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1315.13675671957,
-      "rating2": 1397.1604610726758,
-      "rating_ev": 0.396460718427079
+      "rating1": 1274.4891522281991,
+      "rating2": 1417.333953052896,
+      "rating_ev": -1.5259154217333162
     },
     {
       "date": "2007-06-02",
       "country": "Namibia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Namibia",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1182.7700524114673,
-      "rating2": 1374.797776767507,
-      "rating_ev": -22.36268430516884
+      "rating1": 1183.9091242297984,
+      "rating2": 1393.7888703466692,
+      "rating_ev": -23.54508270622682
     },
     {
       "date": "2007-06-17",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Ethiopia",
       "score1": 3,
       "score2": 1,
-      "rating1": 1395.0798447172085,
-      "rating2": 1325.892646467096,
-      "rating_ev": 20.282067949701513
+      "rating1": 1413.2715793890127,
+      "rating2": 1332.2940468244044,
+      "rating_ev": 19.48270904234346
     },
     {
       "date": "2007-08-22",
@@ -2769,21 +3405,21 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1393.7123310823165,
-      "rating2": 1390.7535574364822,
-      "rating_ev": -4.326287280726319
+      "rating1": 1407.4254196266136,
+      "rating2": 1408.8074265736018,
+      "rating_ev": -4.464152815410898
     },
     {
       "date": "2007-09-08",
-      "country": "DR Congo",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Dem Rep of the Congo",
+      "tournament": "African Nations Cup qualifier",
       "team1": "DR Congo",
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1411.8865251756126,
-      "rating2": 1398.0951680941005,
-      "rating_ev": 7.341610657618276
+      "rating1": 1447.4660738880204,
+      "rating2": 1411.2626159923414,
+      "rating_ev": 2.4551894187395646
     },
     {
       "date": "2007-10-16",
@@ -2793,9 +3429,33 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1480.8336750728893,
-      "rating2": 1389.3064724809842,
-      "rating_ev": -8.78869561311626
+      "rating1": 1490.5379439955395,
+      "rating2": 1402.3675091401108,
+      "rating_ev": -8.895106852230583
+    },
+    {
+      "date": "2007-11-18",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Saudi Arabia",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1435.5284688919523,
+      "rating2": 1694.7058821322776,
+      "rating_ev": 33.160959751841574
+    },
+    {
+      "date": "2007-11-21",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Egypt",
+      "team2": "Libya",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1649.8703004866145,
+      "rating2": 1455.050372927393,
+      "rating_ev": 19.521904035440684
     },
     {
       "date": "2008-03-26",
@@ -2805,9 +3465,9 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1403.6790645389417,
-      "rating2": 1392.6562308942496,
-      "rating_ev": 3.349758413265363
+      "rating1": 1415.7982264921814,
+      "rating2": 1456.749577559257,
+      "rating_ev": 1.6992046318639495
     },
     {
       "date": "2008-05-22",
@@ -2817,9 +3477,9 @@
       "team2": "Zambia",
       "score1": 2,
       "score2": 2,
-      "rating1": 1393.870926572521,
-      "rating2": 1526.84549100062,
-      "rating_ev": 1.2146956782714824
+      "rating1": 1456.1845597580968,
+      "rating2": 1532.8892512686273,
+      "rating_ev": -0.5650178011601383
     },
     {
       "date": "2008-05-27",
@@ -2829,57 +3489,57 @@
       "team2": "Liberia",
       "score1": 4,
       "score2": 2,
-      "rating1": 1397.8767367093828,
-      "rating2": 1154.3117345803948,
-      "rating_ev": 4.005810136861783
+      "rating1": 1458.9673635246331,
+      "rating2": 1175.9548200429417,
+      "rating_ev": 2.78280376653629
     },
     {
       "date": "2008-06-01",
       "country": "Ghana",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Ghana",
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1761.7826424700406,
-      "rating2": 1383.3107221260905,
-      "rating_ev": -14.566014583292372
+      "rating1": 1759.8352698942365,
+      "rating2": 1440.540904137012,
+      "rating_ev": -18.426459387621207
     },
     {
       "date": "2008-06-07",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Libya",
       "team2": "Gabon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1394.9999655837912,
-      "rating2": 1428.177312753131,
-      "rating_ev": 11.68924345770074
+      "rating1": 1444.8461697761675,
+      "rating2": 1369.110064075799,
+      "rating_ev": 4.30526563915555
     },
     {
       "date": "2008-06-15",
       "country": "South Africa",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Lesotho",
-      "team2": "Libya",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1143.7280790638526,
-      "rating2": 1393.9950101105162,
-      "rating_ev": -1.004955473275004
+      "tournament": "World Cup and African Cup qual",
+      "team1": "Libya",
+      "team2": "Lesotho",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1439.4803283805716,
+      "rating2": 1122.7689036118934,
+      "rating_ev": -5.365841395595908
     },
     {
       "date": "2008-06-20",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Libya",
       "team2": "Lesotho",
       "score1": 4,
       "score2": 0,
-      "rating1": 1426.7058284633877,
-      "rating2": 1111.0172607109812,
-      "rating_ev": 32.710818352871456
+      "rating1": 1468.3313143030082,
+      "rating2": 1093.9179176894568,
+      "rating_ev": 28.85098592243662
     },
     {
       "date": "2008-08-20",
@@ -2889,9 +3549,9 @@
       "team2": "Senegal",
       "score1": 0,
       "score2": 0,
-      "rating1": 1428.2133106370293,
-      "rating2": 1570.4732055672723,
-      "rating_ev": 1.5074821736416197
+      "rating1": 1468.74566766595,
+      "rating2": 1576.3829098782676,
+      "rating_ev": 0.41435336294171066
     },
     {
       "date": "2008-08-24",
@@ -2901,45 +3561,57 @@
       "team2": "Chad",
       "score1": 3,
       "score2": 0,
-      "rating1": 1438.7692377765497,
-      "rating2": 1181.2338014655113,
-      "rating_ev": 10.555927139520463
+      "rating1": 1477.8291121062243,
+      "rating2": 1172.751926484711,
+      "rating_ev": 9.083444440274434
     },
     {
-      "date": "2008-08-28",
+      "date": "2008-08-27",
       "country": "Libya",
       "tournament": "Friendly",
       "team1": "Libya",
       "team2": "Niger",
       "score1": 6,
       "score2": 2,
-      "rating1": 1454.1125755098954,
-      "rating2": 1138.421886112948,
-      "rating_ev": 15.343337733345606
+      "rating1": 1492.1949360625058,
+      "rating2": 1144.683238402235,
+      "rating_ev": 14.365823956281474
     },
     {
       "date": "2008-09-05",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Libya",
       "team2": "Ghana",
       "score1": 1,
       "score2": 0,
-      "rating1": 1476.805297241325,
-      "rating2": 1673.8090434831206,
-      "rating_ev": 22.69272173142963
+      "rating1": 1512.1336804293726,
+      "rating2": 1667.7652270928145,
+      "rating_ev": 19.938744366866786
     },
     {
       "date": "2008-10-11",
       "country": "Gabon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Gabon",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1498.3532339189942,
-      "rating2": 1469.3335331939363,
-      "rating_ev": -7.47176404738866
+      "rating1": 1455.6100158336897,
+      "rating2": 1499.7050246453505,
+      "rating_ev": -12.428655784022112
+    },
+    {
+      "date": "2008-12-30",
+      "country": "Qatar",
+      "tournament": "Friendly",
+      "team1": "Qatar",
+      "team2": "Libya",
+      "score1": 5,
+      "score2": 2,
+      "rating1": 1466.921910448371,
+      "rating2": 1480.5840594929396,
+      "rating_ev": -19.120965152410918
     },
     {
       "date": "2009-02-11",
@@ -2949,9 +3621,9 @@
       "team2": "Uruguay",
       "score1": 2,
       "score2": 3,
-      "rating1": 1472.2408500408285,
-      "rating2": 1901.066688832531,
-      "rating_ev": 2.907316846892172
+      "rating1": 1483.6472983029369,
+      "rating2": 1917.7356939726824,
+      "rating_ev": 3.0632388099973014
     },
     {
       "date": "2009-10-05",
@@ -2961,9 +3633,9 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1487.6026442877162,
-      "rating2": 1472.713726998543,
-      "rating_ev": 0.4728769577145613
+      "rating1": 1487.6279185432652,
+      "rating2": 1483.769835807597,
+      "rating_ev": 0.12253750466015845
     },
     {
       "date": "2010-01-06",
@@ -2973,9 +3645,9 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1429.9703074181448,
-      "rating2": 1467.114141480136,
-      "rating_ev": -5.599585518407139
+      "rating1": 1428.7922878197194,
+      "rating2": 1477.794042632565,
+      "rating_ev": -5.975793175032095
     },
     {
       "date": "2010-03-03",
@@ -2985,45 +3657,45 @@
       "team2": "Mali",
       "score1": 2,
       "score2": 1,
-      "rating1": 1473.4217543968252,
-      "rating2": 1532.8878624448448,
-      "rating_ev": 6.3076129166893224
+      "rating1": 1483.9814660451202,
+      "rating2": 1539.6565836165908,
+      "rating_ev": 6.18742341255529
     },
     {
       "date": "2010-09-05",
       "country": "Mozambique",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Mozambique",
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1340.937081859397,
-      "rating2": 1471.0232740617107,
-      "rating_ev": -2.3984803351145274
+      "rating1": 1340.1055046998486,
+      "rating2": 1480.8646473531398,
+      "rating_ev": -3.11681869198037
     },
     {
       "date": "2010-10-10",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Zambia",
       "score1": 1,
       "score2": 0,
-      "rating1": 1481.7665411767402,
-      "rating2": 1500.9848253839875,
-      "rating_ev": 10.74326711502954
+      "rating1": 1491.9623943103281,
+      "rating2": 1516.4104947024107,
+      "rating_ev": 11.097746957188292
     },
     {
       "date": "2010-11-17",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Niger",
       "score1": 1,
       "score2": 1,
-      "rating1": 1471.833505584942,
-      "rating2": 1251.9611142381036,
-      "rating_ev": -9.933035591798216
+      "rating1": 1471.727100285885,
+      "rating2": 1266.150478573313,
+      "rating_ev": -20.235294024443192
     },
     {
       "date": "2011-02-09",
@@ -3033,33 +3705,57 @@
       "team2": "Benin",
       "score1": 3,
       "score2": 2,
-      "rating1": 1474.109023195946,
-      "rating2": 1406.553224745039,
-      "rating_ev": 2.275517611004034
+      "rating1": 1474.0807457392525,
+      "rating2": 1408.9882381274795,
+      "rating_ev": 2.3536454533675624
+    },
+    {
+      "date": "2011-03-28",
+      "country": "Mali",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Libya",
+      "team2": "Comoros",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1474.262025532514,
+      "rating2": 753.9533582688424,
+      "rating_ev": 0.1812797932614103
     },
     {
       "date": "2011-06-05",
       "country": "Comoros",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Comoros",
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 902.273470002328,
-      "rating2": 1445.2961286317402,
-      "rating_ev": -28.81289456420575
+      "rating1": 788.9330095464188,
+      "rating2": 1439.2823742549374,
+      "rating_ev": -34.97965127757641
+    },
+    {
+      "date": "2011-09-03",
+      "country": "Egypt",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Libya",
+      "team2": "Mozambique",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1444.361133367399,
+      "rating2": 1285.2385116430914,
+      "rating_ev": 5.078759112461512
     },
     {
       "date": "2011-10-08",
       "country": "Zambia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Zambia",
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1492.3243524828383,
-      "rating2": 1454.2815558128011,
-      "rating_ev": 8.985427181060913
+      "rating1": 1497.4833953190537,
+      "rating2": 1453.7331695797282,
+      "rating_ev": 9.372036212329249
     },
     {
       "date": "2011-11-15",
@@ -3069,9 +3765,33 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1614.593401961895,
-      "rating2": 1459.200572261378,
-      "rating_ev": 4.91901644857694
+      "rating1": 1631.3663520324824,
+      "rating2": 1459.1796676838178,
+      "rating_ev": 5.446498104089642
+    },
+    {
+      "date": "2011-12-14",
+      "country": "Qatar",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Palestine",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1436.6446867394627,
+      "rating2": 1098.0401537203475,
+      "rating_ev": -22.534980944355084
+    },
+    {
+      "date": "2011-12-17",
+      "country": "Qatar",
+      "tournament": "Pan Arab Games",
+      "team1": "Jordan",
+      "team2": "Libya",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1578.3706907341689,
+      "rating2": 1445.622494747284,
+      "rating_ev": 8.977808007821295
     },
     {
       "date": "2012-01-16",
@@ -3081,45 +3801,57 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1823.1736426608081,
-      "rating2": 1463.0400077793493,
-      "rating_ev": 3.8394355179711965
+      "rating1": 1765.3620697367523,
+      "rating2": 1448.1565356235908,
+      "rating_ev": 2.53404087630679
     },
     {
       "date": "2012-01-21",
       "country": "Equatorial Guinea",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Equatorial Guinea",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1219.5934387509647,
-      "rating2": 1438.8741610810655,
-      "rating_ev": -24.165846698283758
+      "rating1": 1232.2264661797542,
+      "rating2": 1425.698050799498,
+      "rating_ev": -22.458484824092693
     },
     {
       "date": "2012-01-25",
       "country": "Equatorial Guinea",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Libya",
       "team2": "Zambia",
       "score1": 2,
       "score2": 2,
-      "rating1": 1443.7329479197144,
-      "rating2": 1515.4254199283473,
-      "rating_ev": 4.858786838648939
+      "rating1": 1431.7908489914837,
+      "rating2": 1521.7361594999297,
+      "rating_ev": 6.092798191985594
     },
     {
       "date": "2012-01-29",
       "country": "Equatorial Guinea",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Libya",
       "team2": "Senegal",
       "score1": 2,
       "score2": 1,
-      "rating1": 1465.3367136880888,
-      "rating2": 1550.456044510773,
-      "rating_ev": 21.603765768374387
+      "rating1": 1454.799298539033,
+      "rating2": 1560.7876877993342,
+      "rating_ev": 23.00844954754939
+    },
+    {
+      "date": "2012-05-07",
+      "country": "Egypt",
+      "tournament": "Friendly",
+      "team1": "Egypt",
+      "team2": "Libya",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1730.5833866064302,
+      "rating2": 1438.7194810379851,
+      "rating_ev": -16.079817501047955
     },
     {
       "date": "2012-05-23",
@@ -3129,45 +3861,45 @@
       "team2": "Rwanda",
       "score1": 2,
       "score2": 0,
-      "rating1": 1475.511916869571,
-      "rating2": 1333.0311794274435,
-      "rating_ev": 10.175203181482175
+      "rating1": 1450.7742067661425,
+      "rating2": 1367.6559437119536,
+      "rating_ev": 12.054725728157337
     },
     {
       "date": "2012-05-27",
       "country": "Tunisia",
       "tournament": "Friendly",
-      "team1": "Chad",
-      "team2": "Libya",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1165.3463788081692,
-      "rating2": 1473.2622640715244,
-      "rating_ev": -2.2496527980465544
+      "team1": "Libya",
+      "team2": "Chad",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1449.0047595175745,
+      "rating2": 1156.7282869037433,
+      "rating_ev": -1.7694472485679853
     },
     {
       "date": "2012-06-03",
       "country": "Togo",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Togo",
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1325.3784870358384,
-      "rating2": 1469.8929303298273,
-      "rating_ev": -3.369333741697119
+      "rating1": 1326.9642392047515,
+      "rating2": 1447.2656500768364,
+      "rating_ev": -1.7391094407380479
     },
     {
       "date": "2012-06-10",
       "country": "Tunisia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Cameroon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1495.167440845222,
-      "rating2": 1634.950566080188,
-      "rating_ev": 25.274510515394695
+      "rating1": 1473.7248273583089,
+      "rating2": 1631.2499035681878,
+      "rating_ev": 26.45917728147242
     },
     {
       "date": "2012-06-23",
@@ -3177,9 +3909,21 @@
       "team2": "Yemen",
       "score1": 3,
       "score2": 1,
-      "rating1": 1508.2600268164122,
-      "rating2": 1236.9560260745118,
-      "rating_ev": 13.092585971190147
+      "rating1": 1488.9969088685514,
+      "rating2": 1250.4772289788036,
+      "rating_ev": 15.272081510242515
+    },
+    {
+      "date": "2012-06-26",
+      "country": "Saudi Arabia",
+      "tournament": "Arab Cup",
+      "team1": "Libya",
+      "team2": "Morocco",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1495.7778369616497,
+      "rating2": 1595.914381876084,
+      "rating_ev": 6.780928093098282
     },
     {
       "date": "2012-06-29",
@@ -3189,9 +3933,9 @@
       "team2": "Bahrain",
       "score1": 2,
       "score2": 1,
-      "rating1": 1522.606823900874,
-      "rating2": 1500.4976870495577,
-      "rating_ev": 14.346797084461741
+      "rating1": 1511.067352387257,
+      "rating2": 1502.8574272484366,
+      "rating_ev": 15.289515425607306
     },
     {
       "date": "2012-07-03",
@@ -3201,9 +3945,33 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 2,
-      "rating1": 1581.890913689154,
-      "rating2": 1561.7529215607021,
-      "rating_ev": 39.14609765982823
+      "rating1": 1559.2072992526018,
+      "rating2": 1549.5077723556396,
+      "rating_ev": 38.440419968382685
+    },
+    {
+      "date": "2012-07-06",
+      "country": "Saudi Arabia",
+      "tournament": "Arab Cup",
+      "team1": "Morocco",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1637.4310461740267,
+      "rating2": 1555.0869067994188,
+      "rating_ev": 5.5791344437791395
+    },
+    {
+      "date": "2012-08-15",
+      "country": "Libya",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Ethiopia",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1552.785585753545,
+      "rating2": 1339.980002934321,
+      "rating_ev": -2.301321045873692
     },
     {
       "date": "2012-08-26",
@@ -3213,21 +3981,33 @@
       "team2": "Sudan",
       "score1": 3,
       "score2": 0,
-      "rating1": 1576.5190812462347,
-      "rating2": 1357.8335310728553,
-      "rating_ev": 14.766159685532557
+      "rating1": 1569.5263798430806,
+      "rating2": 1413.5772181684597,
+      "rating_ev": 16.740794089535484
     },
     {
       "date": "2012-09-09",
       "country": "Morocco",
-      "tournament": "African Cup of Nations qualification",
-      "team1": "Libya",
-      "team2": "Algeria",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1558.9585998686073,
-      "rating2": 1533.664851588139,
-      "rating_ev": -17.56048137762741
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Algeria",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1534.5253369280058,
+      "rating2": 1552.4641722195734,
+      "rating_ev": -17.06220762350722
+    },
+    {
+      "date": "2012-10-14",
+      "country": "Algeria",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Algeria",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1557.5882761966507,
+      "rating2": 1529.4012329509285,
+      "rating_ev": -23.062939268644868
     },
     {
       "date": "2013-02-06",
@@ -3237,21 +4017,9 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1364.0732367792925,
-      "rating2": 1531.9782265377814,
-      "rating_ev": -26.98037333082584
-    },
-    {
-      "date": "2013-03-16",
-      "country": "Morocco",
-      "tournament": "Friendly",
-      "team1": "Senegal",
-      "team2": "Libya",
-      "score1": 0,
-      "score2": 4,
-      "rating1": 1505.7569302553004,
-      "rating2": 1558.5862017736954,
-      "rating_ev": 26.607975235913955
+      "rating1": 1401.113221785069,
+      "rating2": 1504.4451866104284,
+      "rating_ev": -24.956046340500052
     },
     {
       "date": "2013-03-20",
@@ -3261,21 +4029,21 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1281.575919794399,
-      "rating2": 1560.231066572377,
-      "rating_ev": 1.6448647986815104
+      "rating1": 1301.7150604648025,
+      "rating2": 1508.3310578908104,
+      "rating_ev": 3.8858712803819344
     },
     {
       "date": "2013-03-24",
-      "country": "DR Congo",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Dem Rep of the Congo",
+      "tournament": "World Cup qualifier",
       "team1": "DR Congo",
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1480.2060683961731,
-      "rating2": 1561.150651245429,
-      "rating_ev": 0.9195846730519861
+      "rating1": 1515.7782308018172,
+      "rating2": 1508.8041181699339,
+      "rating_ev": 0.47306027912350146
     },
     {
       "date": "2013-05-13",
@@ -3285,9 +4053,9 @@
       "team2": "Mauritania",
       "score1": 2,
       "score2": 0,
-      "rating1": 1560.5309079135802,
-      "rating2": 1165.819182173462,
-      "rating_ev": -0.6197433318486674
+      "rating1": 1508.4015143430365,
+      "rating2": 1120.920147332479,
+      "rating_ev": -0.40260382689734797
     },
     {
       "date": "2013-05-27",
@@ -3297,9 +4065,9 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1572.817838274364,
-      "rating2": 1556.624950584926,
-      "rating_ev": -3.9059573286542673
+      "rating1": 1572.558985749868,
+      "rating2": 1506.0914806345857,
+      "rating_ev": -2.3100337084508737
     },
     {
       "date": "2013-06-01",
@@ -3309,45 +4077,33 @@
       "team2": "Uganda",
       "score1": 3,
       "score2": 0,
-      "rating1": 1572.589572826476,
-      "rating2": 1486.840647990226,
-      "rating_ev": 15.964622241549932
+      "rating1": 1523.8187330937226,
+      "rating2": 1493.5839433929355,
+      "rating_ev": 17.727252459136935
     },
     {
       "date": "2013-06-07",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "DR Congo",
       "score1": 0,
       "score2": 0,
-      "rating1": 1561.436043831329,
-      "rating2": 1491.35959739132,
-      "rating_ev": -11.153528995146871
+      "rating1": 1517.6974638380134,
+      "rating2": 1521.8995000575264,
+      "rating_ev": -6.121269255709194
     },
     {
       "date": "2013-06-14",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Togo",
       "score1": 2,
       "score2": 0,
-      "rating1": 1570.46659386454,
-      "rating2": 1334.2172411974195,
-      "rating_ev": 9.030550033211057
-    },
-    {
-      "date": "2013-06-29",
-      "country": "Libya",
-      "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Burkina Faso",
-      "score1": 2,
-      "score2": 1,
-      "rating1": 1573.8817952664508,
-      "rating2": 1542.2358370326401,
-      "rating_ev": 3.4152014019107355
+      "rating1": 1535.6740054337479,
+      "rating2": 1432.4653974815321,
+      "rating_ev": 17.97654159573449
     },
     {
       "date": "2013-08-09",
@@ -3357,9 +4113,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1550.9941116247142,
-      "rating2": 1568.8931163165948,
-      "rating_ev": -4.9886789498559665
+      "rating1": 1558.4001730783057,
+      "rating2": 1532.0893824125772,
+      "rating_ev": -3.584623021170728
     },
     {
       "date": "2013-08-14",
@@ -3369,9 +4125,9 @@
       "team2": "Central African Republic",
       "score1": 0,
       "score2": 0,
-      "rating1": 1556.9022181950954,
-      "rating2": 1270.4085579576479,
-      "rating_ev": -11.990898121499413
+      "rating1": 1520.693825329235,
+      "rating2": 1253.5727158963268,
+      "rating_ev": -11.395557083342055
     },
     {
       "date": "2013-08-27",
@@ -3381,9 +4137,9 @@
       "team2": "Mali",
       "score1": 1,
       "score2": 0,
-      "rating1": 1563.13680853161,
-      "rating2": 1525.8144312474728,
-      "rating_ev": 6.234590336514657
+      "rating1": 1528.2737712015119,
+      "rating2": 1533.312430020258,
+      "rating_ev": 7.579945872276767
     },
     {
       "date": "2013-08-30",
@@ -3393,9 +4149,9 @@
       "team2": "Ghana",
       "score1": 1,
       "score2": 0,
-      "rating1": 1574.8093346429357,
-      "rating2": 1709.1520065546906,
-      "rating_ev": 11.672526111325624
+      "rating1": 1541.0253297854608,
+      "rating2": 1709.730958386562,
+      "rating_ev": 12.751558583948963
     },
     {
       "date": "2013-09-04",
@@ -3405,21 +4161,21 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1201.5632204560004,
-      "rating2": 1566.4202754087878,
-      "rating_ev": -8.389059234147908
+      "rating1": 1268.5909513290126,
+      "rating2": 1535.6215081777734,
+      "rating_ev": -5.403821607687405
     },
     {
       "date": "2013-09-08",
       "country": "Cameroon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Cameroon",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1546.781792766398,
-      "rating2": 1556.3324550507825,
-      "rating_ev": -10.087820358005274
+      "rating1": 1538.3162298324191,
+      "rating2": 1526.9521605527193,
+      "rating_ev": -8.669347625054115
     },
     {
       "date": "2013-11-15",
@@ -3429,117 +4185,45 @@
       "team2": "Niger",
       "score1": 1,
       "score2": 1,
-      "rating1": 1548.2427390915145,
-      "rating2": 1291.2110996423667,
-      "rating_ev": -8.089715959268005
+      "rating1": 1519.0170087409178,
+      "rating2": 1266.984004979082,
+      "rating_ev": -7.935151811801461
     },
     {
-      "date": "2013-12-14",
-      "country": "Morocco",
+      "date": "2013-11-18",
+      "country": "Tunisia",
       "tournament": "Friendly",
       "team1": "Libya",
-      "team2": "Mali",
+      "team2": "Benin",
       "score1": 1,
       "score2": 0,
-      "rating1": 1554.1597627045946,
-      "rating2": 1506.8354606812673,
-      "rating_ev": 5.917023613080119
-    },
-    {
-      "date": "2014-01-13",
-      "country": "South Africa",
-      "tournament": "African Nations Championship",
-      "team1": "Libya",
-      "team2": "Ethiopia",
-      "score1": 2,
-      "score2": 0,
-      "rating1": 1567.4816265610789,
-      "rating2": 1299.6368119946383,
-      "rating_ev": 13.321863856484242
-    },
-    {
-      "date": "2014-01-17",
-      "country": "South Africa",
-      "tournament": "African Nations Championship",
-      "team1": "Ghana",
-      "team2": "Libya",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1719.6032396038004,
-      "rating2": 1577.1138935665672,
-      "rating_ev": 9.632267005488302
-    },
-    {
-      "date": "2014-01-21",
-      "country": "South Africa",
-      "tournament": "African Nations Championship",
-      "team1": "Congo",
-      "team2": "Libya",
-      "score1": 2,
-      "score2": 2,
-      "rating1": 1393.5340141860252,
-      "rating2": 1565.5066165138194,
-      "rating_ev": -11.607277052747804
-    },
-    {
-      "date": "2014-01-26",
-      "country": "South Africa",
-      "tournament": "African Nations Championship",
-      "team1": "Gabon",
-      "team2": "Libya",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1494.7584313749146,
-      "rating2": 1561.0156247625246,
-      "rating_ev": -4.490991751294814
-    },
-    {
-      "date": "2014-01-29",
-      "country": "South Africa",
-      "tournament": "African Nations Championship",
-      "team1": "Zimbabwe",
-      "team2": "Libya",
-      "score1": 0,
-      "score2": 0,
-      "rating1": 1460.875263414505,
-      "rating2": 1554.6632814689337,
-      "rating_ev": -6.35234329359082
-    },
-    {
-      "date": "2014-02-01",
-      "country": "South Africa",
-      "tournament": "African Nations Championship",
-      "team1": "Libya",
-      "team2": "Ghana",
-      "score1": 0,
-      "score2": 0,
-      "rating1": 1563.8014202263448,
-      "rating2": 1698.9348138002847,
-      "rating_ev": 9.13813875741107
+      "rating1": 1521.2966699727267,
+      "rating2": 1359.0046398228462,
+      "rating_ev": 2.279661231808859
     },
     {
       "date": "2014-05-18",
       "country": "Tunisia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Rwanda",
       "score1": 0,
       "score2": 0,
-      "rating1": 1546.2185919869623,
-      "rating2": 1284.0085766320094,
-      "rating_ev": -17.58282823938248
+      "rating1": 1506.826125563636,
+      "rating2": 1291.8347627920175,
+      "rating_ev": -14.470544409090735
     },
     {
       "date": "2014-05-31",
       "country": "Rwanda",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Rwanda",
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1334.689703222917,
-      "rating2": 1495.5374653960548,
-      "rating_ev": -50.681126590907525
+      "rating1": 1339.7505928839232,
+      "rating2": 1458.9102954717303,
+      "rating_ev": -47.91583009190572
     },
     {
       "date": "2014-09-07",
@@ -3549,105 +4233,81 @@
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1500.586143938926,
-      "rating2": 1477.5806096792626,
-      "rating_ev": -17.956855716792234
+      "rating1": 1566.6055768265821,
+      "rating2": 1444.1104193243598,
+      "rating_ev": -14.799876147370469
+    },
+    {
+      "date": "2015-06-06",
+      "country": "Morocco",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Mali",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1446.6068153743151,
+      "rating2": 1525.2729346415283,
+      "rating_ev": 2.496396049955365
     },
     {
       "date": "2015-06-12",
       "country": "Morocco",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Morocco",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1558.2771312479895,
-      "rating2": 1473.8627996484943,
-      "rating_ev": -3.7178100307683053
-    },
-    {
-      "date": "2015-06-21",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Morocco",
-      "team2": "Libya",
-      "score1": 3,
-      "score2": 0,
-      "rating1": 1584.4117271165762,
-      "rating2": 1443.506282923686,
-      "rating_ev": -30.356516724808216
+      "rating1": 1610.6388373825196,
+      "rating2": 1448.1528999184168,
+      "rating_ev": 1.5460845441016318
     },
     {
       "date": "2015-08-28",
       "country": "Turkey",
       "tournament": "Friendly",
-      "team1": "Tanzania",
-      "team2": "Libya",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1179.2984006627457,
-      "rating2": 1442.6300482035308,
-      "rating_ev": -0.8762347201552529
+      "team1": "Libya",
+      "team2": "Tanzania",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1448.1424548007926,
+      "rating2": 1212.7036447449318,
+      "rating_ev": -0.010445117624158229
     },
     {
       "date": "2015-09-06",
       "country": "Egypt",
-      "tournament": "African Cup of Nations qualification",
-      "team1": "Libya",
-      "team2": "Cape Verde",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1435.0011580821829,
-      "rating2": 1556.2858254091798,
-      "rating_ev": -7.628890121347922
-    },
-    {
-      "date": "2015-10-19",
-      "country": "Tunisia",
-      "tournament": "African Nations Championship",
-      "team1": "Tunisia",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Cape Verde",
       "team2": "Libya",
-      "score1": 1,
-      "score2": 0,
-      "rating1": 1551.9102807572892,
-      "rating2": 1433.5757432224575,
-      "rating_ev": -1.4254148597253788
-    },
-    {
-      "date": "2015-10-22",
-      "country": "Tunisia",
-      "tournament": "African Nations Championship",
-      "team1": "Libya",
-      "team2": "Morocco",
-      "score1": 0,
-      "score2": 4,
-      "rating1": 1389.0980763542943,
-      "rating2": 1624.3266905921382,
-      "rating_ev": -44.47766686816317
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1551.4378653917097,
+      "rating2": 1439.857890327086,
+      "rating_ev": -8.284564473706723
     },
     {
       "date": "2015-11-13",
       "country": "Tunisia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Rwanda",
       "score1": 1,
       "score2": 0,
-      "rating1": 1402.5382416855539,
-      "rating2": 1367.0630487402225,
-      "rating_ev": 13.44016533125955
+      "rating1": 1449.6939097313652,
+      "rating2": 1361.0471179009864,
+      "rating_ev": 9.836019404279341
     },
     {
       "date": "2015-11-17",
       "country": "Rwanda",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Rwanda",
       "team2": "Libya",
       "score1": 1,
       "score2": 3,
-      "rating1": 1335.9080510589292,
-      "rating2": 1433.6932393668471,
-      "rating_ev": 31.154997681293253
+      "rating1": 1333.063494140172,
+      "rating2": 1477.6775334921797,
+      "rating_ev": 27.983623760814453
     },
     {
       "date": "2016-01-29",
@@ -3657,93 +4317,93 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1644.4500351430697,
-      "rating2": 1428.8160365505576,
-      "rating_ev": -4.877202816289582
+      "rating1": 1643.253278322119,
+      "rating2": 1471.4259901361595,
+      "rating_ev": -6.251543356020193
     },
     {
       "date": "2016-03-23",
       "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 951.6641269836892,
-      "rating2": 1390.632755511424,
-      "rating_ev": -38.1832810391337
+      "rating1": 943.3619642821538,
+      "rating2": 1430.3343540999695,
+      "rating_ev": -41.09163603619004
     },
     {
       "date": "2016-03-28",
-      "country": "Egypt",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Algeria",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "score1": 4,
       "score2": 0,
-      "rating1": 1418.1742605873783,
-      "rating2": 924.1226219077348,
-      "rating_ev": 27.54150507595432
+      "rating1": 1455.2113669429473,
+      "rating2": 918.484951439176,
+      "rating_ev": 24.87701284297782
     },
     {
       "date": "2016-06-03",
       "country": "Tunisia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Morocco",
       "score1": 1,
       "score2": 1,
-      "rating1": 1432.4629002647937,
-      "rating2": 1644.7102160137065,
-      "rating_ev": 14.288639677415404
+      "rating1": 1465.1033138569678,
+      "rating2": 1611.461535428751,
+      "rating_ev": 9.891946914020536
     },
     {
       "date": "2016-09-03",
       "country": "Cape Verde",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Cape Verde",
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1489.4299871673907,
-      "rating2": 1456.916889303908,
-      "rating_ev": 24.453989039114276
+      "rating1": 1471.941308721853,
+      "rating2": 1486.3767601221184,
+      "rating_ev": 21.273446265150596
     },
     {
       "date": "2016-10-08",
-      "country": "DR Congo",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Dem Rep of the Congo",
+      "tournament": "World Cup qualifier",
       "team1": "DR Congo",
       "team2": "Libya",
       "score1": 4,
       "score2": 0,
-      "rating1": 1624.6431872000546,
-      "rating2": 1416.9836007642812,
-      "rating_ev": -39.9332885396268
+      "rating1": 1615.73144892155,
+      "rating2": 1438.0180148916097,
+      "rating_ev": -48.3587452305087
     },
     {
       "date": "2016-11-11",
       "country": "Algeria",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Libya",
-      "team2": "Tunisia",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1412.7001526300814,
-      "rating2": 1583.6596316527325,
-      "rating_ev": -4.283448134199716
+      "tournament": "World Cup qualifier",
+      "team1": "Tunisia",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1556.2163881270149,
+      "rating2": 1430.6764371107972,
+      "rating_ev": -7.341577780812486
     },
     {
       "date": "2017-01-08",
       "country": "Congo",
       "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Senegal",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1413.4053687602816,
-      "rating2": 1671.2152575580924,
-      "rating_ev": 0.7052161302001423
+      "team1": "Senegal",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1662.9614067773834,
+      "rating2": 1430.5913490396792,
+      "rating_ev": -0.08508807111797978
     },
     {
       "date": "2017-03-24",
@@ -3753,21 +4413,9 @@
       "team2": "Togo",
       "score1": 0,
       "score2": 0,
-      "rating1": 1410.7269655895034,
-      "rating2": 1326.3145025181423,
-      "rating_ev": -2.6784031707782106
-    },
-    {
-      "date": "2017-05-13",
-      "country": "Egypt",
-      "tournament": "Friendly",
-      "team1": "Egypt",
-      "team2": "Libya",
-      "score1": 1,
-      "score2": 0,
-      "rating1": 1661.787319033991,
-      "rating2": 1414.1133398321747,
-      "rating_ev": 3.386374242671309
+      "rating1": 1428.72036026852,
+      "rating2": 1369.7841769872841,
+      "rating_ev": -1.8709887711593183
     },
     {
       "date": "2017-06-05",
@@ -3777,93 +4425,69 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1658.59885959572,
-      "rating2": 1417.3017992704458,
-      "rating_ev": 3.1884594382711384
+      "rating1": 1661.2124889090271,
+      "rating2": 1431.547194759222,
+      "rating_ev": 2.82683449070214
     },
     {
       "date": "2017-06-09",
       "country": "Egypt",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Seychelles",
       "score1": 5,
       "score2": 1,
-      "rating1": 1439.1031732469723,
-      "rating2": 852.1553730412674,
-      "rating_ev": 21.80137397652652
-    },
-    {
-      "date": "2017-08-12",
-      "country": "Algeria",
-      "tournament": "African Nations Championship",
-      "team1": "Algeria",
-      "team2": "Libya",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1641.7617688234268,
-      "rating2": 1472.7199187078181,
-      "rating_ev": 33.61674546084578
-    },
-    {
-      "date": "2017-08-18",
-      "country": "Tunisia",
-      "tournament": "African Nations Championship",
-      "team1": "Libya",
-      "team2": "Algeria",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1482.783390002602,
-      "rating2": 1631.698297528643,
-      "rating_ev": 10.063471294783767
+      "rating1": 1453.347200101933,
+      "rating2": 866.3768012269959,
+      "rating_ev": 21.800005342710847
     },
     {
       "date": "2017-08-31",
       "country": "Guinea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Guinea",
       "team2": "Libya",
       "score1": 3,
       "score2": 2,
-      "rating1": 1592.6239928964994,
-      "rating2": 1480.9110211336904,
-      "rating_ev": -1.8723688689115079
+      "rating1": 1515.662561339557,
+      "rating2": 1448.4637227220207,
+      "rating_ev": -4.883477379912165
     },
     {
       "date": "2017-09-04",
       "country": "Tunisia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Guinea",
       "score1": 1,
       "score2": 0,
-      "rating1": 1501.5274014649162,
-      "rating2": 1572.0076125652736,
-      "rating_ev": 20.616380331225855
+      "rating1": 1466.4288390748486,
+      "rating2": 1497.6974449867291,
+      "rating_ev": 17.965116352827863
     },
     {
       "date": "2017-10-07",
       "country": "Tunisia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "DR Congo",
       "score1": 1,
       "score2": 2,
-      "rating1": 1492.532524449204,
-      "rating2": 1593.608061998331,
-      "rating_ev": -8.99487701571229
+      "rating1": 1461.3255347584277,
+      "rating2": 1620.0831459836097,
+      "rating_ev": -5.1033043164209175
     },
     {
       "date": "2017-11-11",
       "country": "Tunisia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Tunisia",
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1608.153795904356,
-      "rating2": 1505.8607750036888,
-      "rating_ev": 13.328250554484839
+      "rating1": 1597.234745702323,
+      "rating2": 1475.9332958718378,
+      "rating_ev": 14.607761113410106
     },
     {
       "date": "2017-12-03",
@@ -3873,9 +4497,9 @@
       "team2": "Tanzania",
       "score1": 0,
       "score2": 0,
-      "rating1": 1492.8670077346894,
-      "rating2": 1300.1080510861154,
-      "rating_ev": -12.993767268999363
+      "rating1": 1465.6974419672722,
+      "rating2": 1314.212067846745,
+      "rating_ev": -10.235853904565602
     },
     {
       "date": "2017-12-05",
@@ -3885,21 +4509,21 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1364.8485977016244,
-      "rating2": 1490.7504107837394,
-      "rating_ev": -2.1165969509499973
+      "rating1": 1367.7934152520293,
+      "rating2": 1465.4845915830433,
+      "rating_ev": -0.21285038422888647
     },
     {
       "date": "2017-12-07",
       "country": "Kenya",
       "tournament": "CECAFA Cup",
-      "team1": "Rwanda",
-      "team2": "Libya",
+      "team1": "Libya",
+      "team2": "Rwanda",
       "score1": 0,
       "score2": 0,
-      "rating1": 1282.3407072512496,
-      "rating2": 1477.5908392439858,
-      "rating_ev": -13.159571539753642
+      "rating1": 1453.8233629355007,
+      "rating2": 1281.0433667890281,
+      "rating_ev": -11.661228647542657
     },
     {
       "date": "2017-12-11",
@@ -3909,9 +4533,9 @@
       "team2": "Zanzibar",
       "score1": 1,
       "score2": 0,
-      "rating1": 1479.5500555329115,
-      "rating2": 1273.8759853197157,
-      "rating_ev": 1.9592162889257452
+      "rating1": 1458.2354588369033,
+      "rating2": 1289.192010365744,
+      "rating_ev": 4.412095901402608
     },
     {
       "date": "2017-12-25",
@@ -3921,165 +4545,93 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1466.0119208861213,
-      "rating2": 1482.0406463494223,
-      "rating_ev": 2.490590816510803
-    },
-    {
-      "date": "2018-01-15",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Libya",
-      "team2": "Equatorial Guinea",
-      "score1": 3,
-      "score2": 0,
-      "rating1": 1512.7908797101047,
-      "rating2": 1282.7547704312917,
-      "rating_ev": 30.750233360682387
-    },
-    {
-      "date": "2018-01-19",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Libya",
-      "team2": "Nigeria",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1505.0126670947666,
-      "rating2": 1624.0864504631081,
-      "rating_ev": -7.778212615338134
-    },
-    {
-      "date": "2018-01-23",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Rwanda",
-      "team2": "Libya",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1324.8829358824523,
-      "rating2": 1508.4504810005424,
-      "rating_ev": 3.4378139057757835
-    },
-    {
-      "date": "2018-01-28",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Congo",
-      "team2": "Libya",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1438.992708273764,
-      "rating2": 1504.0412921914508,
-      "rating_ev": -4.4091888090915745
-    },
-    {
-      "date": "2018-01-31",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Morocco",
-      "team2": "Libya",
-      "score1": 3,
-      "score2": 1,
-      "rating1": 1764.139852604415,
-      "rating2": 1497.0571878292549,
-      "rating_ev": -6.984104362195922
-    },
-    {
-      "date": "2018-02-03",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Libya",
-      "team2": "Sudan",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1488.584433902338,
-      "rating2": 1363.3448808541498,
-      "rating_ev": -8.472753926916766
+      "rating1": 1454.0221945515746,
+      "rating2": 1461.0130977888741,
+      "rating_ev": 2.7776389519708573
     },
     {
       "date": "2018-09-08",
       "country": "South Africa",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "South Africa",
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1546.0744259600453,
-      "rating2": 1498.2334910878512,
-      "rating_ev": 9.64905718551313
+      "rating1": 1555.8394867896106,
+      "rating2": 1473.0271552676302,
+      "rating_ev": 12.014057478756058
     },
     {
       "date": "2018-10-13",
       "country": "Nigeria",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Nigeria",
       "team2": "Libya",
       "score1": 4,
       "score2": 0,
-      "rating1": 1675.664396340077,
-      "rating2": 1458.9126705119115,
-      "rating_ev": -39.320820575939706
+      "rating1": 1732.3921478045183,
+      "rating2": 1438.847173976981,
+      "rating_ev": -34.179981290649266
+    },
+    {
+      "date": "2018-10-16",
+      "country": "Tunisia",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Nigeria",
+      "team2": "Libya",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1728.9848661259928,
+      "rating2": 1442.2544556555065,
+      "rating_ev": 3.407281678525578
     },
     {
       "date": "2018-11-17",
       "country": "Seychelles",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Seychelles",
       "team2": "Libya",
       "score1": 1,
       "score2": 8,
-      "rating1": 856.4935058714493,
-      "rating2": 1517.7615369883772,
-      "rating_ev": 58.84886647646579
+      "rating1": 835.4223079279685,
+      "rating2": 1500.8515693525233,
+      "rating_ev": 58.59711369701688
     },
     {
       "date": "2019-03-24",
       "country": "Tunisia",
-      "tournament": "African Cup of Nations qualification",
-      "team1": "Libya",
-      "team2": "South Africa",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1503.8252185152699,
-      "rating2": 1531.9858381263139,
-      "rating_ev": -13.936318473107349
+      "tournament": "African Nations Cup qualifier",
+      "team1": "South Africa",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1573.270261469632,
+      "rating2": 1490.6101507013682,
+      "rating_ev": -10.241418651155072
     },
     {
       "date": "2019-09-04",
       "country": "Morocco",
       "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Burkina Faso",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1495.5178343409416,
-      "rating2": 1467.5666348472234,
-      "rating_ev": -8.307384174328263
+      "team1": "Burkina Faso",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1533.795369475397,
+      "rating2": 1484.7478325901204,
+      "rating_ev": -5.86231811124776
     },
     {
       "date": "2019-09-07",
-      "country": "Egypt",
+      "country": "Morocco",
       "tournament": "Friendly",
       "team1": "Libya",
       "team2": "Niger",
       "score1": 2,
       "score2": 0,
-      "rating1": 1502.3199295910022,
-      "rating2": 1252.3353652599517,
-      "rating_ev": 6.8020952500605745
-    },
-    {
-      "date": "2019-09-21",
-      "country": "Tunisia",
-      "tournament": "African Nations Championship qualification",
-      "team1": "Tunisia",
-      "team2": "Libya",
-      "score1": 1,
-      "score2": 0,
-      "rating1": 1596.6597865073793,
-      "rating2": 1499.4665155895375,
-      "rating_ev": -2.853414001464671
+      "rating1": 1492.622864155038,
+      "rating2": 1277.0155658378392,
+      "rating_ev": 7.875031564917663
     },
     {
       "date": "2019-10-11",
@@ -4089,9 +4641,9 @@
       "team2": "Libya",
       "score1": 1,
       "score2": 1,
-      "rating1": 1715.0406469828947,
-      "rating2": 1508.9697945865412,
-      "rating_ev": 9.50327899700369
+      "rating1": 1643.4049191844263,
+      "rating2": 1500.1577738644962,
+      "rating_ev": 7.534909709458134
     },
     {
       "date": "2019-10-15",
@@ -4101,165 +4653,189 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1324.9010665685603,
-      "rating2": 1506.2338721658873,
-      "rating_ev": -2.7359224206538784
-    },
-    {
-      "date": "2019-10-20",
-      "country": "Libya",
-      "tournament": "African Nations Championship qualification",
-      "team1": "Libya",
-      "team2": "Tunisia",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1491.7050540140417,
-      "rating2": 1605.6457074414477,
-      "rating_ev": -14.528818151845599
+      "rating1": 1319.9881622186733,
+      "rating2": 1497.5404301489127,
+      "rating_ev": -2.6173437155835018
     },
     {
       "date": "2019-11-15",
       "country": "Tunisia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Tunisia",
       "team2": "Libya",
       "score1": 4,
       "score2": 1,
-      "rating1": 1633.9931147487357,
-      "rating2": 1463.3576467067537,
-      "rating_ev": -28.347407307287995
+      "rating1": 1625.3139240953944,
+      "rating2": 1468.274843802844,
+      "rating_ev": -29.26558634606863
     },
     {
       "date": "2019-11-19",
       "country": "Tunisia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Tanzania",
       "score1": 2,
       "score2": 1,
-      "rating1": 1468.7056538385057,
-      "rating2": 1313.5860526900146,
-      "rating_ev": 5.348007131751956
+      "rating1": 1473.2533654353533,
+      "rating2": 1312.6399335833598,
+      "rating_ev": 4.978521632509228
+    },
+    {
+      "date": "2020-10-11",
+      "country": "Tunisia",
+      "tournament": "Friendly",
+      "team1": "Comoros",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1234.099522439536,
+      "rating2": 1458.7572562833673,
+      "rating_ev": -14.496109151986047
+    },
+    {
+      "date": "2020-11-11",
+      "country": "Tunisia",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Equatorial Guinea",
+      "team2": "Libya",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1325.8179059169497,
+      "rating2": 1435.5005437126522,
+      "rating_ev": -23.25671257071508
+    },
+    {
+      "date": "2020-11-15",
+      "country": "Equatorial Guinea",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Equatorial Guinea",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1340.6725045518929,
+      "rating2": 1420.645945077709,
+      "rating_ev": -14.854598634943159
     },
     {
       "date": "2021-03-25",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Tunisia",
       "score1": 2,
       "score2": 5,
-      "rating1": 1432.459332396446,
-      "rating2": 1675.9385028052156,
-      "rating_ev": -36.24632144205975
+      "rating1": 1385.4396576436416,
+      "rating2": 1644.4470912303693,
+      "rating_ev": -35.20628743406746
     },
     {
       "date": "2021-03-28",
       "country": "Tanzania",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Tanzania",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1302.1803201786101,
-      "rating2": 1415.3665237709301,
-      "rating_ev": -17.092808625515772
+      "rating1": 1314.9275548658547,
+      "rating2": 1372.1243309901654,
+      "rating_ev": -13.315326653476177
     },
     {
       "date": "2021-06-14",
       "country": "Tunisia",
       "tournament": "Friendly",
-      "team1": "Libya",
-      "team2": "Liberia",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1404.1691141193758,
-      "rating2": 1284.9091652447105,
-      "rating_ev": -11.19740965155438
+      "team1": "Liberia",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1324.8081644272509,
+      "rating2": 1363.4768626724108,
+      "rating_ev": -8.647468317754601
     },
     {
       "date": "2021-06-19",
       "country": "Qatar",
-      "tournament": "Arab Cup qualification",
-      "team1": "Libya",
-      "team2": "Sudan",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1389.0216817700466,
-      "rating2": 1399.326625532434,
-      "rating_ev": -15.147432349329165
+      "tournament": "Arab Cup qualifier",
+      "team1": "Sudan",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1380.0593232137269,
+      "rating2": 1349.6903404980737,
+      "rating_ev": -13.786522174337051
     },
     {
       "date": "2021-09-01",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Gabon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1398.77959924838,
-      "rating2": 1403.465298801417,
-      "rating_ev": 9.757917478333411
+      "rating1": 1361.8919884759996,
+      "rating2": 1402.6344350928107,
+      "rating_ev": 12.201647977925859
     },
     {
       "date": "2021-09-07",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1336.991145596646,
-      "rating2": 1415.694538441147,
-      "rating_ev": 16.91493919276695
+      "rating1": 1359.564697626009,
+      "rating2": 1382.5833491721967,
+      "rating_ev": 20.69136069619708
     },
     {
       "date": "2021-10-08",
       "country": "Egypt",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Egypt",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1576.541661578633,
-      "rating2": 1417.040296099815,
-      "rating_ev": 1.3457576586679352
+      "rating1": 1601.6504033845613,
+      "rating2": 1387.5766909697343,
+      "rating_ev": 4.993341797537596
     },
     {
       "date": "2021-10-11",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Egypt",
       "score1": 0,
       "score2": 3,
-      "rating1": 1380.1144264305117,
-      "rating2": 1613.4675312479362,
-      "rating_ev": -36.92586966930321
+      "rating1": 1353.8710433723315,
+      "rating2": 1635.356050981964,
+      "rating_ev": -33.70564759740273
     },
     {
       "date": "2021-11-12",
       "country": "Gabon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Gabon",
       "team2": "Libya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1409.9172428928705,
-      "rating2": 1373.166966924871,
-      "rating_ev": -6.947459505640609
+      "rating1": 1411.5754309680883,
+      "rating2": 1348.6949906645114,
+      "rating_ev": -5.17605270782019
     },
     {
       "date": "2021-11-16",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1366.3090714363348,
-      "rating2": 1359.650535726921,
-      "rating_ev": -6.857895488536315
+      "rating1": 1344.5083489067854,
+      "rating2": 1377.2332098384425,
+      "rating_ev": -4.186641757725965
     },
     {
       "date": "2022-01-29",
@@ -4269,9 +4845,9 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1313.533611982967,
-      "rating2": 1353.3512131372813,
-      "rating_ev": -12.957858299053441
+      "rating1": 1339.7648170755806,
+      "rating2": 1333.028092703358,
+      "rating_ev": -11.480256203427416
     },
     {
       "date": "2022-02-01",
@@ -4281,141 +4857,153 @@
       "team2": "Libya",
       "score1": 0,
       "score2": 2,
-      "rating1": 1298.0857322756042,
-      "rating2": 1368.799092844644,
-      "rating_ev": 15.447879707362745
+      "rating1": 1322.926845648745,
+      "rating2": 1349.8660641301935,
+      "rating_ev": 16.837971426835566
     },
     {
       "date": "2022-03-26",
       "country": "Mauritania",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Niger",
       "score1": 2,
       "score2": 1,
-      "rating1": 1371.1871216689194,
-      "rating2": 1212.3376340012037,
-      "rating_ev": 2.3880288242753522
+      "rating1": 1354.3855659826015,
+      "rating2": 1186.9413804187782,
+      "rating_ev": 4.519501852407984
     },
     {
       "date": "2022-03-29",
       "country": "Mauritania",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Mauritania",
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1279.0007742143296,
-      "rating2": 1357.0193118680472,
-      "rating_ev": -14.167809800872192
+      "rating1": 1282.9424707204969,
+      "rating2": 1326.4660131862795,
+      "rating_ev": -27.919552796322023
     },
     {
       "date": "2022-06-01",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Botswana",
       "score1": 1,
       "score2": 0,
-      "rating1": 1363.123551439037,
-      "rating2": 1313.9377158933405,
-      "rating_ev": 6.104239570989876
+      "rating1": 1334.2144390693202,
+      "rating2": 1309.2736290272928,
+      "rating_ev": 7.748425883040682
     },
     {
       "date": "2022-06-06",
       "country": "Equatorial Guinea",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Equatorial Guinea",
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1367.766789266587,
-      "rating2": 1340.0300700148528,
-      "rating_ev": -23.093481424184347
+      "rating1": 1379.19172886032,
+      "rating2": 1313.6829291769393,
+      "rating_ev": -20.531509892380882
     },
     {
       "date": "2022-09-21",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Uganda",
       "score1": 0,
       "score2": 0,
-      "rating1": 1338.8479618192998,
-      "rating2": 1396.0929661138089,
-      "rating_ev": -1.182108195552928
+      "rating1": 1310.7750438281678,
+      "rating2": 1362.3612651316498,
+      "rating_ev": -2.907885348771515
     },
     {
       "date": "2022-09-27",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Tanzania",
       "score1": 2,
       "score2": 1,
-      "rating1": 1341.89329385235,
-      "rating2": 1298.597878305958,
-      "rating_ev": 3.045332033050272
+      "rating1": 1319.250321756185,
+      "rating2": 1305.0251724064724,
+      "rating_ev": 8.475277928017249
     },
     {
       "date": "2022-11-17",
       "country": "Turkey",
       "tournament": "Friendly",
-      "team1": "Niger",
-      "team2": "Libya",
-      "score1": 2,
-      "score2": 3,
-      "rating1": 1225.1126686026257,
-      "rating2": 1345.4950355540407,
-      "rating_ev": 3.601741701690571
+      "team1": "Libya",
+      "team2": "Niger",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1322.7704931288101,
+      "rating2": 1199.8074757263926,
+      "rating_ev": 3.5201713726251
     },
     {
       "date": "2023-03-24",
       "country": "Tunisia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Tunisia",
       "team2": "Libya",
       "score1": 3,
       "score2": 0,
-      "rating1": 1802.8236567756119,
-      "rating2": 1336.5281376753694,
-      "rating_ev": -8.966897878671261
+      "rating1": 1782.3341831971877,
+      "rating2": 1313.9355298734229,
+      "rating_ev": -8.834963255387265
     },
     {
       "date": "2023-03-28",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Tunisia",
       "score1": 0,
       "score2": 1,
-      "rating1": 1344.1066589707955,
-      "rating2": 1795.2451354801858,
-      "rating_ev": 7.5785212954260714
+      "rating1": 1321.6306332610325,
+      "rating2": 1774.639079809578,
+      "rating_ev": 7.695103387609606
+    },
+    {
+      "date": "2023-06-17",
+      "country": "Botswana",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Botswana",
+      "team2": "Libya",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1328.8031860611013,
+      "rating2": 1313.2457276433443,
+      "rating_ev": -8.384905617688219
     },
     {
       "date": "2023-09-06",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Equatorial Guinea",
       "score1": 1,
       "score2": 1,
-      "rating1": 1341.8260396905544,
-      "rating2": 1402.6691811941,
-      "rating_ev": -2.280619280241126
+      "rating1": 1315.2680636806438,
+      "rating2": 1439.7710892433633,
+      "rating_ev": 2.0223360372995103
     },
     {
       "date": "2023-10-14",
       "country": "Morocco",
       "tournament": "Friendly",
-      "team1": "Liberia",
-      "team2": "Libya",
-      "score1": 2,
-      "score2": 3,
-      "rating1": 1256.336626770921,
-      "rating2": 1346.3877787791623,
-      "rating_ev": 4.561739088607965
+      "team1": "Libya",
+      "team2": "Liberia",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1320.9763000342418,
+      "rating2": 1267.0746751457084,
+      "rating_ev": 5.708236353598068
     },
     {
       "date": "2023-10-17",
@@ -4425,33 +5013,93 @@
       "team2": "Niger",
       "score1": 1,
       "score2": 1,
-      "rating1": 1343.168257293174,
-      "rating2": 1241.6572507586582,
-      "rating_ev": -3.2195214859882526
+      "rating1": 1317.8131266492053,
+      "rating2": 1218.0837167732006,
+      "rating_ev": -3.1631733850365436
+    },
+    {
+      "date": "2023-10-19",
+      "country": "Morocco",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Somalia",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1302.6068993880303,
+      "rating2": 807.7389424454966,
+      "rating_ev": -15.206227261174945
+    },
+    {
+      "date": "2023-11-11",
+      "country": "Libya",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Sudan",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1304.809496148249,
+      "rating2": 1234.9543083609028,
+      "rating_ev": 2.2025967602187393
     },
     {
       "date": "2023-11-17",
       "country": "South Africa",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Eswatini",
-      "team2": "Libya",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1257.7635766021615,
-      "rating2": 1352.586223712311,
-      "rating_ev": 9.417966419136974
+      "tournament": "World Cup qualifier",
+      "team1": "Libya",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1317.6493086105572,
+      "rating2": 1273.3227844163102,
+      "rating_ev": 12.839812462308146
     },
     {
       "date": "2023-11-21",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Cameroon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1363.2636390543646,
-      "rating2": 1617.5083958423077,
-      "rating_ev": 10.677415342053564
+      "rating1": 1330.1754671184922,
+      "rating2": 1612.5952842468569,
+      "rating_ev": 12.526158507934952
+    },
+    {
+      "date": "2024-01-02",
+      "country": "Turkey",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Indonesia",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1353.6049769195417,
+      "rating2": 1200.56433848309,
+      "rating_ev": 23.429509801049562
+    },
+    {
+      "date": "2024-01-05",
+      "country": "Turkey",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Indonesia",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1356.023598999759,
+      "rating2": 1198.1457164028727,
+      "rating_ev": 2.4186220802173466
+    },
+    {
+      "date": "2024-01-12",
+      "country": "Egypt",
+      "tournament": "Friendly",
+      "team1": "Libya",
+      "team2": "Kuwait",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1368.7303672128169,
+      "rating2": 1306.159334542777,
+      "rating_ev": 12.706768213057785
     }
   ]
 }

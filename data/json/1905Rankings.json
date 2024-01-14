@@ -1,6 +1,15 @@
 [
   {
     "ranking": 1,
+    "flag": "ENG.png",
+    "team": "England",
+    "points": 2076,
+    "confederation": "UEFA",
+    "ranking_change": 0,
+    "points_change": -40
+  },
+  {
+    "ranking": 2,
     "flag": "ARG.png",
     "team": "Argentina",
     "points": 2046,
@@ -9,22 +18,13 @@
     "points_change": -14
   },
   {
-    "ranking": 2,
-    "flag": "ENG.png",
-    "team": "England",
-    "points": 2033,
-    "confederation": "UEFA",
-    "ranking_change": -1,
-    "points_change": -39
-  },
-  {
     "ranking": 3,
     "flag": "SCO.png",
     "team": "Scotland",
-    "points": 1992,
+    "points": 2026,
     "confederation": "UEFA",
-    "ranking_change": 0,
-    "points_change": -39
+    "ranking_change": -1,
+    "points_change": -37
   },
   {
     "ranking": 4,
@@ -48,22 +48,13 @@
     "ranking": 6,
     "flag": "HUN.png",
     "team": "Hungary",
-    "points": 1919,
+    "points": 1918,
     "confederation": "UEFA",
     "ranking_change": -1,
-    "points_change": -4
+    "points_change": -5
   },
   {
     "ranking": 7,
-    "flag": "CZE.png",
-    "team": "Czechoslovakia",
-    "points": 1888,
-    "confederation": "UEFA",
-    "ranking_change": -1,
-    "points_change": 0
-  },
-  {
-    "ranking": 8,
     "flag": "AUT.png",
     "team": "Austria",
     "points": 1865,
@@ -72,25 +63,25 @@
     "points_change": 5
   },
   {
-    "ranking": 9,
+    "ranking": 8,
     "flag": "BEL.png",
     "team": "Belgium",
-    "points": 1727,
+    "points": 1732,
     "confederation": "UEFA",
     "ranking_change": -1,
     "points_change": 2
   },
   {
-    "ranking": 10,
+    "ranking": 9,
     "flag": "FRA.png",
     "team": "France",
-    "points": 1641,
+    "points": 1636,
     "confederation": "UEFA",
     "ranking_change": -1,
     "points_change": -35
   },
   {
-    "ranking": 11,
+    "ranking": 10,
     "flag": "SUI.png",
     "team": "Switzerland",
     "points": 1635,
@@ -99,39 +90,39 @@
     "points_change": null
   },
   {
-    "ranking": 12,
+    "ranking": 11,
     "flag": "WAL.png",
     "team": "Wales",
-    "points": 1566,
+    "points": 1603,
     "confederation": "UEFA",
-    "ranking_change": -1,
-    "points_change": 60
+    "ranking_change": -2,
+    "points_change": 59
+  },
+  {
+    "ranking": 12,
+    "flag": "IRL.png",
+    "team": "Ireland",
+    "points": 1533,
+    "confederation": "UEFA",
+    "ranking_change": -2,
+    "points_change": 17
   },
   {
     "ranking": 13,
-    "flag": "CAN.png",
-    "team": "Canada",
-    "points": 1523,
+    "flag": "TRI.png",
+    "team": "Trinidad and Tobago",
+    "points": 1440,
     "confederation": "CONCACAF",
-    "ranking_change": -3,
-    "points_change": 0
+    "ranking_change": null,
+    "points_change": null
   },
   {
     "ranking": 14,
-    "flag": "USA.png",
-    "team": "United States",
-    "points": 1501,
+    "flag": "GUY.png",
+    "team": "Guyana",
+    "points": 1129,
     "confederation": "CONCACAF",
-    "ranking_change": -2,
-    "points_change": 0
-  },
-  {
-    "ranking": 15,
-    "flag": "NIR.png",
-    "team": "Northern Ireland",
-    "points": 1491,
-    "confederation": "UEFA",
-    "ranking_change": -2,
-    "points_change": 18
+    "ranking_change": null,
+    "points_change": null
   }
 ]

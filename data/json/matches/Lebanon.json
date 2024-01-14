@@ -5,13 +5,61 @@
       "date": "1940-04-27",
       "country": "Palestine",
       "tournament": "Friendly",
-      "team1": "Israel",
+      "team1": "Palestine",
       "team2": "Lebanon",
       "score1": 5,
       "score2": 1,
-      "rating1": 1366.4642401948493,
-      "rating2": 1094.308326369569,
-      "rating_ev": -16.69167363043107
+      "rating1": 1241.7974160359065,
+      "rating2": 1090.51383259338,
+      "rating_ev": -20.486167406620098
+    },
+    {
+      "date": "1944-03-05",
+      "country": "Lebanon",
+      "tournament": "Friendly",
+      "team1": "Lebanon",
+      "team2": "Iraq",
+      "score1": 4,
+      "score2": 1,
+      "rating1": 1121.8708732039292,
+      "rating2": 1532.6429593894507,
+      "rating_ev": 31.357040610549348
+    },
+    {
+      "date": "1953-08-03",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Jordan",
+      "team2": "Lebanon",
+      "score1": 4,
+      "score2": 1,
+      "rating1": 1223.4482899525428,
+      "rating2": 1084.9469003822599,
+      "rating_ev": -36.923972821669395
+    },
+    {
+      "date": "1953-08-06",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Syria",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1085.6165450132164,
+      "rating2": 1095.4888928019923,
+      "rating_ev": 0.6696446309565545
+    },
+    {
+      "date": "1953-08-08",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Palestine",
+      "score1": 9,
+      "score2": 1,
+      "rating1": 1182.662223972206,
+      "rating2": 1056.9256627260725,
+      "rating_ev": 97.04567895898958
     },
     {
       "date": "1955-01-23",
@@ -21,9 +69,9 @@
       "team2": "Bulgaria",
       "score1": 2,
       "score2": 3,
-      "rating1": 1096.4821498368124,
-      "rating2": 1500.6719025244518,
-      "rating_ev": 2.1738234672434373
+      "rating1": 1182.022567942351,
+      "rating2": 1493.3353724629221,
+      "rating_ev": -0.6396560298549048
     },
     {
       "date": "1956-02-29",
@@ -33,9 +81,153 @@
       "team2": "Hungary",
       "score1": 1,
       "score2": 4,
-      "rating1": 1106.2122462287048,
-      "rating2": 2401.4296472988676,
-      "rating_ev": 9.730096391892403
+      "rating1": 1190.2749582855881,
+      "rating2": 2405.6188053522446,
+      "rating_ev": 8.252390343237039
+    },
+    {
+      "date": "1956-03-02",
+      "country": "Lebanon",
+      "tournament": "Friendly",
+      "team1": "Lebanon",
+      "team2": "Hungary",
+      "score1": 0,
+      "score2": 6,
+      "rating1": 1181.0203566172534,
+      "rating2": 2414.8734070205796,
+      "rating_ev": -9.254601668334772
+    },
+    {
+      "date": "1957-10-18",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Saudi Arabia",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1186.6795290220127,
+      "rating2": 1365.3408275952406,
+      "rating_ev": 5.659172404759374
+    },
+    {
+      "date": "1957-10-20",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Syria",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1179.054809037518,
+      "rating2": 1161.0881704472451,
+      "rating_ev": -7.624719984494732
+    },
+    {
+      "date": "1957-10-22",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Jordan",
+      "score1": 6,
+      "score2": 0,
+      "rating1": 1248.8342773761085,
+      "rating2": 1113.18561779016,
+      "rating_ev": 69.7794683385905
+    },
+    {
+      "date": "1957-10-26",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Tunisia",
+      "score1": 2,
+      "score2": 4,
+      "rating1": 1233.8699717485038,
+      "rating2": 1573.7287978023198,
+      "rating_ev": -14.964305627604745
+    },
+    {
+      "date": "1959-11-15",
+      "country": "Lebanon",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Lebanon",
+      "team2": "Iraq",
+      "score1": 0,
+      "score2": 3,
+      "rating1": 1204.9141765103157,
+      "rating2": 1558.2370914950027,
+      "rating_ev": -28.955795238188102
+    },
+    {
+      "date": "1959-11-25",
+      "country": "Iraq",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Iraq",
+      "team2": "Lebanon",
+      "score1": 8,
+      "score2": 0,
+      "rating1": 1624.756466595476,
+      "rating2": 1138.3948014098423,
+      "rating_ev": -66.51937510047333
+    },
+    {
+      "date": "1961-09-03",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Morocco",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1578.8395815279505,
+      "rating2": 1156.8445035110046,
+      "rating_ev": 18.449702101162302
+    },
+    {
+      "date": "1961-09-04",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Saudi Arabia",
+      "score1": 7,
+      "score2": 1,
+      "rating1": 1237.7097875578768,
+      "rating2": 1171.1477675403278,
+      "rating_ev": 80.86528404687215
+    },
+    {
+      "date": "1961-09-06",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Kuwait",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1293.4048921126102,
+      "rating2": 1223.916895086305,
+      "rating_ev": 55.69510455473346
+    },
+    {
+      "date": "1961-09-08",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Egypt",
+      "team2": "Lebanon",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1815.582290715766,
+      "rating2": 1269.1287973172443,
+      "rating_ev": -24.276094795365907
+    },
+    {
+      "date": "1961-09-10",
+      "country": "Morocco",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Lebanon",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1302.7257077422278,
+      "rating2": 1256.4230109030425,
+      "rating_ev": -12.705786414201839
     },
     {
       "date": "1963-03-31",
@@ -45,9 +237,9 @@
       "team2": "Kuwait",
       "score1": 6,
       "score2": 0,
-      "rating1": 1190.5636187690686,
-      "rating2": 1271.5196176978443,
-      "rating_ev": 84.35137254036385
+      "rating1": 1322.926219752289,
+      "rating2": 1138.962289640159,
+      "rating_ev": 66.50320884924645
     },
     {
       "date": "1963-04-04",
@@ -57,9 +249,9 @@
       "team2": "Syria",
       "score1": 2,
       "score2": 3,
-      "rating1": 1174.2750082595364,
-      "rating2": 1262.2211553556417,
-      "rating_ev": -16.28861050953219
+      "rating1": 1301.3797266163403,
+      "rating2": 1311.788340643048,
+      "rating_ev": -21.546493135948594
     },
     {
       "date": "1963-04-06",
@@ -69,9 +261,9 @@
       "team2": "Jordan",
       "score1": 5,
       "score2": 0,
-      "rating1": 1228.2479857455887,
-      "rating2": 1035.1391826068752,
-      "rating_ev": 53.97297748605229
+      "rating1": 1340.5795794205878,
+      "rating2": 925.4131132460429,
+      "rating_ev": 39.199852804247485
     },
     {
       "date": "1963-04-07",
@@ -81,9 +273,9 @@
       "team2": "Tunisia",
       "score1": 0,
       "score2": 1,
-      "rating1": 1227.522310585786,
-      "rating2": 1548.5979541418653,
-      "rating_ev": -0.7256751598026767
+      "rating1": 1326.9615323928213,
+      "rating2": 1454.3744815780449,
+      "rating_ev": -13.618047027766579
     },
     {
       "date": "1963-06-09",
@@ -93,21 +285,21 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1550.1174387952376,
-      "rating2": 1226.0028259324138,
-      "rating_ev": -1.519484653372274
+      "rating1": 1540.2714995798658,
+      "rating2": 1322.1617342339975,
+      "rating_ev": -4.799798158823705
     },
     {
       "date": "1964-03-08",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1389.6576839786735,
-      "rating2": 1241.1193797080787,
-      "rating_ev": 15.116553775664897
+      "rating1": 1344.835862597029,
+      "rating2": 1344.4406305305797,
+      "rating_ev": 22.27889629658216
     },
     {
       "date": "1964-11-13",
@@ -117,9 +309,9 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1047.3822177817508,
-      "rating2": 1228.876344533203,
-      "rating_ev": -12.243035174875558
+      "rating1": 949.9461609037471,
+      "rating2": 1319.9075828728755,
+      "rating_ev": -24.533047657704174
     },
     {
       "date": "1964-11-14",
@@ -129,33 +321,33 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1387.2821139473447,
-      "rating2": 1224.07234475588,
-      "rating_ev": -4.8039997773230425
+      "rating1": 1357.300559629089,
+      "rating2": 1307.4428858408155,
+      "rating_ev": -12.46469703206003
     },
     {
-      "date": "1964-11-16",
+      "date": "1964-11-18",
       "country": "Kuwait",
       "tournament": "Arab Cup",
       "team1": "Iraq",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1555.3064992312711,
-      "rating2": 1229.996861187091,
-      "rating_ev": 5.924516431211032
+      "rating1": 1525.2972175844625,
+      "rating2": 1306.3675241576668,
+      "rating_ev": -1.0753616831486852
     },
     {
-      "date": "1964-11-17",
+      "date": "1964-11-20",
       "country": "Kuwait",
       "tournament": "Arab Cup",
       "team1": "Kuwait",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 3,
-      "rating1": 1214.5606315183325,
-      "rating2": 1249.8555525107065,
-      "rating_ev": 19.858691323615403
+      "rating1": 1120.288168156278,
+      "rating2": 1315.4269845452889,
+      "rating_ev": 9.059460387622039
     },
     {
       "date": "1965-03-20",
@@ -165,69 +357,117 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1240.0442420352474,
-      "rating2": 1238.219311793122,
-      "rating_ev": -11.636240717584542
+      "rating1": 1260.0219338750135,
+      "rating2": 1302.3883078348595,
+      "rating_ev": -13.0386767104294
     },
     {
-      "date": "1966-04-02",
-      "country": "Iraq",
-      "tournament": "Arab Cup",
+      "date": "1965-09-03",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Palestine",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1093.8043308838253,
+      "rating2": 1274.3948913727968,
+      "rating_ev": -27.99341646206267
+    },
+    {
+      "date": "1965-09-04",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Egypt",
+      "team2": "Lebanon",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1973.422882467471,
+      "rating2": 1279.03471013545,
+      "rating_ev": 4.639818762653249
+    },
+    {
+      "date": "1965-09-06",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Iraq",
+      "team2": "Lebanon",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1526.5926805974575,
+      "rating2": 1294.627994245319,
+      "rating_ev": 15.593284109869046
+    },
+    {
+      "date": "1965-09-07",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
       "team1": "Lebanon",
-      "team2": "Bahrain",
-      "score1": 6,
-      "score2": 1,
-      "rating1": 1302.0664353540917,
-      "rating2": 1160.1528764390303,
-      "rating_ev": 63.84712356096975
+      "team2": "Yemen",
+      "score1": 4,
+      "score2": 3,
+      "rating1": 1282.9342994439583,
+      "rating2": 867.4270196761137,
+      "rating_ev": -11.693694801360834
     },
     {
-      "date": "1966-04-03",
-      "country": "Iraq",
-      "tournament": "Arab Cup",
-      "team1": "Kuwait",
-      "team2": "Lebanon",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1196.243905453347,
-      "rating2": 1310.191017806085,
-      "rating_ev": 8.12458245199332
-    },
-    {
-      "date": "1966-04-05",
-      "country": "Iraq",
-      "tournament": "Arab Cup",
-      "team1": "Jordan",
-      "team2": "Lebanon",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1051.074413016418,
-      "rating2": 1308.69960839214,
-      "rating_ev": -1.4914094139451208
-    },
-    {
-      "date": "1966-04-07",
+      "date": "1966-04-01",
       "country": "Iraq",
       "tournament": "Arab Cup",
       "team1": "Iraq",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1568.8273774742802,
-      "rating2": 1331.0596063813355,
-      "rating_ev": 22.359997989195563
+      "rating1": 1538.706230262706,
+      "rating2": 1305.0254405104013,
+      "rating_ev": 22.091141066443015
     },
     {
-      "date": "1966-04-09",
+      "date": "1966-04-03",
       "country": "Iraq",
       "tournament": "Arab Cup",
       "team1": "Lebanon",
-      "team2": "Syria",
-      "score1": 0,
+      "team2": "Bahrain",
+      "score1": 6,
       "score2": 1,
-      "rating1": 1320.0104765569185,
-      "rating2": 1390.7485243449999,
-      "rating_ev": -11.049129824416923
+      "rating1": 1364.457007884844,
+      "rating2": 1157.3686570473187,
+      "rating_ev": 59.43156737444269
+    },
+    {
+      "date": "1966-04-04",
+      "country": "Iraq",
+      "tournament": "Arab Cup",
+      "team1": "Lebanon",
+      "team2": "Jordan",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1355.6288848132951,
+      "rating2": 985.2645043726536,
+      "rating_ev": -8.828123071548816
+    },
+    {
+      "date": "1966-04-06",
+      "country": "Iraq",
+      "tournament": "Arab Cup",
+      "team1": "Lebanon",
+      "team2": "Kuwait",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1354.5774580257291,
+      "rating2": 1103.6081120721358,
+      "rating_ev": -1.0514267875660153
+    },
+    {
+      "date": "1966-04-08",
+      "country": "Iraq",
+      "tournament": "Arab Cup",
+      "team1": "Syria",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1444.0513934573587,
+      "rating2": 1345.4174010991765,
+      "rating_ev": -9.16005692655267
     },
     {
       "date": "1966-04-10",
@@ -237,69 +477,177 @@
       "team2": "Lebanon",
       "score1": 6,
       "score2": 1,
-      "rating1": 1629.5370717251617,
-      "rating2": 1270.7383758925234,
-      "rating_ev": -49.27210066439511
+      "rating1": 1648.864615277243,
+      "rating2": 1295.7683566457597,
+      "rating_ev": -49.649044453416764
+    },
+    {
+      "date": "1967-09-28",
+      "country": "Japan",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Lebanon",
+      "team2": "Vietnam",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1296.8240732641796,
+      "rating2": 1312.3885324839232,
+      "rating_ev": 1.055716618419865
+    },
+    {
+      "date": "1967-10-01",
+      "country": "Japan",
+      "tournament": "Olympic Games qualifier",
+      "team1": "South Korea",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1456.916601815712,
+      "rating2": 1277.5853148663596,
+      "rating_ev": -19.238758397819993
+    },
+    {
+      "date": "1967-10-03",
+      "country": "Japan",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Japan",
+      "team2": "Lebanon",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1558.4813174810956,
+      "rating2": 1271.8889652652433,
+      "rating_ev": -5.696349601116253
+    },
+    {
+      "date": "1967-10-06",
+      "country": "Japan",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Lebanon",
+      "team2": "Philippines",
+      "score1": 11,
+      "score2": 1,
+      "rating1": 1324.7229581464107,
+      "rating2": 216.41798446711158,
+      "rating_ev": 52.83399288116743
+    },
+    {
+      "date": "1967-10-09",
+      "country": "Japan",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Lebanon",
+      "team2": "Taiwan",
+      "score1": 5,
+      "score2": 2,
+      "rating1": 1359.1391164063073,
+      "rating2": 1183.557529122461,
+      "rating_ev": 34.41615825989652
+    },
+    {
+      "date": "1970-07-31",
+      "country": "Libya",
+      "tournament": "Friendly tournament",
+      "team1": "Sudan",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1680.6179503656338,
+      "rating2": 1349.952281260414,
+      "rating_ev": -9.186835145893156
+    },
+    {
+      "date": "1971-06-02",
+      "country": "Lebanon",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Lebanon",
+      "team2": "Iraq",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1368.3871844386244,
+      "rating2": 1501.5558448288295,
+      "rating_ev": 18.434903178210334
+    },
+    {
+      "date": "1971-07-14",
+      "country": "Iraq",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Iraq",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1501.9306026569561,
+      "rating2": 1368.0124266104979,
+      "rating_ev": -0.374757828126576
+    },
+    {
+      "date": "1971-09-19",
+      "country": "Turkey",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Iraq",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1507.9018937979147,
+      "rating2": 1362.0411354695393,
+      "rating_ev": -5.971291140958556
     },
     {
       "date": "1971-12-11",
       "country": "Kuwait",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Bahrain",
       "team2": "Lebanon",
       "score1": 3,
       "score2": 0,
-      "rating1": 1105.0109598670692,
-      "rating2": 1216.913504938018,
-      "rating_ev": -53.82487095450551
+      "rating1": 1108.9298737578417,
+      "rating2": 1302.808672506214,
+      "rating_ev": -59.23246296332536
     },
     {
       "date": "1971-12-14",
       "country": "Kuwait",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Kuwait",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1320.5050290165664,
-      "rating2": 1214.645774037357,
-      "rating_ev": -2.2677309006610358
+      "rating1": 1220.6962660959641,
+      "rating2": 1288.7586593645276,
+      "rating_ev": -14.05001314168635
     },
     {
       "date": "1971-12-19",
       "country": "Kuwait",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Syria",
       "score1": 3,
       "score2": 2,
-      "rating1": 1236.9225009274637,
-      "rating2": 1332.0330952274046,
-      "rating_ev": 22.27672689010683
+      "rating1": 1310.1656391962483,
+      "rating2": 1392.3655412040296,
+      "rating_ev": 21.40697983172072
     },
     {
       "date": "1971-12-22",
       "country": "Kuwait",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Iraq",
       "team2": "Lebanon",
       "score1": 4,
       "score2": 1,
-      "rating1": 1598.3509168021378,
-      "rating2": 1216.2216833678951,
-      "rating_ev": -20.700817559568577
+      "rating1": 1539.8111604030616,
+      "rating2": 1281.3198760815278,
+      "rating_ev": -28.845763114720512
     },
     {
       "date": "1971-12-24",
       "country": "Kuwait",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Jordan",
       "score1": 2,
       "score2": 0,
-      "rating1": 1235.8039990079235,
-      "rating2": 1061.5755481259819,
-      "rating_ev": 19.582315640028355
+      "rating1": 1294.0789133053286,
+      "rating2": 1017.737927632499,
+      "rating_ev": 12.75903722380076
     },
     {
       "date": "1974-09-27",
@@ -309,33 +657,189 @@
       "team2": "Lebanon",
       "score1": 4,
       "score2": 1,
-      "rating1": 1608.6823209642578,
-      "rating2": 1215.7992682191762,
-      "rating_ev": -20.004730788747338
+      "rating1": 1601.0293993985422,
+      "rating2": 1270.0386685291137,
+      "rating_ev": -24.040244776214877
+    },
+    {
+      "date": "1974-09-29",
+      "country": "Syria",
+      "tournament": "Kuneitra Cup",
+      "team1": "Lebanon",
+      "team2": "Tunisia",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1310.2774204091306,
+      "rating2": 1680.1240630394452,
+      "rating_ev": 40.238751880016935
+    },
+    {
+      "date": "1974-10-01",
+      "country": "Syria",
+      "tournament": "Kuneitra Cup",
+      "team1": "Jordan",
+      "team2": "Lebanon",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1016.2189191931923,
+      "rating2": 1291.8187029225599,
+      "rating_ev": -18.458717486570777
+    },
+    {
+      "date": "1974-10-03",
+      "country": "Syria",
+      "tournament": "Kuneitra Cup",
+      "team1": "Morocco",
+      "team2": "Lebanon",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1714.5452999644588,
+      "rating2": 1274.818505348375,
+      "rating_ev": -17.000197574184767
+    },
+    {
+      "date": "1974-10-05",
+      "country": "Syria",
+      "tournament": "Kuneitra Cup",
+      "team1": "Egypt",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1680.5543853558695,
+      "rating2": 1270.739679518836,
+      "rating_ev": -4.078825829539028
     },
     {
       "date": "1975-05-16",
       "country": "South Korea",
-      "tournament": "Korea Cup",
+      "tournament": "Presidents Cup",
       "team1": "South Korea",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1422.7897719968935,
-      "rating2": 1220.0386938180052,
-      "rating_ev": 4.23942559882903
+      "rating1": 1438.4079535456947,
+      "rating2": 1272.5143798652707,
+      "rating_ev": 1.7747003464346562
     },
     {
-      "date": "1978-09-10",
-      "country": "South Korea",
-      "tournament": "Korea Cup",
-      "team1": "Lebanon",
-      "team2": "Mexico",
+      "date": "1975-05-27",
+      "country": "Thailand",
+      "tournament": "Friendly",
+      "team1": "Thailand",
+      "team2": "Lebanon",
       "score1": 1,
-      "score2": 7,
-      "rating1": 1170.0246212560264,
-      "rating2": 1700.4751121602615,
-      "rating_ev": -50.014072561978764
+      "score2": 2,
+      "rating1": 1254.9279007427313,
+      "rating2": 1282.0718744640517,
+      "rating_ev": 9.557494598780977
+    },
+    {
+      "date": "1979-11-16",
+      "country": "United Arab Emirates",
+      "tournament": "Asian Cup qualifier",
+      "team1": "United Arab Emirates",
+      "team2": "Lebanon",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 940.5404309923613,
+      "rating2": 1266.7035717138297,
+      "rating_ev": -15.368302750221915
+    },
+    {
+      "date": "1979-11-22",
+      "country": "United Arab Emirates",
+      "tournament": "Asian Cup qualifier",
+      "team1": "Syria",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1217.8956912957888,
+      "rating2": 1248.7654613506995,
+      "rating_ev": -17.938110363130136
+    },
+    {
+      "date": "1985-03-15",
+      "country": "Kuwait",
+      "tournament": "World Cup qualifier",
+      "team1": "Iraq",
+      "team2": "Lebanon",
+      "score1": 6,
+      "score2": 0,
+      "rating1": 1599.5023471861941,
+      "rating2": 1190.9002826049734,
+      "rating_ev": -57.8651787457261
+    },
+    {
+      "date": "1985-03-18",
+      "country": "Kuwait",
+      "tournament": "World Cup qualifier",
+      "team1": "Iraq",
+      "team2": "Lebanon",
+      "score1": 6,
+      "score2": 0,
+      "rating1": 1650.743447176343,
+      "rating2": 1139.6591826148247,
+      "rating_ev": -51.24109999014877
+    },
+    {
+      "date": "1985-03-22",
+      "country": "Qatar",
+      "tournament": "World Cup qualifier",
+      "team1": "Qatar",
+      "team2": "Lebanon",
+      "score1": 7,
+      "score2": 0,
+      "rating1": 1506.1224807442165,
+      "rating2": 1078.7446805169604,
+      "rating_ev": -60.914502097864215
+    },
+    {
+      "date": "1985-03-27",
+      "country": "Qatar",
+      "tournament": "World Cup qualifier",
+      "team1": "Qatar",
+      "team2": "Lebanon",
+      "score1": 8,
+      "score2": 0,
+      "rating1": 1568.4444813451346,
+      "rating2": 1016.4226799160423,
+      "rating_ev": -62.322000600918045
+    },
+    {
+      "date": "1985-03-31",
+      "country": "Bahrain",
+      "tournament": "Friendly",
+      "team1": "Bahrain",
+      "team2": "Lebanon",
+      "score1": 6,
+      "score2": 0,
+      "rating1": 1310.4068264636464,
+      "rating2": 989.5621573959734,
+      "rating_ev": -26.8605225200688
+    },
+    {
+      "date": "1987-09-16",
+      "country": "Syria",
+      "tournament": "Mediterranean Games",
+      "team1": "Lebanon",
+      "team2": "San Marino",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 984.0985685607619,
+      "rating2": 903.4635888352115,
+      "rating_ev": -5.463588835211453
+    },
+    {
+      "date": "1987-09-20",
+      "country": "Syria",
+      "tournament": "Mediterranean Games",
+      "team1": "Syria",
+      "team2": "Lebanon",
+      "score1": 6,
+      "score2": 1,
+      "rating1": 1361.6024529509862,
+      "rating2": 944.992386935741,
+      "rating_ev": -39.10618162502101
     },
     {
       "date": "1988-07-11",
@@ -345,9 +849,9 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1528.4369638422236,
-      "rating2": 1192.3953461397778,
-      "rating_ev": 22.370724883751336
+      "rating1": 1605.7960945761465,
+      "rating2": 984.610717432153,
+      "rating_ev": 39.618330496412
     },
     {
       "date": "1988-07-15",
@@ -357,9 +861,9 @@
       "team2": "Lebanon",
       "score1": 3,
       "score2": 0,
-      "rating1": 1628.6328558924808,
-      "rating2": 1176.201785690826,
-      "rating_ev": -16.193560448951757
+      "rating1": 1658.5853624418846,
+      "rating2": 981.9622426422461,
+      "rating_ev": -2.6484747899069134
     },
     {
       "date": "1988-07-17",
@@ -369,33 +873,33 @@
       "team2": "Tunisia",
       "score1": 1,
       "score2": 1,
-      "rating1": 1192.8291775693788,
-      "rating2": 1440.4863935298504,
-      "rating_ev": 16.62739187855277
+      "rating1": 1008.9776019274137,
+      "rating2": 1418.3995922632985,
+      "rating_ev": 27.01535928516762
     },
     {
       "date": "1989-10-30",
       "country": "Kuwait",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Kuwait",
       "team2": "Lebanon",
       "score1": 5,
       "score2": 0,
-      "rating1": 1492.7062654103408,
-      "rating2": 1171.5478525597343,
-      "rating_ev": -21.281325009644434
+      "rating1": 1522.56716493647,
+      "rating2": 977.9975742171741,
+      "rating_ev": -30.980027710239483
     },
     {
       "date": "1989-11-02",
       "country": "Kuwait",
-      "tournament": "Friendly",
-      "team1": "Lebanon",
-      "team2": "Uganda",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1164.3083951796577,
-      "rating2": 1400.2554118249564,
-      "rating_ev": -7.239457380076601
+      "tournament": "Friendly tournament",
+      "team1": "Uganda",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1411.1317242466764,
+      "rating2": 975.5528684942454,
+      "rating_ev": -2.444705722928802
     },
     {
       "date": "1993-01-02",
@@ -405,9 +909,9 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1444.302134107565,
-      "rating2": 1161.5185221111537,
-      "rating_ev": -2.7898730685039936
+      "rating1": 1451.991266208759,
+      "rating2": 978.5059802631495,
+      "rating_ev": 2.9531117689041366
     },
     {
       "date": "1993-03-26",
@@ -417,105 +921,105 @@
       "team2": "Jordan",
       "score1": 1,
       "score2": 0,
-      "rating1": 1170.2151126904218,
-      "rating2": 1305.2619256110913,
-      "rating_ev": 8.696590579268104
+      "rating1": 993.4080510485377,
+      "rating2": 1328.94877165571,
+      "rating_ev": 14.902070785388219
     },
     {
       "date": "1993-05-07",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "India",
       "score1": 2,
       "score2": 2,
-      "rating1": 1165.862115572885,
-      "rating2": 1196.1339865739612,
-      "rating_ev": -4.3529971175369155
+      "rating1": 994.1746342464354,
+      "rating2": 1100.0631192013898,
+      "rating_ev": 0.7665831978977167
     },
     {
       "date": "1993-05-09",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Hong Kong",
       "score1": 2,
       "score2": 2,
-      "rating1": 1163.0487853352743,
-      "rating2": 1216.030166239163,
-      "rating_ev": -2.8133302376106712
+      "rating1": 1002.5345038193008,
+      "rating2": 1221.7264781882996,
+      "rating_ev": 8.359869572865364
     },
     {
       "date": "1993-05-11",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "South Korea",
       "score1": 0,
       "score2": 1,
-      "rating1": 1168.958239599775,
-      "rating2": 1593.473806339089,
-      "rating_ev": 5.9094542645007095
+      "rating1": 1018.8851409112029,
+      "rating2": 1615.2108192617445,
+      "rating_ev": 16.350637091902172
     },
     {
       "date": "1993-05-13",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Bahrain",
       "score1": 0,
       "score2": 0,
-      "rating1": 1175.0870955502046,
-      "rating2": 1360.7754949341079,
-      "rating_ev": 6.1288559504296245
+      "rating1": 1034.9725826463834,
+      "rating2": 1372.2956070476132,
+      "rating_ev": 16.087441735180505
     },
     {
       "date": "1993-06-05",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Bahrain",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1351.9932736686685,
-      "rating2": 1186.2761190756642,
-      "rating_ev": 11.189023525459561
+      "rating1": 1349.4183384757816,
+      "rating2": 1054.6777982139774,
+      "rating_ev": 19.705215567593996
     },
     {
       "date": "1993-06-07",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "South Korea",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1634.818415609863,
-      "rating2": 1190.7180052667006,
-      "rating_ev": 4.441886191036474
+      "rating1": 1640.7629271186365,
+      "rating2": 1067.0229118336201,
+      "rating_ev": 12.345113619642689
     },
     {
       "date": "1993-06-09",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Hong Kong",
-      "team2": "Lebanon",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1185.2683413288103,
-      "rating2": 1205.2117062458176,
-      "rating_ev": 14.493700979116966
+      "tournament": "World Cup qualifier",
+      "team1": "Lebanon",
+      "team2": "Hong Kong",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1088.9672903954981,
+      "rating2": 1179.1421162457477,
+      "rating_ev": 21.94437856187801
     },
     {
       "date": "1993-06-11",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "India",
-      "team2": "Lebanon",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1077.9036408758661,
-      "rating2": 1211.977455207061,
-      "rating_ev": 6.765748961243389
+      "tournament": "World Cup qualifier",
+      "team1": "Lebanon",
+      "team2": "India",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1098.51695491455,
+      "rating2": 1005.6401382924068,
+      "rating_ev": 9.54966451905193
     },
     {
       "date": "1995-03-26",
@@ -525,9 +1029,21 @@
       "team2": "Egypt",
       "score1": 1,
       "score2": 1,
-      "rating1": 1221.9196453493532,
-      "rating2": 1638.7522970867328,
-      "rating_ev": 9.942190142292247
+      "rating1": 1110.7389716240975,
+      "rating2": 1605.5601143431281,
+      "rating_ev": 12.22201670954746
+    },
+    {
+      "date": "1995-12-06",
+      "country": "Lebanon",
+      "tournament": "Friendly",
+      "team1": "Lebanon",
+      "team2": "Slovakia",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1129.4312121880232,
+      "rating2": 1592.7776461298024,
+      "rating_ev": 18.69224056392568
     },
     {
       "date": "1996-01-03",
@@ -537,9 +1053,9 @@
       "team2": "Kazakhstan",
       "score1": 2,
       "score2": 1,
-      "rating1": 1231.6556532644363,
-      "rating2": 1399.778860561372,
-      "rating_ev": 9.736007915083064
+      "rating1": 1141.602734737782,
+      "rating2": 1387.9138160426148,
+      "rating_ev": 12.17152254975872
     },
     {
       "date": "1996-01-16",
@@ -549,9 +1065,9 @@
       "team2": "Cyprus",
       "score1": 1,
       "score2": 0,
-      "rating1": 1240.4231287417458,
-      "rating2": 1377.7211813740037,
-      "rating_ev": 8.767475477309517
+      "rating1": 1153.4382247183673,
+      "rating2": 1388.893922685216,
+      "rating_ev": 11.835489980585407
     },
     {
       "date": "1996-02-11",
@@ -561,57 +1077,57 @@
       "team2": "Ecuador",
       "score1": 1,
       "score2": 0,
-      "rating1": 1257.7308721361508,
-      "rating2": 1673.7582599344735,
-      "rating_ev": 17.30774339440495
+      "rating1": 1173.971218923249,
+      "rating2": 1701.581575598408,
+      "rating_ev": 20.53299420488156
     },
     {
       "date": "1996-05-12",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Turkmenistan",
       "score1": 3,
       "score2": 1,
-      "rating1": 1285.3443627611487,
-      "rating2": 1324.3391734305928,
-      "rating_ev": 27.613490624997894
+      "rating1": 1209.8264973428013,
+      "rating2": 1371.6876082447861,
+      "rating_ev": 35.855278419552405
     },
     {
       "date": "1996-05-26",
       "country": "Turkmenistan",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Turkmenistan",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1302.415935133864,
-      "rating2": 1307.2676010578775,
-      "rating_ev": 21.92323829672887
+      "rating1": 1342.454449286447,
+      "rating2": 1239.0596563011404,
+      "rating_ev": 29.233158958339118
     },
     {
       "date": "1996-06-09",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Kuwait",
       "score1": 3,
       "score2": 5,
-      "rating1": 1284.7108575438112,
-      "rating2": 1509.9207427849212,
-      "rating_ev": -22.556743514066284
+      "rating1": 1223.4028698107882,
+      "rating2": 1552.6782250567107,
+      "rating_ev": -15.65678649035226
     },
     {
       "date": "1996-06-20",
       "country": "Kuwait",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Kuwait",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1490.9064094421926,
-      "rating2": 1303.7251908865398,
-      "rating_ev": 19.014333342728605
+      "rating1": 1527.6123847986996,
+      "rating2": 1248.4687100687993,
+      "rating_ev": 25.06584025801112
     },
     {
       "date": "1996-09-05",
@@ -621,9 +1137,21 @@
       "team2": "Oman",
       "score1": 1,
       "score2": 2,
-      "rating1": 1294.519497526616,
-      "rating2": 1332.7407168543168,
-      "rating_ev": -9.205693359923771
+      "rating1": 1242.1671026680112,
+      "rating2": 1372.0076357475214,
+      "rating_ev": -6.301607400788043
+    },
+    {
+      "date": "1996-09-08",
+      "country": "Lebanon",
+      "tournament": "Friendly",
+      "team1": "Lebanon",
+      "team2": "Oman",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1250.193417741072,
+      "rating2": 1363.9813206744607,
+      "rating_ev": 8.026315073060687
     },
     {
       "date": "1996-10-03",
@@ -633,9 +1161,9 @@
       "team2": "Bahrain",
       "score1": 2,
       "score2": 3,
-      "rating1": 1287.432372353604,
-      "rating2": 1392.4418405993883,
-      "rating_ev": -7.087125173012055
+      "rating1": 1244.9212650768395,
+      "rating2": 1407.3916951714186,
+      "rating_ev": -5.272152664232408
     },
     {
       "date": "1996-10-09",
@@ -645,9 +1173,9 @@
       "team2": "New Zealand",
       "score1": 1,
       "score2": 1,
-      "rating1": 1291.4927647441875,
-      "rating2": 1515.2045952987078,
-      "rating_ev": 4.060392390583502
+      "rating1": 1249.1762902611492,
+      "rating2": 1479.1416115598274,
+      "rating_ev": 4.255025184309716
     },
     {
       "date": "1996-11-13",
@@ -657,9 +1185,9 @@
       "team2": "Iran",
       "score1": 0,
       "score2": 0,
-      "rating1": 1298.674417782435,
-      "rating2": 1623.6691111618563,
-      "rating_ev": 7.181653038247532
+      "rating1": 1258.1543745439521,
+      "rating2": 1642.6246154555367,
+      "rating_ev": 8.97808428280291
     },
     {
       "date": "1996-12-05",
@@ -669,9 +1197,9 @@
       "team2": "Georgia",
       "score1": 4,
       "score2": 2,
-      "rating1": 1318.4095364725388,
-      "rating2": 1574.518361800878,
-      "rating_ev": 19.735118690103718
+      "rating1": 1280.6143568927398,
+      "rating2": 1626.3040313680967,
+      "rating_ev": 22.459982348787662
     },
     {
       "date": "1996-12-08",
@@ -681,9 +1209,9 @@
       "team2": "Georgia",
       "score1": 3,
       "score2": 2,
-      "rating1": 1330.1569389625183,
-      "rating2": 1562.7709593108984,
-      "rating_ev": 11.74740248997955
+      "rating1": 1294.954386852297,
+      "rating2": 1611.9640014085396,
+      "rating_ev": 14.340029959557114
     },
     {
       "date": "1997-01-12",
@@ -693,9 +1221,9 @@
       "team2": "Algeria",
       "score1": 2,
       "score2": 2,
-      "rating1": 1334.438313627455,
-      "rating2": 1565.2507873744278,
-      "rating_ev": 4.28137466493672
+      "rating1": 1300.7763454509384,
+      "rating2": 1581.3692798626437,
+      "rating_ev": 5.821958598641459
     },
     {
       "date": "1997-01-26",
@@ -705,9 +1233,9 @@
       "team2": "Estonia",
       "score1": 2,
       "score2": 0,
-      "rating1": 1340.148768354806,
-      "rating2": 1151.1066901636873,
-      "rating_ev": 5.710454727350907
+      "rating1": 1307.5559012514418,
+      "rating2": 1152.4919379349183,
+      "rating_ev": 6.779555800503431
     },
     {
       "date": "1997-02-02",
@@ -717,9 +1245,9 @@
       "team2": "Jordan",
       "score1": 1,
       "score2": 0,
-      "rating1": 1341.667231576302,
-      "rating2": 1250.2249152327402,
-      "rating_ev": 1.5184632214959493
+      "rating1": 1311.0620106543722,
+      "rating2": 1282.2788494032368,
+      "rating_ev": 3.506109402930406
     },
     {
       "date": "1997-02-07",
@@ -729,9 +1257,9 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1250.1326282149503,
-      "rating2": 1341.7595185940918,
-      "rating_ev": 0.0922870177898858
+      "rating1": 1280.3178420744762,
+      "rating2": 1313.0230179831328,
+      "rating_ev": 1.9610073287606156
     },
     {
       "date": "1997-02-09",
@@ -741,9 +1269,9 @@
       "team2": "Jordan",
       "score1": 0,
       "score2": 0,
-      "rating1": 1336.2052837549284,
-      "rating2": 1255.6868630541137,
-      "rating_ev": -5.554234839163428
+      "rating1": 1309.2259099827716,
+      "rating2": 1284.1149500748375,
+      "rating_ev": -3.797108000361277
     },
     {
       "date": "1997-03-19",
@@ -753,21 +1281,33 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1563.2418218430196,
-      "rating2": 1338.867372237305,
-      "rating_ev": 2.662088482376703
+      "rating1": 1584.157127669744,
+      "rating2": 1313.3287704308264,
+      "rating_ev": 4.102860448054798
+    },
+    {
+      "date": "1997-04-04",
+      "country": "Lebanon",
+      "tournament": "Friendly",
+      "team1": "Lebanon",
+      "team2": "Norway",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1327.585456890132,
+      "rating2": 1894.0596862763168,
+      "rating_ev": 14.256686459305683
     },
     {
       "date": "1997-04-13",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Singapore",
       "score1": 1,
       "score2": 1,
-      "rating1": 1327.5813033654952,
-      "rating2": 1255.5441786761683,
-      "rating_ev": -11.286068871809903
+      "rating1": 1314.6705137149233,
+      "rating2": 1218.5084181491113,
+      "rating_ev": -12.914943175208691
     },
     {
       "date": "1997-04-27",
@@ -777,45 +1317,93 @@
       "team2": "Libya",
       "score1": 2,
       "score2": 0,
-      "rating1": 1343.4486103308045,
-      "rating2": 1475.340447368329,
-      "rating_ev": 15.867306965309353
+      "rating1": 1330.2595540322043,
+      "rating2": 1453.3085130100567,
+      "rating_ev": 15.589040317280933
     },
     {
       "date": "1997-05-08",
       "country": "Kuwait",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Kuwait",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1575.9130626285075,
-      "rating2": 1334.7453627604102,
-      "rating_ev": -8.703247570394296
+      "rating1": 1595.348669446088,
+      "rating2": 1323.5849554304423,
+      "rating_ev": -6.674598601762
     },
     {
       "date": "1997-05-24",
       "country": "Singapore",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Singapore",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 2,
-      "rating1": 1239.4940620819114,
-      "rating2": 1349.5378052408403,
-      "rating_ev": 14.792442480430054
+      "rating1": 1207.3480870582323,
+      "rating2": 1337.0484686858106,
+      "rating_ev": 13.463513255368298
     },
     {
       "date": "1997-06-22",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Kuwait",
       "score1": 1,
       "score2": 3,
-      "rating1": 1331.6630853781705,
-      "rating2": 1627.230864617269,
-      "rating_ev": -17.874719862669735
+      "rating1": 1320.8461032440796,
+      "rating2": 1641.8037567110382,
+      "rating_ev": -16.20236544173099
+    },
+    {
+      "date": "1997-07-13",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Jordan",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1316.6209471170469,
+      "rating2": 1348.7778840302465,
+      "rating_ev": -4.225156127032733
+    },
+    {
+      "date": "1997-07-16",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Oman",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1312.5757559690953,
+      "rating2": 1347.3864765772742,
+      "rating_ev": -4.0451911479515275
+    },
+    {
+      "date": "1997-07-19",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Libya",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1328.6487378622696,
+      "rating2": 1426.686041541548,
+      "rating_ev": 16.0729818931743
+    },
+    {
+      "date": "1997-07-24",
+      "country": "Lebanon",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Syria",
+      "score1": 2,
+      "score2": 3,
+      "rating1": 1321.170837660332,
+      "rating2": 1539.9598594759627,
+      "rating_ev": -7.4779002019377
     },
     {
       "date": "1997-08-21",
@@ -825,45 +1413,45 @@
       "team2": "Iraq",
       "score1": 0,
       "score2": 2,
-      "rating1": 1321.844354042115,
-      "rating2": 1571.170848078771,
-      "rating_ev": -9.818731336055635
+      "rating1": 1311.2484748502275,
+      "rating2": 1557.2493958593623,
+      "rating_ev": -9.92236281010446
     },
     {
       "date": "1998-07-20",
       "country": "Lebanon",
-      "tournament": "Arab Cup qualification",
+      "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
       "team2": "Palestine",
       "score1": 3,
       "score2": 1,
-      "rating1": 1341.5299261683083,
-      "rating2": 1263.5449986456513,
-      "rating_ev": 19.685572126193392
+      "rating1": 1326.3238900802996,
+      "rating2": 1180.2011438642714,
+      "rating_ev": 15.075415230072167
     },
     {
       "date": "1998-07-23",
       "country": "Lebanon",
-      "tournament": "Arab Cup qualification",
+      "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
       "team2": "Jordan",
       "score1": 0,
       "score2": 2,
-      "rating1": 1305.5049956223277,
-      "rating2": 1331.479140146387,
-      "rating_ev": -36.024930545980624
+      "rating1": 1296.1642106181403,
+      "rating2": 1408.6340066518953,
+      "rating_ev": -30.159679462159374
     },
     {
       "date": "1998-07-26",
       "country": "Lebanon",
-      "tournament": "Arab Cup qualification",
+      "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
       "team2": "Syria",
       "score1": 0,
       "score2": 1,
-      "rating1": 1300.270990931379,
-      "rating2": 1552.7918291589635,
-      "rating_ev": -5.234004690948723
+      "rating1": 1291.112523439279,
+      "rating2": 1546.3842766004502,
+      "rating_ev": -5.051687178861357
     },
     {
       "date": "1998-08-18",
@@ -873,9 +1461,9 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1402.3876533559292,
-      "rating2": 1299.1266666069105,
-      "rating_ev": -1.1443243244684709
+      "rating1": 1372.2699773778822,
+      "rating2": 1289.3248758868485,
+      "rating_ev": -1.7876475524303714
     },
     {
       "date": "1998-09-09",
@@ -885,9 +1473,9 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1605.335918465311,
-      "rating2": 1311.3471676663994,
-      "rating_ev": 12.220501059488925
+      "rating1": 1641.9775098385144,
+      "rating2": 1302.916877034932,
+      "rating_ev": 13.592001148083455
     },
     {
       "date": "1998-09-27",
@@ -897,45 +1485,165 @@
       "team2": "Lebanon",
       "score1": 4,
       "score2": 1,
-      "rating1": 1625.5631126928756,
-      "rating2": 1287.7547612797594,
-      "rating_ev": -23.59240638664005
+      "rating1": 1644.4499509073555,
+      "rating2": 1281.0016067909437,
+      "rating_ev": -21.91527024398829
     },
     {
       "date": "1998-10-17",
       "country": "United Arab Emirates",
-      "tournament": "United Arab Emirates Friendship Tournament",
+      "tournament": "Friendly tournament",
       "team1": "Lebanon",
       "team2": "Syria",
       "score1": 3,
       "score2": 3,
-      "rating1": 1299.5661308215672,
-      "rating2": 1474.5936058861344,
-      "rating_ev": 11.811369541807835
+      "rating1": 1293.0445121741009,
+      "rating2": 1471.5396239464762,
+      "rating_ev": 12.042905383157176
     },
     {
       "date": "1998-10-19",
       "country": "United Arab Emirates",
-      "tournament": "United Arab Emirates Friendship Tournament",
+      "tournament": "Friendly tournament",
       "team1": "Lebanon",
       "team2": "Sudan",
       "score1": 1,
       "score2": 1,
-      "rating1": 1299.7692259296334,
-      "rating2": 1302.7633447088674,
-      "rating_ev": 0.2030951080662362
+      "rating1": 1294.954240948051,
+      "rating2": 1323.1120436057763,
+      "rating_ev": 1.9097287739500644
     },
     {
       "date": "1998-10-21",
       "country": "United Arab Emirates",
-      "tournament": "United Arab Emirates Friendship Tournament",
+      "tournament": "Friendly tournament",
       "team1": "United Arab Emirates",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1509.8097447914745,
-      "rating2": 1304.199202836042,
-      "rating_ev": 4.429976906408683
+      "rating1": 1535.298853092708,
+      "rating2": 1301.2719973119624,
+      "rating_ev": 6.317756363911485
+    },
+    {
+      "date": "1998-11-18",
+      "country": "Lebanon",
+      "tournament": "Friendly",
+      "team1": "Lebanon",
+      "team2": "Iraq",
+      "score1": 0,
+      "score2": 2,
+      "rating1": 1292.2225305060274,
+      "rating2": 1566.2988626652973,
+      "rating_ev": -9.049466805935026
+    },
+    {
+      "date": "1998-11-30",
+      "country": "Thailand",
+      "tournament": "Asian Games",
+      "team1": "China",
+      "team2": "Lebanon",
+      "score1": 4,
+      "score2": 1,
+      "rating1": 1725.979512206638,
+      "rating2": 1275.8811338048577,
+      "rating_ev": -16.341396701169742
+    },
+    {
+      "date": "1998-12-04",
+      "country": "Thailand",
+      "tournament": "Asian Games",
+      "team1": "Lebanon",
+      "team2": "Cambodia",
+      "score1": 5,
+      "score2": 1,
+      "rating1": 1295.2536353843782,
+      "rating2": 667.819444696855,
+      "rating_ev": 19.37250157952053
+    },
+    {
+      "date": "1998-12-08",
+      "country": "Thailand",
+      "tournament": "Asian Games",
+      "team1": "Qatar",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1493.3056446437788,
+      "rating2": 1292.9398779514495,
+      "rating_ev": -2.3137574329286963
+    },
+    {
+      "date": "1998-12-10",
+      "country": "Thailand",
+      "tournament": "Asian Games",
+      "team1": "Thailand",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1394.7993809488796,
+      "rating2": 1290.562531665056,
+      "rating_ev": -2.3773462863935038
+    },
+    {
+      "date": "1998-12-12",
+      "country": "Thailand",
+      "tournament": "Asian Games",
+      "team1": "Lebanon",
+      "team2": "Kazakhstan",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1340.874744352729,
+      "rating2": 1400.2503863943534,
+      "rating_ev": 50.31221268767308
+    },
+    {
+      "date": "1999-08-20",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "United Arab Emirates",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1528.529814169073,
+      "rating2": 1323.3713007223296,
+      "rating_ev": -17.503443630399488
+    },
+    {
+      "date": "1999-08-23",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Jordan",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 3,
+      "rating1": 1394.0282922739525,
+      "rating2": 1363.2369377524672,
+      "rating_ev": 39.86563703013758
+    },
+    {
+      "date": "1999-08-25",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Oman",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1360.135480686435,
+      "rating2": 1314.3963272640622,
+      "rating_ev": -3.1014570660322534
+    },
+    {
+      "date": "1999-08-27",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Iraq",
+      "team2": "Lebanon",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1619.7063462358558,
+      "rating2": 1319.9754199721167,
+      "rating_ev": -40.160060714318206
     },
     {
       "date": "1999-11-24",
@@ -945,9 +1653,21 @@
       "team2": "Malta",
       "score1": 0,
       "score2": 0,
-      "rating1": 1297.8092936073717,
-      "rating2": 1190.8708987685561,
-      "rating_ev": -6.389909228670376
+      "rating1": 1313.9986992932345,
+      "rating2": 1220.130530544392,
+      "rating_ev": -5.976720678882202
+    },
+    {
+      "date": "1999-12-15",
+      "country": "Malta",
+      "tournament": "Friendly",
+      "team1": "Malta",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1227.0872346267188,
+      "rating2": 1307.0419952109078,
+      "rating_ev": -6.956704082326723
     },
     {
       "date": "2000-02-16",
@@ -957,9 +1677,9 @@
       "team2": "North Korea",
       "score1": 1,
       "score2": 0,
-      "rating1": 1305.5156813510573,
-      "rating2": 1409.1731671775237,
-      "rating_ev": 7.706387743685582
+      "rating1": 1313.5518259359992,
+      "rating2": 1379.39809505051,
+      "rating_ev": 6.509830725091433
     },
     {
       "date": "2000-02-23",
@@ -969,9 +1689,9 @@
       "team2": "Jordan",
       "score1": 1,
       "score2": 1,
-      "rating1": 1304.775121823056,
-      "rating2": 1375.942167098043,
-      "rating_ev": -0.7405595280013131
+      "rating1": 1315.091713479596,
+      "rating2": 1458.3798900171307,
+      "rating_ev": 1.5398875435967057
     },
     {
       "date": "2000-03-08",
@@ -981,9 +1701,9 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1375.7060083823146,
-      "rating2": 1309.8644082836956,
-      "rating_ev": 5.0892864606396415
+      "rating1": 1453.1924911247077,
+      "rating2": 1322.23943993548,
+      "rating_ev": 7.14772645588414
     },
     {
       "date": "2000-05-13",
@@ -993,9 +1713,9 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1428.8753134737444,
-      "rating2": 1313.5214500715238,
-      "rating_ev": 3.6570417878281205
+      "rating1": 1475.8935903016568,
+      "rating2": 1326.9554106044047,
+      "rating_ev": 4.715970668924683
     },
     {
       "date": "2000-05-21",
@@ -1005,45 +1725,45 @@
       "team2": "Saudi Arabia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1319.711185922008,
-      "rating2": 1612.2674127800105,
-      "rating_ev": 6.18973585048434
+      "rating1": 1332.7897377436263,
+      "rating2": 1613.7844718421127,
+      "rating_ev": 5.834327139221614
     },
     {
       "date": "2000-05-23",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
-      "team1": "Lebanon",
-      "team2": "Iraq",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1323.6818376867507,
-      "rating2": 1619.0113366129453,
-      "rating_ev": 3.97065176474257
+      "tournament": "West Asian Championship",
+      "team1": "Iraq",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1627.7269999079024,
+      "rating2": 1336.4922778454338,
+      "rating_ev": 3.7025401018074717
     },
     {
       "date": "2000-05-25",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
-      "team1": "Kyrgyzstan",
-      "team2": "Lebanon",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1129.3524719179168,
-      "rating2": 1340.7659848739386,
-      "rating_ev": 17.08414718718791
+      "tournament": "West Asian Championship",
+      "team1": "Lebanon",
+      "team2": "Kyrgyzstan",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1350.8238209890405,
+      "rating2": 1098.1826802814887,
+      "rating_ev": 14.331543143606723
     },
     {
       "date": "2000-05-27",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Jordan",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1428.2639022211647,
-      "rating2": 1352.3163301499644,
-      "rating_ev": 11.550345276026064
+      "rating1": 1466.5716928540178,
+      "rating2": 1364.1600644781884,
+      "rating_ev": 13.336243489147819
     },
     {
       "date": "2000-06-25",
@@ -1053,9 +1773,9 @@
       "team2": "Kuwait",
       "score1": 3,
       "score2": 1,
-      "rating1": 1378.07957239279,
-      "rating2": 1835.739637552782,
-      "rating_ev": 25.763242242825527
+      "rating1": 1389.7011674955893,
+      "rating2": 1839.690924352385,
+      "rating_ev": 25.54110301740093
     },
     {
       "date": "2000-08-05",
@@ -1065,9 +1785,9 @@
       "team2": "Oman",
       "score1": 3,
       "score2": 1,
-      "rating1": 1386.4825994662597,
-      "rating2": 1282.7836970473645,
-      "rating_ev": 8.40302707346973
+      "rating1": 1396.027713665792,
+      "rating2": 1226.583650751348,
+      "rating_ev": 6.326546170202619
     },
     {
       "date": "2000-08-08",
@@ -1077,9 +1797,9 @@
       "team2": "Oman",
       "score1": 1,
       "score2": 2,
-      "rating1": 1373.5922721101056,
-      "rating2": 1295.6740244035186,
-      "rating_ev": -12.890327356154103
+      "rating1": 1381.186812057445,
+      "rating2": 1241.4245523596949,
+      "rating_ev": -14.84090160834694
     },
     {
       "date": "2000-09-07",
@@ -1089,9 +1809,9 @@
       "team2": "United Arab Emirates",
       "score1": 0,
       "score2": 1,
-      "rating1": 1367.915095611618,
-      "rating2": 1517.53430370588,
-      "rating_ev": -5.677176498487597
+      "rating1": 1375.3931365296914,
+      "rating2": 1521.319257817914,
+      "rating_ev": -5.793675527753521
     },
     {
       "date": "2000-09-10",
@@ -1101,45 +1821,45 @@
       "team2": "United Arab Emirates",
       "score1": 2,
       "score2": 2,
-      "rating1": 1369.5513473229187,
-      "rating2": 1515.8980519945792,
-      "rating_ev": 1.6362517113007016
+      "rating1": 1376.919926180784,
+      "rating2": 1519.7924681668214,
+      "rating_ev": 1.5267896510924857
     },
     {
       "date": "2000-10-12",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup",
+      "tournament": "Asian Cup",
       "team1": "Lebanon",
       "team2": "Iran",
       "score1": 0,
       "score2": 4,
-      "rating1": 1328.7550322297054,
-      "rating2": 1715.578421761841,
-      "rating_ev": -40.79631509321325
+      "rating1": 1338.6052466287347,
+      "rating2": 1763.5702684227756,
+      "rating_ev": -38.314679552049256
     },
     {
       "date": "2000-10-15",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup",
+      "tournament": "Asian Cup",
       "team1": "Lebanon",
       "team2": "Iraq",
       "score1": 2,
       "score2": 2,
-      "rating1": 1340.9356622291725,
-      "rating2": 1618.0739697310125,
-      "rating_ev": 12.1806299994671
+      "rating1": 1353.4510810104364,
+      "rating2": 1671.5305962275277,
+      "rating_ev": 14.845834381701707
     },
     {
       "date": "2000-10-18",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup",
+      "tournament": "Asian Cup",
       "team1": "Lebanon",
       "team2": "Thailand",
       "score1": 1,
       "score2": 1,
-      "rating1": 1338.79420495478,
-      "rating2": 1401.6915938520735,
-      "rating_ev": -2.141457274392451
+      "rating1": 1354.911474287532,
+      "rating2": 1471.0800793648455,
+      "rating_ev": 1.4603932770955907
     },
     {
       "date": "2001-01-31",
@@ -1149,9 +1869,9 @@
       "team2": "Iraq",
       "score1": 0,
       "score2": 0,
-      "rating1": 1343.1623300693393,
-      "rating2": 1576.7648301772413,
-      "rating_ev": 4.368125114559234
+      "rating1": 1360.2862059375248,
+      "rating2": 1626.3747144068918,
+      "rating_ev": 5.374731649992782
     },
     {
       "date": "2001-03-07",
@@ -1161,9 +1881,9 @@
       "team2": "Syria",
       "score1": 2,
       "score2": 2,
-      "rating1": 1343.6318777845256,
-      "rating2": 1453.0145695546873,
-      "rating_ev": 0.4695477151863088
+      "rating1": 1361.4528858180124,
+      "rating2": 1492.9055805100663,
+      "rating_ev": 1.1666798804876635
     },
     {
       "date": "2001-04-04",
@@ -1173,9 +1893,9 @@
       "team2": "Bahrain",
       "score1": 1,
       "score2": 1,
-      "rating1": 1340.531385389021,
-      "rating2": 1337.3572014911585,
-      "rating_ev": -3.100492395504716
+      "rating1": 1358.8760733904521,
+      "rating2": 1372.190031655189,
+      "rating_ev": -2.5768124275602986
     },
     {
       "date": "2001-04-25",
@@ -1185,105 +1905,105 @@
       "team2": "Philippines",
       "score1": 3,
       "score2": 0,
-      "rating1": 1334.926297409398,
-      "rating2": 508.2260170157147,
-      "rating_ev": -5.605087979622795
+      "rating1": 1350.186650264635,
+      "rating2": 394.16435168545064,
+      "rating_ev": -8.68942312581703
     },
     {
       "date": "2001-05-13",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Pakistan",
       "score1": 6,
       "score2": 0,
-      "rating1": 1360.2955080259057,
-      "rating2": 517.1225398537262,
-      "rating_ev": 25.369210616507644
+      "rating1": 1372.0588453909654,
+      "rating2": 462.2552546357709,
+      "rating_ev": 21.872195126330325
     },
     {
       "date": "2001-05-15",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Sri Lanka",
       "score1": 4,
       "score2": 0,
-      "rating1": 1367.7252732968273,
-      "rating2": 642.4725773258028,
-      "rating_ev": 7.429765270921507
+      "rating1": 1377.803071239386,
+      "rating2": 622.2136005618765,
+      "rating_ev": 5.744225848420683
     },
     {
       "date": "2001-05-17",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Thailand",
       "score1": 1,
       "score2": 2,
-      "rating1": 1348.3626609984715,
-      "rating2": 1390.9710061687501,
-      "rating_ev": -19.36261229835577
+      "rating1": 1359.058774102871,
+      "rating2": 1410.782909680144,
+      "rating_ev": -18.744297136515115
     },
     {
       "date": "2001-05-26",
       "country": "Thailand",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Pakistan",
-      "team2": "Lebanon",
-      "score1": 1,
-      "score2": 8,
-      "rating1": 491.6322792608956,
-      "rating2": 1387.5914609405088,
-      "rating_ev": 39.22879994203737
+      "tournament": "World Cup qualifier",
+      "team1": "Lebanon",
+      "team2": "Pakistan",
+      "score1": 8,
+      "score2": 1,
+      "rating1": 1395.4598988278428,
+      "rating2": 445.0360108103766,
+      "rating_ev": 36.40112472497185
     },
     {
       "date": "2001-05-28",
       "country": "Thailand",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Sri Lanka",
-      "team2": "Lebanon",
-      "score1": 0,
-      "score2": 5,
-      "rating1": 619.7814191007443,
-      "rating2": 1410.4374604188515,
-      "rating_ev": 22.845999478342833
+      "tournament": "World Cup qualifier",
+      "team1": "Lebanon",
+      "team2": "Sri Lanka",
+      "score1": 5,
+      "score2": 0,
+      "rating1": 1416.9309070576307,
+      "rating2": 601.1029170449219,
+      "rating_ev": 21.471008229787913
     },
     {
       "date": "2001-05-30",
       "country": "Thailand",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Thailand",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 2,
-      "rating1": 1399.1258726179497,
-      "rating2": 1415.7182787135416,
-      "rating_ev": 5.280818294690107
+      "rating1": 1413.4925522367682,
+      "rating2": 1422.7118520213405,
+      "rating_ev": 5.780944963709771
     },
     {
       "date": "2002-09-01",
       "country": "Syria",
-      "tournament": "WAFF Championship",
-      "team1": "Lebanon",
-      "team2": "Jordan",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1402.6873819551156,
-      "rating2": 1444.1965377371776,
-      "rating_ev": -13.030896758426024
+      "tournament": "West Asian Championship",
+      "team1": "Jordan",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1451.6188138595878,
+      "rating2": 1409.7081851255325,
+      "rating_ev": -13.00366689580801
     },
     {
       "date": "2002-09-03",
       "country": "Syria",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Iran",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1729.9968634105392,
-      "rating2": 1393.8577003400792,
-      "rating_ev": -8.829681615036407
+      "rating1": 1739.2032450754746,
+      "rating2": 1401.012248999184,
+      "rating_ev": -8.695936126348442
     },
     {
       "date": "2002-12-13",
@@ -1293,9 +2013,9 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1555.2528156946926,
-      "rating2": 1401.7162111393986,
-      "rating_ev": 7.858510799319447
+      "rating1": 1608.5597702859181,
+      "rating2": 1410.2726925793274,
+      "rating_ev": 9.260443580143374
     },
     {
       "date": "2002-12-19",
@@ -1305,9 +2025,9 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1566.129985652003,
-      "rating2": 1397.290423645724,
-      "rating_ev": -4.425787493674534
+      "rating1": 1614.5483409855708,
+      "rating2": 1408.3485696972673,
+      "rating_ev": -1.9241228820601464
     },
     {
       "date": "2002-12-21",
@@ -1317,9 +2037,9 @@
       "team2": "Lebanon",
       "score1": 4,
       "score2": 1,
-      "rating1": 1486.6367987337132,
-      "rating2": 1359.59047302994,
-      "rating_ev": -37.69995061578402
+      "rating1": 1495.701326134345,
+      "rating2": 1370.5220984036291,
+      "rating_ev": -37.82647129363818
     },
     {
       "date": "2002-12-24",
@@ -1329,21 +2049,21 @@
       "team2": "Yemen",
       "score1": 4,
       "score2": 2,
-      "rating1": 1372.4497297381838,
-      "rating2": 1097.6227617286847,
-      "rating_ev": 12.85925670824372
+      "rating1": 1382.3864860120973,
+      "rating2": 1092.507124379187,
+      "rating_ev": 11.864387608468178
     },
     {
       "date": "2002-12-26",
       "country": "Kuwait",
       "tournament": "Arab Cup",
-      "team1": "Lebanon",
-      "team2": "Bahrain",
+      "team1": "Bahrain",
+      "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1377.784172423518,
-      "rating2": 1456.509093999942,
-      "rating_ev": 5.334442685334125
+      "rating1": 1470.0195761974473,
+      "rating2": 1387.947246212061,
+      "rating_ev": 5.5607601999636245
     },
     {
       "date": "2003-08-22",
@@ -1353,21 +2073,21 @@
       "team2": "Syria",
       "score1": 1,
       "score2": 0,
-      "rating1": 1384.1136086583863,
-      "rating2": 1444.2681485270489,
-      "rating_ev": 6.3294362348683535
+      "rating1": 1394.313761793508,
+      "rating2": 1455.6380575922497,
+      "rating_ev": 6.3665155814471746
     },
     {
       "date": "2003-09-04",
       "country": "North Korea",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "North Korea",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1422.8127058612233,
-      "rating2": 1407.4093735005042,
-      "rating_ev": 23.295764842117933
+      "rating1": 1409.2088739156131,
+      "rating2": 1416.0988184741423,
+      "rating_ev": 21.78505668063417
     },
     {
       "date": "2003-09-19",
@@ -1377,69 +2097,69 @@
       "team2": "Lebanon",
       "score1": 4,
       "score2": 3,
-      "rating1": 1466.3484499706758,
-      "rating2": 1404.9388993892123,
-      "rating_ev": -2.470474111291878
+      "rating1": 1481.9635459822125,
+      "rating2": 1413.8412665326232,
+      "rating_ev": -2.2575519415190684
     },
     {
       "date": "2003-10-17",
       "country": "Jordan",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Jordan",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1531.843953525708,
-      "rating2": 1404.1450529413191,
-      "rating_ev": -0.7938464478932019
+      "rating1": 1544.456018131961,
+      "rating2": 1413.28165288888,
+      "rating_ev": -0.5596136437432051
     },
     {
       "date": "2003-11-03",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "North Korea",
       "score1": 1,
       "score2": 1,
-      "rating1": 1398.6577466349213,
-      "rating2": 1412.205995528494,
-      "rating_ev": -5.487306306397841
+      "rating1": 1406.629745939253,
+      "rating2": 1403.0083969174825,
+      "rating_ev": -6.651906949626891
     },
     {
       "date": "2003-11-12",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Jordan",
       "score1": 0,
       "score2": 2,
-      "rating1": 1373.3229535614082,
-      "rating2": 1557.178746599221,
-      "rating_ev": -25.334793073513083
+      "rating1": 1381.5703434349527,
+      "rating2": 1569.5154206362613,
+      "rating_ev": -25.05940250430035
     },
     {
       "date": "2003-11-19",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Iran",
       "score1": 0,
       "score2": 3,
-      "rating1": 1348.7932277826171,
-      "rating2": 1770.2747819083172,
-      "rating_ev": -24.52972577879109
+      "rating1": 1357.1257890309985,
+      "rating2": 1779.932797733274,
+      "rating_ev": -24.44455440395427
     },
     {
       "date": "2003-11-28",
       "country": "Iran",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Iran",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1753.9162567845683,
-      "rating2": 1365.151752906366,
-      "rating_ev": 16.358525123748905
+      "rating1": 1763.4997929972096,
+      "rating2": 1373.5587937670628,
+      "rating_ev": 16.433004736064277
     },
     {
       "date": "2003-12-16",
@@ -1449,9 +2169,9 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1533.9417227610838,
-      "rating2": 1356.0917072627424,
-      "rating_ev": -9.060045643623653
+      "rating1": 1548.925270288806,
+      "rating2": 1364.6992872810981,
+      "rating_ev": -8.85950648596463
     },
     {
       "date": "2003-12-18",
@@ -1461,9 +2181,9 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1528.6496577191042,
-      "rating2": 1361.383772304722,
-      "rating_ev": 5.29206504197964
+      "rating1": 1543.4449351599944,
+      "rating2": 1370.1796224099096,
+      "rating_ev": 5.480335128811475
     },
     {
       "date": "2004-02-08",
@@ -1473,21 +2193,21 @@
       "team2": "Bahrain",
       "score1": 2,
       "score2": 1,
-      "rating1": 1373.0742715038689,
-      "rating2": 1603.8534602830127,
-      "rating_ev": 11.69049919914687
+      "rating1": 1381.8253489140236,
+      "rating2": 1611.1613201184114,
+      "rating_ev": 11.645726504114009
     },
     {
       "date": "2004-02-18",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "South Korea",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1801.2449459952738,
-      "rating2": 1376.3108210011071,
-      "rating_ev": 3.2365494972382294
+      "rating1": 1803.7211619274608,
+      "rating2": 1384.688987694737,
+      "rating_ev": 2.8636387807134724
     },
     {
       "date": "2004-03-23",
@@ -1497,21 +2217,21 @@
       "team2": "Syria",
       "score1": 0,
       "score2": 1,
-      "rating1": 1369.0908759310273,
-      "rating2": 1469.9064344830583,
-      "rating_ev": -7.2199450700798025
+      "rating1": 1377.4575055679,
+      "rating2": 1477.9088279445534,
+      "rating_ev": -7.231482126837136
     },
     {
       "date": "2004-03-31",
       "country": "Vietnam",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Vietnam",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 2,
-      "rating1": 1173.557826360071,
-      "rating2": 1392.094771891787,
-      "rating_ev": 23.00389596075979
+      "rating1": 1156.665134233142,
+      "rating2": 1398.8771371801902,
+      "rating_ev": 21.41963161229023
     },
     {
       "date": "2004-05-26",
@@ -1521,57 +2241,57 @@
       "team2": "Bahrain",
       "score1": 2,
       "score2": 2,
-      "rating1": 1394.4604171672522,
-      "rating2": 1563.9946914373654,
-      "rating_ev": 2.3656452754651127
+      "rating1": 1401.1731509583087,
+      "rating2": 1568.4908334316954,
+      "rating_ev": 2.2960137781185495
     },
     {
       "date": "2004-06-09",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Maldives",
       "score1": 3,
       "score2": 0,
-      "rating1": 1398.416745177672,
-      "rating2": 850.9526057499298,
-      "rating_ev": 3.9563280104198384
+      "rating1": 1401.8379637427734,
+      "rating2": 799.4056123368941,
+      "rating_ev": 0.6648127844646297
     },
     {
       "date": "2004-06-17",
       "country": "Iran",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Iran",
       "team2": "Lebanon",
       "score1": 4,
       "score2": 0,
-      "rating1": 1782.6548408719732,
-      "rating2": 1371.922498066559,
-      "rating_ev": -26.494247111113054
+      "rating1": 1773.2520340403757,
+      "rating2": 1374.5649074172943,
+      "rating_ev": -27.273056325479047
     },
     {
       "date": "2004-06-19",
       "country": "Iran",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Syria",
       "team2": "Lebanon",
       "score1": 3,
       "score2": 1,
-      "rating1": 1499.1405759414754,
-      "rating2": 1350.6071982406363,
-      "rating_ev": -21.315299825922693
+      "rating1": 1517.0462871597874,
+      "rating2": 1354.2145416318149,
+      "rating_ev": -20.350365785479426
     },
     {
       "date": "2004-07-03",
-      "country": "China PR",
+      "country": "China",
       "tournament": "Friendly",
-      "team1": "China PR",
+      "team1": "China",
       "team2": "Lebanon",
       "score1": 6,
       "score2": 0,
-      "rating1": 1633.0292498364781,
-      "rating2": 1323.3992728532833,
-      "rating_ev": -27.207925387353043
+      "rating1": 1651.4554743126916,
+      "rating2": 1327.4517353244303,
+      "rating_ev": -26.762806307384608
     },
     {
       "date": "2004-08-31",
@@ -1581,21 +2301,21 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 2,
-      "rating1": 1638.7454362988535,
-      "rating2": 1335.8908235040458,
-      "rating_ev": 12.49155065076252
+      "rating1": 1637.369392867859,
+      "rating2": 1339.782317395907,
+      "rating_ev": 12.330582071476783
     },
     {
       "date": "2004-09-08",
       "country": "Maldives",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Maldives",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 5,
-      "rating1": 857.0759294849167,
-      "rating2": 1355.5382473401344,
-      "rating_ev": 19.64742383608848
+      "rating1": 810.3652674187152,
+      "rating2": 1356.4790518899274,
+      "rating_ev": 16.696734494020234
     },
     {
       "date": "2004-10-03",
@@ -1605,9 +2325,9 @@
       "team2": "Kuwait",
       "score1": 1,
       "score2": 3,
-      "rating1": 1342.6754322521717,
-      "rating2": 1495.005422765239,
-      "rating_ev": -12.862815087962645
+      "rating1": 1343.7634307857604,
+      "rating2": 1500.7562767039674,
+      "rating_ev": -12.715621104166985
     },
     {
       "date": "2004-10-06",
@@ -1617,33 +2337,33 @@
       "team2": "Kuwait",
       "score1": 1,
       "score2": 1,
-      "rating1": 1344.3920042889815,
-      "rating2": 1493.2888507284292,
-      "rating_ev": 1.7165720368097936
+      "rating1": 1345.6181091871415,
+      "rating2": 1498.9015983025863,
+      "rating_ev": 1.8546784013810793
     },
     {
       "date": "2004-10-13",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "South Korea",
       "score1": 1,
       "score2": 1,
-      "rating1": 1362.9186499797036,
-      "rating2": 1738.4023035432433,
-      "rating_ev": 18.526645690722034
+      "rating1": 1364.023939670648,
+      "rating2": 1737.60565461003,
+      "rating_ev": 18.405830483506406
     },
     {
       "date": "2004-11-17",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Vietnam",
       "score1": 0,
       "score2": 0,
-      "rating1": 1345.6556729197068,
-      "rating2": 1184.7455289290979,
-      "rating_ev": -17.26297705999673
+      "rating1": 1346.6405867077215,
+      "rating2": 1183.928774695292,
+      "rating_ev": -17.383352962926438
     },
     {
       "date": "2004-12-01",
@@ -1653,9 +2373,9 @@
       "team2": "Lebanon",
       "score1": 4,
       "score2": 1,
-      "rating1": 1529.96804535917,
-      "rating2": 1333.1992399543606,
-      "rating_ev": -12.456432965346266
+      "rating1": 1525.8671168914434,
+      "rating2": 1334.029181751645,
+      "rating_ev": -12.611404956076512
     },
     {
       "date": "2005-02-02",
@@ -1665,9 +2385,9 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1607.063523726442,
-      "rating2": 1334.365134151646,
-      "rating_ev": 1.1658941972855246
+      "rating1": 1608.225391603079,
+      "rating2": 1335.2050227753746,
+      "rating_ev": 1.1758410237296175
     },
     {
       "date": "2006-01-27",
@@ -1677,81 +2397,81 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 2,
-      "rating1": 1593.3233807762465,
-      "rating2": 1352.3610299793395,
-      "rating_ev": 17.995895827693403
+      "rating1": 1640.2602276834925,
+      "rating2": 1354.575083348319,
+      "rating_ev": 19.37006057294434
     },
     {
       "date": "2006-02-22",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Kuwait",
       "score1": 1,
       "score2": 1,
-      "rating1": 1353.0288575595062,
-      "rating2": 1457.454936413834,
-      "rating_ev": 0.6678275801666587
+      "rating1": 1354.502397321802,
+      "rating2": 1447.9688997943424,
+      "rating_ev": -0.0726860265169762
     },
     {
       "date": "2006-12-21",
       "country": "Lebanon",
-      "tournament": "Arab Cup qualification",
+      "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
       "team2": "Mauritania",
       "score1": 0,
       "score2": 0,
-      "rating1": 1331.4385946861805,
-      "rating2": 1105.36101146778,
-      "rating_ev": -21.590262873325628
+      "rating1": 1336.325510831323,
+      "rating2": 1161.7223770354165,
+      "rating_ev": -18.176886490478864
     },
     {
       "date": "2006-12-24",
       "country": "Lebanon",
-      "tournament": "Arab Cup qualification",
+      "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
       "team2": "Somalia",
       "score1": 4,
       "score2": 0,
-      "rating1": 1345.0205003290089,
-      "rating2": 726.3492897274289,
-      "rating_ev": 13.58190564282836
+      "rating1": 1350.1052250193532,
+      "rating2": 734.7648528906648,
+      "rating_ev": 13.779714188030084
     },
     {
       "date": "2006-12-27",
       "country": "Lebanon",
-      "tournament": "Arab Cup qualification",
+      "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
       "team2": "Sudan",
       "score1": 0,
       "score2": 0,
-      "rating1": 1340.7654538663326,
-      "rating2": 1372.4816394874879,
-      "rating_ev": -4.255046462676319
+      "rating1": 1346.3351341767693,
+      "rating2": 1385.2028456741584,
+      "rating_ev": -3.7700908425838406
     },
     {
       "date": "2007-06-16",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
-      "team1": "Lebanon",
-      "team2": "Syria",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1333.499833347309,
-      "rating2": 1460.1650566533428,
-      "rating_ev": -7.265620519023514
+      "tournament": "West Asian Championship",
+      "team1": "Syria",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1498.0213871602841,
+      "rating2": 1341.1078094476793,
+      "rating_ev": -5.227324729090014
     },
     {
       "date": "2007-06-20",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Jordan",
       "team2": "Lebanon",
       "score1": 3,
       "score2": 0,
-      "rating1": 1542.6184260609282,
-      "rating2": 1309.3623376531527,
-      "rating_ev": -24.137495694156314
+      "rating1": 1562.6345124621275,
+      "rating2": 1317.7479580812178,
+      "rating_ev": -23.3598513664615
     },
     {
       "date": "2007-09-23",
@@ -1761,33 +2481,33 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1458.4475317042284,
-      "rating2": 1316.8454709869682,
-      "rating_ev": 7.483133333815431
+      "rating1": 1461.4569208783794,
+      "rating2": 1325.0669802421967,
+      "rating_ev": 7.319022160978875
     },
     {
       "date": "2007-10-08",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "India",
       "score1": 4,
       "score2": 1,
-      "rating1": 1336.924479510297,
-      "rating2": 1042.6879894752506,
-      "rating_ev": 20.079008523328866
+      "rating1": 1339.3958102839733,
+      "rating2": 957.2550991762232,
+      "rating_ev": 14.328830041776655
     },
     {
       "date": "2007-10-30",
       "country": "India",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "India",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 2,
-      "rating1": 1054.4478577689329,
-      "rating2": 1325.1646112166147,
-      "rating_ev": -11.759868293682302
+      "rating1": 974.0619387545081,
+      "rating2": 1322.5889707056886,
+      "rating_ev": -16.806839578284894
     },
     {
       "date": "2008-01-02",
@@ -1797,21 +2517,21 @@
       "team2": "Lebanon",
       "score1": 3,
       "score2": 2,
-      "rating1": 1506.919299395277,
-      "rating2": 1326.453805742844,
-      "rating_ev": 1.2891945262292666
+      "rating1": 1505.1605269621618,
+      "rating2": 1323.903011904056,
+      "rating_ev": 1.3140411983674767
     },
     {
       "date": "2008-01-20",
-      "country": "China PR",
+      "country": "China",
       "tournament": "Friendly",
-      "team1": "China PR",
+      "team1": "China",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1653.0967000126147,
-      "rating2": 1339.279663546966,
-      "rating_ev": 12.825857804122052
+      "rating1": 1636.8863761678626,
+      "rating2": 1336.3245250483749,
+      "rating_ev": 12.421513144318851
     },
     {
       "date": "2008-01-28",
@@ -1821,57 +2541,57 @@
       "team2": "Lebanon",
       "score1": 4,
       "score2": 1,
-      "rating1": 1533.6574308630031,
-      "rating2": 1327.129640626797,
-      "rating_ev": -12.150022920169022
+      "rating1": 1545.8709781704429,
+      "rating2": 1324.6354823861034,
+      "rating_ev": -11.689042662271504
     },
     {
       "date": "2008-02-06",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Uzbekistan",
       "score1": 0,
       "score2": 1,
-      "rating1": 1325.047900377378,
-      "rating2": 1625.3785953863778,
-      "rating_ev": -2.081740249418999
+      "rating1": 1323.1290721787725,
+      "rating2": 1632.2469749561817,
+      "rating_ev": -1.5064102073308732
     },
     {
       "date": "2008-03-26",
       "country": "Singapore",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Singapore",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1417.381669083586,
-      "rating2": 1307.5216401795908,
-      "rating_ev": -17.526260197787224
+      "rating1": 1393.4204175454163,
+      "rating2": 1304.204691726858,
+      "rating_ev": -18.92438045191443
     },
     {
       "date": "2008-04-09",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Maldives",
       "score1": 4,
       "score2": 0,
-      "rating1": 1337.9807058699064,
-      "rating2": 988.1382000105905,
-      "rating_ev": 30.459065690315583
+      "rating1": 1332.7780846917296,
+      "rating2": 954.1065903726959,
+      "rating_ev": 28.573392964871573
     },
     {
       "date": "2008-04-23",
       "country": "Maldives",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Maldives",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 2,
-      "rating1": 989.1491664956811,
-      "rating2": 1336.9697393848157,
-      "rating_ev": -1.0109664850906483
+      "rating1": 956.7627383780149,
+      "rating2": 1330.1219366864107,
+      "rating_ev": -2.6561480053189825
     },
     {
       "date": "2008-05-27",
@@ -1881,69 +2601,69 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1488.055625430057,
-      "rating2": 1337.3242204530152,
-      "rating_ev": 0.3544810681994477
+      "rating1": 1480.0089457664417,
+      "rating2": 1330.439809823484,
+      "rating_ev": 0.3178731370733203
     },
     {
       "date": "2008-06-02",
       "country": "Saudi Arabia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Saudi Arabia",
       "team2": "Lebanon",
       "score1": 4,
       "score2": 1,
-      "rating1": 1687.465698280979,
-      "rating2": 1321.9204167586352,
-      "rating_ev": -15.40380369438003
+      "rating1": 1656.059950579898,
+      "rating2": 1313.5361905203329,
+      "rating_ev": -16.903619303151117
     },
     {
       "date": "2008-06-07",
       "country": "Saudi Arabia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Saudi Arabia",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1674.2751097501862,
-      "rating2": 1335.111005289428,
-      "rating_ev": 13.190588530792866
+      "rating1": 1644.1864323449665,
+      "rating2": 1325.4097087552643,
+      "rating_ev": 11.873518234931453
     },
     {
       "date": "2008-06-14",
       "country": "Uzbekistan",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Uzbekistan",
       "team2": "Lebanon",
       "score1": 3,
       "score2": 0,
-      "rating1": 1747.9025133185844,
-      "rating2": 1323.4947538222893,
-      "rating_ev": -11.616251467138682
+      "rating1": 1723.2744064024384,
+      "rating2": 1312.8971991241156,
+      "rating_ev": -12.51250963114876
     },
     {
       "date": "2008-06-22",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Singapore",
       "score1": 1,
       "score2": 2,
-      "rating1": 1304.0638965160254,
-      "rating2": 1345.6661404479069,
-      "rating_ev": -19.430857306263988
+      "rating1": 1295.1594762066447,
+      "rating2": 1361.7260892660106,
+      "rating_ev": -17.73772291747082
     },
     {
       "date": "2009-01-14",
       "country": "Vietnam",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Vietnam",
       "team2": "Lebanon",
       "score1": 3,
       "score2": 1,
-      "rating1": 1314.5822838505046,
-      "rating2": 1281.3435872647544,
-      "rating_ev": -22.72030925127092
+      "rating1": 1312.4410561932452,
+      "rating2": 1272.8687702686561,
+      "rating_ev": -22.290705937988605
     },
     {
       "date": "2009-01-21",
@@ -1953,33 +2673,33 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1450.4151246837546,
-      "rating2": 1283.2064833596062,
-      "rating_ev": 1.8628960948517488
+      "rating1": 1435.1309480244715,
+      "rating2": 1274.3035434743958,
+      "rating_ev": 1.4347732057397025
     },
     {
       "date": "2009-01-23",
       "country": "Thailand",
       "tournament": "King's Cup",
-      "team1": "North Korea",
-      "team2": "Lebanon",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1486.7968515584103,
-      "rating2": 1310.8889934302251,
-      "rating_ev": 27.682510070618946
+      "team1": "Lebanon",
+      "team2": "North Korea",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1301.472078871205,
+      "rating2": 1469.6484866845626,
+      "rating_ev": 27.168535396809148
     },
     {
       "date": "2009-01-28",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Syria",
       "score1": 0,
       "score2": 2,
-      "rating1": 1291.9283100411706,
-      "rating2": 1571.0884479395907,
-      "rating_ev": -18.960683389054566
+      "rating1": 1282.888079707946,
+      "rating2": 1567.7327732158649,
+      "rating_ev": -18.583999163259023
     },
     {
       "date": "2009-04-01",
@@ -1989,105 +2709,105 @@
       "team2": "Namibia",
       "score1": 1,
       "score2": 1,
-      "rating1": 1288.3254025659523,
-      "rating2": 1269.3307767775277,
-      "rating_ev": -3.602907475218217
+      "rating1": 1279.6202456924304,
+      "rating2": 1271.177043666164,
+      "rating_ev": -3.2678340155155183
     },
     {
       "date": "2009-08-19",
       "country": "India",
-      "tournament": "Nehru Cup",
+      "tournament": "Nehru Gold Cup",
       "team1": "India",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1102.9597239899706,
-      "rating2": 1297.4296811391205,
-      "rating_ev": 9.10427857316813
+      "rating1": 1048.285145812177,
+      "rating2": 1285.84747012787,
+      "rating_ev": 6.227224435439666
     },
     {
       "date": "2009-08-22",
       "country": "India",
-      "tournament": "Nehru Cup",
+      "tournament": "Nehru Gold Cup",
       "team1": "Sri Lanka",
       "team2": "Lebanon",
       "score1": 4,
       "score2": 3,
-      "rating1": 794.8808740958539,
-      "rating2": 1251.8251674707567,
-      "rating_ev": -45.60451366836378
+      "rating1": 791.0605266946774,
+      "rating2": 1240.6860726972566,
+      "rating_ev": -45.16139743061342
     },
     {
       "date": "2009-08-25",
       "country": "India",
-      "tournament": "Nehru Cup",
+      "tournament": "Nehru Gold Cup",
       "team1": "Kyrgyzstan",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1038.936284947538,
-      "rating2": 1238.3862524901344,
-      "rating_ev": -13.438914980622258
+      "rating1": 1001.2096401940078,
+      "rating2": 1225.5937001197337,
+      "rating_ev": -15.092372577522838
     },
     {
       "date": "2009-08-27",
       "country": "India",
-      "tournament": "Nehru Cup",
+      "tournament": "Nehru Gold Cup",
       "team1": "Syria",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1565.1442181192924,
-      "rating2": 1244.0378335521964,
-      "rating_ev": 5.65158106206195
+      "rating1": 1580.0672822796237,
+      "rating2": 1232.9300639256833,
+      "rating_ev": 7.3363638059495315
     },
     {
       "date": "2009-11-14",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
-      "team2": "China PR",
+      "team2": "China",
       "score1": 0,
       "score2": 2,
-      "rating1": 1232.4250208537826,
-      "rating2": 1623.9607056722564,
-      "rating_ev": -11.61281269841379
+      "rating1": 1220.4487955052402,
+      "rating2": 1598.5167621089774,
+      "rating_ev": -12.48126842044303
     },
     {
       "date": "2009-11-22",
-      "country": "China PR",
-      "tournament": "AFC Asian Cup qualification",
-      "team1": "China PR",
+      "country": "China",
+      "tournament": "Asian Cup qualifier",
+      "team1": "China",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1609.2922692533261,
-      "rating2": 1247.0934572727128,
-      "rating_ev": 14.668436418930241
+      "rating1": 1584.612882268536,
+      "rating2": 1234.3526753456817,
+      "rating_ev": 13.903879840441505
     },
     {
       "date": "2010-01-06",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Vietnam",
       "score1": 1,
       "score2": 1,
-      "rating1": 1245.1055218469983,
-      "rating2": 1310.2693880389738,
-      "rating_ev": -1.9879354257145678
+      "rating1": 1233.1908104692275,
+      "rating2": 1310.5552504858567,
+      "rating_ev": -1.161864876454274
     },
     {
       "date": "2010-03-03",
       "country": "Syria",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Syria",
       "team2": "Lebanon",
       "score1": 4,
       "score2": 0,
-      "rating1": 1568.23708006688,
-      "rating2": 1214.877286827838,
-      "rating_ev": -30.228235019160365
+      "rating1": 1569.3491266540946,
+      "rating2": 1203.7633012814156,
+      "rating_ev": -29.427509187811893
     },
     {
       "date": "2011-07-02",
@@ -2097,9 +2817,9 @@
       "team2": "Kuwait",
       "score1": 0,
       "score2": 6,
-      "rating1": 1185.4748280135561,
-      "rating2": 1618.9497059572425,
-      "rating_ev": -29.402458814281772
+      "rating1": 1174.6762736149885,
+      "rating2": 1618.6197091664073,
+      "rating_ev": -29.087027666427048
     },
     {
       "date": "2011-07-09",
@@ -2109,9 +2829,9 @@
       "team2": "Oman",
       "score1": 0,
       "score2": 1,
-      "rating1": 1186.081703801829,
-      "rating2": 1538.2528968279746,
-      "rating_ev": 0.6068757882728733
+      "rating1": 1176.039963712795,
+      "rating2": 1553.237037882477,
+      "rating_ev": 1.3636900978065114
     },
     {
       "date": "2011-07-17",
@@ -2121,33 +2841,33 @@
       "team2": "Lebanon",
       "score1": 6,
       "score2": 2,
-      "rating1": 1509.932937252097,
-      "rating2": 1171.4395851917411,
-      "rating_ev": -14.642118610087891
+      "rating1": 1503.8391717850643,
+      "rating2": 1161.5152749485394,
+      "rating_ev": -14.524688764255643
     },
     {
       "date": "2011-07-23",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Bangladesh",
       "score1": 4,
       "score2": 0,
-      "rating1": 1196.9420880210969,
-      "rating2": 770.8054038690858,
-      "rating_ev": 25.502502829355763
+      "rating1": 1185.5866915813453,
+      "rating2": 737.0837019508479,
+      "rating_ev": 24.07141663280595
     },
     {
       "date": "2011-07-28",
       "country": "Bangladesh",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Bangladesh",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 817.7293966913987,
-      "rating2": 1150.0180951987838,
-      "rating_ev": -46.923992822312925
+      "rating1": 785.2589400820186,
+      "rating2": 1137.4114534501746,
+      "rating_ev": -48.17523813117077
     },
     {
       "date": "2011-08-17",
@@ -2157,45 +2877,45 @@
       "team2": "Syria",
       "score1": 2,
       "score2": 3,
-      "rating1": 1149.138169259672,
-      "rating2": 1452.6228090250156,
-      "rating_ev": -0.8799259391118994
+      "rating1": 1140.647790299328,
+      "rating2": 1580.5893275633991,
+      "rating_ev": 3.236336849153531
     },
     {
       "date": "2011-09-02",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "South Korea",
       "team2": "Lebanon",
       "score1": 6,
       "score2": 0,
-      "rating1": 1820.2995221751107,
-      "rating2": 1116.0069068903026,
-      "rating_ev": -33.131262369369324
+      "rating1": 1822.2585082404792,
+      "rating2": 1108.088828744303,
+      "rating_ev": -32.55896155502501
     },
     {
       "date": "2011-09-06",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "United Arab Emirates",
       "score1": 3,
       "score2": 1,
-      "rating1": 1160.5721751346111,
-      "rating2": 1455.7988931276711,
-      "rating_ev": 44.56526824430853
+      "rating1": 1152.5200735899155,
+      "rating2": 1445.6550188520334,
+      "rating_ev": 44.431244845612355
     },
     {
       "date": "2011-10-11",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Kuwait",
       "score1": 2,
       "score2": 2,
-      "rating1": 1181.4346096189108,
-      "rating2": 1593.9523187991626,
-      "rating_ev": 20.862434484299683
+      "rating1": 1174.5021117128244,
+      "rating2": 1604.9592364324592,
+      "rating_ev": 21.98203812290899
     },
     {
       "date": "2011-11-06",
@@ -2205,33 +2925,45 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1559.7563170229487,
-      "rating2": 1185.6942994128738,
-      "rating_ev": 4.259689793962934
+      "rating1": 1570.741313236745,
+      "rating2": 1179.2842463730174,
+      "rating_ev": 4.7821346601929235
+    },
+    {
+      "date": "2011-11-08",
+      "country": "Qatar",
+      "tournament": "Friendly",
+      "team1": "Lebanon",
+      "team2": "Thailand",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1199.178909722231,
+      "rating2": 1363.9045380745013,
+      "rating_ev": 19.894663349213715
     },
     {
       "date": "2011-11-11",
       "country": "Kuwait",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Kuwait",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1537.8289735127796,
-      "rating2": 1228.460383950617,
-      "rating_ev": 42.766084537743154
+      "rating1": 1548.4573818926267,
+      "rating2": 1241.7735027772856,
+      "rating_ev": 42.594593055054474
     },
     {
       "date": "2011-11-15",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "South Korea",
       "score1": 2,
       "score2": 1,
-      "rating1": 1270.181754745137,
-      "rating2": 1767.6911268146469,
-      "rating_ev": 41.72137079452
+      "rating1": 1282.8707490281122,
+      "rating2": 1769.93677679138,
+      "rating_ev": 41.09724625082663
     },
     {
       "date": "2012-01-22",
@@ -2241,21 +2973,21 @@
       "team2": "Iraq",
       "score1": 1,
       "score2": 0,
-      "rating1": 1284.4494120471347,
-      "rating2": 1599.079538872949,
-      "rating_ev": 14.267657301997815
+      "rating1": 1295.7072251588004,
+      "rating2": 1563.5733437155666,
+      "rating_ev": 12.836476130688197
     },
     {
       "date": "2012-02-29",
       "country": "United Arab Emirates",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "United Arab Emirates",
       "team2": "Lebanon",
       "score1": 4,
       "score2": 2,
-      "rating1": 1479.5013839252042,
-      "rating2": 1273.4057108257932,
-      "rating_ev": -11.043701221341507
+      "rating1": 1471.80482018057,
+      "rating2": 1283.472809785527,
+      "rating_ev": -12.23441537327335
     },
     {
       "date": "2012-05-11",
@@ -2265,9 +2997,9 @@
       "team2": "Egypt",
       "score1": 1,
       "score2": 4,
-      "rating1": 1263.4365952505962,
-      "rating2": 1737.313786843024,
-      "rating_ev": -9.969115575197065
+      "rating1": 1273.313447168631,
+      "rating2": 1740.7427492233262,
+      "rating_ev": -10.159362616896033
     },
     {
       "date": "2012-05-18",
@@ -2277,9 +3009,9 @@
       "team2": "Jordan",
       "score1": 1,
       "score2": 2,
-      "rating1": 1262.5995043956596,
-      "rating2": 1567.478686135486,
-      "rating_ev": -0.837090854936605
+      "rating1": 1272.3927208776904,
+      "rating2": 1574.5494824702807,
+      "rating_ev": -0.9207262909405927
     },
     {
       "date": "2012-05-27",
@@ -2289,45 +3021,45 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1521.6452104556397,
-      "rating2": 1273.4121174336742,
-      "rating_ev": 10.81261303801466
+      "rating1": 1526.822494994468,
+      "rating2": 1283.0668034480225,
+      "rating_ev": 10.674082570332075
     },
     {
       "date": "2012-06-03",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Qatar",
       "score1": 0,
       "score2": 1,
-      "rating1": 1269.53937981698,
-      "rating2": 1542.6403120887355,
-      "rating_ev": -3.8727376166941667
+      "rating1": 1277.8702433494866,
+      "rating2": 1530.9559353843986,
+      "rating_ev": -5.196560098535883
     },
     {
       "date": "2012-06-08",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Uzbekistan",
       "score1": 1,
       "score2": 1,
-      "rating1": 1284.2154505794344,
-      "rating2": 1599.6726617795812,
-      "rating_ev": 14.676070762454401
+      "rating1": 1290.786718584664,
+      "rating2": 1579.1816985166224,
+      "rating_ev": 12.916475235177359
     },
     {
       "date": "2012-06-12",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "South Korea",
       "team2": "Lebanon",
       "score1": 3,
       "score2": 0,
-      "rating1": 1808.8995747664362,
-      "rating2": 1279.1785859648382,
-      "rating_ev": -5.0368646145961975
+      "rating1": 1809.8707471532402,
+      "rating2": 1285.4268442186074,
+      "rating_ev": -5.3598743660566015
     },
     {
       "date": "2012-06-24",
@@ -2337,21 +3069,21 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1627.749235064716,
-      "rating2": 1286.1571717770817,
-      "rating_ev": 6.978585812243409
+      "rating1": 1602.8425721333467,
+      "rating2": 1290.5077804622915,
+      "rating_ev": 5.080936243684164
     },
     {
       "date": "2012-06-27",
       "country": "Saudi Arabia",
       "tournament": "Arab Cup",
-      "team1": "Lebanon",
-      "team2": "Sudan",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1261.2393335913976,
-      "rating2": 1356.5366143737185,
-      "rating_ev": -24.917838185684104
+      "team1": "Sudan",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1419.4038163339983,
+      "rating2": 1269.2986228350028,
+      "rating_ev": -21.209157627288732
     },
     {
       "date": "2012-09-06",
@@ -2361,21 +3093,21 @@
       "team2": "Australia",
       "score1": 0,
       "score2": 3,
-      "rating1": 1253.2108453384021,
-      "rating2": 1793.727321314411,
-      "rating_ev": -8.02848825299543
+      "rating1": 1261.060155849072,
+      "rating2": 1794.285214102291,
+      "rating_ev": -8.2384669859307
     },
     {
       "date": "2012-09-11",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Iran",
       "score1": 1,
       "score2": 0,
-      "rating1": 1289.6057551669371,
-      "rating2": 1699.5535968070405,
-      "rating_ev": 36.39490982853499
+      "rating1": 1296.5301812922587,
+      "rating2": 1691.605516021145,
+      "rating_ev": 35.470025443186614
     },
     {
       "date": "2012-10-16",
@@ -2385,57 +3117,57 @@
       "team2": "Yemen",
       "score1": 2,
       "score2": 1,
-      "rating1": 1293.6647502141795,
-      "rating2": 1282.2902958223492,
-      "rating_ev": 4.058995047242433
+      "rating1": 1299.728841696999,
+      "rating2": 1261.2630821932516,
+      "rating_ev": 3.1986604047403944
     },
     {
       "date": "2012-11-14",
       "country": "Qatar",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Qatar",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1496.0179202880831,
-      "rating2": 1297.6142735276399,
-      "rating_ev": 3.949523313460304
+      "rating1": 1486.6823237248293,
+      "rating2": 1302.71413539832,
+      "rating_ev": 2.9852937013208702
     },
     {
       "date": "2012-12-08",
       "country": "Kuwait",
-      "tournament": "WAFF Championship",
-      "team1": "Oman",
-      "team2": "Lebanon",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1482.150445824956,
-      "rating2": 1324.1079435318638,
-      "rating_ev": 26.493670004223986
+      "tournament": "West Asian Championship",
+      "team1": "Lebanon",
+      "team2": "Oman",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1329.0721165441937,
+      "rating2": 1485.0794342903414,
+      "rating_ev": 26.357981145873737
     },
     {
       "date": "2012-12-11",
       "country": "Kuwait",
-      "tournament": "WAFF Championship",
-      "team1": "Lebanon",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1303.4004969282373,
-      "rating2": 1231.5710638661394,
-      "rating_ev": -20.707446603626522
+      "tournament": "West Asian Championship",
+      "team1": "Palestine",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1223.218962402302,
+      "rating2": 1307.5232806833417,
+      "rating_ev": -21.548835860852023
     },
     {
       "date": "2012-12-14",
       "country": "Kuwait",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Kuwait",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1420.8262397891485,
-      "rating2": 1302.007737853299,
-      "rating_ev": -1.3927590749383398
+      "rating1": 1418.6375618551695,
+      "rating2": 1305.7314687873695,
+      "rating_ev": -1.7918118959721596
     },
     {
       "date": "2013-01-15",
@@ -2445,9 +3177,9 @@
       "team2": "Gabon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1304.946525349185,
-      "rating2": 1492.7519423391745,
-      "rating_ev": 2.9387874958861175
+      "rating1": 1309.052483575053,
+      "rating2": 1509.0706013617946,
+      "rating_ev": 3.3210147876834526
     },
     {
       "date": "2013-01-31",
@@ -2457,21 +3189,21 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1467.9881523220358,
-      "rating2": 1305.6658043120497,
-      "rating_ev": 0.7192789628645642
+      "rating1": 1460.7574842163172,
+      "rating2": 1309.4258675175897,
+      "rating_ev": 0.3733839425367478
     },
     {
       "date": "2013-02-06",
       "country": "Iran",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Iran",
       "team2": "Lebanon",
       "score1": 5,
       "score2": 0,
-      "rating1": 1709.1072156659188,
-      "rating2": 1268.1343116114363,
-      "rating_ev": -37.5314927006134
+      "rating1": 1699.1663196034638,
+      "rating2": 1271.0639530250737,
+      "rating_ev": -38.36191449251601
     },
     {
       "date": "2013-03-17",
@@ -2481,69 +3213,69 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1425.178604802601,
-      "rating2": 1275.8602121414212,
-      "rating_ev": 7.725900529984983
+      "rating1": 1429.8302318330354,
+      "rating2": 1278.8423470044968,
+      "rating_ev": 7.778393979423072
     },
     {
       "date": "2013-03-22",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Thailand",
       "score1": 5,
       "score2": 2,
-      "rating1": 1313.8622666993026,
-      "rating2": 1285.742673088145,
-      "rating_ev": 38.002054557881365
+      "rating1": 1315.5349461820663,
+      "rating2": 1268.100161438581,
+      "rating_ev": 36.69259917756949
     },
     {
       "date": "2013-03-26",
       "country": "Uzbekistan",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Uzbekistan",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1588.5737833310536,
-      "rating2": 1322.307624167241,
-      "rating_ev": 8.445357467938493
+      "rating1": 1576.4900667099541,
+      "rating2": 1323.130474120439,
+      "rating_ev": 7.5955279383726975
     },
     {
       "date": "2013-05-29",
       "country": "Qatar",
       "tournament": "Friendly",
-      "team1": "Oman",
-      "team2": "Lebanon",
+      "team1": "Lebanon",
+      "team2": "Oman",
       "score1": 1,
       "score2": 1,
-      "rating1": 1526.9887873452096,
-      "rating2": 1328.575317851429,
-      "rating_ev": 6.267693684187861
+      "rating1": 1329.5033601627765,
+      "rating2": 1531.2842448570234,
+      "rating_ev": 6.372886042337541
     },
     {
       "date": "2013-06-04",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "South Korea",
       "score1": 1,
       "score2": 1,
-      "rating1": 1347.250515758678,
-      "rating2": 1725.0745245585847,
-      "rating_ev": 18.675197907248958
+      "rating1": 1348.013251147604,
+      "rating2": 1723.233066319818,
+      "rating_ev": 18.509890984827507
     },
     {
       "date": "2013-06-11",
       "country": "Iran",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Iran",
       "team2": "Lebanon",
       "score1": 4,
       "score2": 0,
-      "rating1": 1723.1929966026464,
-      "rating2": 1320.2527788223117,
-      "rating_ev": -26.99773693636621
+      "rating1": 1714.7079581221637,
+      "rating2": 1320.4529148840243,
+      "rating_ev": -27.560336263579757
     },
     {
       "date": "2013-09-06",
@@ -2553,9 +3285,9 @@
       "team2": "Syria",
       "score1": 2,
       "score2": 0,
-      "rating1": 1334.7368032160118,
-      "rating2": 1422.7570987667189,
-      "rating_ev": 14.48402439370011
+      "rating1": 1336.5721223516161,
+      "rating2": 1476.4775565288123,
+      "rating_ev": 16.119207467591878
     },
     {
       "date": "2013-09-09",
@@ -2565,9 +3297,9 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1441.6237014454227,
-      "rating2": 1340.9293782532654,
-      "rating_ev": 6.192575037253619
+      "rating1": 1436.628128249263,
+      "rating2": 1342.5553160112372,
+      "rating_ev": 5.983193659621065
     },
     {
       "date": "2013-10-08",
@@ -2577,21 +3309,21 @@
       "team2": "Iraq",
       "score1": 1,
       "score2": 1,
-      "rating1": 1343.7846961258367,
-      "rating2": 1528.926180120781,
-      "rating_ev": 2.855317872571277
+      "rating1": 1345.2793059906035,
+      "rating2": 1526.2315870212465,
+      "rating_ev": 2.7239899793662516
     },
     {
       "date": "2013-10-15",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Kuwait",
       "score1": 1,
       "score2": 1,
-      "rating1": 1350.6559996295698,
-      "rating2": 1547.4702352035167,
-      "rating_ev": 6.871303503733088
+      "rating1": 1351.823454684982,
+      "rating2": 1543.7324005149985,
+      "rating_ev": 6.544148694378464
     },
     {
       "date": "2013-11-09",
@@ -2601,57 +3333,57 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1419.1533125459875,
-      "rating2": 1348.479366215943,
-      "rating_ev": -2.1766334136268597
+      "rating1": 1420.8126365514017,
+      "rating2": 1349.661938849118,
+      "rating_ev": -2.161515835863838
     },
     {
       "date": "2013-11-15",
       "country": "Kuwait",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Kuwait",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1535.3935510050815,
-      "rating2": 1366.2894992167373,
-      "rating_ev": 17.810133000794394
+      "rating1": 1531.5510105450523,
+      "rating2": 1367.1576105392187,
+      "rating_ev": 17.495671690100608
     },
     {
       "date": "2013-11-19",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Iran",
       "score1": 1,
       "score2": 4,
-      "rating1": 1342.4789148117475,
-      "rating2": 1775.1699876916962,
-      "rating_ev": -23.810584404989868
+      "rating1": 1342.7834312150883,
+      "rating2": 1766.6860614570378,
+      "rating_ev": -24.37417932413041
     },
     {
       "date": "2013-12-26",
       "country": "Qatar",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Jordan",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1534.444538345152,
-      "rating2": 1354.6111399274025,
-      "rating_ev": 12.132225115655046
+      "rating1": 1542.6295955097833,
+      "rating2": 1355.408342820714,
+      "rating_ev": 12.624911605625812
     },
     {
       "date": "2013-12-29",
       "country": "Qatar",
-      "tournament": "WAFF Championship",
-      "team1": "Lebanon",
-      "team2": "Kuwait",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1338.292517532664,
-      "rating2": 1561.142070433942,
-      "rating_ev": -16.31862239473844
+      "tournament": "West Asian Championship",
+      "team1": "Kuwait",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1556.909213948014,
+      "rating2": 1338.7742972635428,
+      "rating_ev": -16.634045557171248
     },
     {
       "date": "2014-02-19",
@@ -2661,21 +3393,21 @@
       "team2": "Pakistan",
       "score1": 3,
       "score2": 1,
-      "rating1": 1332.9953054108769,
-      "rating2": 778.0425354233568,
-      "rating_ev": -5.297212121787197
+      "rating1": 1333.0315501352143,
+      "rating2": 762.2853569125873,
+      "rating_ev": -5.742747128328574
     },
     {
       "date": "2014-03-05",
       "country": "Thailand",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Thailand",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 5,
-      "rating1": 1269.244506827208,
-      "rating2": 1378.3195492975724,
-      "rating_ev": 45.32424388669551
+      "rating1": 1255.0042329503347,
+      "rating2": 1377.4491444708376,
+      "rating_ev": 44.417594335623335
     },
     {
       "date": "2014-10-09",
@@ -2685,9 +3417,9 @@
       "team2": "Lebanon",
       "score1": 5,
       "score2": 0,
-      "rating1": 1586.9838963255236,
-      "rating2": 1354.2840881213622,
-      "rating_ev": -24.03546117621022
+      "rating1": 1584.9171499643396,
+      "rating2": 1353.3772967826392,
+      "rating_ev": -24.07184768819843
     },
     {
       "date": "2014-10-14",
@@ -2697,9 +3429,9 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1433.716308672579,
-      "rating2": 1359.6344730462815,
-      "rating_ev": 5.350384924919354
+      "rating1": 1427.238420156033,
+      "rating2": 1358.5565932945476,
+      "rating_ev": 5.179296511908433
     },
     {
       "date": "2014-11-06",
@@ -2709,9 +3441,9 @@
       "team2": "Lebanon",
       "score1": 3,
       "score2": 2,
-      "rating1": 1667.9922486881915,
-      "rating2": 1361.8303580125696,
-      "rating_ev": 2.1958849662880766
+      "rating1": 1653.4314665803868,
+      "rating2": 1360.3507765577617,
+      "rating_ev": 1.7941832632141086
     },
     {
       "date": "2015-05-24",
@@ -2721,9 +3453,9 @@
       "team2": "Syria",
       "score1": 2,
       "score2": 2,
-      "rating1": 1361.657970637825,
-      "rating2": 1450.7553720702028,
-      "rating_ev": -0.1723873747446305
+      "rating1": 1361.5048067105888,
+      "rating2": 1492.5566062736598,
+      "rating_ev": 1.1540301528270902
     },
     {
       "date": "2015-05-30",
@@ -2733,33 +3465,33 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1480.1936750412829,
-      "rating2": 1368.2073286432928,
-      "rating_ev": 6.549358005467866
+      "rating1": 1485.3773400022926,
+      "rating2": 1368.2174974709817,
+      "rating_ev": 6.7126907603928885
     },
     {
       "date": "2015-06-11",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Lebanon",
       "team2": "Kuwait",
       "score1": 0,
       "score2": 1,
-      "rating1": 1351.3334853000506,
-      "rating2": 1430.6432175017646,
-      "rating_ev": -16.873843343242243
+      "rating1": 1351.3761922801991,
+      "rating2": 1431.1660118352838,
+      "rating_ev": -16.841305190782577
     },
     {
       "date": "2015-06-16",
       "country": "Laos",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Laos",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 2,
-      "rating1": 615.8792368977316,
-      "rating2": 1342.8053366808906,
-      "rating_ev": -8.528148619159992
+      "rating1": 577.8442552566526,
+      "rating2": 1340.8810449873358,
+      "rating_ev": -10.49514729286318
     },
     {
       "date": "2015-08-26",
@@ -2769,9 +3501,9 @@
       "team2": "Iraq",
       "score1": 2,
       "score2": 3,
-      "rating1": 1337.6212643187005,
-      "rating2": 1502.888974268693,
-      "rating_ev": -5.184072362190136
+      "rating1": 1336.0945410102443,
+      "rating2": 1514.0003806749066,
+      "rating_ev": -4.78650397709157
     },
     {
       "date": "2015-08-31",
@@ -2781,69 +3513,69 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1333.4737210956494,
-      "rating2": 1297.3232717066417,
-      "rating_ev": -4.147543223051116
+      "rating1": 1330.9767036507856,
+      "rating2": 1264.2342455937624,
+      "rating_ev": -5.11783735945869
     },
     {
       "date": "2015-09-08",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Lebanon",
       "team2": "South Korea",
       "score1": 0,
       "score2": 3,
-      "rating1": 1311.2236223432574,
-      "rating2": 1768.385380020855,
-      "rating_ev": -22.250098752391978
+      "rating1": 1308.9534629904163,
+      "rating2": 1769.690170000188,
+      "rating_ev": -22.02324066036931
     },
     {
       "date": "2015-10-08",
       "country": "Thailand",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Myanmar",
-      "team2": "Lebanon",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 820.1858164142295,
-      "rating2": 1310.2637428682158,
-      "rating_ev": -0.9598794750415891
+      "tournament": "World Cup and Asian Cup qual",
+      "team1": "Lebanon",
+      "team2": "Myanmar",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1307.9392230066808,
+      "rating2": 816.981345904159,
+      "rating_ev": -1.0142399837354787
     },
     {
       "date": "2015-10-13",
       "country": "Kuwait",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Kuwait",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1463.7493615781686,
-      "rating2": 1325.9775595992328,
-      "rating_ev": 15.713816731017005
+      "rating1": 1462.5048708608529,
+      "rating2": 1323.7209235801752,
+      "rating_ev": 15.78170057349439
     },
     {
       "date": "2015-11-12",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Lebanon",
       "team2": "Laos",
       "score1": 7,
       "score2": 0,
-      "rating1": 1363.3442878432268,
-      "rating2": 548.6157603583308,
-      "rating_ev": 37.366728243993975
+      "rating1": 1359.6065414002271,
+      "rating2": 517.8212202626974,
+      "rating_ev": 35.88561782005195
     },
     {
       "date": "2015-11-17",
-      "country": "North Macedonia",
+      "country": "Macedonia",
       "tournament": "Friendly",
       "team1": "North Macedonia",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1468.852183641842,
-      "rating2": 1376.6851175163044,
-      "rating_ev": 13.340829673077678
+      "rating1": 1483.5474082268502,
+      "rating2": 1373.511477275036,
+      "rating_ev": 13.90493587480887
     },
     {
       "date": "2016-02-05",
@@ -2853,9 +3585,9 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1390.0951524487389,
-      "rating2": 1365.7636779093816,
-      "rating_ev": -10.921439606922831
+      "rating1": 1381.2129765705638,
+      "rating2": 1362.4143086864647,
+      "rating_ev": -11.097168588571321
     },
     {
       "date": "2016-02-14",
@@ -2865,33 +3597,33 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1653.478349467696,
-      "rating2": 1360.3000125213857,
-      "rating_ev": -5.4636653879958885
+      "rating1": 1650.3640343144166,
+      "rating2": 1356.9576772211283,
+      "rating_ev": -5.456631465336386
     },
     {
       "date": "2016-03-24",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "South Korea",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1769.1549014801212,
-      "rating2": 1376.8806335697175,
-      "rating_ev": 16.58062104833175
+      "rating1": 1769.175080162183,
+      "rating2": 1373.738183516973,
+      "rating_ev": 16.780506295844816
     },
     {
       "date": "2016-03-29",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Lebanon",
       "team2": "Myanmar",
       "score1": 1,
       "score2": 1,
-      "rating1": 1343.1889073693335,
-      "rating2": 928.409622134938,
-      "rating_ev": -33.69172620038398
+      "rating1": 1335.883258996528,
+      "rating2": 852.9809699567604,
+      "rating_ev": -37.85492452044514
     },
     {
       "date": "2016-08-31",
@@ -2901,9 +3633,9 @@
       "team2": "Jordan",
       "score1": 1,
       "score2": 1,
-      "rating1": 1346.0920063153678,
-      "rating2": 1532.7582932666073,
-      "rating_ev": 2.9030989460343335
+      "rating1": 1338.7687009468857,
+      "rating2": 1524.8714725100185,
+      "rating_ev": 2.8854419503577446
     },
     {
       "date": "2016-09-05",
@@ -2913,9 +3645,9 @@
       "team2": "Afghanistan",
       "score1": 2,
       "score2": 0,
-      "rating1": 1346.4308209692501,
-      "rating2": 983.5228087369736,
-      "rating_ev": 0.33881465388230936
+      "rating1": 1338.977396130233,
+      "rating2": 971.7691861707856,
+      "rating_ev": 0.20869518334734494
     },
     {
       "date": "2016-10-06",
@@ -2925,9 +3657,9 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1100.5013078497075,
-      "rating2": 1341.8229235080637,
-      "rating_ev": -4.60789746118644
+      "rating1": 1081.063115512772,
+      "rating2": 1334.009101766773,
+      "rating_ev": -4.968294363460018
     },
     {
       "date": "2016-10-11",
@@ -2937,9 +3669,9 @@
       "team2": "Equatorial Guinea",
       "score1": 1,
       "score2": 1,
-      "rating1": 1338.676331852719,
-      "rating2": 1334.0506646421477,
-      "rating_ev": -3.146591655344764
+      "rating1": 1331.5382031654608,
+      "rating2": 1348.186964583177,
+      "rating_ev": -2.4708986013122285
     },
     {
       "date": "2016-11-10",
@@ -2949,9 +3681,9 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1336.9560147767538,
-      "rating2": 1377.2423051760588,
-      "rating_ev": -1.720317075965113
+      "rating1": 1328.5259518081778,
+      "rating2": 1328.1300881451334,
+      "rating_ev": -3.0122513572830485
     },
     {
       "date": "2016-11-15",
@@ -2961,57 +3693,57 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1517.0244507697596,
-      "rating2": 1345.3828415011228,
-      "rating_ev": 8.426826724368993
+      "rating1": 1507.6444734708339,
+      "rating2": 1336.923902297437,
+      "rating_ev": 8.397950489259301
     },
     {
       "date": "2017-03-28",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Hong Kong",
       "score1": 2,
       "score2": 0,
-      "rating1": 1350.0573393462598,
-      "rating2": 1047.918361455269,
-      "rating_ev": 4.674497845137012
+      "rating1": 1341.3252448497376,
+      "rating2": 1035.0200530615496,
+      "rating_ev": 4.401342552300548
     },
     {
       "date": "2017-06-13",
       "country": "Malaysia",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Malaysia",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 2,
-      "rating1": 958.3421704869539,
-      "rating2": 1346.4568554144757,
-      "rating_ev": -3.6004839317840833
+      "rating1": 937.5699261362608,
+      "rating2": 1337.0035700036774,
+      "rating_ev": -4.321674846060205
     },
     {
       "date": "2017-09-05",
       "country": "North Korea",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "North Korea",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 2,
-      "rating1": 1380.7011485019987,
-      "rating2": 1354.6309418506187,
-      "rating_ev": 8.174086436142943
+      "rating1": 1351.5628625914676,
+      "rating2": 1343.927700098349,
+      "rating_ev": 6.924130094671682
     },
     {
       "date": "2017-10-10",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "North Korea",
       "score1": 5,
       "score2": 0,
-      "rating1": 1415.243330686044,
-      "rating2": 1320.0887596665734,
-      "rating_ev": 60.612388835425236
+      "rating1": 1403.4391102622226,
+      "rating2": 1292.051452427594,
+      "rating_ev": 59.51141016387351
     },
     {
       "date": "2017-11-09",
@@ -3021,33 +3753,33 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 1,
-      "rating1": 992.0566636304544,
-      "rating2": 1412.582481763885,
-      "rating_ev": -2.660848922158948
+      "rating1": 973.0142575878485,
+      "rating2": 1400.5694806916051,
+      "rating_ev": -2.8696295706174624
     },
     {
       "date": "2017-11-14",
       "country": "Hong Kong",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Hong Kong",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1087.4165266120458,
-      "rating2": 1413.0136192600746,
-      "rating_ev": 0.431137496189649
+      "rating1": 1072.807702938595,
+      "rating2": 1400.8420087190132,
+      "rating_ev": 0.27252802740804327
     },
     {
       "date": "2018-03-27",
       "country": "Lebanon",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Lebanon",
       "team2": "Malaysia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1391.3688665309355,
-      "rating2": 917.7380720830291,
-      "rating_ev": -21.6447527291391
+      "rating1": 1378.5612371772088,
+      "rating2": 894.5148715796772,
+      "rating_ev": -22.28077154180437
     },
     {
       "date": "2018-09-06",
@@ -3057,9 +3789,9 @@
       "team2": "Lebanon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1446.3683059836947,
-      "rating2": 1403.159756637037,
-      "rating_ev": 11.790890106101415
+      "rating1": 1437.736499436358,
+      "rating2": 1390.4804563235443,
+      "rating_ev": 11.919219146335536
     },
     {
       "date": "2018-09-09",
@@ -3069,9 +3801,9 @@
       "team2": "Oman",
       "score1": 0,
       "score2": 0,
-      "rating1": 1405.3981727294693,
-      "rating2": 1475.9229887656356,
-      "rating_ev": 2.238416092432317
+      "rating1": 1392.9867218263284,
+      "rating2": 1471.9643834732449,
+      "rating_ev": 2.5062655027841174
     },
     {
       "date": "2018-10-11",
@@ -3081,21 +3813,21 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1384.0602109071904,
-      "rating2": 1400.4571872913589,
-      "rating_ev": -4.940985438110374
+      "rating1": 1433.6503121399783,
+      "rating2": 1389.954112659221,
+      "rating_ev": -3.0326091671074664
     },
     {
       "date": "2018-11-15",
       "country": "Australia",
       "tournament": "Friendly",
-      "team1": "Uzbekistan",
-      "team2": "Lebanon",
+      "team1": "Lebanon",
+      "team2": "Uzbekistan",
       "score1": 0,
       "score2": 0,
-      "rating1": 1587.9078458879471,
-      "rating2": 1406.2021185574922,
-      "rating_ev": 5.744931266133335
+      "rating1": 1396.191085891285,
+      "rating2": 1593.6214850742297,
+      "rating_ev": 6.236973232063974
     },
     {
       "date": "2018-11-20",
@@ -3105,9 +3837,9 @@
       "team2": "Lebanon",
       "score1": 3,
       "score2": 0,
-      "rating1": 1756.3763623315838,
-      "rating2": 1398.7288371859063,
-      "rating_ev": -7.4732813715859265
+      "rating1": 1759.884493354736,
+      "rating2": 1389.1163448961515,
+      "rating_ev": -7.074740995133425
     },
     {
       "date": "2018-12-27",
@@ -3117,57 +3849,105 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1424.2797159703962,
-      "rating2": 1395.2311557135447,
-      "rating_ev": -3.4976814723615917
+      "rating1": 1411.1520149024411,
+      "rating2": 1385.510468559839,
+      "rating_ev": -3.6058763363125763
     },
     {
       "date": "2019-01-09",
       "country": "United Arab Emirates",
-      "tournament": "AFC Asian Cup",
+      "tournament": "Asian Cup",
       "team1": "Qatar",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1551.45590237238,
-      "rating2": 1375.7484391931102,
-      "rating_ev": -19.48271652043445
+      "rating1": 1562.6538285294496,
+      "rating2": 1367.3459054694529,
+      "rating_ev": -18.164563090386082
     },
     {
       "date": "2019-01-12",
       "country": "United Arab Emirates",
-      "tournament": "AFC Asian Cup",
-      "team1": "Lebanon",
-      "team2": "Saudi Arabia",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1361.4588495495498,
-      "rating2": 1614.7307893590496,
-      "rating_ev": -14.289589643560475
+      "tournament": "Asian Cup",
+      "team1": "Saudi Arabia",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1618.5264440780013,
+      "rating2": 1353.8161378470274,
+      "rating_ev": -13.529767622425425
     },
     {
       "date": "2019-01-17",
       "country": "United Arab Emirates",
-      "tournament": "AFC Asian Cup",
+      "tournament": "Asian Cup",
       "team1": "Lebanon",
       "team2": "North Korea",
       "score1": 4,
       "score2": 1,
-      "rating1": 1395.0763698649723,
-      "rating2": 1207.661200642634,
-      "rating_ev": 33.61752031542255
+      "rating1": 1386.7413510813421,
+      "rating2": 1189.0560542350147,
+      "rating_ev": 32.9252132343147
+    },
+    {
+      "date": "2019-07-30",
+      "country": "Iraq",
+      "tournament": "West Asian Championship",
+      "team1": "Iraq",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1560.0418150107882,
+      "rating2": 1388.869936908325,
+      "rating_ev": 2.1285858269827713
+    },
+    {
+      "date": "2019-08-02",
+      "country": "Iraq",
+      "tournament": "West Asian Championship",
+      "team1": "Lebanon",
+      "team2": "Syria",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1406.7529173352684,
+      "rating2": 1436.8085345388477,
+      "rating_ev": 17.882980426943504
+    },
+    {
+      "date": "2019-08-05",
+      "country": "Iraq",
+      "tournament": "West Asian Championship",
+      "team1": "Lebanon",
+      "team2": "Palestine",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1402.2691175313278,
+      "rating2": 1336.1181865187123,
+      "rating_ev": -4.483799803940656
+    },
+    {
+      "date": "2019-08-08",
+      "country": "Iraq",
+      "tournament": "West Asian Championship",
+      "team1": "Yemen",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1111.860818333882,
+      "rating2": 1369.226134361589,
+      "rating_ev": -33.04298316973882
     },
     {
       "date": "2019-09-05",
       "country": "North Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "North Korea",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1274.506444086286,
-      "rating2": 1364.0544168742254,
-      "rating_ev": -31.021952990746968
+      "rating1": 1257.2829568775835,
+      "rating2": 1338.7478392062455,
+      "rating_ev": -30.478295155343403
     },
     {
       "date": "2019-09-10",
@@ -3177,69 +3957,69 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1437.3654807271066,
-      "rating2": 1362.025717946355,
-      "rating_ev": -2.028698927870437
+      "rating1": 1445.0466327885883,
+      "rating2": 1337.7317686851466,
+      "rating_ev": -1.0160705210989818
     },
     {
       "date": "2019-10-10",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Lebanon",
       "team2": "Turkmenistan",
       "score1": 2,
       "score2": 1,
-      "rating1": 1355.9727828782227,
-      "rating2": 1125.942308129096,
-      "rating_ev": -6.0529350681322285
+      "rating1": 1332.080515076277,
+      "rating2": 1108.1052780301327,
+      "rating_ev": -5.651253608869638
     },
     {
       "date": "2019-10-15",
       "country": "Sri Lanka",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Sri Lanka",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 3,
-      "rating1": 470.6404844092861,
-      "rating2": 1353.7279132619133,
-      "rating_ev": -2.244869616309529
+      "rating1": 405.9515428601335,
+      "rating2": 1327.893211532598,
+      "rating_ev": -4.187303543678922
     },
     {
       "date": "2019-11-14",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Lebanon",
       "team2": "South Korea",
       "score1": 0,
       "score2": 0,
-      "rating1": 1370.2471533199814,
-      "rating2": 1714.2901538034816,
-      "rating_ev": 16.519240058068135
+      "rating1": 1344.881325346819,
+      "rating2": 1696.2380647762745,
+      "rating_ev": 16.98811381422115
     },
     {
       "date": "2019-11-19",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Lebanon",
       "team2": "North Korea",
       "score1": 0,
       "score2": 0,
-      "rating1": 1357.0527943621348,
-      "rating2": 1256.7463576375796,
-      "rating_ev": -13.194358957846589
+      "rating1": 1332.0352030705178,
+      "rating2": 1236.893581639519,
+      "rating_ev": -12.84612227630123
     },
     {
       "date": "2020-11-12",
       "country": "United Arab Emirates",
       "tournament": "Friendly",
-      "team1": "Lebanon",
-      "team2": "Bahrain",
-      "score1": 1,
-      "score2": 3,
-      "rating1": 1346.6628670464943,
-      "rating2": 1482.3480341907814,
-      "rating_ev": -10.389927315640534
+      "team1": "Bahrain",
+      "team2": "Lebanon",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1491.1201716656094,
+      "rating2": 1322.6789400284763,
+      "rating_ev": -9.356263042041519
     },
     {
       "date": "2021-03-24",
@@ -3249,9 +4029,9 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1434.686364299333,
-      "rating2": 1342.1789482899778,
-      "rating_ev": -4.483918756516459
+      "rating1": 1436.5746899115647,
+      "rating2": 1318.988785515352,
+      "rating_ev": -3.6901545131242983
     },
     {
       "date": "2021-03-29",
@@ -3261,129 +4041,129 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1388.5981706374737,
-      "rating2": 1343.6075094122368,
-      "rating_ev": 1.4285611222589978
+      "rating1": 1412.13557939572,
+      "rating2": 1321.8530390792544,
+      "rating_ev": 2.8642535639023663
     },
     {
       "date": "2021-06-05",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Lebanon",
       "team2": "Sri Lanka",
       "score1": 3,
       "score2": 2,
-      "rating1": 1310.3767428019837,
-      "rating2": 521.2602557502739,
-      "rating_ev": -33.23076661025311
+      "rating1": 1286.6095033960548,
+      "rating2": 458.0184389328366,
+      "rating_ev": -35.243535683199525
     },
     {
       "date": "2021-06-09",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Turkmenistan",
       "team2": "Lebanon",
       "score1": 3,
       "score2": 2,
-      "rating1": 1146.232686586173,
-      "rating2": 1285.1595024877392,
-      "rating_ev": -25.217240314244464
+      "rating1": 1127.4625669576221,
+      "rating2": 1261.7056564850518,
+      "rating_ev": -24.90384691100303
     },
     {
       "date": "2021-06-13",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "South Korea",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1695.579750293438,
-      "rating2": 1301.8332037494517,
-      "rating_ev": 16.673701261712495
+      "rating1": 1677.611970191349,
+      "rating2": 1278.7051985405333,
+      "rating_ev": 16.99954205548147
     },
     {
       "date": "2021-06-23",
       "country": "Qatar",
-      "tournament": "Arab Cup qualification",
+      "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
       "team2": "Djibouti",
       "score1": 1,
       "score2": 0,
-      "rating1": 1281.5264038917048,
-      "rating2": 725.1519979070653,
-      "rating_ev": -20.30679985774691
+      "rating1": 1259.5118496743767,
+      "rating2": 721.8609829626209,
+      "rating_ev": -19.19334886615661
     },
     {
       "date": "2021-09-02",
       "country": "United Arab Emirates",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "United Arab Emirates",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1538.6191927833104,
-      "rating2": 1303.6990995129277,
-      "rating_ev": 22.17269562122283
+      "rating1": 1504.8821942176735,
+      "rating2": 1280.9599588859592,
+      "rating_ev": 21.448109211582505
     },
     {
       "date": "2021-09-07",
       "country": "South Korea",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "South Korea",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1668.7066901029918,
-      "rating2": 1317.6538349647528,
-      "rating_ev": 13.954735451825172
+      "rating1": 1649.2265289843617,
+      "rating2": 1295.1110640617196,
+      "rating_ev": 14.15110517576045
     },
     {
       "date": "2021-10-07",
       "country": "Qatar",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Iraq",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1547.0500036286128,
-      "rating2": 1332.1202935489266,
-      "rating_ev": 14.466458584173779
+      "rating1": 1510.8357680947547,
+      "rating2": 1308.7267213497632,
+      "rating_ev": 13.615657288043622
     },
     {
       "date": "2021-10-12",
       "country": "Jordan",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Syria",
-      "team2": "Lebanon",
-      "score1": 2,
-      "score2": 3,
-      "rating1": 1446.2712164199324,
-      "rating2": 1354.1928687309191,
-      "rating_ev": 22.072575181992534
+      "tournament": "World Cup qualifier",
+      "team1": "Lebanon",
+      "team2": "Syria",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1329.6176652351626,
+      "rating2": 1404.1663220054022,
+      "rating_ev": 20.890943885399338
     },
     {
       "date": "2021-11-11",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Iran",
       "score1": 1,
       "score2": 2,
-      "rating1": 1363.9430530900377,
-      "rating2": 1850.15190161088,
-      "rating_ev": 9.75018435911852
+      "rating1": 1340.0394806058625,
+      "rating2": 1837.2004271982864,
+      "rating_ev": 10.42181537069996
     },
     {
       "date": "2021-11-16",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "United Arab Emirates",
       "score1": 0,
       "score2": 1,
-      "rating1": 1354.269660554184,
-      "rating2": 1540.2522300257224,
-      "rating_ev": -9.673392535853736
+      "rating1": 1329.8579403532083,
+      "rating2": 1508.271341699353,
+      "rating_ev": -10.181540252654258
     },
     {
       "date": "2021-12-01",
@@ -3393,21 +4173,21 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1599.263689932383,
-      "rating2": 1354.8847848282164,
-      "rating_ev": 0.615124274032496
+      "rating1": 1617.2431986141942,
+      "rating2": 1333.0957533462738,
+      "rating_ev": 3.2378129930655177
     },
     {
       "date": "2021-12-04",
       "country": "Qatar",
       "tournament": "Arab Cup",
-      "team1": "Lebanon",
-      "team2": "Algeria",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1354.6676097992413,
-      "rating2": 1825.7701908663896,
-      "rating_ev": -0.2171750289751344
+      "team1": "Algeria",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1834.5518751410834,
+      "rating2": 1334.6607229131632,
+      "rating_ev": 1.564969566889431
     },
     {
       "date": "2021-12-07",
@@ -3417,57 +4197,57 @@
       "team2": "Sudan",
       "score1": 1,
       "score2": 0,
-      "rating1": 1363.895621638929,
-      "rating2": 1266.2659547448745,
-      "rating_ev": 9.228011839687724
+      "rating1": 1344.2537409441857,
+      "rating2": 1252.0174146745871,
+      "rating_ev": 9.593018031022439
     },
     {
       "date": "2022-01-27",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "South Korea",
       "score1": 0,
       "score2": 1,
-      "rating1": 1366.7842359668389,
-      "rating2": 1743.7690405331075,
-      "rating_ev": 2.8886143279098633
+      "rating1": 1347.0949231911245,
+      "rating2": 1723.3396119199645,
+      "rating_ev": 2.8411822469388426
     },
     {
       "date": "2022-02-01",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Iraq",
       "score1": 1,
       "score2": 1,
-      "rating1": 1369.0250639201906,
-      "rating2": 1496.7707529339561,
-      "rating_ev": 2.2408279533517543
+      "rating1": 1348.9165141706405,
+      "rating2": 1470.4413196292803,
+      "rating_ev": 1.8215909795160314
     },
     {
       "date": "2022-03-24",
       "country": "Lebanon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Lebanon",
       "team2": "Syria",
       "score1": 0,
       "score2": 3,
-      "rating1": 1325.4564426644051,
-      "rating2": 1460.4255152877033,
-      "rating_ev": -43.5686212557855
+      "rating1": 1304.4256518643929,
+      "rating2": 1425.789953640461,
+      "rating_ev": -44.490862306247664
     },
     {
       "date": "2022-03-29",
       "country": "Iran",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Iran",
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1807.4593042790007,
-      "rating2": 1331.8597229460854,
-      "rating_ev": 6.403280281680281
+      "rating1": 1790.7953348583685,
+      "rating2": 1311.0831624341906,
+      "rating_ev": 6.657510569797751
     },
     {
       "date": "2022-11-19",
@@ -3477,9 +4257,9 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1234.8278891169452,
-      "rating2": 1314.6364349466253,
-      "rating_ev": -17.223287999460126
+      "rating1": 1267.5530877239307,
+      "rating2": 1295.5022970167804,
+      "rating_ev": -15.580865417410223
     },
     {
       "date": "2022-12-30",
@@ -3489,9 +4269,9 @@
       "team2": "Lebanon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1478.715068667234,
-      "rating2": 1315.3873313408856,
-      "rating_ev": 0.7508963942602804
+      "rating1": 1457.7180605770486,
+      "rating2": 1296.1963933091995,
+      "rating_ev": 0.6940962924190899
     },
     {
       "date": "2023-03-27",
@@ -3501,57 +4281,105 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1558.3532074522882,
-      "rating2": 1311.4843129800597,
-      "rating_ev": -3.903018360825854
+      "rating1": 1554.5844193344735,
+      "rating2": 1292.7579397393108,
+      "rating_ev": -3.4384535698886793
     },
     {
-      "date": "2023-06-22",
+      "date": "2023-06-09",
       "country": "India",
-      "tournament": "SAFF Cup",
+      "tournament": "Friendly tournament",
       "team1": "Lebanon",
-      "team2": "Bangladesh",
-      "score1": 2,
-      "score2": 0,
-      "rating1": 1305.399628516274,
-      "rating2": 730.8210631580696,
-      "rating_ev": -6.084684463785607
+      "team2": "Vanuatu",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1317.087169721035,
+      "rating2": 1213.103687453572,
+      "rating_ev": 24.32922998172421
     },
     {
-      "date": "2023-06-25",
+      "date": "2023-06-12",
       "country": "India",
-      "tournament": "SAFF Cup",
-      "team1": "Bhutan",
-      "team2": "Lebanon",
-      "score1": 1,
-      "score2": 4,
-      "rating1": 178.81429754130733,
-      "rating2": 1286.5324864642246,
-      "rating_ev": -18.86714205204956
-    },
-    {
-      "date": "2023-06-28",
-      "country": "India",
-      "tournament": "SAFF Cup",
+      "tournament": "Friendly tournament",
       "team1": "Lebanon",
-      "team2": "Maldives",
-      "score1": 1,
+      "team2": "Mongolia",
+      "score1": 0,
       "score2": 0,
-      "rating1": 1268.2080410401604,
-      "rating2": 745.0518668488997,
-      "rating_ev": -18.32444542406415
+      "rating1": 1277.6352097103872,
+      "rating2": 659.4002761245597,
+      "rating_ev": -39.45196001064778
     },
     {
-      "date": "2023-07-01",
+      "date": "2023-06-15",
       "country": "India",
-      "tournament": "SAFF Cup",
+      "tournament": "Friendly tournament",
       "team1": "India",
       "team2": "Lebanon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1157.8745436564914,
-      "rating2": 1267.2088201047295,
-      "rating_ev": -0.9992209354309125
+      "rating1": 1121.3988733328115,
+      "rating2": 1273.7400048822515,
+      "rating_ev": -3.8952048281357747
+    },
+    {
+      "date": "2023-06-18",
+      "country": "India",
+      "tournament": "Friendly tournament",
+      "team1": "India",
+      "team2": "Lebanon",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1152.4652223605285,
+      "rating2": 1242.6736558545344,
+      "rating_ev": -31.066349027717024
+    },
+    {
+      "date": "2023-06-22",
+      "country": "India",
+      "tournament": "South Asian Championship",
+      "team1": "Lebanon",
+      "team2": "Bangladesh",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1239.8747228042416,
+      "rating2": 719.8422704204099,
+      "rating_ev": -2.798933050292817
+    },
+    {
+      "date": "2023-06-25",
+      "country": "India",
+      "tournament": "South Asian Championship",
+      "team1": "Lebanon",
+      "team2": "Bhutan",
+      "score1": 4,
+      "score2": 1,
+      "rating1": 1222.4514364241716,
+      "rating2": 148.29939950763662,
+      "rating_ev": -17.423286380070067
+    },
+    {
+      "date": "2023-06-28",
+      "country": "India",
+      "tournament": "South Asian Championship",
+      "team1": "Lebanon",
+      "team2": "Maldives",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1206.4640591001626,
+      "rating2": 721.8183318768116,
+      "rating_ev": -15.987377324009003
+    },
+    {
+      "date": "2023-07-01",
+      "country": "India",
+      "tournament": "South Asian Championship",
+      "team1": "India",
+      "team2": "Lebanon",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1167.4703617247958,
+      "rating2": 1209.986762647822,
+      "rating_ev": 3.5227035476593755
     },
     {
       "date": "2023-09-07",
@@ -3561,9 +4389,9 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1262.4908603456745,
-      "rating2": 1258.0686174871407,
-      "rating_ev": -9.140202617588784
+      "rating1": 1311.0365312685635,
+      "rating2": 1207.5581651692678,
+      "rating_ev": -2.4285974785541384
     },
     {
       "date": "2023-09-10",
@@ -3573,9 +4401,9 @@
       "team2": "India",
       "score1": 1,
       "score2": 0,
-      "rating1": 1267.5982797367362,
-      "rating2": 1174.4259471641749,
-      "rating_ev": 9.529662249595503
+      "rating1": 1220.6939882871397,
+      "rating2": 1180.7318305908504,
+      "rating_ev": 13.13582311787195
     },
     {
       "date": "2023-10-12",
@@ -3585,9 +4413,9 @@
       "team2": "Lebanon",
       "score1": 3,
       "score2": 2,
-      "rating1": 1531.462428332735,
-      "rating2": 1271.3693745923404,
-      "rating_ev": 3.771094855604133
+      "rating1": 1542.1061180703584,
+      "rating2": 1226.1817864469288,
+      "rating_ev": 5.487798159789008
     },
     {
       "date": "2023-10-17",
@@ -3597,33 +4425,69 @@
       "team2": "Lebanon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1464.4600933282861,
-      "rating2": 1273.0031287590134,
-      "rating_ev": 1.633754166673043
+      "rating1": 1452.4889405349788,
+      "rating2": 1228.821837743378,
+      "rating_ev": 2.640051296449201
     },
     {
       "date": "2023-11-16",
       "country": "United Arab Emirates",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Lebanon",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1279.3761137414037,
-      "rating2": 1373.4698026815804,
-      "rating_ev": 6.372984982390335
+      "rating1": 1236.5072324186474,
+      "rating2": 1350.0551458512114,
+      "rating_ev": 7.6853946752694355
     },
     {
       "date": "2023-11-21",
       "country": "Bangladesh",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Bangladesh",
       "team2": "Lebanon",
       "score1": 1,
       "score2": 1,
-      "rating1": 786.1358843635725,
-      "rating2": 1255.0232079958585,
-      "rating_ev": -24.352905745545172
+      "rating1": 773.1119501863087,
+      "rating2": 1213.8850236619805,
+      "rating_ev": -22.622208756666964
+    },
+    {
+      "date": "2023-12-28",
+      "country": "Lebanon",
+      "tournament": "Friendly",
+      "team1": "Lebanon",
+      "team2": "Jordan",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1226.0023141041827,
+      "rating2": 1470.5598073008916,
+      "rating_ev": 12.117290442202147
+    },
+    {
+      "date": "2024-01-04",
+      "country": "Qatar",
+      "tournament": "Friendly",
+      "team1": "Saudi Arabia",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1584.4289404976373,
+      "rating2": 1229.6788679344193,
+      "rating_ev": 3.6765538302365712
+    },
+    {
+      "date": "2024-01-12",
+      "country": "Qatar",
+      "tournament": "Asian Cup",
+      "team1": "Qatar",
+      "team2": "Lebanon",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1554.1588712016267,
+      "rating2": 1212.705294849985,
+      "rating_ev": -16.973573084434292
     }
   ]
 }

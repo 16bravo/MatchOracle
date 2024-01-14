@@ -2,88 +2,268 @@
   "team": "Palestine",
   "matches": [
     {
-      "date": "1966-04-01",
+      "date": "1934-03-16",
+      "country": "Egypt",
+      "tournament": "World Cup qualifier",
+      "team1": "Egypt",
+      "team2": "Palestine",
+      "score1": 7,
+      "score2": 1,
+      "rating1": 1668.1146435129783,
+      "rating2": 1291.4193974575005,
+      "rating_ev": -53.58060254249949
+    },
+    {
+      "date": "1934-04-06",
+      "country": "Palestine",
+      "tournament": "World Cup qualifier",
+      "team1": "Palestine",
+      "team2": "Egypt",
+      "score1": 1,
+      "score2": 4,
+      "rating1": 1267.1329002779944,
+      "rating2": 1692.4011406924844,
+      "rating_ev": -24.286497179506114
+    },
+    {
+      "date": "1938-01-22",
+      "country": "Palestine",
+      "tournament": "World Cup qualifier",
+      "team1": "Palestine",
+      "team2": "Greece",
+      "score1": 1,
+      "score2": 3,
+      "rating1": 1229.494814897467,
+      "rating2": 1231.653372251559,
+      "rating_ev": -37.6380853805274
+    },
+    {
+      "date": "1938-02-20",
+      "country": "Greece",
+      "tournament": "World Cup qualifier",
+      "team1": "Greece",
+      "team2": "Palestine",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1239.8369385197395,
+      "rating2": 1221.3112486292864,
+      "rating_ev": -8.183566268180584
+    },
+    {
+      "date": "1940-04-27",
+      "country": "Palestine",
+      "tournament": "Friendly",
+      "team1": "Palestine",
+      "team2": "Lebanon",
+      "score1": 5,
+      "score2": 1,
+      "rating1": 1241.7974160359065,
+      "rating2": 1090.51383259338,
+      "rating_ev": 20.486167406620098
+    },
+    {
+      "date": "1953-08-01",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Egypt",
+      "team2": "Palestine",
+      "score1": 8,
+      "score2": 1,
+      "rating1": 1622.092001051597,
+      "rating2": 1181.7306215379492,
+      "rating_ev": -60.06679449795729
+    },
+    {
+      "date": "1953-08-03",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Palestine",
+      "score1": 5,
+      "score2": 2,
+      "rating1": 1428.7592798528872,
+      "rating2": 1153.971341685062,
+      "rating_ev": -27.759279852887175
+    },
+    {
+      "date": "1953-08-08",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Lebanon",
+      "team2": "Palestine",
+      "score1": 9,
+      "score2": 1,
+      "rating1": 1182.662223972206,
+      "rating2": 1056.9256627260725,
+      "rating_ev": -97.04567895898958
+    },
+    {
+      "date": "1965-09-02",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Palestine",
+      "team2": "Yemen",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1065.8109144217626,
+      "rating2": 963.1147483043098,
+      "rating_ev": 8.885251695690158
+    },
+    {
+      "date": "1965-09-03",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Palestine",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1093.8043308838253,
+      "rating2": 1274.3948913727968,
+      "rating_ev": 27.99341646206267
+    },
+    {
+      "date": "1965-09-06",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Egypt",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1933.4326790307287,
+      "rating2": 1133.794534320568,
+      "rating_ev": 39.99020343674238
+    },
+    {
+      "date": "1965-09-07",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Iraq",
+      "team2": "Palestine",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1503.5402202174325,
+      "rating2": 1156.8469947005929,
+      "rating_ev": 23.052460380024968
+    },
+    {
+      "date": "1965-09-09",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Sudan",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1691.4496008453007,
+      "rating2": 1174.7806281863354,
+      "rating_ev": 17.933633485742575
+    },
+    {
+      "date": "1965-09-10",
+      "country": "Egypt",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Palestine",
+      "score1": 4,
+      "score2": 2,
+      "rating1": 1482.3763849635027,
+      "rating2": 1164.7413891610156,
+      "rating_ev": -10.03923902531983
+    },
+    {
+      "date": "1966-04-02",
       "country": "Iraq",
       "tournament": "Arab Cup",
       "team1": "Libya",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1417.7206333412475,
-      "rating2": 1349.6160188565677,
-      "rating_ev": 4.6160188565677345
+      "rating1": 1546.848778452452,
+      "rating2": 1188.534802412344,
+      "rating_ev": 23.793413251328502
     },
     {
       "date": "1966-04-04",
       "country": "Iraq",
       "tournament": "Arab Cup",
       "team1": "Palestine",
-      "team2": "Yemen",
+      "team2": "North Yemen",
       "score1": 7,
       "score2": 0,
-      "rating1": 1410.8741350105483,
-      "rating2": 890.244179732372,
-      "rating_ev": 61.25811615398061
+      "rating1": 1257.1337831370417,
+      "rating2": 849.5914990804537,
+      "rating_ev": 68.59898072469764
     },
     {
       "date": "1966-04-06",
       "country": "Iraq",
       "tournament": "Arab Cup",
-      "team1": "Palestine",
-      "team2": "Syria",
-      "score1": 1,
-      "score2": 3,
-      "rating1": 1379.5077887727618,
-      "rating2": 1379.699394520583,
-      "rating_ev": -31.3663462377865
+      "team1": "Syria",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1434.891336530806,
+      "rating2": 1239.007873173822,
+      "rating_ev": -18.125909963219783
     },
     {
       "date": "1966-11-25",
       "country": "Cambodia",
-      "tournament": "GaNEFo",
+      "tournament": "GANEFO Tournament",
       "team1": "Palestine",
-      "team2": "Yemen",
+      "team2": "North Yemen",
       "score1": 5,
       "score2": 3,
-      "rating1": 1374.105607419645,
-      "rating2": 810.9730354118349,
-      "rating_ev": -5.40218135311693
+      "rating1": 1239.0225940510345,
+      "rating2": 764.6666884874255,
+      "rating_ev": 0.014720877212539563
     },
     {
       "date": "1966-11-26",
       "country": "Cambodia",
-      "tournament": "GaNEFo",
-      "team1": "China PR",
+      "tournament": "GANEFO Tournament",
+      "team1": "China",
       "team2": "Palestine",
       "score1": 7,
       "score2": 0,
-      "rating1": 1665.0018065842744,
-      "rating2": 1302.521089621937,
-      "rating_ev": -71.5845177977078
+      "rating1": 1685.25722407076,
+      "rating2": 1176.975201113154,
+      "rating_ev": -62.04739293788043
     },
     {
       "date": "1966-11-27",
       "country": "Cambodia",
-      "tournament": "GaNEFo",
-      "team1": "Palestine",
-      "team2": "North Vietnam",
-      "score1": 0,
-      "score2": 4,
-      "rating1": 1253.3421842436235,
-      "rating2": 1418.9382772887568,
-      "rating_ev": -49.17890537831363
+      "tournament": "GANEFO Tournament",
+      "team1": "North Vietnam",
+      "team2": "Palestine",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1396.0498720143376,
+      "rating2": 1134.2795637444685,
+      "rating_ev": -42.69563736868554
     },
     {
       "date": "1966-11-29",
       "country": "Cambodia",
-      "tournament": "GaNEFo",
-      "team1": "Palestine",
-      "team2": "North Korea",
-      "score1": 1,
-      "score2": 5,
-      "rating1": 1230.344434557329,
-      "rating2": 1797.6255704349612,
-      "rating_ev": -22.997749686294583
+      "tournament": "GANEFO Tournament",
+      "team1": "North Korea",
+      "team2": "Palestine",
+      "score1": 5,
+      "score2": 1,
+      "rating1": 1822.2800895058285,
+      "rating2": 1119.3093977937035,
+      "rating_ev": -14.970165950765022
+    },
+    {
+      "date": "1966-12-03",
+      "country": "Cambodia",
+      "tournament": "GANEFO Tournament",
+      "team1": "Cambodia",
+      "team2": "Palestine",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1020.180204284093,
+      "rating2": 1062.4677125661544,
+      "rating_ev": -56.84168522754908
     },
     {
       "date": "1969-10-15",
@@ -93,9 +273,9 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1553.4502404387626,
-      "rating2": 1243.0657167039378,
-      "rating_ev": 12.721282146608928
+      "rating1": 1568.6448715364545,
+      "rating2": 1080.4643636885492,
+      "rating_ev": 17.996651122394724
     },
     {
       "date": "1969-10-23",
@@ -105,21 +285,33 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1581.7597481105777,
-      "rating2": 1242.0231263537034,
-      "rating_ev": -1.0425903502343772
+      "rating1": 1647.638124217689,
+      "rating2": 1085.9518951316431,
+      "rating_ev": 5.487531443093985
     },
     {
-      "date": "1971-07-11",
+      "date": "1970-07-31",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Sudan",
       "team2": "Palestine",
+      "score1": 4,
+      "score2": 2,
+      "rating1": 1674.1131302543338,
+      "rating2": 1092.4567152429431,
+      "rating_ev": 6.504820111299978
+    },
+    {
+      "date": "1971-07-16",
+      "country": "Libya",
+      "tournament": "Friendly tournament",
+      "team1": "Palestine",
+      "team2": "Sudan",
       "score1": 1,
       "score2": 1,
-      "rating1": 1589.1478020003146,
-      "rating2": 1252.5492582067777,
-      "rating_ev": 10.526131853074276
+      "rating1": 1128.0830599600351,
+      "rating2": 1679.7621158214897,
+      "rating_ev": 35.626344717092024
     },
     {
       "date": "1972-01-01",
@@ -129,33 +321,33 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1571.703226153236,
-      "rating2": 1243.2198741147224,
-      "rating_ev": -9.329384092055307
+      "rating1": 1553.753050897387,
+      "rating2": 1125.1945810341058,
+      "rating_ev": -2.8884789259293484
     },
     {
       "date": "1972-01-04",
       "country": "Iraq",
       "tournament": "Palestine Cup",
-      "team1": "Palestine",
-      "team2": "Syria",
-      "score1": 1,
-      "score2": 3,
-      "rating1": 1220.320654626438,
-      "rating2": 1345.4239125909487,
-      "rating_ev": -22.899219488284416
+      "team1": "Syria",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1388.6896274074516,
+      "rating2": 1112.43014931703,
+      "rating_ev": -12.764431717075695
     },
     {
       "date": "1972-01-06",
       "country": "Iraq",
       "tournament": "Palestine Cup",
-      "team1": "Palestine",
-      "team2": "Yemen DPR",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1189.8618198263914,
-      "rating2": 971.9672369247869,
-      "rating_ev": -30.45883480004659
+      "team1": "Yemen",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 911.3909305115548,
+      "rating2": 1084.9065839952427,
+      "rating_ev": -27.523565321787487
     },
     {
       "date": "1972-01-10",
@@ -165,57 +357,33 @@
       "team2": "Qatar",
       "score1": 7,
       "score2": 2,
-      "rating1": 1254.3442284569085,
-      "rating2": 1121.7966378399042,
-      "rating_ev": 64.48240863051706
+      "rating1": 1154.429392353035,
+      "rating2": 1096.2504573881968,
+      "rating_ev": 69.5228083577922
     },
     {
-      "date": "1973-07-21",
-      "country": "Libya",
-      "tournament": "Palestine Cup",
-      "team1": "Syria",
-      "team2": "Palestine",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1434.3683110847892,
-      "rating2": 1265.728708768382,
-      "rating_ev": 11.384480311473453
-    },
-    {
-      "date": "1973-08-13",
-      "country": "Libya",
-      "tournament": "Palestine Cup",
-      "team1": "Palestine",
-      "team2": "Yemen DPR",
-      "score1": 1,
-      "score2": 0,
-      "rating1": 1262.1534434766875,
-      "rating2": 972.8610068467169,
-      "rating_ev": -3.57526529169445
-    },
-    {
-      "date": "1973-08-16",
+      "date": "1973-08-18",
       "country": "Libya",
       "tournament": "Palestine Cup",
       "team1": "Egypt",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1737.426130578239,
-      "rating2": 1262.1932511224159,
-      "rating_ev": 0.0398076457283878
+      "rating1": 1633.3474986799317,
+      "rating2": 1154.682420783328,
+      "rating_ev": 0.25302843029317046
     },
     {
       "date": "1973-08-21",
       "country": "Libya",
       "tournament": "Palestine Cup",
-      "team1": "Palestine",
-      "team2": "Tunisia",
-      "score1": 2,
-      "score2": 6,
-      "rating1": 1229.4231009578968,
-      "rating2": 1641.6150339827516,
-      "rating_ev": -32.77015016451901
+      "team1": "Tunisia",
+      "team2": "Palestine",
+      "score1": 6,
+      "score2": 2,
+      "rating1": 1644.9207008383212,
+      "rating2": 1128.5406531272965,
+      "rating_ev": -26.14176765603156
     },
     {
       "date": "1974-09-26",
@@ -225,21 +393,21 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1467.1109498582468,
-      "rating2": 1221.0454710684505,
-      "rating_ev": -8.377629889446325
+      "rating1": 1447.0727657477596,
+      "rating2": 1125.1599448328514,
+      "rating_ev": -3.380708294445185
     },
     {
       "date": "1974-09-30",
       "country": "Syria",
       "tournament": "Kuneitra Cup",
-      "team1": "Palestine",
-      "team2": "Sudan",
-      "score1": 1,
-      "score2": 3,
-      "rating1": 1211.2237083394048,
-      "rating2": 1532.1789690867463,
-      "rating_ev": -9.821762729045759
+      "team1": "Sudan",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1593.648179860442,
+      "rating2": 1124.8021868900503,
+      "rating_ev": -0.3577579428010722
     },
     {
       "date": "1974-10-02",
@@ -249,81 +417,153 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1454.1300713816913,
-      "rating2": 1226.5287746262604,
-      "rating_ev": 15.305066286855663
+      "rating1": 1454.6553644220328,
+      "rating2": 1145.4451268826115,
+      "rating_ev": 20.642939992561196
     },
     {
       "date": "1974-10-06",
       "country": "Syria",
       "tournament": "Kuneitra Cup",
       "team1": "Palestine",
-      "team2": "Yemen",
+      "team2": "North Yemen",
       "score1": 7,
       "score2": 1,
-      "rating1": 1257.2087343524647,
-      "rating2": 396.5815874906539,
-      "rating_ev": 30.679959726204288
+      "rating1": 1181.7581813033364,
+      "rating2": 423.3630335593109,
+      "rating_ev": 36.31305442072494
     },
     {
-      "date": "1975-12-19",
+      "date": "1975-12-18",
       "country": "Tunisia",
       "tournament": "Palestine Cup",
       "team1": "Palestine",
       "team2": "Sudan",
       "score1": 0,
       "score2": 0,
-      "rating1": 1274.5647804492098,
-      "rating2": 1533.3156581216065,
-      "rating_ev": 17.356046096745104
+      "rating1": 1205.6924227708807,
+      "rating2": 1566.2203976161497,
+      "rating_ev": 23.934241467544325
     },
     {
       "date": "1975-12-21",
       "country": "Tunisia",
       "tournament": "Palestine Cup",
-      "team1": "Palestine",
-      "team2": "Sudan",
-      "score1": 0,
+      "team1": "Sudan",
+      "team2": "Palestine",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1558.9572493518638,
+      "rating2": 1212.9555710351667,
+      "rating_ev": 7.263148264285974
+    },
+    {
+      "date": "1976-10-08",
+      "country": "Syria",
+      "tournament": "Pan Arab Games",
+      "team1": "Morocco",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1705.6299892777965,
+      "rating2": 1200.0927432006622,
+      "rating_ev": -12.862827834504515
+    },
+    {
+      "date": "1976-10-12",
+      "country": "Syria",
+      "tournament": "Pan Arab Games",
+      "team1": "Saudi Arabia",
+      "team2": "Palestine",
+      "score1": 3,
       "score2": 1,
-      "rating1": 1275.9478143754293,
-      "rating2": 1531.932624195387,
-      "rating_ev": 1.3830339262194684
+      "rating1": 1288.3494383012721,
+      "rating2": 1176.3092406594526,
+      "rating_ev": -23.7835025412096
+    },
+    {
+      "date": "1976-10-14",
+      "country": "Syria",
+      "tournament": "Pan Arab Games",
+      "team1": "Palestine",
+      "team2": "Jordan",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1178.7401070739052,
+      "rating2": 980.1266538437078,
+      "rating_ev": 2.4308664144525665
+    },
+    {
+      "date": "1976-10-16",
+      "country": "Syria",
+      "tournament": "Pan Arab Games",
+      "team1": "Syria",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1379.6834089055885,
+      "rating2": 1168.0658574698234,
+      "rating_ev": -10.674249604081751
+    },
+    {
+      "date": "1976-10-18",
+      "country": "Syria",
+      "tournament": "Pan Arab Games",
+      "team1": "Palestine",
+      "team2": "Yemen",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1154.0485065395596,
+      "rating2": 945.8906401329733,
+      "rating_ev": -14.017350930263774
+    },
+    {
+      "date": "1976-10-20",
+      "country": "Syria",
+      "tournament": "Pan Arab Games",
+      "team1": "Palestine",
+      "team2": "Mauritania",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1142.928130923564,
+      "rating2": 736.5116262159273,
+      "rating_ev": -11.120375615995727
     },
     {
       "date": "1979-09-03",
       "country": "Libya",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Libya",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1384.5358485191302,
-      "rating2": 1282.1925146721749,
-      "rating_ev": 6.244700296745577
+      "rating1": 1447.1146819997064,
+      "rating2": 1167.9925690951661,
+      "rating_ev": 25.064438171602205
     },
     {
-      "date": "1992-09-11",
+      "date": "1992-09-04",
       "country": "Syria",
-      "tournament": "Arab Cup",
+      "tournament": "Pan Arab Games & Arab Cup",
       "team1": "Syria",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1303.6209495973599,
-      "rating2": 1289.552888517931,
-      "rating_ev": 7.360373845756158
+      "rating1": 1361.8640354350043,
+      "rating2": 1186.237658177404,
+      "rating_ev": 18.245089082237882
     },
     {
-      "date": "1992-09-13",
+      "date": "1992-09-09",
       "country": "Syria",
-      "tournament": "Arab Cup",
+      "tournament": "Pan Arab Games & Arab Cup",
       "team1": "Saudi Arabia",
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1454.4466638948586,
-      "rating2": 1285.1573056712516,
-      "rating_ev": -4.395582846679417
+      "rating1": 1540.2822734007646,
+      "rating2": 1193.548041830823,
+      "rating_ev": 7.310383653418967
     },
     {
       "date": "1997-06-06",
@@ -333,225 +573,285 @@
       "team2": "Jordan",
       "score1": 0,
       "score2": 0,
-      "rating1": 1283.2305707718447,
-      "rating2": 1317.0151512372001,
-      "rating_ev": -1.926734899406938
+      "rating1": 1195.2765590943436,
+      "rating2": 1344.5527279032137,
+      "rating_ev": 1.7285172635206436
     },
     {
       "date": "1998-07-20",
       "country": "Lebanon",
-      "tournament": "Arab Cup qualification",
+      "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
       "team2": "Palestine",
       "score1": 3,
       "score2": 1,
-      "rating1": 1341.5299261683083,
-      "rating2": 1263.5449986456513,
-      "rating_ev": -19.685572126193392
+      "rating1": 1326.3238900802996,
+      "rating2": 1180.2011438642714,
+      "rating_ev": -15.075415230072167
     },
     {
       "date": "1998-07-23",
       "country": "Lebanon",
-      "tournament": "Arab Cup qualification",
-      "team1": "Palestine",
-      "team2": "Syria",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1266.5750266538553,
-      "rating2": 1547.5578244680148,
-      "rating_ev": 3.030028008203999
+      "tournament": "Arab Cup qualifier",
+      "team1": "Syria",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1541.3325894215889,
+      "rating2": 1187.9403391057933,
+      "rating_ev": 7.739195241521884
     },
     {
       "date": "1998-07-26",
       "country": "Lebanon",
-      "tournament": "Arab Cup qualification",
+      "tournament": "Arab Cup qualifier",
       "team1": "Jordan",
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1327.6043968245538,
-      "rating2": 1270.4497699756885,
-      "rating_ev": 3.8747433218331935
+      "rating1": 1395.5258588275638,
+      "rating2": 1201.048486930125,
+      "rating_ev": 13.108147824331581
+    },
+    {
+      "date": "1999-08-18",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Jordan",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1433.89392930409,
+      "rating2": 1192.3689997154731,
+      "rating_ev": -8.679487214651772
+    },
+    {
+      "date": "1999-08-23",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Palestine",
+      "team2": "United Arab Emirates",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1226.1432317925248,
+      "rating2": 1494.7555820920213,
+      "rating_ev": 33.77423207705169
+    },
+    {
+      "date": "1999-08-25",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1382.5585384248898,
+      "rating2": 1236.045562783992,
+      "rating_ev": 9.902330991467124
+    },
+    {
+      "date": "1999-08-27",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Palestine",
+      "team2": "Syria",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1247.8704877944483,
+      "rating2": 1423.1009200221336,
+      "rating_ev": 11.824925010456354
+    },
+    {
+      "date": "1999-08-29",
+      "country": "Jordan",
+      "tournament": "Pan Arab Games",
+      "team1": "Jordan",
+      "team2": "Palestine",
+      "score1": 4,
+      "score2": 1,
+      "rating1": 1454.8738986820329,
+      "rating2": 1223.6002874855872,
+      "rating_ev": -24.27020030886115
     },
     {
       "date": "2000-03-31",
       "country": "Qatar",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Qatar",
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1458.511722124784,
-      "rating2": 1273.504544528991,
-      "rating_ev": 3.0547745533024226
+      "rating1": 1475.8222265825218,
+      "rating2": 1230.6550349162223,
+      "rating_ev": 7.054747430635189
     },
     {
       "date": "2000-04-02",
       "country": "Qatar",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Palestine",
       "team2": "Pakistan",
       "score1": 2,
       "score2": 0,
-      "rating1": 1261.072132575569,
-      "rating2": 576.6765082863561,
-      "rating_ev": -12.432411953421934
+      "rating1": 1216.6920197874692,
+      "rating2": 504.7874545593634,
+      "rating_ev": -13.963015128753113
     },
     {
       "date": "2000-04-04",
       "country": "Qatar",
-      "tournament": "AFC Asian Cup qualification",
-      "team1": "Palestine",
-      "team2": "Jordan",
-      "score1": 1,
-      "score2": 5,
-      "rating1": 1213.6189037400763,
-      "rating2": 1404.723159286347,
-      "rating_ev": -47.45322883549261
+      "tournament": "Asian Cup qualifier",
+      "team1": "Jordan",
+      "team2": "Palestine",
+      "score1": 5,
+      "score2": 1,
+      "rating1": 1460.6262066229622,
+      "rating2": 1175.5547923051315,
+      "rating_ev": -41.13722748233772
     },
     {
       "date": "2000-04-06",
       "country": "Qatar",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Kazakhstan",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1403.247832819623,
-      "rating2": 1196.2395023556523,
-      "rating_ev": -17.379401384424
+      "rating1": 1425.71232699804,
+      "rating2": 1161.9613663861498,
+      "rating_ev": -13.593425918981666
     },
     {
       "date": "2000-05-24",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Syria",
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1406.1586462560956,
-      "rating2": 1194.6683643706858,
-      "rating_ev": -1.5711379849665263
+      "rating1": 1453.568991128301,
+      "rating2": 1165.459109288722,
+      "rating_ev": 3.4977429025720994
     },
     {
       "date": "2000-05-26",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
-      "team1": "Palestine",
-      "team2": "Iran",
+      "tournament": "West Asian Championship",
+      "team1": "Iran",
+      "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1224.9008314960006,
-      "rating2": 1686.4078320160115,
-      "rating_ev": 30.23246712531477
+      "rating1": 1742.1927590951163,
+      "rating2": 1200.499735205509,
+      "rating_ev": 35.04062591678712
     },
     {
       "date": "2000-05-28",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Kazakhstan",
       "team2": "Palestine",
       "score1": 3,
       "score2": 2,
-      "rating1": 1340.820913400521,
-      "rating2": 1217.4151690500316,
-      "rating_ev": -7.485662445968956
+      "rating1": 1360.7566848969711,
+      "rating2": 1195.8122993387833,
+      "rating_ev": -4.687435866725764
     },
     {
       "date": "2001-03-04",
       "country": "Hong Kong",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Hong Kong",
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1180.2067618266572,
-      "rating2": 1221.0512291684495,
-      "rating_ev": 3.636060118417845
+      "rating1": 1097.321049946407,
+      "rating2": 1195.562279700821,
+      "rating_ev": -0.2500196379623958
     },
     {
       "date": "2001-03-08",
       "country": "Hong Kong",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Palestine",
-      "team2": "Qatar",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1227.9210496832152,
-      "rating2": 1567.829263796215,
-      "rating_ev": 6.869820514765706
-    },
-    {
-      "date": "2001-03-11",
-      "country": "Hong Kong",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Palestine",
-      "team2": "Malaysia",
-      "score1": 1,
-      "score2": 0,
-      "rating1": 1241.9010451805336,
-      "rating2": 1214.3843308028554,
-      "rating_ev": 13.979995497318441
-    },
-    {
-      "date": "2001-03-20",
-      "country": "Qatar",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Palestine",
-      "team2": "Hong Kong",
-      "score1": 1,
-      "score2": 0,
-      "rating1": 1249.7272421311175,
-      "rating2": 1131.3638235076694,
-      "rating_ev": 7.826196950583835
-    },
-    {
-      "date": "2001-03-23",
-      "country": "Qatar",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Qatar",
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1540.1553416194645,
-      "rating2": 1259.1403900755945,
-      "rating_ev": 9.413147944477032
+      "rating1": 1592.0235201146584,
+      "rating2": 1205.4261224380434,
+      "rating_ev": 9.863842737222512
+    },
+    {
+      "date": "2001-03-11",
+      "country": "Hong Kong",
+      "tournament": "World Cup qualifier",
+      "team1": "Palestine",
+      "team2": "Malaysia",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1217.9237211259594,
+      "rating2": 1168.5512133627426,
+      "rating_ev": 12.497598687916025
+    },
+    {
+      "date": "2001-03-20",
+      "country": "Qatar",
+      "tournament": "World Cup qualifier",
+      "team1": "Palestine",
+      "team2": "Hong Kong",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1222.7301278720986,
+      "rating2": 1059.556173035359,
+      "rating_ev": 4.806406746139146
+    },
+    {
+      "date": "2001-03-23",
+      "country": "Qatar",
+      "tournament": "World Cup qualifier",
+      "team1": "Qatar",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1552.5058866556665,
+      "rating2": 1234.5504195773613,
+      "rating_ev": 11.820291705262662
     },
     {
       "date": "2001-03-25",
       "country": "Qatar",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Malaysia",
       "team2": "Palestine",
       "score1": 4,
       "score2": 3,
-      "rating1": 1237.062898140418,
-      "rating2": 1242.898498842304,
-      "rating_ev": -16.241891233290517
+      "rating1": 1194.2631296794864,
+      "rating2": 1217.1527878474753,
+      "rating_ev": -17.397631729885916
     },
     {
       "date": "2002-08-30",
       "country": "Syria",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Syria",
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1513.5605287657893,
-      "rating2": 1251.0939508831339,
-      "rating_ev": 8.195452040829878
+      "rating1": 1519.4747106910738,
+      "rating2": 1227.2960038593621,
+      "rating_ev": 10.143216011886807
     },
     {
       "date": "2002-09-01",
       "country": "Syria",
-      "tournament": "WAFF Championship",
-      "team1": "Palestine",
-      "team2": "Iraq",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1244.2018620253918,
-      "rating2": 1610.1855481485454,
-      "rating_ev": -6.89208885774201
+      "tournament": "West Asian Championship",
+      "team1": "Iraq",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1630.6930564117156,
+      "rating2": 1223.0770326808129,
+      "rating_ev": -4.218971178549282
     },
     {
       "date": "2002-12-10",
@@ -561,33 +861,45 @@
       "team2": "Palestine",
       "score1": 3,
       "score2": 1,
-      "rating1": 1620.430513908173,
-      "rating2": 1244.2637368505732,
-      "rating_ev": 0.06187482518134857
+      "rating1": 1643.3112060321994,
+      "rating2": 1224.419453144023,
+      "rating_ev": 1.3424204632101464
     },
     {
       "date": "2002-12-16",
       "country": "Kuwait",
       "tournament": "Arab Cup",
-      "team1": "Palestine",
-      "team2": "Jordan",
+      "team1": "Jordan",
+      "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1262.760258988069,
-      "rating2": 1538.9390529608702,
-      "rating_ev": 18.49652213749573
+      "rating1": 1546.702766370506,
+      "rating2": 1244.6021520872187,
+      "rating_ev": 20.182698943195646
+    },
+    {
+      "date": "2002-12-20",
+      "country": "Kuwait",
+      "tournament": "Arab Cup",
+      "team1": "Morocco",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1600.7457641296521,
+      "rating2": 1237.531015901451,
+      "rating_ev": -7.0711361857677275
     },
     {
       "date": "2002-12-23",
       "country": "Kuwait",
       "tournament": "Arab Cup",
-      "team1": "Sudan",
-      "team2": "Palestine",
+      "team1": "Palestine",
+      "team2": "Sudan",
       "score1": 2,
       "score2": 2,
-      "rating1": 1315.3939494665203,
-      "rating2": 1266.102404330685,
-      "rating_ev": 3.3421453426160497
+      "rating1": 1243.91331746785,
+      "rating2": 1338.1449732465833,
+      "rating_ev": 6.3823015663990645
     },
     {
       "date": "2002-12-25",
@@ -597,93 +909,93 @@
       "team2": "Palestine",
       "score1": 3,
       "score2": 3,
-      "rating1": 1484.5030729479984,
-      "rating2": 1285.876924307751,
-      "rating_ev": 19.77451997706612
+      "rating1": 1485.3275635822092,
+      "rating2": 1265.1164926237943,
+      "rating_ev": 21.203175155944336
     },
     {
       "date": "2003-09-24",
       "country": "Qatar",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Qatar",
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1458.836213853473,
-      "rating2": 1302.813187569882,
-      "rating_ev": 16.93626326213098
+      "rating1": 1455.3279779666864,
+      "rating2": 1283.1328277205648,
+      "rating_ev": 18.01633509677049
     },
     {
       "date": "2003-09-27",
       "country": "Qatar",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Qatar",
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1457.8557626925667,
-      "rating2": 1303.7936387307884,
-      "rating_ev": 0.9804511609063411
+      "rating1": 1453.3905429031227,
+      "rating2": 1285.0702627841285,
+      "rating_ev": 1.9374350635637256
     },
     {
       "date": "2003-10-05",
       "country": "Kuwait",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Kuwait",
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1522.116089087121,
-      "rating2": 1308.7405412166615,
-      "rating_ev": 4.9469024858731245
+      "rating1": 1519.2457738315757,
+      "rating2": 1291.0045585798007,
+      "rating_ev": 5.934295795672142
     },
     {
       "date": "2003-10-08",
       "country": "Kuwait",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Kuwait",
       "team2": "Palestine",
       "score1": 4,
       "score2": 0,
-      "rating1": 1556.9898224842887,
-      "rating2": 1273.8668078194942,
-      "rating_ev": -34.8737333971676
+      "rating1": 1553.2464210876274,
+      "rating2": 1257.003911323749,
+      "rating_ev": -34.00064725605171
     },
     {
       "date": "2003-10-19",
       "country": "Singapore",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Singapore",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1070.2330040515988,
-      "rating2": 1237.6432827936524,
-      "rating_ev": -36.22352502584181
+      "rating1": 1050.3697638159804,
+      "rating2": 1220.5938260929802,
+      "rating_ev": -36.410085230768914
     },
     {
       "date": "2003-10-22",
       "country": "Singapore",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Singapore",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1074.5589464766904,
-      "rating2": 1233.3173403685607,
-      "rating_ev": -4.325942425091625
+      "rating1": 1054.86212280301,
+      "rating2": 1216.1014671059506,
+      "rating_ev": -4.492358987029547
     },
     {
       "date": "2004-02-18",
       "country": "Qatar",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Palestine",
       "team2": "Taiwan",
       "score1": 8,
       "score2": 0,
-      "rating1": 1299.939709758174,
-      "rating2": 715.3380035027496,
-      "rating_ev": 66.62236938961337
+      "rating1": 1290.1649318574391,
+      "rating2": 821.8446485743996,
+      "rating_ev": 74.06346475148848
     },
     {
       "date": "2004-03-26",
@@ -693,57 +1005,57 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1462.0268381147553,
-      "rating2": 1307.8193061264772,
-      "rating_ev": 7.879596368303055
+      "rating1": 1469.5041676781404,
+      "rating2": 1298.569592123852,
+      "rating_ev": 8.404660266412975
     },
     {
       "date": "2004-03-31",
       "country": "Qatar",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Palestine",
-      "team2": "Iraq",
+      "tournament": "World Cup qualifier",
+      "team1": "Iraq",
+      "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1327.1434862229305,
-      "rating2": 1616.021954485333,
-      "rating_ev": 19.324180096453347
+      "rating1": 1615.2097340675086,
+      "rating2": 1318.4085930736253,
+      "rating_ev": 19.839000949773208
     },
     {
       "date": "2004-06-09",
       "country": "Uzbekistan",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Uzbekistan",
       "team2": "Palestine",
       "score1": 3,
       "score2": 0,
-      "rating1": 1513.7471871227717,
-      "rating2": 1301.5914464542864,
-      "rating_ev": -25.552039768644136
+      "rating1": 1508.526893281749,
+      "rating2": 1293.0776435844002,
+      "rating_ev": -25.330949489225077
     },
     {
       "date": "2004-06-17",
       "country": "Iran",
-      "tournament": "WAFF Championship",
-      "team1": "Palestine",
-      "team2": "Jordan",
+      "tournament": "West Asian Championship",
+      "team1": "Jordan",
+      "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1320.2756281399252,
-      "rating2": 1599.3299507779675,
-      "rating_ev": 18.684181685638805
+      "rating1": 1594.7062004587158,
+      "rating2": 1311.999938763114,
+      "rating_ev": 18.92229517871374
     },
     {
       "date": "2004-06-19",
       "country": "Iran",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Iraq",
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1609.9240136676012,
-      "rating2": 1323.652790670685,
-      "rating_ev": 3.3771625307597333
+      "rating1": 1612.8446692676243,
+      "rating2": 1316.065443894267,
+      "rating_ev": 4.0655051311530315
     },
     {
       "date": "2004-09-02",
@@ -753,69 +1065,105 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1583.182266769417,
-      "rating2": 1327.2937450908905,
-      "rating_ev": 3.6409544202056168
+      "rating1": 1583.4964565266823,
+      "rating2": 1319.9435448278862,
+      "rating_ev": 3.87810093361918
     },
     {
       "date": "2004-09-08",
       "country": "Qatar",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Palestine",
-      "team2": "Uzbekistan",
-      "score1": 0,
-      "score2": 3,
-      "rating1": 1300.1468957202085,
-      "rating2": 1584.143411933127,
-      "rating_ev": -27.146849370682048
+      "tournament": "World Cup qualifier",
+      "team1": "Uzbekistan",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1581.2812947427929,
+      "rating2": 1293.0762148927668,
+      "rating_ev": -26.867329935119415
     },
     {
       "date": "2004-10-14",
       "country": "Taiwan",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Taiwan",
       "team2": "Palestine",
       "score1": 0,
       "score2": 1,
-      "rating1": 735.8648462700053,
-      "rating2": 1286.4933226002086,
-      "rating_ev": -13.653573119999919
+      "rating1": 821.7606521882736,
+      "rating2": 1284.7597354186732,
+      "rating_ev": -8.316479474093512
     },
     {
       "date": "2004-11-16",
       "country": "Qatar",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Iraq",
       "team2": "Palestine",
       "score1": 4,
       "score2": 1,
-      "rating1": 1552.7509396037221,
-      "rating2": 1259.932141468054,
-      "rating_ev": -26.561181132154616
+      "rating1": 1558.712423751999,
+      "rating2": 1258.6768324061761,
+      "rating_ev": -26.082903012497127
+    },
+    {
+      "date": "2005-04-09",
+      "country": "Saudi Arabia",
+      "tournament": "Islamic Games",
+      "team1": "Algeria",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1482.692186571695,
+      "rating2": 1229.4785260105753,
+      "rating_ev": -29.198306395600866
+    },
+    {
+      "date": "2005-04-11",
+      "country": "Saudi Arabia",
+      "tournament": "Islamic Games",
+      "team1": "Saudi Arabia",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1614.3544581608385,
+      "rating2": 1216.1829053264453,
+      "rating_ev": -13.295620684129972
+    },
+    {
+      "date": "2005-04-13",
+      "country": "Saudi Arabia",
+      "tournament": "Islamic Games",
+      "team1": "Yemen",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1160.9334770403996,
+      "rating2": 1183.2904923300212,
+      "rating_ev": -32.89241299642413
     },
     {
       "date": "2005-12-01",
       "country": "Qatar",
-      "tournament": "Friendly",
+      "tournament": "West Asian Games",
       "team1": "Iraq",
       "team2": "Palestine",
       "score1": 4,
       "score2": 0,
-      "rating1": 1566.4480873527987,
-      "rating2": 1241.8683935577455,
-      "rating_ev": -18.063747910308393
+      "rating1": 1583.4286671307777,
+      "rating2": 1151.776291049036,
+      "rating_ev": -31.514201280985162
     },
     {
       "date": "2005-12-03",
       "country": "Qatar",
-      "tournament": "Friendly",
+      "tournament": "West Asian Games",
       "team1": "Saudi Arabia",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1645.5047585892485,
-      "rating2": 1239.8272329217898,
-      "rating_ev": -2.041160635955748
+      "rating1": 1747.0456945767228,
+      "rating2": 1158.6781236354752,
+      "rating_ev": 6.901832586439241
     },
     {
       "date": "2006-02-07",
@@ -825,9 +1173,9 @@
       "team2": "Palestine",
       "score1": 3,
       "score2": 0,
-      "rating1": 1455.7906564109285,
-      "rating2": 1228.3329038380211,
-      "rating_ev": -11.494329083768662
+      "rating1": 1507.8995965720032,
+      "rating2": 1151.1767038463784,
+      "rating_ev": -7.501419789096872
     },
     {
       "date": "2006-02-16",
@@ -837,189 +1185,189 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 2,
-      "rating1": 1568.4263688771036,
-      "rating2": 1255.7780763009685,
-      "rating_ev": 27.445172462947312
+      "rating1": 1564.5895653448476,
+      "rating2": 1180.7514607740916,
+      "rating_ev": 29.574756927713224
     },
     {
       "date": "2006-02-18",
       "country": "Bahrain",
       "tournament": "Friendly",
-      "team1": "Pakistan",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 3,
-      "rating1": 660.0425454041643,
-      "rating2": 1259.1626280081055,
-      "rating_ev": 3.384551707137007
+      "team1": "Palestine",
+      "team2": "Pakistan",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1185.6895070491566,
+      "rating2": 641.410010156425,
+      "rating_ev": 4.938046275065062
     },
     {
       "date": "2006-02-22",
-      "country": "China PR",
-      "tournament": "AFC Asian Cup qualification",
-      "team1": "China PR",
+      "country": "China",
+      "tournament": "Asian Cup qualifier",
+      "team1": "China",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1696.0312898892716,
-      "rating2": 1262.914822746998,
-      "rating_ev": 3.7521947388925128
+      "rating1": 1698.1181817349468,
+      "rating2": 1193.8554655867247,
+      "rating_ev": 8.16595853756803
     },
     {
       "date": "2006-03-01",
       "country": "Jordan",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Palestine",
       "team2": "Singapore",
       "score1": 1,
       "score2": 0,
-      "rating1": 1277.8547687386974,
-      "rating2": 1264.4905713739874,
-      "rating_ev": 14.93994599169946
+      "rating1": 1211.6832247980528,
+      "rating2": 1240.9233801463329,
+      "rating_ev": 17.827759211328157
     },
     {
       "date": "2006-04-01",
       "country": "Bangladesh",
-      "tournament": "AFC Challenge Cup",
+      "tournament": "Asian Challenge Cup",
       "team1": "Palestine",
       "team2": "Guam",
       "score1": 11,
       "score2": 0,
-      "rating1": 1313.5993796136108,
-      "rating2": -418.49197264752877,
-      "rating_ev": 35.744610874913405
+      "rating1": 1246.4286232621832,
+      "rating2": -522.7977251050712,
+      "rating_ev": 34.7453984641304
     },
     {
       "date": "2006-04-03",
       "country": "Bangladesh",
-      "tournament": "AFC Challenge Cup",
-      "team1": "Cambodia",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 4,
-      "rating1": 460.7271335613683,
-      "rating2": 1320.0372192503435,
-      "rating_ev": 6.437839636732633
+      "tournament": "Asian Challenge Cup",
+      "team1": "Palestine",
+      "team2": "Cambodia",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1253.0586213512597,
+      "rating2": 397.44260550453106,
+      "rating_ev": 6.62999808907648
     },
     {
       "date": "2006-04-05",
       "country": "Bangladesh",
-      "tournament": "AFC Challenge Cup",
+      "tournament": "Asian Challenge Cup",
       "team1": "Bangladesh",
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 818.2244824350859,
-      "rating2": 1295.1908485384588,
-      "rating_ev": -24.846370711884674
+      "rating1": 769.6006349768612,
+      "rating2": 1229.2708285094943,
+      "rating_ev": -23.78779284176551
     },
     {
       "date": "2006-04-09",
       "country": "Bangladesh",
-      "tournament": "AFC Challenge Cup",
-      "team1": "Palestine",
-      "team2": "Kyrgyzstan",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1271.1245687933024,
-      "rating2": 1149.3818304851102,
-      "rating_ev": -24.066279745156407
+      "tournament": "Asian Challenge Cup",
+      "team1": "Kyrgyzstan",
+      "team2": "Palestine",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1106.0958486673135,
+      "rating2": 1206.6291972765841,
+      "rating_ev": -22.641631232910186
     },
     {
       "date": "2006-08-17",
       "country": "Jordan",
-      "tournament": "AFC Asian Cup qualification",
-      "team1": "Palestine",
-      "team2": "Iraq",
-      "score1": 0,
-      "score2": 3,
-      "rating1": 1249.2078822747185,
-      "rating2": 1612.634499047945,
-      "rating_ev": -21.9166865185839
+      "tournament": "Asian Cup qualifier",
+      "team1": "Iraq",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1654.0626813322533,
+      "rating2": 1191.1014346687455,
+      "rating_ev": -15.527762607838667
     },
     {
       "date": "2006-09-06",
       "country": "United Arab Emirates",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Iraq",
       "team2": "Palestine",
       "score1": 2,
       "score2": 2,
-      "rating1": 1591.2523181998608,
-      "rating2": 1270.5900631228028,
-      "rating_ev": 21.38218084808409
+      "rating1": 1627.0746005144651,
+      "rating2": 1218.0895154865336,
+      "rating_ev": 26.98808081778816
     },
     {
       "date": "2006-10-11",
       "country": "Jordan",
-      "tournament": "AFC Asian Cup qualification",
-      "team1": "Palestine",
-      "team2": "China PR",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1263.8894711492787,
-      "rating2": 1632.8372286825586,
-      "rating_ev": -6.7005919735240695
+      "tournament": "Asian Cup qualifier",
+      "team1": "China",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1632.748060019862,
+      "rating2": 1214.5444193603323,
+      "rating_ev": -3.545096126201315
     },
     {
       "date": "2007-06-18",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
-      "team1": "Palestine",
-      "team2": "Iraq",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1270.117493646186,
-      "rating2": 1600.1072896077205,
-      "rating_ev": 6.228022496907215
+      "tournament": "West Asian Championship",
+      "team1": "Iraq",
+      "team2": "Palestine",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1617.0174160605293,
+      "rating2": 1224.7675397718326,
+      "rating_ev": 10.223120411500304
     },
     {
       "date": "2007-06-20",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Iran",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1727.5047153562755,
-      "rating2": 1269.1071640654488,
-      "rating_ev": -1.0103295807371069
+      "rating1": 1756.3374877822803,
+      "rating2": 1228.0679735459269,
+      "rating_ev": 3.3004337740942447
     },
     {
       "date": "2007-10-08",
       "country": "Qatar",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Palestine",
-      "team2": "Singapore",
-      "score1": 0,
-      "score2": 4,
-      "rating1": 1218.3657473784433,
-      "rating2": 1360.8995734357547,
-      "rating_ev": -50.74141668700554
+      "tournament": "World Cup qualifier",
+      "team1": "Singapore",
+      "team2": "Palestine",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1341.447424550699,
+      "rating2": 1178.696408713553,
+      "rating_ev": -49.371564832373906
     },
     {
       "date": "2008-08-07",
       "country": "Iran",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Iran",
       "team2": "Palestine",
       "score1": 3,
       "score2": 0,
-      "rating1": 1731.3928141263916,
-      "rating2": 1212.6557247010755,
-      "rating_ev": -5.7100226773677605
+      "rating1": 1737.777076026881,
+      "rating2": 1175.627834009126,
+      "rating_ev": -3.0685747044269647
     },
     {
       "date": "2008-08-09",
       "country": "Iran",
-      "tournament": "WAFF Championship",
-      "team1": "Palestine",
-      "team2": "Qatar",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1217.132589369873,
-      "rating2": 1520.2055190592614,
-      "rating_ev": 4.4768646687973614
+      "tournament": "West Asian Championship",
+      "team1": "Qatar",
+      "team2": "Palestine",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1512.0613940553255,
+      "rating2": 1181.8689862650238,
+      "rating_ev": 6.2411522558977595
     },
     {
       "date": "2008-10-26",
@@ -1029,33 +1377,33 @@
       "team2": "Jordan",
       "score1": 1,
       "score2": 1,
-      "rating1": 1223.9870527431701,
-      "rating2": 1538.252683178094,
-      "rating_ev": 6.8544633732972216
+      "rating1": 1190.4854648188038,
+      "rating2": 1562.9014376294558,
+      "rating_ev": 8.616478553780098
     },
     {
       "date": "2009-03-26",
       "country": "Nepal",
-      "tournament": "AFC Challenge Cup qualification",
+      "tournament": "Asian Cup & Asian Chlg Cup q",
       "team1": "Nepal",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 696.0201771922043,
-      "rating2": 1197.645548405325,
-      "rating_ev": -26.341504337845095
+      "rating1": 684.835900067791,
+      "rating2": 1165.4187713740032,
+      "rating_ev": -25.066693444800762
     },
     {
       "date": "2009-03-30",
       "country": "Nepal",
-      "tournament": "AFC Challenge Cup qualification",
+      "tournament": "Asian Cup & Asian Chlg Cup q",
       "team1": "Kyrgyzstan",
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1026.4880431203414,
-      "rating2": 1186.81713345596,
-      "rating_ev": -10.828414949365083
+      "rating1": 984.2105165579541,
+      "rating2": 1153.960080771493,
+      "rating_ev": -11.458690602510273
     },
     {
       "date": "2009-07-10",
@@ -1065,9 +1413,9 @@
       "team2": "Palestine",
       "score1": 3,
       "score2": 0,
-      "rating1": 1564.6847077567272,
-      "rating2": 1180.1587525401064,
-      "rating_ev": -6.658380915853513
+      "rating1": 1568.8284789192614,
+      "rating2": 1148.381011711272,
+      "rating_ev": -5.579069060220945
     },
     {
       "date": "2009-07-13",
@@ -1077,21 +1425,21 @@
       "team2": "Palestine",
       "score1": 4,
       "score2": 0,
-      "rating1": 1577.168958760227,
-      "rating2": 1167.6745015366066,
-      "rating_ev": -12.484251003499821
+      "rating1": 1580.2979474700207,
+      "rating2": 1136.9115431605128,
+      "rating_ev": -11.469468550759302
     },
     {
       "date": "2009-07-18",
-      "country": "China PR",
+      "country": "China",
       "tournament": "Friendly",
-      "team1": "China PR",
+      "team1": "China",
       "team2": "Palestine",
       "score1": 3,
       "score2": 1,
-      "rating1": 1619.8518757099748,
-      "rating2": 1169.9359327605227,
-      "rating_ev": 2.2614312239161336
+      "rating1": 1596.8471706882956,
+      "rating2": 1139.3947688463904,
+      "rating_ev": 2.483225685877642
     },
     {
       "date": "2009-10-10",
@@ -1101,9 +1449,9 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1434.0541276334,
-      "rating2": 1180.9006332621138,
-      "rating_ev": 10.964700501591096
+      "rating1": 1417.8640628359565,
+      "rating2": 1150.7889104719377,
+      "rating_ev": 11.394141625547263
     },
     {
       "date": "2010-06-04",
@@ -1113,9 +1461,9 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1266.6338527928617,
-      "rating2": 1186.4444501519695,
-      "rating_ev": 5.543816889855634
+      "rating1": 1270.7777390585698,
+      "rating2": 1157.3827491732925,
+      "rating_ev": 6.593838701354798
     },
     {
       "date": "2010-08-11",
@@ -1125,33 +1473,33 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1087.0842245126519,
-      "rating2": 1186.2966184530342,
-      "rating_ev": -0.14783169893530612
+      "rating1": 1113.6879666047398,
+      "rating2": 1158.9452710392404,
+      "rating_ev": 1.5625218659479287
     },
     {
       "date": "2010-09-27",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Yemen",
       "team2": "Palestine",
       "score1": 3,
       "score2": 1,
-      "rating1": 1304.2750626620318,
-      "rating2": 1164.3965918519632,
-      "rating_ev": -21.900026601070977
+      "rating1": 1302.0568022544064,
+      "rating2": 1138.6347140295904,
+      "rating_ev": -20.310557009649983
     },
     {
       "date": "2010-09-29",
       "country": "Jordan",
-      "tournament": "WAFF Championship",
-      "team1": "Palestine",
-      "team2": "Iraq",
-      "score1": 0,
-      "score2": 3,
-      "rating1": 1147.2336999028478,
-      "rating2": 1584.4050051725897,
-      "rating_ev": -17.16289194911542
+      "tournament": "West Asian Championship",
+      "team1": "Iraq",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1592.5505722490338,
+      "rating2": 1123.4913292802764,
+      "rating_ev": -15.14338474931401
     },
     {
       "date": "2011-02-09",
@@ -1161,93 +1509,93 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1268.2717233528165,
-      "rating2": 1146.6692969656494,
-      "rating_ev": -0.5644029371983379
+      "rating1": 1311.1531025046506,
+      "rating2": 1124.9601375632774,
+      "rating_ev": 1.4688082830009535
     },
     {
       "date": "2011-03-21",
       "country": "Myanmar",
-      "tournament": "AFC Challenge Cup qualification",
+      "tournament": "Asian Cup & Asian Chlg Cup q",
       "team1": "Palestine",
       "team2": "Bangladesh",
       "score1": 2,
       "score2": 0,
-      "rating1": 1151.794585507563,
-      "rating2": 758.3577080604933,
-      "rating_ev": 5.1252885419135055
+      "rating1": 1128.759232090128,
+      "rating2": 714.5509080585439,
+      "rating_ev": 3.799094526850695
     },
     {
       "date": "2011-03-23",
       "country": "Myanmar",
-      "tournament": "AFC Challenge Cup qualification",
-      "team1": "Philippines",
-      "team2": "Palestine",
+      "tournament": "Asian Cup & Asian Chlg Cup q",
+      "team1": "Palestine",
+      "team2": "Philippines",
       "score1": 0,
       "score2": 0,
-      "rating1": 814.1688920464035,
-      "rating2": 1130.6800581709686,
-      "rating_ev": -21.114527336594392
+      "rating1": 1107.7400095361395,
+      "rating2": 792.7056434442006,
+      "rating_ev": -21.019222553988584
     },
     {
       "date": "2011-03-25",
       "country": "Myanmar",
-      "tournament": "AFC Challenge Cup qualification",
+      "tournament": "Asian Cup & Asian Chlg Cup q",
       "team1": "Myanmar",
       "team2": "Palestine",
       "score1": 1,
       "score2": 3,
-      "rating1": 847.9022694150456,
-      "rating2": 1148.2398339909619,
-      "rating_ev": 17.559775819993206
+      "rating1": 824.2232717128517,
+      "rating2": 1125.254042646938,
+      "rating_ev": 17.514033110798437
     },
     {
       "date": "2011-06-29",
       "country": "Tajikistan",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Afghanistan",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 625.9491659580439,
-      "rating2": 1145.4719894712732,
-      "rating_ev": -2.7678445196886514
+      "tournament": "World Cup qualifier",
+      "team1": "Palestine",
+      "team2": "Afghanistan",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1122.058395769625,
+      "rating2": 595.5125020201593,
+      "rating_ev": -3.195646877313038
     },
     {
       "date": "2011-07-03",
       "country": "Palestine",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Palestine",
       "team2": "Afghanistan",
       "score1": 1,
       "score2": 1,
-      "rating1": 1109.7318674846001,
-      "rating2": 661.6892879447171,
-      "rating_ev": -35.7401219866731
+      "rating1": 1085.9361263668416,
+      "rating2": 631.6347714229428,
+      "rating_ev": -36.12226940278333
     },
     {
       "date": "2011-07-23",
       "country": "Thailand",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Thailand",
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1333.2027054498317,
-      "rating2": 1114.999739946627,
-      "rating_ev": 5.267872462026844
+      "rating1": 1314.9044526406271,
+      "rating2": 1091.5464090985963,
+      "rating_ev": 5.610282731754751
     },
     {
       "date": "2011-07-28",
       "country": "Palestine",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Palestine",
       "team2": "Thailand",
       "score1": 2,
       "score2": 2,
-      "rating1": 1122.3205479232158,
-      "rating2": 1325.8818974732428,
-      "rating_ev": 7.320807976588867
+      "rating1": 1099.1699865445753,
+      "rating2": 1307.2808751946482,
+      "rating_ev": 7.623577445978981
     },
     {
       "date": "2011-08-22",
@@ -1257,9 +1605,9 @@
       "team2": "Palestine",
       "score1": 4,
       "score2": 1,
-      "rating1": 1312.4177800621778,
-      "rating2": 1110.0402661767002,
-      "rating_ev": -12.280281746515357
+      "rating1": 1299.0252818243637,
+      "rating2": 1087.1865388557694,
+      "rating_ev": -11.983447688805882
     },
     {
       "date": "2011-10-05",
@@ -1269,9 +1617,9 @@
       "team2": "Palestine",
       "score1": 7,
       "score2": 0,
-      "rating1": 1738.446790680889,
-      "rating2": 1087.931102879549,
-      "rating_ev": -22.109163297151326
+      "rating1": 1727.9136425220054,
+      "rating2": 1065.4101395253747,
+      "rating_ev": -21.776399330394952
     },
     {
       "date": "2011-12-06",
@@ -1281,9 +1629,57 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 1,
-      "rating1": 1487.0608477386058,
-      "rating2": 1110.0575515819523,
-      "rating_ev": 22.126448702403422
+      "rating1": 1479.8104114448256,
+      "rating2": 1087.9771149411104,
+      "rating_ev": 22.56697541573567
+    },
+    {
+      "date": "2011-12-11",
+      "country": "Qatar",
+      "tournament": "Pan Arab Games",
+      "team1": "Jordan",
+      "team2": "Palestine",
+      "score1": 4,
+      "score2": 1,
+      "rating1": 1587.3484987419902,
+      "rating2": 1075.5051727759924,
+      "rating_ev": -12.47194216511798
+    },
+    {
+      "date": "2011-12-14",
+      "country": "Qatar",
+      "tournament": "Pan Arab Games",
+      "team1": "Libya",
+      "team2": "Palestine",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1436.6446867394627,
+      "rating2": 1098.0401537203475,
+      "rating_ev": 22.534980944355084
+    },
+    {
+      "date": "2011-12-20",
+      "country": "Qatar",
+      "tournament": "Pan Arab Games",
+      "team1": "Bahrain",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1539.7875365044006,
+      "rating2": 1096.1061904444987,
+      "rating_ev": -1.9339632758487824
+    },
+    {
+      "date": "2011-12-22",
+      "country": "Qatar",
+      "tournament": "Pan Arab Games",
+      "team1": "Kuwait",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1540.4465618119398,
+      "rating2": 1080.394729778573,
+      "rating_ev": -15.711460665925642
     },
     {
       "date": "2012-02-24",
@@ -1293,9 +1689,9 @@
       "team2": "Palestine",
       "score1": 3,
       "score2": 0,
-      "rating1": 1468.4576827038627,
-      "rating2": 1102.8269291054614,
-      "rating_ev": -7.2306224764909075
+      "rating1": 1459.5704048072967,
+      "rating2": 1073.7746950370965,
+      "rating_ev": -6.620034741476502
     },
     {
       "date": "2012-02-29",
@@ -1305,69 +1701,81 @@
       "team2": "Azerbaijan",
       "score1": 2,
       "score2": 0,
-      "rating1": 1125.1633743723366,
-      "rating2": 1368.5117455774082,
-      "rating_ev": 22.336445266875216
+      "rating1": 1097.5770636634888,
+      "rating2": 1388.7705437110967,
+      "rating_ev": 23.802368626392308
     },
     {
       "date": "2012-03-08",
       "country": "Nepal",
-      "tournament": "AFC Challenge Cup",
+      "tournament": "Asian Cup q & Asian Chlg Cup",
       "team1": "Nepal",
       "team2": "Palestine",
       "score1": 0,
       "score2": 2,
-      "rating1": 746.1788381634959,
-      "rating2": 1136.8329236198563,
-      "rating_ev": 11.669549247519512
+      "rating1": 724.1694793342343,
+      "rating2": 1109.584131797539,
+      "rating_ev": 12.007068134049973
     },
     {
       "date": "2012-03-10",
       "country": "Nepal",
-      "tournament": "AFC Challenge Cup",
+      "tournament": "Asian Cup q & Asian Chlg Cup",
       "team1": "Palestine",
       "team2": "Turkmenistan",
       "score1": 0,
       "score2": 0,
-      "rating1": 1147.4489950992975,
-      "rating2": 1304.6075364089038,
-      "rating_ev": 10.616071479441189
+      "rating1": 1119.9235462638276,
+      "rating2": 1272.9536373481146,
+      "rating_ev": 10.339414466288645
     },
     {
       "date": "2012-03-12",
       "country": "Nepal",
-      "tournament": "AFC Challenge Cup",
-      "team1": "Maldives",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 993.7000725991436,
-      "rating2": 1167.0879258637992,
-      "rating_ev": 19.63893076450188
+      "tournament": "Asian Cup q & Asian Chlg Cup",
+      "team1": "Palestine",
+      "team2": "Maldives",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1137.3931497139315,
+      "rating2": 931.73003597776,
+      "rating_ev": 17.469603450103932
     },
     {
       "date": "2012-03-16",
       "country": "Nepal",
-      "tournament": "AFC Challenge Cup",
+      "tournament": "Asian Cup q & Asian Chlg Cup",
       "team1": "North Korea",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1535.4559616567813,
-      "rating2": 1160.7583102039607,
-      "rating_ev": -6.32961565983851
+      "rating1": 1503.693346130108,
+      "rating2": 1130.9382755265692,
+      "rating_ev": -6.454874187362293
     },
     {
       "date": "2012-03-19",
       "country": "Nepal",
-      "tournament": "AFC Challenge Cup",
+      "tournament": "Asian Cup q & Asian Chlg Cup",
       "team1": "Philippines",
       "team2": "Palestine",
       "score1": 4,
       "score2": 3,
-      "rating1": 1035.729607565721,
-      "rating2": 1137.999854466594,
-      "rating_ev": -22.758455737366717
+      "rating1": 1007.335816863764,
+      "rating2": 1108.2697017135608,
+      "rating_ev": -22.668573813008493
+    },
+    {
+      "date": "2012-05-22",
+      "country": "Palestine",
+      "tournament": "Friendly tournament",
+      "team1": "Palestine",
+      "team2": "Indonesia",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1120.2517076406461,
+      "rating2": 1157.750994931299,
+      "rating_ev": 11.98200592708531
     },
     {
       "date": "2012-05-28",
@@ -1377,9 +1785,9 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1538.7675744720414,
-      "rating2": 1152.9950450409376,
-      "rating_ev": 14.995190574343724
+      "rating1": 1525.7593752858627,
+      "rating2": 1135.3840794077043,
+      "rating_ev": 15.132371767058203
     },
     {
       "date": "2012-06-18",
@@ -1389,9 +1797,9 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 2,
-      "rating1": 1250.048612045702,
-      "rating2": 1166.0768337254037,
-      "rating_ev": 13.081788684466119
+      "rating1": 1265.7493104890461,
+      "rating2": 1149.4853812460947,
+      "rating_ev": 14.101301838390327
     },
     {
       "date": "2012-06-25",
@@ -1401,9 +1809,9 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1504.5861499609416,
-      "rating2": 1157.9317528013155,
-      "rating_ev": -8.145080924088234
+      "rating1": 1503.68487665907,
+      "rating2": 1142.2960906616045,
+      "rating_ev": -7.189290584490209
     },
     {
       "date": "2012-06-28",
@@ -1413,9 +1821,9 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 2,
-      "rating1": 1621.0370113489823,
-      "rating2": 1192.4757016343294,
-      "rating_ev": 34.54394883301393
+      "rating1": 1597.6477192209845,
+      "rating2": 1176.3890821513444,
+      "rating_ev": 34.092991489739916
     },
     {
       "date": "2012-11-17",
@@ -1425,9 +1833,9 @@
       "team2": "Syria",
       "score1": 1,
       "score2": 1,
-      "rating1": 1198.1544440443097,
-      "rating2": 1377.7478120111268,
-      "rating_ev": 5.678742409980259
+      "rating1": 1185.2321275069696,
+      "rating2": 1466.7043410463054,
+      "rating_ev": 8.843045355625236
     },
     {
       "date": "2012-11-20",
@@ -1437,57 +1845,57 @@
       "team2": "Syria",
       "score1": 2,
       "score2": 1,
-      "rating1": 1210.4747614076796,
-      "rating2": 1365.4274946477572,
-      "rating_ev": 12.320317363369895
+      "rating1": 1200.5388639239445,
+      "rating2": 1451.3976046293305,
+      "rating_ev": 15.3067364169749
     },
     {
       "date": "2012-11-29",
       "country": "Qatar",
       "tournament": "Friendly",
-      "team1": "Palestine",
-      "team2": "Bahrain",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1204.1522425197259,
-      "rating2": 1469.570998444878,
-      "rating_ev": -6.32251888795372
+      "team1": "Bahrain",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1470.57579339077,
+      "rating2": 1194.5452437265756,
+      "rating_ev": -5.993620197368955
     },
     {
       "date": "2012-12-08",
       "country": "Kuwait",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Kuwait",
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1450.8369546080614,
-      "rating2": 1210.863617262513,
-      "rating_ev": 6.711374742787029
+      "rating1": 1447.8989389831027,
+      "rating2": 1201.67012654145,
+      "rating_ev": 7.124882814874354
     },
     {
       "date": "2012-12-11",
       "country": "Kuwait",
-      "tournament": "WAFF Championship",
-      "team1": "Lebanon",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1303.4004969282373,
-      "rating2": 1231.5710638661394,
-      "rating_ev": 20.707446603626522
+      "tournament": "West Asian Championship",
+      "team1": "Palestine",
+      "team2": "Lebanon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1223.218962402302,
+      "rating2": 1307.5232806833417,
+      "rating_ev": 21.548835860852023
     },
     {
       "date": "2012-12-14",
       "country": "Kuwait",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Oman",
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1510.8178080193607,
-      "rating2": 1234.307175565586,
-      "rating_ev": 2.73611169944661
+      "rating1": 1512.7619490237753,
+      "rating2": 1226.5896366927734,
+      "rating_ev": 3.37067429047147
     },
     {
       "date": "2013-02-06",
@@ -1497,45 +1905,45 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 4,
-      "rating1": 1078.923634087538,
-      "rating2": 1246.6831936192582,
-      "rating_ev": 12.37601805367217
+      "rating1": 1009.1431717377582,
+      "rating2": 1237.076069737241,
+      "rating_ev": 10.486433044467617
     },
     {
       "date": "2013-03-02",
       "country": "Nepal",
-      "tournament": "AFC Challenge Cup qualification",
+      "tournament": "Asian Cup & Asian Chlg Cup q",
       "team1": "Palestine",
       "team2": "Bangladesh",
       "score1": 1,
       "score2": 0,
-      "rating1": 1233.7015307489019,
-      "rating2": 797.656443619034,
-      "rating_ev": -12.981662870356331
+      "rating1": 1222.9150377423875,
+      "rating2": 767.9168051826713,
+      "rating_ev": -14.161031994853374
     },
     {
       "date": "2013-03-04",
       "country": "Nepal",
-      "tournament": "AFC Challenge Cup qualification",
-      "team1": "Northern Mariana Islands",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 9,
-      "rating1": -78.68506194957749,
-      "rating2": 1269.4322163706306,
-      "rating_ev": 35.730685621728654
+      "tournament": "Asian Cup & Asian Chlg Cup q",
+      "team1": "Palestine",
+      "team2": "Northern Mariana Islands",
+      "score1": 9,
+      "score2": 0,
+      "rating1": 1259.711374565927,
+      "rating2": -60.922593422891254,
+      "rating_ev": 36.79633682353938
     },
     {
       "date": "2013-03-06",
       "country": "Nepal",
-      "tournament": "AFC Challenge Cup qualification",
+      "tournament": "Asian Cup & Asian Chlg Cup q",
       "team1": "Nepal",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 751.5119863149637,
-      "rating2": 1243.663167404258,
-      "rating_ev": -25.769048966372452
+      "rating1": 744.181673603298,
+      "rating2": 1234.0788837339549,
+      "rating_ev": -25.632490831972177
     },
     {
       "date": "2013-03-21",
@@ -1545,9 +1953,9 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1541.349091454863,
-      "rating2": 1248.4457920525344,
-      "rating_ev": 4.782624648276396
+      "rating1": 1536.0810887753935,
+      "rating2": 1238.9900759582904,
+      "rating_ev": 4.911192224335537
     },
     {
       "date": "2013-03-26",
@@ -1557,9 +1965,9 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 2,
-      "rating1": 1127.8023550584862,
-      "rating2": 1261.885247583339,
-      "rating_ev": 13.43945553080448
+      "rating1": 1106.5900050966507,
+      "rating2": 1252.0692725593542,
+      "rating_ev": 13.079196601063813
     },
     {
       "date": "2013-04-17",
@@ -1569,117 +1977,129 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1487.1874832785686,
-      "rating2": 1257.4486108668448,
-      "rating_ev": -4.436636716494149
+      "rating1": 1479.9383222653234,
+      "rating2": 1247.710276655129,
+      "rating_ev": -4.358995904225139
+    },
+    {
+      "date": "2013-08-06",
+      "country": "Jordan",
+      "tournament": "Friendly",
+      "team1": "Jordan",
+      "team2": "Palestine",
+      "score1": 4,
+      "score2": 1,
+      "rating1": 1554.815550057135,
+      "rating2": 1238.9586485663965,
+      "rating_ev": -8.75162808873256
     },
     {
       "date": "2013-12-25",
       "country": "Qatar",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Qatar",
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1490.5387451396948,
-      "rating2": 1263.315395611882,
-      "rating_ev": 5.866784745037194
+      "rating1": 1483.1725683284596,
+      "rating2": 1245.5166843520215,
+      "rating_ev": 6.558035785624952
     },
     {
       "date": "2013-12-28",
       "country": "Qatar",
-      "tournament": "WAFF Championship",
+      "tournament": "West Asian Championship",
       "team1": "Palestine",
       "team2": "Saudi Arabia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1279.0406964560716,
-      "rating2": 1513.005479718603,
-      "rating_ev": 15.725300844189633
+      "rating1": 1261.7020495837814,
+      "rating2": 1502.644317425175,
+      "rating_ev": 16.185365231759988
     },
     {
       "date": "2014-05-19",
       "country": "Maldives",
-      "tournament": "AFC Challenge Cup",
+      "tournament": "Asian Cup q & Asian Chlg Cup",
       "team1": "Palestine",
       "team2": "Kyrgyzstan",
       "score1": 1,
       "score2": 0,
-      "rating1": 1274.6128925743367,
-      "rating2": 972.2911448762492,
-      "rating_ev": -4.427803881734917
+      "rating1": 1257.041855504786,
+      "rating2": 951.160556106114,
+      "rating_ev": -4.660194078995346
     },
     {
       "date": "2014-05-21",
       "country": "Maldives",
-      "tournament": "AFC Challenge Cup",
-      "team1": "Myanmar",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 871.245104090204,
-      "rating2": 1278.8336179250946,
-      "rating_ev": 4.220725350757903
+      "tournament": "Asian Cup q & Asian Chlg Cup",
+      "team1": "Palestine",
+      "team2": "Myanmar",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1260.1264634258252,
+      "rating2": 834.6649836112604,
+      "rating_ev": 3.084607921039151
     },
     {
       "date": "2014-05-23",
       "country": "Maldives",
-      "tournament": "AFC Challenge Cup",
+      "tournament": "Asian Cup q & Asian Chlg Cup",
       "team1": "Maldives",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1046.1176169197822,
-      "rating2": 1270.1524858222622,
-      "rating_ev": -8.681132102832407
+      "rating1": 1021.5910402041152,
+      "rating2": 1251.0836770899366,
+      "rating_ev": -9.042786335888536
     },
     {
       "date": "2014-05-27",
       "country": "Maldives",
-      "tournament": "AFC Challenge Cup",
+      "tournament": "Asian Cup q & Asian Chlg Cup",
       "team1": "Palestine",
       "team2": "Afghanistan",
       "score1": 2,
       "score2": 0,
-      "rating1": 1277.232076812036,
-      "rating2": 914.1480230146044,
-      "rating_ev": 7.079590989773806
+      "rating1": 1259.0065609384471,
+      "rating2": 908.9324813747028,
+      "rating_ev": 7.922883848510537
     },
     {
       "date": "2014-05-30",
       "country": "Maldives",
-      "tournament": "AFC Challenge Cup",
+      "tournament": "Asian Cup q & Asian Chlg Cup",
       "team1": "Palestine",
       "team2": "Philippines",
       "score1": 1,
       "score2": 0,
-      "rating1": 1284.0462068655822,
-      "rating2": 1150.6896990510168,
-      "rating_ev": 6.814130053546251
+      "rating1": 1264.693085724822,
+      "rating2": 1114.6034563745932,
+      "rating_ev": 5.686524786374775
     },
     {
       "date": "2014-09-03",
       "country": "Philippines",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Myanmar",
       "team2": "Palestine",
       "score1": 4,
       "score2": 1,
-      "rating1": 870.2690512309589,
-      "rating2": 1250.5980921564912,
-      "rating_ev": -33.44811470909099
+      "rating1": 869.7062964214323,
+      "rating2": 1196.9331472882013,
+      "rating_ev": -67.75993843662047
     },
     {
       "date": "2014-09-06",
       "country": "Philippines",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Palestine",
       "team2": "Taiwan",
       "score1": 7,
       "score2": 3,
-      "rating1": 1261.503709010425,
-      "rating2": 696.5299379683285,
-      "rating_ev": 10.90561685393368
+      "rating1": 1214.5720947842044,
+      "rating2": 557.7451009017393,
+      "rating_ev": 17.638947496003084
     },
     {
       "date": "2014-10-06",
@@ -1689,9 +2109,9 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 3,
-      "rating1": 1004.8941049283634,
-      "rating2": 1263.7611213624366,
-      "rating_ev": 2.2574123520115563
+      "rating1": 919.0159283056385,
+      "rating2": 1215.6622677555292,
+      "rating_ev": 1.0901729713249324
     },
     {
       "date": "2014-10-12",
@@ -1701,9 +2121,9 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 2,
-      "rating1": 763.8517001112443,
-      "rating2": 1265.9443317079654,
-      "rating_ev": 2.183210345528778
+      "rating1": 747.6056943231179,
+      "rating2": 1218.7492906631192,
+      "rating_ev": 3.087022907589926
     },
     {
       "date": "2014-11-06",
@@ -1713,9 +2133,9 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1439.717886689934,
-      "rating2": 1259.9427536906105,
-      "rating_ev": -6.001578017354859
+      "rating1": 1432.0388372873526,
+      "rating2": 1213.9488735317996,
+      "rating_ev": -4.800417131319591
     },
     {
       "date": "2014-11-09",
@@ -1725,9 +2145,9 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 3,
-      "rating1": 1196.8034842590566,
-      "rating2": 1275.1484168022255,
-      "rating_ev": 15.205663111614967
+      "rating1": 1187.8727778118307,
+      "rating2": 1230.2950862494347,
+      "rating_ev": 16.346212717635126
     },
     {
       "date": "2014-12-13",
@@ -1737,81 +2157,81 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1637.953876768893,
-      "rating2": 1278.9535830728287,
-      "rating_ev": 3.805166270603195
+      "rating1": 1630.9801039027104,
+      "rating2": 1235.206440518076,
+      "rating_ev": 4.911354268641389
     },
     {
       "date": "2014-12-21",
-      "country": "China PR",
+      "country": "China",
       "tournament": "Friendly",
-      "team1": "China PR",
+      "team1": "China",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1548.0809789830978,
-      "rating2": 1290.0683220090255,
-      "rating_ev": 11.114738936196773
+      "rating1": 1539.6772518083785,
+      "rating2": 1247.3753048462966,
+      "rating_ev": 12.16886432822048
     },
     {
       "date": "2015-01-12",
       "country": "Australia",
-      "tournament": "AFC Asian Cup",
+      "tournament": "Asian Cup",
       "team1": "Japan",
       "team2": "Palestine",
       "score1": 4,
       "score2": 0,
-      "rating1": 1737.8974792064973,
-      "rating2": 1261.416967057438,
-      "rating_ev": -28.651354951587564
+      "rating1": 1772.1175458688542,
+      "rating2": 1223.2480826856017,
+      "rating_ev": -24.127222160694828
     },
     {
       "date": "2015-01-16",
       "country": "Australia",
-      "tournament": "AFC Asian Cup",
-      "team1": "Palestine",
-      "team2": "Jordan",
-      "score1": 1,
-      "score2": 5,
-      "rating1": 1221.073268113591,
-      "rating2": 1518.046155515668,
-      "rating_ev": -40.3436989438469
+      "tournament": "Asian Cup",
+      "team1": "Jordan",
+      "team2": "Palestine",
+      "score1": 5,
+      "score2": 1,
+      "rating1": 1520.80115039782,
+      "rating2": 1185.4504051645674,
+      "rating_ev": -37.7976775210343
     },
     {
       "date": "2015-01-20",
       "country": "Australia",
-      "tournament": "AFC Asian Cup",
+      "tournament": "Asian Cup",
       "team1": "Iraq",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1528.5100776530887,
-      "rating2": 1211.024253926974,
-      "rating_ev": -10.049014186616887
+      "rating1": 1518.2400152545158,
+      "rating2": 1176.955940944456,
+      "rating_ev": -8.494464220111468
     },
     {
       "date": "2015-06-11",
       "country": "Saudi Arabia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Saudi Arabia",
       "team2": "Palestine",
       "score1": 3,
       "score2": 2,
-      "rating1": 1461.7491464918778,
-      "rating2": 1217.9862043043258,
-      "rating_ev": 6.961950377351741
+      "rating1": 1452.916033728102,
+      "rating2": 1185.4783071148784,
+      "rating_ev": 8.522366170422401
     },
     {
       "date": "2015-06-16",
       "country": "Malaysia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Malaysia",
       "team2": "Palestine",
       "score1": 0,
       "score2": 6,
-      "rating1": 1048.2983000111135,
-      "rating2": 1293.1757284835905,
-      "rating_ev": 75.18952417926471
+      "rating1": 991.2626608109958,
+      "rating2": 1259.1164082343037,
+      "rating_ev": 73.6381011194253
     },
     {
       "date": "2015-08-31",
@@ -1821,81 +2241,81 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1333.4737210956494,
-      "rating2": 1297.3232717066417,
-      "rating_ev": 4.147543223051116
+      "rating1": 1330.9767036507856,
+      "rating2": 1264.2342455937624,
+      "rating_ev": 5.11783735945869
     },
     {
       "date": "2015-09-08",
       "country": "Palestine",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Palestine",
       "team2": "United Arab Emirates",
       "score1": 0,
       "score2": 0,
-      "rating1": 1314.098544759442,
-      "rating2": 1662.133091805455,
-      "rating_ev": 16.77527305280023
+      "rating1": 1281.588754548114,
+      "rating2": 1638.6731475333943,
+      "rating_ev": 17.35450895435156
     },
     {
       "date": "2015-10-08",
       "country": "East Timor",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Timor-Leste",
+      "tournament": "World Cup and Asian Cup qual",
+      "team1": "East Timor",
       "team2": "Palestine",
-      "score1": 0,
-      "score2": 3,
-      "rating1": 346.1717664947647,
-      "rating2": 1307.9732800733261,
-      "rating_ev": -6.12526468611577
+      "score1": 1,
+      "score2": 1,
+      "rating1": 506.92699095530196,
+      "rating2": 1242.0027461436055,
+      "rating_ev": -39.58600840450845
     },
     {
       "date": "2015-11-09",
       "country": "Jordan",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Palestine",
       "team2": "Saudi Arabia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1320.4262372103506,
-      "rating2": 1505.067880780761,
-      "rating_ev": 12.452957137024441
+      "rating1": 1256.4538620156843,
+      "rating2": 1471.1520668986548,
+      "rating_ev": 14.451115872078844
     },
     {
       "date": "2015-11-12",
       "country": "Jordan",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Palestine",
       "team2": "Malaysia",
       "score1": 6,
       "score2": 0,
-      "rating1": 1374.8629613800135,
-      "rating2": 913.6194937876276,
-      "rating_ev": 54.436724169662966
+      "rating1": 1312.1652912936072,
+      "rating2": 870.5859819634738,
+      "rating_ev": 55.71142927792289
     },
     {
       "date": "2016-03-24",
       "country": "United Arab Emirates",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "United Arab Emirates",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1665.6526322177167,
-      "rating2": 1369.7772461305476,
-      "rating_ev": -5.08571524946592
+      "rating1": 1646.069430205557,
+      "rating2": 1309.7244558608509,
+      "rating_ev": -2.44083543275633
     },
     {
       "date": "2016-03-29",
       "country": "Palestine",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Palestine",
-      "team2": "Timor-Leste",
+      "team2": "East Timor",
       "score1": 7,
       "score2": 0,
-      "rating1": 1390.6138787966886,
-      "rating2": 241.76682481469788,
-      "rating_ev": 20.836632666140986
+      "rating1": 1340.1247039963246,
+      "rating2": 393.9073168521286,
+      "rating_ev": 30.400248135473703
     },
     {
       "date": "2016-09-06",
@@ -1905,9 +2325,9 @@
       "team2": "Tajikistan",
       "score1": 1,
       "score2": 1,
-      "rating1": 1379.935570277883,
-      "rating2": 1136.043354310795,
-      "rating_ev": -10.67830851880558
+      "rating1": 1329.4901048452823,
+      "rating2": 1087.009788811497,
+      "rating_ev": -10.634599151042266
     },
     {
       "date": "2016-10-05",
@@ -1917,9 +2337,9 @@
       "team2": "Palestine",
       "score1": 3,
       "score2": 3,
-      "rating1": 1140.4569364885842,
-      "rating2": 1375.5219881000937,
-      "rating_ev": -4.413582177789294
+      "rating1": 1091.3820568689289,
+      "rating2": 1325.1178367878504,
+      "rating_ev": -4.372268057431938
     },
     {
       "date": "2016-11-10",
@@ -1929,33 +2349,33 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1336.9560147767538,
-      "rating2": 1377.2423051760588,
-      "rating_ev": 1.720317075965113
+      "rating1": 1328.5259518081778,
+      "rating2": 1328.1300881451334,
+      "rating_ev": 3.0122513572830485
     },
     {
       "date": "2017-03-22",
       "country": "Qatar",
       "tournament": "Friendly",
-      "team1": "Yemen",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1160.4753123500939,
-      "rating2": 1377.7966267648274,
-      "rating_ev": 0.5543215887685164
+      "team1": "Palestine",
+      "team2": "Yemen",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1330.0286467940957,
+      "rating2": 1155.6182158027636,
+      "rating_ev": 1.8985586489623074
     },
     {
       "date": "2017-03-28",
       "country": "Maldives",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Maldives",
       "team2": "Palestine",
       "score1": 0,
       "score2": 3,
-      "rating1": 828.5053446754049,
-      "rating2": 1393.349804749627,
-      "rating_ev": 15.553177984799731
+      "rating1": 776.0363104870887,
+      "rating2": 1345.312642022745,
+      "rating_ev": 15.283995228649246
     },
     {
       "date": "2017-06-06",
@@ -1965,57 +2385,57 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 2,
-      "rating1": 1354.2449680886398,
-      "rating2": 1409.2949869830422,
-      "rating_ev": 15.945182233415153
+      "rating1": 1342.8992036410336,
+      "rating2": 1362.3872616354154,
+      "rating_ev": 17.074619612670404
     },
     {
       "date": "2017-06-13",
       "country": "Palestine",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Palestine",
       "team2": "Oman",
       "score1": 2,
       "score2": 1,
-      "rating1": 1418.1245162060159,
-      "rating2": 1409.1219622176984,
-      "rating_ev": 8.829529222973633
+      "rating1": 1374.5454762144182,
+      "rating2": 1414.64655275445,
+      "rating_ev": 12.158214579002788
     },
     {
       "date": "2017-09-05",
       "country": "Bhutan",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Bhutan",
       "team2": "Palestine",
       "score1": 0,
       "score2": 2,
-      "rating1": 206.13024407194652,
-      "rating2": 1388.0956156268335,
-      "rating_ev": -30.028900579182334
+      "rating1": 169.4182019162579,
+      "rating2": 1344.7775251984478,
+      "rating_ev": -29.76795101597034
     },
     {
       "date": "2017-10-10",
       "country": "Palestine",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Palestine",
       "team2": "Bhutan",
       "score1": 10,
       "score2": 0,
-      "rating1": 1428.0166770416968,
-      "rating2": 166.2091826570832,
-      "rating_ev": 39.92106141486329
+      "rating1": 1384.9510554151352,
+      "rating2": 129.24467169957046,
+      "rating_ev": 40.17353021668737
     },
     {
       "date": "2017-11-14",
       "country": "Palestine",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Palestine",
       "team2": "Maldives",
       "score1": 8,
       "score2": 1,
-      "rating1": 1471.1118655876696,
-      "rating2": 757.2322743306561,
-      "rating_ev": 43.09518854597286
+      "rating1": 1427.9512046993837,
+      "rating2": 712.4428508868275,
+      "rating_ev": 43.00014928424844
     },
     {
       "date": "2018-03-22",
@@ -2025,21 +2445,21 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1379.731513190929,
-      "rating2": 1471.208886894166,
-      "rating_ev": 0.09702130649634455
+      "rating1": 1369.3840877916284,
+      "rating2": 1429.0563107117607,
+      "rating_ev": 1.105106012377064
     },
     {
       "date": "2018-03-27",
       "country": "Oman",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Oman",
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1478.161404858068,
-      "rating2": 1462.8100040967681,
-      "rating_ev": -8.398882797397846
+      "rating1": 1474.470648976029,
+      "rating2": 1423.1001733913595,
+      "rating_ev": -5.95613732040124
     },
     {
       "date": "2018-05-08",
@@ -2049,9 +2469,9 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1576.1212830625573,
-      "rating2": 1469.1993919013555,
-      "rating_ev": 6.389387804587386
+      "rating1": 1548.4209559507333,
+      "rating2": 1429.8571733219017,
+      "rating_ev": 6.756999930542179
     },
     {
       "date": "2018-05-11",
@@ -2061,9 +2481,9 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1371.1214482073153,
-      "rating2": 1454.85098969746,
-      "rating_ev": -14.348402203895603
+      "rating1": 1426.2806892063527,
+      "rating2": 1418.4128398989856,
+      "rating_ev": -11.444333422916088
     },
     {
       "date": "2018-08-04",
@@ -2073,9 +2493,21 @@
       "team2": "Iraq",
       "score1": 0,
       "score2": 3,
-      "rating1": 1435.2541100374333,
-      "rating2": 1595.7181627225839,
-      "rating_ev": -19.596879660026616
+      "rating1": 1399.0754880980742,
+      "rating2": 1567.7583077516447,
+      "rating_ev": -19.337351800911392
+    },
+    {
+      "date": "2018-08-19",
+      "country": "Afghanistan",
+      "tournament": "Friendly",
+      "team1": "Afghanistan",
+      "team2": "Palestine",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1008.8459864117299,
+      "rating2": 1390.191027151411,
+      "rating_ev": -8.884460946663125
     },
     {
       "date": "2018-09-06",
@@ -2085,9 +2517,9 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1119.624481012195,
-      "rating2": 1428.56244856348,
-      "rating_ev": -6.691661473953218
+      "rating1": 1068.0107925552197,
+      "rating2": 1383.3051531004478,
+      "rating_ev": -6.885874050963139
     },
     {
       "date": "2018-09-11",
@@ -2097,9 +2529,57 @@
       "team2": "Palestine",
       "score1": 3,
       "score2": 0,
-      "rating1": 1513.6222805702182,
-      "rating2": 1413.0674206436056,
-      "rating_ev": -15.495027919874474
+      "rating1": 1529.8814018646171,
+      "rating2": 1369.6966885274337,
+      "rating_ev": -13.60846457301409
+    },
+    {
+      "date": "2018-10-04",
+      "country": "Bangladesh",
+      "tournament": "Bangabandhu Gold Cup",
+      "team1": "Palestine",
+      "team2": "Tajikistan",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1380.8565000296617,
+      "rating2": 1080.2849051686044,
+      "rating_ev": 11.159811502227967
+    },
+    {
+      "date": "2018-10-06",
+      "country": "Bangladesh",
+      "tournament": "Bangabandhu Gold Cup",
+      "team1": "Palestine",
+      "team2": "Nepal",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1356.5365311833423,
+      "rating2": 731.1549703285924,
+      "rating_ev": -24.319968846319398
+    },
+    {
+      "date": "2018-10-10",
+      "country": "Bangladesh",
+      "tournament": "Bangabandhu Gold Cup",
+      "team1": "Bangladesh",
+      "team2": "Palestine",
+      "score1": 0,
+      "score2": 2,
+      "rating1": 517.4904855940418,
+      "rating2": 1342.7547039564613,
+      "rating_ev": -13.781827226880921
+    },
+    {
+      "date": "2018-10-12",
+      "country": "Bangladesh",
+      "tournament": "Bangabandhu Gold Cup",
+      "team1": "Palestine",
+      "team2": "Tajikistan",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1328.6098837021711,
+      "rating2": 1118.5309627175714,
+      "rating_ev": -14.144820254290153
     },
     {
       "date": "2018-11-16",
@@ -2109,21 +2589,21 @@
       "team2": "Pakistan",
       "score1": 2,
       "score2": 1,
-      "rating1": 1399.0969462096268,
-      "rating2": 792.1031846562015,
-      "rating_ev": -13.97047443397878
+      "rating1": 1316.4118577084162,
+      "rating2": 772.9713897052296,
+      "rating_ev": -12.198025993754982
     },
     {
       "date": "2018-11-20",
-      "country": "China PR",
+      "country": "China",
       "tournament": "Friendly",
-      "team1": "China PR",
+      "team1": "China",
       "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1511.0819696478322,
-      "rating2": 1405.445712687287,
-      "rating_ev": 6.348766477660092
+      "rating1": 1463.7927759010902,
+      "rating2": 1323.8429782682413,
+      "rating_ev": 7.4311205598251036
     },
     {
       "date": "2018-12-16",
@@ -2133,21 +2613,21 @@
       "team2": "Pakistan",
       "score1": 2,
       "score2": 0,
-      "rating1": 1401.7004282378887,
-      "rating2": 795.8484691055997,
-      "rating_ev": -3.745284449398241
+      "rating1": 1321.7604988367625,
+      "rating2": 775.0538691367083,
+      "rating_ev": -2.0824794314787596
     },
     {
       "date": "2018-12-24",
       "country": "Qatar",
       "tournament": "Friendly",
-      "team1": "Palestine",
-      "team2": "Iran",
+      "team1": "Iran",
+      "team2": "Palestine",
       "score1": 1,
       "score2": 1,
-      "rating1": 1413.7498677516721,
-      "rating2": 1800.9672259215158,
-      "rating_ev": 12.049439513783454
+      "rating1": 1785.1267735137912,
+      "rating2": 1335.6503934220718,
+      "rating_ev": 13.889894585309321
     },
     {
       "date": "2018-12-28",
@@ -2157,9 +2637,9 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1581.886365024489,
-      "rating2": 1411.7179718880193,
-      "rating_ev": -2.031895863652835
+      "rating1": 1551.2469306988387,
+      "rating2": 1335.0606318030586,
+      "rating_ev": -0.5897616190131885
     },
     {
       "date": "2018-12-31",
@@ -2169,45 +2649,45 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1170.6494788314149,
-      "rating2": 1397.16426497997,
-      "rating_ev": -14.553706908049207
+      "rating1": 1128.3003244218826,
+      "rating2": 1321.5419771184468,
+      "rating_ev": -13.518654684611874
     },
     {
       "date": "2019-01-06",
       "country": "United Arab Emirates",
-      "tournament": "AFC Asian Cup",
-      "team1": "Syria",
-      "team2": "Palestine",
+      "tournament": "Asian Cup",
+      "team1": "Palestine",
+      "team2": "Syria",
       "score1": 0,
       "score2": 0,
-      "rating1": 1567.5460749792653,
-      "rating2": 1407.943998616793,
-      "rating_ev": 10.779733636822812
+      "rating1": 1336.4116489532707,
+      "rating2": 1557.4295885675829,
+      "rating_ev": 14.869671834823976
     },
     {
       "date": "2019-01-11",
       "country": "United Arab Emirates",
-      "tournament": "AFC Asian Cup",
-      "team1": "Palestine",
-      "team2": "Australia",
-      "score1": 0,
-      "score2": 3,
-      "rating1": 1387.0573377315825,
-      "rating2": 1766.3213309347977,
-      "rating_ev": -20.886660885210404
+      "tournament": "Asian Cup",
+      "team1": "Australia",
+      "team2": "Palestine",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1764.5744237038987,
+      "rating2": 1319.7364175140654,
+      "rating_ev": -16.67523143920539
     },
     {
       "date": "2019-01-15",
       "country": "United Arab Emirates",
-      "tournament": "AFC Asian Cup",
-      "team1": "Palestine",
-      "team2": "Jordan",
+      "tournament": "Asian Cup",
+      "team1": "Jordan",
+      "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1393.7910669690798,
-      "rating2": 1493.2282709832352,
-      "rating_ev": 6.7337292374973
+      "rating1": 1480.8630115369517,
+      "rating2": 1329.934905196754,
+      "rating_ev": 10.198487682688665
     },
     {
       "date": "2019-06-11",
@@ -2217,69 +2697,165 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 2,
-      "rating1": 1225.9850982736198,
-      "rating2": 1391.5501253489822,
-      "rating_ev": -2.240941620097601
+      "rating1": 1183.2871699296388,
+      "rating2": 1328.3394329324303,
+      "rating_ev": -1.5954722643236892
+    },
+    {
+      "date": "2019-07-30",
+      "country": "Iraq",
+      "tournament": "West Asian Championship",
+      "team1": "Palestine",
+      "team2": "Yemen",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1326.0590238798943,
+      "rating2": 1056.47251729923,
+      "rating_ev": -2.2804090525360152
+    },
+    {
+      "date": "2019-08-02",
+      "country": "Iraq",
+      "tournament": "West Asian Championship",
+      "team1": "Iraq",
+      "team2": "Palestine",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1554.466452175911,
+      "rating2": 1331.6343867147716,
+      "rating_ev": 5.575362834877296
+    },
+    {
+      "date": "2019-08-05",
+      "country": "Iraq",
+      "tournament": "West Asian Championship",
+      "team1": "Lebanon",
+      "team2": "Palestine",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1402.2691175313278,
+      "rating2": 1336.1181865187123,
+      "rating_ev": 4.483799803940656
+    },
+    {
+      "date": "2019-08-11",
+      "country": "Iraq",
+      "tournament": "West Asian Championship",
+      "team1": "Palestine",
+      "team2": "Syria",
+      "score1": 4,
+      "score2": 3,
+      "rating1": 1355.5809862373137,
+      "rating2": 1408.9847729416317,
+      "rating_ev": 19.462799718601445
     },
     {
       "date": "2019-09-05",
       "country": "Palestine",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Palestine",
       "team2": "Uzbekistan",
       "score1": 2,
       "score2": 0,
-      "rating1": 1427.9438917697473,
-      "rating2": 1597.921759126708,
-      "rating_ev": 36.39376642076513
+      "rating1": 1392.7184408681328,
+      "rating2": 1573.9294424351606,
+      "rating_ev": 37.13745463081909
     },
     {
       "date": "2019-09-10",
       "country": "Singapore",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Singapore",
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1031.3566772501267,
-      "rating2": 1394.4793042196738,
-      "rating_ev": -33.46458755007359
+      "rating1": 1050.944578701185,
+      "rating2": 1362.5374963254035,
+      "rating_ev": -30.18094454272932
     },
     {
       "date": "2019-10-15",
       "country": "Palestine",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Palestine",
       "team2": "Saudi Arabia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1397.8241837950034,
-      "rating2": 1541.9748726917855,
-      "rating_ev": 3.3448795753295144
+      "rating1": 1364.1056326692246,
+      "rating2": 1481.871634418409,
+      "rating_ev": 1.568136343821152
     },
     {
       "date": "2019-11-14",
       "country": "Bahrain",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Yemen",
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1099.1487011706627,
-      "rating2": 1364.2762683491933,
-      "rating_ev": -33.54791544581008
+      "rating1": 1147.8440834302096,
+      "rating2": 1335.6347616487644,
+      "rating_ev": -28.47087102046021
     },
     {
       "date": "2019-11-19",
       "country": "Uzbekistan",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Uzbekistan",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1610.001911496,
-      "rating2": 1356.3991073705179,
-      "rating_ev": -7.87716097867542
+      "rating1": 1587.6578603793146,
+      "rating2": 1328.1491914013325,
+      "rating_ev": -7.485570247431951
+    },
+    {
+      "date": "2020-01-15",
+      "country": "Bangladesh",
+      "tournament": "Bangabandhu Gold Cup",
+      "team1": "Bangladesh",
+      "team2": "Palestine",
+      "score1": 0,
+      "score2": 2,
+      "rating1": 627.5689938730742,
+      "rating2": 1321.4581664743125,
+      "rating_ev": -6.691024927020067
+    },
+    {
+      "date": "2020-01-17",
+      "country": "Bangladesh",
+      "tournament": "Bangabandhu Gold Cup",
+      "team1": "Palestine",
+      "team2": "Sri Lanka",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1300.048959264164,
+      "rating2": 447.18375697622776,
+      "rating_ev": -21.409207210148452
+    },
+    {
+      "date": "2020-01-22",
+      "country": "Bangladesh",
+      "tournament": "Bangabandhu Gold Cup",
+      "team1": "Palestine",
+      "team2": "Seychelles",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1285.1115692710944,
+      "rating2": 817.5560112012404,
+      "rating_ev": -14.9373899930697
+    },
+    {
+      "date": "2020-01-25",
+      "country": "Bangladesh",
+      "tournament": "Bangabandhu Gold Cup",
+      "team1": "Palestine",
+      "team2": "Burundi",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1308.0691478983229,
+      "rating2": 1183.8283467975366,
+      "rating_ev": 22.957578627228486
     },
     {
       "date": "2021-01-18",
@@ -2289,81 +2865,81 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 1,
-      "rating1": 1386.227480710021,
-      "rating2": 1367.4159572414433,
-      "rating_ev": 11.016849870925398
+      "rating1": 1415.0805115461403,
+      "rating2": 1321.456024287909,
+      "rating_ev": 13.386876389586178
     },
     {
       "date": "2021-03-30",
       "country": "Saudi Arabia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Saudi Arabia",
       "team2": "Palestine",
       "score1": 5,
       "score2": 0,
-      "rating1": 1630.1939617842127,
-      "rating2": 1321.2276129689794,
-      "rating_ev": -46.18834427246384
+      "rating1": 1596.932216103414,
+      "rating2": 1276.0596766842393,
+      "rating_ev": -45.39634760366971
     },
     {
       "date": "2021-06-03",
       "country": "Saudi Arabia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Palestine",
       "team2": "Singapore",
       "score1": 4,
       "score2": 0,
-      "rating1": 1359.0999130667835,
-      "rating2": 1024.878536532252,
-      "rating_ev": 37.8723000978041
+      "rating1": 1317.34910851387,
+      "rating2": 1034.5575266480207,
+      "rating_ev": 41.28943182963076
     },
     {
       "date": "2021-06-15",
       "country": "Saudi Arabia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Palestine",
       "team2": "Yemen",
       "score1": 3,
       "score2": 0,
-      "rating1": 1383.2638685554189,
-      "rating2": 1054.154388606291,
-      "rating_ev": 24.163955488635338
+      "rating1": 1345.6168077668553,
+      "rating2": 1078.4610293525923,
+      "rating_ev": 28.267699252985267
     },
     {
       "date": "2021-06-24",
       "country": "Qatar",
-      "tournament": "Arab Cup qualification",
+      "tournament": "Arab Cup qualifier",
       "team1": "Palestine",
       "team2": "Comoros",
       "score1": 5,
       "score2": 1,
-      "rating1": 1422.9600691730998,
-      "rating2": 1116.2558663710543,
-      "rating_ev": 39.696200617680915
+      "rating1": 1391.8291518624135,
+      "rating2": 1182.3491510273304,
+      "rating_ev": 46.21234409555814
     },
     {
       "date": "2021-09-02",
       "country": "Kyrgyzstan",
-      "tournament": "Three Nations Cup",
+      "tournament": "Friendly tournament",
       "team1": "Kyrgyzstan",
       "team2": "Palestine",
       "score1": 1,
       "score2": 0,
-      "rating1": 1250.7358062651022,
-      "rating2": 1403.230965141494,
-      "rating_ev": -19.729104031605857
+      "rating1": 1216.0869648444727,
+      "rating2": 1371.8796404771438,
+      "rating_ev": -19.949511385269943
     },
     {
       "date": "2021-09-05",
       "country": "Kyrgyzstan",
-      "tournament": "Three Nations Cup",
-      "team1": "Bangladesh",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 676.2567265143042,
-      "rating2": 1389.2100834106425,
-      "rating_ev": -14.020881730851443
+      "tournament": "Friendly tournament",
+      "team1": "Palestine",
+      "team2": "Bangladesh",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1359.9538290596372,
+      "rating2": 684.5675254908363,
+      "rating_ev": -11.925811417506566
     },
     {
       "date": "2021-12-01",
@@ -2373,9 +2949,9 @@
       "team2": "Palestine",
       "score1": 4,
       "score2": 0,
-      "rating1": 1808.754014494949,
-      "rating2": 1358.8657330021474,
-      "rating_ev": -30.344350408495075
+      "rating1": 1772.9365757165492,
+      "rating2": 1329.214684654927,
+      "rating_ev": -30.73914440471026
     },
     {
       "date": "2021-12-04",
@@ -2385,9 +2961,9 @@
       "team2": "Saudi Arabia",
       "score1": 1,
       "score2": 1,
-      "rating1": 1377.5241104639033,
-      "rating2": 1656.1828968653233,
-      "rating_ev": 18.65837746175589
+      "rating1": 1348.529402614982,
+      "rating2": 1637.2624255999826,
+      "rating_ev": 19.314717960055077
     },
     {
       "date": "2021-12-07",
@@ -2397,45 +2973,45 @@
       "team2": "Palestine",
       "score1": 5,
       "score2": 1,
-      "rating1": 1523.924056060227,
-      "rating2": 1330.2448887142534,
-      "rating_ev": -47.27922174964988
+      "rating1": 1552.0600601865347,
+      "rating2": 1304.8565738943096,
+      "rating_ev": -43.67282872067244
     },
     {
       "date": "2022-06-08",
       "country": "Mongolia",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Mongolia",
       "team2": "Palestine",
       "score1": 0,
       "score2": 1,
-      "rating1": 617.575340785411,
-      "rating2": 1308.514140043857,
-      "rating_ev": -21.73074867039645
+      "rating1": 561.7161222059503,
+      "rating2": 1281.5406659655196,
+      "rating_ev": -23.31590792879001
     },
     {
       "date": "2022-06-11",
       "country": "Mongolia",
-      "tournament": "AFC Asian Cup qualification",
-      "team1": "Yemen",
-      "team2": "Palestine",
-      "score1": 0,
-      "score2": 5,
-      "rating1": 997.7046463477254,
-      "rating2": 1357.706754943518,
-      "rating_ev": 49.192614899661066
+      "tournament": "Asian Cup qualifier",
+      "team1": "Palestine",
+      "team2": "Yemen",
+      "score1": 5,
+      "score2": 0,
+      "rating1": 1333.2350426997532,
+      "rating2": 1010.9592355641814,
+      "rating_ev": 51.69437673423363
     },
     {
       "date": "2022-06-14",
       "country": "Mongolia",
-      "tournament": "AFC Asian Cup qualification",
+      "tournament": "Asian Cup qualifier",
       "team1": "Palestine",
       "team2": "Philippines",
       "score1": 4,
       "score2": 0,
-      "rating1": 1392.726692466357,
-      "rating2": 1015.115522889294,
-      "rating_ev": 35.01993752283897
+      "rating1": 1366.3614357499027,
+      "rating2": 959.6683035683768,
+      "rating_ev": 33.126393050149545
     },
     {
       "date": "2023-03-25",
@@ -2445,9 +3021,9 @@
       "team2": "Palestine",
       "score1": 1,
       "score2": 2,
-      "rating1": 1439.1644232443289,
-      "rating2": 1404.2543885461926,
-      "rating_ev": 11.52769607983555
+      "rating1": 1447.8219301949002,
+      "rating2": 1378.9649976738726,
+      "rating_ev": 12.603561923969892
     },
     {
       "date": "2023-06-14",
@@ -2457,21 +3033,21 @@
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1136.3138499707384,
-      "rating2": 1398.985225268527,
-      "rating_ev": -5.269163277665484
+      "rating1": 1212.4878387294348,
+      "rating2": 1376.7645459655132,
+      "rating_ev": -2.2004517083594237
     },
     {
       "date": "2023-06-20",
-      "country": "China PR",
+      "country": "China",
       "tournament": "Friendly",
-      "team1": "China PR",
+      "team1": "China",
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1512.505665635226,
-      "rating2": 1391.141358852373,
-      "rating_ev": -7.843866416154015
+      "rating1": 1474.8274635096493,
+      "rating2": 1368.446461807934,
+      "rating_ev": -8.318084157579278
     },
     {
       "date": "2023-09-06",
@@ -2481,9 +3057,9 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 1,
-      "rating1": 1509.1290021219081,
-      "rating2": 1390.4835262017027,
-      "rating_ev": -0.6578326506703434
+      "rating1": 1501.5862069911407,
+      "rating2": 1368.252466451678,
+      "rating_ev": -0.1939953562559822
     },
     {
       "date": "2023-09-11",
@@ -2493,33 +3069,57 @@
       "team2": "Palestine",
       "score1": 2,
       "score2": 0,
-      "rating1": 1413.0122848351527,
-      "rating2": 1379.8427876639707,
-      "rating_ev": -10.640738537731977
+      "rating1": 1394.965980008494,
+      "rating2": 1357.7405405264808,
+      "rating_ev": -10.511925925197147
     },
     {
       "date": "2023-11-16",
       "country": "United Arab Emirates",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
       "team1": "Lebanon",
       "team2": "Palestine",
       "score1": 0,
       "score2": 0,
-      "rating1": 1279.3761137414037,
-      "rating2": 1373.4698026815804,
-      "rating_ev": -6.372984982390335
+      "rating1": 1236.5072324186474,
+      "rating2": 1350.0551458512114,
+      "rating_ev": -7.6853946752694355
     },
     {
       "date": "2023-11-21",
       "country": "Kuwait",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and Asian Cup qual",
+      "team1": "Australia",
+      "team2": "Palestine",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1820.6459048857755,
+      "rating2": 1364.2997099883123,
+      "rating_ev": 14.244564137100951
+    },
+    {
+      "date": "2024-01-07",
+      "country": "Qatar",
+      "tournament": "Friendly",
+      "team1": "Uzbekistan",
+      "team2": "Palestine",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1651.984796928797,
+      "rating2": 1365.879203820604,
+      "rating_ev": 1.579493832291746
+    },
+    {
+      "date": "2024-01-09",
+      "country": "Qatar",
+      "tournament": "Friendly",
       "team1": "Palestine",
-      "team2": "Australia",
+      "team2": "Saudi Arabia",
       "score1": 0,
-      "score2": 1,
-      "rating1": 1386.6334339032962,
-      "rating2": 1825.5934685795187,
-      "rating_ev": 13.163631221715832
+      "score2": 0,
+      "rating1": 1372.370307667431,
+      "rating2": 1577.9378366508104,
+      "rating_ev": 6.491103846826945
     }
   ]
 }
