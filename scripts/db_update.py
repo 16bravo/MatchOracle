@@ -207,7 +207,7 @@ for index, row in matches.iterrows():
     cursor.execute('''
         INSERT INTO matches (date, country, tournament, team1, team2, score1, score2, rating1, rating2, rating_ev)
         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    ''', (row['date'] row['country'], row['tournament'], row['home_team'], row['away_team'], row['home_score'], row['away_score'],
+    ''', (row['date'], row['country'], row['tournament'], row['home_team'], row['away_team'], row['home_score'], row['away_score'],
           row['home_points_after'], row['away_points_after'],
           row['home_points_after'] - row['home_points_before']))
 
