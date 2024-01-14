@@ -2,52 +2,40 @@
   "team": "Eswatini",
   "matches": [
     {
-      "date": "1968-05-01",
-      "country": "Eswatini",
-      "tournament": "Friendly",
-      "team1": "Eswatini",
-      "team2": "Malawi",
-      "score1": 2,
-      "score2": 0,
-      "rating1": 1067.2088440959833,
-      "rating2": 957.3778087986803,
-      "rating_ev": 8.208844095983295
-    },
-    {
       "date": "1968-07-20",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Malawi",
       "score1": 2,
       "score2": 0,
-      "rating1": 1076.4450427071283,
-      "rating2": 999.0304049217747,
-      "rating_ev": 9.236198611145028
+      "rating1": 1066.3198291735107,
+      "rating2": 928.3764247643688,
+      "rating_ev": 7.319829173510698
     },
     {
       "date": "1969-07-06",
       "country": "Malawi",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Malawi",
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 1013.9002647918489,
-      "rating2": 1056.4094082979523,
-      "rating_ev": -20.03563440917594
+      "rating1": 975.7963999778897,
+      "rating2": 1023.2118856603728,
+      "rating_ev": -43.10794351313791
     },
     {
       "date": "1973-08-06",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Malawi",
       "score1": 0,
       "score2": 1,
-      "rating1": 1049.373891837257,
-      "rating2": 1156.0132859908372,
-      "rating_ev": -7.035516460695362
+      "rating1": 1014.4550727771672,
+      "rating2": 1066.8132080773844,
+      "rating_ev": -8.756812883205612
     },
     {
       "date": "1975-12-20",
@@ -57,9 +45,9 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1297.7432433532947,
-      "rating2": 1045.6337899718226,
-      "rating_ev": -3.740101865434326
+      "rating1": 1251.3437722486715,
+      "rating2": 1010.368642238733,
+      "rating_ev": -4.0864305384343425
     },
     {
       "date": "1975-12-22",
@@ -69,9 +57,21 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1287.4483836889062,
-      "rating2": 1055.928649636211,
-      "rating_ev": 10.294859664388468
+      "rating1": 1241.3745330562776,
+      "rating2": 1020.3378814311269,
+      "rating_ev": 9.969239192393843
+    },
+    {
+      "date": "1978-02-04",
+      "country": "Zambia",
+      "tournament": "Friendly",
+      "team1": "Zambia",
+      "team2": "Eswatini",
+      "score1": 9,
+      "score2": 1,
+      "rating1": 1588.7883287748095,
+      "rating2": 992.2920988416028,
+      "rating_ev": -28.04578258952415
     },
     {
       "date": "1978-02-05",
@@ -81,237 +81,321 @@
       "team2": "Eswatini",
       "score1": 11,
       "score2": 2,
-      "rating1": 1578.5501985651272,
-      "rating2": 1022.8366311169092,
-      "rating_ev": -33.09201851930197
+      "rating1": 1618.9915230857596,
+      "rating2": 962.0889045306527,
+      "rating_ev": -30.20319431095004
     },
     {
-      "date": "1978-09-06",
-      "country": "Eswatini",
+      "date": "1978-08-26",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Zambia",
       "score1": 1,
       "score2": 6,
-      "rating1": 1003.958274715996,
-      "rating2": 1607.1645935757958,
-      "rating_ev": -18.878356400913162
+      "rating1": 945.7455504459398,
+      "rating2": 1640.3327917611202,
+      "rating_ev": -16.343354084712928
     },
     {
-      "date": "1978-09-07",
-      "country": "Eswatini",
+      "date": "1978-08-27",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Zambia",
       "score1": 2,
       "score2": 5,
-      "rating1": 998.0403982792328,
-      "rating2": 1613.082470012559,
-      "rating_ev": -5.917876436763208
+      "rating1": 942.1943988863669,
+      "rating2": 1643.883943320693,
+      "rating_ev": -3.5511515595728724
     },
     {
       "date": "1981-04-18",
       "country": "Zimbabwe",
-      "tournament": "Friendly",
-      "team1": "Eswatini",
-      "team2": "Zambia",
-      "score1": 1,
-      "score2": 6,
-      "rating1": 982.5182510292287,
-      "rating2": 1599.0853540706776,
-      "rating_ev": -15.522147250004082
+      "tournament": "Friendly tournament",
+      "team1": "Zambia",
+      "team2": "Eswatini",
+      "score1": 6,
+      "score2": 1,
+      "rating1": 1579.9137829183637,
+      "rating2": 912.332369075109,
+      "rating_ev": -29.8620298112578
     },
     {
       "date": "1981-09-04",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 1,
       "score2": 1,
-      "rating1": 980.343186310572,
-      "rating2": 1006.307212176963,
-      "rating_ev": -2.1750647186566994
+      "rating1": 914.6750649242133,
+      "rating2": 1043.9330076414865,
+      "rating_ev": 2.3426958491043024
     },
     {
       "date": "1981-09-05",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Zimbabwe",
       "score1": 0,
       "score2": 2,
-      "rating1": 978.0305692761167,
-      "rating2": 1475.6703844007059,
-      "rating_ev": -2.312617034455343
+      "rating1": 917.0711845801762,
+      "rating2": 1536.0384209466313,
+      "rating_ev": 2.3961196559629343
     },
     {
       "date": "1981-09-06",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Malawi",
       "score1": 0,
       "score2": 0,
-      "rating1": 989.4363057539007,
-      "rating2": 1456.0791323583296,
-      "rating_ev": 11.40573647778399
+      "rating1": 945.1079518023878,
+      "rating2": 1475.040370322207,
+      "rating_ev": 28.03676722221155
     },
     {
       "date": "1984-07-01",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 3,
       "score2": 1,
-      "rating1": 1000.5276981638797,
-      "rating2": 981.5471674434108,
-      "rating_ev": 11.091392409978994
+      "rating1": 957.9368822829176,
+      "rating2": 993.6891684145965,
+      "rating_ev": 12.828930480529834
     },
     {
       "date": "1984-10-14",
       "country": "Zimbabwe",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Zimbabwe",
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 1437.6649032633316,
-      "rating2": 990.3644180532109,
-      "rating_ev": -10.163280110668666
+      "rating1": 1441.9233868996769,
+      "rating2": 950.5369255778321,
+      "rating_ev": -7.399956705085515
     },
     {
       "date": "1984-11-04",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Zimbabwe",
       "score1": 1,
       "score2": 5,
-      "rating1": 957.647196683544,
-      "rating2": 1470.3821246329983,
-      "rating_ev": -32.717221369666845
+      "rating1": 920.2618534528765,
+      "rating2": 1472.1984590246325,
+      "rating_ev": -30.275072124955614
     },
     {
       "date": "1986-04-26",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Botswana",
       "score1": 0,
       "score2": 1,
-      "rating1": 946.6200763674191,
-      "rating2": 927.4849892435377,
-      "rating_ev": -11.027120316124979
+      "rating1": 909.4328042739671,
+      "rating2": 896.5372573708976,
+      "rating_ev": -10.829049178909372
+    },
+    {
+      "date": "1987-01-04",
+      "country": "Swaziland",
+      "tournament": "African Games qualifier",
+      "team1": "Eswatini",
+      "team2": "Malawi",
+      "score1": 1,
+      "score2": 3,
+      "rating1": 909.1838178735205,
+      "rating2": 1483.4288278432703,
+      "rating_ev": -0.24898640044659714
+    },
+    {
+      "date": "1987-01-18",
+      "country": "Malawi",
+      "tournament": "African Games qualifier",
+      "team1": "Malawi",
+      "team2": "Eswatini",
+      "score1": 6,
+      "score2": 1,
+      "rating1": 1509.4330258143154,
+      "rating2": 883.1796199024753,
+      "rating_ev": -26.004197971045187
+    },
+    {
+      "date": "1987-06-07",
+      "country": "Swaziland",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Eswatini",
+      "team2": "Zimbabwe",
+      "score1": 0,
+      "score2": 2,
+      "rating1": 882.3725784870752,
+      "rating2": 1447.305955343365,
+      "rating_ev": -0.8070414154001355
+    },
+    {
+      "date": "1987-06-21",
+      "country": "Zimbabwe",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Zimbabwe",
+      "team2": "Eswatini",
+      "score1": 6,
+      "score2": 1,
+      "rating1": 1494.4388429065846,
+      "rating2": 857.033319174183,
+      "rating_ev": -25.33925931289218
+    },
+    {
+      "date": "1987-07-31",
+      "country": "Botswana",
+      "tournament": "Friendly",
+      "team1": "Botswana",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 913.579630887035,
+      "rating2": 854.4892673006786,
+      "rating_ev": -2.5440518735043725
     },
     {
       "date": "1988-10-01",
       "country": "Tanzania",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Tanzania",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1212.6988424828048,
-      "rating2": 969.3469759349655,
-      "rating_ev": 22.726899567546297
+      "rating1": 1172.9450411135729,
+      "rating2": 880.4233345536092,
+      "rating_ev": 25.93406725293039
     },
     {
       "date": "1988-10-16",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Tanzania",
       "score1": 1,
       "score2": 1,
-      "rating1": 978.142519870536,
-      "rating2": 1203.9032985472343,
-      "rating_ev": 8.79554393557055
+      "rating1": 892.0837722026353,
+      "rating2": 1161.2846034645468,
+      "rating_ev": 11.660437649026107
     },
     {
       "date": "1989-04-09",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Malawi",
       "score1": 0,
       "score2": 2,
-      "rating1": 969.8681434701083,
-      "rating2": 1413.742519500934,
-      "rating_ev": -8.274376400427741
+      "rating1": 892.9580895654921,
+      "rating2": 1486.0741480406996,
+      "rating_ev": 0.8743173628568002
+    },
+    {
+      "date": "1989-04-19",
+      "country": "Swaziland",
+      "tournament": "Friendly",
+      "team1": "Eswatini",
+      "team2": "Zambia",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 917.918403957329,
+      "rating2": 1608.0813824923716,
+      "rating_ev": 24.96031439183696
     },
     {
       "date": "1989-04-23",
       "country": "Malawi",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Malawi",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1382.176032034478,
-      "rating2": 1001.4346309365641,
-      "rating_ev": 31.566487466455783
+      "rating1": 1447.707489572825,
+      "rating2": 956.2850624252037,
+      "rating_ev": 38.366658467874686
     },
     {
       "date": "1990-01-20",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "SADCC Tournament",
       "team1": "Eswatini",
       "team2": "Botswana",
       "score1": 3,
       "score2": 1,
-      "rating1": 1011.7362203697435,
-      "rating2": 967.8874101244071,
-      "rating_ev": 10.301589433179402
+      "rating1": 979.2756045602464,
+      "rating2": 950.0211259999174,
+      "rating_ev": 22.990542135042688
     },
     {
       "date": "1990-01-21",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "SADCC Tournament",
       "team1": "Eswatini",
       "team2": "Tanzania",
       "score1": 0,
       "score2": 1,
-      "rating1": 1005.0385449678389,
-      "rating2": 1122.352678296507,
-      "rating_ev": -6.697675401904576
+      "rating1": 968.3968657388693,
+      "rating2": 1136.4380512013233,
+      "rating_ev": -10.878738821377056
     },
     {
-      "date": "1990-05-18",
-      "country": "Zimbabwe",
-      "tournament": "Friendly",
-      "team1": "Zimbabwe",
-      "team2": "Eswatini",
+      "date": "1990-01-23",
+      "country": "Swaziland",
+      "tournament": "SADCC Tournament",
+      "team1": "Eswatini",
+      "team2": "Malawi",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 984.4262850058503,
+      "rating2": 1320.84742825603,
+      "rating_ev": 16.029419266980995
+    },
+    {
+      "date": "1990-04-01",
+      "country": "Zambia",
+      "tournament": "SADCC Tournament",
+      "team1": "Eswatini",
+      "team2": "Zimbabwe",
       "score1": 4,
       "score2": 4,
-      "rating1": 1375.0461616019259,
-      "rating2": 1019.1388540871907,
-      "rating_ev": 14.100309119351778
+      "rating1": 1010.2537904349516,
+      "rating2": 1400.7192174187705,
+      "rating_ev": 25.82750542910128
     },
     {
       "date": "1990-08-12",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Mozambique",
       "score1": 0,
       "score2": 0,
-      "rating1": 1025.6153904403743,
-      "rating2": 1327.5241956908712,
-      "rating_ev": 6.476536353183633
+      "rating1": 1018.19420742663,
+      "rating2": 1368.187810382488,
+      "rating_ev": 7.940416991678376
     },
     {
       "date": "1990-08-19",
       "country": "Zambia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Zambia",
       "team2": "Eswatini",
       "score1": 5,
       "score2": 0,
-      "rating1": 1513.0298330650148,
-      "rating2": 993.1000098410996,
-      "rating_ev": -32.51538059927475
+      "rating1": 1540.4602225061847,
+      "rating2": 987.7199293783572,
+      "rating_ev": -30.47427804827271
     },
     {
       "date": "1990-08-25",
@@ -321,45 +405,45 @@
       "team2": "Eswatini",
       "score1": 3,
       "score2": 2,
-      "rating1": 982.2917905321337,
-      "rating2": 988.4831161976663,
-      "rating_ev": -4.616893643433286
+      "rating1": 985.0738250787703,
+      "rating2": 983.3542830655335,
+      "rating_ev": -4.365646312823628
     },
     {
-      "date": "1990-09-01",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "date": "1990-09-02",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1003.783171397548,
-      "rating2": 1328.889245073298,
-      "rating_ev": 15.30005519988174
+      "rating1": 999.3928612855658,
+      "rating2": 1335.9563508205918,
+      "rating_ev": 16.038578220032264
     },
     {
       "date": "1991-04-14",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Madagascar",
       "score1": 0,
       "score2": 1,
-      "rating1": 1005.2383942487614,
-      "rating2": 1359.9350907007188,
-      "rating_ev": 1.4552228512134207
+      "rating1": 1007.0168989952991,
+      "rating2": 1458.8852901319449,
+      "rating_ev": 7.624037709733329
     },
     {
       "date": "1991-04-28",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Zambia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1039.3405471696558,
-      "rating2": 1412.579279975165,
-      "rating_ev": 34.102152920894355
+      "rating1": 1047.6937591742812,
+      "rating2": 1527.7547803429743,
+      "rating_ev": 40.67686017898211
     },
     {
       "date": "1991-06-22",
@@ -369,21 +453,21 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 1,
-      "rating1": 1302.2029424923594,
-      "rating2": 1043.0815759582304,
-      "rating_ev": 3.7410287885745674
+      "rating1": 1320.406257092801,
+      "rating2": 1051.7301662149519,
+      "rating_ev": 4.0364070406706105
     },
     {
       "date": "1991-07-15",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1315.762527280481,
-      "rating2": 1066.214955274201,
-      "rating_ev": 23.133379315970615
+      "rating1": 1348.1022017491307,
+      "rating2": 1076.3170105063514,
+      "rating_ev": 24.58684429139953
     },
     {
       "date": "1991-09-21",
@@ -393,9 +477,9 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 1,
-      "rating1": 982.6110120955113,
-      "rating2": 1059.3597606790577,
-      "rating_ev": -6.855194595143416
+      "rating1": 986.3109645421093,
+      "rating2": 1069.2653531176375,
+      "rating_ev": -7.0516573887138065
     },
     {
       "date": "1992-06-20",
@@ -405,45 +489,45 @@
       "team2": "Eswatini",
       "score1": 4,
       "score2": 1,
-      "rating1": 1277.1713362041323,
-      "rating2": 1047.9214766911923,
-      "rating_ev": -11.438283987865361
+      "rating1": 1293.6574932516462,
+      "rating2": 1058.0264965232132,
+      "rating_ev": -11.238856594424306
     },
     {
       "date": "1992-10-18",
       "country": "Cameroon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Cameroon",
       "team2": "Eswatini",
       "score1": 5,
       "score2": 0,
-      "rating1": 1620.0760860249895,
-      "rating2": 1020.3229882213421,
-      "rating_ev": -27.59848846985028
+      "rating1": 1611.0195425229692,
+      "rating2": 1029.3300767532726,
+      "rating_ev": -28.696419769940576
     },
     {
       "date": "1992-10-25",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup qualifier",
       "team1": "Eswatini",
       "team2": "DR Congo",
       "score1": 1,
       "score2": 0,
-      "rating1": 1059.1280301390584,
-      "rating2": 1508.2718584555435,
-      "rating_ev": 38.80504191771627
+      "rating1": 1067.9690182420593,
+      "rating2": 1514.3901175538936,
+      "rating_ev": 38.63894148878671
     },
     {
       "date": "1993-01-17",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup qualifier",
       "team1": "Eswatini",
       "team2": "Cameroon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1086.5183862213028,
-      "rating2": 1605.6119866630172,
-      "rating_ev": 27.390356082244352
+      "rating1": 1094.4488030588677,
+      "rating2": 1598.3689790171848,
+      "rating_ev": 26.479784816808433
     },
     {
       "date": "1993-07-06",
@@ -453,9 +537,9 @@
       "team2": "Eswatini",
       "score1": 3,
       "score2": 1,
-      "rating1": 1371.5852147723876,
-      "rating2": 1083.880400779392,
-      "rating_ev": -2.637985441910814
+      "rating1": 1395.4956612347232,
+      "rating2": 1092.288210861283,
+      "rating_ev": -2.1605921975847195
     },
     {
       "date": "1993-07-08",
@@ -465,9 +549,9 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1360.2537136992255,
-      "rating2": 1095.211901852554,
-      "rating_ev": 11.331501073162144
+      "rating1": 1383.714895926577,
+      "rating2": 1104.0689761694293,
+      "rating_ev": 11.780765308146329
     },
     {
       "date": "1993-07-10",
@@ -477,9 +561,9 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 1,
-      "rating1": 1342.6046800987353,
-      "rating2": 1112.8609354530442,
-      "rating_ev": 17.649033600490156
+      "rating1": 1365.6407286459728,
+      "rating2": 1122.1431434500334,
+      "rating_ev": 18.074167280604115
     },
     {
       "date": "1993-07-29",
@@ -489,9 +573,9 @@
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 1335.0692264079692,
-      "rating2": 1101.5559185321388,
-      "rating_ev": -11.305016920905473
+      "rating1": 1352.5869752876677,
+      "rating2": 1111.087506287161,
+      "rating_ev": -11.055637162872472
     },
     {
       "date": "1993-08-08",
@@ -501,81 +585,81 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1478.5976069677956,
-      "rating2": 1101.641596863607,
-      "rating_ev": 0.08567833146821613
+      "rating1": 1494.1879502769261,
+      "rating2": 1111.3504020911166,
+      "rating_ev": 0.2628958039556437
     },
     {
       "date": "1993-09-06",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Zimbabwe",
       "score1": 0,
       "score2": 1,
-      "rating1": 1102.92088860566,
-      "rating2": 1477.3183152257427,
-      "rating_ev": 1.2792917420529193
+      "rating1": 1114.2433056324085,
+      "rating2": 1491.2950467356343,
+      "rating_ev": 2.892903541291844
     },
     {
-      "date": "1994-04-22",
-      "country": "Eswatini",
+      "date": "1994-04-20",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Mozambique",
       "score1": 0,
       "score2": 1,
-      "rating1": 1096.112766468962,
-      "rating2": 1209.9361533110396,
-      "rating_ev": -6.808122136697875
+      "rating1": 1107.2461948976218,
+      "rating2": 1215.0986578096454,
+      "rating_ev": -6.997110734786702
     },
     {
       "date": "1996-05-12",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Mozambique",
       "score1": 0,
       "score2": 1,
-      "rating1": 1093.4685350296675,
-      "rating2": 1339.879526993425,
-      "rating_ev": -2.644231439294572
+      "rating1": 1104.6664184601261,
+      "rating2": 1353.150880783214,
+      "rating_ev": -2.5797764374956387
     },
     {
       "date": "1996-06-02",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup qualifier",
       "team1": "Eswatini",
       "team2": "Gabon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1097.0957977995872,
-      "rating2": 1485.6299817263769,
-      "rating_ev": 3.627262769919753
+      "rating1": 1106.6206552187698,
+      "rating2": 1469.0585888709297,
+      "rating_ev": 1.954236758643674
     },
     {
       "date": "1996-06-16",
       "country": "Gabon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Gabon",
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1484.8107306741888,
-      "rating2": 1097.9150488517753,
-      "rating_ev": 0.8192510521880649
+      "rating1": 1469.7243680106662,
+      "rating2": 1105.9548760790333,
+      "rating_ev": -0.6657791397365145
     },
     {
       "date": "1997-01-26",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 3,
       "score2": 1,
-      "rating1": 1106.0314957704943,
-      "rating2": 993.2816837731162,
-      "rating_ev": 8.11644691871902
+      "rating1": 1112.8575518162113,
+      "rating2": 961.6977978108388,
+      "rating_ev": 6.902675737178015
     },
     {
       "date": "1997-02-21",
@@ -585,33 +669,45 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 831.165403949258,
-      "rating2": 1100.5548585136812,
-      "rating_ev": -5.476637256813092
+      "rating1": 836.7255824012224,
+      "rating2": 1107.3430231705572,
+      "rating_ev": -5.514528645654082
     },
     {
-      "date": "1997-03-03",
-      "country": "Eswatini",
-      "tournament": "COSAFA Cup qualification",
+      "date": "1997-03-02",
+      "country": "Swaziland",
+      "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Mozambique",
       "score1": 0,
       "score2": 4,
-      "rating1": 1055.241355865303,
-      "rating2": 1373.5845101125524,
-      "rating_ev": -45.31350264837829
+      "rating1": 1061.4571191920516,
+      "rating2": 1371.1960497657603,
+      "rating_ev": -45.88590397850567
     },
     {
       "date": "1997-11-02",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Mauritius",
       "score1": 0,
       "score2": 1,
-      "rating1": 1046.033592069216,
-      "rating2": 1084.1896146465135,
-      "rating_ev": -9.207763796086965
+      "rating1": 1054.255928536471,
+      "rating2": 1155.6636014505941,
+      "rating_ev": -7.201190655580604
+    },
+    {
+      "date": "1997-12-12",
+      "country": "Swaziland",
+      "tournament": "Friendly",
+      "team1": "Eswatini",
+      "team2": "Mozambique",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1062.1636383283994,
+      "rating2": 1411.076106502129,
+      "rating_ev": 7.9077097919284824
     },
     {
       "date": "1997-12-18",
@@ -621,9 +717,9 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1009.7192734698101,
-      "rating2": 1047.823191659499,
-      "rating_ev": 1.7895995902829327
+      "rating1": 995.923347708163,
+      "rating2": 1063.0328545015589,
+      "rating_ev": 0.869216173159316
     },
     {
       "date": "1997-12-28",
@@ -633,117 +729,129 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1022.2508038837947,
-      "rating2": 1049.9433660646841,
-      "rating_ev": 2.1201744051853666
+      "rating1": 1009.637230359623,
+      "rating2": 1064.296987079546,
+      "rating_ev": 1.2641325779869703
     },
     {
       "date": "1998-01-10",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Botswana",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1040.1160329130144,
-      "rating2": 823.6414563470207,
-      "rating_ev": -9.82733315166979
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1054.2624052279414,
+      "rating2": 831.1237770981571,
+      "rating_ev": -10.034581851604571
     },
     {
       "date": "1998-03-08",
-      "country": "Eswatini",
-      "tournament": "COSAFA Cup qualification",
+      "country": "Swaziland",
+      "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1044.1925739560736,
-      "rating2": 1439.773891583216,
-      "rating_ev": 4.076541043059251
+      "rating1": 1058.275658370573,
+      "rating2": 1452.8632357909853,
+      "rating_ev": 4.013253142631584
     },
     {
       "date": "1998-08-02",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Madagascar",
       "score1": 1,
       "score2": 2,
-      "rating1": 1043.8885043589846,
-      "rating2": 1371.4380035225377,
-      "rating_ev": -0.30406959708898285
+      "rating1": 1061.8737948028129,
+      "rating2": 1449.951708272864,
+      "rating_ev": 3.598136432239926
+    },
+    {
+      "date": "1998-08-23",
+      "country": "Madagascar",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Madagascar",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1447.2385209696636,
+      "rating2": 1091.8398481913441,
+      "rating_ev": 29.966053388531236
     },
     {
       "date": "1998-09-06",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Ghana",
       "score1": 0,
       "score2": 1,
-      "rating1": 1045.9087294346637,
-      "rating2": 1444.9637595652196,
-      "rating_ev": 2.0202250756790363
+      "rating1": 1092.5745828519982,
+      "rating2": 1448.9614948699914,
+      "rating_ev": 0.7347346606541123
     },
     {
       "date": "1999-04-03",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Namibia",
       "score1": 1,
       "score2": 1,
-      "rating1": 1049.1953392636217,
-      "rating2": 1248.1132102661757,
-      "rating_ev": 3.286609828958035
+      "rating1": 1094.884922250267,
+      "rating2": 1262.6585806733483,
+      "rating_ev": 2.310339398268752
     },
     {
       "date": "1999-04-25",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 4,
       "score2": 1,
-      "rating1": 1065.650127888093,
-      "rating2": 995.3459606660343,
-      "rating_ev": 16.454788624471348
+      "rating1": 1124.9585735578605,
+      "rating2": 979.8718242732142,
+      "rating_ev": 30.073651307593536
     },
     {
       "date": "1999-05-09",
-      "country": "Eswatini",
-      "tournament": "COSAFA Cup qualification",
+      "country": "Swaziland",
+      "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Mozambique",
       "score1": 3,
       "score2": 1,
-      "rating1": 1097.674521229541,
-      "rating2": 1202.150248050526,
-      "rating_ev": 32.024393341447876
+      "rating1": 1153.8046113883436,
+      "rating2": 1211.0486008622445,
+      "rating_ev": 28.846037830483056
     },
     {
       "date": "1999-05-16",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Botswana",
       "score1": 2,
       "score2": 1,
-      "rating1": 1096.010424541468,
-      "rating2": 903.5846702605234,
-      "rating_ev": -1.6640966880729593
+      "rating1": 1150.6960269675048,
+      "rating2": 911.970360139329,
+      "rating_ev": -3.1085844208387243
     },
     {
       "date": "1999-07-18",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Zimbabwe",
       "score1": 1,
       "score2": 1,
-      "rating1": 1112.7248519744494,
-      "rating2": 1459.810342624022,
-      "rating_ev": 16.714427432981438
+      "rating1": 1165.2418934728637,
+      "rating2": 1478.689265451351,
+      "rating_ev": 14.545866505358845
     },
     {
       "date": "1999-08-15",
@@ -753,9 +861,9 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 3,
-      "rating1": 975.7141408267156,
-      "rating2": 1132.4398468838608,
-      "rating_ev": 19.714994909411416
+      "rating1": 964.0756333328397,
+      "rating2": 1182.998036598831,
+      "rating_ev": 17.756143125967355
     },
     {
       "date": "1999-08-28",
@@ -765,21 +873,21 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1244.5877327634564,
-      "rating2": 1145.5487653742186,
-      "rating_ev": 13.108918490357837
+      "rating1": 1257.5673281322288,
+      "rating2": 1193.729688664599,
+      "rating_ev": 10.731652065768003
     },
     {
       "date": "2000-02-20",
       "country": "Lesotho",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Lesotho",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 984.9255652483035,
-      "rating2": 1136.3373409526307,
-      "rating_ev": -9.211424421587935
+      "rating1": 986.0221833444463,
+      "rating2": 1171.7831386529924,
+      "rating_ev": -21.94655001160652
     },
     {
       "date": "2000-03-19",
@@ -789,69 +897,69 @@
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 919.7420460379225,
-      "rating2": 1111.6069843133873,
-      "rating_ev": -24.730356639243496
+      "rating1": 928.7352212901592,
+      "rating2": 1146.2570782190387,
+      "rating_ev": -25.52606043395383
     },
     {
       "date": "2000-04-09",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup qualifier",
       "team1": "Eswatini",
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1109.9082224730362,
-      "rating2": 1416.0860033910903,
-      "rating_ev": -1.6987618403511533
+      "rating1": 1142.6030904232725,
+      "rating2": 1419.0201741312992,
+      "rating_ev": -3.65398779576617
     },
     {
       "date": "2000-04-23",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Eswatini",
       "score1": 7,
       "score2": 1,
-      "rating1": 1467.5395780996012,
-      "rating2": 1058.4546477645254,
-      "rating_ev": -51.453574708510814
+      "rating1": 1472.200083877772,
+      "rating2": 1089.4231806767998,
+      "rating_ev": -53.17990974647273
     },
     {
       "date": "2000-06-01",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 0,
       "score2": 1,
-      "rating1": 1047.72816032318,
-      "rating2": 1038.0630367622598,
-      "rating_ev": -10.726487441345398
+      "rating1": 1066.4472922870857,
+      "rating2": 1055.7662408775411,
+      "rating_ev": -22.9758883897141
     },
     {
       "date": "2000-06-02",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Botswana",
       "score1": 0,
       "score2": 0,
-      "rating1": 1042.5296425930364,
-      "rating2": 973.2412348542289,
-      "rating_ev": -5.1985177301435215
+      "rating1": 1056.913389693331,
+      "rating2": 1010.7730356162687,
+      "rating_ev": -9.533902593754647
     },
     {
       "date": "2000-06-04",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Mozambique",
       "score1": 1,
       "score2": 1,
-      "rating1": 1044.39828719518,
-      "rating2": 1198.1255117452913,
-      "rating_ev": 1.868644602143604
+      "rating1": 1058.955267179076,
+      "rating2": 1183.7482601515599,
+      "rating_ev": 2.0418774857448625
     },
     {
       "date": "2000-06-18",
@@ -861,117 +969,117 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1530.6752342856678,
-      "rating2": 1051.0504030838185,
-      "rating_ev": 6.652115888638491
+      "rating1": 1553.977064898992,
+      "rating2": 1066.1152713500521,
+      "rating_ev": 7.160004170976208
     },
     {
       "date": "2000-07-02",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Kenya",
       "score1": 3,
       "score2": 2,
-      "rating1": 1076.7906127415058,
-      "rating2": 1320.0093597868088,
-      "rating_ev": 25.740209657687274
+      "rating1": 1091.0438433933464,
+      "rating2": 1321.9040690181664,
+      "rating_ev": 24.928572043294253
     },
     {
       "date": "2000-07-15",
       "country": "Kenya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Kenya",
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 1340.723320700733,
-      "rating2": 1056.0766518275816,
-      "rating_ev": -20.71396091392421
+      "rating1": 1343.3420156263696,
+      "rating2": 1069.6058967851432,
+      "rating_ev": -21.43794660820322
     },
     {
       "date": "2001-01-06",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1070.8661609140315,
-      "rating2": 1402.6880481602655,
-      "rating_ev": 14.789509086449925
+      "rating1": 1098.3567427523797,
+      "rating2": 1387.779719751742,
+      "rating_ev": 28.7508459672365
     },
     {
       "date": "2001-01-07",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Namibia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1082.0625759294612,
-      "rating2": 1296.9374253949861,
-      "rating_ev": 11.196415015429693
+      "rating1": 1119.5224326074567,
+      "rating2": 1293.5452910440722,
+      "rating_ev": 21.165689855077062
     },
     {
       "date": "2001-01-09",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 2,
       "score2": 2,
-      "rating1": 1080.3246368186835,
-      "rating2": 1120.0558273063402,
-      "rating_ev": -1.7379391107776883
+      "rating1": 1116.676658659852,
+      "rating2": 1121.5223414720272,
+      "rating_ev": -2.845773947604812
     },
     {
       "date": "2001-01-27",
       "country": "Botswana",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Botswana",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 2,
-      "rating1": 1001.5146029442392,
-      "rating2": 1087.998726469117,
-      "rating_ev": 7.67408965043353
+      "rating1": 1030.710224597617,
+      "rating2": 1132.0576622618141,
+      "rating_ev": 15.38100360196222
     },
     {
       "date": "2001-02-11",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Zambia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1098.8697054985273,
-      "rating2": 1356.0550327657986,
-      "rating_ev": 10.870979029410364
+      "rating1": 1140.6445218422152,
+      "rating2": 1363.257760306221,
+      "rating_ev": 8.586859580401097
     },
     {
       "date": "2001-03-10",
       "country": "Lesotho",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Botswana",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1020.01723408786,
-      "rating2": 1089.2532705454985,
-      "rating_ev": -9.61643495302883
+      "rating1": 1066.3033293424487,
+      "rating2": 1121.088349505408,
+      "rating_ev": -19.55617233680732
     },
     {
       "date": "2001-03-11",
       "country": "Lesotho",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Lesotho",
       "team2": "Eswatini",
       "score1": 2,
       "score2": 1,
-      "rating1": 1151.9562006410245,
-      "rating2": 1086.898520410952,
-      "rating_ev": -2.3547501345465207
+      "rating1": 1147.4769002572755,
+      "rating2": 1113.9240423184658,
+      "rating_ev": -7.1643071869420965
     },
     {
       "date": "2001-05-20",
@@ -981,9 +1089,9 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1149.9124869241634,
-      "rating2": 1084.553332598986,
-      "rating_ev": -2.3451878119660705
+      "rating1": 1145.7768499038582,
+      "rating2": 1110.6203122586785,
+      "rating_ev": -3.3037300597873127
     },
     {
       "date": "2001-07-01",
@@ -993,9 +1101,9 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 2,
-      "rating1": 1204.4750819142907,
-      "rating2": 1091.1451181093937,
-      "rating_ev": 6.591785510407817
+      "rating1": 1224.4330839292224,
+      "rating2": 1117.0250588438444,
+      "rating_ev": 6.404746585165867
     },
     {
       "date": "2001-07-08",
@@ -1005,9 +1113,9 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 1,
-      "rating1": 1415.269633020102,
-      "rating2": 1102.6211462259382,
-      "rating_ev": 11.476028116544512
+      "rating1": 1399.1618236110796,
+      "rating2": 1125.9280722979418,
+      "rating_ev": 8.90301345409739
     },
     {
       "date": "2002-03-02",
@@ -1017,57 +1125,57 @@
       "team2": "Eswatini",
       "score1": 6,
       "score2": 2,
-      "rating1": 1046.3434957602458,
-      "rating2": 1076.3828891836806,
-      "rating_ev": -26.238257042257715
+      "rating1": 1090.910335433597,
+      "rating2": 1100.3430684372765,
+      "rating_ev": -25.58500386066521
     },
     {
       "date": "2002-03-10",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 1,
       "score2": 0,
-      "rating1": 1082.5094583947866,
-      "rating2": 1136.2654208535166,
-      "rating_ev": 6.126569211106016
+      "rating1": 1105.4930049843551,
+      "rating2": 1128.4709322985718,
+      "rating_ev": 5.149936547078596
     },
     {
       "date": "2002-03-30",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Mozambique",
       "score1": 1,
       "score2": 2,
-      "rating1": 1075.3995129739953,
-      "rating2": 1179.6883238653115,
-      "rating_ev": -7.109945420791291
+      "rating1": 1097.8193684338707,
+      "rating2": 1184.3177843289761,
+      "rating_ev": -7.673636550484389
     },
     {
       "date": "2002-03-31",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Mozambique",
       "score1": 1,
       "score2": 1,
-      "rating1": 1075.6896064798625,
-      "rating2": 1179.3982303594444,
-      "rating_ev": 0.2900935058671621
+      "rating1": 1097.5798392888905,
+      "rating2": 1184.5573134739564,
+      "rating_ev": -0.23952914498022437
     },
     {
       "date": "2002-04-21",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Namibia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1086.1349890310462,
-      "rating2": 1100.9592090868014,
-      "rating_ev": 10.445382551183684
+      "rating1": 1106.5428199904677,
+      "rating2": 1099.5077384897575,
+      "rating_ev": 8.96298070157718
     },
     {
       "date": "2002-05-05",
@@ -1077,33 +1185,33 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 2,
-      "rating1": 1414.6796407402205,
-      "rating2": 1141.9843982880807,
-      "rating_ev": 55.849409257034495
+      "rating1": 1406.9606113941468,
+      "rating2": 1160.692331994911,
+      "rating_ev": 54.149512004443295
     },
     {
       "date": "2002-08-01",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Mauritius",
       "score1": 0,
       "score2": 1,
-      "rating1": 1133.637829564083,
-      "rating2": 1198.920788694772,
-      "rating_ev": -8.346568723997734
+      "rating1": 1152.0899641114552,
+      "rating2": 1209.3132884848808,
+      "rating_ev": -8.602367883455827
     },
     {
       "date": "2002-08-03",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Mauritius",
       "score1": 0,
       "score2": 0,
-      "rating1": 1132.7659857748588,
-      "rating2": 1199.7926324839962,
-      "rating_ev": -0.8718437892241582
+      "rating1": 1150.9777380084795,
+      "rating2": 1210.4255145878565,
+      "rating_ev": -1.1122261029756828
     },
     {
       "date": "2002-08-24",
@@ -1113,69 +1221,69 @@
       "team2": "Eswatini",
       "score1": 4,
       "score2": 1,
-      "rating1": 1599.4501772594951,
-      "rating2": 1124.3506670675538,
-      "rating_ev": -8.415318707305005
+      "rating1": 1618.3086659666562,
+      "rating2": 1142.6004833851084,
+      "rating_ev": -8.377254623371073
     },
     {
       "date": "2002-09-07",
       "country": "Botswana",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Botswana",
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1064.489158894507,
-      "rating2": 1126.5488698466722,
-      "rating_ev": 2.1982027791184464
+      "rating1": 1100.962727251677,
+      "rating2": 1145.9553134643863,
+      "rating_ev": 3.3548300792779173
     },
     {
       "date": "2002-10-06",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 0,
       "score2": 0,
-      "rating1": 1123.8481373045026,
-      "rating2": 1133.260434302533,
-      "rating_ev": -2.7007325421695896
+      "rating1": 1142.4755295862465,
+      "rating2": 1127.3582648956985,
+      "rating_ev": -3.4797838781398696
     },
     {
       "date": "2002-10-13",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Libya",
       "score1": 2,
       "score2": 1,
-      "rating1": 1145.851392076789,
-      "rating2": 1332.4658182125163,
-      "rating_ev": 22.003254772286255
+      "rating1": 1163.7665841272315,
+      "rating2": 1339.6721417660733,
+      "rating_ev": 21.291054540984987
     },
     {
       "date": "2003-03-19",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 1,
       "score2": 0,
-      "rating1": 1150.2238976465974,
-      "rating2": 1148.7203223369977,
-      "rating_ev": 4.372505569808482
+      "rating1": 1165.7267573091078,
+      "rating2": 1088.2253034776036,
+      "rating_ev": 1.960173181876371
     },
     {
       "date": "2003-03-30",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "DR Congo",
       "score1": 1,
       "score2": 1,
-      "rating1": 1161.4492608079847,
-      "rating2": 1424.0238153173202,
-      "rating_ev": 11.22536316138735
+      "rating1": 1177.7306161853232,
+      "rating2": 1452.169777352921,
+      "rating_ev": 12.003858876215418
     },
     {
       "date": "2003-05-25",
@@ -1185,81 +1293,81 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 1,
-      "rating1": 1149.870272745389,
-      "rating2": 1156.8086422603005,
-      "rating_ev": -4.640618547684198
+      "rating1": 1099.909904225077,
+      "rating2": 1171.052964953413,
+      "rating_ev": -6.677651231910204
     },
     {
       "date": "2003-06-08",
-      "country": "DR Congo",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Dem Rep of the Congo",
+      "tournament": "African Nations Cup qualifier",
       "team1": "DR Congo",
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1430.1851305844214,
-      "rating2": 1150.6473269931994,
-      "rating_ev": -6.161315267101145
+      "rating1": 1463.163025424217,
+      "rating2": 1160.059716882117,
+      "rating_ev": -10.993248071295966
     },
     {
       "date": "2003-06-22",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Botswana",
       "score1": 3,
       "score2": 2,
-      "rating1": 1157.3304699346122,
-      "rating2": 1116.6825621943656,
-      "rating_ev": 6.683142941412825
+      "rating1": 1167.2979637009907,
+      "rating2": 1134.8353035196485,
+      "rating_ev": 7.238246818873677
     },
     {
       "date": "2003-07-05",
       "country": "Libya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Libya",
       "team2": "Eswatini",
       "score1": 6,
       "score2": 2,
-      "rating1": 1350.042592434093,
-      "rating2": 1118.972747005779,
-      "rating_ev": -38.357722928833255
+      "rating1": 1356.3203737644296,
+      "rating2": 1128.707852088567,
+      "rating_ev": -38.5901116124237
     },
     {
       "date": "2003-07-13",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Madagascar",
       "score1": 2,
       "score2": 0,
-      "rating1": 1146.8127691362467,
-      "rating2": 1189.1593437833865,
-      "rating_ev": 27.840022130467787
+      "rating1": 1158.106041349247,
+      "rating2": 1223.5359205732755,
+      "rating_ev": 29.398189260680056
     },
     {
-      "date": "2003-08-31",
+      "date": "2003-08-30",
       "country": "Zimbabwe",
       "tournament": "COSAFA Cup",
       "team1": "Zimbabwe",
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1433.2248801354156,
-      "rating2": 1141.4570338285573,
-      "rating_ev": -5.355735307689429
+      "rating1": 1430.9389080399988,
+      "rating2": 1151.9110832019858,
+      "rating_ev": -6.194958147261332
     },
     {
       "date": "2003-09-06",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Botswana",
       "score1": 0,
       "score2": 3,
-      "rating1": 1117.8915471586922,
-      "rating2": 1153.1991319742701,
-      "rating_ev": -23.565486669865095
+      "rating1": 1128.608402542722,
+      "rating2": 1172.1905822291876,
+      "rating_ev": -23.302680659263842
     },
     {
       "date": "2003-10-04",
@@ -1269,21 +1377,21 @@
       "team2": "Eswatini",
       "score1": 5,
       "score2": 2,
-      "rating1": 1181.456383683685,
-      "rating2": 1101.735642537507,
-      "rating_ev": -16.1559046211853
+      "rating1": 1144.4171079895507,
+      "rating2": 1110.9827713823781,
+      "rating_ev": -17.6256311603438
     },
     {
       "date": "2003-10-12",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Eswatini",
       "team2": "Cape Verde",
       "score1": 1,
       "score2": 1,
-      "rating1": 1110.0341861210127,
-      "rating2": 1328.3022555880161,
-      "rating_ev": 8.298543583505761
+      "rating1": 1116.2138328970163,
+      "rating2": 1288.4772543004028,
+      "rating_ev": 5.231061514638213
     },
     {
       "date": "2003-11-09",
@@ -1293,21 +1401,21 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1170.850390630373,
-      "rating2": 1100.5715976030835,
-      "rating_ev": -9.462588517929134
+      "rating1": 1177.0935631394966,
+      "rating2": 1106.7531980881158,
+      "rating_ev": -9.460634808900522
     },
     {
       "date": "2003-11-16",
       "country": "Cape Verde",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Cape Verde",
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 1349.9237667449847,
-      "rating2": 1078.950086446115,
-      "rating_ev": -21.62151115696861
+      "rating1": 1312.8070425745586,
+      "rating2": 1082.42340981396,
+      "rating_ev": -24.329788274155817
     },
     {
       "date": "2004-04-11",
@@ -1317,9 +1425,9 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1176.5417140372983,
-      "rating2": 1070.6175356673498,
-      "rating_ev": -8.332550778765153
+      "rating1": 1182.680590819166,
+      "rating2": 1074.172674368367,
+      "rating_ev": -8.250735445592909
     },
     {
       "date": "2004-05-31",
@@ -1329,21 +1437,21 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1189.0796519358462,
-      "rating2": 1077.1646409529976,
-      "rating_ev": 6.547105285647831
+      "rating1": 1194.7279597565314,
+      "rating2": 1080.7838509103417,
+      "rating_ev": 6.611176541974601
     },
     {
       "date": "2004-06-27",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Zimbabwe",
       "score1": 0,
       "score2": 5,
-      "rating1": 1028.4208380662228,
-      "rating2": 1493.0411197483224,
-      "rating_ev": -48.7438028867748
+      "rating1": 1031.6221789042697,
+      "rating2": 1489.7573255325312,
+      "rating_ev": -49.16167200607197
     },
     {
       "date": "2004-07-06",
@@ -1353,9 +1461,9 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 2,
-      "rating1": 1225.7263610846362,
-      "rating2": 1044.5591663697278,
-      "rating_ev": 16.138328303504977
+      "rating1": 1233.5674709929071,
+      "rating2": 1047.9009891042936,
+      "rating_ev": 16.278810200023827
     },
     {
       "date": "2004-07-08",
@@ -1365,9 +1473,9 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1217.515814582642,
-      "rating2": 1052.769712871722,
-      "rating_ev": 8.210546501994259
+      "rating1": 1225.2241087957275,
+      "rating2": 1056.2443513014732,
+      "rating_ev": 8.343362197179658
     },
     {
       "date": "2005-06-01",
@@ -1377,9 +1485,9 @@
       "team2": "Eswatini",
       "score1": 3,
       "score2": 4,
-      "rating1": 1106.4321477976978,
-      "rating2": 1064.5195092657957,
-      "rating_ev": 11.749796394073655
+      "rating1": 1081.8333460690774,
+      "rating2": 1067.130767532921,
+      "rating_ev": 10.88641623144781
     },
     {
       "date": "2005-06-11",
@@ -1389,9 +1497,9 @@
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 1432.0085661600267,
-      "rating2": 1050.1710856949767,
-      "rating_ev": -14.348423570819023
+      "rating1": 1434.668896644056,
+      "rating2": 1052.7853224676742,
+      "rating_ev": -14.34544506524685
     },
     {
       "date": "2006-04-14",
@@ -1401,9 +1509,9 @@
       "team2": "Eswatini",
       "score1": 5,
       "score2": 0,
-      "rating1": 1124.5020568552907,
-      "rating2": 1022.0222534283812,
-      "rating_ev": -28.14883226659549
+      "rating1": 1103.1465154595335,
+      "rating2": 1023.8989290244621,
+      "rating_ev": -28.886393443212228
     },
     {
       "date": "2006-04-16",
@@ -1413,9 +1521,9 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 2,
-      "rating1": 1118.624763048634,
-      "rating2": 1027.899547235038,
-      "rating_ev": 5.87729380665678
+      "rating1": 1097.9610454633478,
+      "rating2": 1029.0843990206477,
+      "rating_ev": 5.185469996185702
     },
     {
       "date": "2006-05-20",
@@ -1425,69 +1533,69 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1426.5683334656774,
-      "rating2": 1037.8953967779612,
-      "rating_ev": 9.995849542923224
+      "rating1": 1433.933898022935,
+      "rating2": 1039.4493584633424,
+      "rating_ev": 10.364959442694726
     },
     {
       "date": "2006-05-21",
       "country": "Botswana",
       "tournament": "COSAFA Cup",
-      "team1": "Madagascar",
-      "team2": "Eswatini",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1107.075259676262,
-      "rating2": 1071.6697354819703,
-      "rating_ev": 33.7743387040091
+      "team1": "Eswatini",
+      "team2": "Madagascar",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1073.238974255692,
+      "rating2": 1108.87066136199,
+      "rating_ev": 33.78961579234965
     },
     {
       "date": "2006-06-24",
       "country": "Mozambique",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Mozambique",
       "team2": "Eswatini",
       "score1": 4,
       "score2": 0,
-      "rating1": 1232.1555162357795,
-      "rating2": 1052.0923338690257,
-      "rating_ev": -19.57740161294464
+      "rating1": 1264.4593872521873,
+      "rating2": 1034.7873114604129,
+      "rating_ev": -38.45166279527916
     },
     {
       "date": "2006-06-25",
       "country": "Mozambique",
-      "tournament": "Friendly",
-      "team1": "Eswatini",
-      "team2": "Zimbabwe",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1056.9052399208715,
-      "rating2": 1449.3897092074126,
-      "rating_ev": 4.812906051845857
+      "tournament": "Friendly tournament",
+      "team1": "Zimbabwe",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1414.9903701455476,
+      "rating2": 1043.6761927616672,
+      "rating_ev": 8.888881301254287
     },
     {
       "date": "2006-08-26",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 3,
       "score2": 1,
-      "rating1": 1069.7174410426783,
-      "rating2": 1104.9422812061202,
-      "rating_ev": 12.812201121806766
+      "rating1": 1056.381062032017,
+      "rating2": 1088.2222357245207,
+      "rating_ev": 12.704869270349946
     },
     {
       "date": "2006-09-03",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Angola",
       "score1": 0,
       "score2": 2,
-      "rating1": 1068.1292788655005,
-      "rating2": 1620.0971797286102,
-      "rating_ev": -1.5881621771777645
+      "rating1": 1054.7463657758296,
+      "rating2": 1605.9443275985434,
+      "rating_ev": -1.6346962561874534
     },
     {
       "date": "2006-10-04",
@@ -1497,21 +1605,21 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1416.3431899163556,
-      "rating2": 1067.3678176782178,
-      "rating_ev": -0.7614611872827481
+      "rating1": 1424.9762898944114,
+      "rating2": 1054.6324523805438,
+      "rating_ev": -0.11391339528586286
     },
     {
       "date": "2006-10-07",
       "country": "Eritrea",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eritrea",
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1083.3749199545332,
-      "rating2": 1074.3838996697993,
-      "rating_ev": 7.016081991581586
+      "rating1": 1085.4473660107915,
+      "rating2": 1062.5888277990418,
+      "rating_ev": 7.956375418498055
     },
     {
       "date": "2006-11-15",
@@ -1521,9 +1629,9 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1315.3462515234496,
-      "rating2": 1077.466208007195,
-      "rating_ev": 3.082308337395716
+      "rating1": 1268.1765341402256,
+      "rating2": 1064.6017834918894,
+      "rating_ev": 2.0129556928475267
     },
     {
       "date": "2007-02-13",
@@ -1533,213 +1641,237 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 1,
-      "rating1": 1094.7817792513442,
-      "rating2": 1088.0980334051928,
-      "rating_ev": 10.631825397997773
+      "rating1": 1080.0190094340808,
+      "rating2": 1075.1751861852556,
+      "rating_ev": 10.573402693366234
+    },
+    {
+      "date": "2007-03-13",
+      "country": "South Africa",
+      "tournament": "Friendly",
+      "team1": "South Africa",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1434.6964032186802,
+      "rating2": 1088.9686455348003,
+      "rating_ev": 13.793459349544719
     },
     {
       "date": "2007-03-18",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 0,
       "score2": 1,
-      "rating1": 1078.5003650120361,
-      "rating2": 1104.379447644501,
-      "rating_ev": -9.59766839315671
+      "rating1": 1078.9041013593771,
+      "rating2": 1090.083553609504,
+      "rating_ev": -10.06454417542318
     },
     {
       "date": "2007-03-25",
       "country": "Kenya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Kenya",
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1281.418945750254,
-      "rating2": 1067.9499156542738,
-      "rating_ev": -10.550449357762318
+      "rating1": 1285.1212988074822,
+      "rating2": 1068.5603104164777,
+      "rating_ev": -10.343790942899432
     },
     {
       "date": "2007-05-26",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Mauritius",
       "score1": 0,
       "score2": 0,
-      "rating1": 1067.3925596492224,
-      "rating2": 1153.691448655989,
-      "rating_ev": -0.5573560050513606
+      "rating1": 1069.464886860106,
+      "rating2": 1177.3971651604309,
+      "rating_ev": 0.9045764436282298
     },
     {
       "date": "2007-05-27",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Malawi",
       "score1": 1,
       "score2": 0,
-      "rating1": 1086.8456026548674,
-      "rating2": 1235.2132115617333,
-      "rating_ev": 19.453043005644986
+      "rating1": 1090.1540419020441,
+      "rating2": 1257.0265290159457,
+      "rating_ev": 20.689155041938193
     },
     {
       "date": "2007-06-03",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Kenya",
       "score1": 0,
       "score2": 0,
-      "rating1": 1092.9131058480875,
-      "rating2": 1277.6831008754277,
-      "rating_ev": 6.067503193220091
+      "rating1": 1096.2353772384938,
+      "rating2": 1281.2124161189267,
+      "rating_ev": 6.081335336449683
     },
     {
       "date": "2007-06-17",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 1587.865906725333,
-      "rating2": 1086.1534369873054,
-      "rating_ev": -6.759668860782085
+      "rating1": 1579.2104419151553,
+      "rating2": 1088.7762373602307,
+      "rating_ev": -7.459139878263159
     },
     {
       "date": "2007-09-09",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Eritrea",
       "score1": 0,
       "score2": 0,
-      "rating1": 1081.69168091833,
-      "rating2": 1110.3599123179501,
-      "rating_ev": -4.461756068975546
+      "rating1": 1084.23977111333,
+      "rating2": 1111.8064350991299,
+      "rating_ev": -4.536466246900545
     },
     {
       "date": "2007-11-18",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Malawi",
       "score1": 0,
       "score2": 3,
-      "rating1": 1062.4161014132726,
-      "rating2": 1233.0561286607538,
-      "rating_ev": -19.275579505057294
+      "rating1": 1065.2061957101732,
+      "rating2": 1243.5178014582139,
+      "rating_ev": -19.033575403156874
     },
     {
       "date": "2008-02-09",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Botswana",
       "score1": 1,
       "score2": 4,
-      "rating1": 1047.0832991464958,
-      "rating2": 1343.7455951359086,
-      "rating_ev": -15.332802266776753
+      "rating1": 1033.0687278616545,
+      "rating2": 1338.145778129617,
+      "rating_ev": -32.13746784851878
     },
     {
       "date": "2008-02-10",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 2,
       "score2": 2,
-      "rating1": 1045.9353582962008,
-      "rating2": 1104.2573341134696,
-      "rating_ev": -1.1479408502950719
+      "rating1": 1029.8340890911168,
+      "rating2": 1076.599661846732,
+      "rating_ev": -3.2346387705376856
     },
     {
       "date": "2008-05-23",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 1,
       "score2": 1,
-      "rating1": 1045.3087560358879,
-      "rating2": 1120.0705026070345,
-      "rating_ev": -0.6266022603128931
+      "rating1": 1028.8850149520565,
+      "rating2": 1093.4764097249504,
+      "rating_ev": -0.949074139060258
+    },
+    {
+      "date": "2008-05-29",
+      "country": "South Africa",
+      "tournament": "Friendly",
+      "team1": "South Africa",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1514.384416110919,
+      "rating2": 1039.1278779794882,
+      "rating_ev": 10.242863027431667
     },
     {
       "date": "2008-06-08",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Eswatini",
       "team2": "Togo",
       "score1": 2,
       "score2": 1,
-      "rating1": 1077.1479137210804,
-      "rating2": 1414.6479589040596,
-      "rating_ev": 31.839157685192504
+      "rating1": 1073.0609890622552,
+      "rating2": 1443.6138332494443,
+      "rating_ev": 33.93311108276703
     },
     {
       "date": "2008-06-15",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Eswatini",
       "team2": "Zambia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1096.7054061088322,
-      "rating2": 1488.4703852036141,
-      "rating_ev": 19.557492387751836
+      "rating1": 1093.2900325460755,
+      "rating2": 1495.7143856544765,
+      "rating_ev": 20.229043483820305
     },
     {
       "date": "2008-06-21",
       "country": "Zambia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Zambia",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1473.7889553109803,
-      "rating2": 1111.386836001466,
-      "rating_ev": 14.681429892633787
+      "rating1": 1480.4298012446907,
+      "rating2": 1108.5746169558613,
+      "rating_ev": 15.284584409785793
     },
     {
       "date": "2008-07-19",
       "country": "South Africa",
-      "tournament": "COSAFA Cup qualification",
+      "tournament": "COSAFA Cup",
       "team1": "Madagascar",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1198.5024983863273,
-      "rating2": 1116.9148320379377,
-      "rating_ev": 5.527996036471677
+      "rating1": 1195.668224384763,
+      "rating2": 1114.1012164181159,
+      "rating_ev": 5.52659946225458
     },
     {
       "date": "2008-07-21",
       "country": "South Africa",
-      "tournament": "COSAFA Cup qualification",
+      "tournament": "COSAFA Cup",
       "team1": "Mauritius",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1000.3568559385176,
-      "rating2": 1109.5246864202372,
-      "rating_ev": -7.390145617700341
+      "rating1": 1025.82400887774,
+      "rating2": 1108.4996716429132,
+      "rating_ev": -5.601544775202683
     },
     {
       "date": "2008-07-23",
       "country": "South Africa",
-      "tournament": "COSAFA Cup qualification",
-      "team1": "Seychelles",
-      "team2": "Eswatini",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1046.185881209311,
-      "rating2": 1120.342184102316,
-      "rating_ev": 10.817497682078738
+      "tournament": "COSAFA Cup",
+      "team1": "Eswatini",
+      "team2": "Seychelles",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1119.444166582486,
+      "rating2": 1047.1620600917947,
+      "rating_ev": 10.944494939572905
     },
     {
       "date": "2008-08-20",
@@ -1749,45 +1881,45 @@
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 1355.3675820049925,
-      "rating2": 1109.425139358523,
-      "rating_ev": -10.917044743792985
+      "rating1": 1355.218898787525,
+      "rating2": 1108.549779379183,
+      "rating_ev": -10.89438720330304
     },
     {
       "date": "2008-10-11",
       "country": "Ghana",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Togo",
       "team2": "Eswatini",
       "score1": 6,
       "score2": 0,
-      "rating1": 1461.6341431330145,
-      "rating2": 1051.650569347279,
-      "rating_ev": -57.774570011243895
+      "rating1": 1488.0028587695583,
+      "rating2": 1052.4464540583895,
+      "rating_ev": -56.103325320793374
     },
     {
       "date": "2009-06-19",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 1,
       "score2": 1,
-      "rating1": 1050.100399997087,
-      "rating2": 1095.7468781349896,
-      "rating_ev": -1.5501693501921636
+      "rating1": 1050.1974678872175,
+      "rating2": 1073.8337319661525,
+      "rating_ev": -2.248986171171964
     },
     {
       "date": "2009-06-21",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 1,
       "score2": 1,
-      "rating1": 1048.6427576527453,
-      "rating2": 1097.2045204793312,
-      "rating_ev": -1.4576423443415933
+      "rating1": 1048.0827889648638,
+      "rating2": 1075.9484108885063,
+      "rating_ev": -2.1146789223537326
     },
     {
       "date": "2009-07-06",
@@ -1797,9 +1929,9 @@
       "team2": "Eswatini",
       "score1": 3,
       "score2": 1,
-      "rating1": 1271.195010618774,
-      "rating2": 1044.1229039768734,
-      "rating_ev": -4.5198536758719
+      "rating1": 1267.325793280152,
+      "rating2": 1043.4627461422535,
+      "rating_ev": -4.62004282261023
     },
     {
       "date": "2009-08-12",
@@ -1809,9 +1941,9 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1367.4423369500082,
-      "rating2": 1049.6672215337703,
-      "rating_ev": 5.544317556896885
+      "rating1": 1378.551556733699,
+      "rating2": 1049.355253962031,
+      "rating_ev": 5.892507819777393
     },
     {
       "date": "2009-09-05",
@@ -1821,9 +1953,9 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1296.5824301768487,
-      "rating2": 1060.1155183570022,
-      "rating_ev": 10.448296823231885
+      "rating1": 1298.5176514964783,
+      "rating2": 1059.8711045340426,
+      "rating_ev": 10.515850572011686
     },
     {
       "date": "2009-10-18",
@@ -1833,9 +1965,9 @@
       "team2": "Seychelles",
       "score1": 2,
       "score2": 1,
-      "rating1": 1071.0252748886644,
-      "rating2": 998.2305229104152,
-      "rating_ev": 10.909756531662197
+      "rating1": 1070.9175650360933,
+      "rating2": 1000.1401283364407,
+      "rating_ev": 11.04646050205065
     },
     {
       "date": "2009-10-20",
@@ -1845,9 +1977,9 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1258.8609622723432,
-      "rating2": 1068.0711232210106,
-      "rating_ev": -2.954151667653832
+      "rating1": 1250.9145771901055,
+      "rating2": 1067.4714164932748,
+      "rating_ev": -3.4461485428184915
     },
     {
       "date": "2009-10-22",
@@ -1857,9 +1989,21 @@
       "team2": "Comoros",
       "score1": 3,
       "score2": 0,
-      "rating1": 1098.2471595504196,
-      "rating2": 859.645611388827,
-      "rating_ev": 30.176036329409044
+      "rating1": 1089.840583938734,
+      "rating2": 733.3488756023027,
+      "rating_ev": 22.369167445459198
+    },
+    {
+      "date": "2010-01-23",
+      "country": "South Africa",
+      "tournament": "Friendly",
+      "team1": "South Africa",
+      "team2": "Eswatini",
+      "score1": 6,
+      "score2": 2,
+      "rating1": 1550.7435692163178,
+      "rating2": 1079.2057248156118,
+      "rating_ev": -10.634859123122169
     },
     {
       "date": "2010-08-11",
@@ -1869,33 +2013,33 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 1,
-      "rating1": 1338.5386015242825,
-      "rating2": 1101.3092461677925,
-      "rating_ev": 3.06208661737287
+      "rating1": 1336.9886860078682,
+      "rating2": 1082.7942127189926,
+      "rating_ev": 3.5884879033808375
     },
     {
       "date": "2010-09-05",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Ghana",
       "score1": 0,
       "score2": 3,
-      "rating1": 1090.7678565746098,
-      "rating2": 1739.6953323840128,
-      "rating_ev": -10.541389593182657
+      "rating1": 1071.8744917202316,
+      "rating2": 1714.3313067978904,
+      "rating_ev": -10.919720998761022
     },
     {
       "date": "2010-10-10",
       "country": "Congo",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Congo",
       "team2": "Eswatini",
       "score1": 3,
       "score2": 1,
-      "rating1": 1318.5687907606523,
-      "rating2": 1081.7736431480052,
-      "rating_ev": -8.994213426604574
+      "rating1": 1330.7930359938318,
+      "rating2": 1064.8171602315183,
+      "rating_ev": -7.0573314887133165
     },
     {
       "date": "2010-10-27",
@@ -1905,81 +2049,81 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1342.050161305887,
-      "rating2": 1078.3919872384963,
-      "rating_ev": -3.381655909508936
+      "rating1": 1357.8253248750862,
+      "rating2": 1062.4166186313596,
+      "rating_ev": -2.4005416001587037
     },
     {
       "date": "2011-02-09",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Zambia",
       "score1": 0,
       "score2": 4,
-      "rating1": 1060.495778692847,
-      "rating2": 1488.8922229066109,
-      "rating_ev": -17.896208545649415
+      "rating1": 1045.369053788043,
+      "rating2": 1502.1510884744516,
+      "rating_ev": -17.04756484331665
     },
     {
       "date": "2011-03-27",
       "country": "Sudan",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Sudan",
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 1305.448080600367,
-      "rating2": 1038.5999354643593,
-      "rating_ev": -21.895843228487593
+      "rating1": 1304.2031542094287,
+      "rating2": 1024.3380111832219,
+      "rating_ev": -21.031042604821096
     },
     {
       "date": "2011-05-25",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Botswana",
       "score1": 0,
       "score2": 0,
-      "rating1": 1045.6611037508571,
-      "rating2": 1366.7014706126163,
-      "rating_ev": 7.061168286497832
+      "rating1": 1032.1616138953189,
+      "rating2": 1378.2954244025048,
+      "rating_ev": 7.823602712096999
     },
     {
       "date": "2011-05-29",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Malawi",
       "score1": 1,
       "score2": 1,
-      "rating1": 1054.0242071859914,
-      "rating2": 1418.0196145348361,
-      "rating_ev": 8.363103435134235
+      "rating1": 1040.8458592008083,
+      "rating2": 1415.517529622549,
+      "rating_ev": 8.684245305489412
     },
     {
       "date": "2011-06-05",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Sudan",
       "score1": 1,
       "score2": 2,
-      "rating1": 1049.8603719586372,
-      "rating2": 1318.5523628824976,
-      "rating_ev": -4.163835227354184
+      "rating1": 1037.5438168602352,
+      "rating2": 1319.301721595182,
+      "rating_ev": -3.3020423405730526
     },
     {
       "date": "2011-07-31",
       "country": "South Africa",
       "tournament": "Friendly",
-      "team1": "Eswatini",
-      "team2": "Botswana",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1045.3238998016614,
-      "rating2": 1368.661142520292,
-      "rating_ev": -4.536472156975833
+      "team1": "Botswana",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1378.7494994662325,
+      "rating2": 1033.671581712291,
+      "rating_ev": -3.8722351479441386
     },
     {
       "date": "2011-08-20",
@@ -1989,9 +2133,9 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1097.186720752897,
-      "rating2": 1049.827125948505,
-      "rating_ev": 4.5032261468436445
+      "rating1": 1082.982697813156,
+      "rating2": 1038.0963421055153,
+      "rating_ev": 4.424760393224233
     },
     {
       "date": "2011-08-22",
@@ -2001,57 +2145,57 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 1,
-      "rating1": 1085.9754551502444,
-      "rating2": 1061.0383915511575,
-      "rating_ev": 11.211265602652475
+      "rating1": 1071.845239293871,
+      "rating2": 1049.2338006248003,
+      "rating_ev": 11.137458519285019
     },
     {
       "date": "2011-09-02",
       "country": "Ghana",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Ghana",
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1729.2952255474809,
-      "rating2": 1077.8869221954517,
-      "rating_ev": 16.848530644294215
+      "rating1": 1709.205968458237,
+      "rating2": 1065.6362875705775,
+      "rating_ev": 16.402486945777127
     },
     {
       "date": "2011-10-08",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Congo",
       "score1": 0,
       "score2": 1,
-      "rating1": 1070.2364742378195,
-      "rating2": 1286.4405925581827,
-      "rating_ev": -7.6504479576321955
+      "rating1": 1059.434805075428,
+      "rating2": 1297.3842440640728,
+      "rating_ev": -6.201482495149548
     },
     {
       "date": "2011-11-11",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup qualifier",
       "team1": "Eswatini",
       "team2": "DR Congo",
       "score1": 1,
       "score2": 3,
-      "rating1": 1055.2081021794936,
-      "rating2": 1394.0865156035923,
-      "rating_ev": -15.028372058325886
+      "rating1": 1046.628240742076,
+      "rating2": 1419.666059519491,
+      "rating_ev": -12.806564333351844
     },
     {
       "date": "2011-11-15",
-      "country": "DR Congo",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Dem Rep of the Congo",
+      "tournament": "World Cup qualifier",
       "team1": "DR Congo",
       "team2": "Eswatini",
       "score1": 5,
       "score2": 1,
-      "rating1": 1421.6615476263198,
-      "rating2": 1027.633070156766,
-      "rating_ev": -27.575032022727555
+      "rating1": 1450.9287855499852,
+      "rating2": 1015.3655147115818,
+      "rating_ev": -31.26272603049415
     },
     {
       "date": "2012-10-12",
@@ -2061,9 +2205,9 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 1,
-      "rating1": 1041.0905738255562,
-      "rating2": 1023.763146228674,
-      "rating_ev": -3.869923928092021
+      "rating1": 1040.1123255699065,
+      "rating2": 1011.8430852820286,
+      "rating_ev": -3.5224294295533127
     },
     {
       "date": "2012-10-14",
@@ -2073,33 +2217,45 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 1,
-      "rating1": 1030.7758486120076,
-      "rating2": 1034.0778714422227,
-      "rating_ev": 10.314725213548627
+      "rating1": 1029.470891178925,
+      "rating2": 1022.4845196730099,
+      "rating_ev": 10.64143439098143
     },
     {
       "date": "2012-11-11",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Lesotho",
       "score1": 0,
       "score2": 0,
-      "rating1": 1031.158746299211,
-      "rating2": 1033.6949737550192,
-      "rating_ev": -2.91912514301157
+      "rating1": 1019.8726484468665,
+      "rating2": 1032.0827624050685,
+      "rating_ev": -2.611871226143421
     },
     {
       "date": "2013-01-17",
       "country": "South Africa",
       "tournament": "Friendly",
-      "team1": "Eswatini",
-      "team2": "Burkina Faso",
+      "team1": "Burkina Faso",
+      "team2": "Eswatini",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1457.6824217009773,
+      "rating2": 1012.0551437011704,
+      "rating_ev": -7.817504745695942
+    },
+    {
+      "date": "2013-03-13",
+      "country": "Mozambique",
+      "tournament": "Friendly",
+      "team1": "Mozambique",
+      "team2": "Eswatini",
       "score1": 0,
-      "score2": 3,
-      "rating1": 1022.0991295518131,
-      "rating2": 1426.1749116542667,
-      "rating_ev": -9.059616747397968
+      "score2": 0,
+      "rating1": 1256.7966925868193,
+      "rating2": 1022.4380700709115,
+      "rating_ev": 10.382926369740971
     },
     {
       "date": "2013-03-22",
@@ -2109,33 +2265,9 @@
       "team2": "Eswatini",
       "score1": 10,
       "score2": 0,
-      "rating1": 1676.5477813082252,
-      "rating2": 989.3899943262061,
-      "rating_ev": -32.70913522560704
-    },
-    {
-      "date": "2013-06-23",
-      "country": "Eswatini",
-      "tournament": "African Nations Championship",
-      "team1": "Eswatini",
-      "team2": "Angola",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 995.237897477878,
-      "rating2": 1418.7768378385813,
-      "rating_ev": 5.8479031516719715
-    },
-    {
-      "date": "2013-06-29",
-      "country": "Angola",
-      "tournament": "African Nations Championship",
-      "team1": "Angola",
-      "team2": "Eswatini",
-      "score1": 1,
-      "score2": 0,
-      "rating1": 1402.3027167050363,
-      "rating2": 1011.712018611423,
-      "rating_ev": 16.47412113354494
+      "rating1": 1674.9363734746773,
+      "rating2": 989.6764373515472,
+      "rating_ev": -32.76163271936434
     },
     {
       "date": "2013-07-07",
@@ -2145,9 +2277,9 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1296.967611284501,
-      "rating2": 1029.6305978187368,
-      "rating_ev": 17.91857920731377
+      "rating1": 1225.1896109041957,
+      "rating2": 1004.5228648236151,
+      "rating_ev": 14.846427472067944
     },
     {
       "date": "2013-07-09",
@@ -2157,9 +2289,9 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1374.7058385620694,
-      "rating2": 1021.8859643934458,
-      "rating_ev": -7.744633425291113
+      "rating1": 1403.6459476163525,
+      "rating2": 1000.0475344471099,
+      "rating_ev": -4.475330376505326
     },
     {
       "date": "2013-07-11",
@@ -2169,21 +2301,21 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1101.3383443341058,
-      "rating2": 997.5439253291531,
-      "rating_ev": -24.34203906429252
+      "rating1": 1094.997914556936,
+      "rating2": 976.6885082674813,
+      "rating_ev": -23.3590261796287
     },
     {
       "date": "2013-11-15",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "South Africa",
       "score1": 0,
       "score2": 3,
-      "rating1": 990.2782861514713,
-      "rating2": 1557.4639443612998,
-      "rating_ev": -7.2656391776818054
+      "rating1": 969.7458265530894,
+      "rating2": 1548.310327862237,
+      "rating_ev": -6.942681714391938
     },
     {
       "date": "2014-03-07",
@@ -2193,9 +2325,9 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 1,
-      "rating1": 1157.3698062513463,
-      "rating2": 1005.499412332422,
-      "rating_ev": 15.221126180950705
+      "rating1": 1154.0809881570262,
+      "rating2": 985.490908519616,
+      "rating_ev": 15.74508196652664
     },
     {
       "date": "2014-03-09",
@@ -2205,45 +2337,69 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1150.025824793494,
-      "rating2": 1012.8433937902744,
-      "rating_ev": 7.343981457852351
+      "rating1": 1146.2420993018313,
+      "rating2": 993.3297973748109,
+      "rating_ev": 7.838888855194909
+    },
+    {
+      "date": "2014-05-11",
+      "country": "Botswana",
+      "tournament": "Friendly",
+      "team1": "Botswana",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 4,
+      "rating1": 1216.5059705779888,
+      "rating2": 1024.0693040974754,
+      "rating_ev": 30.739506722664373
+    },
+    {
+      "date": "2014-05-18",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Eswatini",
+      "team2": "Sierra Leone",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1036.7230893589663,
+      "rating2": 1321.0956134167186,
+      "rating_ev": 12.653785261490839
     },
     {
       "date": "2014-05-31",
       "country": "Sierra Leone",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Sierra Leone",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1335.0066436861493,
-      "rating2": 1024.199827322258,
-      "rating_ev": 11.356433531983612
+      "rating1": 1312.57963306284,
+      "rating2": 1045.2390697128449,
+      "rating_ev": 8.515980353878604
     },
     {
-      "date": "2014-10-15",
-      "country": "Eswatini",
+      "date": "2014-09-10",
+      "country": "Namibia",
       "tournament": "Friendly",
-      "team1": "Eswatini",
-      "team2": "Zimbabwe",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1019.7530197238777,
-      "rating2": 1444.9531602578838,
-      "rating_ev": -4.446807598380246
+      "team1": "Namibia",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1246.7201393621324,
+      "rating2": 1054.3157745126766,
+      "rating_ev": 9.07670479983176
     },
     {
       "date": "2014-11-16",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "Tanzania",
       "score1": 1,
       "score2": 1,
-      "rating1": 1026.0586967982579,
-      "rating2": 1322.3932588081125,
-      "rating_ev": 6.305677074380128
+      "rating1": 1059.2831679489657,
+      "rating2": 1312.200061585782,
+      "rating_ev": 4.967393436289058
     },
     {
       "date": "2015-01-10",
@@ -2253,45 +2409,45 @@
       "team2": "Eswatini",
       "score1": 5,
       "score2": 1,
-      "rating1": 1479.1060224092234,
-      "rating2": 1012.2968010724605,
-      "rating_ev": -13.76189572579733
+      "rating1": 1530.4368087892174,
+      "rating2": 1046.0405029773883,
+      "rating_ev": -13.24266497157737
     },
     {
       "date": "2015-03-25",
-      "country": "Eswatini",
+      "country": "Swaziland",
       "tournament": "Friendly",
       "team1": "Eswatini",
       "team2": "South Africa",
       "score1": 1,
       "score2": 3,
-      "rating1": 1012.3281656929419,
-      "rating2": 1591.855268608953,
-      "rating_ev": 0.03136462048132671
+      "rating1": 1045.2054666320973,
+      "rating2": 1594.1482104444244,
+      "rating_ev": -0.8350363452909733
     },
     {
       "date": "2015-05-18",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
-      "team1": "Tanzania",
-      "team2": "Eswatini",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1287.4605148721175,
-      "rating2": 1044.4354249439793,
-      "rating_ev": 32.107259251037476
+      "team1": "Eswatini",
+      "team2": "Tanzania",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1074.829507247152,
+      "rating2": 1280.0572120146724,
+      "rating_ev": 29.624040615054582
     },
     {
       "date": "2015-05-20",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
-      "team1": "Lesotho",
-      "team2": "Eswatini",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1127.0300919541714,
-      "rating2": 1079.058113150457,
-      "rating_ev": 34.62268820647773
+      "team1": "Eswatini",
+      "team2": "Lesotho",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1108.5463474566288,
+      "rating2": 1143.100702508552,
+      "rating_ev": 33.71684020947691
     },
     {
       "date": "2015-05-22",
@@ -2301,141 +2457,141 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1165.1443380876178,
-      "rating2": 1084.520920300013,
-      "rating_ev": 5.462807149555829
+      "rating1": 1198.3982708052065,
+      "rating2": 1114.2475928039264,
+      "rating_ev": 5.701245347297572
     },
     {
       "date": "2015-06-12",
       "country": "Morocco",
-      "tournament": "African Cup of Nations qualification",
-      "team1": "Guinea",
-      "team2": "Eswatini",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1493.7965919558453,
-      "rating2": 1124.711880165246,
-      "rating_ev": 40.190959865233026
-    },
-    {
-      "date": "2015-06-21",
-      "country": "Eswatini",
-      "tournament": "African Nations Championship",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
-      "team2": "Angola",
+      "team2": "Guinea",
       "score1": 2,
-      "score2": 2,
-      "rating1": 1137.982646433046,
-      "rating2": 1431.809792649201,
-      "rating_ev": 13.270766267800127
-    },
-    {
-      "date": "2015-07-04",
-      "country": "Angola",
-      "tournament": "African Nations Championship",
-      "team1": "Angola",
-      "team2": "Eswatini",
-      "score1": 2,
-      "score2": 0,
-      "rating1": 1436.424150333555,
-      "rating2": 1133.368288748692,
-      "rating_ev": -4.61435768435399
+      "score2": 1,
+      "rating1": 1152.4376491459166,
+      "rating2": 1489.816910738263,
+      "rating_ev": 38.19005634199016
     },
     {
       "date": "2015-09-06",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Malawi",
       "score1": 2,
       "score2": 2,
-      "rating1": 1141.1231189089494,
-      "rating2": 1351.207529265554,
-      "rating_ev": 7.75483016025737
+      "rating1": 1158.8181883623247,
+      "rating2": 1348.2756517523471,
+      "rating_ev": 6.380539216408124
     },
     {
       "date": "2015-10-09",
       "country": "Djibouti",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Djibouti",
       "team2": "Eswatini",
       "score1": 0,
       "score2": 6,
-      "rating1": 461.5267181916458,
-      "rating2": 1185.6928491023339,
-      "rating_ev": 44.569730193384544
+      "rating1": 442.04637454590886,
+      "rating2": 1201.3620886046724,
+      "rating_ev": 42.54390024234772
     },
     {
       "date": "2015-10-17",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup qualifier",
       "team1": "Eswatini",
       "team2": "Djibouti",
       "score1": 2,
       "score2": 1,
-      "rating1": 1153.191314788702,
-      "rating2": 494.0282525052777,
-      "rating_ev": -32.501534313631964
+      "rating1": 1167.1150803593077,
+      "rating2": 476.2933827912736,
+      "rating_ev": -34.24700824536467
     },
     {
       "date": "2015-11-13",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup qualifier",
       "team1": "Eswatini",
       "team2": "Nigeria",
       "score1": 0,
       "score2": 0,
-      "rating1": 1174.8304200293544,
-      "rating2": 1599.7791172687546,
-      "rating_ev": 21.639105240652498
+      "rating1": 1188.6863101076258,
+      "rating2": 1612.5461850515599,
+      "rating_ev": 21.571229748318046
     },
     {
       "date": "2015-11-17",
       "country": "Nigeria",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Nigeria",
       "team2": "Eswatini",
       "score1": 2,
       "score2": 0,
-      "rating1": 1596.904852726522,
-      "rating2": 1177.704684571587,
-      "rating_ev": 2.874264542232595
+      "rating1": 1609.733063666549,
+      "rating2": 1191.4994314926366,
+      "rating_ev": 2.813121385010845
     },
     {
       "date": "2016-03-25",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Zimbabwe",
       "score1": 1,
       "score2": 1,
-      "rating1": 1183.9522535055187,
-      "rating2": 1371.4181169220492,
-      "rating_ev": 6.247568933931689
+      "rating1": 1193.060759272044,
+      "rating2": 1310.7258092908232,
+      "rating_ev": 1.5613277794072928
+    },
+    {
+      "date": "2016-03-28",
+      "country": "Zimbabwe",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Zimbabwe",
+      "team2": "Eswatini",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1351.260882060233,
+      "rating2": 1152.5256865026342,
+      "rating_ev": -40.53507276940968
+    },
+    {
+      "date": "2016-05-27",
+      "country": "Lesotho",
+      "tournament": "Friendly",
+      "team1": "Lesotho",
+      "team2": "Eswatini",
+      "score1": 0,
+      "score2": 2,
+      "rating1": 1081.6212854471662,
+      "rating2": 1167.492541319359,
+      "rating_ev": 14.966854816724663
     },
     {
       "date": "2016-06-05",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Guinea",
       "score1": 1,
       "score2": 0,
-      "rating1": 1212.0368211422256,
-      "rating2": 1491.1819921424737,
-      "rating_ev": 28.08456763670688
+      "rating1": 1196.4232208185567,
+      "rating2": 1488.625689917863,
+      "rating_ev": 28.930679499197822
     },
     {
       "date": "2016-06-11",
       "country": "Namibia",
       "tournament": "COSAFA Cup",
-      "team1": "Zimbabwe",
-      "team2": "Eswatini",
+      "team1": "Eswatini",
+      "team2": "Zimbabwe",
       "score1": 2,
       "score2": 2,
-      "rating1": 1402.7711792704333,
-      "rating2": 1224.0920120048715,
-      "rating_ev": 12.055190862645986
+      "rating1": 1208.333009289209,
+      "rating2": 1384.8342117544917,
+      "rating_ev": 11.909788470652302
     },
     {
       "date": "2016-06-13",
@@ -2445,9 +2601,9 @@
       "team2": "Seychelles",
       "score1": 4,
       "score2": 0,
-      "rating1": 1260.1173375111216,
-      "rating2": 897.8538798086968,
-      "rating_ev": 36.025325506250056
+      "rating1": 1246.2611885136248,
+      "rating2": 912.8853195501223,
+      "rating_ev": 37.92817922441577
     },
     {
       "date": "2016-06-15",
@@ -2457,21 +2613,21 @@
       "team2": "Madagascar",
       "score1": 1,
       "score2": 0,
-      "rating1": 1270.84670864859,
-      "rating2": 1195.389758091184,
-      "rating_ev": 10.729371137468434
+      "rating1": 1258.0139100771862,
+      "rating2": 1197.6560068206322,
+      "rating_ev": 11.752721563561408
     },
     {
       "date": "2016-06-19",
       "country": "Namibia",
       "tournament": "COSAFA Cup",
-      "team1": "Zambia",
-      "team2": "Eswatini",
+      "team1": "Eswatini",
+      "team2": "Zambia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1473.7291533130556,
-      "rating2": 1283.6612769385622,
-      "rating_ev": 12.814568289972158
+      "rating1": 1268.4368141992652,
+      "rating2": 1422.7125106865208,
+      "rating_ev": 10.42290412207899
     },
     {
       "date": "2016-06-22",
@@ -2481,9 +2637,9 @@
       "team2": "Eswatini",
       "score1": 5,
       "score2": 1,
-      "rating1": 1569.9112705749503,
-      "rating2": 1245.1623421761105,
-      "rating_ev": -38.498934762451654
+      "rating1": 1602.7877746561157,
+      "rating2": 1232.9107391147782,
+      "rating_ev": -35.52607508448705
     },
     {
       "date": "2016-06-25",
@@ -2493,45 +2649,69 @@
       "team2": "DR Congo",
       "score1": 1,
       "score2": 0,
-      "rating1": 1281.3179569890722,
-      "rating2": 1586.8236366240117,
-      "rating_ev": 36.15561481296163
+      "rating1": 1268.140119007407,
+      "rating2": 1559.2457477961316,
+      "rating_ev": 35.22937989262891
     },
     {
       "date": "2016-09-04",
       "country": "Malawi",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Malawi",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1279.5338715139635,
-      "rating2": 1272.3641113186782,
-      "rating_ev": -8.953845670394003
+      "rating1": 1286.5933607661677,
+      "rating2": 1260.4717830802967,
+      "rating_ev": -7.66833592711032
+    },
+    {
+      "date": "2017-05-26",
+      "country": "Swaziland",
+      "tournament": "Friendly",
+      "team1": "Eswatini",
+      "team2": "Lesotho",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1261.5163458143,
+      "rating2": 1155.1021853682403,
+      "rating_ev": 1.0445627340031933
+    },
+    {
+      "date": "2017-05-28",
+      "country": "Swaziland",
+      "tournament": "Friendly",
+      "team1": "Eswatini",
+      "team2": "Lesotho",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 1248.5452382131245,
+      "rating2": 1168.0732929694157,
+      "rating_ev": -12.97110760117539
     },
     {
       "date": "2017-06-10",
       "country": "Niger",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Niger",
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1249.1300058078868,
-      "rating2": 1276.887626459417,
-      "rating_ev": 4.523515140738937
+      "rating1": 1269.0867346709854,
+      "rating2": 1255.8492880290323,
+      "rating_ev": 7.304049815907774
     },
     {
       "date": "2017-07-02",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
-      "team1": "Eswatini",
-      "team2": "Zimbabwe",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1277.99365458631,
-      "rating2": 1529.7884415185902,
-      "rating_ev": 1.106028126892852
+      "team1": "Zimbabwe",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1517.2753659191956,
+      "rating2": 1257.4837631434755,
+      "rating_ev": 1.6344751144431484
     },
     {
       "date": "2017-07-04",
@@ -2541,33 +2721,9 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1341.1164415610228,
-      "rating2": 1267.1624487194988,
-      "rating_ev": -10.83120586681116
-    },
-    {
-      "date": "2017-07-16",
-      "country": "Eswatini",
-      "tournament": "African Nations Championship",
-      "team1": "Eswatini",
-      "team2": "Zambia",
-      "score1": 0,
-      "score2": 4,
-      "rating1": 1218.5462050856302,
-      "rating2": 1487.4276488412854,
-      "rating_ev": -48.616243633868635
-    },
-    {
-      "date": "2017-07-22",
-      "country": "Zambia",
-      "tournament": "African Nations Championship",
-      "team1": "Zambia",
-      "team2": "Eswatini",
-      "score1": 3,
-      "score2": 0,
-      "rating1": 1506.6430950446938,
-      "rating2": 1199.3307588822217,
-      "rating_ev": -19.21544620340842
+      "rating1": 1334.4443371223938,
+      "rating2": 1247.5304140101275,
+      "rating_ev": -9.953349133347956
     },
     {
       "date": "2018-03-27",
@@ -2577,9 +2733,21 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 829.19010220231,
-      "rating2": 1191.0325388085741,
-      "rating_ev": -8.298220073647599
+      "rating1": 840.3048244502578,
+      "rating2": 1238.1525944747923,
+      "rating_ev": -9.377819535335334
+    },
+    {
+      "date": "2018-04-19",
+      "country": "Eswatini",
+      "tournament": "Friendly",
+      "team1": "Eswatini",
+      "team2": "Namibia",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1245.8352405615567,
+      "rating2": 1348.7413436966046,
+      "rating_ev": 7.682646086764407
     },
     {
       "date": "2018-05-25",
@@ -2589,9 +2757,9 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 1,
-      "rating1": 1320.8768682904133,
-      "rating2": 1205.117923758178,
-      "rating_ev": 14.08538494960385
+      "rating1": 1327.354446562459,
+      "rating2": 1258.440604142289,
+      "rating_ev": 12.605363580732273
     },
     {
       "date": "2018-06-02",
@@ -2601,225 +2769,261 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1199.6798951646324,
-      "rating2": 1189.9326668891038,
-      "rating_ev": -15.185256869074237
+      "rating1": 1240.0893677420238,
+      "rating2": 1242.4352993207438,
+      "rating_ev": -16.005304821545224
     },
     {
       "date": "2018-06-05",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
+      "team1": "Botswana",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1372.565266279689,
+      "rating2": 1221.3041866380638,
+      "rating_ev": -21.13111268267994
+    },
+    {
+      "date": "2018-08-26",
+      "country": "Lesotho",
+      "tournament": "Friendly",
+      "team1": "Lesotho",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1273.4731124853954,
+      "rating2": 1218.6255118404908,
+      "rating_ev": -2.678674797572967
+    },
+    {
+      "date": "2018-08-27",
+      "country": "Lesotho",
+      "tournament": "Friendly",
+      "team1": "Lesotho",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1282.831457536786,
+      "rating2": 1209.2671667891002,
+      "rating_ev": -9.358345051390643
+    },
+    {
+      "date": "2018-09-09",
+      "country": "Eswatini",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
-      "team2": "Botswana",
+      "team2": "Tunisia",
       "score1": 0,
       "score2": 2,
-      "rating1": 1172.3365087328302,
-      "rating2": 1376.1127267383097,
-      "rating_ev": -17.596158156273532
+      "rating1": 1201.16758993584,
+      "rating2": 1647.809190299818,
+      "rating_ev": -8.09957685326026
     },
     {
       "date": "2018-10-12",
       "country": "Egypt",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Egypt",
       "team2": "Eswatini",
       "score1": 4,
       "score2": 1,
-      "rating1": 1636.5415351172603,
-      "rating2": 1163.7751980938363,
-      "rating_ev": -8.561310638993973
+      "rating1": 1659.5387715068796,
+      "rating2": 1192.2622462116333,
+      "rating_ev": -8.90534372420666
     },
     {
       "date": "2018-10-16",
       "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Egypt",
       "score1": 0,
       "score2": 2,
-      "rating1": 1158.0331398218057,
-      "rating2": 1642.283593389291,
-      "rating_ev": -5.74205827203059
+      "rating1": 1186.2161312237608,
+      "rating2": 1665.584886494752,
+      "rating_ev": -6.046114987872443
     },
     {
-      "date": "2019-04-20",
+      "date": "2018-11-18",
       "country": "Eswatini",
-      "tournament": "African Nations Championship qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
-      "team2": "Malawi",
-      "score1": 0,
-      "score2": 0,
-      "rating1": 1156.2994333398303,
-      "rating2": 1225.2171603728325,
-      "rating_ev": -1.7337064819753323
-    },
-    {
-      "date": "2019-05-11",
-      "country": "Malawi",
-      "tournament": "African Nations Championship qualification",
-      "team1": "Malawi",
-      "team2": "Eswatini",
+      "team2": "Niger",
       "score1": 1,
-      "score2": 1,
-      "rating1": 1215.4620353694422,
-      "rating2": 1166.0545583432206,
-      "rating_ev": 9.755125003390276
+      "score2": 2,
+      "rating1": 1170.4934236166682,
+      "rating2": 1266.7942272611958,
+      "rating_ev": -15.722707607092616
     },
     {
-      "date": "2019-05-25",
+      "date": "2019-03-10",
       "country": "South Africa",
-      "tournament": "COSAFA Cup",
-      "team1": "Eswatini",
-      "team2": "Mauritius",
-      "score1": 2,
-      "score2": 2,
-      "rating1": 1154.8571066893344,
-      "rating2": 989.0139652114558,
-      "rating_ev": -11.197451653886219
-    },
-    {
-      "date": "2019-05-27",
-      "country": "South Africa",
-      "tournament": "COSAFA Cup",
-      "team1": "Eswatini",
-      "team2": "Comoros",
-      "score1": 2,
-      "score2": 2,
-      "rating1": 1150.994524629041,
-      "rating2": 1094.01948025514,
-      "rating_ev": -3.8625820602933345
-    },
-    {
-      "date": "2019-07-28",
-      "country": "Eswatini",
-      "tournament": "African Nations Championship qualification",
-      "team1": "Eswatini",
-      "team2": "Angola",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1157.4723716859603,
-      "rating2": 1348.3877402460553,
-      "rating_ev": 6.477847056919245
-    },
-    {
-      "date": "2019-08-03",
-      "country": "Angola",
-      "tournament": "African Nations Championship qualification",
-      "team1": "Angola",
-      "team2": "Eswatini",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1331.3913226930865,
-      "rating2": 1174.468789238929,
-      "rating_ev": 16.99641755296875
-    },
-    {
-      "date": "2019-09-04",
-      "country": "Djibouti",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Djibouti",
-      "team2": "Eswatini",
-      "score1": 2,
-      "score2": 1,
-      "rating1": 590.8637755365356,
-      "rating2": 1130.2753088253332,
-      "rating_ev": -44.19348041359592
-    },
-    {
-      "date": "2019-09-10",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Eswatini",
-      "team2": "Djibouti",
-      "score1": 0,
-      "score2": 0,
-      "rating1": 1093.4554417539405,
-      "rating2": 627.6836426079284,
-      "rating_ev": -36.819867071392764
-    },
-    {
-      "date": "2019-09-22",
-      "country": "Eswatini",
-      "tournament": "African Nations Championship qualification",
-      "team1": "Eswatini",
-      "team2": "Zambia",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1096.6261950446587,
-      "rating2": 1478.017180372248,
-      "rating_ev": 3.1707532907182667
-    },
-    {
-      "date": "2019-10-19",
-      "country": "Zambia",
-      "tournament": "African Nations Championship qualification",
-      "team1": "Zambia",
-      "team2": "Eswatini",
-      "score1": 2,
-      "score2": 2,
-      "rating1": 1448.8940267694727,
-      "rating2": 1124.607606622828,
-      "rating_ev": 27.981411578169173
-    },
-    {
-      "date": "2019-11-13",
-      "country": "Guinea-Bissau",
-      "tournament": "African Cup of Nations qualification",
-      "team1": "Guinea-Bissau",
-      "team2": "Eswatini",
-      "score1": 3,
-      "score2": 0,
-      "rating1": 1198.9940348806565,
-      "rating2": 1091.9571958063268,
-      "rating_ev": -32.65041081650111
-    },
-    {
-      "date": "2019-11-17",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
-      "team1": "Eswatini",
-      "team2": "Senegal",
-      "score1": 1,
-      "score2": 4,
-      "rating1": 1079.1693817481776,
-      "rating2": 1689.9832603269326,
-      "rating_ev": -12.787814058149252
-    },
-    {
-      "date": "2021-03-26",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
-      "team1": "Eswatini",
-      "team2": "Guinea-Bissau",
-      "score1": 1,
-      "score2": 3,
-      "rating1": 1051.6569688103373,
-      "rating2": 1203.241244566598,
-      "rating_ev": -27.51241293784028
-    },
-    {
-      "date": "2021-03-30",
-      "country": "Senegal",
-      "tournament": "African Cup of Nations qualification",
-      "team1": "Senegal",
-      "team2": "Eswatini",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1628.5081747220613,
-      "rating2": 1092.6580198536064,
-      "rating_ev": 41.00105104326917
-    },
-    {
-      "date": "2021-06-08",
-      "country": "Mozambique",
       "tournament": "Friendly",
       "team1": "Mozambique",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1274.6010191281493,
-      "rating2": 1101.1418198940084,
-      "rating_ev": 8.483800040402002
+      "rating1": 1250.5594724458672,
+      "rating2": 1172.9561494865666,
+      "rating_ev": 2.4627258698983496
+    },
+    {
+      "date": "2019-03-22",
+      "country": "Tunisia",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Tunisia",
+      "team2": "Eswatini",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1637.7757778342916,
+      "rating2": 1151.2894988081837,
+      "rating_ev": -21.666650678382894
+    },
+    {
+      "date": "2019-05-25",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Mauritius",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1026.8846818626098,
+      "rating2": 1143.4039008471423,
+      "rating_ev": -7.885597961041299
+    },
+    {
+      "date": "2019-05-27",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Comoros",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1151.1566738208974,
+      "rating2": 1143.8963731755166,
+      "rating_ev": 0.4924723283743333
+    },
+    {
+      "date": "2019-09-04",
+      "country": "Djibouti",
+      "tournament": "World Cup qualifier",
+      "team1": "Djibouti",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 543.5188278313809,
+      "rating2": 1098.7814502610972,
+      "rating_ev": -45.11492291441948
+    },
+    {
+      "date": "2019-09-10",
+      "country": "Eswatini",
+      "tournament": "World Cup qualifier",
+      "team1": "Eswatini",
+      "team2": "Djibouti",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1061.1065628794408,
+      "rating2": 581.1937152130372,
+      "rating_ev": -37.67488738165639
+    },
+    {
+      "date": "2019-11-13",
+      "country": "Guinea-Bissau",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Guinea-Bissau",
+      "team2": "Eswatini",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1282.203998415637,
+      "rating2": 1037.719832618564,
+      "rating_ev": -23.386730260876902
+    },
+    {
+      "date": "2019-11-17",
+      "country": "Eswatini",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Eswatini",
+      "team2": "Senegal",
+      "score1": 1,
+      "score2": 4,
+      "rating1": 1030.0939873993582,
+      "rating2": 1729.645062617199,
+      "rating_ev": -7.6258452192057575
+    },
+    {
+      "date": "2020-11-12",
+      "country": "Congo",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Congo",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1380.1279042146864,
+      "rating2": 1028.6353989085342,
+      "rating_ev": -1.4585884908240132
+    },
+    {
+      "date": "2020-11-16",
+      "country": "Eswatini",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Eswatini",
+      "team2": "Congo",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1043.6943594546474,
+      "rating2": 1365.0689436685732,
+      "rating_ev": 15.058960546113212
+    },
+    {
+      "date": "2021-03-26",
+      "country": "Eswatini",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Eswatini",
+      "team2": "Guinea-Bissau",
+      "score1": 1,
+      "score2": 3,
+      "rating1": 1023.9105439294862,
+      "rating2": 1290.6723915917341,
+      "rating_ev": -19.78381552516123
+    },
+    {
+      "date": "2021-03-30",
+      "country": "Senegal",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Senegal",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1646.7259645225124,
+      "rating2": 1067.4305357172032,
+      "rating_ev": 43.51999178771712
+    },
+    {
+      "date": "2021-06-05",
+      "country": "Mozambique",
+      "tournament": "Friendly tournament",
+      "team1": "Eswatini",
+      "team2": "Lesotho",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1088.548417934771,
+      "rating2": 1166.461107453269,
+      "rating_ev": 21.11788221756774
+    },
+    {
+      "date": "2021-06-08",
+      "country": "Mozambique",
+      "tournament": "Friendly tournament",
+      "team1": "Mozambique",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1266.3157902825212,
+      "rating2": 1105.7859788043042,
+      "rating_ev": 17.237560869533354
     },
     {
       "date": "2021-07-06",
@@ -2829,9 +3033,9 @@
       "team2": "Lesotho",
       "score1": 3,
       "score2": 1,
-      "rating1": 1136.9587844000757,
-      "rating2": 1202.6498000366464,
-      "rating_ev": 35.81696450606728
+      "rating1": 1137.298603379242,
+      "rating2": 1139.2669428308504,
+      "rating_ev": 31.512624574937718
     },
     {
       "date": "2021-07-08",
@@ -2841,45 +3045,45 @@
       "team2": "Eswatini",
       "score1": 1,
       "score2": 0,
-      "rating1": 1389.1712239707647,
-      "rating2": 1144.012943073691,
-      "rating_ev": 7.054158673615348
+      "rating1": 1439.4411701110673,
+      "rating2": 1147.4308254512132,
+      "rating_ev": 10.132222071971228
     },
     {
       "date": "2021-07-10",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
-      "team1": "Zambia",
-      "team2": "Eswatini",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1392.6154137190113,
-      "rating2": 1174.4871541173104,
-      "rating_ev": 30.474211043619334
+      "team1": "Eswatini",
+      "team2": "Zambia",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1176.939076765869,
+      "rating2": 1380.4128235406115,
+      "rating_ev": 29.50825131465581
     },
     {
       "date": "2021-07-14",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
-      "team1": "Eswatini",
-      "team2": "Botswana",
+      "team1": "Botswana",
+      "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1183.7061014438548,
-      "rating2": 1320.0419554643304,
-      "rating_ev": 9.218947326544367
+      "rating1": 1312.098907526378,
+      "rating2": 1185.5030932312382,
+      "rating_ev": 8.56401646536915
     },
     {
       "date": "2021-07-16",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
-      "team1": "Senegal",
-      "team2": "Eswatini",
+      "team1": "Eswatini",
+      "team2": "Senegal",
       "score1": 2,
       "score2": 2,
-      "rating1": 1572.7266670634478,
-      "rating2": 1207.912656864138,
-      "rating_ev": 24.206555420283166
+      "rating1": 1210.1023405917374,
+      "rating2": 1581.108616836872,
+      "rating_ev": 24.59924736049925
     },
     {
       "date": "2021-07-18",
@@ -2889,33 +3093,57 @@
       "team2": "Mozambique",
       "score1": 1,
       "score2": 1,
-      "rating1": 1213.677099312407,
-      "rating2": 1298.762839438859,
-      "rating_ev": 5.764442448269165
+      "rating1": 1215.335233440058,
+      "rating2": 1292.5584478896055,
+      "rating_ev": 5.232892848320489
+    },
+    {
+      "date": "2022-03-08",
+      "country": "Eswatini",
+      "tournament": "Friendly",
+      "team1": "Eswatini",
+      "team2": "Lesotho",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1208.9493665729915,
+      "rating2": 1102.1389165059736,
+      "rating_ev": -6.385866867066397
+    },
+    {
+      "date": "2022-03-08",
+      "country": "Eswatini",
+      "tournament": "Friendly",
+      "team1": "Eswatini",
+      "team2": "Lesotho",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1229.5396574839276,
+      "rating2": 1081.5486255950375,
+      "rating_ev": 20.59029091093612
     },
     {
       "date": "2022-03-23",
       "country": "Tanzania",
-      "tournament": "African Cup of Nations qualification",
-      "team1": "Somalia",
-      "team2": "Eswatini",
-      "score1": 0,
-      "score2": 3,
-      "rating1": 750.920245079442,
-      "rating2": 1228.2975890772914,
-      "rating_ev": 14.620489764884269
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Eswatini",
+      "team2": "Somalia",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1245.3852691723007,
+      "rating2": 787.4561540545682,
+      "rating_ev": 15.845611688373083
     },
     {
       "date": "2022-03-27",
       "country": "South Africa",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Somalia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1214.4646234382008,
-      "rating2": 764.7532107185325,
-      "rating_ev": -13.832965639090617
+      "rating1": 1232.6302551759052,
+      "rating2": 800.2111680509636,
+      "rating_ev": -12.755013996395519
     },
     {
       "date": "2022-05-24",
@@ -2925,69 +3153,225 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 1,
-      "rating1": 1250.788292459041,
-      "rating2": 1225.6812822963961,
-      "rating_ev": 11.216658858195387
+      "rating1": 1251.063339662088,
+      "rating2": 1243.2964716525564,
+      "rating_ev": 10.666216476651243
+    },
+    {
+      "date": "2022-05-27",
+      "country": "South Africa",
+      "tournament": "Friendly",
+      "team1": "Botswana",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1317.0220549103335,
+      "rating2": 1238.373324268601,
+      "rating_ev": -4.923147383955438
     },
     {
       "date": "2022-06-03",
       "country": "Togo",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Togo",
       "team2": "Eswatini",
       "score1": 2,
       "score2": 2,
-      "rating1": 1373.531783497954,
-      "rating2": 1241.0407556191267,
-      "rating_ev": 15.359473322730537
+      "rating1": 1333.2623288256527,
+      "rating2": 1250.3913425808807,
+      "rating_ev": 12.018018312279764
     },
     {
       "date": "2022-06-07",
       "country": "South Africa",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Burkina Faso",
+      "team2": "Eswatini",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1532.0533408201343,
+      "rating2": 1238.7526056523943,
+      "rating_ev": -11.638736928486423
+    },
+    {
+      "date": "2022-07-06",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
       "team1": "Eswatini",
-      "team2": "Burkina Faso",
+      "team2": "Mauritius",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1258.7510392395614,
+      "rating2": 865.7705407817494,
+      "rating_ev": 19.99843358716703
+    },
+    {
+      "date": "2022-07-08",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Eswatini",
+      "team2": "Malawi",
       "score1": 1,
-      "score2": 3,
-      "rating1": 1229.2030708549305,
-      "rating2": 1519.4871641930097,
-      "rating_ev": -11.837684764196183
+      "score2": 1,
+      "rating1": 1259.02957791407,
+      "rating2": 1263.1359249191364,
+      "rating_ev": 0.2785386745085816
+    },
+    {
+      "date": "2022-07-10",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Eswatini",
+      "team2": "Lesotho",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1279.9309302592774,
+      "rating2": 1125.2662219858105,
+      "rating_ev": 20.901352345207442
+    },
+    {
+      "date": "2022-07-13",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Eswatini",
+      "team2": "Senegal",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1301.4403603549529,
+      "rating2": 1624.0780536655861,
+      "rating_ev": 21.509430095675498
+    },
+    {
+      "date": "2022-07-15",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Botswana",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1365.8628710846833,
+      "rating2": 1276.1443717058128,
+      "rating_ev": -25.2959886491401
+    },
+    {
+      "date": "2023-03-16",
+      "country": "Lesotho",
+      "tournament": "Friendly",
+      "team1": "Lesotho",
+      "team2": "Eswatini",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1147.0075599889753,
+      "rating2": 1275.084234173754,
+      "rating_ev": -1.0601375320586612
     },
     {
       "date": "2023-03-24",
       "country": "Cape Verde",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Cape Verde",
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1431.7209634190522,
-      "rating2": 1247.988021431233,
-      "rating_ev": 18.784950576302435
+      "rating1": 1440.1656651937656,
+      "rating2": 1291.526372512273,
+      "rating_ev": 16.442138338518816
     },
     {
       "date": "2023-03-28",
       "country": "South Africa",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Cape Verde",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1445.2637361613806,
+      "rating2": 1286.4283015446579,
+      "rating_ev": -5.098070967615058
+    },
+    {
+      "date": "2023-06-03",
+      "country": "Eswatini",
+      "tournament": "Friendly",
       "team1": "Eswatini",
-      "team2": "Cape Verde",
-      "score1": 0,
+      "team2": "Lesotho",
+      "score1": 1,
+      "score2": 2,
+      "rating1": 1272.0311559850338,
+      "rating2": 1146.3758377415857,
+      "rating_ev": -14.39714555962405
+    },
+    {
+      "date": "2023-06-03",
+      "country": "Eswatini",
+      "tournament": "Friendly",
+      "team1": "Eswatini",
+      "team2": "Lesotho",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1272.4416196255033,
+      "rating2": 1145.9653741011161,
+      "rating_ev": 0.41046364046951567
+    },
+    {
+      "date": "2023-06-18",
+      "country": "South Africa",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Togo",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1355.7583898103958,
+      "rating2": 1248.3447616602543,
+      "rating_ev": -24.096857965249
+    },
+    {
+      "date": "2023-07-05",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Botswana",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1337.9546287526143,
+      "rating2": 1239.1933189687413,
+      "rating_ev": -9.151442691513012
+    },
+    {
+      "date": "2023-07-08",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Eswatini",
+      "team2": "Namibia",
+      "score1": 2,
       "score2": 1,
-      "rating1": 1244.9660660721252,
-      "rating2": 1434.74291877816,
-      "rating_ev": -3.0219553591077783
+      "rating1": 1261.5911001685408,
+      "rating2": 1358.5002405097534,
+      "rating_ev": 22.39778119979951
+    },
+    {
+      "date": "2023-07-11",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "South Africa",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1486.1374024743843,
+      "rating2": 1266.9259843372736,
+      "rating_ev": 5.334884168732742
     },
     {
       "date": "2023-09-08",
       "country": "Morocco",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Burkina Faso",
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1513.9510420768222,
-      "rating2": 1261.883388082829,
-      "rating_ev": 16.917322010703856
+      "rating1": 1497.5807307663736,
+      "rating2": 1281.4706580627287,
+      "rating_ev": 14.54467372545514
     },
     {
       "date": "2023-10-13",
@@ -2997,9 +3381,9 @@
       "team2": "Eswatini",
       "score1": 0,
       "score2": 0,
-      "rating1": 1462.841861450038,
-      "rating2": 1270.9442565525871,
-      "rating_ev": 9.060868469758134
+      "rating1": 1439.8763093907269,
+      "rating2": 1289.2380594909382,
+      "rating_ev": 7.767401428209496
     },
     {
       "date": "2023-10-16",
@@ -3009,33 +3393,33 @@
       "team2": "Eswatini",
       "score1": 2,
       "score2": 1,
-      "rating1": 1287.8846359970044,
-      "rating2": 1267.1815430212985,
-      "rating_ev": -3.762713531288682
+      "rating1": 1328.5088853897146,
+      "rating2": 1286.1625968786184,
+      "rating_ev": -3.075462612319825
     },
     {
       "date": "2023-11-17",
       "country": "South Africa",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Eswatini",
-      "team2": "Libya",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1257.7635766021615,
-      "rating2": 1352.586223712311,
-      "rating_ev": -9.417966419136974
+      "tournament": "World Cup qualifier",
+      "team1": "Libya",
+      "team2": "Eswatini",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1317.6493086105572,
+      "rating2": 1273.3227844163102,
+      "rating_ev": -12.839812462308146
     },
     {
       "date": "2023-11-21",
       "country": "South Africa",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Eswatini",
-      "team2": "Cape Verde",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1238.4416972369581,
-      "rating2": 1416.5380992699932,
-      "rating_ev": -19.32187936520336
+      "tournament": "World Cup qualifier",
+      "team1": "Cape Verde",
+      "team2": "Eswatini",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1446.0475439756144,
+      "rating2": 1254.8800588653828,
+      "rating_ev": -18.442725550927435
     }
   ]
 }

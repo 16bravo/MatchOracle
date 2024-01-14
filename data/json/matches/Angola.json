@@ -9,9 +9,9 @@
       "team2": "Angola",
       "score1": 3,
       "score2": 2,
-      "rating1": 1507.4597491491102,
-      "rating2": 1543.43742225345,
-      "rating_ev": -5.562577746550005
+      "rating1": 1507.0514730919579,
+      "rating2": 1543.4248640833648,
+      "rating_ev": -5.57513591663519
     },
     {
       "date": "1976-02-15",
@@ -21,69 +21,201 @@
       "team2": "Congo",
       "score1": 1,
       "score2": 1,
-      "rating1": 1539.5426234682272,
-      "rating2": 1511.354547934333,
-      "rating_ev": -3.894798785222747
+      "rating1": 1539.5182528287523,
+      "rating2": 1510.9580843465703,
+      "rating_ev": -3.9066112546124714
     },
     {
-      "date": "1978-08-16",
+      "date": "1976-07-12",
       "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "tournament": "Friendly",
       "team1": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "team2": "Angola",
-      "score1": 3,
+      "score1": 0,
       "score2": 3,
-      "rating1": 983.7806191759498,
-      "rating2": 1525.968743956102,
-      "rating_ev": -13.573879512125359
+      "rating1": 822.5052340546802,
+      "rating2": 1542.5800223545568,
+      "rating_ev": 3.0617695258044932
     },
     {
-      "date": "1979-04-25",
+      "date": "1977-06-26",
+      "country": "Angola",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "Cuba",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1546.7914658889142,
+      "rating2": 1540.216833726947,
+      "rating_ev": 4.211443534357386
+    },
+    {
+      "date": "1977-06-29",
+      "country": "Angola",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "Cuba",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1550.7513671902068,
+      "rating2": 1536.2569324256544,
+      "rating_ev": 3.9599013012925752
+    },
+    {
+      "date": "1977-07-02",
+      "country": "Angola",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "Cuba",
+      "score1": 2,
+      "score2": 4,
+      "rating1": 1533.6817269700955,
+      "rating2": 1553.3265726457657,
+      "rating_ev": -17.069640220111296
+    },
+    {
+      "date": "1978-05-16",
+      "country": "Angola",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "Cuba",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1538.4246263095597,
+      "rating2": 1548.5836733063015,
+      "rating_ev": 4.742899339464202
+    },
+    {
+      "date": "1978-05-18",
+      "country": "Angola",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "Cuba",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1542.8842618550623,
+      "rating2": 1544.124037760799,
+      "rating_ev": 4.459635545502579
+    },
+    {
+      "date": "1978-05-21",
+      "country": "Angola",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "Cuba",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 1533.1240143860389,
+      "rating2": 1553.8842852298224,
+      "rating_ev": -9.760247469023398
+    },
+    {
+      "date": "1978-06-03",
+      "country": "Cape Verde",
+      "tournament": "Friendly tournament",
+      "team1": "Angola",
+      "team2": "Gambia",
+      "score1": 5,
+      "score2": 3,
+      "rating1": 1540.3561510117786,
+      "rating2": 1179.629260120403,
+      "rating_ev": 7.232136625739713
+    },
+    {
+      "date": "1978-06-05",
+      "country": "Cape Verde",
+      "tournament": "Friendly tournament",
+      "team1": "Cape Verde",
+      "team2": "Angola",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 1231.2344999499326,
+      "rating2": 1541.7698796427933,
+      "rating_ev": 1.413728631014692
+    },
+    {
+      "date": "1978-07-10",
+      "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "tournament": "Friendly tournament",
+      "team1": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "team2": "Angola",
+      "score1": 3,
+      "score2": 3,
+      "rating1": 883.4269315443149,
+      "rating2": 1508.2255818847043,
+      "rating_ev": -33.5442977580891
+    },
+    {
+      "date": "1978-07-12",
+      "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "tournament": "Friendly tournament",
+      "team1": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "team2": "Angola",
+      "score1": 0,
+      "score2": 2,
+      "rating1": 885.8774482344901,
+      "rating2": 1505.7750651945291,
+      "rating_ev": -2.4505166901751636
+    },
+    {
+      "date": "1978-10-17",
+      "country": "Cuba",
+      "tournament": "Friendly",
+      "team1": "Cuba",
+      "team2": "Angola",
+      "score1": 1,
+      "score2": 2,
+      "rating1": 1563.9132176216585,
+      "rating2": 1517.6624150113955,
+      "rating_ev": 11.88734981686639
+    },
+    {
+      "date": "1979-07-12",
       "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "tournament": "Friendly",
       "team1": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "team2": "Angola",
       "score1": 1,
       "score2": 2,
-      "rating1": 989.6478320832415,
-      "rating2": 1520.1015310488103,
-      "rating_ev": -5.867212907291673
+      "rating1": 894.1247692930322,
+      "rating2": 1509.4150939528533,
+      "rating_ev": -8.24732105854207
     },
     {
       "date": "1979-11-25",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Zone V Tournament",
       "team1": "Angola",
       "team2": "Gabon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1519.758860249096,
-      "rating2": 1369.4024380930916,
-      "rating_ev": -0.3426707997143694
+      "rating1": 1507.3325112789746,
+      "rating2": 1336.8470255707362,
+      "rating_ev": -2.0825826738787327
     },
     {
       "date": "1979-11-27",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Zone V Tournament",
       "team1": "Angola",
       "team2": "Cameroon",
       "score1": 0,
       "score2": 1,
-      "rating1": 1508.9793238126695,
-      "rating2": 1497.643330783101,
-      "rating_ev": -10.779536436426497
+      "rating1": 1490.4420867242388,
+      "rating2": 1569.5071734296048,
+      "rating_ev": -16.890424554735773
     },
     {
       "date": "1979-11-29",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Zone V Tournament",
       "team1": "Angola",
       "team2": "Congo",
       "score1": 0,
       "score2": 1,
-      "rating1": 1498.4610504162495,
-      "rating2": 1495.3533663164087,
-      "rating_ev": -10.51827339642
+      "rating1": 1476.6717522577567,
+      "rating2": 1601.8309762666256,
+      "rating_ev": -13.770334466482154
     },
     {
       "date": "1980-11-01",
@@ -93,9 +225,9 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1609.2985142700418,
-      "rating2": 1504.774664992687,
-      "rating_ev": 6.3136145764374305
+      "rating1": 1594.6539067817594,
+      "rating2": 1483.2041643220864,
+      "rating_ev": 6.532412064329719
     },
     {
       "date": "1980-11-02",
@@ -105,33 +237,57 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1603.3604022864374,
-      "rating2": 1510.7127769762913,
-      "rating_ev": 5.938111983604358
+      "rating1": 1588.5097907964255,
+      "rating2": 1489.3482803074203,
+      "rating_ev": 6.144115985333883
+    },
+    {
+      "date": "1980-11-09",
+      "country": "Angola",
+      "tournament": "Friendly tournament",
+      "team1": "Angola",
+      "team2": "Mozambique",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1467.8621233167842,
+      "rating2": 1243.363111028453,
+      "rating_ev": -21.48615699063612
+    },
+    {
+      "date": "1980-11-11",
+      "country": "Angola",
+      "tournament": "Friendly tournament",
+      "team1": "Angola",
+      "team2": "Tunisia",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1473.6006139772153,
+      "rating2": 1653.4480284411597,
+      "rating_ev": 5.738490660431125
     },
     {
       "date": "1980-11-16",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Congo",
       "score1": 1,
       "score2": 1,
-      "rating1": 1505.3415815584065,
-      "rating2": 1520.601595097743,
-      "rating_ev": -5.371195417884792
+      "rating1": 1476.4211801132383,
+      "rating2": 1612.7769186779874,
+      "rating_ev": 2.8205661360229897
     },
     {
       "date": "1980-11-30",
       "country": "Congo",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Congo",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1514.0491361145657,
-      "rating2": 1511.8940405415838,
-      "rating_ev": 6.552458983177303
+      "rating1": 1599.0089891235373,
+      "rating2": 1490.1891096676884,
+      "rating_ev": 13.76792955445012
     },
     {
       "date": "1981-04-04",
@@ -141,69 +297,141 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1692.2244659555706,
-      "rating2": 1520.3288307594723,
-      "rating_ev": 8.434790217888576
+      "rating1": 1675.301452800742,
+      "rating2": 1498.7692011733482,
+      "rating_ev": 8.580091505659766
+    },
+    {
+      "date": "1981-06-23",
+      "country": "Madagascar",
+      "tournament": "Friendly",
+      "team1": "Madagascar",
+      "team2": "Angola",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1334.910751729271,
+      "rating2": 1496.648563079402,
+      "rating_ev": -2.120638093946127
     },
     {
       "date": "1981-06-25",
       "country": "Mozambique",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Mozambique",
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1241.8688794877974,
-      "rating2": 1521.9302610379482,
-      "rating_ev": 1.6014302784758456
+      "rating1": 1234.7836549168478,
+      "rating2": 1500.977469757887,
+      "rating_ev": 4.328906678485055
     },
     {
       "date": "1981-06-27",
       "country": "Mozambique",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Zimbabwe",
       "score1": 1,
       "score2": 1,
-      "rating1": 1519.7855997401125,
-      "rating2": 1452.2185008013982,
-      "rating_ev": -2.1446612978356825
+      "rating1": 1502.6650967482035,
+      "rating2": 1527.5474119822563,
+      "rating_ev": 1.687626990316403
     },
     {
-      "date": "1982-10-13",
-      "country": "Gabon",
-      "tournament": "African Cup of Nations qualification",
-      "team1": "Gabon",
+      "date": "1981-08-21",
+      "country": "Angola",
+      "tournament": "Central African Games",
+      "team1": "Angola",
+      "team2": "Cameroon",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1508.6581344807457,
+      "rating2": 1692.313635338548,
+      "rating_ev": 5.993037732542234
+    },
+    {
+      "date": "1981-08-23",
+      "country": "Angola",
+      "tournament": "Central African Games",
+      "team1": "Angola",
+      "team2": "Gabon",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1491.5242788398725,
+      "rating2": 1332.5460730680409,
+      "rating_ev": -17.133855640873207
+    },
+    {
+      "date": "1981-08-25",
+      "country": "Angola",
+      "tournament": "Central African Games",
+      "team1": "Angola",
+      "team2": "Congo",
+      "score1": 1,
+      "score2": 3,
+      "rating1": 1462.2367386121562,
+      "rating2": 1587.5819415346766,
+      "rating_ev": -29.287540227716363
+    },
+    {
+      "date": "1981-08-29",
+      "country": "Angola",
+      "tournament": "Central African Games",
+      "team1": "Angola",
+      "team2": "DR Congo",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1462.546871056819,
+      "rating2": 1561.6777434054632,
+      "rating_ev": 0.31013244466294054
+    },
+    {
+      "date": "1981-11-02",
+      "country": "Zambia",
+      "tournament": "Friendly",
+      "team1": "Zambia",
       "team2": "Angola",
-      "score1": 2,
-      "score2": 2,
-      "rating1": 1348.4439226571155,
-      "rating2": 1514.9407855146337,
-      "rating_ev": -4.844814225478785
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1638.87481833812,
+      "rating2": 1470.8599697928169,
+      "rating_ev": 8.313098735997755
     },
     {
       "date": "1982-11-11",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Ghana",
       "score1": 1,
       "score2": 2,
-      "rating1": 1509.148532161842,
-      "rating2": 1655.1197285155454,
-      "rating_ev": -5.792253352791704
+      "rating1": 1462.53551385007,
+      "rating2": 1668.653665048989,
+      "rating_ev": -8.324455942746908
     },
     {
-      "date": "1982-11-14",
+      "date": "1982-11-18",
+      "country": "Gabon",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Gabon",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1364.4419922464056,
+      "rating2": 1462.310668882571,
+      "rating_ev": -0.22484496749893879
+    },
+    {
+      "date": "1982-11-28",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Gabon",
       "score1": 4,
       "score2": 0,
-      "rating1": 1547.1302052409387,
-      "rating2": 1310.4622495780188,
-      "rating_ev": 37.98167307909671
+      "rating1": 1504.023397426215,
+      "rating2": 1322.7292637027615,
+      "rating_ev": 41.71272854364406
     },
     {
       "date": "1982-12-08",
@@ -213,9 +441,9 @@
       "team2": "Angola",
       "score1": 3,
       "score2": 1,
-      "rating1": 1639.2297872213885,
-      "rating2": 1538.6290394163518,
-      "rating_ev": -8.501165824586906
+      "rating1": 1590.771679647373,
+      "rating2": 1495.3578829476535,
+      "rating_ev": -8.66551447856159
     },
     {
       "date": "1983-04-03",
@@ -225,57 +453,81 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1537.762204858804,
-      "rating2": 1534.3181646685518,
-      "rating_ev": -4.310874747799971
+      "rating1": 1592.8716531077653,
+      "rating2": 1494.0723553874336,
+      "rating_ev": -1.2855275602198617
     },
     {
       "date": "1983-04-09",
       "country": "Nigeria",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Nigeria",
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1574.10557515445,
-      "rating2": 1513.4570374122625,
-      "rating_ev": -20.861127256289365
+      "rating1": 1549.9577351684384,
+      "rating2": 1474.2335198513917,
+      "rating_ev": -19.83883553604187
     },
     {
       "date": "1983-04-24",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Nigeria",
       "score1": 1,
       "score2": 0,
-      "rating1": 1525.39044157692,
-      "rating2": 1562.1721709897924,
-      "rating_ev": 11.933404164657532
+      "rating1": 1487.0659187908211,
+      "rating2": 1537.125336229009,
+      "rating_ev": 12.832398939429368
+    },
+    {
+      "date": "1983-07-10",
+      "country": "Angola",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Angola",
+      "team2": "Cameroon",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1489.3849281314172,
+      "rating2": 1618.2912146877457,
+      "rating_ev": 2.3190093405960397
+    },
+    {
+      "date": "1983-07-24",
+      "country": "Cameroon",
+      "tournament": "Olympic Games qualifier",
+      "team1": "Cameroon",
+      "team2": "Angola",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1618.91905097347,
+      "rating2": 1488.757091845693,
+      "rating_ev": -0.6278362857242428
     },
     {
       "date": "1984-07-01",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Senegal",
       "score1": 1,
       "score2": 0,
-      "rating1": 1532.8871015798238,
-      "rating2": 1504.234455332708,
-      "rating_ev": 7.496660002903809
+      "rating1": 1497.4855528531098,
+      "rating2": 1486.9929724959095,
+      "rating_ev": 8.728461007416854
     },
     {
       "date": "1984-07-15",
       "country": "Senegal",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Senegal",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1514.2581666805463,
-      "rating2": 1522.8633902319855,
-      "rating_ev": -10.023711347838343
+      "rating1": 1495.9321643014791,
+      "rating2": 1488.5463610475401,
+      "rating_ev": -8.939191805569635
     },
     {
       "date": "1984-09-30",
@@ -285,9 +537,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 3,
-      "rating1": 932.6818933327754,
-      "rating2": 1522.54185657221,
-      "rating_ev": -0.32153365977546855
+      "rating1": 899.4702263305572,
+      "rating2": 1488.2549612793252,
+      "rating_ev": -0.29139976821500113
     },
     {
       "date": "1984-11-11",
@@ -297,117 +549,153 @@
       "team2": "Congo",
       "score1": 1,
       "score2": 0,
-      "rating1": 1525.4739258823242,
-      "rating2": 1478.6104422507144,
-      "rating_ev": 2.9320693101142297
+      "rating1": 1492.952575196046,
+      "rating2": 1501.6856302501185,
+      "rating_ev": 4.697613916720684
     },
     {
       "date": "1985-03-31",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Algeria",
       "score1": 0,
       "score2": 0,
-      "rating1": 1528.9725981507152,
-      "rating2": 1675.4112418774596,
-      "rating_ev": 3.4986722683909193
+      "rating1": 1498.2937169514503,
+      "rating2": 1672.2015823787472,
+      "rating_ev": 5.341141755404351
     },
     {
       "date": "1985-04-19",
       "country": "Algeria",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Algeria",
       "team2": "Angola",
       "score1": 3,
       "score2": 2,
-      "rating1": 1674.9987435831167,
-      "rating2": 1529.385096445058,
-      "rating_ev": 0.41249829434286767
+      "rating1": 1670.1629021569152,
+      "rating2": 1500.3323971732823,
+      "rating_ev": 2.03868022183201
+    },
+    {
+      "date": "1985-06-25",
+      "country": "Mozambique",
+      "tournament": "Friendly",
+      "team1": "Mozambique",
+      "team2": "Angola",
+      "score1": 0,
+      "score2": 3,
+      "rating1": 1294.2339487079512,
+      "rating2": 1517.938566991898,
+      "rating_ev": 17.606169818615626
     },
     {
       "date": "1985-06-30",
       "country": "Cape Verde",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "score1": 3,
       "score2": 2,
-      "rating1": 1520.955360752961,
-      "rating2": 1005.1579755772167,
-      "rating_ev": -8.429735692096983
+      "rating1": 1496.219551970614,
+      "rating2": 915.8437843143162,
+      "rating_ev": -21.719015021283894
     },
     {
-      "date": "1985-07-09",
+      "date": "1985-07-02",
       "country": "Cape Verde",
-      "tournament": "Friendly",
-      "team1": "Cape Verde",
+      "tournament": "Friendly tournament",
+      "team1": "Mozambique",
       "team2": "Angola",
-      "score1": 0,
-      "score2": 0,
-      "rating1": 1259.6243265389062,
-      "rating2": 1515.8844701089108,
-      "rating_ev": -5.070890644050223
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1320.1953145401744,
+      "rating2": 1470.2581861383908,
+      "rating_ev": -25.961365832223237
     },
     {
-      "date": "1985-07-10",
+      "date": "1985-07-03",
       "country": "Cape Verde",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Guinea-Bissau",
       "score1": 3,
       "score2": 1,
-      "rating1": 1521.8808751919057,
-      "rating2": 1245.9402741661304,
-      "rating_ev": 5.996405082994897
+      "rating1": 1483.2002090812907,
+      "rating2": 1209.6232127769952,
+      "rating_ev": 12.94202294289994
+    },
+    {
+      "date": "1985-07-06",
+      "country": "Cape Verde",
+      "tournament": "Friendly tournament",
+      "team1": "Cape Verde",
+      "team2": "Angola",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1252.7301614348232,
+      "rating2": 1474.658760115605,
+      "rating_ev": -8.541448965685731
+    },
+    {
+      "date": "1985-07-09",
+      "country": "Cape Verde",
+      "tournament": "Friendly tournament",
+      "team1": "Angola",
+      "team2": "Mozambique",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1479.0865593689869,
+      "rating2": 1310.2769547082248,
+      "rating_ev": 4.427799253381863
     },
     {
       "date": "1985-11-08",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Mozambique",
       "score1": 0,
       "score2": 0,
-      "rating1": 1514.1343391907521,
-      "rating2": 1364.1597026460959,
-      "rating_ev": -7.746536001153572
+      "rating1": 1465.320562332425,
+      "rating2": 1356.529381428925,
+      "rating_ev": -13.765997036561885
     },
     {
       "date": "1985-11-10",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Zimbabwe",
       "score1": 2,
       "score2": 3,
-      "rating1": 1501.656239247803,
-      "rating2": 1436.7617646930842,
-      "rating_ev": -12.478099942949257
+      "rating1": 1443.365103483033,
+      "rating2": 1447.7414725166514,
+      "rating_ev": -21.955458849392016
     },
     {
       "date": "1986-10-05",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Gabon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1504.2886640935935,
-      "rating2": 1403.826310235952,
-      "rating_ev": 2.632424845790638
+      "rating1": 1449.9665593206548,
+      "rating2": 1408.1140154305995,
+      "rating_ev": 6.60145583762187
     },
     {
       "date": "1986-10-19",
       "country": "Gabon",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Gabon",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1418.132294870778,
-      "rating2": 1489.9826794587675,
-      "rating_ev": -14.305984634826018
+      "rating1": 1418.9257940685343,
+      "rating2": 1439.15478068272,
+      "rating_ev": -10.811778637934822
     },
     {
       "date": "1986-12-07",
@@ -417,9 +705,9 @@
       "team2": "Tanzania",
       "score1": 1,
       "score2": 0,
-      "rating1": 1488.6090923960512,
-      "rating2": 1305.4531057063186,
-      "rating_ev": -1.3735870627162967
+      "rating1": 1439.7320869971093,
+      "rating2": 1318.5380871732323,
+      "rating_ev": 0.5773063143892614
     },
     {
       "date": "1986-12-10",
@@ -429,57 +717,81 @@
       "team2": "Zambia",
       "score1": 0,
       "score2": 1,
-      "rating1": 1480.9681311126985,
-      "rating2": 1568.4972702819643,
-      "rating_ev": -7.640961283352681
+      "rating1": 1433.7094393743005,
+      "rating2": 1572.3811384175947,
+      "rating_ev": -6.02264762280879
     },
     {
       "date": "1987-03-29",
-      "country": "Za\u00efre",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Zaire",
+      "tournament": "African Nations Cup qualifier",
       "team1": "DR Congo",
       "team2": "Angola",
       "score1": 3,
       "score2": 0,
-      "rating1": 1582.8205107256408,
-      "rating2": 1450.0603475949538,
-      "rating_ev": -30.907783517744747
+      "rating1": 1603.5908318218085,
+      "rating2": 1407.1041630755947,
+      "rating_ev": -26.605276298705803
     },
     {
-      "date": "1987-04-11",
+      "date": "1987-04-12",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "DR Congo",
       "score1": 1,
       "score2": 0,
-      "rating1": 1466.2863267020357,
-      "rating2": 1566.594531618559,
-      "rating_ev": 16.225979107081912
+      "rating1": 1427.1005306678278,
+      "rating2": 1583.5944642295754,
+      "rating_ev": 19.996367592233128
     },
     {
-      "date": "1987-07-26",
-      "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "tournament": "Friendly",
-      "team1": "Angola",
-      "team2": "Guinea-Bissau",
-      "score1": 0,
-      "score2": 0,
-      "rating1": 1459.2980191617717,
-      "rating2": 1237.7772938387357,
-      "rating_ev": -6.988307540264032
-    },
-    {
-      "date": "1987-07-27",
-      "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "tournament": "Friendly",
-      "team1": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "date": "1987-04-18",
+      "country": "Congo",
+      "tournament": "Central African Games",
+      "team1": "Congo",
       "team2": "Angola",
-      "score1": 1,
+      "score1": 3,
+      "score2": 3,
+      "rating1": 1448.3026061724338,
+      "rating2": 1434.4465299186709,
+      "rating_ev": 7.345999250843079
+    },
+    {
+      "date": "1987-04-21",
+      "country": "Congo",
+      "tournament": "Central African Games",
+      "team1": "Angola",
+      "team2": "DR Congo",
+      "score1": 2,
       "score2": 1,
-      "rating1": 1005.6323806892217,
-      "rating2": 1448.5851653729706,
-      "rating_ev": -10.712853788801112
+      "rating1": 1457.28564598817,
+      "rating2": 1560.7553481600762,
+      "rating_ev": 22.83911606949914
+    },
+    {
+      "date": "1987-04-27",
+      "country": "Congo",
+      "tournament": "Central African Games",
+      "team1": "Angola",
+      "team2": "Gabon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1469.0926019566318,
+      "rating2": 1409.534661642769,
+      "rating_ev": 11.806955968461807
+    },
+    {
+      "date": "1987-04-30",
+      "country": "Congo",
+      "tournament": "Central African Games",
+      "team1": "Cameroon",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1706.648512875221,
+      "rating2": 1454.7140523579285,
+      "rating_ev": -14.37854959870333
     },
     {
       "date": "1987-10-24",
@@ -489,9 +801,9 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1592.5101384235081,
-      "rating2": 1441.6723345596965,
-      "rating_ev": -6.912830813274013
+      "rating1": 1587.6151720941768,
+      "rating2": 1447.4639481268614,
+      "rating_ev": -7.250104231067098
     },
     {
       "date": "1987-11-29",
@@ -501,33 +813,57 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1420.6923580155492,
-      "rating2": 1443.9338573236498,
-      "rating_ev": 2.2615227639532804
+      "rating1": 1400.1197279413448,
+      "rating2": 1448.9142048621363,
+      "rating_ev": 1.4502567352749338
     },
     {
       "date": "1987-12-08",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Cuba",
       "score1": 3,
       "score2": 2,
-      "rating1": 1444.245001193974,
-      "rating2": 1314.6229952571587,
-      "rating_ev": 0.3111438703242584
+      "rating1": 1453.9379117150556,
+      "rating2": 1388.8089678292142,
+      "rating_ev": 5.023706852919304
     },
     {
       "date": "1987-12-10",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Benin",
       "score1": 0,
       "score2": 0,
-      "rating1": 1435.1414145833687,
-      "rating2": 1241.876739928149,
-      "rating_ev": -9.103586610605362
+      "rating1": 1434.7639204104214,
+      "rating2": 1245.181193411,
+      "rating_ev": -19.173991304634228
+    },
+    {
+      "date": "1988-06-22",
+      "country": "Mozambique",
+      "tournament": "Friendly",
+      "team1": "Mozambique",
+      "team2": "Angola",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 1264.1575927067693,
+      "rating2": 1439.6270190513249,
+      "rating_ev": 4.863098640903445
+    },
+    {
+      "date": "1988-06-26",
+      "country": "Mozambique",
+      "tournament": "Friendly",
+      "team1": "Mozambique",
+      "team2": "Angola",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 1259.5820530429583,
+      "rating2": 1444.2025587151359,
+      "rating_ev": 4.575539663811014
     },
     {
       "date": "1988-08-01",
@@ -537,45 +873,45 @@
       "team2": "Gabon",
       "score1": 4,
       "score2": 1,
-      "rating1": 1450.7782964610794,
-      "rating2": 1354.6971129532908,
-      "rating_ev": 15.63688187771072
+      "rating1": 1458.984714328501,
+      "rating2": 1335.9298435310668,
+      "rating_ev": 14.782155613365148
     },
     {
       "date": "1988-08-07",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Sudan",
       "score1": 0,
       "score2": 0,
-      "rating1": 1438.2380448870306,
-      "rating2": 1347.630525255397,
-      "rating_ev": -12.540251574048852
+      "rating1": 1447.484110991071,
+      "rating2": 1372.2726621172023,
+      "rating_ev": -11.500603337429993
     },
     {
-      "date": "1988-10-02",
+      "date": "1988-10-05",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Equatorial Guinea",
-      "score1": 0,
+      "score1": 4,
       "score2": 1,
-      "rating1": 1398.6688239407001,
-      "rating2": 1138.9657926926075,
-      "rating_ev": -39.56922094633046
+      "rating1": 1459.9851368330053,
+      "rating2": 1049.4285757337393,
+      "rating_ev": 12.501025841934279
     },
     {
       "date": "1988-10-16",
       "country": "Equatorial Guinea",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Equatorial Guinea",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1148.716888802555,
-      "rating2": 1388.9177278307525,
-      "rating_ev": -9.751096109947639
+      "rating1": 1067.8436061552668,
+      "rating2": 1441.5701064114778,
+      "rating_ev": -18.41503042152749
     },
     {
       "date": "1988-10-29",
@@ -585,9 +921,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1599.2053019221823,
-      "rating2": 1398.261103702841,
-      "rating_ev": 9.343375872088473
+      "rating1": 1599.6030671797112,
+      "rating2": 1449.3261470778332,
+      "rating_ev": 7.756040666355375
     },
     {
       "date": "1988-11-08",
@@ -597,81 +933,81 @@
       "team2": "Angola",
       "score1": 5,
       "score2": 0,
-      "rating1": 1465.8993388887427,
-      "rating2": 1369.906379469169,
-      "rating_ev": -28.35472423367196
+      "rating1": 1470.4089687647518,
+      "rating2": 1419.5384979909247,
+      "rating_ev": -29.78764908690846
     },
     {
       "date": "1988-11-11",
       "country": "Sudan",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Sudan",
       "team2": "Angola",
       "score1": 1,
       "score2": 2,
-      "rating1": 1329.3664077324527,
-      "rating2": 1388.1704969921134,
-      "rating_ev": 18.26411752294439
+      "rating1": 1355.500507799931,
+      "rating2": 1436.310652308196,
+      "rating_ev": 16.772154317271315
     },
     {
       "date": "1988-11-18",
       "country": "Cape Verde",
-      "tournament": "Friendly",
-      "team1": "Angola",
-      "team2": "Senegal",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1386.2691516073603,
-      "rating2": 1560.5909001279801,
-      "rating_ev": -1.9013453847530855
+      "tournament": "Friendly tournament",
+      "team1": "Senegal",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1516.6619746455308,
+      "rating2": 1426.572317451524,
+      "rating_ev": -9.738334856672054
     },
     {
       "date": "1988-11-19",
       "country": "Cape Verde",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Cape Verde",
       "team2": "Angola",
       "score1": 2,
       "score2": 3,
-      "rating1": 1217.2848770070254,
-      "rating2": 1391.1817016873763,
-      "rating_ev": 4.91255008001599
+      "rating1": 1199.7575279654027,
+      "rating2": 1433.0815076357262,
+      "rating_ev": 6.509190184202225
     },
     {
       "date": "1988-12-30",
-      "country": "Za\u00efre",
+      "country": "Zaire",
       "tournament": "Friendly",
       "team1": "DR Congo",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1559.9166337485156,
-      "rating2": 1399.2637623725925,
-      "rating_ev": 8.08206068521622
+      "rating1": 1570.1711548333005,
+      "rating2": 1440.1983392452876,
+      "rating_ev": 7.116831609561359
     },
     {
       "date": "1989-01-08",
       "country": "Cameroon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Cameroon",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1537.652463770774,
-      "rating2": 1414.027698688463,
-      "rating_ev": 14.763936315870524
+      "rating1": 1551.1843556050103,
+      "rating2": 1453.233873028294,
+      "rating_ev": 13.035533783006485
     },
     {
       "date": "1989-01-22",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Nigeria",
       "score1": 2,
       "score2": 2,
-      "rating1": 1417.0624462931864,
-      "rating2": 1556.6014603263754,
-      "rating_ev": 3.0347476047234068
+      "rating1": 1454.3984449119266,
+      "rating2": 1566.1825853771986,
+      "rating_ev": 1.1645718836325614
     },
     {
       "date": "1989-03-29",
@@ -681,45 +1017,45 @@
       "team2": "Angola",
       "score1": 6,
       "score2": 0,
-      "rating1": 1705.1888656888034,
-      "rating2": 1390.026013873722,
-      "rating_ev": -27.036432419464518
+      "rating1": 1750.1146730341932,
+      "rating2": 1427.5898993107792,
+      "rating_ev": -26.808545601147443
     },
     {
       "date": "1989-04-09",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Ivory Coast",
       "score1": 0,
       "score2": 2,
-      "rating1": 1369.3217652404232,
-      "rating2": 1622.2560820088029,
-      "rating_ev": -20.704248633298675
+      "rating1": 1404.0817904199696,
+      "rating2": 1615.1024223384416,
+      "rating_ev": -23.50810889080958
     },
     {
-      "date": "1989-04-13",
+      "date": "1989-04-14",
       "country": "Angola",
       "tournament": "Friendly",
       "team1": "Angola",
       "team2": "Mozambique",
       "score1": 1,
       "score2": 1,
-      "rating1": 1364.4931229095157,
-      "rating2": 1306.87339502437,
-      "rating_ev": -4.828642330907542
+      "rating1": 1397.2598823258295,
+      "rating2": 1276.63911102612,
+      "rating_ev": -6.821908094140099
     },
     {
       "date": "1989-04-23",
       "country": "Ivory Coast",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Ivory Coast",
       "team2": "Angola",
       "score1": 4,
       "score2": 1,
-      "rating1": 1642.11993473205,
-      "rating2": 1344.6292701862685,
-      "rating_ev": -19.86385272324719
+      "rating1": 1637.3045062647175,
+      "rating2": 1375.0577983995536,
+      "rating_ev": -22.202083926275918
     },
     {
       "date": "1989-05-16",
@@ -729,105 +1065,105 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1215.858620281408,
-      "rating2": 1350.7706499048604,
-      "rating_ev": 6.141379718591907
+      "rating1": 1216.7613734374238,
+      "rating2": 1380.2964249621298,
+      "rating_ev": 5.238626562576201
     },
     {
       "date": "1989-06-11",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Gabon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1375.6929776023842,
-      "rating2": 1374.9307953591506,
-      "rating_ev": 24.92232769752377
+      "rating1": 1403.2140803731888,
+      "rating2": 1372.8849650762281,
+      "rating_ev": 22.91765541105906
     },
     {
       "date": "1989-06-25",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Cameroon",
       "score1": 1,
       "score2": 2,
-      "rating1": 1366.060549830927,
-      "rating2": 1552.6536776973817,
-      "rating_ev": -9.632427771457287
+      "rating1": 1392.6632397115175,
+      "rating2": 1565.5807529058134,
+      "rating_ev": -10.550840661671373
     },
     {
       "date": "1989-08-12",
       "country": "Nigeria",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Nigeria",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1591.4141494014837,
-      "rating2": 1371.4457278888763,
-      "rating_ev": 5.385178057949361
+      "rating1": 1600.0987371159097,
+      "rating2": 1396.9304725025875,
+      "rating_ev": 4.2672327910700005
     },
     {
       "date": "1989-08-27",
       "country": "Gabon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Gabon",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1395.0162656508157,
-      "rating2": 1364.1024338852137,
-      "rating_ev": -7.34329400366255
+      "rating1": 1398.4651151129851,
+      "rating2": 1388.1874348013394,
+      "rating_ev": -8.743037701248113
     },
     {
       "date": "1990-03-06",
       "country": "Mozambique",
-      "tournament": "Friendly",
+      "tournament": "SADCC Tournament",
       "team1": "Mozambique",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1313.2671649073698,
-      "rating2": 1358.2539976123992,
-      "rating_ev": -5.848436272814524
+      "rating1": 1340.1770901446023,
+      "rating2": 1376.298740874108,
+      "rating_ev": -11.888693927231316
     },
     {
       "date": "1990-03-08",
       "country": "Mozambique",
-      "tournament": "Friendly",
-      "team1": "Angola",
-      "team2": "Zimbabwe",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1345.3840146389962,
-      "rating2": 1402.8140093744862,
-      "rating_ev": -12.869982973403012
+      "tournament": "SADCC Tournament",
+      "team1": "Zimbabwe",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1430.0116833589475,
+      "rating2": 1350.3227348488526,
+      "rating_ev": -25.9760060252554
     },
     {
       "date": "1990-03-10",
       "country": "Mozambique",
-      "tournament": "Friendly",
+      "tournament": "SADCC Tournament",
       "team1": "Angola",
       "team2": "Lesotho",
       "score1": 3,
       "score2": 1,
-      "rating1": 1348.2503534348912,
-      "rating2": 970.0112610964575,
-      "rating_ev": 2.8663387958949897
+      "rating1": 1352.4928875877138,
+      "rating2": 912.5615358075415,
+      "rating_ev": 2.170152738861134
     },
     {
       "date": "1990-08-19",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Madagascar",
       "score1": 0,
       "score2": 1,
-      "rating1": 1327.9773042953911,
-      "rating2": 1357.1634274691085,
-      "rating_ev": -20.273049139500017
+      "rating1": 1334.8136050313453,
+      "rating2": 1402.2421084075504,
+      "rating_ev": -17.679282556368435
     },
     {
       "date": "1990-08-30",
@@ -837,153 +1173,153 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 2,
-      "rating1": 1297.5409724158949,
-      "rating2": 1344.18930027318,
-      "rating_ev": 16.211995977788774
+      "rating1": 1335.8667785967082,
+      "rating2": 1351.9949290406241,
+      "rating_ev": 17.181324009278796
     },
     {
-      "date": "1990-09-01",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "date": "1990-09-02",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1003.783171397548,
-      "rating2": 1328.889245073298,
-      "rating_ev": -15.30005519988174
+      "rating1": 999.3928612855658,
+      "rating2": 1335.9563508205918,
+      "rating_ev": -16.038578220032264
     },
     {
       "date": "1990-11-09",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Mozambique",
       "score1": 4,
       "score2": 2,
-      "rating1": 1339.2184760328362,
-      "rating2": 1296.2401213256787,
-      "rating_ev": 10.329230959538108
+      "rating1": 1358.4161609642358,
+      "rating2": 1321.3369220730192,
+      "rating_ev": 22.459810143644063
     },
     {
       "date": "1990-11-11",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Congo",
       "score1": 1,
       "score2": 0,
-      "rating1": 1346.0092226392737,
-      "rating2": 1420.7228652439744,
-      "rating_ev": 6.790746606437551
+      "rating1": 1369.4724915975362,
+      "rating2": 1393.3095005659413,
+      "rating_ev": 11.056330633300377
     },
     {
       "date": "1991-04-14",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Zambia",
       "score1": 1,
       "score2": 2,
-      "rating1": 1331.5602515498786,
-      "rating2": 1446.6814328960595,
-      "rating_ev": -14.448971089395172
+      "rating1": 1361.2210928076752,
+      "rating2": 1568.4316405219563,
+      "rating_ev": -8.251398789861014
     },
     {
       "date": "1991-05-04",
       "country": "Madagascar",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Madagascar",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1352.5994356541457,
-      "rating2": 1338.8959065964516,
-      "rating_ev": 7.335655046573038
+      "rating1": 1447.4173368990898,
+      "rating2": 1372.6890460405302,
+      "rating_ev": 11.467953232855052
     },
     {
       "date": "1991-07-15",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Eswatini",
       "score1": 1,
       "score2": 1,
-      "rating1": 1315.762527280481,
-      "rating2": 1066.214955274201,
-      "rating_ev": -23.133379315970615
+      "rating1": 1348.1022017491307,
+      "rating2": 1076.3170105063514,
+      "rating_ev": -24.58684429139953
     },
     {
       "date": "1991-07-28",
       "country": "Zambia",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Zambia",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1419.5651263517482,
-      "rating2": 1313.5081537786227,
-      "rating_ev": -2.254373501858254
+      "rating1": 1528.6865600033161,
+      "rating2": 1350.6880490134176,
+      "rating_ev": 2.58584726428694
     },
     {
       "date": "1992-10-11",
       "country": "Egypt",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Egypt",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1591.2595691710048,
-      "rating2": 1322.1409668045328,
-      "rating_ev": 8.632813025910082
+      "rating1": 1644.8701100304427,
+      "rating2": 1360.3318440079618,
+      "rating_ev": 9.643794994544123
     },
     {
       "date": "1993-01-10",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Zimbabwe",
       "score1": 1,
       "score2": 1,
-      "rating1": 1324.9408529259376,
-      "rating2": 1460.98930265117,
-      "rating_ev": 2.7998861214048247
+      "rating1": 1361.135651971581,
+      "rating2": 1467.5754265827632,
+      "rating_ev": 0.8038079636191924
     },
     {
       "date": "1993-01-18",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Egypt",
       "score1": 0,
       "score2": 0,
-      "rating1": 1335.4788319496524,
-      "rating2": 1587.606605656591,
-      "rating_ev": 10.537979023714797
+      "rating1": 1372.2822117515966,
+      "rating2": 1633.6577562303014,
+      "rating_ev": 11.14655978001565
     },
     {
       "date": "1993-01-31",
       "country": "Zimbabwe",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Zimbabwe",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1472.6472162961875,
-      "rating2": 1335.3328019137816,
-      "rating_ev": -0.1460300358708082
+      "rating1": 1478.6064504418825,
+      "rating2": 1370.187397012707,
+      "rating_ev": -2.0948147388896814
     },
     {
       "date": "1993-02-28",
       "country": "Togo",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Togo",
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1282.5752907757726,
-      "rating2": 1352.821069751781,
-      "rating_ev": 17.488267837999274
+      "rating1": 1258.3312857200829,
+      "rating2": 1383.9281566879,
+      "rating_ev": 13.740759675192976
     },
     {
       "date": "1994-03-19",
@@ -993,297 +1329,321 @@
       "team2": "Gabon",
       "score1": 2,
       "score2": 1,
-      "rating1": 1359.332185292831,
-      "rating2": 1425.2189993515951,
-      "rating_ev": 6.511115541050003
+      "rating1": 1388.0548477572179,
+      "rating2": 1378.811796234739,
+      "rating_ev": 4.126691069317985
     },
     {
       "date": "1994-09-04",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Namibia",
       "score1": 2,
       "score2": 0,
-      "rating1": 1364.4547653614864,
-      "rating2": 1069.140414107409,
-      "rating_ev": 5.122580068655452
+      "rating1": 1391.1664058311924,
+      "rating2": 1065.12665370683,
+      "rating_ev": 3.111558073974493
     },
     {
       "date": "1994-10-16",
       "country": "Guinea",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Guinea",
       "team2": "Angola",
       "score1": 3,
       "score2": 1,
-      "rating1": 1390.372637609673,
-      "rating2": 1342.7126578625812,
-      "rating_ev": -21.74210749890517
+      "rating1": 1383.1159847016293,
+      "rating2": 1367.266782870152,
+      "rating_ev": -23.89962296104045
     },
     {
       "date": "1994-11-13",
       "country": "Mali",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Mali",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1391.7124639308397,
-      "rating2": 1351.8231751467883,
-      "rating_ev": 9.110517284207162
+      "rating1": 1399.2742600717759,
+      "rating2": 1375.298869773632,
+      "rating_ev": 8.032086903480149
     },
     {
       "date": "1995-01-08",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Mozambique",
       "score1": 1,
       "score2": 0,
-      "rating1": 1353.5203689926059,
-      "rating2": 1239.2127203114321,
-      "rating_ev": 1.6971938458175373
+      "rating1": 1375.71327119448,
+      "rating2": 1242.3835985169305,
+      "rating_ev": 0.41440142084798026
     },
     {
       "date": "1995-01-22",
       "country": "Botswana",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Botswana",
       "team2": "Angola",
       "score1": 1,
       "score2": 2,
-      "rating1": 967.9586898452928,
-      "rating2": 1350.289490715917,
-      "rating_ev": -3.230878276688827
+      "rating1": 974.6569458268912,
+      "rating2": 1371.553030824677,
+      "rating_ev": -4.1602403698029775
+    },
+    {
+      "date": "1995-04-08",
+      "country": "Namibia",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Namibia",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 1080.8233632930715,
+      "rating2": 1359.2857320582827,
+      "rating_ev": -12.267298766394333
     },
     {
       "date": "1995-04-23",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Guinea",
       "score1": 3,
       "score2": 0,
-      "rating1": 1390.6455881149777,
-      "rating2": 1397.294453222155,
-      "rating_ev": 40.35609739906067
+      "rating1": 1397.6768697675138,
+      "rating2": 1375.2992108493752,
+      "rating_ev": 38.39113770923109
     },
     {
       "date": "1995-06-04",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Mali",
       "score1": 1,
       "score2": 0,
-      "rating1": 1396.2209779742261,
-      "rating2": 1339.2333416216238,
-      "rating_ev": 5.575389859248389
+      "rating1": 1403.7774579370534,
+      "rating2": 1354.5377629060895,
+      "rating_ev": 6.100588169539606
     },
     {
       "date": "1995-07-16",
       "country": "Mozambique",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Mozambique",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1332.5532017272355,
-      "rating2": 1383.3393930288412,
-      "rating_ev": -12.88158494538493
+      "rating1": 1335.2403449785522,
+      "rating2": 1390.587271989107,
+      "rating_ev": -13.190185947946475
     },
     {
       "date": "1995-07-30",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Botswana",
       "score1": 4,
       "score2": 0,
-      "rating1": 1402.1952692866373,
-      "rating2": 870.6026462919282,
-      "rating_ev": 18.855876257796126
+      "rating1": 1409.3151061576816,
+      "rating2": 875.6478473093945,
+      "rating_ev": 18.727834168574645
     },
     {
       "date": "1996-01-15",
       "country": "South Africa",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Egypt",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1656.7704939722605,
-      "rating2": 1403.4051583338794,
-      "rating_ev": 1.2098890472420862
+      "rating1": 1648.4541952266031,
+      "rating2": 1409.5662402829669,
+      "rating_ev": 0.2511341252852617
     },
     {
       "date": "1996-01-20",
       "country": "South Africa",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "South Africa",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1623.7757510698355,
-      "rating2": 1408.4797844767604,
-      "rating_ev": 5.074626142881016
+      "rating1": 1652.4556478115903,
+      "rating2": 1416.0420456200582,
+      "rating_ev": 6.475805337091288
     },
     {
       "date": "1996-01-24",
       "country": "South Africa",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Angola",
       "team2": "Cameroon",
       "score1": 3,
       "score2": 3,
-      "rating1": 1411.8814509196227,
-      "rating2": 1462.0515815613946,
-      "rating_ev": 3.401666442862279
+      "rating1": 1419.576407236059,
+      "rating2": 1471.705381396333,
+      "rating_ev": 3.5343616160007514
     },
     {
       "date": "1996-06-01",
       "country": "Uganda",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Uganda",
       "team2": "Angola",
       "score1": 0,
       "score2": 2,
-      "rating1": 1277.2994349127005,
-      "rating2": 1438.7287907169584,
-      "rating_ev": 26.847339797335735
+      "rating1": 1270.1681200832495,
+      "rating2": 1445.4865677651387,
+      "rating_ev": 25.910160529079803
     },
     {
       "date": "1996-06-16",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Uganda",
       "score1": 3,
       "score2": 1,
-      "rating1": 1451.1072521666651,
-      "rating2": 1264.9209734629937,
-      "rating_ev": 12.37846144970672
+      "rating1": 1457.0435438113147,
+      "rating2": 1258.6111440370735,
+      "rating_ev": 11.556976046176032
     },
     {
       "date": "1996-10-06",
       "country": "Ghana",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Ghana",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1559.652999811699,
-      "rating2": 1449.1529780620806,
-      "rating_ev": -1.954274104584556
+      "rating1": 1572.2707015890908,
+      "rating2": 1455.5118007193416,
+      "rating_ev": -1.5317430919731123
     },
     {
       "date": "1996-11-10",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Zimbabwe",
       "score1": 2,
       "score2": 1,
-      "rating1": 1458.6563108524933,
-      "rating2": 1459.5880942725198,
-      "rating_ev": 9.503332790412742
+      "rating1": 1466.5235886975079,
+      "rating2": 1489.7033947890577,
+      "rating_ev": 11.01178797816624
     },
     {
       "date": "1997-01-12",
       "country": "Cameroon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Cameroon",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1493.5268397756479,
-      "rating2": 1466.8701506845098,
-      "rating_ev": 8.213839832016447
+      "rating1": 1500.9775804553606,
+      "rating2": 1474.7109868795042,
+      "rating_ev": 8.187398181996286
     },
     {
       "date": "1997-02-23",
       "country": "Zimbabwe",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Zimbabwe",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1473.8065149259887,
-      "rating2": 1458.470241761174,
-      "rating_ev": -8.399908923335715
+      "rating1": 1503.0110549681747,
+      "rating2": 1467.6680859579126,
+      "rating_ev": -7.042900921591581
+    },
+    {
+      "date": "1997-03-30",
+      "country": "Mozambique",
+      "tournament": "Friendly",
+      "team1": "Mozambique",
+      "team2": "Angola",
+      "score1": 1,
+      "score2": 2,
+      "rating1": 1364.2767539407716,
+      "rating2": 1474.5873817829013,
+      "rating_ev": 6.919295824988694
     },
     {
       "date": "1997-04-06",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Togo",
       "score1": 3,
       "score2": 1,
-      "rating1": 1473.7591493770876,
-      "rating2": 1330.7999474924234,
-      "rating_ev": 15.288907615913558
+      "rating1": 1488.6966854159546,
+      "rating2": 1328.2446363521344,
+      "rating_ev": 14.109303633053287
     },
     {
       "date": "1997-04-27",
       "country": "Zimbabwe",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Zimbabwe",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1467.4272478699236,
-      "rating2": 1479.3562887773573,
-      "rating_ev": 5.597139400269725
+      "rating1": 1493.1653741420084,
+      "rating2": 1494.9798974731784,
+      "rating_ev": 6.283212057223864
     },
     {
       "date": "1997-06-08",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Cameroon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1475.3633491778294,
-      "rating2": 1510.944607578386,
-      "rating_ev": -3.992939599527972
+      "rating1": 1490.2973095752773,
+      "rating2": 1515.7095332729464,
+      "rating_ev": -4.682587897901158
     },
     {
       "date": "1997-06-22",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Ghana",
       "score1": 1,
       "score2": 0,
-      "rating1": 1483.801276772271,
-      "rating2": 1469.0254916927315,
-      "rating_ev": 8.43792759444159
+      "rating1": 1498.1711204111703,
+      "rating2": 1475.0788399890623,
+      "rating_ev": 7.873810835892982
     },
     {
       "date": "1997-07-27",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Zimbabwe",
       "score1": 2,
       "score2": 1,
-      "rating1": 1489.6735298926162,
-      "rating2": 1437.0656138173636,
-      "rating_ev": 5.872253120345249
+      "rating1": 1504.5586985249827,
+      "rating2": 1459.5519289124195,
+      "rating_ev": 6.387578113812424
     },
     {
       "date": "1997-08-17",
       "country": "Togo",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Togo",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1370.721479540358,
-      "rating2": 1488.1295351182089,
-      "rating_ev": -1.543994774407338
+      "rating1": 1367.7937915421473,
+      "rating2": 1501.8902000511134,
+      "rating_ev": -2.668498473869249
     },
     {
       "date": "1998-01-14",
@@ -1293,9 +1653,9 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1779.580306984701,
-      "rating2": 1492.726220522532,
-      "rating_ev": 4.596685404323125
+      "rating1": 1773.5074712775822,
+      "rating2": 1505.8937927315765,
+      "rating_ev": 4.0035926804630435
     },
     {
       "date": "1998-01-28",
@@ -1305,57 +1665,57 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1501.6486255418627,
-      "rating2": 1488.7166927209714,
-      "rating_ev": -4.00952780156058
+      "rating1": 1504.2730153176228,
+      "rating2": 1501.559709178863,
+      "rating_ev": -4.334083552713537
     },
     {
       "date": "1998-02-08",
       "country": "Burkina Faso",
-      "tournament": "African Cup of Nations",
-      "team1": "South Africa",
-      "team2": "Angola",
+      "tournament": "African Nations Cup",
+      "team1": "Angola",
+      "team2": "South Africa",
       "score1": 0,
       "score2": 0,
-      "rating1": 1619.9033106847457,
-      "rating2": 1497.0301736439935,
-      "rating_ev": 8.313480923022098
+      "rating1": 1510.1348918240783,
+      "rating2": 1636.896663860861,
+      "rating_ev": 8.575182645215364
     },
     {
       "date": "1998-02-12",
       "country": "Burkina Faso",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Angola",
       "team2": "Namibia",
       "score1": 3,
       "score2": 3,
-      "rating1": 1484.0439007780021,
-      "rating2": 1291.3975175582334,
-      "rating_ev": -12.986272865991396
+      "rating1": 1497.4089538149285,
+      "rating2": 1308.671551333331,
+      "rating_ev": -12.725938009149786
     },
     {
       "date": "1998-02-16",
       "country": "Burkina Faso",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Ivory Coast",
       "team2": "Angola",
       "score1": 5,
       "score2": 2,
-      "rating1": 1534.1204929775122,
-      "rating2": 1443.8504326262753,
-      "rating_ev": -40.19346815172685
+      "rating1": 1542.1488129293607,
+      "rating2": 1456.8764889336169,
+      "rating_ev": -40.532464881311626
     },
     {
       "date": "1998-03-08",
-      "country": "Eswatini",
-      "tournament": "COSAFA Cup qualification",
+      "country": "Swaziland",
+      "tournament": "COSAFA Cup",
       "team1": "Eswatini",
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1044.1925739560736,
-      "rating2": 1439.773891583216,
-      "rating_ev": -4.076541043059251
+      "rating1": 1058.275658370573,
+      "rating2": 1452.8632357909853,
+      "rating_ev": -4.013253142631584
     },
     {
       "date": "1998-05-03",
@@ -1365,9 +1725,9 @@
       "team2": "Zambia",
       "score1": 1,
       "score2": 1,
-      "rating1": 1440.5877132723194,
-      "rating2": 1547.1757936870993,
-      "rating_ev": 0.8138216891034062
+      "rating1": 1453.6944905292878,
+      "rating2": 1560.5407638639663,
+      "rating_ev": 0.8312547383025048
     },
     {
       "date": "1998-05-30",
@@ -1377,9 +1737,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1253.7013684820038,
-      "rating2": 1434.7677257569776,
-      "rating_ev": -5.819987515341836
+      "rating1": 1270.6959865239482,
+      "rating2": 1448.1181957455035,
+      "rating_ev": -5.576294783784306
     },
     {
       "date": "1998-07-19",
@@ -1389,21 +1749,33 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1296.287155568857,
-      "rating2": 1431.9910299217295,
-      "rating_ev": -2.7766958352481197
+      "rating1": 1300.1390302706961,
+      "rating2": 1444.7428534339572,
+      "rating_ev": -3.3753423115463193
+    },
+    {
+      "date": "1998-08-02",
+      "country": "Benin",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Benin",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1185.0858899530865,
+      "rating2": 1419.5756521733053,
+      "rating_ev": -25.167201260651836
     },
     {
       "date": "1998-08-16",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Benin",
       "score1": 2,
       "score2": 0,
-      "rating1": 1436.3818781204477,
-      "rating2": 1129.9165346879126,
-      "rating_ev": 4.390848198718231
+      "rating1": 1427.6410731820472,
+      "rating2": 1176.874940496196,
+      "rating_ev": 8.06542100874185
     },
     {
       "date": "1998-08-30",
@@ -1413,93 +1785,93 @@
       "team2": "Zimbabwe",
       "score1": 2,
       "score2": 1,
-      "rating1": 1446.655496399667,
-      "rating2": 1458.9463247570375,
-      "rating_ev": 10.273618279219363
+      "rating1": 1439.5717884646172,
+      "rating2": 1476.3138199581765,
+      "rating_ev": 11.930715282569963
     },
     {
       "date": "1998-10-03",
       "country": "South Africa",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "South Africa",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1617.891589563997,
-      "rating2": 1448.6544034489755,
-      "rating_ev": 1.9989070493084
+      "rating1": 1633.5947103160718,
+      "rating2": 1443.0000089398163,
+      "rating_ev": 3.4282204751991685
     },
     {
       "date": "1999-01-24",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Gabon",
       "score1": 3,
       "score2": 1,
-      "rating1": 1468.7989997388195,
-      "rating2": 1397.5844295181457,
-      "rating_ev": 20.144596289844003
+      "rating1": 1461.6585389587112,
+      "rating2": 1368.5191054062593,
+      "rating_ev": 18.658530018894908
     },
     {
       "date": "1999-02-28",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Mauritius",
       "score1": 0,
       "score2": 2,
-      "rating1": 1415.1984081951225,
-      "rating2": 1177.4171418936962,
-      "rating_ev": -53.600591543696964
+      "rating1": 1410.1006566690553,
+      "rating2": 1203.7180012077522,
+      "rating_ev": -51.557882289655936
     },
     {
       "date": "1999-04-10",
       "country": "Mauritius",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Mauritius",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1185.8865373131805,
-      "rating2": 1406.7290127756382,
-      "rating_ev": -8.469395419484272
+      "rating1": 1210.3436988240317,
+      "rating2": 1403.4749590527758,
+      "rating_ev": -6.625697616279467
     },
     {
       "date": "1999-04-24",
       "country": "Malawi",
-      "tournament": "COSAFA Cup qualification",
+      "tournament": "COSAFA Cup",
       "team1": "Malawi",
       "team2": "Angola",
       "score1": 1,
       "score2": 2,
-      "rating1": 1224.668429329121,
-      "rating2": 1416.0409047911066,
-      "rating_ev": 9.311892015468402
+      "rating1": 1245.257530622572,
+      "rating2": 1414.2872115744944,
+      "rating_ev": 10.81225252171862
     },
     {
       "date": "1999-06-06",
       "country": "Gabon",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Gabon",
       "team2": "Angola",
       "score1": 3,
       "score2": 1,
-      "rating1": 1416.1162728735617,
-      "rating2": 1392.6573070772802,
-      "rating_ev": -23.383597713826475
+      "rating1": 1394.791320359778,
+      "rating2": 1389.6609326277055,
+      "rating_ev": -24.626278946788943
     },
     {
       "date": "1999-06-20",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "South Africa",
       "score1": 2,
       "score2": 2,
-      "rating1": 1397.3807433472325,
-      "rating2": 1562.0665503224616,
-      "rating_ev": 4.7234362699523444
+      "rating1": 1395.5468119251768,
+      "rating2": 1577.5988933746341,
+      "rating_ev": 5.88587929747132
     },
     {
       "date": "1999-07-04",
@@ -1509,9 +1881,9 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 995.429135736127,
-      "rating2": 1393.1669386219698,
-      "rating_ev": -4.213804725262548
+      "rating1": 981.8317764588071,
+      "rating2": 1390.6305971573336,
+      "rating_ev": -4.9162147678432575
     },
     {
       "date": "1999-08-14",
@@ -1521,9 +1893,9 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1506.6674644576467,
-      "rating2": 1421.1953178612002,
-      "rating_ev": 28.02837923923039
+      "rating1": 1536.105197385638,
+      "rating2": 1420.6713199389824,
+      "rating_ev": 30.04072278164881
     },
     {
       "date": "1999-09-26",
@@ -1533,9 +1905,9 @@
       "team2": "Namibia",
       "score1": 1,
       "score2": 0,
-      "rating1": 1418.9970891639477,
-      "rating2": 1246.785961460709,
-      "rating_ev": -2.198228697252489
+      "rating1": 1419.2716381011287,
+      "rating2": 1258.9670099700825,
+      "rating_ev": -1.3996818378536773
     },
     {
       "date": "1999-10-02",
@@ -1545,33 +1917,33 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1251.3958090739175,
-      "rating2": 1414.3872415507392,
-      "rating_ev": -4.609847613208558
+      "rating1": 1262.8724617356781,
+      "rating2": 1415.366186335533,
+      "rating_ev": -3.9054517655956715
     },
     {
       "date": "2000-04-09",
-      "country": "Eswatini",
-      "tournament": "FIFA World Cup qualification",
+      "country": "Swaziland",
+      "tournament": "World Cup qualifier",
       "team1": "Eswatini",
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1109.9082224730362,
-      "rating2": 1416.0860033910903,
-      "rating_ev": 1.6987618403511533
+      "rating1": 1142.6030904232725,
+      "rating2": 1419.0201741312992,
+      "rating_ev": 3.65398779576617
     },
     {
       "date": "2000-04-23",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Eswatini",
       "score1": 7,
       "score2": 1,
-      "rating1": 1467.5395780996012,
-      "rating2": 1058.4546477645254,
-      "rating_ev": 51.453574708510814
+      "rating1": 1472.200083877772,
+      "rating2": 1089.4231806767998,
+      "rating_ev": 53.17990974647273
     },
     {
       "date": "2000-05-20",
@@ -1581,33 +1953,33 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1270.569211188148,
-      "rating2": 1461.0881858199114,
-      "rating_ev": -6.451392279689799
+      "rating1": 1280.068341628811,
+      "rating2": 1466.0515365990038,
+      "rating_ev": -6.148547278768092
     },
     {
       "date": "2000-06-18",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Zambia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1465.6919016339357,
-      "rating2": 1394.3629027187028,
-      "rating_ev": 4.603715814024326
+      "rating1": 1471.5483895529965,
+      "rating2": 1413.4019449487405,
+      "rating_ev": 5.496852953992629
     },
     {
       "date": "2000-07-02",
       "country": "Equatorial Guinea",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Equatorial Guinea",
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1038.3593872620972,
-      "rating2": 1459.9658571125801,
-      "rating_ev": -5.726044521355561
+      "rating1": 997.929177121105,
+      "rating2": 1463.0973356126412,
+      "rating_ev": -8.451053940355223
     },
     {
       "date": "2000-07-06",
@@ -1617,33 +1989,33 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1312.6868283677356,
-      "rating2": 1458.3511035563604,
-      "rating_ev": -1.614753556219739
+      "rating1": 1296.2125472181635,
+      "rating2": 1460.8844623947555,
+      "rating_ev": -2.2128732178857717
     },
     {
       "date": "2000-07-09",
       "country": "Cameroon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Cameroon",
       "team2": "Angola",
       "score1": 3,
       "score2": 0,
-      "rating1": 1674.9431824745966,
-      "rating2": 1434.6821608172,
-      "rating_ev": -23.668942739160457
+      "rating1": 1683.8124304854027,
+      "rating2": 1437.6123398573673,
+      "rating_ev": -23.272122537388213
     },
     {
       "date": "2000-07-16",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Equatorial Guinea",
       "score1": 4,
       "score2": 1,
-      "rating1": 1446.572865005293,
-      "rating2": 1026.4686830740043,
-      "rating_ev": 11.890704188092968
+      "rating1": 1447.0637802322703,
+      "rating2": 988.4777367462019,
+      "rating_ev": 9.451440374903086
     },
     {
       "date": "2000-07-23",
@@ -1653,141 +2025,141 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1102.4355662044738,
-      "rating2": 1416.2492213502019,
-      "rating_ev": -30.32364365509102
+      "rating1": 1117.5976809297797,
+      "rating2": 1417.6274923531544,
+      "rating_ev": -29.43628787911598
     },
     {
       "date": "2000-09-03",
       "country": "Burundi",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Burundi",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1313.141486072562,
-      "rating2": 1415.7070529302478,
-      "rating_ev": -0.5421684199541232
+      "rating1": 1294.993453278255,
+      "rating2": 1415.8508938778455,
+      "rating_ev": -1.7765984753089015
     },
     {
       "date": "2000-10-08",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Algeria",
       "score1": 2,
       "score2": 2,
-      "rating1": 1417.4775572467154,
-      "rating2": 1538.2446081984913,
-      "rating_ev": 1.7705043164676226
+      "rating1": 1416.5305657189786,
+      "rating2": 1521.1320276460667,
+      "rating_ev": 0.6796718411330858
     },
     {
       "date": "2001-01-06",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Eswatini",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1070.8661609140315,
-      "rating2": 1402.6880481602655,
-      "rating_ev": -14.789509086449925
+      "rating1": 1098.3567427523797,
+      "rating2": 1387.779719751742,
+      "rating_ev": -28.7508459672365
     },
     {
       "date": "2001-01-07",
-      "country": "Eswatini",
-      "tournament": "Friendly",
+      "country": "Swaziland",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Lesotho",
       "score1": 2,
       "score2": 0,
-      "rating1": 1408.2518337059175,
-      "rating2": 1118.3178881955625,
-      "rating_ev": 5.563785545652081
+      "rating1": 1400.1962134215396,
+      "rating2": 1118.6765675244224,
+      "rating_ev": 12.416493669797546
     },
     {
       "date": "2001-01-13",
       "country": "Burkina Faso",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Burkina Faso",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1411.045212752113,
-      "rating2": 1399.5887529757638,
-      "rating_ev": -8.663080730153752
+      "rating1": 1408.6968391266817,
+      "rating2": 1391.8956704584318,
+      "rating_ev": -8.300542963107773
     },
     {
       "date": "2001-01-28",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Libya",
       "score1": 3,
       "score2": 1,
-      "rating1": 1419.8241187612607,
-      "rating2": 1349.9481895979502,
-      "rating_ev": 20.235365785496924
+      "rating1": 1412.9672002950958,
+      "rating2": 1355.4208670540786,
+      "rating_ev": 21.071529836664013
     },
     {
       "date": "2001-03-11",
       "country": "Togo",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Togo",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1386.9534303480473,
-      "rating2": 1423.7356228555816,
-      "rating_ev": 3.9115040943208896
+      "rating1": 1383.6519433461206,
+      "rating2": 1417.1044937185218,
+      "rating_ev": 4.137293423425945
     },
     {
       "date": "2001-03-25",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Burkina Faso",
       "score1": 2,
       "score2": 0,
-      "rating1": 1442.924370794851,
-      "rating2": 1357.6097662462628,
-      "rating_ev": 19.188747939269433
+      "rating1": 1436.5240147896584,
+      "rating2": 1354.6142756851934,
+      "rating_ev": 19.419521071136614
     },
     {
       "date": "2001-04-21",
       "country": "Zambia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Zambia",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1396.283562091634,
-      "rating2": 1445.961590124278,
-      "rating_ev": 3.037219329426989
+      "rating1": 1402.4050756411038,
+      "rating2": 1440.356252333709,
+      "rating_ev": 3.832237544050713
     },
     {
       "date": "2001-05-06",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Cameroon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1481.9903859535686,
-      "rating2": 1646.4654578844131,
-      "rating_ev": 36.02879582929063
+      "rating1": 1477.2046276621222,
+      "rating2": 1654.0458962204043,
+      "rating_ev": 36.84837532841311
     },
     {
       "date": "2001-06-01",
       "country": "Algeria",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Algeria",
       "team2": "Angola",
       "score1": 3,
       "score2": 2,
-      "rating1": 1475.9726046362684,
-      "rating2": 1472.7676217043238,
-      "rating_ev": -9.222764249244847
+      "rating1": 1468.8925974804035,
+      "rating2": 1467.836141275828,
+      "rating_ev": -9.368486386294308
     },
     {
       "date": "2001-06-10",
@@ -1797,45 +2169,45 @@
       "team2": "Mauritius",
       "score1": 1,
       "score2": 0,
-      "rating1": 1464.84749260973,
-      "rating2": 1206.5628583604416,
-      "rating_ev": -7.920129094593904
+      "rating1": 1461.8884993577597,
+      "rating2": 1233.446038356463,
+      "rating_ev": -5.947641918068257
     },
     {
       "date": "2001-06-17",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Burundi",
       "score1": 2,
       "score2": 1,
-      "rating1": 1462.3521503051522,
-      "rating2": 1285.7054135616952,
-      "rating_ev": -2.4953423045776617
+      "rating1": 1459.5595353826002,
+      "rating2": 1285.3970454398404,
+      "rating_ev": -2.3289639751594677
     },
     {
       "date": "2001-06-29",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1338.10846178421,
-      "rating2": 1460.4738908010088,
-      "rating_ev": -1.8782595041434433
+      "rating1": 1342.758549867699,
+      "rating2": 1458.1514681277247,
+      "rating_ev": -1.4080672548755047
     },
     {
       "date": "2001-07-29",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Togo",
       "score1": 1,
       "score2": 1,
-      "rating1": 1454.1519851586336,
-      "rating2": 1455.3960437351407,
-      "rating_ev": -6.321905642375214
+      "rating1": 1452.6871453907538,
+      "rating2": 1466.5742288357835,
+      "rating_ev": -5.464322736970871
     },
     {
       "date": "2001-08-18",
@@ -1845,9 +2217,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1431.4577533897846,
-      "rating2": 1458.7097902091662,
-      "rating_ev": 4.557805050532579
+      "rating1": 1437.1333418041793,
+      "rating2": 1457.698494010753,
+      "rating_ev": 5.011348619999126
     },
     {
       "date": "2001-09-16",
@@ -1857,9 +2229,9 @@
       "team2": "Zimbabwe",
       "score1": 0,
       "score2": 0,
-      "rating1": 1452.664836400558,
-      "rating2": 1457.991971598588,
-      "rating_ev": -6.04495380860817
+      "rating1": 1451.0156398298398,
+      "rating2": 1446.9380006470938,
+      "rating_ev": -6.682854180913182
     },
     {
       "date": "2001-09-30",
@@ -1869,9 +2241,9 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1438.0792459206946,
-      "rating2": 1472.5775620784514,
-      "rating_ev": 19.912725677893377
+      "rating1": 1427.5870065911008,
+      "rating2": 1470.3666338858327,
+      "rating_ev": 19.350994055992942
     },
     {
       "date": "2001-11-14",
@@ -1881,9 +2253,9 @@
       "team2": "Angola",
       "score1": 5,
       "score2": 1,
-      "rating1": 2053.8278316989763,
-      "rating2": 1465.3205136461474,
-      "rating_ev": -7.2570484323041455
+      "rating1": 2073.569295725053,
+      "rating2": 1463.7091589839258,
+      "rating_ev": -6.65747490190688
     },
     {
       "date": "2002-01-15",
@@ -1893,9 +2265,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1557.0125048202306,
-      "rating2": 1463.8563254691578,
-      "rating_ev": -1.4641881769896372
+      "rating1": 1553.5763952435175,
+      "rating2": 1462.1889577386403,
+      "rating_ev": -1.5202012452855342
     },
     {
       "date": "2002-05-18",
@@ -1905,21 +2277,21 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1234.7934707701675,
-      "rating2": 1440.5818210069126,
-      "rating_ev": -23.274504462245204
+      "rating1": 1247.6753950285652,
+      "rating2": 1439.8186095632109,
+      "rating_ev": -22.3703481754294
     },
     {
       "date": "2002-06-25",
       "country": "Mozambique",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Mozambique",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1214.1169983945017,
-      "rating2": 1436.5609178193376,
-      "rating_ev": -4.020903187574959
+      "rating1": 1222.2218544100663,
+      "rating2": 1432.0788982155634,
+      "rating_ev": -7.7397113476474715
     },
     {
       "date": "2002-08-25",
@@ -1929,33 +2301,33 @@
       "team2": "Gabon",
       "score1": 1,
       "score2": 0,
-      "rating1": 1440.267312834198,
-      "rating2": 1417.7909095955554,
-      "rating_ev": 3.706395014860391
+      "rating1": 1435.1552472002943,
+      "rating2": 1392.836879435909,
+      "rating_ev": 3.0763489847308847
     },
     {
       "date": "2002-09-08",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Nigeria",
       "score1": 0,
       "score2": 0,
-      "rating1": 1452.4763152067528,
-      "rating2": 1730.0480237389113,
-      "rating_ev": 12.209002372554778
+      "rating1": 1447.9740082894996,
+      "rating2": 1734.872218412803,
+      "rating_ev": 12.818761089205282
     },
     {
       "date": "2002-10-12",
       "country": "Malawi",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Malawi",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1290.9058040540747,
-      "rating2": 1433.4153949449544,
-      "rating_ev": -19.0609202617984
+      "rating1": 1302.9423515514225,
+      "rating2": 1429.952337673578,
+      "rating_ev": -18.021670615921494
     },
     {
       "date": "2003-03-29",
@@ -1965,9 +2337,9 @@
       "team2": "Algeria",
       "score1": 1,
       "score2": 1,
-      "rating1": 1432.7332088604637,
-      "rating2": 1505.7415126521726,
-      "rating_ev": -0.6821860844906951
+      "rating1": 1429.3969076903381,
+      "rating2": 1506.404107808436,
+      "rating_ev": -0.5554299832399465
     },
     {
       "date": "2003-04-20",
@@ -1977,9 +2349,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1413.596997091622,
-      "rating2": 1422.6772838755824,
-      "rating_ev": -10.055924984881358
+      "rating1": 1409.3482233817842,
+      "rating2": 1419.2830388450188,
+      "rating_ev": -10.113868845319303
     },
     {
       "date": "2003-05-31",
@@ -1989,33 +2361,33 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1398.0834437211893,
-      "rating2": 1424.8275758236969,
-      "rating_ev": 2.1502919481145
+      "rating1": 1376.284751610236,
+      "rating2": 1420.8669879929691,
+      "rating_ev": 1.5839491479503067
     },
     {
       "date": "2003-06-21",
       "country": "Nigeria",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Nigeria",
       "team2": "Angola",
       "score1": 2,
       "score2": 2,
-      "rating1": 1686.278986608173,
-      "rating2": 1447.2692229523159,
-      "rating_ev": 22.441647128619024
+      "rating1": 1726.3800797434785,
+      "rating2": 1446.0124061439474,
+      "rating_ev": 25.14541815097823
     },
     {
       "date": "2003-07-06",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Malawi",
       "score1": 5,
       "score2": 1,
-      "rating1": 1484.6034575417666,
-      "rating2": 1238.2867462692832,
-      "rating_ev": 37.334234589450716
+      "rating1": 1484.1678807007818,
+      "rating2": 1250.0877862360564,
+      "rating_ev": 38.155474556834406
     },
     {
       "date": "2003-08-20",
@@ -2025,9 +2397,9 @@
       "team2": "DR Congo",
       "score1": 0,
       "score2": 2,
-      "rating1": 1465.995292329175,
-      "rating2": 1437.1670559072684,
-      "rating_ev": -18.60816521259153
+      "rating1": 1466.6521030094332,
+      "rating2": 1472.2477877775234,
+      "rating_ev": -17.515777691348603
     },
     {
       "date": "2003-09-07",
@@ -2037,9 +2409,9 @@
       "team2": "Namibia",
       "score1": 2,
       "score2": 0,
-      "rating1": 1466.335161155697,
-      "rating2": 1103.4619662474267,
-      "rating_ev": 0.3398688265219789
+      "rating1": 1466.925758673975,
+      "rating2": 1101.8650133444123,
+      "rating_ev": 0.27365566454182044
     },
     {
       "date": "2003-09-20",
@@ -2049,33 +2421,33 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 3,
-      "rating1": 1097.5004757323954,
-      "rating2": 1472.2966516707284,
-      "rating_ev": 5.961490515031301
+      "rating1": 1095.9659469915543,
+      "rating2": 1472.824825026833,
+      "rating_ev": 5.899066352857972
     },
     {
       "date": "2003-10-12",
       "country": "Chad",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Chad",
       "team2": "Angola",
       "score1": 3,
       "score2": 1,
-      "rating1": 1266.493386488633,
-      "rating2": 1435.938219875175,
-      "rating_ev": -36.35843179555309
+      "rating1": 1251.3162622354275,
+      "rating2": 1435.4914371498655,
+      "rating_ev": -37.333387876967436
     },
     {
       "date": "2003-11-16",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Angola",
       "team2": "Chad",
       "score1": 2,
       "score2": 0,
-      "rating1": 1447.8424351724912,
-      "rating2": 1254.5891711913168,
-      "rating_ev": 11.904215297316114
+      "rating1": 1446.5252854226717,
+      "rating2": 1240.2824139626214,
+      "rating_ev": 11.033848272806154
     },
     {
       "date": "2004-03-31",
@@ -2085,9 +2457,9 @@
       "team2": "Angola",
       "score1": 3,
       "score2": 1,
-      "rating1": 1696.9471025832413,
-      "rating2": 1444.1244912537038,
-      "rating_ev": -3.7179439187873413
+      "rating1": 1666.7109509692268,
+      "rating2": 1441.9337874690489,
+      "rating_ev": -4.59149795362282
     },
     {
       "date": "2004-04-28",
@@ -2097,9 +2469,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1437.9771165522818,
-      "rating2": 1446.8425914915929,
-      "rating_ev": 2.7181002378890753
+      "rating1": 1441.9845226692535,
+      "rating2": 1444.842687496659,
+      "rating_ev": 2.908900027610116
     },
     {
       "date": "2004-05-09",
@@ -2109,57 +2481,57 @@
       "team2": "Namibia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1433.5732708734151,
-      "rating2": 1093.1863345176446,
-      "rating_ev": -13.269320618177744
+      "rating1": 1431.695945385645,
+      "rating2": 1093.2126382435517,
+      "rating_ev": -13.146742111013964
     },
     {
       "date": "2004-05-23",
-      "country": "DR Congo",
+      "country": "Dem Rep of the Congo",
       "tournament": "Friendly",
       "team1": "DR Congo",
       "team2": "Angola",
       "score1": 1,
       "score2": 3,
-      "rating1": 1374.46639861614,
-      "rating2": 1448.9029725017376,
-      "rating_ev": 15.329701628322482
+      "rating1": 1407.0647361105714,
+      "rating2": 1445.1793002236684,
+      "rating_ev": 13.483354838023388
     },
     {
       "date": "2004-06-05",
       "country": "Algeria",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Algeria",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1501.016591203667,
-      "rating2": 1458.2110274815332,
-      "rating_ev": 9.308054979795543
+      "rating1": 1490.2402990778705,
+      "rating2": 1454.039902979377,
+      "rating_ev": 8.860602755708669
     },
     {
       "date": "2004-06-20",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Angola",
       "team2": "Nigeria",
       "score1": 1,
       "score2": 0,
-      "rating1": 1483.4296120340996,
-      "rating2": 1718.7013406830133,
-      "rating_ev": 25.218584552566426
+      "rating1": 1482.550222119572,
+      "rating2": 1768.2592774352754,
+      "rating_ev": 28.51031914019495
     },
     {
       "date": "2004-07-03",
       "country": "Gabon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Gabon",
       "team2": "Angola",
       "score1": 2,
       "score2": 2,
-      "rating1": 1389.564453022367,
-      "rating2": 1483.4724534065629,
-      "rating_ev": 0.04284137246327191
+      "rating1": 1336.951444369252,
+      "rating2": 1479.324841837422,
+      "rating_ev": -3.2253802821501267
     },
     {
       "date": "2004-07-18",
@@ -2169,21 +2541,21 @@
       "team2": "Botswana",
       "score1": 1,
       "score2": 1,
-      "rating1": 1461.786645016267,
-      "rating2": 1234.2597735266686,
-      "rating_ev": -21.68580839029596
+      "rating1": 1458.3342079323334,
+      "rating2": 1241.3409168842832,
+      "rating_ev": -20.990633905088544
     },
     {
       "date": "2004-09-05",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Angola",
       "team2": "Rwanda",
       "score1": 1,
       "score2": 0,
-      "rating1": 1460.113522834172,
-      "rating2": 1295.7342371502423,
-      "rating_ev": -1.6731221820948576
+      "rating1": 1457.8248195874794,
+      "rating2": 1310.7705761081381,
+      "rating_ev": -0.50938834485396
     },
     {
       "date": "2004-09-19",
@@ -2193,21 +2565,21 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1211.7422964001605,
-      "rating2": 1465.2801144149826,
-      "rating_ev": 5.166591580810518
+      "rating1": 1214.6579111388608,
+      "rating2": 1463.3150709586496,
+      "rating_ev": 5.490251371170189
     },
     {
       "date": "2004-10-10",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Angola",
       "team2": "Zimbabwe",
       "score1": 1,
       "score2": 0,
-      "rating1": 1474.966324817964,
-      "rating2": 1478.5946567880756,
-      "rating_ev": 9.686210402981487
+      "rating1": 1473.2105249371639,
+      "rating2": 1479.924358470308,
+      "rating_ev": 9.895453978514297
     },
     {
       "date": "2004-11-20",
@@ -2217,33 +2589,33 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1433.7328218902303,
-      "rating2": 1478.3468204294068,
-      "rating_ev": 3.3804956114427114
+      "rating1": 1435.7197909473948,
+      "rating2": 1476.8286584234722,
+      "rating_ev": 3.618133486308352
     },
     {
-      "date": "2005-02-22",
+      "date": "2005-02-23",
       "country": "Congo",
       "tournament": "Friendly",
       "team1": "Congo",
       "team2": "Angola",
       "score1": 0,
       "score2": 2,
-      "rating1": 1291.0044739683485,
-      "rating2": 1489.7479321321161,
-      "rating_ev": 11.401111702709386
+      "rating1": 1326.4185678310491,
+      "rating2": 1489.3567049961923,
+      "rating_ev": 12.528046572720086
     },
     {
       "date": "2005-03-27",
       "country": "Zimbabwe",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Zimbabwe",
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1474.4185377295355,
-      "rating2": 1465.3861488405173,
-      "rating_ev": -24.36178329159884
+      "rating1": 1476.6050923609503,
+      "rating2": 1465.15858065791,
+      "rating_ev": -24.19812433828224
     },
     {
       "date": "2005-05-27",
@@ -2253,45 +2625,45 @@
       "team2": "Angola",
       "score1": 4,
       "score2": 1,
-      "rating1": 1663.2608534488813,
-      "rating2": 1453.3424843678529,
-      "rating_ev": -12.043664472664432
+      "rating1": 1672.5506109622077,
+      "rating2": 1453.4041243358076,
+      "rating_ev": -11.754456322102442
     },
     {
       "date": "2005-06-05",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Angola",
       "team2": "Algeria",
       "score1": 2,
       "score2": 1,
-      "rating1": 1462.050928701409,
-      "rating2": 1451.263248688161,
-      "rating_ev": 8.708444333556145
+      "rating1": 1460.129971573827,
+      "rating2": 1420.111808054823,
+      "rating_ev": 6.725847238019469
     },
     {
       "date": "2005-06-18",
       "country": "Nigeria",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Nigeria",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1690.974296587158,
-      "rating2": 1482.4794758745197,
-      "rating_ev": 20.4285471731107
+      "rating1": 1689.3684298996493,
+      "rating2": 1480.578082646541,
+      "rating_ev": 20.4481110727138
     },
     {
       "date": "2005-08-09",
       "country": "South Africa",
       "tournament": "Friendly",
-      "team1": "Botswana",
-      "team2": "Angola",
+      "team1": "Angola",
+      "team2": "Botswana",
       "score1": 0,
       "score2": 0,
-      "rating1": 1260.1434161332147,
-      "rating2": 1475.6775834309128,
-      "rating_ev": -6.801892443606903
+      "rating1": 1474.012836234114,
+      "rating2": 1266.069200602183,
+      "rating_ev": -6.565246412426859
     },
     {
       "date": "2005-08-10",
@@ -2301,21 +2673,21 @@
       "team2": "Botswana",
       "score1": 0,
       "score2": 0,
-      "rating1": 1469.275085148235,
-      "rating2": 1266.5459144158926,
-      "rating_ev": -6.402498282677925
+      "rating1": 1467.8335425760179,
+      "rating2": 1272.2484942602791,
+      "rating_ev": -6.179293658096185
     },
     {
       "date": "2005-08-13",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
-      "team1": "Angola",
-      "team2": "Zimbabwe",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1458.1360564823606,
-      "rating2": 1527.5475827249131,
-      "rating_ev": -11.13902866587432
+      "team1": "Zimbabwe",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1526.1512945644108,
+      "rating2": 1456.6973862376103,
+      "rating_ev": -11.136156338407545
     },
     {
       "date": "2005-08-17",
@@ -2325,33 +2697,33 @@
       "team2": "Cape Verde",
       "score1": 2,
       "score2": 1,
-      "rating1": 1461.7294119320513,
-      "rating2": 1341.0817554977448,
-      "rating_ev": 3.593355449690762
+      "rating1": 1459.8017929274297,
+      "rating2": 1323.6754974374107,
+      "rating_ev": 3.1044066898193705
     },
     {
       "date": "2005-09-04",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Angola",
       "team2": "Gabon",
       "score1": 3,
       "score2": 0,
-      "rating1": 1497.0584331497803,
-      "rating2": 1429.5191916779036,
-      "rating_ev": 35.32902121772895
+      "rating1": 1493.626464042932,
+      "rating2": 1403.908212019656,
+      "rating_ev": 33.82467111550227
     },
     {
       "date": "2005-10-08",
       "country": "Rwanda",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Rwanda",
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1292.9223355401107,
-      "rating2": 1504.9854656687442,
-      "rating_ev": 7.92703251896387
+      "rating1": 1299.68201863285,
+      "rating2": 1502.1923012843956,
+      "rating_ev": 8.565837241463669
     },
     {
       "date": "2005-11-16",
@@ -2361,9 +2733,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1784.6271508362474,
-      "rating2": 1509.2293109618477,
-      "rating_ev": 4.2438452931035044
+      "rating1": 1789.3641725670636,
+      "rating2": 1506.661240368018,
+      "rating_ev": 4.468939083622445
     },
     {
       "date": "2006-01-17",
@@ -2373,45 +2745,45 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 2,
-      "rating1": 1670.2536448323685,
-      "rating2": 1517.0765233405923,
-      "rating_ev": 7.8472123787446435
+      "rating1": 1630.7665486534079,
+      "rating2": 1513.3810532931943,
+      "rating_ev": 6.719812925176257
     },
     {
       "date": "2006-01-21",
       "country": "Egypt",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Cameroon",
       "team2": "Angola",
       "score1": 3,
       "score2": 1,
-      "rating1": 1742.7309975491842,
-      "rating2": 1501.9548961985442,
-      "rating_ev": -15.121627142048055
+      "rating1": 1712.2594034310916,
+      "rating2": 1496.5824646309754,
+      "rating_ev": -16.79858866221889
     },
     {
       "date": "2006-01-25",
       "country": "Egypt",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Angola",
       "team2": "DR Congo",
       "score1": 0,
       "score2": 0,
-      "rating1": 1499.3882964439904,
-      "rating2": 1461.5412386105654,
-      "rating_ev": -2.566599754553863
+      "rating1": 1496.223894339261,
+      "rating2": 1490.9376740228165,
+      "rating_ev": -0.35857029171438626
     },
     {
       "date": "2006-01-29",
       "country": "Egypt",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Angola",
       "team2": "Togo",
       "score1": 3,
       "score2": 2,
-      "rating1": 1513.0809691684187,
-      "rating2": 1481.3284109611282,
-      "rating_ev": 13.692672724428348
+      "rating1": 1509.8302644359837,
+      "rating2": 1476.805383239149,
+      "rating_ev": 13.606370096722685
     },
     {
       "date": "2006-03-01",
@@ -2421,9 +2793,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1759.6327972189267,
-      "rating2": 1516.3316539786708,
-      "rating_ev": 3.250684810252096
+      "rating1": 1777.7544692538738,
+      "rating2": 1513.7231552478838,
+      "rating_ev": 3.892890811900088
     },
     {
       "date": "2006-04-29",
@@ -2433,9 +2805,9 @@
       "team2": "Mauritius",
       "score1": 5,
       "score2": 1,
-      "rating1": 1552.0675522099507,
-      "rating2": 1185.3921483101813,
-      "rating_ev": 35.73589823127986
+      "rating1": 1552.1612979853167,
+      "rating2": 1226.4942850173356,
+      "rating_ev": 38.43814273743283
     },
     {
       "date": "2006-04-30",
@@ -2445,9 +2817,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 3,
-      "rating1": 1110.7613347143663,
-      "rating2": 1560.0030485269692,
-      "rating_ev": 7.935496317018533
+      "rating1": 1093.1871711927452,
+      "rating2": 1559.0516026337227,
+      "rating_ev": 6.890304648406072
     },
     {
       "date": "2006-05-30",
@@ -2457,69 +2829,81 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1946.34867089914,
-      "rating2": 1557.457841828144,
-      "rating_ev": -2.545206698825268
+      "rating1": 1965.0806344495134,
+      "rating2": 1557.0799953965695,
+      "rating_ev": -1.9716072371531936
     },
     {
       "date": "2006-06-02",
       "country": "Netherlands",
       "tournament": "Friendly",
-      "team1": "Angola",
-      "team2": "Turkey",
-      "score1": 2,
-      "score2": 3,
-      "rating1": 1558.5046894323566,
-      "rating2": 1827.351237920639,
-      "rating_ev": 1.046847604212644
+      "team1": "Turkey",
+      "team2": "Angola",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1839.981587629573,
+      "rating2": 1558.5164720352902,
+      "rating_ev": 1.4364766387207055
+    },
+    {
+      "date": "2006-06-05",
+      "country": "Germany",
+      "tournament": "Friendly",
+      "team1": "United States",
+      "team2": "Angola",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1847.3569577204516,
+      "rating2": 1560.1304885683357,
+      "rating_ev": 1.6140165330455147
     },
     {
       "date": "2006-06-11",
       "country": "Germany",
-      "tournament": "FIFA World Cup",
-      "team1": "Angola",
-      "team2": "Portugal",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1571.4768543450593,
-      "rating2": 1930.3808617888085,
-      "rating_ev": 12.972164912702738
+      "tournament": "World Cup",
+      "team1": "Portugal",
+      "team2": "Angola",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1954.7415030336358,
+      "rating2": 1569.8836218898534,
+      "rating_ev": 9.75313332151768
     },
     {
       "date": "2006-06-16",
       "country": "Germany",
-      "tournament": "FIFA World Cup",
-      "team1": "Mexico",
-      "team2": "Angola",
+      "tournament": "World Cup",
+      "team1": "Angola",
+      "team2": "Mexico",
       "score1": 0,
       "score2": 0,
-      "rating1": 1900.3413451639617,
-      "rating2": 1603.3169910739882,
-      "rating_ev": 31.840136728928883
+      "rating1": 1591.299912464852,
+      "rating2": 1912.4915714014257,
+      "rating_ev": 21.416290574998584
     },
     {
       "date": "2006-06-21",
       "country": "Germany",
-      "tournament": "FIFA World Cup",
-      "team1": "Iran",
-      "team2": "Angola",
+      "tournament": "World Cup",
+      "team1": "Angola",
+      "team2": "Iran",
       "score1": 1,
       "score2": 1,
-      "rating1": 1758.2582672136,
-      "rating2": 1618.5090175514324,
-      "rating_ev": 15.192026477444188
+      "rating1": 1604.309631342356,
+      "rating2": 1797.3082052633415,
+      "rating_ev": 13.009718877503929
     },
     {
       "date": "2006-09-03",
-      "country": "Eswatini",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Swaziland",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eswatini",
       "team2": "Angola",
       "score1": 0,
       "score2": 2,
-      "rating1": 1068.1292788655005,
-      "rating2": 1620.0971797286102,
-      "rating_ev": 1.5881621771777645
+      "rating1": 1054.7463657758296,
+      "rating2": 1605.9443275985434,
+      "rating_ev": 1.6346962561874534
     },
     {
       "date": "2006-09-17",
@@ -2529,21 +2913,21 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 2,
-      "rating1": 1443.3904424774944,
-      "rating2": 1629.7455750965657,
-      "rating_ev": 9.648395367955573
+      "rating1": 1411.2811753666053,
+      "rating2": 1614.4650854290867,
+      "rating_ev": 8.520757830543289
     },
     {
       "date": "2006-10-08",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Kenya",
       "score1": 3,
       "score2": 1,
-      "rating1": 1630.6674305288218,
-      "rating2": 1270.8684963924916,
-      "rating_ev": 0.9218554322560522
+      "rating1": 1616.5532545285141,
+      "rating2": 1274.7775078645827,
+      "rating_ev": 2.0881690994274322
     },
     {
       "date": "2006-10-21",
@@ -2553,9 +2937,9 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1510.8940636705695,
-      "rating2": 1599.6956539715136,
-      "rating_ev": -30.971776557308203
+      "rating1": 1515.3687115929883,
+      "rating2": 1586.7536955295238,
+      "rating_ev": -29.79955899899028
     },
     {
       "date": "2006-11-18",
@@ -2565,21 +2949,21 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1151.499118107868,
-      "rating2": 1589.1389953619632,
-      "rating_ev": -10.556658609550368
+      "rating1": 1164.9634195673175,
+      "rating2": 1576.9550837993652,
+      "rating_ev": -9.798611730158655
     },
     {
       "date": "2007-03-25",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Eritrea",
       "score1": 6,
       "score2": 1,
-      "rating1": 1617.9978586828274,
-      "rating2": 1038.968634741392,
-      "rating_ev": 28.858863320864202
+      "rating1": 1606.5862455858025,
+      "rating2": 1040.162290529384,
+      "rating_ev": 29.63116178643736
     },
     {
       "date": "2007-04-04",
@@ -2589,33 +2973,33 @@
       "team2": "Congo",
       "score1": 0,
       "score2": 0,
-      "rating1": 1607.0811725321014,
-      "rating2": 1355.4816117774546,
-      "rating_ev": -10.916686150726036
+      "rating1": 1597.0853843227123,
+      "rating2": 1391.092080830476,
+      "rating_ev": -9.5008612630902
     },
     {
       "date": "2007-06-02",
       "country": "Eritrea",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eritrea",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1085.5523920880976,
-      "rating2": 1581.1062378645508,
-      "rating_ev": -25.974934667550542
+      "rating1": 1086.7714712698466,
+      "rating2": 1571.7513020368922,
+      "rating_ev": -25.33408228582016
     },
     {
       "date": "2007-06-17",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Eswatini",
       "score1": 3,
       "score2": 0,
-      "rating1": 1587.865906725333,
-      "rating2": 1086.1534369873054,
-      "rating_ev": 6.759668860782085
+      "rating1": 1579.2104419151553,
+      "rating2": 1088.7762373602307,
+      "rating_ev": 7.459139878263159
     },
     {
       "date": "2007-07-28",
@@ -2625,9 +3009,9 @@
       "team2": "Lesotho",
       "score1": 2,
       "score2": 0,
-      "rating1": 1588.9737775736817,
-      "rating2": 1132.1342966923462,
-      "rating_ev": 1.107870848348739
+      "rating1": 1580.217251407183,
+      "rating2": 1121.7634544540972,
+      "rating_ev": 1.0068094920277417
     },
     {
       "date": "2007-07-29",
@@ -2637,33 +3021,33 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1312.3984185301672,
-      "rating2": 1577.5773281036027,
-      "rating_ev": -11.396449470079006
+      "rating1": 1284.661556782832,
+      "rating2": 1567.6536806011065,
+      "rating_ev": -12.563570806076541
     },
     {
       "date": "2007-08-22",
-      "country": "DR Congo",
+      "country": "Dem Rep of the Congo",
       "tournament": "Friendly",
       "team1": "DR Congo",
       "team2": "Angola",
       "score1": 3,
       "score2": 1,
-      "rating1": 1419.228135833231,
-      "rating2": 1561.3873240162072,
-      "rating_ev": -16.190004087395437
+      "rating1": 1449.92126330676,
+      "rating2": 1549.7966965267776,
+      "rating_ev": -17.85698407432892
     },
     {
       "date": "2007-09-08",
       "country": "Kenya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Kenya",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1293.3098986008372,
-      "rating2": 1535.7013658295884,
-      "rating_ev": -25.68595818661879
+      "rating1": 1296.084681436844,
+      "rating2": 1524.996325163616,
+      "rating_ev": -24.80037136316173
     },
     {
       "date": "2007-11-17",
@@ -2673,21 +3057,21 @@
       "team2": "Ivory Coast",
       "score1": 2,
       "score2": 1,
-      "rating1": 1550.9335950068785,
-      "rating2": 1799.3780973057526,
-      "rating_ev": 15.232229177290037
+      "rating1": 1540.395174174714,
+      "rating2": 1794.2403703567072,
+      "rating_ev": 15.398849011098036
     },
     {
       "date": "2007-11-20",
       "country": "France",
       "tournament": "Friendly",
-      "team1": "Angola",
-      "team2": "Guinea",
-      "score1": 0,
-      "score2": 3,
-      "rating1": 1531.1476999092704,
-      "rating2": 1591.0118626289982,
-      "rating_ev": -19.78589509760809
+      "team1": "Guinea",
+      "team2": "Angola",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1596.2733208428504,
+      "rating2": 1521.0955118789582,
+      "rating_ev": -19.299662295755752
     },
     {
       "date": "2008-01-13",
@@ -2697,9 +3081,9 @@
       "team2": "Egypt",
       "score1": 3,
       "score2": 3,
-      "rating1": 1535.5379528020198,
-      "rating2": 1674.1324858156684,
-      "rating_ev": 4.390252892749459
+      "rating1": 1525.5515371659747,
+      "rating2": 1666.2337489823917,
+      "rating_ev": 4.456025287016473
     },
     {
       "date": "2008-01-16",
@@ -2709,105 +3093,117 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1691.5921279709607,
-      "rating2": 1536.0440891429812,
-      "rating_ev": 0.5061363409613477
+      "rating1": 1673.7570110656932,
+      "rating2": 1525.8180561795116,
+      "rating_ev": 0.26651901353693574
     },
     {
       "date": "2008-01-23",
       "country": "Ghana",
-      "tournament": "African Cup of Nations",
-      "team1": "South Africa",
-      "team2": "Angola",
+      "tournament": "African Nations Cup",
+      "team1": "Angola",
+      "team2": "South Africa",
       "score1": 1,
       "score2": 1,
-      "rating1": 1491.8976490372968,
-      "rating2": 1533.240549720555,
-      "rating_ev": -2.8035394224261836
+      "rating1": 1524.5769101323258,
+      "rating2": 1506.2783735503249,
+      "rating_ev": -1.2411460471857936
     },
     {
       "date": "2008-01-27",
       "country": "Ghana",
-      "tournament": "African Cup of Nations",
-      "team1": "Senegal",
-      "team2": "Angola",
-      "score1": 1,
-      "score2": 3,
-      "rating1": 1620.623365191854,
-      "rating2": 1568.165793797045,
-      "rating_ev": 34.92524407648989
+      "tournament": "African Nations Cup",
+      "team1": "Angola",
+      "team2": "Senegal",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1560.3922251807473,
+      "rating2": 1626.0587432548846,
+      "rating_ev": 35.81531504842155
     },
     {
       "date": "2008-01-31",
       "country": "Ghana",
-      "tournament": "African Cup of Nations",
-      "team1": "Tunisia",
-      "team2": "Angola",
+      "tournament": "African Nations Cup",
+      "team1": "Angola",
+      "team2": "Tunisia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1633.371607421036,
-      "rating2": 1572.3053961859734,
-      "rating_ev": 4.139602388928552
+      "rating1": 1566.3274610032904,
+      "rating2": 1653.9406328951677,
+      "rating_ev": 5.9352358225430635
     },
     {
       "date": "2008-02-04",
       "country": "Ghana",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Egypt",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1713.764730226095,
-      "rating2": 1566.433163765155,
-      "rating_ev": -5.872232420818364
+      "rating1": 1707.6570841338942,
+      "rating2": 1560.4470444349333,
+      "rating_ev": -5.880416568357077
     },
     {
       "date": "2008-06-01",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Angola",
       "team2": "Benin",
       "score1": 3,
       "score2": 0,
-      "rating1": 1588.698234413028,
-      "rating2": 1327.3974288024538,
-      "rating_ev": 22.265070647873017
+      "rating1": 1582.8925281234583,
+      "rating2": 1324.300127457724,
+      "rating_ev": 22.445483688524973
     },
     {
       "date": "2008-06-08",
       "country": "Niger",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Niger",
       "team2": "Angola",
       "score1": 1,
       "score2": 2,
-      "rating1": 1184.7229273131388,
-      "rating2": 1584.3634073990124,
-      "rating_ev": -4.334827014015673
+      "rating1": 1190.9409972517353,
+      "rating2": 1579.2778608729743,
+      "rating_ev": -3.61466725048399
     },
     {
       "date": "2008-06-14",
       "country": "Uganda",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Uganda",
       "team2": "Angola",
       "score1": 3,
       "score2": 1,
-      "rating1": 1394.4114069808566,
-      "rating2": 1548.9919125167871,
-      "rating_ev": -35.371494882225306
+      "rating1": 1404.3803068715445,
+      "rating2": 1544.8462317583287,
+      "rating_ev": -34.4316291146456
     },
     {
       "date": "2008-06-23",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Angola",
       "team2": "Uganda",
       "score1": 0,
       "score2": 0,
-      "rating1": 1534.143386646087,
-      "rating2": 1409.2599328515566,
-      "rating_ev": -14.848525870700087
+      "rating1": 1530.8344272307422,
+      "rating2": 1418.392111399131,
+      "rating_ev": -14.011804527586492
+    },
+    {
+      "date": "2008-07-26",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Madagascar",
+      "team2": "Angola",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1225.2784080054303,
+      "rating2": 1496.8670828571253,
+      "rating_ev": -33.967344373616925
     },
     {
       "date": "2008-08-20",
@@ -2817,33 +3213,33 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1578.1694748616667,
-      "rating2": 1538.40560599964,
-      "rating_ev": 4.262219353553064
+      "rating1": 1592.3924898623586,
+      "rating2": 1502.7113421393146,
+      "rating_ev": 5.844259282189341
     },
     {
       "date": "2008-09-07",
       "country": "Benin",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Benin",
       "team2": "Angola",
       "score1": 3,
       "score2": 2,
-      "rating1": 1412.220925210105,
-      "rating2": 1521.57087282648,
-      "rating_ev": -16.834733173160203
+      "rating1": 1408.7342039896794,
+      "rating2": 1487.9105583519763,
+      "rating_ev": -14.800783787338332
     },
     {
       "date": "2008-10-12",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup and African Cup qual",
       "team1": "Angola",
       "team2": "Niger",
       "score1": 3,
       "score2": 1,
-      "rating1": 1523.2277022283592,
-      "rating2": 1174.79783868986,
-      "rating_ev": 1.6568294018793495
+      "rating1": 1491.876276030361,
+      "rating2": 1178.9174485037647,
+      "rating_ev": 3.9657176783846353
     },
     {
       "date": "2008-11-19",
@@ -2853,45 +3249,45 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1648.7780587423397,
-      "rating2": 1529.9917254024035,
-      "rating_ev": 6.764023174044269
+      "rating1": 1663.7816159763192,
+      "rating2": 1500.0548331512603,
+      "rating_ev": 8.178557120899313
     },
     {
       "date": "2009-02-11",
       "country": "France",
       "tournament": "Friendly",
-      "team1": "Angola",
-      "team2": "Mali",
-      "score1": 0,
-      "score2": 4,
-      "rating1": 1502.6089302168514,
-      "rating2": 1531.0410069892018,
-      "rating_ev": -27.38279518555214
+      "team1": "Mali",
+      "team2": "Angola",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 1534.5624964726035,
+      "rating2": 1473.7019400496604,
+      "rating_ev": -26.352893101599875
     },
     {
       "date": "2009-03-25",
       "country": "Portugal",
       "tournament": "Friendly",
-      "team1": "Angola",
-      "team2": "Cape Verde",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1488.7896913635343,
-      "rating2": 1285.9061829073432,
-      "rating_ev": -13.819238853317074
+      "team1": "Cape Verde",
+      "team2": "Angola",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1286.3395809098392,
+      "rating2": 1460.7710984781704,
+      "rating_ev": -12.930841571489964
     },
     {
       "date": "2009-03-31",
       "country": "Portugal",
       "tournament": "Friendly",
-      "team1": "Angola",
-      "team2": "Morocco",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1480.3880328527935,
-      "rating2": 1679.1910359344865,
-      "rating_ev": -8.401658510740845
+      "team1": "Morocco",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1671.9115286526244,
+      "rating2": 1452.9994760910545,
+      "rating_ev": -7.77162238711594
     },
     {
       "date": "2009-04-04",
@@ -2901,21 +3297,33 @@
       "team2": "Namibia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1471.2966384508297,
-      "rating2": 1278.4221711794914,
-      "rating_ev": -9.091394401963726
+      "rating1": 1444.769582759532,
+      "rating2": 1279.4069369976864,
+      "rating_ev": -8.229893331522362
+    },
+    {
+      "date": "2009-06-14",
+      "country": "Portugal",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "Guinea",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1446.7419200357576,
+      "rating2": 1508.873915800819,
+      "rating_ev": 1.9723372762255167
     },
     {
       "date": "2009-08-12",
       "country": "Portugal",
       "tournament": "Friendly",
-      "team1": "Togo",
-      "team2": "Angola",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1462.4341746475168,
-      "rating2": 1485.2654063679138,
-      "rating_ev": 13.968767917084051
+      "team1": "Angola",
+      "team2": "Togo",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1461.9927048603074,
+      "rating2": 1479.5383551749446,
+      "rating_ev": 15.250784824549783
     },
     {
       "date": "2009-09-05",
@@ -2925,9 +3333,9 @@
       "team2": "Senegal",
       "score1": 1,
       "score2": 1,
-      "rating1": 1486.87338455311,
-      "rating2": 1537.5183488159091,
-      "rating_ev": 1.6079781851963162
+      "rating1": 1464.467221647379,
+      "rating2": 1542.4427155386438,
+      "rating_ev": 2.4745167870714795
     },
     {
       "date": "2009-09-09",
@@ -2937,21 +3345,21 @@
       "team2": "Cape Verde",
       "score1": 1,
       "score2": 1,
-      "rating1": 1482.0591974760018,
-      "rating2": 1329.999458953127,
-      "rating_ev": -4.814187077108272
+      "rating1": 1460.3757770162822,
+      "rating2": 1331.259511972429,
+      "rating_ev": -4.091444631096692
     },
     {
       "date": "2009-10-10",
       "country": "Portugal",
       "tournament": "Friendly",
-      "team1": "Malta",
-      "team2": "Angola",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1203.2391949388164,
-      "rating2": 1480.7448644365247,
-      "rating_ev": -1.3143330394771056
+      "team1": "Angola",
+      "team2": "Malta",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1460.229990682813,
+      "rating2": 1220.440747229563,
+      "rating_ev": -0.14578633346923198
     },
     {
       "date": "2009-10-14",
@@ -2961,9 +3369,9 @@
       "team2": "Cameroon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1488.1434433183329,
-      "rating2": 1722.8630327697394,
-      "rating_ev": 7.398578881808135
+      "rating1": 1467.8705968873273,
+      "rating2": 1710.3921721693614,
+      "rating_ev": 7.64060620451437
     },
     {
       "date": "2009-10-26",
@@ -2973,9 +3381,9 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1561.1555630151622,
-      "rating2": 1463.3927045617997,
-      "rating_ev": -24.75073875653311
+      "rating1": 1566.047056194792,
+      "rating2": 1444.7160949150816,
+      "rating_ev": -23.154501972245725
     },
     {
       "date": "2009-11-14",
@@ -2985,9 +3393,9 @@
       "team2": "Congo",
       "score1": 1,
       "score2": 1,
-      "rating1": 1457.1674856720263,
-      "rating2": 1355.4404849719895,
-      "rating_ev": -6.225218889773487
+      "rating1": 1439.5448753105666,
+      "rating2": 1371.1179317180563,
+      "rating_ev": -5.171219604515045
     },
     {
       "date": "2009-11-18",
@@ -2997,21 +3405,21 @@
       "team2": "Ghana",
       "score1": 0,
       "score2": 0,
-      "rating1": 1460.044952546822,
-      "rating2": 1645.8932185713886,
-      "rating_ev": 2.8774668747958003
+      "rating1": 1442.8926861867542,
+      "rating2": 1643.7678590508879,
+      "rating_ev": 3.347810876187623
     },
     {
       "date": "2009-12-30",
       "country": "Portugal",
       "tournament": "Friendly",
-      "team1": "Angola",
-      "team2": "Estonia",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1451.9333907694627,
-      "rating2": 1430.1515059624983,
-      "rating_ev": -8.111561777359384
+      "team1": "Estonia",
+      "team2": "Angola",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1453.615169532861,
+      "rating2": 1436.0312331523332,
+      "rating_ev": -6.861453034420947
     },
     {
       "date": "2010-01-03",
@@ -3021,57 +3429,57 @@
       "team2": "Gambia",
       "score1": 1,
       "score2": 1,
-      "rating1": 1449.4342099158873,
-      "rating2": 1370.6801852697765,
-      "rating_ev": -2.4991808535753535
+      "rating1": 1435.8698514548394,
+      "rating2": 1430.7887549601799,
+      "rating_ev": -0.16138169749387998
     },
     {
       "date": "2010-01-10",
       "country": "Angola",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Angola",
       "team2": "Mali",
       "score1": 4,
       "score2": 4,
-      "rating1": 1449.0047190733724,
-      "rating2": 1537.1941670011138,
-      "rating_ev": -0.4294908425149515
+      "rating1": 1436.7852033596482,
+      "rating2": 1544.8770921620044,
+      "rating_ev": 0.9153519048088583
     },
     {
       "date": "2010-01-14",
       "country": "Angola",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Angola",
       "team2": "Malawi",
       "score1": 2,
       "score2": 0,
-      "rating1": 1467.6644656676467,
-      "rating2": 1374.542989347642,
-      "rating_ev": 18.65974659427434
+      "rating1": 1456.0942273908133,
+      "rating2": 1372.5542544939908,
+      "rating_ev": 19.30902403116511
     },
     {
       "date": "2010-01-18",
       "country": "Angola",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Angola",
       "team2": "Algeria",
       "score1": 0,
       "score2": 0,
-      "rating1": 1464.1910942962222,
-      "rating2": 1507.4351391679882,
-      "rating_ev": -3.4733713714244914
+      "rating1": 1453.308908821581,
+      "rating2": 1506.70361724248,
+      "rating_ev": -2.7853185692322313
     },
     {
       "date": "2010-01-24",
       "country": "Angola",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Angola",
       "team2": "Ghana",
       "score1": 0,
       "score2": 1,
-      "rating1": 1453.9016050733865,
-      "rating2": 1630.7080905994094,
-      "rating_ev": -10.289489222835755
+      "rating1": 1443.5868077274727,
+      "rating2": 1628.8434733192776,
+      "rating_ev": -9.722101094108439
     },
     {
       "date": "2010-03-03",
@@ -3081,9 +3489,9 @@
       "team2": "Latvia",
       "score1": 1,
       "score2": 1,
-      "rating1": 1455.1488392992687,
-      "rating2": 1589.1548580845806,
-      "rating_ev": 1.2472342258822664
+      "rating1": 1445.662122707848,
+      "rating2": 1605.9585636849897,
+      "rating_ev": 2.075314980375424
     },
     {
       "date": "2010-05-13",
@@ -3093,45 +3501,45 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1902.991975174864,
-      "rating2": 1461.4202465066037,
-      "rating_ev": 6.27140720733496
+      "rating1": 1910.6624978917657,
+      "rating2": 1452.4233140724673,
+      "rating_ev": 6.761191364619208
     },
     {
       "date": "2010-08-11",
       "country": "Portugal",
       "tournament": "Friendly",
-      "team1": "Angola",
-      "team2": "Uruguay",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1460.6780912149134,
-      "rating2": 1910.0290331047004,
-      "rating_ev": -0.7421552916903238
+      "team1": "Uruguay",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1918.559607086728,
+      "rating2": 1452.182482258998,
+      "rating_ev": -0.24083181346918536
     },
     {
       "date": "2010-09-04",
       "country": "Uganda",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Uganda",
       "team2": "Angola",
       "score1": 3,
       "score2": 0,
-      "rating1": 1542.6875600550618,
-      "rating2": 1428.511541491694,
-      "rating_ev": -32.166549723219305
+      "rating1": 1551.4601241403425,
+      "rating2": 1421.1114356976218,
+      "rating_ev": -31.071046561376306
     },
     {
       "date": "2010-10-09",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Guinea-Bissau",
       "score1": 1,
       "score2": 0,
-      "rating1": 1425.1946488278872,
-      "rating2": 1236.266205140404,
-      "rating_ev": -3.3168926638068115
+      "rating1": 1416.9806574543898,
+      "rating2": 1215.8592855931488,
+      "rating_ev": -4.130778243232044
     },
     {
       "date": "2010-10-12",
@@ -3141,9 +3549,9 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 2,
-      "rating1": 1469.0972146889703,
-      "rating2": 1443.6941898375255,
-      "rating_ev": 18.49954100963828
+      "rating1": 1459.1443345885878,
+      "rating2": 1435.426741405534,
+      "rating_ev": 18.446083951144146
     },
     {
       "date": "2011-01-02",
@@ -3153,9 +3561,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1698.6186450825007,
-      "rating2": 1444.2914432181906,
-      "rating_ev": 0.5972533806650517
+      "rating1": 1681.9413801691398,
+      "rating2": 1435.770849612214,
+      "rating_ev": 0.3441082066801755
     },
     {
       "date": "2011-01-04",
@@ -3165,33 +3573,33 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1680.3402608601637,
-      "rating2": 1454.4126831597039,
-      "rating_ev": 10.121239941513295
+      "rating1": 1681.1327838890822,
+      "rating2": 1446.172436102339,
+      "rating_ev": 10.401586490124828
     },
     {
       "date": "2011-03-26",
       "country": "Kenya",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Kenya",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1266.8678304322632,
-      "rating2": 1433.724577791316,
-      "rating_ev": -20.688105368387824
+      "rating1": 1273.6421742449977,
+      "rating2": 1426.4241557866362,
+      "rating_ev": -19.748280315702686
     },
     {
       "date": "2011-06-05",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Kenya",
       "score1": 1,
       "score2": 0,
-      "rating1": 1431.764186029776,
-      "rating2": 1263.1015026563764,
-      "rating_ev": -1.960391761539995
+      "rating1": 1425.2903541871992,
+      "rating2": 1268.9454229258265,
+      "rating_ev": -1.1338015994369925
     },
     {
       "date": "2011-08-10",
@@ -3201,9 +3609,9 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1197.0952724175547,
-      "rating2": 1427.4956291653693,
-      "rating_ev": -4.268556864406719
+      "rating1": 1199.4716915931429,
+      "rating2": 1421.2889710666782,
+      "rating_ev": -4.001383120521041
     },
     {
       "date": "2011-08-27",
@@ -3213,33 +3621,33 @@
       "team2": "DR Congo",
       "score1": 1,
       "score2": 2,
-      "rating1": 1415.7713473912913,
-      "rating2": 1374.6632818431256,
-      "rating_ev": -11.724281774078008
+      "rating1": 1410.5798139271078,
+      "rating2": 1401.4605231467808,
+      "rating_ev": -10.70915713957038
     },
     {
       "date": "2011-09-04",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Uganda",
       "score1": 2,
       "score2": 0,
-      "rating1": 1444.3160011742482,
-      "rating2": 1497.0947641112193,
-      "rating_ev": 28.544653782956857
+      "rating1": 1439.9491227849212,
+      "rating2": 1504.9506584184953,
+      "rating_ev": 29.369308857813394
     },
     {
       "date": "2011-10-08",
       "country": "Guinea-Bissau",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Guinea-Bissau",
       "team2": "Angola",
       "score1": 0,
       "score2": 2,
-      "rating1": 1228.6558402959574,
-      "rating2": 1466.0570496006678,
-      "rating_ev": 21.74104842641964
+      "rating1": 1217.2283269090653,
+      "rating2": 1461.2480479842893,
+      "rating_ev": 21.298925199368114
     },
     {
       "date": "2011-12-14",
@@ -3249,9 +3657,9 @@
       "team2": "Cameroon",
       "score1": 1,
       "score2": 1,
-      "rating1": 1469.4195720621983,
-      "rating2": 1670.76533557905,
-      "rating_ev": 3.3625224615304887
+      "rating1": 1464.6366047586482,
+      "rating2": 1666.8152354605998,
+      "rating_ev": 3.3885567743589036
     },
     {
       "date": "2011-12-18",
@@ -3261,9 +3669,9 @@
       "team2": "Zambia",
       "score1": 1,
       "score2": 0,
-      "rating1": 1474.8079124366916,
-      "rating2": 1505.295800581124,
-      "rating_ev": 5.388340374493282
+      "rating1": 1470.27338061524,
+      "rating2": 1508.5891803545003,
+      "rating_ev": 5.636775856591839
     },
     {
       "date": "2011-12-22",
@@ -3273,9 +3681,9 @@
       "team2": "Namibia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1466.1852396219006,
-      "rating2": 1288.2935926002451,
-      "rating_ev": -8.62267281479103
+      "rating1": 1460.931865318045,
+      "rating2": 1260.0472923962259,
+      "rating_ev": -9.341515297194974
     },
     {
       "date": "2012-01-11",
@@ -3285,9 +3693,9 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1652.473366592926,
-      "rating2": 1474.801043005586,
-      "rating_ev": 8.615803383685488
+      "rating1": 1656.0149678082382,
+      "rating2": 1469.8146046569946,
+      "rating_ev": 8.882739338949477
     },
     {
       "date": "2012-01-14",
@@ -3297,45 +3705,45 @@
       "team2": "Sierra Leone",
       "score1": 3,
       "score2": 1,
-      "rating1": 1481.111295159668,
-      "rating2": 1311.1495469438064,
-      "rating_ev": 6.310252154082036
+      "rating1": 1476.0396590877742,
+      "rating2": 1303.3705134387385,
+      "rating_ev": 6.2250544307796645
     },
     {
       "date": "2012-01-22",
       "country": "Equatorial Guinea",
-      "tournament": "African Cup of Nations",
-      "team1": "Burkina Faso",
-      "team2": "Angola",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1466.0752062224979,
-      "rating2": 1494.9960467575945,
-      "rating_ev": 13.884751597926424
+      "tournament": "African Nations Cup",
+      "team1": "Angola",
+      "team2": "Burkina Faso",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1491.2929467303125,
+      "rating2": 1482.5488340436941,
+      "rating_ev": 15.253287642538226
     },
     {
       "date": "2012-01-26",
       "country": "Equatorial Guinea",
-      "tournament": "African Cup of Nations",
-      "team1": "Sudan",
-      "team2": "Angola",
+      "tournament": "African Nations Cup",
+      "team1": "Angola",
+      "team2": "Sudan",
       "score1": 2,
       "score2": 2,
-      "rating1": 1395.7176757314176,
-      "rating2": 1488.6982334314819,
-      "rating_ev": -6.297813326112646
+      "rating1": 1485.3579092428158,
+      "rating2": 1397.747672674584,
+      "rating_ev": -5.935037487496629
     },
     {
       "date": "2012-01-30",
       "country": "Equatorial Guinea",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Ivory Coast",
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1826.579228833949,
-      "rating2": 1480.5147967418943,
-      "rating_ev": -8.183436689587552
+      "rating1": 1779.1512433319795,
+      "rating2": 1474.4685194961783,
+      "rating_ev": -10.889389746637562
     },
     {
       "date": "2012-05-16",
@@ -3345,9 +3753,9 @@
       "team2": "Zambia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1481.0768650448513,
-      "rating2": 1593.3859913336667,
-      "rating_ev": 0.5620683029569591
+      "rating1": 1475.284505290569,
+      "rating2": 1595.6290280214591,
+      "rating_ev": 0.8159857943908264
     },
     {
       "date": "2012-05-29",
@@ -3357,33 +3765,33 @@
       "team2": "North Macedonia",
       "score1": 0,
       "score2": 0,
-      "rating1": 1481.6425291640694,
-      "rating2": 1499.4531621031304,
-      "rating_ev": 0.5656641192181269
+      "rating1": 1476.5040006473876,
+      "rating2": 1514.90748346117,
+      "rating_ev": 1.21949535681847
     },
     {
       "date": "2012-06-03",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Uganda",
       "score1": 1,
       "score2": 1,
-      "rating1": 1474.0108040822583,
-      "rating2": 1455.940848436841,
-      "rating_ev": -7.631725081811055
+      "rating1": 1469.9460479523525,
+      "rating2": 1467.709954292198,
+      "rating_ev": -6.5579526950350555
     },
     {
       "date": "2012-06-10",
       "country": "Liberia",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Liberia",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1192.9819847515091,
-      "rating2": 1462.3400514257653,
-      "rating_ev": -11.67075265649305
+      "rating1": 1205.7698703380568,
+      "rating2": 1459.3147242400362,
+      "rating_ev": -10.631323712316316
     },
     {
       "date": "2012-08-15",
@@ -3393,21 +3801,33 @@
       "team2": "Mozambique",
       "score1": 2,
       "score2": 0,
-      "rating1": 1468.3643067989012,
-      "rating2": 1289.310552726982,
-      "rating_ev": 6.024255373135929
+      "rating1": 1464.4562919794103,
+      "rating2": 1257.2706175318522,
+      "rating_ev": 5.141567739374068
     },
     {
       "date": "2012-09-09",
       "country": "Zimbabwe",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Zimbabwe",
       "team2": "Angola",
       "score1": 3,
       "score2": 1,
-      "rating1": 1350.8055815220653,
-      "rating2": 1437.532058430144,
-      "rating_ev": -30.83224836875729
+      "rating1": 1336.1189218742286,
+      "rating2": 1432.9453077163514,
+      "rating_ev": -31.510984263058845
+    },
+    {
+      "date": "2012-10-14",
+      "country": "Angola",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Angola",
+      "team2": "Zimbabwe",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1449.1597771546094,
+      "rating2": 1319.9044524359706,
+      "rating_ev": 16.214469438257993
     },
     {
       "date": "2012-11-14",
@@ -3417,9 +3837,9 @@
       "team2": "Congo",
       "score1": 1,
       "score2": 1,
-      "rating1": 1434.54419578515,
-      "rating2": 1340.3560456143518,
-      "rating_ev": -2.9878626449940384
+      "rating1": 1444.9300144710887,
+      "rating2": 1311.4275075929668,
+      "rating_ev": -4.229762683520676
     },
     {
       "date": "2012-12-15",
@@ -3429,9 +3849,21 @@
       "team2": "Gambia",
       "score1": 1,
       "score2": 1,
-      "rating1": 1427.6442771188786,
-      "rating2": 1304.5507044479111,
-      "rating_ev": -6.899918666271333
+      "rating1": 1439.4762264440794,
+      "rating2": 1362.1297827794115,
+      "rating_ev": -5.4537880270092955
+    },
+    {
+      "date": "2012-12-19",
+      "country": "Angola",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "Cameroon",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1447.5088419941403,
+      "rating2": 1561.4963495846348,
+      "rating_ev": 8.032615550060882
     },
     {
       "date": "2012-12-22",
@@ -3441,21 +3873,21 @@
       "team2": "Rwanda",
       "score1": 1,
       "score2": 0,
-      "rating1": 1427.3336782340662,
-      "rating2": 1277.9954743991384,
-      "rating_ev": -0.31059888481240705
+      "rating1": 1447.2883656088964,
+      "rating2": 1300.8107223899538,
+      "rating_ev": -0.22047638524395552
     },
     {
       "date": "2013-01-05",
       "country": "South Africa",
       "tournament": "Friendly",
-      "team1": "Zambia",
-      "team2": "Angola",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1585.6429307304534,
-      "rating2": 1446.4288527539659,
-      "rating_ev": 19.09517451989973
+      "team1": "Angola",
+      "team2": "Zambia",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1464.545073725955,
+      "rating2": 1545.4109594279,
+      "rating_ev": 17.25670811705868
     },
     {
       "date": "2013-01-13",
@@ -3465,105 +3897,81 @@
       "team2": "Botswana",
       "score1": 2,
       "score2": 0,
-      "rating1": 1455.0238675469113,
-      "rating2": 1262.3804922939612,
-      "rating_ev": 8.595014792945449
+      "rating1": 1471.5991570131855,
+      "rating2": 1229.706653248738,
+      "rating_ev": 7.054083287230469
     },
     {
       "date": "2013-01-19",
       "country": "South Africa",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Angola",
       "team2": "Morocco",
       "score1": 0,
       "score2": 0,
-      "rating1": 1456.3820187358253,
-      "rating2": 1476.4058159580413,
-      "rating_ev": 1.3581511889140074
+      "rating1": 1478.7077723833684,
+      "rating2": 1583.701012168082,
+      "rating_ev": 7.108615370182861
     },
     {
       "date": "2013-01-23",
       "country": "South Africa",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "South Africa",
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1565.2681389512256,
-      "rating2": 1439.9044973304317,
-      "rating_ev": -16.477521405393645
+      "rating1": 1560.9478504656336,
+      "rating2": 1460.5414731686833,
+      "rating_ev": -18.16629921468507
     },
     {
       "date": "2013-01-27",
       "country": "South Africa",
-      "tournament": "African Cup of Nations",
+      "tournament": "African Nations Cup",
       "team1": "Cape Verde",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1463.2207083223693,
-      "rating2": 1426.545713539715,
-      "rating_ev": -13.358783790716643
+      "rating1": 1462.2425244903407,
+      "rating2": 1445.8096612937288,
+      "rating_ev": -14.731811874954474
     },
     {
       "date": "2013-03-23",
       "country": "Guinea",
-      "tournament": "FIFA World Cup qualification",
-      "team1": "Senegal",
-      "team2": "Angola",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1501.0291835013968,
-      "rating2": 1431.2734602936187,
-      "rating_ev": 4.727746753903602
-    },
-    {
-      "date": "2013-06-08",
-      "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Senegal",
       "score1": 1,
       "score2": 1,
-      "rating1": 1429.7965031033311,
-      "rating2": 1502.5061406916843,
-      "rating_ev": -1.4769571902875214
+      "rating1": 1451.2295288683624,
+      "rating2": 1531.2178427148417,
+      "rating_ev": 5.419867574633599
+    },
+    {
+      "date": "2013-06-08",
+      "country": "Angola",
+      "tournament": "World Cup qualifier",
+      "team1": "Angola",
+      "team2": "Senegal",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1450.3625632189367,
+      "rating2": 1532.0848083642675,
+      "rating_ev": -0.8669656494257652
     },
     {
       "date": "2013-06-15",
       "country": "Uganda",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Uganda",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1487.568503761976,
-      "rating2": 1424.6247409902533,
-      "rating_ev": -5.171762113077875
-    },
-    {
-      "date": "2013-06-23",
-      "country": "Eswatini",
-      "tournament": "African Nations Championship",
-      "team1": "Eswatini",
-      "team2": "Angola",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 995.237897477878,
-      "rating2": 1418.7768378385813,
-      "rating_ev": -5.8479031516719715
-    },
-    {
-      "date": "2013-06-29",
-      "country": "Angola",
-      "tournament": "African Nations Championship",
-      "team1": "Angola",
-      "team2": "Eswatini",
-      "score1": 1,
-      "score2": 0,
-      "rating1": 1402.3027167050363,
-      "rating2": 1011.712018611423,
-      "rating_ev": -16.47412113354494
+      "rating1": 1495.3615303686759,
+      "rating2": 1444.3800553812953,
+      "rating_ev": -5.9825078376413785
     },
     {
       "date": "2013-07-14",
@@ -3573,69 +3981,45 @@
       "team2": "Lesotho",
       "score1": 1,
       "score2": 1,
-      "rating1": 1384.512044425232,
-      "rating2": 1119.1290166139102,
-      "rating_ev": -17.790672279804312
+      "rating1": 1423.8009099987842,
+      "rating2": 1115.577059939447,
+      "rating_ev": -20.579145382511115
     },
     {
       "date": "2013-07-16",
       "country": "Zambia",
       "tournament": "COSAFA Cup",
-      "team1": "Malawi",
-      "team2": "Angola",
-      "score1": 2,
-      "score2": 3,
-      "rating1": 1332.4340531066082,
-      "rating2": 1396.0442856554198,
-      "rating_ev": 11.532241230187765
+      "team1": "Angola",
+      "team2": "Malawi",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 1432.287790021986,
+      "rating2": 1323.7006532930677,
+      "rating_ev": 8.48688002320182
     },
     {
       "date": "2013-07-18",
       "country": "Zambia",
       "tournament": "COSAFA Cup",
-      "team1": "Angola",
-      "team2": "Mozambique",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1376.3550314255538,
-      "rating2": 1319.6010937469407,
-      "rating_ev": -19.689254229866037
-    },
-    {
-      "date": "2013-08-25",
-      "country": "Mozambique",
-      "tournament": "African Nations Championship",
       "team1": "Mozambique",
       "team2": "Angola",
-      "score1": 0,
-      "score2": 0,
-      "rating1": 1309.4714928301914,
-      "rating2": 1378.107795397081,
-      "rating_ev": 1.7527639715272016
-    },
-    {
-      "date": "2013-08-31",
-      "country": "Angola",
-      "tournament": "African Nations Championship",
-      "team1": "Angola",
-      "team2": "Mozambique",
       "score1": 1,
-      "score2": 1,
-      "rating1": 1368.3694519741377,
-      "rating2": 1319.2098362531347,
-      "rating_ev": -9.738343422943217
+      "score2": 0,
+      "rating1": 1276.7923070390018,
+      "rating2": 1407.6130856145733,
+      "rating_ev": -24.67470440741272
     },
     {
       "date": "2013-09-07",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Liberia",
       "score1": 4,
       "score2": 1,
-      "rating1": 1396.8530523223003,
-      "rating2": 1228.2354532256754,
-      "rating_ev": 28.483600348162554
+      "rating1": 1434.4594589739716,
+      "rating2": 1241.5550759788516,
+      "rating_ev": 26.846373359398285
     },
     {
       "date": "2014-03-05",
@@ -3645,9 +4029,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1314.791583593503,
-      "rating2": 1397.2361776189719,
-      "rating_ev": 0.38312529667155104
+      "rating1": 1288.9460000545068,
+      "rating2": 1432.8986336845,
+      "rating_ev": -1.5608252894714951
     },
     {
       "date": "2014-05-28",
@@ -3657,9 +4041,9 @@
       "team2": "Morocco",
       "score1": 2,
       "score2": 0,
-      "rating1": 1414.1338612231189,
-      "rating2": 1483.646061054303,
-      "rating_ev": 16.897683604147005
+      "rating1": 1450.9444640940512,
+      "rating2": 1556.80793361129,
+      "rating_ev": 18.045830409551172
     },
     {
       "date": "2014-05-30",
@@ -3669,9 +4053,21 @@
       "team2": "Iran",
       "score1": 1,
       "score2": 1,
-      "rating1": 1423.7728298566674,
-      "rating2": 1731.2184806721862,
-      "rating_ev": 9.63896863354853
+      "rating1": 1459.3221380600987,
+      "rating2": 1725.6805822651947,
+      "rating_ev": 8.377673966047496
+    },
+    {
+      "date": "2014-08-03",
+      "country": "Angola",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "Ethiopia",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1460.5641857111439,
+      "rating2": 1360.391188413403,
+      "rating_ev": 1.2420476510451408
     },
     {
       "date": "2014-08-13",
@@ -3681,81 +4077,81 @@
       "team2": "Botswana",
       "score1": 0,
       "score2": 0,
-      "rating1": 1418.4609118299704,
-      "rating2": 1345.5933583939684,
-      "rating_ev": -5.311918026696958
+      "rating1": 1452.5883723173233,
+      "rating2": 1295.3185240838936,
+      "rating_ev": -7.975813393820545
     },
     {
       "date": "2014-09-06",
       "country": "Gabon",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Gabon",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1479.1598829766697,
-      "rating2": 1413.474877961134,
-      "rating_ev": -4.98603386883633
+      "rating1": 1480.079742017118,
+      "rating2": 1445.4941089574158,
+      "rating_ev": -7.0942633599074725
     },
     {
       "date": "2014-09-10",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Burkina Faso",
       "score1": 0,
       "score2": 3,
-      "rating1": 1369.7453980602265,
-      "rating2": 1502.3410096141276,
-      "rating_ev": -43.72947990090756
+      "rating1": 1403.7489589424754,
+      "rating2": 1565.64334285924,
+      "rating_ev": -41.745150014940464
     },
     {
       "date": "2014-10-10",
       "country": "Lesotho",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Lesotho",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1210.2402563933865,
-      "rating2": 1365.6445391896993,
-      "rating_ev": -4.1008588705271904
+      "rating1": 1212.7244750404109,
+      "rating2": 1397.6697459234256,
+      "rating_ev": -6.079213019049803
     },
     {
       "date": "2014-10-15",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Lesotho",
       "score1": 4,
       "score2": 0,
-      "rating1": 1403.9400717857534,
-      "rating2": 1171.9447237973322,
-      "rating_ev": 38.295532596054045
+      "rating1": 1434.2184452991835,
+      "rating2": 1176.175775664653,
+      "rating_ev": 36.548699375757906
     },
     {
       "date": "2014-11-15",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Gabon",
       "score1": 0,
       "score2": 0,
-      "rating1": 1403.8427242256662,
-      "rating2": 1496.9444159523096,
-      "rating_ev": -0.09734756008720069
+      "rating1": 1432.7874770190033,
+      "rating2": 1506.1764141441831,
+      "rating_ev": -1.4309682801801955
     },
     {
       "date": "2014-11-19",
       "country": "Burkina Faso",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Burkina Faso",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1465.344126683426,
-      "rating2": 1413.7461471293482,
-      "rating_ev": 9.903422903681985
+      "rating1": 1517.19414381764,
+      "rating2": 1444.142141993869,
+      "rating_ev": 11.354664974865727
     },
     {
       "date": "2015-03-26",
@@ -3765,21 +4161,21 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1706.1145258145057,
-      "rating2": 1411.3264907026169,
-      "rating_ev": -2.419656426731308
+      "rating1": 1727.6630276970177,
+      "rating2": 1441.4578878655532,
+      "rating_ev": -2.6842541283158425
     },
     {
       "date": "2015-06-13",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Central African Republic",
       "score1": 4,
       "score2": 0,
-      "rating1": 1447.3559609728886,
-      "rating2": 1181.5502870026285,
-      "rating_ev": 36.02947027027176
+      "rating1": 1475.2084533102632,
+      "rating2": 1175.2017679229223,
+      "rating_ev": 33.75056544470999
     },
     {
       "date": "2015-06-16",
@@ -3789,189 +4185,105 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1512.640000920803,
-      "rating2": 1445.080558917001,
-      "rating_ev": -2.2754020558875254
-    },
-    {
-      "date": "2015-06-21",
-      "country": "Eswatini",
-      "tournament": "African Nations Championship",
-      "team1": "Eswatini",
-      "team2": "Angola",
-      "score1": 2,
-      "score2": 2,
-      "rating1": 1137.982646433046,
-      "rating2": 1431.809792649201,
-      "rating_ev": -13.270766267800127
-    },
-    {
-      "date": "2015-07-04",
-      "country": "Angola",
-      "tournament": "African Nations Championship",
-      "team1": "Angola",
-      "team2": "Eswatini",
-      "score1": 2,
-      "score2": 0,
-      "rating1": 1436.424150333555,
-      "rating2": 1133.368288748692,
-      "rating_ev": 4.61435768435399
+      "rating1": 1515.6336635171842,
+      "rating2": 1472.1685096305532,
+      "rating_ev": -3.0399436797099497
     },
     {
       "date": "2015-09-06",
       "country": "Madagascar",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Madagascar",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1238.6239899844593,
-      "rating2": 1429.920845177737,
-      "rating_ev": -6.503305155817998
-    },
-    {
-      "date": "2015-10-17",
-      "country": "South Africa",
-      "tournament": "African Nations Championship",
-      "team1": "South Africa",
-      "team2": "Angola",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1448.3214739373577,
-      "rating2": 1466.4756805481506,
-      "rating_ev": 36.554835370413684
-    },
-    {
-      "date": "2015-10-24",
-      "country": "Angola",
-      "tournament": "African Nations Championship",
-      "team1": "Angola",
-      "team2": "South Africa",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1445.7968532236885,
-      "rating2": 1469.00030126182,
-      "rating_ev": -20.67882732446219
+      "rating1": 1249.5405712076185,
+      "rating2": 1464.1152395659951,
+      "rating_ev": -8.053270064558092
     },
     {
       "date": "2015-11-06",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Namibia",
       "score1": 1,
       "score2": 0,
-      "rating1": 1447.1424038392777,
-      "rating2": 1350.239235353139,
-      "rating_ev": 1.345550615589218
+      "rating1": 1464.1800314026545,
+      "rating2": 1325.6590247439137,
+      "rating_ev": 0.06479183665942401
     },
     {
       "date": "2015-11-07",
       "country": "Angola",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "DR Congo",
       "score1": 1,
       "score2": 0,
-      "rating1": 1452.71632313275,
-      "rating2": 1489.051377110654,
-      "rating_ev": 5.573919293472272
+      "rating1": 1477.316544102002,
+      "rating2": 1531.8701416639874,
+      "rating_ev": 13.13651269934735
     },
     {
       "date": "2015-11-13",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "South Africa",
       "score1": 1,
       "score2": 3,
-      "rating1": 1420.4153406124735,
-      "rating2": 1501.3012837820963,
-      "rating_ev": -32.30098252027642
+      "rating1": 1446.4319614688638,
+      "rating2": 1548.2059574676136,
+      "rating_ev": -30.884582633138052
     },
     {
       "date": "2015-11-17",
       "country": "South Africa",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "South Africa",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1504.7862231913045,
-      "rating2": 1416.9304012032653,
-      "rating_ev": -3.4849394092082093
-    },
-    {
-      "date": "2016-01-17",
-      "country": "Rwanda",
-      "tournament": "African Nations Championship",
-      "team1": "Angola",
-      "team2": "Cameroon",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1411.5468264237604,
-      "rating2": 1566.137783923472,
-      "rating_ev": -5.383574779504897
-    },
-    {
-      "date": "2016-01-21",
-      "country": "Rwanda",
-      "tournament": "African Nations Championship",
-      "team1": "DR Congo",
-      "team2": "Angola",
-      "score1": 4,
-      "score2": 2,
-      "rating1": 1551.0795130161698,
-      "rating2": 1391.010150250319,
-      "rating_ev": -20.536676173441492
-    },
-    {
-      "date": "2016-01-25",
-      "country": "Rwanda",
-      "tournament": "African Nations Championship",
-      "team1": "Ethiopia",
-      "team2": "Angola",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1247.9106355319104,
-      "rating2": 1396.7789047232,
-      "rating_ev": 5.768754472881028
+      "rating1": 1550.4468941478387,
+      "rating2": 1444.1910247886387,
+      "rating_ev": -2.2409366802251043
     },
     {
       "date": "2016-03-26",
-      "country": "DR Congo",
-      "tournament": "African Cup of Nations qualification",
+      "country": "Dem Rep of the Congo",
+      "tournament": "African Nations Cup qualifier",
       "team1": "DR Congo",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1572.7559365947736,
-      "rating2": 1399.0755715533844,
-      "rating_ev": 2.2966668301844493
+      "rating1": 1533.0335158050348,
+      "rating2": 1434.990951126006,
+      "rating_ev": -9.200073662632803
     },
     {
       "date": "2016-03-29",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "DR Congo",
       "score1": 0,
       "score2": 2,
-      "rating1": 1376.1397276827843,
-      "rating2": 1595.6917804653738,
-      "rating_ev": -22.935843870600138
+      "rating1": 1407.5668328503066,
+      "rating2": 1560.4576340807341,
+      "rating_ev": -27.424118275699357
     },
     {
       "date": "2016-06-05",
       "country": "Central African Republic",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Central African Republic",
       "team2": "Angola",
       "score1": 3,
-      "score2": 0,
-      "rating1": 1263.537490017317,
-      "rating2": 1331.6401518990112,
-      "rating_ev": -44.499575783773025
+      "score2": 1,
+      "rating1": 1251.0672517431758,
+      "rating2": 1374.2869224780545,
+      "rating_ev": -33.27991037225206
     },
     {
       "date": "2016-06-12",
@@ -3981,45 +4293,45 @@
       "team2": "Angola",
       "score1": 3,
       "score2": 0,
-      "rating1": 1301.1681435436449,
-      "rating2": 1286.3332185809838,
-      "rating_ev": -45.306933318027404
+      "rating1": 1308.2650486818436,
+      "rating2": 1326.729298946151,
+      "rating_ev": -47.55762353190357
     },
     {
       "date": "2016-06-14",
       "country": "Namibia",
       "tournament": "COSAFA Cup",
-      "team1": "Angola",
-      "team2": "Lesotho",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1248.3995455029644,
-      "rating2": 1151.2056667945878,
-      "rating_ev": -37.93367307801941
+      "team1": "Lesotho",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1148.14990266973,
+      "rating2": 1286.07432480387,
+      "rating_ev": -40.654974142280935
     },
     {
       "date": "2016-06-16",
       "country": "Namibia",
       "tournament": "COSAFA Cup",
-      "team1": "Angola",
-      "team2": "Mauritius",
-      "score1": 0,
-      "score2": 2,
-      "rating1": 1202.1208562581864,
-      "rating2": 978.9146568919504,
-      "rating_ev": -46.27868924477798
+      "team1": "Mauritius",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 1018.3563903816038,
+      "rating2": 1239.903883465948,
+      "rating_ev": -46.17044133792206
     },
     {
       "date": "2016-09-03",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Madagascar",
       "score1": 1,
       "score2": 1,
-      "rating1": 1196.077794275566,
-      "rating2": 1201.4328200738044,
-      "rating_ev": -6.043061982620429
+      "rating1": 1231.7399745996909,
+      "rating2": 1205.8199156868893,
+      "rating_ev": -8.163908866257088
     },
     {
       "date": "2016-09-30",
@@ -4029,9 +4341,9 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1294.6761623442103,
-      "rating2": 1202.0162935683352,
-      "rating_ev": 5.9384992927691655
+      "rating1": 1286.489586527874,
+      "rating2": 1236.3319604874182,
+      "rating_ev": 4.591985887727333
     },
     {
       "date": "2017-03-25",
@@ -4041,9 +4353,9 @@
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1293.401261818048,
-      "rating2": 1193.4931836356552,
-      "rating_ev": -8.523109932679972
+      "rating1": 1298.3655859039793,
+      "rating2": 1226.9068124500552,
+      "rating_ev": -9.425148037362987
     },
     {
       "date": "2017-03-28",
@@ -4053,33 +4365,33 @@
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1535.028528608417,
-      "rating2": 1206.7583368464918,
-      "rating_ev": 13.265153210836615
+      "rating1": 1577.7051992802847,
+      "rating2": 1240.4443647648372,
+      "rating_ev": 13.537552314782033
     },
     {
       "date": "2017-06-10",
       "country": "Burkina Faso",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Burkina Faso",
       "team2": "Angola",
       "score1": 3,
       "score2": 1,
-      "rating1": 1530.3308368510675,
-      "rating2": 1203.6862020381227,
-      "rating_ev": -3.0721348083691282
+      "rating1": 1556.03591861463,
+      "rating2": 1236.8834599564736,
+      "rating_ev": -3.5609048083636026
     },
     {
       "date": "2017-06-25",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
-      "team1": "Mauritius",
-      "team2": "Angola",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 976.1851676299611,
-      "rating2": 1204.1597491929701,
-      "rating_ev": 0.4735471548475516
+      "team1": "Angola",
+      "team2": "Mauritius",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1237.1540385113544,
+      "rating2": 1006.1253024428966,
+      "rating_ev": 0.2705785548807853
     },
     {
       "date": "2017-06-27",
@@ -4089,129 +4401,57 @@
       "team2": "Tanzania",
       "score1": 0,
       "score2": 0,
-      "rating1": 1209.3160116187883,
-      "rating2": 1285.406141165431,
-      "rating_ev": 5.156262425818113
+      "rating1": 1241.173039795101,
+      "rating2": 1300.4580338967855,
+      "rating_ev": 4.019001283746547
     },
     {
       "date": "2017-06-29",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
-      "team1": "Malawi",
-      "team2": "Angola",
-      "score1": 0,
-      "score2": 0,
-      "rating1": 1202.1675486521096,
-      "rating2": 1208.8619257566338,
-      "rating_ev": -0.454085862154443
-    },
-    {
-      "date": "2017-07-16",
-      "country": "Mauritius",
-      "tournament": "African Nations Championship",
-      "team1": "Mauritius",
-      "team2": "Angola",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1000.2116046599891,
-      "rating2": 1216.5063245224671,
-      "rating_ev": 7.64439876583333
-    },
-    {
-      "date": "2017-07-23",
-      "country": "Angola",
-      "tournament": "African Nations Championship",
       "team1": "Angola",
-      "team2": "Mauritius",
-      "score1": 3,
-      "score2": 2,
-      "rating1": 1211.969119871032,
-      "rating2": 1004.7488093114243,
-      "rating_ev": -4.537204651435104
-    },
-    {
-      "date": "2018-01-16",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Angola",
-      "team2": "Burkina Faso",
+      "team2": "Malawi",
       "score1": 0,
       "score2": 0,
-      "rating1": 1233.3406717888354,
-      "rating2": 1553.8379774430211,
-      "rating_ev": 21.371551917803345
-    },
-    {
-      "date": "2018-01-20",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Angola",
-      "team2": "Cameroon",
-      "score1": 1,
-      "score2": 0,
-      "rating1": 1265.6535355820554,
-      "rating2": 1511.8247365410382,
-      "rating_ev": 32.312863793220004
-    },
-    {
-      "date": "2018-01-24",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Congo",
-      "team2": "Angola",
-      "score1": 0,
-      "score2": 0,
-      "rating1": 1434.5835194646725,
-      "rating2": 1276.3421407910334,
-      "rating_ev": 10.68860520897806
-    },
-    {
-      "date": "2018-01-28",
-      "country": "Morocco",
-      "tournament": "African Nations Championship",
-      "team1": "Nigeria",
-      "team2": "Angola",
-      "score1": 2,
-      "score2": 1,
-      "rating1": 1623.9940080916488,
-      "rating2": 1283.2649869586123,
-      "rating_ev": 6.922846167578882
+      "rating1": 1241.1024199139224,
+      "rating2": 1240.0613114749983,
+      "rating_ev": -0.07061988117857254
     },
     {
       "date": "2018-03-21",
       "country": "Zambia",
-      "tournament": "Friendly",
-      "team1": "South Africa",
-      "team2": "Angola",
+      "tournament": "Friendly tournament",
+      "team1": "Angola",
+      "team2": "South Africa",
       "score1": 1,
       "score2": 1,
-      "rating1": 1498.5747920229735,
-      "rating2": 1289.854462310858,
-      "rating_ev": 6.5894753522456995
+      "rating1": 1257.752728103496,
+      "rating2": 1505.7583729705038,
+      "rating_ev": 16.650308189573707
     },
     {
       "date": "2018-03-24",
       "country": "Zambia",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Zimbabwe",
       "score1": 2,
       "score2": 2,
-      "rating1": 1296.5172389421214,
-      "rating2": 1507.5879831234552,
-      "rating_ev": 6.662776631263341
+      "rating1": 1272.714082192861,
+      "rating2": 1495.117493272771,
+      "rating_ev": 14.961354089364931
     },
     {
       "date": "2018-05-28",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
-      "team1": "Angola",
-      "team2": "Botswana",
-      "score1": 1,
-      "score2": 2,
-      "rating1": 1281.7740959164032,
-      "rating2": 1298.0398991716188,
-      "rating_ev": -14.743143025718155
+      "team1": "Botswana",
+      "team2": "Angola",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1286.7760043370483,
+      "rating2": 1258.767448981142,
+      "rating_ev": -13.946633211719018
     },
     {
       "date": "2018-05-30",
@@ -4221,9 +4461,9 @@
       "team2": "Mauritius",
       "score1": 1,
       "score2": 0,
-      "rating1": 1279.2586628965387,
-      "rating2": 1006.1025719590909,
-      "rating_ev": -2.515433019864531
+      "rating1": 1258.957789040924,
+      "rating2": 1026.7211482552177,
+      "rating_ev": 0.19034005978187452
     },
     {
       "date": "2018-06-01",
@@ -4233,333 +4473,381 @@
       "team2": "Malawi",
       "score1": 0,
       "score2": 0,
-      "rating1": 1274.5717033970313,
-      "rating2": 1205.4187540607882,
-      "rating_ev": -4.6869594995073385
+      "rating1": 1257.47052169797,
+      "rating2": 1235.542814586557,
+      "rating_ev": -1.4872673429538281
+    },
+    {
+      "date": "2018-09-09",
+      "country": "Angola",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Angola",
+      "team2": "Botswana",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1271.1588556315073,
+      "rating2": 1333.8710248355949,
+      "rating_ev": 13.688333933537251
     },
     {
       "date": "2018-10-12",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Mauritania",
       "score1": 4,
       "score2": 1,
-      "rating1": 1311.6025549862868,
-      "rating2": 1269.1560595976885,
-      "rating_ev": 37.03085158925546
+      "rating1": 1310.189713480967,
+      "rating2": 1297.2563592602671,
+      "rating_ev": 39.03085784945961
     },
     {
       "date": "2018-10-16",
       "country": "Mauritania",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Mauritania",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1280.003292272098,
-      "rating2": 1300.7553223118773,
-      "rating_ev": -10.847232674409497
+      "rating1": 1306.3413278986666,
+      "rating2": 1301.1047448425675,
+      "rating_ev": -9.08496863839946
     },
     {
       "date": "2018-11-18",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Burkina Faso",
       "score1": 2,
       "score2": 1,
-      "rating1": 1319.374260226093,
-      "rating2": 1455.2875390679776,
-      "rating_ev": 18.61893791421562
+      "rating1": 1324.4352066216236,
+      "rating2": 1531.0693764676123,
+      "rating_ev": 23.330461779056122
     },
     {
       "date": "2019-03-22",
       "country": "Botswana",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Botswana",
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1333.9880895568547,
-      "rating2": 1341.1414578592762,
-      "rating_ev": 21.767197633183287
+      "rating1": 1295.53273406929,
+      "rating2": 1343.4384946849477,
+      "rating_ev": 19.003288063324135
     },
     {
       "date": "2019-06-08",
-      "country": "Angola",
+      "country": "Portugal",
       "tournament": "Friendly",
       "team1": "Angola",
       "team2": "Guinea-Bissau",
       "score1": 2,
       "score2": 0,
-      "rating1": 1348.8744968758779,
-      "rating2": 1224.0059346628975,
-      "rating_ev": 7.733039016601651
+      "rating1": 1355.7651641153445,
+      "rating2": 1281.2183743642836,
+      "rating_ev": 12.326669430396805
     },
     {
       "date": "2019-06-24",
       "country": "Egypt",
-      "tournament": "African Cup of Nations",
-      "team1": "Tunisia",
-      "team2": "Angola",
+      "tournament": "African Nations Cup",
+      "team1": "Angola",
+      "team2": "Tunisia",
       "score1": 1,
       "score2": 1,
-      "rating1": 1628.6872147854015,
-      "rating2": 1366.4585473966329,
-      "rating_ev": 17.584050520755
+      "rating1": 1373.2743777852852,
+      "rating2": 1634.3612005182408,
+      "rating_ev": 17.509213669940664
     },
     {
       "date": "2019-06-29",
       "country": "Egypt",
-      "tournament": "African Cup of Nations",
-      "team1": "Mauritania",
-      "team2": "Angola",
+      "tournament": "African Nations Cup",
+      "team1": "Angola",
+      "team2": "Mauritania",
       "score1": 0,
       "score2": 0,
-      "rating1": 1260.8336795119974,
-      "rating2": 1359.7593442916334,
-      "rating_ev": -6.699203104999469
+      "rating1": 1368.177303662513,
+      "rating2": 1292.9622858497487,
+      "rating_ev": -5.097074122772256
     },
     {
       "date": "2019-07-02",
       "country": "Egypt",
-      "tournament": "African Cup of Nations",
-      "team1": "Angola",
-      "team2": "Mali",
-      "score1": 0,
-      "score2": 1,
-      "rating1": 1354.8655873029745,
-      "rating2": 1516.7399372006803,
-      "rating_ev": -4.893756988658879
-    },
-    {
-      "date": "2019-07-28",
-      "country": "Eswatini",
-      "tournament": "African Nations Championship qualification",
-      "team1": "Eswatini",
+      "tournament": "African Nations Cup",
+      "team1": "Mali",
       "team2": "Angola",
       "score1": 1,
-      "score2": 1,
-      "rating1": 1157.4723716859603,
-      "rating2": 1348.3877402460553,
-      "rating_ev": -6.477847056919245
-    },
-    {
-      "date": "2019-08-03",
-      "country": "Angola",
-      "tournament": "African Nations Championship qualification",
-      "team1": "Angola",
-      "team2": "Eswatini",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 1331.3913226930865,
-      "rating2": 1174.468789238929,
-      "rating_ev": -16.99641755296875
+      "score2": 0,
+      "rating1": 1532.0749537134923,
+      "rating2": 1363.7190363824611,
+      "rating_ev": -4.458267280051814
     },
     {
       "date": "2019-09-06",
-      "country": "Gambia",
-      "tournament": "FIFA World Cup qualification",
+      "country": "The Gambia",
+      "tournament": "World Cup qualifier",
       "team1": "Gambia",
       "team2": "Angola",
       "score1": 0,
       "score2": 1,
-      "rating1": 1290.5268505127294,
-      "rating2": 1349.6348309205719,
-      "rating_ev": 18.243508227485336
+      "rating1": 1374.5224041535455,
+      "rating2": 1379.2450441866508,
+      "rating_ev": 15.526007804189703
     },
     {
       "date": "2019-09-10",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Gambia",
       "score1": 2,
       "score2": 1,
-      "rating1": 1354.4183150898027,
-      "rating2": 1285.7433663434986,
-      "rating_ev": 4.78348416923086
+      "rating1": 1387.2754622814784,
+      "rating2": 1366.4919860587179,
+      "rating_ev": 8.03041809482761
     },
     {
       "date": "2019-11-13",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Gambia",
       "score1": 1,
       "score2": 3,
-      "rating1": 1312.7866068135354,
-      "rating2": 1255.7971868707125,
-      "rating_ev": -41.63170827626732
+      "rating1": 1348.0942118130367,
+      "rating2": 1327.435994927656,
+      "rating_ev": -39.181250468441704
     },
     {
       "date": "2019-11-17",
       "country": "Gabon",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Gabon",
       "team2": "Angola",
       "score1": 2,
       "score2": 1,
-      "rating1": 1413.0186183773162,
-      "rating2": 1310.3062471102587,
-      "rating_ev": -2.48035970327669
+      "rating1": 1428.3823766809223,
+      "rating2": 1344.3505180598286,
+      "rating_ev": -3.743693753208163
     },
     {
       "date": "2020-10-13",
       "country": "Portugal",
       "tournament": "Friendly",
-      "team1": "Mozambique",
+      "team1": "Angola",
+      "team2": "Mozambique",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1363.0532307036658,
+      "rating2": 1269.0653112603238,
+      "rating_ev": 18.70271264383723
+    },
+    {
+      "date": "2020-11-14",
+      "country": "Dem Rep of the Congo",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "DR Congo",
       "team2": "Angola",
       "score1": 0,
-      "score2": 3,
-      "rating1": 1268.3576558530278,
-      "rating2": 1330.034576230638,
-      "rating_ev": 19.728329120379385
+      "score2": 0,
+      "rating1": 1504.0467986095632,
+      "rating2": 1371.9848971126512,
+      "rating_ev": 8.931666408985393
+    },
+    {
+      "date": "2020-11-17",
+      "country": "Angola",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Angola",
+      "team2": "DR Congo",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 1360.2623835981474,
+      "rating2": 1515.769312124067,
+      "rating_ev": -11.722513514503817
     },
     {
       "date": "2021-03-25",
-      "country": "Gambia",
-      "tournament": "African Cup of Nations qualification",
+      "country": "The Gambia",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Gambia",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1290.8656501744754,
-      "rating2": 1318.7068816134617,
-      "rating_ev": -11.327694617176348
+      "rating1": 1376.3162998101927,
+      "rating2": 1346.4422869828068,
+      "rating_ev": -13.820096615340617
     },
     {
       "date": "2021-03-29",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Gabon",
       "score1": 2,
       "score2": 0,
-      "rating1": 1348.0853804488684,
-      "rating2": 1413.2232162797504,
-      "rating_ev": 29.378498835406617
+      "rating1": 1374.1688197154867,
+      "rating2": 1414.8360830707365,
+      "rating_ev": 27.72653273267997
     },
     {
       "date": "2021-09-01",
       "country": "Egypt",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Egypt",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1580.4348043912362,
-      "rating2": 1353.906084789413,
-      "rating_ev": 5.82070434054458
+      "rating1": 1610.804009437616,
+      "rating2": 1380.2560583222062,
+      "rating_ev": 6.087238606719438
     },
     {
       "date": "2021-09-07",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Libya",
       "score1": 0,
       "score2": 1,
-      "rating1": 1336.991145596646,
-      "rating2": 1415.694538441147,
-      "rating_ev": -16.91493919276695
+      "rating1": 1359.564697626009,
+      "rating2": 1382.5833491721967,
+      "rating_ev": -20.69136069619708
     },
     {
       "date": "2021-10-08",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Gabon",
       "score1": 3,
       "score2": 1,
-      "rating1": 1363.242701525388,
-      "rating2": 1382.104824402213,
-      "rating_ev": 26.251555928741936
+      "rating1": 1384.5298813490067,
+      "rating2": 1384.4001078952062,
+      "rating_ev": 24.965183722997608
     },
     {
       "date": "2021-10-11",
       "country": "Gabon",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Gabon",
       "team2": "Angola",
       "score1": 2,
       "score2": 0,
-      "rating1": 1402.9697833872299,
-      "rating2": 1342.377742540371,
-      "rating_ev": -20.864958985016983
+      "rating1": 1406.3993782602681,
+      "rating2": 1362.5306109839448,
+      "rating_ev": -21.999270365061875
     },
     {
       "date": "2021-11-12",
       "country": "Angola",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Angola",
       "team2": "Egypt",
       "score1": 2,
       "score2": 2,
-      "rating1": 1352.7926402383846,
-      "rating2": 1603.0526335499226,
-      "rating_ev": 10.414897698013647
+      "rating1": 1373.0465680807165,
+      "rating2": 1624.8400938851923,
+      "rating_ev": 10.515957096771672
     },
     {
       "date": "2021-11-16",
       "country": "Libya",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Libya",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1366.3090714363348,
-      "rating2": 1359.650535726921,
-      "rating_ev": 6.857895488536315
+      "rating1": 1344.5083489067854,
+      "rating2": 1377.2332098384425,
+      "rating_ev": 4.186641757725965
     },
     {
       "date": "2022-03-26",
       "country": "Portugal",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Guinea-Bissau",
       "score1": 3,
       "score2": 2,
-      "rating1": 1364.922566697777,
-      "rating2": 1297.2744564005866,
-      "rating_ev": 5.272030970856122
+      "rating1": 1390.3748782988362,
+      "rating2": 1350.4989014237328,
+      "rating_ev": 13.141668460393703
     },
     {
       "date": "2022-03-29",
       "country": "Portugal",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Angola",
       "team2": "Equatorial Guinea",
       "score1": 0,
       "score2": 0,
-      "rating1": 1365.2770083899454,
-      "rating2": 1376.4367441938762,
-      "rating_ev": 0.3544416921683933
+      "rating1": 1390.4687054158035,
+      "rating2": 1391.8519450266972,
+      "rating_ev": 0.09382711696730439
     },
     {
       "date": "2022-06-01",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Central African Republic",
       "score1": 2,
       "score2": 1,
-      "rating1": 1364.3083500447472,
-      "rating2": 1210.421746405258,
-      "rating_ev": -0.9686583451982642
+      "rating1": 1388.6230107678296,
+      "rating2": 1221.670876997369,
+      "rating_ev": -1.8456946479739145
     },
     {
       "date": "2022-06-05",
       "country": "Madagascar",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Madagascar",
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1263.5540004695815,
-      "rating2": 1363.915099496186,
-      "rating_ev": -0.3932505485611273
+      "rating1": 1257.254435708838,
+      "rating2": 1386.2949594917684,
+      "rating_ev": -2.32805127606116
+    },
+    {
+      "date": "2022-07-05",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Angola",
+      "team2": "Comoros",
+      "score1": 3,
+      "score2": 1,
+      "rating1": 1409.0668849982642,
+      "rating2": 1282.0822375965586,
+      "rating_ev": 22.77192550649579
+    },
+    {
+      "date": "2022-07-07",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Angola",
+      "team2": "Seychelles",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1412.561630176322,
+      "rating2": 750.6819869253603,
+      "rating_ev": 3.494745178057883
+    },
+    {
+      "date": "2022-07-10",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Botswana",
+      "team2": "Angola",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 1336.9685810076885,
+      "rating2": 1392.9261977227638,
+      "rating_ev": -19.635432453558224
     },
     {
       "date": "2022-11-17",
@@ -4569,9 +4857,9 @@
       "team2": "Botswana",
       "score1": 1,
       "score2": 0,
-      "rating1": 1369.8849437672875,
-      "rating2": 1324.2244253209315,
-      "rating_ev": 5.969844271101465
+      "rating1": 1399.0235096206666,
+      "rating2": 1357.3777659646826,
+      "rating_ev": 6.097311897902728
     },
     {
       "date": "2022-11-20",
@@ -4581,45 +4869,93 @@
       "team2": "Angola",
       "score1": 1,
       "score2": 1,
-      "rating1": 1482.560157245099,
-      "rating2": 1376.2548503748312,
-      "rating_ev": 6.369906607543726
+      "rating1": 1485.9373392381706,
+      "rating2": 1404.6035606958465,
+      "rating_ev": 5.580051075179881
     },
     {
       "date": "2023-03-23",
       "country": "Ghana",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Ghana",
       "team2": "Angola",
       "score1": 1,
       "score2": 0,
-      "rating1": 1585.4823628381728,
-      "rating2": 1380.634043684315,
-      "rating_ev": 4.379193309483753
+      "rating1": 1577.8897479807215,
+      "rating2": 1406.7312498236445,
+      "rating_ev": 2.127689127798021
     },
     {
       "date": "2023-03-27",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Ghana",
       "score1": 1,
       "score2": 1,
-      "rating1": 1387.1694253744533,
-      "rating2": 1578.9469811480344,
-      "rating_ev": 6.535381690138365
+      "rating1": 1411.2788623564688,
+      "rating2": 1573.3421354478971,
+      "rating_ev": 4.54761253282436
+    },
+    {
+      "date": "2023-06-17",
+      "country": "Cameroon",
+      "tournament": "African Nations Cup qualifier",
+      "team1": "Angola",
+      "team2": "Central African Republic",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 1419.3690780203308,
+      "rating2": 1304.9134021923874,
+      "rating_ev": 8.090215663861954
+    },
+    {
+      "date": "2023-07-07",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Angola",
+      "team2": "Mozambique",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 1413.1307177570811,
+      "rating2": 1321.0304500336435,
+      "rating_ev": -6.23836026324966
+    },
+    {
+      "date": "2023-07-10",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Mauritius",
+      "team2": "Angola",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 918.3523692933142,
+      "rating2": 1367.969811778176,
+      "rating_ev": -45.16090597890491
+    },
+    {
+      "date": "2023-07-12",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Angola",
+      "team2": "Lesotho",
+      "score1": 4,
+      "score2": 2,
+      "rating1": 1383.711034100728,
+      "rating2": 1152.2212809809553,
+      "rating_ev": 15.741222322551948
     },
     {
       "date": "2023-09-07",
       "country": "Angola",
-      "tournament": "African Cup of Nations qualification",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Angola",
       "team2": "Madagascar",
       "score1": 0,
       "score2": 0,
-      "rating1": 1370.8552844810079,
-      "rating2": 1224.1272182982927,
-      "rating_ev": -16.314140893445483
+      "rating1": 1367.0627550149184,
+      "rating2": 1215.3441801167576,
+      "rating_ev": -16.64827908580969
     },
     {
       "date": "2023-09-12",
@@ -4629,9 +4965,9 @@
       "team2": "Angola",
       "score1": 4,
       "score2": 0,
-      "rating1": 1813.6405938596718,
-      "rating2": 1359.699636946631,
-      "rating_ev": -11.15564753437684
+      "rating1": 1807.463685155763,
+      "rating2": 1355.8383487194176,
+      "rating_ev": -11.224406295500785
     },
     {
       "date": "2023-10-13",
@@ -4641,9 +4977,9 @@
       "team2": "Mozambique",
       "score1": 1,
       "score2": 1,
-      "rating1": 1357.4134560702805,
-      "rating2": 1285.3815907995186,
-      "rating_ev": -2.2861808763504996
+      "rating1": 1354.2223438364613,
+      "rating2": 1303.3243889740984,
+      "rating_ev": -1.6160048829563038
     },
     {
       "date": "2023-10-17",
@@ -4653,33 +4989,57 @@
       "team2": "DR Congo",
       "score1": 0,
       "score2": 0,
-      "rating1": 1361.611983436889,
-      "rating2": 1494.1237947694863,
-      "rating_ev": 4.1985273666084595
+      "rating1": 1359.7110244276225,
+      "rating2": 1533.2423924694378,
+      "rating_ev": 5.4886805911612555
     },
     {
       "date": "2023-11-16",
       "country": "Cape Verde",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Cape Verde",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 1397.2162199047898,
-      "rating2": 1369.8723978907647,
-      "rating_ev": 8.260414453875683
+      "rating1": 1427.604818424687,
+      "rating2": 1370.019673232846,
+      "rating_ev": 10.308648805223356
     },
     {
       "date": "2023-11-21",
       "country": "Mauritius",
-      "tournament": "FIFA World Cup qualification",
+      "tournament": "World Cup qualifier",
       "team1": "Mauritius",
       "team2": "Angola",
       "score1": 0,
       "score2": 0,
-      "rating1": 955.2472534945664,
-      "rating2": 1350.11890522057,
-      "rating_ev": -19.753492670194646
+      "rating1": 1012.3646143825756,
+      "rating2": 1353.6758517557964,
+      "rating_ev": -16.34382147704946
+    },
+    {
+      "date": "2024-01-06",
+      "country": "United Arab Emirates",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "DR Congo",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 1358.6184082943732,
+      "rating2": 1514.7599000919865,
+      "rating_ev": 4.9425565385768095
+    },
+    {
+      "date": "2024-01-10",
+      "country": "United Arab Emirates",
+      "tournament": "Friendly",
+      "team1": "Angola",
+      "team2": "Bahrain",
+      "score1": 3,
+      "score2": 0,
+      "rating1": 1379.7797656164967,
+      "rating2": 1363.2247595482797,
+      "rating_ev": 21.161357322123422
     }
   ]
 }

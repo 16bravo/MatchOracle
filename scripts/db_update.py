@@ -21,13 +21,17 @@ kaggle.cli.main()
 zfile = ZipFile(f"{dataset.split('/')[1]}.zip")
 
 matches = {f.filename:pd.read_csv(zfile.open(f)) for f in zfile.infolist() }["all_matches.csv"]
-
 matches['match_id'] = range(1, len(matches) + 1)
+countries = {f.filename:pd.read_csv(zfile.open(f)) for f in zfile.infolist() }["countries_names.csv"]
+
+# replacing old countries' names by the current ones
+matches['home_team'] = matches['home_team'].replace(countries.set_index('original_name')['current_name'])
+matches['away_team'] = matches['away_team'].replace(countries.set_index('original_name')['current_name'])
 
 # Match validity filter
 # Load data from CSV files
 # matches generated with Kaggle API
-teams_db = pd.read_excel('data/teams_db.xlsx')  # Assurez-vous que le fichier est au format Excel
+teams_db = pd.read_excel('data/teams_db.xlsx')
 
 # Merge DataFrames on home_team and away_team columns
 merged_df = pd.merge(matches, teams_db[['team', 'tricode']], how='inner', left_on='home_team', right_on='team')
