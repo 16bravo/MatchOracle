@@ -15,7 +15,7 @@ teams = [row[0] for row in cursor.fetchall()]
 for team in teams:
     # Sélectionner les matches pour le pays donné
     cursor.execute('''
-        SELECT date, city, country, tournament, team1, team2, score1, score2, rating1, rating2, rating_ev
+        SELECT date, country, tournament, team1, team2, score1, score2, rating1, rating2, rating_ev
         FROM matches
         WHERE team1 = ? OR team2 = ?
     ''', (team, team))
@@ -26,7 +26,6 @@ for team in teams:
     'team': team,
     'matches': [{
         'date': date,
-        'city' : city,
         'country' : country,
         'tournament' : tournament,
         'team1': team1,
@@ -36,7 +35,7 @@ for team in teams:
         'rating1': rating1,
         'rating2': rating2,
         'rating_ev': (1 if team == team1 else -1) * rating_ev,
-    } for date, city, country, tournament, team1, team2, score1, score2, rating1, rating2, rating_ev in matches_data]
+    } for date, country, tournament, team1, team2, score1, score2, rating1, rating2, rating_ev in matches_data]
     }
 
     output_file_path = Path(f"data/json/matches/{team}.json")
