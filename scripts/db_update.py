@@ -7,7 +7,7 @@ from tqdm import tqdm
 import math
 import numpy as np
 from dateutil.relativedelta import relativedelta
-from datetime import datetime
+from datetime import datetime, timedelta
 import sqlite3
 
 ## EXTRACT DATA FROM KAGGLE AND EXCEL
@@ -74,7 +74,7 @@ else:
     # Retrieve the maximum date from the Rankings table
     last_date_query = "SELECT MAX(date) FROM Rankings"
     last_date = pd.read_sql(last_date_query, conn).iloc[0, 0]
-    last_date = datetime.strptime(last_date, "%Y-%m-%d %H:%M:%S.%f")
+    last_date = datetime.strptime(last_date, "%Y-%m-%d %H:%M:%S.%f") - timedelta(days=7) # 7 days before if some matches have not been updated
     last_year = last_date.year
     last_month = last_date.month
     last_day = last_date.day

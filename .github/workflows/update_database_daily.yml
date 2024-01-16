@@ -1,11 +1,11 @@
-name: DB Update Monthly
+name: DB Update Daily
 
 on:
   schedule:
-    - cron: '0 0 15 * *'
+    - cron: '0 0 * * *'
 
 jobs:
-  monthly_update:
+  daily_update:
     runs-on: ubuntu-latest
 
     steps:
