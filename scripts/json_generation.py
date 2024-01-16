@@ -46,7 +46,7 @@ for team in teams:
 
 # YEARLY RANKINGS
 # Execute SQL query to obtain list of current years
-cursor.execute("SELECT DISTINCT year FROM Rankings")
+cursor.execute("SELECT DISTINCT year FROM Rankings WHERE year IS NOT strftime('%Y', CURRENT_DATE)")
 years = cursor.fetchall()
 
 for year in years:

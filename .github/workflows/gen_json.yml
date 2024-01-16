@@ -2,7 +2,7 @@ name: JSON Generation
 
 on:
   workflow_run:
-    workflows: ["DB Update","DB Update Monthly"]
+    workflows: ["DB Update","DB Update Daily"]
     types:
       - completed
 
