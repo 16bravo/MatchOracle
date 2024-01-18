@@ -72,9 +72,9 @@ if result[0] == 0:
     
 else:
     # Retrieve the maximum date from the Rankings table
-    last_date_query = "SELECT MAX(date) FROM Rankings"
+    last_date_query = "SELECT strftime('%Y-%m-%d',MAX(date)) FROM Rankings"
     last_date = pd.read_sql(last_date_query, conn).iloc[0, 0]
-    last_date = datetime.strptime(last_date, "%Y-%m-%d %H:%M:%S.%f")
+    last_date = datetime.strptime(last_date, "%Y-%m-%d")
     last_year = last_date.year
     last_month = last_date.month
     last_day = last_date.day
