@@ -72,7 +72,7 @@ if result[0] == 0:
     
 else:
     # Retrieve the maximum date from the Rankings table
-    last_date_query = "SELECT strftime('%Y-%m-%d',MAX(date)) FROM Rankings"
+    last_date_query = "SELECT strftime('%Y-%m-%d',MAX(date)) FROM Matches"
     last_date = pd.read_sql(last_date_query, conn).iloc[0, 0]
     last_date = datetime.strptime(last_date, "%Y-%m-%d")
     last_year = last_date.year
@@ -191,6 +191,8 @@ valid_data = merged_data[((merged_data['date'] >= merged_data['startDate']) | me
 
 ranking_df = valid_data[['date', 'team', 'points']]
 
+ranking_df = ranking_df.drop_duplicates()
+
 ranking_df.loc[:, 'ranking'] = ranking_df.groupby('date')['points'].rank(ascending=False, method='min')
 
 ranking_df.sort_values(by=['date', 'ranking'], inplace=True)
@@ -217,6 +219,15 @@ for index, row in matches.iterrows():
     ''', (row['date'], row['country'], row['tournament'], row['home_team'], row['away_team'], row['home_score'], row['away_score'],
           row['home_points_after'], row['away_points_after'],
           row['home_points_after'] - row['home_points_before']))
+    
+cursor.execute('''
+    DELETE FROM Matches
+    WHERE rowid NOT IN (
+        SELECT MIN(rowid)
+        FROM Matches
+        GROUP BY date, country, tournament, team1, team2, score1, score2
+    );
+''')
 
 ranking_df.to_sql('Rankings', conn, index=False, if_exists='append')  # Utilisez 'replace' ou 'append' selon votre besoin
 
