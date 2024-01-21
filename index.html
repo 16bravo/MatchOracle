@@ -111,7 +111,7 @@
         // Load the new JSON and update the table
         loadJSON(jsonFilePath).then(newJsonData => {
 
-          dataTable.clear().draw();
+          tableBody.innerHTML = '';
 
           newJsonData.forEach(newItem => {
             const row = document.createElement('tr');
