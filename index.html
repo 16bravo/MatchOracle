@@ -60,7 +60,7 @@
     }
 
     // Default JSON file path
-    let jsonFilePath = 'data/json/LastRankings.json';
+    let jsonFilePath = 'data/json/years/LastRankings.json';
 
     // Function to load the JSON file
     async function loadJSON(filePath) {
@@ -100,18 +100,18 @@
       yearSelect.addEventListener('change', function () {
         const selectedYear = this.value;
         if (selectedYear === 'last') {
-          jsonFilePath = 'data/json/LastRankings.json';
+          jsonFilePath = 'data/json/years/LastRankings.json';
         } else {
-          jsonFilePath = `data/json/${selectedYear}Rankings.json`;
+          jsonFilePath = `data/json/years/${selectedYear}Rankings.json`;
         }
 
         // Empty existing table
-        dataTable.clear().draw();
+        //dataTable.clear().draw();
 
         // Load the new JSON and update the table
         loadJSON(jsonFilePath).then(newJsonData => {
 
-          dataTable.clear().draw();
+          tableBody.innerHTML = '';
 
           newJsonData.forEach(newItem => {
             const row = document.createElement('tr');
@@ -129,7 +129,7 @@
             tableBody.appendChild(row);
           });
 
-          dataTable.draw();
+          //dataTable.draw();
 
         });
       });
