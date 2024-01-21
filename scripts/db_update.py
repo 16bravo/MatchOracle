@@ -69,10 +69,34 @@ if result[0] == 0:
     teams_db = pd.read_excel("data/teams_db.xlsx")
     teams['team'] = teams_db['team']
     teams['points'] = teams_db['base']
+    matches['date'] = pd.to_datetime(matches['date'])
     
 else:
-    # Retrieve the maximum date from the Rankings table
-    last_date_query = "SELECT strftime('%Y-%m-%d',MAX(date)) FROM Matches"
+    # Retrieve the last line and filter the dataset from here
+    query_last_match_info = '''
+        SELECT date, team1 AS home_team, team2 AS away_team, score1 AS home_score, score2 AS away_score, tournament, country
+        FROM Matches
+        ORDER BY match_id DESC
+        LIMIT 1;
+    '''
+
+    last_match_info_in_db = pd.read_sql_query(query_last_match_info, conn)
+
+    last_match_id = matches[
+        (matches['date'] == last_match_info_in_db['date'].iloc[0]) &
+        (matches['home_team'] == last_match_info_in_db['home_team'].iloc[0]) &
+        (matches['away_team'] == last_match_info_in_db['away_team'].iloc[0]) &
+        (matches['home_score'] == last_match_info_in_db['home_score'].iloc[0]) &
+        (matches['away_score'] == last_match_info_in_db['away_score'].iloc[0]) &
+        (matches['tournament'] == last_match_info_in_db['tournament'].iloc[0]) &
+        (matches['country'] == last_match_info_in_db['country'].iloc[0])
+    ]['match_id'].iloc[0]
+
+    matches = matches[matches['match_id'] > last_match_id]
+    matches['date'] = pd.to_datetime(matches['date'])
+
+    # Retrieve the maximum date from the Rankings table to get the last ratings
+    last_date_query = "SELECT strftime('%Y-%m-%d',MAX(date)) FROM Rankings"
     last_date = pd.read_sql(last_date_query, conn).iloc[0, 0]
     last_date = datetime.strptime(last_date, "%Y-%m-%d")
     last_year = last_date.year
@@ -88,9 +112,8 @@ conn.close()
 
 ## POINTS CALCULATION MATCH BY MATCH
 
-matches['date'] = pd.to_datetime(matches['date'])
-
-matches = matches[matches['date'] > last_date]
+#matches['date'] = pd.to_datetime(matches['date'])
+#matches = matches[matches['date'] > last_date]
 
 for index, match in  tqdm(matches.iterrows(), total=len(matches), desc="Calculating matches points"):
     
