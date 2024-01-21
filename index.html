@@ -110,7 +110,9 @@
 
         // Load the new JSON and update the table
         loadJSON(jsonFilePath).then(newJsonData => {
+
           dataTable.clear().draw();
+
           newJsonData.forEach(newItem => {
             const row = document.createElement('tr');
             row.innerHTML = `
@@ -126,6 +128,9 @@
             `;
             tableBody.appendChild(row);
           });
+
+          dataTable.draw();
+
         });
       });
     });
