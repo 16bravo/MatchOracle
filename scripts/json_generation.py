@@ -73,7 +73,7 @@ for year in years:
     data = [dict(zip(column_names, row)) for row in rows]
 
     # JSON file name
-    json_path = Path(f"data/json/{year}Rankings.json")
+    json_path = Path(f"data/json/years/{year}Rankings.json")
 
     # Check if the file already exists
     if not json_path.exists():
@@ -111,7 +111,7 @@ column_names = [description[0] for description in cursor.description]
 data = [dict(zip(column_names, row)) for row in rows]
 
 # Export data to a JSON file
-json_path = "data/json/LastRankings.json"
+json_path = "data/json/years/LastRankings.json"
 with open(json_path, "w", encoding="utf-8") as json_file:
     json.dump(data, json_file, indent=2)
 
