@@ -3,7 +3,8 @@
     "ranking": 1,
     "flag": "SCO.png",
     "team": "Scotland",
-    "points": 2153,
+    "reference_team": "Scotland",
+    "points": 3153,
     "confederation": "UEFA",
     "ranking_change": 0,
     "points_change": -82
@@ -12,7 +13,8 @@
     "ranking": 2,
     "flag": "ENG.png",
     "team": "England",
-    "points": 2131,
+    "reference_team": "England",
+    "points": 3131,
     "confederation": "UEFA",
     "ranking_change": 0,
     "points_change": -52
@@ -21,7 +23,8 @@
     "ranking": 3,
     "flag": "ARG.png",
     "team": "Argentina",
-    "points": 2060,
+    "reference_team": "Argentina",
+    "points": 3060,
     "confederation": "CONMEBOL",
     "ranking_change": 0,
     "points_change": -14
@@ -30,7 +33,8 @@
     "ranking": 4,
     "flag": "URU.png",
     "team": "Uruguay",
-    "points": 1924,
+    "reference_team": "Uruguay",
+    "points": 2924,
     "confederation": "CONMEBOL",
     "ranking_change": 1,
     "points_change": 14
@@ -39,36 +43,50 @@
     "ranking": 5,
     "flag": "HUN.png",
     "team": "Hungary",
-    "points": 1913,
+    "reference_team": "Hungary",
+    "points": 2914,
     "confederation": "UEFA",
     "ranking_change": -1,
-    "points_change": -8
+    "points_change": -7
   },
   {
     "ranking": 6,
-    "flag": "AUT.png",
-    "team": "Austria",
-    "points": 1870,
+    "flag": "CZE.png",
+    "team": "Bohemia",
+    "reference_team": "Czechia",
+    "points": 2888,
     "confederation": "UEFA",
-    "ranking_change": 0,
-    "points_change": 11
+    "ranking_change": null,
+    "points_change": null
   },
   {
     "ranking": 7,
-    "flag": "WAL.png",
-    "team": "Wales",
-    "points": 1498,
+    "flag": "AUT.png",
+    "team": "Austria",
+    "reference_team": "Austria",
+    "points": 2870,
     "confederation": "UEFA",
-    "ranking_change": 0,
-    "points_change": 26
+    "ranking_change": -1,
+    "points_change": 11
   },
   {
     "ranking": 8,
+    "flag": "WAL.png",
+    "team": "Wales",
+    "reference_team": "Wales",
+    "points": 2498,
+    "confederation": "UEFA",
+    "ranking_change": -1,
+    "points_change": 26
+  },
+  {
+    "ranking": 9,
     "flag": "IRL.png",
     "team": "Ireland",
-    "points": 1456,
+    "reference_team": "Ireland",
+    "points": 2456,
     "confederation": "UEFA",
-    "ranking_change": 0,
+    "ranking_change": -1,
     "points_change": 107
   }
 ]

@@ -22,9 +22,11 @@ zfile = ZipFile(f"{dataset.split('/')[1]}.zip")
 
 matches = {f.filename:pd.read_csv(zfile.open(f)) for f in zfile.infolist() }["all_matches.csv"]
 matches['match_id'] = range(1, len(matches) + 1)
-countries = {f.filename:pd.read_csv(zfile.open(f)) for f in zfile.infolist() }["countries_names.csv"]
+countries = pd.read_excel('data/countries_names.xlsx')
 
-# replacing old countries' names by the current ones
+# replacing old countries' names by the current ones but saving them
+matches['history_home_team'] = matches['home_team']
+matches['history_away_team'] = matches['away_team']
 matches['home_team'] = matches['home_team'].replace(countries.set_index('original_name')['current_name'])
 matches['away_team'] = matches['away_team'].replace(countries.set_index('original_name')['current_name'])
 
@@ -67,6 +69,8 @@ if result[0] == 0:
     last_date = datetime(1872, 1, 1)
     # Load the DataFrame from the Excel file
     teams_db = pd.read_excel("data/teams_db.xlsx")
+    # Excluding non-valid teams (with no tricode)
+    teams_db = teams_db[(teams_db['tricode'].notna())]    
     teams['team'] = teams_db['team']
     teams['points'] = teams_db['base']
     matches['date'] = pd.to_datetime(matches['date'])
@@ -179,11 +183,25 @@ if not (datetime.now().month == 12 and datetime.now().day == 31):
 
 historical_points = pd.concat([historical_points, pd.DataFrame(columns=teams['team'].unique())], axis=1)
 
+historical_countries = pd.DataFrame()
+
 for index, row in tqdm(historical_points.iterrows(), total=len(historical_points), desc="Calculating Historical Points"):
     date = row['date']
 
+    #valid_data = merged_data[((merged_data['date'] >= merged_data['startDate']) | merged_data['startDate'].isna()) &
+    #                         ((merged_data['date'] <= merged_data['endDate']) | merged_data['endDate'].isna())]
+
+    #List of countries to date to get original names
+    countries_to_date = countries[((date >= countries['start_date']) | countries['start_date'].isna()) &
+                     ((date <= countries['end_date']) | countries['end_date'].isna())]
+    countries_to_date = countries_to_date.drop_duplicates(subset=['current_name'])
+    countries_to_date['date'] = date
+
+    #historical_countries = pd.concat([historical_countries,countries_to_date], ignore_index=True)
+
     for team in teams['team'].unique():
         team_matches = matches[((matches['home_team'] == team) | (matches['away_team'] == team)) & (matches['date'] <= date)]
+        #new_team_name = countries_to_date.loc[countries_to_date['current_name'] == team]['original_name'].values[0] if not countries_to_date.loc[countries_to_date['current_name'] == team]['original_name'].empty else team
 
         if not team_matches.empty:
             last_points_home = team_matches.iloc[-1]['home_points_after'] if team_matches.iloc[-1]['home_team'] == team else 0
@@ -191,10 +209,15 @@ for index, row in tqdm(historical_points.iterrows(), total=len(historical_points
 
             last_points = max(last_points_home, last_points_away)
 
-            historical_points.at[index, team] = last_points
-        else:
+            original_name = countries_to_date.loc[countries_to_date['current_name'] == team, 'original_name'].values[0] if not countries_to_date.loc[countries_to_date['current_name'] == team, 'original_name'].empty else team
+
+            historical_points.at[index, original_name] = last_points
+        elif date == today_date:
             last_points = teams.loc[teams['team'] == team, 'points'].values[0]
+    
             historical_points.at[index, team] = last_points
+
+historical_points.to_excel('histpoints.xlsx')
 
 ## DATA CLEANSING
 
@@ -205,6 +228,11 @@ melted_points.sort_values(by=['date', 'team'], inplace=True)
 melted_points = melted_points[melted_points['points'].notna()]
 
 melted_points['date'] = pd.to_datetime(melted_points['date'])
+
+#melted_points = pd.merge(melted_points, historical_countries, left_on=['date','team'], right_on=['date','original_name'])
+#melted_points = melted_points.drop(['team','current_name','start_date','end_date','priority'], axis=1)
+#melted_points = melted_points.rename(columns={'original_name': 'team'})
+
 teams_db['startDate'] = pd.to_datetime(teams_db['startDate'])
 teams_db['endDate'] = pd.to_datetime(teams_db['endDate'])
 
@@ -226,8 +254,13 @@ ranking_df['day'] = ranking_df['date'].dt.day
 ranking_df['points'] = ranking_df['points'].astype(int)
 ranking_df['ranking'] = ranking_df['ranking'].astype(int)
 
-ranking_df = ranking_df[['date', 'year', 'month', 'day', 'team', 'points', 'ranking']]
+ranking_df = pd.merge(ranking_df, countries[['original_name','current_name']], left_on='team', right_on='original_name')
+ranking_df = ranking_df.rename(columns={'current_name': 'reference_team'})
 
+ranking_df = ranking_df[['date', 'year', 'month', 'day', 'team', 'reference_team', 'points', 'ranking']]
+ranking_df = ranking_df.drop_duplicates()
+ranking_df.to_excel('ranking_df.xlsx')
+sys.exit()
 
 ## DATABASE INSERTION
 conn = sqlite3.connect(database_path)
@@ -237,12 +270,15 @@ cursor = conn.cursor()
 matches['date'] = matches['date'].dt.strftime('%Y-%m-%d')
 for index, row in matches.iterrows():
     cursor.execute('''
-        INSERT INTO matches (date, country, tournament, team1, team2, score1, score2, rating1, rating2, rating_ev)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    ''', (row['date'], row['country'], row['tournament'], row['home_team'], row['away_team'], row['home_score'], row['away_score'],
+        INSERT INTO matches (date, country, tournament, team1, team2, original_team1, original_team2, score1, score2, rating1, rating2, rating_ev, expected_result)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    ''', (row['date'], row['country'], row['tournament'], row['home_team'], row['away_team'], row['history_home_team'], row['history_away_team'], row['home_score'], row['away_score'],
           row['home_points_after'], row['away_points_after'],
-          row['home_points_after'] - row['home_points_before']))
-    
+          row['home_points_after'] - row['home_points_before'],
+          row['expected_result']
+          ))
+
+# Delete duplicates    
 cursor.execute('''
     DELETE FROM Matches
     WHERE rowid NOT IN (
@@ -252,7 +288,8 @@ cursor.execute('''
     );
 ''')
 
-ranking_df.to_sql('Rankings', conn, index=False, if_exists='append')  # Utilisez 'replace' ou 'append' selon votre besoin
+# Insert rankings into SQLite table
+ranking_df.to_sql('Rankings', conn, index=False, if_exists='append')
 
 conn.commit()
 conn.close()

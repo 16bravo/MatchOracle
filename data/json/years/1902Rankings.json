@@ -3,7 +3,8 @@
     "ranking": 1,
     "flag": "SCO.png",
     "team": "Scotland",
-    "points": 2235,
+    "reference_team": "Scotland",
+    "points": 3235,
     "confederation": "UEFA",
     "ranking_change": 1,
     "points_change": 7
@@ -12,7 +13,8 @@
     "ranking": 2,
     "flag": "ENG.png",
     "team": "England",
-    "points": 2183,
+    "reference_team": "England",
+    "points": 3183,
     "confederation": "UEFA",
     "ranking_change": -1,
     "points_change": -61
@@ -21,7 +23,8 @@
     "ranking": 3,
     "flag": "ARG.png",
     "team": "Argentina",
-    "points": 2074,
+    "reference_team": "Argentina",
+    "points": 3074,
     "confederation": "CONMEBOL",
     "ranking_change": null,
     "points_change": null
@@ -30,7 +33,8 @@
     "ranking": 4,
     "flag": "HUN.png",
     "team": "Hungary",
-    "points": 1921,
+    "reference_team": "Hungary",
+    "points": 2921,
     "confederation": "UEFA",
     "ranking_change": null,
     "points_change": null
@@ -39,7 +43,8 @@
     "ranking": 5,
     "flag": "URU.png",
     "team": "Uruguay",
-    "points": 1910,
+    "reference_team": "Uruguay",
+    "points": 2910,
     "confederation": "CONMEBOL",
     "ranking_change": null,
     "points_change": null
@@ -48,7 +53,8 @@
     "ranking": 6,
     "flag": "AUT.png",
     "team": "Austria",
-    "points": 1859,
+    "reference_team": "Austria",
+    "points": 2859,
     "confederation": "UEFA",
     "ranking_change": null,
     "points_change": null
@@ -57,7 +63,8 @@
     "ranking": 7,
     "flag": "WAL.png",
     "team": "Wales",
-    "points": 1472,
+    "reference_team": "Wales",
+    "points": 2472,
     "confederation": "UEFA",
     "ranking_change": -4,
     "points_change": -26
@@ -66,7 +73,8 @@
     "ranking": 8,
     "flag": "IRL.png",
     "team": "Ireland",
-    "points": 1349,
+    "reference_team": "Ireland",
+    "points": 2349,
     "confederation": "UEFA",
     "ranking_change": -4,
     "points_change": 81
