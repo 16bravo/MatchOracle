@@ -29,6 +29,7 @@ cursor.execute('''
         month INTEGER NOT NULL,
         day INTEGER NOR NULL,
         team VARCHAR(50) NOT NULL,
+        reference_team VARCHAR(50) NULL,
         points INTEGER NOT NULL,
         ranking INTEGER NOT NULL
     );
@@ -42,11 +43,14 @@ cursor.execute('''
         tournament VARCHAR(60) NULL,
         team1 VARCHAR(50) NOT NULL,
         team2 VARCHAR(50) NOT NULL,
+        original_team1 VARCHAR(50) NOT NULL,
+        original_team2 VARCHAR(50) NOT NULL,
         score1 INTEGER NOT NULL,
         score2 INTEGER NOT NULL,
         rating1 INTEGER NOT NULL,
         rating2 INTEGER NOT NULL,
-        rating_ev INTEGER NOT NULL       
+        rating_ev INTEGER NOT NULL,
+        expected_result FLOAT NULL
     );
 ''')
 
