@@ -3,7 +3,8 @@
     "ranking": 1,
     "flag": "ENG.png",
     "team": "England",
-    "points": 2264,
+    "reference_team": "England",
+    "points": 3264,
     "confederation": "UEFA",
     "ranking_change": 1,
     "points_change": 46
@@ -12,7 +13,8 @@
     "ranking": 2,
     "flag": "SCO.png",
     "team": "Scotland",
-    "points": 2249,
+    "reference_team": "Scotland",
+    "points": 3249,
     "confederation": "UEFA",
     "ranking_change": -1,
     "points_change": 5
@@ -21,7 +23,8 @@
     "ranking": 3,
     "flag": "WAL.png",
     "team": "Wales",
-    "points": 1653,
+    "reference_team": "Wales",
+    "points": 2653,
     "confederation": "UEFA",
     "ranking_change": 0,
     "points_change": -19
@@ -30,7 +33,8 @@
     "ranking": 4,
     "flag": "IRL.png",
     "team": "Ireland",
-    "points": 1072,
+    "reference_team": "Ireland",
+    "points": 2072,
     "confederation": "UEFA",
     "ranking_change": 0,
     "points_change": -32

@@ -83,7 +83,7 @@
             ${item.ranking_change !== 0 ? `<i class="${item.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${item.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
           </td>
           <td><img src="img/${item.flag}" alt="${item.team}" width="30"></td>
-          <td><a href="https://16bravo.github.io/BravoRanking/team_results.html?team=${item.team}">${item.team}</a></td>
+          <td><a href="team_results.html?team=${item.reference_team}">${item.team}</a></td>
           <td>${item.points}</td>
           <td>${item.points_change}</td>
           <td>${item.confederation}</td>
@@ -121,7 +121,7 @@
                 ${newItem.ranking_change !== 0 ? `<i class="${newItem.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${newItem.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
               </td>
               <td><img src="img/${newItem.flag}" alt="${newItem.team}" width="30"></td>
-              <td><a href="https://16bravo.github.io/BravoRanking/team_results.html?team=${newItem.team}">${newItem.team}</a></td>
+              <td><a href="team_results.html?team=${newItem.reference_team}">${newItem.team}</a></td>
               <td>${newItem.points}</td>
               <td>${newItem.points_change}</td>
               <td>${newItem.confederation}</td>

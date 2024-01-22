@@ -15,7 +15,7 @@ teams = [row[0] for row in cursor.fetchall()]
 for team in teams:
     # Sélectionner les matches pour le pays donné
     cursor.execute('''
-        SELECT date, country, tournament, team1, team2, score1, score2, rating1, rating2, rating_ev
+        SELECT date, country, tournament, team1, team2, original_team1, original_team2, score1, score2, rating1, rating2, rating_ev
         FROM matches
         WHERE team1 = ? OR team2 = ?
     ''', (team, team))
@@ -30,12 +30,14 @@ for team in teams:
         'tournament' : tournament,
         'team1': team1,
         'team2': team2,
+        'original_team1': original_team1,
+        'original_team2': original_team2,
         'score1': score1,
         'score2': score2,
         'rating1': rating1,
         'rating2': rating2,
         'rating_ev': (1 if team == team1 else -1) * rating_ev,
-    } for date, country, tournament, team1, team2, score1, score2, rating1, rating2, rating_ev in matches_data]
+    } for date, country, tournament, team1, team2, original_team1, original_team2, score1, score2, rating1, rating2, rating_ev in matches_data]
     }
 
     output_file_path = Path(f"data/json/matches/{team}.json")
@@ -55,16 +57,17 @@ for year in years:
     # Execute SQL query to select data for current year
     cursor.execute('''
                    WITH previous_year AS (
-                    SELECT r.ranking, r.team, r.points
+                    SELECT r.ranking, r.reference_team, r.points
                     FROM Rankings r
                     LEFT JOIN Teams t ON (r.team = t.team)
                     WHERE year = ? - 1 AND month = 12 AND day = 31
                    )
-                    SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation, (p.ranking - r.ranking) AS ranking_change, (r.points - p.points) AS points_change
+                    SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.reference_team, r.points, t.confederation, (p.ranking - r.ranking) AS ranking_change, (r.points - p.points) AS points_change
                     FROM Rankings r
                     LEFT JOIN Teams t ON (r.team = t.team)
-                    LEFT JOIN previous_year p ON (r.team = p.team)
+                    LEFT JOIN previous_year p ON (r.reference_team = p.reference_team)
                     WHERE year = ? AND month = 12 AND day = 31
+                    ORDER BY r.ranking
                    ''', (year,year))
 
     # Data recovery
@@ -93,16 +96,17 @@ cursor.execute('''
                     SELECT MAX(date) as max_date, strftime('%Y', MAX(date)) AS year FROM Rankings
                 ),
                previous_year AS (
-                    SELECT r.ranking, r.team, r.points
+                    SELECT r.ranking, r.team, r.reference_team, r.points
                     FROM Rankings r
                     LEFT JOIN Teams t ON (r.team = t.team)
                     WHERE year = (SELECT year FROM max_date) - 1 AND month = 12 AND day = 31
                    )
-                SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.points, t.confederation, (p.ranking - r.ranking) AS ranking_change, (r.points - p.points) AS points_change
+                SELECT r.ranking, t.tricode || '.png' AS flag, r.team, r.reference_team, r.points, t.confederation, (p.ranking - r.ranking) AS ranking_change, (r.points - p.points) AS points_change
                 FROM Rankings r
-                LEFT JOIN previous_year p ON (r.team = p.team)
+                LEFT JOIN previous_year p ON (r.reference_team = p.reference_team)
                 LEFT JOIN Teams t ON (r.team = t.team)
                 WHERE date = (SELECT MAX(date) FROM Rankings)
+                ORDER BY r.ranking 
                '''
 )
 
