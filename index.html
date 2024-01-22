@@ -93,7 +93,7 @@
 
       // Activate DataTables on the array with Select
       const dataTable = $('#myTable').DataTable({
-        select: true  // Activate Select functionality
+        //select: true  // Activate Select functionality
       });
 
       // Add an event manager to change the year
@@ -103,34 +103,27 @@
           jsonFilePath = 'data/json/years/LastRankings.json';
         } else {
           jsonFilePath = `data/json/years/${selectedYear}Rankings.json`;
-        }
+        };
+        console.log(selectedYear);
 
         // Empty existing table
-        //dataTable.clear().draw();
+        dataTable.clear().draw();
 
         // Load the new JSON and update the table
         loadJSON(jsonFilePath).then(newJsonData => {
-
-          tableBody.innerHTML = '';
-
           newJsonData.forEach(newItem => {
-            const row = document.createElement('tr');
-            row.innerHTML = `
-              <td>${newItem.ranking}</td>
-              <td data-toggle="tooltip" title="${newItem.ranking_change >= 0 ? '+' : ''}${newItem.ranking_change}">
-                ${newItem.ranking_change !== 0 ? `<i class="${newItem.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${newItem.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
-              </td>
-              <td><img src="img/${newItem.flag}" alt="${newItem.team}" width="30"></td>
-              <td><a href="team_results.html?team=${newItem.reference_team}">${newItem.team}</a></td>
-              <td>${newItem.points}</td>
-              <td>${newItem.points_change}</td>
-              <td>${newItem.confederation}</td>
-            `;
-            tableBody.appendChild(row);
+            const newRow = dataTable.row.add([
+              newItem.ranking,
+              `<a data-toggle="tooltip" title="${newItem.ranking_change >= 0 ? '+' : ''}${newItem.ranking_change}">
+              ${newItem.ranking_change !== 0 ? `<i class="${newItem.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${newItem.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
+              </a>`,
+              `<img src="img/${newItem.flag}" alt="${newItem.team}" width="30">`,
+              `<a href="team_results.html?team=${newItem.reference_team}">${newItem.team}</a>`,
+              newItem.points,
+              newItem.points_change,
+              newItem.confederation
+            ]).draw(false).node();
           });
-
-          //dataTable.draw();
-
         });
       });
     });
