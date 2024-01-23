@@ -109,6 +109,8 @@ else:
     # Load DataFrame from database
     teams_query = f"SELECT r.team, r.points, t.startDate, t.endDate FROM Rankings r LEFT JOIN Teams t ON (r.team = t.team) WHERE year = {last_year} AND month = {last_month} AND day = {last_day}"
     teams_db = pd.read_sql(teams_query, conn)
+    teams_db['startDate'] = pd.to_datetime(teams_db['startDate'])
+    teams_db['endDate'] = pd.to_datetime(teams_db['endDate'])
     teams['team'] = teams_db['team']
     teams['points'] = teams_db['points']
 

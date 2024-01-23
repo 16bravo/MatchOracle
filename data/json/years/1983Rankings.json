@@ -411,23 +411,23 @@
   },
   {
     "ranking": 42,
+    "flag": "tahiti.png",
+    "team": "Tahiti",
+    "reference_team": "Tahiti",
+    "points": 2637,
+    "confederation": "OFC",
+    "ranking_change": 6,
+    "points_change": 7
+  },
+  {
+    "ranking": 43,
     "flag": "ghana.png",
     "team": "Ghana",
     "reference_team": "Ghana",
     "points": 2636,
     "confederation": "CAF",
-    "ranking_change": -2,
+    "ranking_change": -3,
     "points_change": -35
-  },
-  {
-    "ranking": 43,
-    "flag": "tahiti.png",
-    "team": "Tahiti",
-    "reference_team": "Tahiti",
-    "points": 2636,
-    "confederation": "OFC",
-    "ranking_change": 5,
-    "points_change": 6
   },
   {
     "ranking": 44,
@@ -1871,86 +1871,96 @@
   },
   {
     "ranking": 188,
+    "flag": "us_samoa.png",
+    "team": "American Samoa",
+    "reference_team": "Eastern Samoa",
+    "points": 1534,
+    "confederation": "OFC",
+    "ranking_change": null,
+    "points_change": null
+  },
+  {
+    "ranking": 189,
     "flag": "sri_lanka.png",
     "team": "Sri Lanka",
     "reference_team": "Sri Lanka",
     "points": 1469,
     "confederation": "AFC",
-    "ranking_change": 0,
+    "ranking_change": -1,
     "points_change": 0
   },
   {
-    "ranking": 189,
+    "ranking": 190,
+    "flag": "tonga.png",
+    "team": "Tonga",
+    "reference_team": "Tonga",
+    "points": 1427,
+    "confederation": "OFC",
+    "ranking_change": 1,
+    "points_change": 18
+  },
+  {
+    "ranking": 191,
     "flag": "north_yemen.png",
     "team": "North Yemen",
     "reference_team": "North Yemen",
     "points": 1423,
     "confederation": "AFC",
-    "ranking_change": 1,
+    "ranking_change": -1,
     "points_change": 0
   },
   {
-    "ranking": 190,
+    "ranking": 192,
     "flag": "philippines.png",
     "team": "Philippines",
     "reference_team": "Philippines",
     "points": 1411,
     "confederation": "AFC",
-    "ranking_change": -1,
+    "ranking_change": -3,
     "points_change": -45
   },
   {
-    "ranking": 191,
-    "flag": "tonga.png",
-    "team": "Tonga",
-    "reference_team": "Tonga",
-    "points": 1401,
-    "confederation": "OFC",
-    "ranking_change": 0,
-    "points_change": -8
-  },
-  {
-    "ranking": 192,
+    "ranking": 193,
     "flag": "cook.png",
     "team": "Cook Islands",
     "reference_team": "Cook Islands",
     "points": 1399,
     "confederation": "OFC",
-    "ranking_change": 0,
+    "ranking_change": -1,
     "points_change": 0
   },
   {
-    "ranking": 193,
+    "ranking": 194,
     "flag": "guam.png",
     "team": "Guam",
     "reference_team": "Guam",
     "points": 1395,
     "confederation": "AFC",
-    "ranking_change": 0,
+    "ranking_change": -1,
     "points_change": 0
   },
   {
-    "ranking": 194,
+    "ranking": 195,
     "flag": "tuvalu.png",
     "team": "Tuvalu",
     "reference_team": "Tuvalu",
     "points": 1286,
     "confederation": "OFC",
-    "ranking_change": 0,
+    "ranking_change": -1,
     "points_change": 0
   },
   {
-    "ranking": 195,
+    "ranking": 196,
     "flag": "samoa.png",
-    "team": "Samoa",
+    "team": "Western Samoa",
     "reference_team": "Samoa",
-    "points": 1222,
+    "points": 1265,
     "confederation": "OFC",
-    "ranking_change": 0,
-    "points_change": 46
+    "ranking_change": -1,
+    "points_change": 89
   },
   {
-    "ranking": 196,
+    "ranking": 197,
     "flag": "niue.png",
     "team": "Niue",
     "reference_team": "Niue",
@@ -1960,13 +1970,13 @@
     "points_change": null
   },
   {
-    "ranking": 197,
+    "ranking": 198,
     "flag": "kiribati.png",
     "team": "Kiribati",
     "reference_team": "Kiribati",
     "points": 1149,
     "confederation": "OFC",
-    "ranking_change": -1,
+    "ranking_change": -2,
     "points_change": 0
   }
 ]
