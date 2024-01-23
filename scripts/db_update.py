@@ -22,18 +22,18 @@ zfile = ZipFile(f"{dataset.split('/')[1]}.zip")
 
 matches = {f.filename:pd.read_csv(zfile.open(f)) for f in zfile.infolist() }["all_matches.csv"]
 matches['match_id'] = range(1, len(matches) + 1)
-countries = pd.read_excel('data/countries_names.xlsx')
-
-# replacing old countries' names by the current ones but saving them
-matches['history_home_team'] = matches['home_team']
-matches['history_away_team'] = matches['away_team']
-matches['home_team'] = matches['home_team'].replace(countries.set_index('original_name')['current_name'])
-matches['away_team'] = matches['away_team'].replace(countries.set_index('original_name')['current_name'])
+#countries = pd.read_excel('data/countries_names.xlsx')
 
 # Match validity filter
 # Load data from CSV files
 # matches generated with Kaggle API
 teams_db = pd.read_excel('data/teams_db.xlsx')
+
+# replacing old countries' names by the current ones but saving them
+matches['history_home_team'] = matches['home_team']
+matches['history_away_team'] = matches['away_team']
+matches['home_team'] = matches['home_team'].replace(teams_db.set_index('team')['reference_team'])
+matches['away_team'] = matches['away_team'].replace(teams_db.set_index('team')['reference_team'])
 
 # Merge DataFrames on home_team and away_team columns
 merged_df = pd.merge(matches, teams_db[['team', 'tricode']], how='inner', left_on='home_team', right_on='team')
@@ -192,9 +192,9 @@ for index, row in tqdm(historical_points.iterrows(), total=len(historical_points
     #                         ((merged_data['date'] <= merged_data['endDate']) | merged_data['endDate'].isna())]
 
     #List of countries to date to get original names
-    countries_to_date = countries[((date >= countries['start_date']) | countries['start_date'].isna()) &
-                     ((date <= countries['end_date']) | countries['end_date'].isna())]
-    countries_to_date = countries_to_date.drop_duplicates(subset=['current_name'])
+    countries_to_date = teams_db[((date >= teams_db['startDate']) | teams_db['startDate'].isna()) &
+                     ((date <= teams_db['endDate']) | teams_db['endDate'].isna())]
+    countries_to_date = countries_to_date.drop_duplicates(subset=['team'])
     countries_to_date['date'] = date
 
     #historical_countries = pd.concat([historical_countries,countries_to_date], ignore_index=True)
@@ -209,7 +209,7 @@ for index, row in tqdm(historical_points.iterrows(), total=len(historical_points
 
             last_points = max(last_points_home, last_points_away)
 
-            original_name = countries_to_date.loc[countries_to_date['current_name'] == team, 'original_name'].values[0] if not countries_to_date.loc[countries_to_date['current_name'] == team, 'original_name'].empty else team
+            original_name = countries_to_date.loc[countries_to_date['reference_team'] == team, 'team'].values[0] if not countries_to_date.loc[countries_to_date['reference_team'] == team, 'team'].empty else team
 
             historical_points.at[index, original_name] = last_points
         elif date == today_date:
@@ -254,8 +254,8 @@ ranking_df['day'] = ranking_df['date'].dt.day
 ranking_df['points'] = ranking_df['points'].astype(int)
 ranking_df['ranking'] = ranking_df['ranking'].astype(int)
 
-ranking_df = pd.merge(ranking_df, countries[['original_name','current_name']], left_on='team', right_on='original_name')
-ranking_df = ranking_df.rename(columns={'current_name': 'reference_team'})
+ranking_df = pd.merge(ranking_df, teams_db[['team','reference_team']], left_on='team', right_on='team')
+#ranking_df = ranking_df.rename(columns={'reference_team': 'reference_team'})
 
 ranking_df = ranking_df[['date', 'year', 'month', 'day', 'team', 'reference_team', 'points', 'ranking']]
 ranking_df = ranking_df.drop_duplicates()
