@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
   <title>Team Results</title>
   <style>
     .match {
@@ -15,24 +16,30 @@
       color: rgb(0, 50, 100);
       cursor: pointer;
     }
+
+    .container {
+      max-width: 2000px;
+    }
   </style>
 </head>
 <body class="bg-light">
 
   <div class="container mt-5">
-    <h1 class="mb-4">Team Results</h1>
+    <h1 class="mb-4"><a href="../"><i class="fa fa-home"></i></a> Team Results</h1>
 
     <table class="table table-striped" id="teamResultsTable">
       <thead class="thead-dark">
         <tr>
-          <th>Date</th>
-          <th>Location</th>
-          <th>Tournament</th>
-          <th>Team 1 Level</th>
-          <th>Match</th>
-          <th>Score</th>
-          <th>Team 2 Level</th>
-          <th>Evolution</th>
+          <th style="width:110px;">Date</th>
+          <th data-toggle="tooltip" title="Location of the match">Location</th>
+          <th data-toggle="tooltip" title="Tournament of the match">Tournament</th>
+          <th data-toggle="tooltip" title="Level of the team">Lvl</th>
+          <th data-toggle="tooltip" title="Opponent of the match">Opponent</th>
+          <th data-toggle="tooltip" title="Level of the opponent">Lvl</th>
+          <th data-toggle="tooltip" title="Victory chances for the team">Win%</th>
+          <th data-toggle="tooltip" title="Final score of the match">Score</th>
+          <th data-toggle="tooltip" title="Points evolution for the team">Evo.</th>
+          <th data-toggle="tooltip" title="Level of the team after the match">New</th>
         </tr>
       </thead>
       <tbody id="team-results-body">
@@ -70,11 +77,13 @@
             <td>${match.date}</td>
             <td>${match.country}</td>
             <td>${match.tournament}</td>
-            <td>${Math.round(match.rating1)}</td>
-            <td class="match"><a href="team_results.html?team=${match.team1}">${match.original_team1}</a> vs <a href="team_results.html?team=${match.team2}">${match.original_team2}</a></td>
+            <td>${Math.round(match.rating1-match.rating_ev)}</td>
+            <td>vs <a href="team_results.html?team=${match.team2}">${match.original_team2}</a></td>
+            <td>${Math.round(match.rating2+match.rating_ev)}</td>
+            <td>${match.win_prob} %</td>
             <td class="match">${match.score1} - ${match.score2}</td>
-            <td>${Math.round(match.rating2)}</td>
             <td>${Math.round(match.rating_ev)}</td>
+            <td>${Math.round(match.rating1)}</td>
           `;
           teamResultsBody.appendChild(row);
         });

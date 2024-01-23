@@ -2,32 +2,34 @@
   "team": "Niue",
   "matches": [
     {
-      "date": "1983-08-20",
-      "country": "Western Samoa",
-      "tournament": "South Pacific Games",
-      "team1": "Tahiti",
-      "team2": "Niue",
-      "original_team1": "Tahiti",
-      "original_team2": "Niue",
-      "score1": 14,
-      "score2": 0,
-      "rating1": 2688.649836185305,
-      "rating2": 1256.968265531638,
-      "rating_ev": -58.03173446836172
-    },
-    {
       "date": "1983-08-22",
       "country": "Western Samoa",
       "tournament": "South Pacific Games",
-      "team1": "Papua New Guinea",
-      "team2": "Niue",
-      "original_team1": "Papua New Guinea",
-      "original_team2": "Niue",
-      "score1": 19,
-      "score2": 0,
-      "rating1": 1932.7521395122094,
-      "rating2": 1156.186630010456,
-      "rating_ev": -100.78163552118212
+      "team1": "Niue",
+      "team2": "Papua New Guinea",
+      "original_team1": "Niue",
+      "original_team2": "Papua New Guinea",
+      "score1": 0,
+      "score2": 19,
+      "rating1": 1156.186630010456,
+      "rating2": 1932.7521395122094,
+      "rating_ev": -100.78163552118212,
+      "win_prob": 8.0
+    },
+    {
+      "date": "1983-08-20",
+      "country": "Western Samoa",
+      "tournament": "South Pacific Games",
+      "team1": "Niue",
+      "team2": "Tahiti",
+      "original_team1": "Niue",
+      "original_team2": "Tahiti",
+      "score1": 0,
+      "score2": 14,
+      "rating1": 1256.968265531638,
+      "rating2": 2688.649836185305,
+      "rating_ev": -58.03173446836172,
+      "win_prob": 0.8
     }
   ]
 }
