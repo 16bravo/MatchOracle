@@ -13,11 +13,13 @@ cursor.execute('''
         team_id INTEGER PRIMARY KEY AUTOINCREMENT,
         team VARCHAR(50) NOT NULL,
         tricode VARCHAR(3),
+        flag VARCHAR(25),
         confederation VARCHAR(10),
         startDate DATE,
         endDate DATE,
         member BOOLEAN NOT NULL,
-        base INTEGER
+        base INTEGER,
+        priority INTEGER
     )
 ''')
 
