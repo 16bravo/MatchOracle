@@ -2,20 +2,6 @@
   "team": "Palau",
   "matches": [
     {
-      "date": "1998-07-31",
-      "country": "Palau",
-      "tournament": "Micronesian Games",
-      "team1": "Palau",
-      "team2": "Northern Mariana Islands",
-      "original_team1": "Palau",
-      "original_team2": "Northern Mariana Islands",
-      "score1": 1,
-      "score2": 12,
-      "rating1": 1196.1904347911943,
-      "rating2": 1548.3648641765144,
-      "rating_ev": -109.80956520880568
-    },
-    {
       "date": "1998-08-01",
       "country": "Palau",
       "tournament": "Micronesian Games",
@@ -27,7 +13,23 @@
       "score2": 15,
       "rating1": 1051.3897210830273,
       "rating2": 1027.4396420413832,
-      "rating_ev": -144.800713708167
+      "rating_ev": -144.800713708167,
+      "win_prob": 85.9
+    },
+    {
+      "date": "1998-07-31",
+      "country": "Palau",
+      "tournament": "Micronesian Games",
+      "team1": "Palau",
+      "team2": "Northern Mariana Islands",
+      "original_team1": "Palau",
+      "original_team2": "Northern Mariana Islands",
+      "score1": 1,
+      "score2": 12,
+      "rating1": 1196.1904347911943,
+      "rating2": 1548.3648641765144,
+      "rating_ev": -109.80956520880568,
+      "win_prob": 46.4
     }
   ]
 }

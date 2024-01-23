@@ -217,7 +217,7 @@ for index, row in tqdm(historical_points.iterrows(), total=len(historical_points
     
             historical_points.at[index, team] = last_points
 
-historical_points.to_excel('histpoints.xlsx')
+#historical_points.to_excel('histpoints.xlsx')
 
 ## DATA CLEANSING
 
@@ -259,8 +259,7 @@ ranking_df = ranking_df.rename(columns={'current_name': 'reference_team'})
 
 ranking_df = ranking_df[['date', 'year', 'month', 'day', 'team', 'reference_team', 'points', 'ranking']]
 ranking_df = ranking_df.drop_duplicates()
-ranking_df.to_excel('ranking_df.xlsx')
-sys.exit()
+#ranking_df.to_excel('ranking_df.xlsx')
 
 ## DATABASE INSERTION
 conn = sqlite3.connect(database_path)
@@ -270,12 +269,12 @@ cursor = conn.cursor()
 matches['date'] = matches['date'].dt.strftime('%Y-%m-%d')
 for index, row in matches.iterrows():
     cursor.execute('''
-        INSERT INTO matches (date, country, tournament, team1, team2, original_team1, original_team2, score1, score2, rating1, rating2, rating_ev, expected_result)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        INSERT INTO matches (date, country, tournament, team1, team2, original_team1, original_team2, score1, score2, rating1, rating2, rating_ev, expected_result, neutral)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
     ''', (row['date'], row['country'], row['tournament'], row['home_team'], row['away_team'], row['history_home_team'], row['history_away_team'], row['home_score'], row['away_score'],
           row['home_points_after'], row['away_points_after'],
           row['home_points_after'] - row['home_points_before'],
-          row['expected_result']
+          row['expected_result'], row['neutral']
           ))
 
 # Delete duplicates    

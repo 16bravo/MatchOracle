@@ -50,7 +50,8 @@ cursor.execute('''
         rating1 INTEGER NOT NULL,
         rating2 INTEGER NOT NULL,
         rating_ev INTEGER NOT NULL,
-        expected_result FLOAT NULL
+        expected_result FLOAT NULL,
+        neutral BOOLEAN NOT NULL
     );
 ''')
 
