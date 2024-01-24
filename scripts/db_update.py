@@ -238,7 +238,7 @@ melted_points['date'] = pd.to_datetime(melted_points['date'])
 teams_db['startDate'] = pd.to_datetime(teams_db['startDate'])
 teams_db['endDate'] = pd.to_datetime(teams_db['endDate'])
 
-merged_data = pd.merge(melted_points, teams_db[['team','startDate','endDate']], on='team')
+merged_data = pd.merge(melted_points, teams_db[['team','reference_team','startDate','endDate']], on='team')
 valid_data = merged_data[((merged_data['date'] >= merged_data['startDate']) | merged_data['startDate'].isna()) &
                          ((merged_data['date'] <= merged_data['endDate']) | merged_data['endDate'].isna())]
 
