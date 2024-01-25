@@ -12,6 +12,7 @@ cursor.execute('''
     CREATE TABLE IF NOT EXISTS Teams (
         team_id INTEGER PRIMARY KEY AUTOINCREMENT,
         team VARCHAR(50) NOT NULL,
+        reference_team VARCHAR(50),
         tricode VARCHAR(3),
         flag VARCHAR(25),
         confederation VARCHAR(10),

@@ -51,6 +51,7 @@ for team in teams:
     
     with open(output_file_path, 'w', encoding="utf-8") as json_file:
         json.dump(json_data, json_file, indent=2)
+        print(f"Data successfully extracted and exported to {output_file_path}.")
 
 
 # YEARLY RANKINGS
@@ -74,6 +75,7 @@ for year in years:
                     LEFT JOIN Teams t ON (r.team = t.team)
                     LEFT JOIN previous_year p ON (r.reference_team = p.reference_team)
                     WHERE year = ? AND month = 12 AND day = 31
+                    AND r.team NOT LIKE ('Not-Sovereign %')
                     ORDER BY r.ranking
                    ''', (year,year))
 
@@ -118,6 +120,7 @@ cursor.execute('''
                 LEFT JOIN previous_year p ON (r.reference_team = p.reference_team)
                 LEFT JOIN Teams t ON (r.team = t.team)
                 WHERE date = (SELECT MAX(date) FROM Rankings)
+                AND r.team NOT LIKE ('Not-Sovereign %')
                 ORDER BY r.ranking 
                '''
 )
