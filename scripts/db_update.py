@@ -140,8 +140,8 @@ for index, match in  tqdm(matches.iterrows(), total=len(matches), desc="Calculat
     else:
         match_coef = 40
 
-    expected_result = ((1/(1+math.exp(-1*(points_home_team-points_away_team)/850))-0.5)*33-1.25*int(not match['neutral']))/6.5
-    calculated_result = ((1/(1+math.exp(-1*(home_score-away_score)/5))-0.5)*21-int(not match['neutral']))/3
+    expected_result = max(-2.5,min(2.5,((1/(1+math.exp(-1*(points_home_team-points_away_team)/850))-0.5)*33-1.25*int(not match['neutral']))/6.5))
+    calculated_result = max(-2.5,min(2.5,((1/(1+math.exp(-1*(home_score-away_score)/5))-0.5)*21-int(not match['neutral']))/3))
 
     home_points_after = points_home_team + (calculated_result-expected_result) * match_coef
     away_points_after = points_away_team - (calculated_result-expected_result) * match_coef
