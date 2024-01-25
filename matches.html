@@ -45,13 +45,12 @@
           <th style="width:110px;">Date</th>
           <th data-toggle="tooltip" title="Location of the match">Location</th>
           <th data-toggle="tooltip" title="Tournament of the match">Tournament</th>
-          <th data-toggle="tooltip" title="Level of the team">Lvl</th>
           <th data-toggle="tooltip" title="Opponent of the match">Opponent</th>
-          <th data-toggle="tooltip" title="Level of the opponent">Lvl</th>
+          <th data-toggle="tooltip" title="Level of the team">Lvl.1</th>
+          <th data-toggle="tooltip" title="Level of the opponent">Lvl.2</th>
           <th data-toggle="tooltip" title="Victory chances for the team">Win%</th>
-          <th data-toggle="tooltip" title="Final score of the match">Score</th>
-          <th data-toggle="tooltip" title="Points evolution for the team">Evo.</th>
-          <th data-toggle="tooltip" title="Level of the team after the match">New</th>
+          <th class="match" data-toggle="tooltip" title="Final score of the match">Score</th>
+          <th data-toggle="tooltip" title="Level and Points evolution for the team">New Level</th>
         </tr>
       </thead>
       <tbody id="team-results-body">
@@ -97,18 +96,27 @@
         const matchesArray = teamResultsData.matches || [];
         // Loop through team results data and construct table rows
         matchesArray.forEach(match => {
+          var color;
+          if(match.score1 - match.score2 > 0) {
+            color = 'green';
+          }
+          else if (match.score1 - match.score2 < 0) {
+            color = 'red';
+          }
+          else {
+            color = 'black';
+          }
           const row = document.createElement('tr');
           row.innerHTML = `
             <td>${match.date}</td>
             <td>${match.country}</td>
             <td>${match.tournament}</td>
+            <td>vs <a href="matches.html?team=${match.team2.replace(/&/g, "%26")}"><img class="flag" src="img/flags/${match.flag2}" alt="${match.team2}"></a> <a href="matches.html?team=${match.team2}">${match.original_team2}</a></td>
             <td>${Math.round(match.rating1-match.rating_ev)}</td>
-            <td>vs <a href="matches.html?team=${match.team2}"><img class="flag" src="img/flags/${match.flag2}" alt="${match.team2}"></a> <a href="matches.html?team=${match.team2}">${match.original_team2}</a></td>
             <td>${Math.round(match.rating2+match.rating_ev)}</td>
             <td>${match.win_prob} %</td>
-            <td class="match">${match.score1} - ${match.score2}</td>
-            <td>${Math.round(match.rating_ev)}</td>
-            <td>${Math.round(match.rating1)}</td>
+            <td class="match" style="color:${color};"><b>${match.score1} - ${match.score2}</b></td>
+            <td>${Math.round(match.rating1)} (${match.rating_ev >= 0 ? '+' : ''}${Math.round(match.rating_ev)})</td>
           `;
           teamResultsBody.appendChild(row);
         });

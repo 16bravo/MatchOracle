@@ -91,7 +91,7 @@
             ${item.ranking_change !== 0 ? `<i class="${item.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${item.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
           </td>
           <td><img src="img/flags/${item.flag}" alt="${item.team}" width="30"></td>
-          <td><a href="matches.html?team=${item.reference_team}">${item.team}</a></td>
+          <td><a href="matches.html?team=${item.reference_team.replace(/&/g, "%26")}">${item.team}</a></td>
           <td>${item.points}</td>
           <td>${item.points_change}</td>
           <td>${item.confederation}</td>
@@ -126,7 +126,7 @@
               ${newItem.ranking_change !== 0 ? `<i class="${newItem.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${newItem.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
               </a>`,
               `<img src="img/flags/${newItem.flag}" alt="${newItem.team}" width="30">`,
-              `<a href="matches.html?team=${newItem.reference_team}">${newItem.team}</a>`,
+              `<a href="matches.html?team=${newItem.reference_team.replace(/&/g, "%26")}">${newItem.team}</a>`,
               newItem.points,
               newItem.points_change,
               newItem.confederation
