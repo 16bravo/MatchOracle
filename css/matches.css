@@ -1,0 +1,24 @@
+#flagTitle img{
+    height: 30px;
+    width: auto;
+}
+
+.match {
+    text-align : center ;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 50, 100);
+    cursor: pointer;
+}
+
+.container {
+    max-width: 2000px;
+}
+
+.flag
+{
+    width: 20px;
+    height: auto;
+}
