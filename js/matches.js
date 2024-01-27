@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Initial JSON loading
     loadTeamResultsJSON(jsonFilePath).then(teamResultsData => {
-        console.log('Team Results Data:', teamResultsData);
+        // console.log('Team Results Data:', teamResultsData);
 
         // Extracting flag value for title
         const firstLine = teamResultsData.matches[0];

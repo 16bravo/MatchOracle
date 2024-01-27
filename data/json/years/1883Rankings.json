@@ -1,42 +1,48 @@
-[
-  {
-    "ranking": 1,
-    "flag": "scotland.png",
-    "team": "Scotland",
-    "reference_team": "Scotland",
-    "points": 6476,
-    "confederation": "UEFA",
-    "ranking_change": 0,
-    "points_change": 0
-  },
-  {
-    "ranking": 2,
-    "flag": "england.png",
-    "team": "England",
-    "reference_team": "England",
-    "points": 6119,
-    "confederation": "UEFA",
-    "ranking_change": 0,
-    "points_change": 28
-  },
-  {
-    "ranking": 3,
-    "flag": "wales.png",
-    "team": "Wales",
-    "reference_team": "Wales",
-    "points": 5646,
-    "confederation": "UEFA",
-    "ranking_change": 0,
-    "points_change": -35
-  },
-  {
-    "ranking": 4,
-    "flag": "ireland.png",
-    "team": "Ireland",
-    "reference_team": "Ireland",
-    "points": 4969,
-    "confederation": "UEFA",
-    "ranking_change": 0,
-    "points_change": 8
-  }
-]
+{
+  "year": 1883,
+  "last_date": [
+    "1883-03-17"
+  ],
+  "rankings": [
+    {
+      "ranking": 1,
+      "flag": "scotland.png",
+      "team": "Scotland",
+      "reference_team": "Scotland",
+      "points": 6476,
+      "confederation": "UEFA",
+      "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 2,
+      "flag": "england.png",
+      "team": "England",
+      "reference_team": "England",
+      "points": 6119,
+      "confederation": "UEFA",
+      "ranking_change": 0,
+      "points_change": 28
+    },
+    {
+      "ranking": 3,
+      "flag": "wales.png",
+      "team": "Wales",
+      "reference_team": "Wales",
+      "points": 5646,
+      "confederation": "UEFA",
+      "ranking_change": 0,
+      "points_change": -35
+    },
+    {
+      "ranking": 4,
+      "flag": "ireland.png",
+      "team": "Ireland",
+      "reference_team": "Ireland",
+      "points": 4969,
+      "confederation": "UEFA",
+      "ranking_change": 0,
+      "points_change": 8
+    }
+  ]
+}
