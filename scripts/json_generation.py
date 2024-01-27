@@ -24,9 +24,9 @@ for team in teams:
         ORDER BY date DESC
     ''', (team, team))
 
-    matches_data = cursor.fetchall()
+    matches_data_sql = cursor.fetchall()
 
-    json_data = {
+    matches_data = {
     'team': team,
     'matches': [{
         'date': date,
@@ -44,23 +44,27 @@ for team in teams:
         'rating2': rating2 if team == team1 else rating1,
         'rating_ev': (1 if team == team1 else -1) * rating_ev,
         'win_prob': round((1/(1+math.exp(-((1 if team == team1 else -1)*(expected_result+(0.341 if not neutral else 0)))*2.95)))*100,1)
-    } for date, country, tournament, team1, team2, original_team1, original_team2, flag1, flag2, score1, score2, rating1, rating2, rating_ev, expected_result, neutral in matches_data]
+    } for date, country, tournament, team1, team2, original_team1, original_team2, flag1, flag2, score1, score2, rating1, rating2, rating_ev, expected_result, neutral in matches_data_sql]
     }
 
-    output_file_path = Path(f"data/json/matches/{team}.json")
+    matches_path = Path(f"data/json/matches/{team}.json")
     
-    with open(output_file_path, 'w', encoding="utf-8") as json_file:
-        json.dump(json_data, json_file, indent=2)
-        print(f"Data successfully extracted and exported to {output_file_path}.")
+    with open(matches_path, 'w', encoding="utf-8") as matches_file:
+        json.dump(matches_data, matches_file, indent=2)
+        print(f"Data successfully extracted and exported to {matches_path}.")
 
 
 # YEARLY RANKINGS
+
 # Execute SQL query to obtain list of current years
 cursor.execute("SELECT DISTINCT year FROM Rankings WHERE year IS NOT strftime('%Y', CURRENT_DATE)")
 years = cursor.fetchall()
 
 for year in years:
     year = year[0]
+
+    cursor.execute("SELECT max(date) FROM Matches WHERE strftime('%Y', date) = '"+str(year)+"'")
+    last_date = [row[0] for row in cursor.fetchall()]
 
     # Execute SQL query to select data for current year
     cursor.execute('''
@@ -80,30 +84,35 @@ for year in years:
                    ''', (year,year))
 
     # Data recovery
-    rows = cursor.fetchall()
-    column_names = [description[0] for description in cursor.description]
-    data = [dict(zip(column_names, row)) for row in rows]
+    years_data_sql = cursor.fetchall()
+    #column_names = [description[0] for description in cursor.description]
+
+    years_data = {
+    'year': year,
+    'last_date': last_date,
+    'rankings': [{
+        'ranking': ranking,
+        'flag' : flag,
+        'team' : team,
+        'reference_team': reference_team,
+        'points': points,
+        'confederation': confederation,
+        'ranking_change': ranking_change,
+        'points_change': points_change
+    } for ranking, flag, team, reference_team, points, confederation, ranking_change, points_change in years_data_sql]
+    }
 
     # JSON file name
-    json_path = Path(f"data/json/years/{year}Rankings.json")
+    years_path = Path(f"data/json/years/{year}Rankings.json")
 
-    with open(json_path, "w", encoding="utf-8") as json_file:
-        json.dump(data, json_file, indent=2)
-        print(f"Data successfully extracted and exported to {json_path}.")
-
-'''
-    # Check if the file already exists
-    if not json_path.exists():
-        # Export data to a JSON file
-        with open(json_path, "w", encoding="utf-8") as json_file:
-            json.dump(data, json_file, indent=2)
-
-        print(f"Data successfully extracted and exported to {json_path}.")
-    else:
-        print(f"The {json_path} file already exists. No action required.")
-'''
+    with open(years_path, "w", encoding="utf-8") as years_file:
+        json.dump(years_data, years_file, indent=2)
+        print(f"Data successfully extracted and exported to {years_path}.")
 
 # Generate last date file
+cursor.execute("SELECT max(date) FROM Matches")
+last_last_date = [row[0] for row in cursor.fetchall()]
+
 # Execute SQL query to select all table rows
 cursor.execute('''
                 WITH max_date AS (
@@ -125,15 +134,30 @@ cursor.execute('''
                '''
 )
 
-rows = cursor.fetchall()
-column_names = [description[0] for description in cursor.description]
-data = [dict(zip(column_names, row)) for row in rows]
+# Data recovery
+last_data_sql = cursor.fetchall()
+#column_names = [description[0] for description in cursor.description]
+
+years_data = {
+'year': 'last',
+'last_date': last_last_date,
+'rankings': [{
+    'ranking': ranking,
+    'flag' : flag,
+    'team' : team,
+    'reference_team': reference_team,
+    'points': points,
+    'confederation': confederation,
+    'ranking_change': ranking_change,
+    'points_change': points_change
+} for ranking, flag, team, reference_team, points, confederation, ranking_change, points_change in last_data_sql]
+}
 
 # Export data to a JSON file
-json_path = "data/json/years/LastRankings.json"
-with open(json_path, "w", encoding="utf-8") as json_file:
-    json.dump(data, json_file, indent=2)
+years_path = "data/json/years/LastRankings.json"
+with open(years_path, "w", encoding="utf-8") as years_file:
+    json.dump(years_data, years_file, indent=2)
 
-print(f"Data successfully extracted and exported to {json_path}.")
+print(f"Data successfully extracted and exported to {years_path}.")
 
 connection.close()
