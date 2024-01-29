@@ -10,8 +10,6 @@ from dateutil.relativedelta import relativedelta
 from datetime import datetime
 import sqlite3
 
-raise ValueError("Test Erreur")
-
 ## EXTRACT DATA FROM KAGGLE AND EXCEL
 
 # Download data set
