@@ -1,6 +1,8 @@
 import sqlite3
 import pandas as pd
 
+raise ValueError("Test Erreur")
+
 database_path = 'data/BravoRanking.db'
 
 # Database connection
