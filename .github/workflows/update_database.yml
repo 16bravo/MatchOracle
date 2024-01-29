@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check the previous workflow
+        run: exit ${{ github.event.workflow_run.conclusion == 'success' }}
+
       - name: Checkout Repository
         uses: actions/checkout@v2
 
