@@ -3,7 +3,7 @@ name: Deploy static content to Pages
 
 on:
   workflow_run:
-    workflows: ["Temp Files Deletion"]
+    workflows: ["JSON Generation"]
     types:
       - completed
 
