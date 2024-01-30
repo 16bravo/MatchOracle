@@ -125,6 +125,8 @@ print('Teams & Matches data extracted')
 
 # We generate a unique dataset file for the following steps
 teams_db = teams_excel.merge(teams_last_level, on='reference_team')
+teams_db = teams_db.rename(columns={'team_x': 'team'})
+teams_db = teams_db.drop('team_y', axis=1)
 
 # Save the datasets in temp csv files
 matches.to_csv('data/temp/matches.csv', index=False)
