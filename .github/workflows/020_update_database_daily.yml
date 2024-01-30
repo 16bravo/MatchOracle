@@ -49,23 +49,23 @@ jobs:
 
       - name: Run Match Calculation script
         if: steps.check-db.outputs.update_ok == 'true'
-        run: python scripts/020_DB_Update/scripts/020_DB_Update/022_Calculate_Matches_Points.py
+        run: python scripts/020_DB_Update/022_Calculate_Matches_Points.py
 
       - name: Run Annual Ranking Calculation script
         if: steps.check-db.outputs.update_ok == 'true'
-        run: python scripts/020_DB_Update/scripts/020_DB_Update/023_Calculate_Annual_Ranking.py
+        run: python scripts/020_DB_Update/023_Calculate_Annual_Ranking.py
 
       - name: Run Ranking Dataset Cleaning script
         if: steps.check-db.outputs.update_ok == 'true'
-        run: python scripts/020_DB_Update/scripts/020_DB_Update/024_Clean_Rankings_Data.py
+        run: python scripts/020_DB_Update/024_Clean_Rankings_Data.py
 
       - name: Run Ranking Data Insert script
         if: steps.check-db.outputs.update_ok == 'true'
-        run: python scripts/020_DB_Update/scripts/020_DB_Update/025_Insert_Rankings.py
+        run: python scripts/020_DB_Update/025_Insert_Rankings.py
 
       - name: Run Matches Data Insert script
         if: steps.check-db.outputs.update_ok == 'true'
-        run: python scripts/020_DB_Update/scripts/020_DB_Update/026_Insert_Matches.py
+        run: python scripts/020_DB_Update/026_Insert_Matches.py
         
       - name: Commit changes
         if: steps.check-db.outputs.update_ok == 'true'
