@@ -1,0 +1,84 @@
+name: DB Update Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  daily_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+          cache: 'pip'
+          
+      - name: Check if database exists
+        id: check-db
+        run: |
+            if [ -f data/BravoRanking.db ]; then
+              echo "Database exists already. OK for update."
+              echo "::set-output name=update_ok::true"
+            else
+              echo "Database does not exist. KO for update."
+              echo "::set-output name=update_ok::false"
+            fi
+
+      - name: Install dependencies
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Create .kaggle directory
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: mkdir -p /home/runner/.kaggle
+
+      - name: Set up Kaggle credentials
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: echo "$KAGGLE_JSON" > /home/runner/.kaggle/kaggle.json && chmod 600 /home/runner/.kaggle/kaggle.json
+        env:
+          KAGGLE_JSON: ${{ secrets.KAGGLE_JSON }}
+
+      - name: Run Data Extract script
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: python scripts/020_DB_Update/021_Extract_Data_Source.py
+
+      - name: Run Match Calculation script
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: python scripts/020_DB_Update/scripts/020_DB_Update/022_Calculate_Matches_Points.py
+
+      - name: Run Annual Ranking Calculation script
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: python scripts/020_DB_Update/scripts/020_DB_Update/023_Calculate_Annual_Ranking.py
+
+      - name: Run Ranking Dataset Cleaning script
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: python scripts/020_DB_Update/scripts/020_DB_Update/024_Clean_Rankings_Data.py
+
+      - name: Run Ranking Data Insert script
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: python scripts/020_DB_Update/scripts/020_DB_Update/025_Insert_Rankings.py
+
+      - name: Run Matches Data Insert script
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: python scripts/020_DB_Update/scripts/020_DB_Update/026_Insert_Matches.py
+        
+      - name: Commit changes
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: |
+          git config --global user.email "${{ secrets.GIT_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USERNAME }}"
+          if git diff --quiet data/BravoRanking.db; then
+            echo "No changes in BravoRanking.json. Skipping commit."
+          else
+            git add data/BravoRanking.db
+            git commit -m "Database Update"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
