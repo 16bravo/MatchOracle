@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // Default JSON file path
-    let jsonFilePath = 'data/json/years/LastRankings.json';
+    let jsonFilePath = 'data/json/rankings/LastRankings.json';
 
     // Function to load the JSON file
     async function loadJSON(filePath) {
@@ -65,9 +65,9 @@ document.addEventListener('DOMContentLoaded', function () {
         yearSelect.addEventListener('change', function () {
             const selectedYear = this.value;
             if (selectedYear === 'last') {
-                jsonFilePath = 'data/json/years/LastRankings.json';
+                jsonFilePath = 'data/json/rankings/LastRankings.json';
             } else {
-                jsonFilePath = `data/json/years/${selectedYear}Rankings.json`;
+                jsonFilePath = `data/json/rankings/${selectedYear}Rankings.json`;
             };
             console.log(selectedYear);
 
