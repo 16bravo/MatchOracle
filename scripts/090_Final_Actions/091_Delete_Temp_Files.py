@@ -13,4 +13,10 @@ for file in files_to_delete:
     else:
         print(f"File {file} does not exist.")
 
-os.remove('all-international-football-results.zip')
+kaggle_zip_file = 'all-international-football-results.zip'
+
+if os.path.exists(kaggle_zip_file):
+    os.remove(kaggle_zip_file)
+    print("Kaggle File deleted.")
+else:
+    print("Kaggle File does not exist.")
