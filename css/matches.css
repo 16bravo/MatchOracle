@@ -63,3 +63,8 @@ a {
     transform: translate(-50%, -50%);
     color: #333;
 }
+
+#LineChart {
+    max-height: 200px;
+    width: auto;
+}
