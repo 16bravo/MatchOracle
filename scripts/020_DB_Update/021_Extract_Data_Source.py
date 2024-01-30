@@ -116,7 +116,7 @@ else:
     teams_query = f"SELECT DISTINCT r.team, t.reference_team, r.points, t.startDate, t.endDate FROM Rankings r LEFT JOIN Teams t ON (r.team = t.team) WHERE year = {last_year} AND month = {last_month} AND day = {last_day}"
     teams_sql = pd.read_sql(teams_query, conn)
 
-    teams_last_level['team'] = teams_sql['reference_team']
+    teams_last_level['reference_team'] = teams_sql['reference_team']
     teams_last_level['points'] = teams_sql['points']
 
 conn.close()
@@ -125,8 +125,6 @@ print('Teams & Matches data extracted')
 
 # We generate a unique dataset file for the following steps
 teams_db = teams_excel.merge(teams_last_level, on='reference_team')
-teams_db = teams_db.rename(columns={'team_x': 'team'})
-teams_db = teams_db.drop('team_y', axis=1)
 
 # Save the datasets in temp csv files
 matches.to_csv('data/temp/matches.csv', index=False)
