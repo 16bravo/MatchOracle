@@ -77,5 +77,47 @@ document.addEventListener('DOMContentLoaded', function () {
             indicator.appendChild(fillElement);
             indicator.innerHTML += `<span class="text">${percentValue}%</span>`;
         });
+
+        // Barchart Graph : Team Points over time
+
+        //const labels = teamResultsData.matches.map(match => (match.date+'T00:00:00Z'));
+        //const data = teamResultsData.matches.map(match => (match.rating1 + match.rating_ev));
+        
+        //console.log(labels)
+
+        const ctx = document.getElementById('lineChart').getContext('2d');
+        const lineChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                datasets: [{
+                    label: 'Rating',
+                    data: teamResultsData.matches.map(match => ({
+                        x: new Date(match.date+'T00:00:00Z'),
+                        y: (match.rating1)
+                    })),
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1,
+                    fill: false,
+                    pointRadius: 1
+                }]
+            },
+            options: {
+                scales: {
+                    x: {
+                        offset: false,
+                        type: 'time',
+                        time: {
+                            unit: 'day',
+                            displayFormats: {
+                                day: 'MMM YYYY'
+                            }
+                        }
+                    },
+                    y: {
+                        beginAtZero: false
+                    }
+                }
+            }
+        });
     });
 });

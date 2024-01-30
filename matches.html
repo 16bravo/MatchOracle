@@ -7,16 +7,24 @@
   <link rel="stylesheet" href="css/font-awesome.min.css">
   <link rel="stylesheet" href="css/matches.css">
   <link rel="icon" href="favicon.ico" type="image/x-icon" />
-  <script type="text/javascript" charset="utf8" src="js/matches.js"></script>
   <title>Team Results</title>
-  <style>
-  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/moment@^2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-moment@^1"></script>
+  <script type="text/javascript" charset="utf8" src="js/matches.js"></script>
 </head>
 <body class="bg-light">
 
   <div class="container mt-5">
     <h1 class="mb-4"><a href="./"><i class="fa fa-home"></i></a> <a id="flagTitle"></a> <a id="h1title"></a></h1>
 
+    <div style="height: 400px;">
+      <canvas id="lineChart" width="600" height="400" style="margin: auto;"></canvas>
+    </div>
+    
     <table class="table table-striped" id="teamResultsTable">
       <thead class="thead-dark">
         <tr>
