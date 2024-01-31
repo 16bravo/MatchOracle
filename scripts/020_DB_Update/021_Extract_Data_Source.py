@@ -46,6 +46,8 @@ matches['expected_result'] = None
 matches['calculated_result'] = None
 matches['home_points_after'] = None
 matches['away_points_after'] = None
+matches['home_rank'] = None
+matches['away_rank'] = None
 
 # Load last team level from database. If database does not exist then load from the Excel File
 # Check if the Rankings table is empty

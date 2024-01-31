@@ -60,6 +60,7 @@ document.addEventListener('DOMContentLoaded', function () {
             </td>
             <td class="match" style="color:${color};"><b>${match.score1} - ${match.score2}</b></td>
             <td>${Math.round(match.rating1)} (${match.rating_ev >= 0 ? '+' : ''}${Math.round(match.rating_ev)})</td>
+            <td>${match.rank}</td>
             `;
             teamResultsBody.appendChild(row);
         });
@@ -80,25 +81,20 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Barchart Graph : Team Points over time
 
-        //const labels = teamResultsData.matches.map(match => (match.date+'T00:00:00Z'));
-        //const data = teamResultsData.matches.map(match => (match.rating1 + match.rating_ev));
-        
-        //console.log(labels)
-
         const ctx = document.getElementById('lineChart').getContext('2d');
         const lineChart = new Chart(ctx, {
             type: 'line',
             data: {
                 datasets: [{
-                    label: 'Rating',
+                    label: 'Rank',
                     data: teamResultsData.matches.map(match => ({
                         x: new Date(match.date+'T00:00:00Z'),
-                        y: (match.rating1)
+                        y: (match.rank)
                     })),
                     borderColor: 'rgba(75, 192, 192, 1)',
-                    borderWidth: 1,
+                    borderWidth: 2,
                     fill: false,
-                    pointRadius: 1
+                    pointRadius: 0
                 }]
             },
             options: {
@@ -114,7 +110,8 @@ document.addEventListener('DOMContentLoaded', function () {
                         }
                     },
                     y: {
-                        beginAtZero: false
+                        beginAtZero: false,
+                        reverse: true
                     }
                 }
             }
