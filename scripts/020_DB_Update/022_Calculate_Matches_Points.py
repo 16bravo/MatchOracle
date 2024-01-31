@@ -7,6 +7,10 @@ import sys
 matches = pd.read_csv('data/temp/matches.csv')
 teams = pd.read_csv('data/temp/teams.csv')
 
+# Adding a simplified teams dataframe to count the number of match and the live ranking
+reference_teams = pd.DataFrame({'reference_team': teams['reference_team'].unique()})
+reference_teams['nb_matches'] = 0
+
 ## POINTS CALCULATION MATCH BY MATCH
 
 for index, match in  tqdm(matches.iterrows(), total=len(matches), desc="Calculating matches points"):
@@ -36,6 +40,15 @@ for index, match in  tqdm(matches.iterrows(), total=len(matches), desc="Calculat
 
     teams.loc[teams['reference_team'] == home_team, 'points'] = home_points_after
     teams.loc[teams['reference_team'] == away_team, 'points'] = away_points_after
+
+    reference_teams.loc[reference_teams['reference_team'] == home_team, 'nb_matches'] += 1
+    reference_teams.loc[reference_teams['reference_team'] == away_team, 'nb_matches'] += 1
+    reference_teams.loc[reference_teams['reference_team'] == home_team, 'points'] = home_points_after
+    reference_teams.loc[reference_teams['reference_team'] == away_team, 'points'] = away_points_after
+
+    reference_teams['rank'] = reference_teams['points'].rank(ascending=False)
+    home_rank = reference_teams.loc[reference_teams['reference_team'] == home_team, 'rank']
+    away_rank = reference_teams.loc[reference_teams['reference_team'] == away_team, 'rank']
         
     matches.at[index, 'home_points_before'] = points_home_team
     matches.at[index, 'away_points_before'] = points_away_team
@@ -43,7 +56,8 @@ for index, match in  tqdm(matches.iterrows(), total=len(matches), desc="Calculat
     matches.at[index, 'calculated_result'] = calculated_result
     matches.at[index, 'home_points_after'] = home_points_after
     matches.at[index, 'away_points_after'] = away_points_after
-
+    matches.at[index, 'home_rank'] = home_rank
+    matches.at[index, 'away_rank'] = away_rank
 
 teams = teams.sort_values(by='points', ascending=False)
 

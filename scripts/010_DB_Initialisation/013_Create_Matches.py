@@ -21,6 +21,8 @@ cursor.execute('''
         rating1 INTEGER,
         rating2 INTEGER,
         rating_ev INTEGER,
+        rank1 INTEGER,
+        rank2 INTEGER,
         expected_result FLOAT,
         neutral BOOLEAN NOT NULL
     );

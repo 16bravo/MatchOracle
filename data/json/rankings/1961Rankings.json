@@ -66,8 +66,8 @@
     },
     {
       "ranking": 7,
-      "flag": "russia.png",
-      "team": "Russia",
+      "flag": "ussr.png",
+      "team": "Soviet Union",
       "reference_team": "Russia",
       "points": 5742,
       "confederation": "UEFA",
@@ -117,7 +117,7 @@
     {
       "ranking": 12,
       "flag": "germany.png",
-      "team": "West Germany",
+      "team": "Germany",
       "reference_team": "Germany",
       "points": 5671,
       "confederation": "UEFA",
@@ -171,16 +171,6 @@
       "reference_team": "Algeria",
       "points": 5557,
       "confederation": "CAF",
-      "ranking_change": 1,
-      "points_change": 0
-    },
-    {
-      "ranking": 18,
-      "flag": "croatia.png",
-      "team": "Croatia",
-      "reference_team": "Croatia",
-      "points": 5556,
-      "confederation": "UEFA",
       "ranking_change": 1,
       "points_change": 0
     },
@@ -286,6 +276,16 @@
     },
     {
       "ranking": 29,
+      "flag": "egypt.png",
+      "team": "Egypt",
+      "reference_team": "Egypt",
+      "points": 5420,
+      "confederation": "CAF",
+      "ranking_change": 8,
+      "points_change": 112
+    },
+    {
+      "ranking": 29,
       "flag": "north_korea.png",
       "team": "North Korea",
       "reference_team": "North Korea",
@@ -293,16 +293,6 @@
       "confederation": "AFC",
       "ranking_change": 0,
       "points_change": 0
-    },
-    {
-      "ranking": 29,
-      "flag": "uar.png",
-      "team": "United Arab Republic",
-      "reference_team": "Egypt",
-      "points": 5420,
-      "confederation": "CAF",
-      "ranking_change": 8,
-      "points_change": 112
     },
     {
       "ranking": 31,

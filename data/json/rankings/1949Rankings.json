@@ -56,6 +56,16 @@
     },
     {
       "ranking": 6,
+      "flag": "germany.png",
+      "team": "Germany",
+      "reference_team": "Germany",
+      "points": 5790,
+      "confederation": "UEFA",
+      "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 6,
       "flag": "italy.png",
       "team": "Italy",
       "reference_team": "Italy",
@@ -63,16 +73,6 @@
       "confederation": "UEFA",
       "ranking_change": 3,
       "points_change": 39
-    },
-    {
-      "ranking": 6,
-      "flag": "germany.png",
-      "team": "West Germany",
-      "reference_team": "Germany",
-      "points": 5790,
-      "confederation": "UEFA",
-      "ranking_change": 0,
-      "points_change": 0
     },
     {
       "ranking": 8,
@@ -123,16 +123,6 @@
       "confederation": "CONMEBOL",
       "ranking_change": 1,
       "points_change": 22
-    },
-    {
-      "ranking": 13,
-      "flag": "croatia.png",
-      "team": "Croatia",
-      "reference_team": "Croatia",
-      "points": 5559,
-      "confederation": "UEFA",
-      "ranking_change": 4,
-      "points_change": 0
     },
     {
       "ranking": 14,
@@ -336,8 +326,8 @@
     },
     {
       "ranking": 34,
-      "flag": "russia.png",
-      "team": "Russia",
+      "flag": "ussr.png",
+      "team": "Soviet Union",
       "reference_team": "Russia",
       "points": 5249,
       "confederation": "UEFA",
