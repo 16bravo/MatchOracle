@@ -23,20 +23,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Restore dependency cache
-        uses: actions/cache@v2
-        with:
-          path: |
-            ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
+          cache: 'pip'
 
-      - name: Install pathlib
-        run: pip install pathlib
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
       - name: Run JSON generation scripts
         run: |
@@ -60,10 +54,3 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Sauvegarder le cache des dépendances
-        uses: actions/cache@v2
-        with:
-          path: |
-            ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
