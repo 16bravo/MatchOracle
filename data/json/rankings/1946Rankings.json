@@ -346,8 +346,8 @@
     },
     {
       "ranking": 36,
-      "flag": "ussr.png",
-      "team": "Soviet Union",
+      "flag": "russia.png",
+      "team": "Russia",
       "reference_team": "Russia",
       "points": 5249,
       "confederation": "UEFA",
@@ -373,6 +373,16 @@
       "confederation": "UEFA",
       "ranking_change": -1,
       "points_change": 10
+    },
+    {
+      "ranking": 39,
+      "flag": "slovakia.png",
+      "team": "Slovakia",
+      "reference_team": "Slovakia",
+      "points": 5216,
+      "confederation": "UEFA",
+      "ranking_change": -1,
+      "points_change": 0
     },
     {
       "ranking": 40,
@@ -493,6 +503,16 @@
       "confederation": "CONMEBOL",
       "ranking_change": 5,
       "points_change": 102
+    },
+    {
+      "ranking": 52,
+      "flag": "latvia.png",
+      "team": "Latvia",
+      "reference_team": "Latvia",
+      "points": 4947,
+      "confederation": "UEFA",
+      "ranking_change": -3,
+      "points_change": 0
     },
     {
       "ranking": 53,
@@ -735,16 +755,6 @@
       "points_change": 0
     },
     {
-      "ranking": 77,
-      "flag": "estonia.png",
-      "team": "Estonia",
-      "reference_team": "Estonia",
-      "points": 4731,
-      "confederation": "UEFA",
-      "ranking_change": -4,
-      "points_change": 0
-    },
-    {
       "ranking": 78,
       "flag": "suriname.png",
       "team": "Suriname",
@@ -851,6 +861,16 @@
       "reference_team": "Tanzania",
       "points": 4534,
       "confederation": "CAF",
+      "ranking_change": -4,
+      "points_change": 0
+    },
+    {
+      "ranking": 90,
+      "flag": "armenia.png",
+      "team": "Armenia",
+      "reference_team": "Armenia",
+      "points": 4518,
+      "confederation": "UEFA",
       "ranking_change": -4,
       "points_change": 0
     },

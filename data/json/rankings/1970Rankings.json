@@ -66,8 +66,8 @@
     },
     {
       "ranking": 7,
-      "flag": "ussr.png",
-      "team": "Soviet Union",
+      "flag": "russia.png",
+      "team": "Russia",
       "reference_team": "Russia",
       "points": 5669,
       "confederation": "UEFA",
@@ -451,6 +451,16 @@
       "reference_team": "China",
       "points": 5218,
       "confederation": "AFC",
+      "ranking_change": -1,
+      "points_change": 0
+    },
+    {
+      "ranking": 47,
+      "flag": "slovakia.png",
+      "team": "Slovakia",
+      "reference_team": "Slovakia",
+      "points": 5216,
+      "confederation": "UEFA",
       "ranking_change": -1,
       "points_change": 0
     },
@@ -845,6 +855,16 @@
       "points_change": 0
     },
     {
+      "ranking": 87,
+      "flag": "latvia.png",
+      "team": "Latvia",
+      "reference_team": "Latvia",
+      "points": 4869,
+      "confederation": "UEFA",
+      "ranking_change": 1,
+      "points_change": 0
+    },
+    {
       "ranking": 88,
       "flag": "lebanon.png",
       "team": "Lebanon",
@@ -1065,16 +1085,6 @@
       "points_change": 0
     },
     {
-      "ranking": 110,
-      "flag": "estonia.png",
-      "team": "Estonia",
-      "reference_team": "Estonia",
-      "points": 4709,
-      "confederation": "UEFA",
-      "ranking_change": 2,
-      "points_change": 0
-    },
-    {
       "ranking": 111,
       "flag": "tanzania.png",
       "team": "Tanzania",
@@ -1156,8 +1166,8 @@
     },
     {
       "ranking": 120,
-      "flag": "vietnam.png",
-      "team": "Vietnam",
+      "flag": "south_vietnam.png",
+      "team": "South Vietnam",
       "reference_team": "Vietnam",
       "points": 4662,
       "confederation": "AFC",
@@ -1186,8 +1196,8 @@
     },
     {
       "ranking": 123,
-      "flag": "cambodia.png",
-      "team": "Cambodia",
+      "flag": "khmer.png",
+      "team": "Khmer Republic",
       "reference_team": "Cambodia",
       "points": 4626,
       "confederation": "AFC",
@@ -1303,6 +1313,16 @@
       "confederation": "AFC",
       "ranking_change": null,
       "points_change": null
+    },
+    {
+      "ranking": 135,
+      "flag": "armenia.png",
+      "team": "Armenia",
+      "reference_team": "Armenia",
+      "points": 4518,
+      "confederation": "UEFA",
+      "ranking_change": 0,
+      "points_change": 0
     },
     {
       "ranking": 136,

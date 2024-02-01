@@ -306,8 +306,8 @@
     },
     {
       "ranking": 32,
-      "flag": "ussr.png",
-      "team": "Soviet Union",
+      "flag": "russia.png",
+      "team": "Russia",
       "reference_team": "Russia",
       "points": 5314,
       "confederation": "UEFA",
@@ -382,6 +382,16 @@
       "points": 5229,
       "confederation": "UEFA",
       "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 40,
+      "flag": "slovakia.png",
+      "team": "Slovakia",
+      "reference_team": "Slovakia",
+      "points": 5216,
+      "confederation": "UEFA",
+      "ranking_change": 1,
       "points_change": 0
     },
     {
@@ -635,6 +645,16 @@
       "points_change": -40
     },
     {
+      "ranking": 66,
+      "flag": "latvia.png",
+      "team": "Latvia",
+      "reference_team": "Latvia",
+      "points": 4869,
+      "confederation": "UEFA",
+      "ranking_change": 3,
+      "points_change": 0
+    },
+    {
       "ranking": 67,
       "flag": "china.png",
       "team": "China",
@@ -746,8 +766,8 @@
     },
     {
       "ranking": 78,
-      "flag": "vietnam.png",
-      "team": "Vietnam",
+      "flag": "south_vietnam.png",
+      "team": "South Vietnam",
       "reference_team": "Vietnam",
       "points": 4800,
       "confederation": "AFC",
@@ -865,16 +885,6 @@
       "points_change": 22
     },
     {
-      "ranking": 90,
-      "flag": "estonia.png",
-      "team": "Estonia",
-      "reference_team": "Estonia",
-      "points": 4709,
-      "confederation": "UEFA",
-      "ranking_change": -2,
-      "points_change": 0
-    },
-    {
       "ranking": 91,
       "flag": "tahiti.png",
       "team": "Tahiti",
@@ -990,6 +1000,16 @@
       "team": "Faroe Islands",
       "reference_team": "Faroe Islands",
       "points": 4538,
+      "confederation": "UEFA",
+      "ranking_change": -1,
+      "points_change": 0
+    },
+    {
+      "ranking": 104,
+      "flag": "armenia.png",
+      "team": "Armenia",
+      "reference_team": "Armenia",
+      "points": 4518,
       "confederation": "UEFA",
       "ranking_change": -1,
       "points_change": 0

@@ -1,6 +1,7 @@
 import math
 import sqlite3
 import json
+import pandas as pd
 from pathlib import Path
 
 # SQLite database connection
@@ -41,7 +42,7 @@ for team in teams:
         'rating1': rating1 if team == team1 else rating2,
         'rating2': rating2 if team == team1 else rating1,
         'rating_ev': (1 if team == team1 else -1) * rating_ev,
-        'rank' : int(rank1 if team == team1 else rank2),
+        'rank' : int(rank1 if team == team1 else rank2) if not pd.isna(rank1 if team == team1 else rank2) else '-',
         'win_prob': round((1/(1+math.exp(-((1 if team == team1 else -1)*(expected_result+(0.341 if not neutral else 0)))*2.95)))*100,1)
     } for date, country, tournament, team1, team2, original_team1, original_team2, flag1, flag2, score1, score2, rating1, rating2, rating_ev, rank1, rank2, expected_result, neutral in matches_data_sql]
     }

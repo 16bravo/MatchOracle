@@ -1,20 +1,38 @@
 import pandas as pd
 from tqdm import tqdm
 import math
+import numpy as np
 import sys
 
 # Retrieve Data from previous steps in csv files
 matches = pd.read_csv('data/temp/matches.csv')
 teams = pd.read_csv('data/temp/teams.csv')
 
+# Adapting dates for calculation
+matches['date'] = pd.to_datetime(matches['date'], errors='coerce')
+
+teams['startDate'] = pd.to_datetime(teams['startDate'], errors='coerce')
+teams['startDate'] = teams['startDate'].fillna('01/01/1872')
+teams['startDate'] = pd.to_datetime(teams['startDate'], format='%d/%m/%Y')
+teams['endDate'] = pd.to_datetime(teams['endDate'], errors='coerce')
+teams['endDate'] = teams['endDate'].fillna('31/12/2099')
+teams['endDate'] = pd.to_datetime(teams['endDate'], format='%d/%m/%Y')
+
 # Adding a simplified teams dataframe to count the number of match and the live ranking
-reference_teams = pd.DataFrame({'reference_team': teams['reference_team'].unique()})
-reference_teams['nb_matches'] = 0
+#reference_teams = pd.DataFrame({'reference_team': teams['reference_team'].unique()})
+#reference_teams = teams.groupby('reference_team')['points'].max().reset_index()
+
+#teams_at_time = teams[['team','reference_team','startDate','endDate','points']]
+
+#print(teams_at_time)
+
+
 
 ## POINTS CALCULATION MATCH BY MATCH
 
 for index, match in  tqdm(matches.iterrows(), total=len(matches), desc="Calculating matches points"):
     
+    # Init match values
     home_team = match['home_team']
     away_team = match['away_team']
     home_score = match['home_score']
@@ -41,15 +59,18 @@ for index, match in  tqdm(matches.iterrows(), total=len(matches), desc="Calculat
     teams.loc[teams['reference_team'] == home_team, 'points'] = home_points_after
     teams.loc[teams['reference_team'] == away_team, 'points'] = away_points_after
 
-    reference_teams.loc[reference_teams['reference_team'] == home_team, 'nb_matches'] += 1
-    reference_teams.loc[reference_teams['reference_team'] == away_team, 'nb_matches'] += 1
-    reference_teams.loc[reference_teams['reference_team'] == home_team, 'points'] = home_points_after
-    reference_teams.loc[reference_teams['reference_team'] == away_team, 'points'] = away_points_after
-
-    reference_teams['rank'] = reference_teams['points'].rank(ascending=False)
-    home_rank = reference_teams.loc[reference_teams['reference_team'] == home_team, 'rank']
-    away_rank = reference_teams.loc[reference_teams['reference_team'] == away_team, 'rank']
-        
+    # Create a team dataframe with teams at the time for ranking
+    teams_at_time = teams.query("startDate < @match.date and endDate > @match.date and not team.str.startswith('Not-')", engine='python') #Doesn't work for Not-sovereign countries
+    teams_at_time = teams_at_time.sort_values(by='priority')
+    teams_at_time = teams_at_time.drop_duplicates(subset='reference_team', keep='first')
+    teams_at_time['rank'] = teams_at_time['points'].rank(ascending=False)
+    
+    home_rank = teams_at_time.loc[teams_at_time['reference_team'] == home_team, 'rank']
+    home_rank = home_rank.iloc[0] if not home_rank.empty else np.nan
+    away_rank = teams_at_time.loc[teams_at_time['reference_team'] == away_team, 'rank']
+    away_rank = away_rank.iloc[0] if not away_rank.empty else np.nan
+    
+    # Update the values in the match dataframe    
     matches.at[index, 'home_points_before'] = points_home_team
     matches.at[index, 'away_points_before'] = points_away_team
     matches.at[index, 'expected_result'] = expected_result

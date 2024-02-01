@@ -36,8 +36,8 @@
     },
     {
       "ranking": 4,
-      "flag": "ussr.png",
-      "team": "Soviet Union",
+      "flag": "russia.png",
+      "team": "Russia",
       "reference_team": "Russia",
       "points": 5702,
       "confederation": "UEFA",
@@ -391,6 +391,16 @@
       "reference_team": "Mexico",
       "points": 5217,
       "confederation": "CONCACAF",
+      "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 41,
+      "flag": "slovakia.png",
+      "team": "Slovakia",
+      "reference_team": "Slovakia",
+      "points": 5216,
+      "confederation": "UEFA",
       "ranking_change": 0,
       "points_change": 0
     },
@@ -836,6 +846,16 @@
     },
     {
       "ranking": 86,
+      "flag": "latvia.png",
+      "team": "Latvia",
+      "reference_team": "Latvia",
+      "points": 4869,
+      "confederation": "UEFA",
+      "ranking_change": 2,
+      "points_change": 0
+    },
+    {
+      "ranking": 86,
       "flag": "tanzania.png",
       "team": "Tanzania",
       "reference_team": "Tanzania",
@@ -1102,16 +1122,6 @@
       "points": 4714,
       "confederation": "CAF",
       "ranking_change": -1,
-      "points_change": 0
-    },
-    {
-      "ranking": 114,
-      "flag": "estonia.png",
-      "team": "Estonia",
-      "reference_team": "Estonia",
-      "points": 4709,
-      "confederation": "UEFA",
-      "ranking_change": 0,
       "points_change": 0
     },
     {
@@ -1383,6 +1393,16 @@
       "confederation": "CONCACAF",
       "ranking_change": 5,
       "points_change": 11
+    },
+    {
+      "ranking": 143,
+      "flag": "armenia.png",
+      "team": "Armenia",
+      "reference_team": "Armenia",
+      "points": 4518,
+      "confederation": "UEFA",
+      "ranking_change": 1,
+      "points_change": 0
     },
     {
       "ranking": 143,

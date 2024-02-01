@@ -76,8 +76,8 @@
     },
     {
       "ranking": 8,
-      "flag": "ussr.png",
-      "team": "Soviet Union",
+      "flag": "russia.png",
+      "team": "Russia",
       "reference_team": "Russia",
       "points": 5748,
       "confederation": "UEFA",
@@ -402,6 +402,16 @@
       "points": 5229,
       "confederation": "UEFA",
       "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 42,
+      "flag": "slovakia.png",
+      "team": "Slovakia",
+      "reference_team": "Slovakia",
+      "points": 5216,
+      "confederation": "UEFA",
+      "ranking_change": 3,
       "points_change": 0
     },
     {
@@ -795,6 +805,16 @@
       "points_change": 2
     },
     {
+      "ranking": 82,
+      "flag": "latvia.png",
+      "team": "Latvia",
+      "reference_team": "Latvia",
+      "points": 4869,
+      "confederation": "UEFA",
+      "ranking_change": 1,
+      "points_change": 0
+    },
+    {
       "ranking": 83,
       "flag": "martinique.png",
       "team": "Martinique",
@@ -1046,8 +1066,8 @@
     },
     {
       "ranking": 108,
-      "flag": "vietnam.png",
-      "team": "Vietnam",
+      "flag": "south_vietnam.png",
+      "team": "South Vietnam",
       "reference_team": "Vietnam",
       "points": 4749,
       "confederation": "AFC",
@@ -1111,16 +1131,6 @@
       "reference_team": "New Caledonia",
       "points": 4710,
       "confederation": "OFC",
-      "ranking_change": -1,
-      "points_change": 0
-    },
-    {
-      "ranking": 115,
-      "flag": "estonia.png",
-      "team": "Estonia",
-      "reference_team": "Estonia",
-      "points": 4709,
-      "confederation": "UEFA",
       "ranking_change": -1,
       "points_change": 0
     },
@@ -1220,6 +1230,16 @@
       "team": "Faroe Islands",
       "reference_team": "Faroe Islands",
       "points": 4538,
+      "confederation": "UEFA",
+      "ranking_change": -2,
+      "points_change": 0
+    },
+    {
+      "ranking": 127,
+      "flag": "armenia.png",
+      "team": "Armenia",
+      "reference_team": "Armenia",
+      "points": 4518,
       "confederation": "UEFA",
       "ranking_change": -2,
       "points_change": 0

@@ -66,8 +66,8 @@
     },
     {
       "ranking": 7,
-      "flag": "ussr.png",
-      "team": "Soviet Union",
+      "flag": "russia.png",
+      "team": "Russia",
       "reference_team": "Russia",
       "points": 5742,
       "confederation": "UEFA",
@@ -420,6 +420,16 @@
       "team": "Georgia",
       "reference_team": "Georgia",
       "points": 5229,
+      "confederation": "UEFA",
+      "ranking_change": -2,
+      "points_change": 0
+    },
+    {
+      "ranking": 44,
+      "flag": "slovakia.png",
+      "team": "Slovakia",
+      "reference_team": "Slovakia",
+      "points": 5216,
       "confederation": "UEFA",
       "ranking_change": -2,
       "points_change": 0
@@ -796,6 +806,16 @@
     },
     {
       "ranking": 82,
+      "flag": "latvia.png",
+      "team": "Latvia",
+      "reference_team": "Latvia",
+      "points": 4869,
+      "confederation": "UEFA",
+      "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 82,
       "flag": "lebanon.png",
       "team": "Lebanon",
       "reference_team": "Lebanon",
@@ -1006,8 +1026,8 @@
     },
     {
       "ranking": 104,
-      "flag": "vietnam.png",
-      "team": "Vietnam",
+      "flag": "south_vietnam.png",
+      "team": "South Vietnam",
       "reference_team": "Vietnam",
       "points": 4781,
       "confederation": "AFC",
@@ -1093,16 +1113,6 @@
       "confederation": "OFC",
       "ranking_change": 2,
       "points_change": 13
-    },
-    {
-      "ranking": 113,
-      "flag": "estonia.png",
-      "team": "Estonia",
-      "reference_team": "Estonia",
-      "points": 4709,
-      "confederation": "UEFA",
-      "ranking_change": 2,
-      "points_change": 0
     },
     {
       "ranking": 114,
@@ -1243,6 +1253,16 @@
       "confederation": "AFC",
       "ranking_change": 4,
       "points_change": 62
+    },
+    {
+      "ranking": 129,
+      "flag": "armenia.png",
+      "team": "Armenia",
+      "reference_team": "Armenia",
+      "points": 4518,
+      "confederation": "UEFA",
+      "ranking_change": -2,
+      "points_change": 0
     },
     {
       "ranking": 130,
