@@ -346,8 +346,8 @@
     },
     {
       "ranking": 35,
-      "flag": "ussr.png",
-      "team": "Soviet Union",
+      "flag": "russia.png",
+      "team": "Russia",
       "reference_team": "Russia",
       "points": 5249,
       "confederation": "UEFA",
@@ -463,6 +463,16 @@
       "confederation": "CONCACAF",
       "ranking_change": 12,
       "points_change": 108
+    },
+    {
+      "ranking": 47,
+      "flag": "latvia.png",
+      "team": "Latvia",
+      "reference_team": "Latvia",
+      "points": 4947,
+      "confederation": "UEFA",
+      "ranking_change": -1,
+      "points_change": 0
     },
     {
       "ranking": 48,
@@ -705,16 +715,6 @@
       "points_change": 0
     },
     {
-      "ranking": 72,
-      "flag": "estonia.png",
-      "team": "Estonia",
-      "reference_team": "Estonia",
-      "points": 4731,
-      "confederation": "UEFA",
-      "ranking_change": -2,
-      "points_change": 0
-    },
-    {
       "ranking": 73,
       "flag": "france.png",
       "team": "Guadeloupe",
@@ -800,6 +800,16 @@
       "team": "Faroe Islands",
       "reference_team": "Faroe Islands",
       "points": 4538,
+      "confederation": "UEFA",
+      "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 83,
+      "flag": "armenia.png",
+      "team": "Armenia",
+      "reference_team": "Armenia",
+      "points": 4518,
       "confederation": "UEFA",
       "ranking_change": 0,
       "points_change": 0

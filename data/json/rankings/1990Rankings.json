@@ -126,8 +126,8 @@
     },
     {
       "ranking": 13,
-      "flag": "ussr.png",
-      "team": "Soviet Union",
+      "flag": "russia.png",
+      "team": "Russia",
       "reference_team": "Russia",
       "points": 5512,
       "confederation": "UEFA",
@@ -935,6 +935,16 @@
       "points_change": 29
     },
     {
+      "ranking": 94,
+      "flag": "latvia.png",
+      "team": "Latvia",
+      "reference_team": "Latvia",
+      "points": 4869,
+      "confederation": "UEFA",
+      "ranking_change": 0,
+      "points_change": 0
+    },
+    {
       "ranking": 95,
       "flag": "bahrain.png",
       "team": "Bahrain",
@@ -1131,16 +1141,6 @@
       "reference_team": "Haiti",
       "points": 4711,
       "confederation": "CONCACAF",
-      "ranking_change": -2,
-      "points_change": 0
-    },
-    {
-      "ranking": 115,
-      "flag": "estonia.png",
-      "team": "Estonia",
-      "reference_team": "Estonia",
-      "points": 4709,
-      "confederation": "UEFA",
       "ranking_change": -2,
       "points_change": 0
     },
@@ -1463,6 +1463,16 @@
       "confederation": "CONCACAF",
       "ranking_change": -10,
       "points_change": -42
+    },
+    {
+      "ranking": 148,
+      "flag": "armenia.png",
+      "team": "Armenia",
+      "reference_team": "Armenia",
+      "points": 4518,
+      "confederation": "UEFA",
+      "ranking_change": -3,
+      "points_change": 0
     },
     {
       "ranking": 149,

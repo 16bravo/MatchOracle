@@ -76,8 +76,8 @@
     },
     {
       "ranking": 8,
-      "flag": "ussr.png",
-      "team": "Soviet Union",
+      "flag": "russia.png",
+      "team": "Russia",
       "reference_team": "Russia",
       "points": 5570,
       "confederation": "UEFA",
@@ -383,6 +383,16 @@
       "confederation": "AFC",
       "ranking_change": -3,
       "points_change": -22
+    },
+    {
+      "ranking": 40,
+      "flag": "slovakia.png",
+      "team": "Slovakia",
+      "reference_team": "Slovakia",
+      "points": 5216,
+      "confederation": "UEFA",
+      "ranking_change": 1,
+      "points_change": 0
     },
     {
       "ranking": 41,
@@ -915,6 +925,16 @@
       "points_change": 17
     },
     {
+      "ranking": 94,
+      "flag": "latvia.png",
+      "team": "Latvia",
+      "reference_team": "Latvia",
+      "points": 4869,
+      "confederation": "UEFA",
+      "ranking_change": -1,
+      "points_change": 0
+    },
+    {
       "ranking": 95,
       "flag": "congo.png",
       "team": "Congo",
@@ -1093,16 +1113,6 @@
       "confederation": "CONCACAF",
       "ranking_change": -2,
       "points_change": -6
-    },
-    {
-      "ranking": 113,
-      "flag": "estonia.png",
-      "team": "Estonia",
-      "reference_team": "Estonia",
-      "points": 4709,
-      "confederation": "UEFA",
-      "ranking_change": -1,
-      "points_change": 0
     },
     {
       "ranking": 114,
@@ -1401,6 +1411,16 @@
       "reference_team": "Oman",
       "points": 4519,
       "confederation": "AFC",
+      "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 145,
+      "flag": "armenia.png",
+      "team": "Armenia",
+      "reference_team": "Armenia",
+      "points": 4518,
+      "confederation": "UEFA",
       "ranking_change": 0,
       "points_change": 0
     },

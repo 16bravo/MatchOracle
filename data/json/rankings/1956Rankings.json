@@ -136,8 +136,8 @@
     },
     {
       "ranking": 14,
-      "flag": "ussr.png",
-      "team": "Soviet Union",
+      "flag": "russia.png",
+      "team": "Russia",
       "reference_team": "Russia",
       "points": 5611,
       "confederation": "UEFA",
@@ -431,6 +431,16 @@
       "reference_team": "Congo",
       "points": 5225,
       "confederation": "CAF",
+      "ranking_change": -1,
+      "points_change": 0
+    },
+    {
+      "ranking": 45,
+      "flag": "slovakia.png",
+      "team": "Slovakia",
+      "reference_team": "Slovakia",
+      "points": 5216,
+      "confederation": "UEFA",
       "ranking_change": -1,
       "points_change": 0
     },
@@ -745,6 +755,16 @@
       "points_change": 14
     },
     {
+      "ranking": 77,
+      "flag": "latvia.png",
+      "team": "Latvia",
+      "reference_team": "Latvia",
+      "points": 4869,
+      "confederation": "UEFA",
+      "ranking_change": -4,
+      "points_change": 0
+    },
+    {
       "ranking": 78,
       "flag": "martinique.png",
       "team": "Martinique",
@@ -866,8 +886,8 @@
     },
     {
       "ranking": 90,
-      "flag": "vietnam.png",
-      "team": "Vietnam",
+      "flag": "south_vietnam.png",
+      "team": "South Vietnam",
       "reference_team": "Vietnam",
       "points": 4793,
       "confederation": "AFC",
@@ -1015,16 +1035,6 @@
       "points_change": -27
     },
     {
-      "ranking": 105,
-      "flag": "estonia.png",
-      "team": "Estonia",
-      "reference_team": "Estonia",
-      "points": 4709,
-      "confederation": "UEFA",
-      "ranking_change": -5,
-      "points_change": 0
-    },
-    {
       "ranking": 106,
       "flag": "pakistan.png",
       "team": "Pakistan",
@@ -1163,6 +1173,16 @@
       "confederation": "AFC",
       "ranking_change": 0,
       "points_change": 106
+    },
+    {
+      "ranking": 121,
+      "flag": "armenia.png",
+      "team": "Armenia",
+      "reference_team": "Armenia",
+      "points": 4518,
+      "confederation": "UEFA",
+      "ranking_change": -4,
+      "points_change": 0
     },
     {
       "ranking": 122,
