@@ -22,7 +22,7 @@ jobs:
       - name: Install all necessary packages
         run: pip install requests beautifulsoup4 pandas webdriver-manager selenium
       - name: Run the scraping script
-        run: python scripts\000_Web_Scraping\002_Scraping_Future_Matches.py
+        run: python scripts/000_Web_Scraping/002_Scraping_Future_Matches.py
       - name: Commit and push if content changed
         run: |-
           git config user.name "${{ secrets.GIT_USERNAME }}"
