@@ -52,6 +52,7 @@ for row in table.find_all('div', class_='slick-row'):
 
     date_list = date_text.split('<br>')
     date_site = date_list[1]
+    print(date_site)
     date_obj = datetime.strptime(date_site, "%b %d")
     today = datetime.now()
     year = today.year if date_obj.month <= today.month else today.year - 1
