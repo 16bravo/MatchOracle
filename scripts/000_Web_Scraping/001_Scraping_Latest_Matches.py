@@ -51,7 +51,6 @@ for row in table.find_all('div', class_='slick-row'):
 
     date_list = date_text.split('<br>')
     date_site = date_list[1]
-    print(date_site)
     date_obj = datetime.strptime(date_site, "%b %d")
     today = datetime.now()
     year = today.year if date_obj.month <= today.month else today.year - 1
@@ -90,7 +89,7 @@ df = df.sort_values(by='date')
 
 columns = ['date','home_team','away_team','home_score','away_score','tournament','country','neutral']
 
-history_data = './match_dataset/all_matches.csv'
+history_data = 'data/source/match_dataset/all_matches.csv'
 history_csv = pd.read_csv(history_data)
 history_csv = history_csv[columns]
 
