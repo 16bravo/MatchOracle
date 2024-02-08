@@ -1,6 +1,8 @@
 name: Match Data Web Scraping
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 23 * * *'
+    
 jobs:
   web_scraping:
     runs-on: ubuntu-latest
