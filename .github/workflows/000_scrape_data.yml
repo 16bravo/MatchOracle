@@ -50,7 +50,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Create .kaggle directory
-        if: steps.check-db.outputs.update_ok == 'true'
         run: mkdir -p /home/runner/.kaggle
         
       - name: Set up Kaggle credentials
