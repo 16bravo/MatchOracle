@@ -7,24 +7,33 @@ jobs:
     steps:
       - name: Check out this repo
         uses: actions/checkout@v2
+        
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.9'
+          
       - name: Installed package list
         run: apt list --installed
+        
       - name: Remove Chrome
         run: sudo apt purge google-chrome-stable
+        
       - name: Remove default Chromium
         run: sudo apt purge chromium-browser
+        
       - name: Install a new Chromium
         run: sudo apt install -y chromium-browser
+        
       - name: Install all necessary packages
         run: pip install requests beautifulsoup4 pandas webdriver_manager selenium kaggle
+        
       - name: Run the latest matches scraping script
         run: python scripts/000_Web_Scraping/001_Scraping_Latest_Matches.py
+        
       - name: Run the fixtures scraping script
         run: python scripts/000_Web_Scraping/002_Scraping_Future_Matches.py
+        
       - name: Commit changes
         run: |
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
@@ -39,7 +48,11 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+      
+      - name: Create .kaggle directory
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: mkdir -p /home/runner/.kaggle
+        
       - name: Set up Kaggle credentials
         run: echo "$KAGGLE_JSON" > /home/runner/.kaggle/kaggle.json && chmod 600 /home/runner/.kaggle/kaggle.json
         env:
