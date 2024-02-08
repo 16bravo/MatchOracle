@@ -1,8 +1,8 @@
-name: scrape
+name: Match Data Web Scraping
 on:
   workflow_dispatch:
 jobs:
-  scrape:
+  web_scraping:
     runs-on: ubuntu-latest
     steps:
       - name: Check out this repo
@@ -20,7 +20,7 @@ jobs:
       - name: Install a new Chromium
         run: sudo apt install -y chromium-browser
       - name: Install all necessary packages
-        run: pip install requests beautifulsoup4 pandas webdriver_manager selenium
+        run: pip install requests beautifulsoup4 pandas webdriver_manager selenium kaggle
       - name: Run the latest matches scraping script
         run: python scripts/000_Web_Scraping/001_Scraping_Latest_Matches.py
       - name: Run the fixtures scraping script
@@ -39,3 +39,8 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update Kaggle
+        run: |
+          cd data/source/match_dataset
+          kaggle datasets version -p . -m "Updated data"
