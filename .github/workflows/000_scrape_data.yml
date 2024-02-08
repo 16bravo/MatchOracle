@@ -23,16 +23,15 @@ jobs:
         run: pip install requests beautifulsoup4 pandas webdriver_manager selenium
       - name: Run the scraping script
         run: python scripts/000_Web_Scraping/002_Scraping_Future_Matches.py
-      - name: Commit and push if content changed
-        run: |-
+      - name: Commit changes
+        run: |
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USERNAME }}"
-          if git diff --quiet data/fixtures.csv; then
-            echo "No changes in fixtures.csv. Skipping commit."
+          if git diff --quiet -- data/; then
+            echo "No changes in data/ directory. Skipping commit."
           else
-            git add data/fixtures.csv
-            timestamp=$(date -u)
-            git commit -m "Latest data: ${timestamp}" || exit 0
+            git add -A data/
+            git commit -m "Update data/"
             git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             git push
           fi
