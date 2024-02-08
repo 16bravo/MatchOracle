@@ -21,17 +21,19 @@ jobs:
         run: sudo apt install -y chromium-browser
       - name: Install all necessary packages
         run: pip install requests beautifulsoup4 pandas webdriver_manager selenium
-      - name: Run the scraping script
+      - name: Run the latest matches scraping script
+        run: python scripts/000_Web_Scraping/001_Scraping_Latest_Matches.py
+      - name: Run the fixtures scraping script
         run: python scripts/000_Web_Scraping/002_Scraping_Future_Matches.py
       - name: Commit changes
         run: |
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USERNAME }}"
-          if git diff --quiet -- data/; then
-            echo "No changes in data/ directory. Skipping commit."
+          if git diff --quiet -- data/source/; then
+            echo "No changes in data/source/ directory. Skipping commit."
           else
-            git add -A data/
-            git commit -m "Update data/"
+            git add -A data/source/
+            git commit -m "Update data/source/"
             git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             git push
           fi

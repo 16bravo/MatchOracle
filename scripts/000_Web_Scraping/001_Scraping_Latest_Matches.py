@@ -1,18 +1,32 @@
+import pandas as pd
+from datetime import datetime
+from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service as ChromeService
-from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import pandas as pd
-from datetime import datetime
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.core.os_manager import ChromeType
 import sys
 
-# JUST FOR INFORMATION
+chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
 
-chrome_path = './chrome-driver/chromedriver.exe'
-driver = webdriver.Chrome(service=ChromeService(executable_path=chrome_path))
+chrome_options = Options()
+options = [
+    "--headless",
+    "--disable-gpu",
+    "--window-size=1920,1200",
+    "--ignore-certificate-errors",
+    "--disable-extensions",
+    "--no-sandbox",
+    "--disable-dev-shm-usage"
+]
+for option in options:
+    chrome_options.add_argument(option)
+
+driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 
 url = 'https://www.eloratings.net/latest'
 
@@ -89,4 +103,4 @@ history_csv['date'] = pd.to_datetime(history_csv['date'], format='%Y-%m-%d')
 history_csv = history_csv.drop_duplicates(subset=history_csv.columns.difference(['index']))
 
 # Affichez le DataFrame
-history_csv.to_csv('data/match_dataset/all_matches.csv', index=False)
+history_csv.to_csv('data/source/match_dataset/all_matches.csv', index=False)
