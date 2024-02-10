@@ -25,7 +25,7 @@ chrome_options = Options()
 options = [
     "--headless",
     "--disable-gpu",
-    "--window-size=855,900",
+    "--window-size=922,900",
     "--ignore-certificate-errors",
     "--disable-extensions",
     "--no-sandbox",
@@ -104,4 +104,4 @@ df['neutral'] = (df['home_team'] != df['country'])
 df['date'] = pd.to_datetime(df['date'], format='%d/%m/%Y')
 df = df.sort_values(by='date')
 
-df.to_csv('data/fixtures.csv', index=False)
+df.to_csv('data/source/fixtures.csv', index=False)
