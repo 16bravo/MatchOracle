@@ -1,10 +1,7 @@
 name: DB Update
 
 on:
-  workflow_run:
-    workflows: ["DB Initialisation"]
-    types:
-      - completed
+  workflow_dispatch:
 
 jobs:
   update_db_manually:
