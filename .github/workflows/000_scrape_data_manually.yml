@@ -1,0 +1,52 @@
+name: Match Data Web Scraping Manual Launch
+
+on:
+  workflow_dispatch:
+    
+jobs:
+  web_scraping_manual:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
+        
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          
+      - name: Installed package list
+        run: apt list --installed
+        
+      - name: Remove Chrome
+        run: sudo apt purge google-chrome-stable
+        
+      - name: Remove default Chromium
+        run: sudo apt purge chromium-browser
+        
+      - name: Install a new Chromium
+        run: sudo apt install -y chromium-browser
+        
+      - name: Install all necessary packages
+        run: pip install requests beautifulsoup4 pandas webdriver_manager selenium kaggle
+        
+      - name: Run the latest matches scraping script
+        run: python scripts/000_Web_Scraping/001_Scraping_Latest_Matches.py
+        
+      - name: Run the fixtures scraping script
+        run: python scripts/000_Web_Scraping/002_Scraping_Future_Matches.py
+        
+      - name: Commit changes
+        run: |
+          git config --global user.email "${{ secrets.GIT_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USERNAME }}"
+          if git diff --quiet -- data/source/; then
+            echo "No changes in data/source/ directory. Skipping commit."
+          else
+            git add -A data/source/
+            git commit -m "Update data/source/"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
