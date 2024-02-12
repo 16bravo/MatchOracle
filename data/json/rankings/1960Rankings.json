@@ -1,6 +1,6 @@
 {
   "year": 1960,
-  "last_date": [
+  "latest_date": [
     "1960-12-31"
   ],
   "rankings": [
@@ -76,8 +76,8 @@
     },
     {
       "ranking": 8,
-      "flag": "russia.png",
-      "team": "Russia",
+      "flag": "ussr.png",
+      "team": "Soviet Union",
       "reference_team": "Russia",
       "points": 5748,
       "confederation": "UEFA",
@@ -87,7 +87,7 @@
     {
       "ranking": 9,
       "flag": "germany.png",
-      "team": "Germany",
+      "team": "West Germany",
       "reference_team": "Germany",
       "points": 5709,
       "confederation": "UEFA",
@@ -356,8 +356,8 @@
     },
     {
       "ranking": 37,
-      "flag": "egypt.png",
-      "team": "Egypt",
+      "flag": "uar.png",
+      "team": "United Arab Republic",
       "reference_team": "Egypt",
       "points": 5308,
       "confederation": "CAF",
@@ -393,26 +393,6 @@
       "confederation": "UEFA",
       "ranking_change": 9,
       "points_change": 66
-    },
-    {
-      "ranking": 41,
-      "flag": "georgia.png",
-      "team": "Georgia",
-      "reference_team": "Georgia",
-      "points": 5229,
-      "confederation": "UEFA",
-      "ranking_change": 0,
-      "points_change": 0
-    },
-    {
-      "ranking": 42,
-      "flag": "slovakia.png",
-      "team": "Slovakia",
-      "reference_team": "Slovakia",
-      "points": 5216,
-      "confederation": "UEFA",
-      "ranking_change": 3,
-      "points_change": 0
     },
     {
       "ranking": 43,
@@ -561,16 +541,6 @@
       "reference_team": "Guinea",
       "points": 5077,
       "confederation": "CAF",
-      "ranking_change": -1,
-      "points_change": 0
-    },
-    {
-      "ranking": 58,
-      "flag": "azerbaijan.png",
-      "team": "Azerbaijan",
-      "reference_team": "Azerbaijan",
-      "points": 5065,
-      "confederation": "UEFA",
       "ranking_change": -1,
       "points_change": 0
     },
@@ -803,16 +773,6 @@
       "confederation": "CONCACAF",
       "ranking_change": 0,
       "points_change": 2
-    },
-    {
-      "ranking": 82,
-      "flag": "latvia.png",
-      "team": "Latvia",
-      "reference_team": "Latvia",
-      "points": 4869,
-      "confederation": "UEFA",
-      "ranking_change": 1,
-      "points_change": 0
     },
     {
       "ranking": 83,
@@ -1230,16 +1190,6 @@
       "team": "Faroe Islands",
       "reference_team": "Faroe Islands",
       "points": 4538,
-      "confederation": "UEFA",
-      "ranking_change": -2,
-      "points_change": 0
-    },
-    {
-      "ranking": 127,
-      "flag": "armenia.png",
-      "team": "Armenia",
-      "reference_team": "Armenia",
-      "points": 4518,
       "confederation": "UEFA",
       "ranking_change": -2,
       "points_change": 0

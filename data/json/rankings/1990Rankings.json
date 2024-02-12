@@ -1,6 +1,6 @@
 {
   "year": 1990,
-  "last_date": [
+  "latest_date": [
     "1990-12-22"
   ],
   "rankings": [
@@ -126,8 +126,8 @@
     },
     {
       "ranking": 13,
-      "flag": "russia.png",
-      "team": "Russia",
+      "flag": "ussr.png",
+      "team": "Soviet Union",
       "reference_team": "Russia",
       "points": 5512,
       "confederation": "UEFA",
@@ -199,9 +199,9 @@
       "flag": "chile.png",
       "team": "Chile",
       "reference_team": "Chile",
-      "points": 5434,
+      "points": 5435,
       "confederation": "CONMEBOL",
-      "ranking_change": 0,
+      "ranking_change": -1,
       "points_change": 17
     },
     {
@@ -319,7 +319,7 @@
       "flag": "paraguay.png",
       "team": "Paraguay",
       "reference_team": "Paraguay",
-      "points": 5314,
+      "points": 5315,
       "confederation": "CONMEBOL",
       "ranking_change": -1,
       "points_change": 0
@@ -481,7 +481,7 @@
       "reference_team": "Morocco",
       "points": 5148,
       "confederation": "CAF",
-      "ranking_change": 3,
+      "ranking_change": 2,
       "points_change": 36
     },
     {
@@ -489,7 +489,7 @@
       "flag": "ivory_coast.png",
       "team": "Ivory Coast",
       "reference_team": "Ivory Coast",
-      "points": 5140,
+      "points": 5139,
       "confederation": "CAF",
       "ranking_change": -4,
       "points_change": -57
@@ -499,7 +499,7 @@
       "flag": "nigeria.png",
       "team": "Nigeria",
       "reference_team": "Nigeria",
-      "points": 5136,
+      "points": 5135,
       "confederation": "CAF",
       "ranking_change": 0,
       "points_change": 23
@@ -566,58 +566,48 @@
     },
     {
       "ranking": 57,
-      "flag": "azerbaijan.png",
-      "team": "Azerbaijan",
-      "reference_team": "Azerbaijan",
-      "points": 5065,
-      "confederation": "UEFA",
-      "ranking_change": 0,
-      "points_change": 0
-    },
-    {
-      "ranking": 57,
       "flag": "libya.png",
       "team": "Libya",
       "reference_team": "Libya",
-      "points": 5065,
+      "points": 5066,
       "confederation": "CAF",
       "ranking_change": 0,
       "points_change": 0
     },
     {
       "ranking": 59,
-      "flag": "iran.png",
-      "team": "Iran",
-      "reference_team": "Iran",
-      "points": 5063,
-      "confederation": "AFC",
-      "ranking_change": 6,
-      "points_change": 50
-    },
-    {
-      "ranking": 60,
       "flag": "canada.png",
       "team": "Canada",
       "reference_team": "Canada",
       "points": 5062,
       "confederation": "CONCACAF",
-      "ranking_change": 3,
+      "ranking_change": 4,
       "points_change": 48
     },
     {
-      "ranking": 61,
+      "ranking": 59,
+      "flag": "iran.png",
+      "team": "Iran",
+      "reference_team": "Iran",
+      "points": 5062,
+      "confederation": "AFC",
+      "ranking_change": 7,
+      "points_change": 50
+    },
+    {
+      "ranking": 59,
       "flag": "cameroon.png",
       "team": "Cameroon",
       "reference_team": "Cameroon",
-      "points": 5061,
+      "points": 5062,
       "confederation": "CAF",
-      "ranking_change": -6,
-      "points_change": -13
+      "ranking_change": -3,
+      "points_change": -11
     },
     {
       "ranking": 62,
-      "flag": "dr_congo.png",
-      "team": "DR Congo",
+      "flag": "zaire.png",
+      "team": "Zaire",
       "reference_team": "DR Congo",
       "points": 5046,
       "confederation": "CAF",
@@ -682,14 +672,14 @@
       "points": 4993,
       "confederation": "CAF",
       "ranking_change": 8,
-      "points_change": 28
+      "points_change": 29
     },
     {
       "ranking": 69,
       "flag": "congo.png",
       "team": "Congo",
       "reference_team": "Congo",
-      "points": 4991,
+      "points": 4992,
       "confederation": "CAF",
       "ranking_change": 26,
       "points_change": 126
@@ -749,7 +739,7 @@
       "flag": "ghana.png",
       "team": "Ghana",
       "reference_team": "Ghana",
-      "points": 4975,
+      "points": 4974,
       "confederation": "CAF",
       "ranking_change": 3,
       "points_change": 44
@@ -762,7 +752,7 @@
       "points": 4966,
       "confederation": "CAF",
       "ranking_change": 3,
-      "points_change": 41
+      "points_change": 40
     },
     {
       "ranking": 77,
@@ -789,7 +779,7 @@
       "flag": "cyprus.png",
       "team": "Cyprus",
       "reference_team": "Cyprus",
-      "points": 4926,
+      "points": 4927,
       "confederation": "UEFA",
       "ranking_change": -6,
       "points_change": -49
@@ -935,16 +925,6 @@
       "points_change": 29
     },
     {
-      "ranking": 94,
-      "flag": "latvia.png",
-      "team": "Latvia",
-      "reference_team": "Latvia",
-      "points": 4869,
-      "confederation": "UEFA",
-      "ranking_change": 0,
-      "points_change": 0
-    },
-    {
       "ranking": 95,
       "flag": "bahrain.png",
       "team": "Bahrain",
@@ -999,10 +979,10 @@
       "flag": "kenya.png",
       "team": "Kenya",
       "reference_team": "Kenya",
-      "points": 4842,
+      "points": 4841,
       "confederation": "CAF",
       "ranking_change": -12,
-      "points_change": -48
+      "points_change": -49
     },
     {
       "ranking": 101,
@@ -1029,7 +1009,7 @@
       "flag": "malawi.png",
       "team": "Malawi",
       "reference_team": "Malawi",
-      "points": 4829,
+      "points": 4828,
       "confederation": "CAF",
       "ranking_change": -19,
       "points_change": -78
@@ -1049,7 +1029,7 @@
       "flag": "guinea_bissau.png",
       "team": "Guinea-Bissau",
       "reference_team": "Guinea-Bissau",
-      "points": 4801,
+      "points": 4800,
       "confederation": "CAF",
       "ranking_change": -1,
       "points_change": 6
@@ -1059,7 +1039,7 @@
       "flag": "togo.png",
       "team": "Togo",
       "reference_team": "Togo",
-      "points": 4776,
+      "points": 4775,
       "confederation": "CAF",
       "ranking_change": -3,
       "points_change": -40
@@ -1079,10 +1059,10 @@
       "flag": "chad.png",
       "team": "Chad",
       "reference_team": "Chad",
-      "points": 4756,
+      "points": 4755,
       "confederation": "CAF",
       "ranking_change": 3,
-      "points_change": 41
+      "points_change": 40
     },
     {
       "ranking": 109,
@@ -1159,7 +1139,7 @@
       "flag": "benin.png",
       "team": "Benin",
       "reference_team": "Benin",
-      "points": 4701,
+      "points": 4700,
       "confederation": "CAF",
       "ranking_change": -3,
       "points_change": -7
@@ -1239,7 +1219,7 @@
       "flag": "zanzibar.png",
       "team": "Zanzibar",
       "reference_team": "Zanzibar",
-      "points": 4657,
+      "points": 4658,
       "confederation": "CAF",
       "ranking_change": -5,
       "points_change": -13
@@ -1272,16 +1252,16 @@
       "points": 4642,
       "confederation": "CAF",
       "ranking_change": -7,
-      "points_change": -27
+      "points_change": -28
     },
     {
       "ranking": 129,
       "flag": "reunion.png",
       "team": "Reunion",
       "reference_team": "Reunion",
-      "points": 4637,
+      "points": 4638,
       "confederation": "CAF",
-      "ranking_change": -1,
+      "ranking_change": -2,
       "points_change": -8
     },
     {
@@ -1463,16 +1443,6 @@
       "confederation": "CONCACAF",
       "ranking_change": -10,
       "points_change": -42
-    },
-    {
-      "ranking": 148,
-      "flag": "armenia.png",
-      "team": "Armenia",
-      "reference_team": "Armenia",
-      "points": 4518,
-      "confederation": "UEFA",
-      "ranking_change": -3,
-      "points_change": 0
     },
     {
       "ranking": 149,
@@ -1769,10 +1739,10 @@
       "flag": "comoros.png",
       "team": "Comoros",
       "reference_team": "Comoros",
-      "points": 4177,
+      "points": 4178,
       "confederation": "CAF",
       "ranking_change": -2,
-      "points_change": 40
+      "points_change": 41
     },
     {
       "ranking": 179,
@@ -1839,7 +1809,7 @@
       "flag": "nepal.png",
       "team": "Nepal",
       "reference_team": "Nepal",
-      "points": 4043,
+      "points": 4044,
       "confederation": "AFC",
       "ranking_change": -2,
       "points_change": 0

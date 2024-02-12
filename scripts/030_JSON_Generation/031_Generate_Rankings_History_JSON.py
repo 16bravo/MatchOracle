@@ -17,7 +17,7 @@ for year in years:
     year = year[0]
 
     cursor.execute("SELECT max(date) FROM Matches WHERE strftime('%Y', date) = '"+str(year)+"'")
-    last_date = [row[0] for row in cursor.fetchall()]
+    latest_date = [row[0] for row in cursor.fetchall()]
 
     # Execute SQL query to select data for current year
     cursor.execute('''
@@ -41,7 +41,7 @@ for year in years:
 
     years_data = {
     'year': year,
-    'last_date': last_date,
+    'latest_date': latest_date,
     'rankings': [{
         'ranking': ranking,
         'flag' : flag,

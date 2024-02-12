@@ -7,10 +7,10 @@ connection = sqlite3.connect(database_path)
 cursor = connection.cursor()
 
 # YEARLY RANKINGS
-# LAST DATE (last)
-# Generate last date file
+# LATEST DATE (latest)
+# Generate latest date file
 cursor.execute("SELECT max(date) FROM Matches")
-last_last_date = [row[0] for row in cursor.fetchall()]
+latest_latest_date = [row[0] for row in cursor.fetchall()]
 
 # Execute SQL query to select all table rows
 cursor.execute('''
@@ -34,11 +34,11 @@ cursor.execute('''
 )
 
 # Data recovery
-last_data_sql = cursor.fetchall()
+latest_data_sql = cursor.fetchall()
 
 years_data = {
-'year': 'last',
-'last_date': last_last_date,
+'year': 'latest',
+'latest_date': latest_latest_date,
 'rankings': [{
     'ranking': ranking,
     'flag' : flag,
@@ -48,11 +48,11 @@ years_data = {
     'confederation': confederation,
     'ranking_change': ranking_change,
     'points_change': points_change
-} for ranking, flag, team, reference_team, points, confederation, ranking_change, points_change in last_data_sql]
+} for ranking, flag, team, reference_team, points, confederation, ranking_change, points_change in latest_data_sql]
 }
 
 # Export data to JSON file
-years_path = "data/json/rankings/LastRankings.json"
+years_path = "data/json/rankings/LatestRankings.json"
 with open(years_path, "w", encoding="utf-8") as years_file:
     json.dump(years_data, years_file, indent=2)
 
