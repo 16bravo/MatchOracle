@@ -80,7 +80,7 @@ for index, match in  tqdm(matches.iterrows(), total=len(matches), desc="Calculat
     matches.at[index, 'home_rank'] = home_rank
     matches.at[index, 'away_rank'] = away_rank
 
-teams = teams.sort_values(by='points', ascending=False)
+teams = teams.sort_values(by=['points', 'priority'], ascending=[False, True])
 
 teams['ranking'] = range(1, len(teams) + 1)
 

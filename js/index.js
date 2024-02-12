@@ -2,11 +2,11 @@ document.addEventListener('DOMContentLoaded', function () {
     const yearSelect = document.getElementById('yearSelect');
     const currentYear = new Date().getFullYear();
 
-    // Add an option for the current year (Last)
-    const lastOption = document.createElement('option');
-    lastOption.value = 'last';
-    lastOption.textContent = 'Last';
-    yearSelect.appendChild(lastOption);
+    // Add an option for the current year (Latest)
+    const latestOption = document.createElement('option');
+    latestOption.value = 'latest';
+    latestOption.textContent = 'Latest';
+    yearSelect.appendChild(latestOption);
 
     // Add options for years from 1872 to current year
     for (let year = currentYear-1; year >= 1872; year--) {
@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     // Default JSON file path
-    let jsonFilePath = 'data/json/rankings/LastRankings.json';
+    let jsonFilePath = 'data/json/rankings/LatestRankings.json';
 
     // Function to load the JSON file
     async function loadJSON(filePath) {
@@ -33,10 +33,10 @@ document.addEventListener('DOMContentLoaded', function () {
     loadJSON(jsonFilePath).then(jsonData => {
        // console.log('Year Ranking Data:', jsonData)
        // console.log(jsonData.year);
-       // console.log(jsonData.last_date[0]);
+       // console.log(jsonData.latest_date[0]);
 
-       lastDateSpan = document.getElementById('lastDate');
-       lastDateSpan.textContent = jsonData.last_date[0];
+       latestDateSpan = document.getElementById('latestDate');
+       latestDateSpan.textContent = jsonData.latest_date[0];
 
        const rankingArray = jsonData.rankings || [];
         // Loops through JSON data and constructs array rows
@@ -64,8 +64,8 @@ document.addEventListener('DOMContentLoaded', function () {
         // Add an event manager to change the year
         yearSelect.addEventListener('change', function () {
             const selectedYear = this.value;
-            if (selectedYear === 'last') {
-                jsonFilePath = 'data/json/rankings/LastRankings.json';
+            if (selectedYear === 'latest') {
+                jsonFilePath = 'data/json/rankings/LatestRankings.json';
             } else {
                 jsonFilePath = `data/json/rankings/${selectedYear}Rankings.json`;
             };
@@ -77,9 +77,9 @@ document.addEventListener('DOMContentLoaded', function () {
             // Load the new JSON and update the table
             loadJSON(jsonFilePath).then(newJsonData => {
                 // console.log(newJsonData.year);
-                // console.log(newJsonData.last_date[0]);
+                // console.log(newJsonData.latest_date[0]);
 
-                lastDateSpan.textContent = newJsonData.last_date[0];
+                latestDateSpan.textContent = newJsonData.latest_date[0];
 
                 const rankingArray = newJsonData.rankings || [];
                 rankingArray.forEach(newItem => {

@@ -2,7 +2,7 @@ import os
 
 folder_path = 'data/temp/'
 
-files_to_delete = ['last_date.txt','matches.csv','points_history.csv','ranking.csv','teams.csv']
+files_to_delete = ['latest_date.txt','matches.csv','points_history.csv','ranking.csv','teams.csv']
 
 for file in files_to_delete:
     full_path = os.path.join(folder_path, file)
