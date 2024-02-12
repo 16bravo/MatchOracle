@@ -1,9 +1,7 @@
 name: DB Initialisation
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   init_db:
