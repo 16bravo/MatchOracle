@@ -84,6 +84,7 @@ df = pd.DataFrame({
 })
 
 df['country'] = df['country'].str.replace(r'^(in the |in )', '', regex=True)
+df['country'] = df['country'].str.replace(r'Dem Rep of the Congo', 'DR Congo')
 df['neutral'] = (df['home_team'] != df['country'])
 df['date'] = pd.to_datetime(df['date'], format='%d/%m/%Y')
 df = df.sort_values(by='date')
