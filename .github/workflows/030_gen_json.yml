@@ -37,7 +37,7 @@ jobs:
           echo "Working Directory: $(pwd)"
           echo "Files in Current Directory: $(ls -al)"
           python scripts/030_JSON_Generation/031_Generate_Rankings_History_JSON.py
-          python scripts/030_JSON_Generation/032_Generate_Last_Rankings_JSON.py
+          python scripts/030_JSON_Generation/032_Generate_Latest_Rankings_JSON.py
           python scripts/030_JSON_Generation/033_Generate_Matches_JSON.py
 
       - name: Commit changes
