@@ -29,6 +29,9 @@ matches['history_away_team'] = matches['away_team']
 matches['home_team'] = matches['home_team'].replace(teams_excel.set_index('team')['reference_team'])
 matches['away_team'] = matches['away_team'].replace(teams_excel.set_index('team')['reference_team'])
 
+# patches for some countries names
+matches['country'] = matches['country'].str.replace(r'Dem Rep of the Congo', 'DR Congo')
+
 # Merge DataFrames on history_home_team and history_away_team columns
 teams_matches = pd.merge(matches, teams_excel[['reference_team', 'team', 'tricode']], how='inner', left_on='history_home_team', right_on='team')
 teams_matches = pd.merge(teams_matches, teams_excel[['reference_team', 'team', 'tricode']], how='inner', left_on='history_away_team', right_on='team')
@@ -87,6 +90,8 @@ else:
     '''
 
     last_match_info_in_db = pd.read_sql_query(query_last_match_info, conn)
+    
+    print(last_match_info_in_db)
 
     last_match_id = matches[
         (matches['date'] == last_match_info_in_db['date'].iloc[0]) &
