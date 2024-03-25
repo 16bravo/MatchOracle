@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2024-03-23"
+    "2024-03-24"
   ],
   "rankings": [
     {
@@ -106,23 +106,23 @@
     },
     {
       "ranking": 11,
+      "flag": "italy.png",
+      "team": "Italy",
+      "reference_team": "Italy",
+      "points": 5465,
+      "confederation": "UEFA",
+      "ranking_change": -1,
+      "points_change": 13
+    },
+    {
+      "ranking": 12,
       "flag": "colombia.png",
       "team": "Colombia",
       "reference_team": "Colombia",
       "points": 5460,
       "confederation": "CONMEBOL",
-      "ranking_change": 1,
+      "ranking_change": 0,
       "points_change": 12
-    },
-    {
-      "ranking": 12,
-      "flag": "italy.png",
-      "team": "Italy",
-      "reference_team": "Italy",
-      "points": 5454,
-      "confederation": "UEFA",
-      "ranking_change": -2,
-      "points_change": 2
     },
     {
       "ranking": 13,
@@ -146,23 +146,23 @@
     },
     {
       "ranking": 15,
-      "flag": "ecuador.png",
-      "team": "Ecuador",
-      "reference_team": "Ecuador",
-      "points": 5357,
-      "confederation": "CONMEBOL",
-      "ranking_change": 0,
-      "points_change": 1
-    },
-    {
-      "ranking": 16,
       "flag": "japan.png",
       "team": "Japan",
       "reference_team": "Japan",
       "points": 5348,
       "confederation": "AFC",
-      "ranking_change": -3,
+      "ranking_change": -2,
       "points_change": -96
+    },
+    {
+      "ranking": 16,
+      "flag": "ecuador.png",
+      "team": "Ecuador",
+      "reference_team": "Ecuador",
+      "points": 5346,
+      "confederation": "CONMEBOL",
+      "ranking_change": -1,
+      "points_change": -10
     },
     {
       "ranking": 17,
@@ -686,23 +686,23 @@
     },
     {
       "ranking": 69,
+      "flag": "costa_rica.png",
+      "team": "Costa Rica",
+      "reference_team": "Costa Rica",
+      "points": 5027,
+      "confederation": "CONCACAF",
+      "ranking_change": 2,
+      "points_change": 32
+    },
+    {
+      "ranking": 70,
       "flag": "iraq.png",
       "team": "Iraq",
       "reference_team": "Iraq",
       "points": 5018,
       "confederation": "AFC",
-      "ranking_change": -3,
+      "ranking_change": -4,
       "points_change": -13
-    },
-    {
-      "ranking": 70,
-      "flag": "costa_rica.png",
-      "team": "Costa Rica",
-      "reference_team": "Costa Rica",
-      "points": 5001,
-      "confederation": "CONCACAF",
-      "ranking_change": 1,
-      "points_change": 6
     },
     {
       "ranking": 71,
@@ -776,53 +776,53 @@
     },
     {
       "ranking": 78,
-      "flag": "honduras.png",
-      "team": "Honduras",
-      "reference_team": "Honduras",
-      "points": 4978,
-      "confederation": "CONCACAF",
-      "ranking_change": -6,
-      "points_change": -13
-    },
-    {
-      "ranking": 79,
       "flag": "angola.png",
       "team": "Angola",
       "reference_team": "Angola",
       "points": 4974,
       "confederation": "CAF",
-      "ranking_change": 20,
+      "ranking_change": 21,
       "points_change": 124
     },
     {
-      "ranking": 80,
+      "ranking": 79,
       "flag": "ghana.png",
       "team": "Ghana",
       "reference_team": "Ghana",
       "points": 4965,
       "confederation": "CAF",
-      "ranking_change": -7,
+      "ranking_change": -6,
       "points_change": -25
     },
     {
-      "ranking": 81,
+      "ranking": 80,
       "flag": "belarus.png",
       "team": "Belarus",
       "reference_team": "Belarus",
       "points": 4961,
       "confederation": "UEFA",
-      "ranking_change": -3,
+      "ranking_change": -2,
       "points_change": -12
     },
     {
-      "ranking": 82,
+      "ranking": 81,
       "flag": "guinea.png",
       "team": "Guinea",
       "reference_team": "Guinea",
       "points": 4960,
       "confederation": "CAF",
-      "ranking_change": 10,
+      "ranking_change": 11,
       "points_change": 55
+    },
+    {
+      "ranking": 82,
+      "flag": "honduras.png",
+      "team": "Honduras",
+      "reference_team": "Honduras",
+      "points": 4952,
+      "confederation": "CONCACAF",
+      "ranking_change": -10,
+      "points_change": -39
     },
     {
       "ranking": 83,
@@ -1229,10 +1229,10 @@
       "flag": "martinique.png",
       "team": "Martinique",
       "reference_team": "Martinique",
-      "points": 4795,
+      "points": 4792,
       "confederation": "CONCACAF",
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": -3
     },
     {
       "ranking": 124,
@@ -1309,10 +1309,10 @@
       "flag": "ethiopia.png",
       "team": "Ethiopia",
       "reference_team": "Ethiopia",
-      "points": 4765,
+      "points": 4768,
       "confederation": "CAF",
       "ranking_change": -2,
-      "points_change": -12
+      "points_change": -9
     },
     {
       "ranking": 132,
@@ -1425,14 +1425,14 @@
       "points_change": -41
     },
     {
-      "ranking": 142,
+      "ranking": 143,
       "flag": "lesotho.png",
       "team": "Lesotho",
       "reference_team": "Lesotho",
-      "points": 4728,
+      "points": 4725,
       "confederation": "CAF",
-      "ranking_change": 1,
-      "points_change": 10
+      "ranking_change": 0,
+      "points_change": 7
     },
     {
       "ranking": 144,
@@ -1449,10 +1449,10 @@
       "flag": "suriname.png",
       "team": "Suriname",
       "reference_team": "Suriname",
-      "points": 4707,
+      "points": 4710,
       "confederation": "CONCACAF",
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 3
     },
     {
       "ranking": 146,
@@ -1796,23 +1796,23 @@
     },
     {
       "ranking": 180,
-      "flag": "san_marino.png",
-      "team": "San Marino",
-      "reference_team": "San Marino",
-      "points": 4290,
-      "confederation": "UEFA",
-      "ranking_change": -4,
-      "points_change": -18
-    },
-    {
-      "ranking": 181,
       "flag": "kitts.png",
       "team": "Saint Kitts and Nevis",
       "reference_team": "Saint Kitts and Nevis",
-      "points": 4286,
+      "points": 4289,
       "confederation": "CONCACAF",
-      "ranking_change": 0,
-      "points_change": 18
+      "ranking_change": 1,
+      "points_change": 21
+    },
+    {
+      "ranking": 181,
+      "flag": "san_marino.png",
+      "team": "San Marino",
+      "reference_team": "San Marino",
+      "points": 4287,
+      "confederation": "UEFA",
+      "ranking_change": -5,
+      "points_change": -21
     },
     {
       "ranking": 182,
