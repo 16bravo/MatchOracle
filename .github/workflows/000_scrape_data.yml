@@ -20,9 +20,6 @@ jobs:
         
       - name: Remove Chrome
         run: sudo apt purge google-chrome-stable
-
-      - name: Install a new Chrome (test)
-        run: sudo apt install -y google-chrome-stable
         
       - name: Remove default Chromium
         run: sudo apt purge chromium-browser
