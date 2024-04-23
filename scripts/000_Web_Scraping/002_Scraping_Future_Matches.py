@@ -85,11 +85,15 @@ df['home_team'] = df['home_team'].str.replace(r'São Tomé & Príncipe', 'São T
 df['home_team'] = df['home_team'].str.replace(r'Bosnia/Herzeg', 'Bosnia and Herzegovina')
 df['home_team'] = df['home_team'].str.replace(r'Turks and Caicos', 'Turks and Caicos Islands')
 df['home_team'] = df['home_team'].str.replace(r'Central African Rep', 'Central African Republic')
+df['home_team'] = df['home_team'].str.replace(r'St Vincent/Gren', 'St Vincent & Grenadines')
+df['home_team'] = df['home_team'].str.replace(r'Bosnia & Herzegovina', 'Bosnia and Herzegovina')
 
 df['away_team'] = df['away_team'].str.replace(r'São Tomé & Príncipe', 'São Tomé and Príncipe')
 df['away_team'] = df['away_team'].str.replace(r'Bosnia/Herzeg', 'Bosnia and Herzegovina')
 df['away_team'] = df['away_team'].str.replace(r'Turks and Caicos', 'Turks and Caicos Islands')
 df['away_team'] = df['away_team'].str.replace(r'Central African Rep', 'Central African Republic')
+df['away_team'] = df['away_team'].str.replace(r'St Vincent/Gren', 'St Vincent & Grenadines')
+df['away_team'] = df['away_team'].str.replace(r'Bosnia & Herzegovina', 'Bosnia and Herzegovina')
 
 df['country'] = df['country'].str.replace(r'^(in the |in )', '', regex=True)
 df['country'] = df['country'].str.replace(r'UAE', 'United Arab Emirates')
@@ -100,6 +104,9 @@ df['country'] = df['country'].str.replace(r'Turks and Caicos', 'Turks and Caicos
 df['country'] = df['country'].str.replace(r'The Gambia', 'Gambia')
 df['country'] = df['country'].str.replace(r'Central African Rep', 'Central African Republic')
 df['country'] = df['country'].str.replace(r'São Tomé/Príncipe', 'São Tomé and Príncipe')
+df['country'] = df['country'].str.replace(r'Antigua & Barbuda', 'Antigua and Barbuda')
+df['country'] = df['country'].str.replace(r'Trinidad & Tobago', 'Trinidad and Tobago')
+df['country'] = df['country'].str.replace(r'St Vincent/Gren', 'St Vincent & Grenadines')
 
 df['neutral'] = (df['home_team'] != df['country'])
 df['date'] = pd.to_datetime(df['date'], format='%d/%m/%Y')
