@@ -20,8 +20,14 @@ for team in teams:
         LEFT JOIN Teams t1 ON (m.original_team1 = t1.team)
         LEFT JOIN Teams t2 ON (m.original_team2 = t2.team)
         WHERE team1 = ? OR team2 = ?
+        UNION
+        SELECT f.date, f.country, f.tournament, f.team1, f.team2, f.original_team1, f.original_team2, t1.flag as flag1, t2.flag as flag2, "" as score1, "" as score2, f.rating1, f.rating2, 0 as rating_ev, f.rank1, f.rank2, f.expected_result, f.neutral
+        FROM fixtures f
+        LEFT JOIN Teams t1 ON (f.original_team1 = t1.team)
+        LEFT JOIN Teams t2 ON (f.original_team2 = t2.team)
+        WHERE team1 = ? OR team2 = ?
         ORDER BY date DESC
-    ''', (team, team))
+    ''', (team, team, team, team))
 
     matches_data_sql = cursor.fetchall()
 
