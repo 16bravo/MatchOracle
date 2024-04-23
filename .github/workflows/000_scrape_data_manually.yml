@@ -17,6 +17,13 @@ jobs:
           
       - name: Installed package list
         run: apt list --installed
+
+      - name: Download ChromeDriver
+        run: |
+          wget -q "https://chromedriver.storage.googleapis.com/123.0.6312.0/chromedriver_linux64.zip" -O chromedriver.zip
+          unzip chromedriver.zip
+          chmod +x chromedriver
+          mv chromedriver /usr/local/bin/
         
       - name: Remove Chrome
         run: sudo apt purge google-chrome-stable
