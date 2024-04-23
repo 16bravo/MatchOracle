@@ -66,6 +66,14 @@ jobs:
       - name: Run Matches Data Insert script
         if: steps.check-db.outputs.update_ok == 'true'
         run: python scripts/020_DB_Update/026_Insert_Matches.py
+
+      - name: Run Fixtures Expected Results Calculation script
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: python scripts/020_DB_Update/027_Calculate_Fixtures_Expected_Results.py
+
+      - name: Run Fixtures Data Insert script
+        if: steps.check-db.outputs.update_ok == 'true'
+        run: python scripts/020_DB_Update/028_Insert_Fixtures.py
         
       - name: Commit changes
         if: steps.check-db.outputs.update_ok == 'true'
