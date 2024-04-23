@@ -22,8 +22,8 @@ jobs:
         run: |
           wget -q "https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.0/linux64/chromedriver-linux64.zip" -O chromedriver.zip
           unzip chromedriver.zip
-          chmod +x chromedriver
-          mv chromedriver /usr/local/bin/
+          cp chromedriver-linux64/chromedriver /usr/local/bin/
+          chmod +x /usr/local/bin/chromedriver
         
       - name: Remove Chrome
         run: sudo apt purge google-chrome-stable
