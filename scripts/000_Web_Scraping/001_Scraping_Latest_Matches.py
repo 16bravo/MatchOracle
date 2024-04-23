@@ -12,8 +12,8 @@ from webdriver_manager.core.os_manager import ChromeType
 import sys
 
 '''chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())'''
-'''chrome_driver_path = 'drivers/chromedriver'
-chrome_service = Service(chrome_driver_path)'''
+chrome_driver_path = '/usr/local/bin/chromedriver'
+chrome_service = Service(chrome_driver_path)
 
 chrome_options = Options()
 options = [
@@ -28,8 +28,7 @@ options = [
 for option in options:
     chrome_options.add_argument(option)
 
-'''driver = webdriver.Chrome(service=chrome_service, options=chrome_options)'''
-driver = webdriver.Chrome(executable_path="/usr/local/bin/chromedriver")
+driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 
 url = 'https://www.eloratings.net/latest'
 
