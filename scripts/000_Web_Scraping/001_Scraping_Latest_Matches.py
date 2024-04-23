@@ -11,7 +11,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.os_manager import ChromeType
 import sys
 
-'''chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())'''
 chrome_driver_path = '/usr/local/bin/chromedriver'
 chrome_service = Service(chrome_driver_path)
 

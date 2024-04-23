@@ -19,7 +19,8 @@ def convert_date(date_str):
     except ValueError:
         return None
 
-chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+chrome_driver_path = '/usr/local/bin/chromedriver'
+chrome_service = Service(chrome_driver_path)
 
 chrome_options = Options()
 options = [
