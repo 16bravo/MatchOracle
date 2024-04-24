@@ -15,7 +15,7 @@ teams = [row[0] for row in cursor.fetchall()]
 
 for team in teams:
     cursor.execute('''
-        SELECT m.date, m.country, m.tournament, m.team1, m.team2, m.original_team1, m.original_team2, t1.flag as flag1, t2.flag as flag2, m.score1, m.score2, m.rating1, m.rating2, m.rating_ev, m.rank1, m.rank2, m.expected_result, m.neutral, "match" as type
+        SELECT m.date, m.country, m.tournament, m.team1, m.team2, m.original_team1, m.original_team2, t1.flag as flag1, t2.flag as flag2, m.score1, m.score2, m.rating1, m.rating2, m.rating_ev, m.rank1, m.rank2, m.expected_result, m.neutral, "past" as type
         FROM matches m
         LEFT JOIN Teams t1 ON (m.original_team1 = t1.team)
         LEFT JOIN Teams t2 ON (m.original_team2 = t2.team)

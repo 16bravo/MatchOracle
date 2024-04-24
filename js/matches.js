@@ -60,8 +60,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 </div>
             </td>
             <td class="match" style="color:${color};"><b>${match.score1} - ${match.score2}</b></td>
-            <td>${Math.round(match.rating1)} (${match.rating_ev >= 0 ? '+' : ''}${Math.round(match.rating_ev)})</td>
-            <td>${match.rank}</td>
+            <td class="display-${match.type}">${Math.round(match.rating1)} (${match.rating_ev >= 0 ? '+' : ''}${Math.round(match.rating_ev)})</td>
+            <td class="display-${match.type}">${match.rank}</td>
             `;
             teamResultsBody.appendChild(row);
         });

@@ -69,6 +69,10 @@ a {
     font-style: italic;
 }
 
+.display-fixture {
+    color: transparent;
+}
+
 #LineChart {
     max-height: 200px;
     width: auto;
