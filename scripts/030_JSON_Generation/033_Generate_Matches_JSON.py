@@ -15,13 +15,13 @@ teams = [row[0] for row in cursor.fetchall()]
 
 for team in teams:
     cursor.execute('''
-        SELECT m.date, m.country, m.tournament, m.team1, m.team2, m.original_team1, m.original_team2, t1.flag as flag1, t2.flag as flag2, m.score1, m.score2, m.rating1, m.rating2, m.rating_ev, m.rank1, m.rank2, m.expected_result, m.neutral
+        SELECT m.date, m.country, m.tournament, m.team1, m.team2, m.original_team1, m.original_team2, t1.flag as flag1, t2.flag as flag2, m.score1, m.score2, m.rating1, m.rating2, m.rating_ev, m.rank1, m.rank2, m.expected_result, m.neutral, "match" as type
         FROM matches m
         LEFT JOIN Teams t1 ON (m.original_team1 = t1.team)
         LEFT JOIN Teams t2 ON (m.original_team2 = t2.team)
         WHERE team1 = ? OR team2 = ?
         UNION
-        SELECT f.date, f.country, f.tournament, f.team1, f.team2, f.original_team1, f.original_team2, t1.flag as flag1, t2.flag as flag2, "" as score1, "" as score2, f.rating1, f.rating2, 0 as rating_ev, f.rank1, f.rank2, f.expected_result, f.neutral
+        SELECT f.date, f.country, f.tournament, f.team1, f.team2, f.original_team1, f.original_team2, t1.flag as flag1, t2.flag as flag2, "" as score1, "" as score2, f.rating1, f.rating2, 0 as rating_ev, f.rank1, f.rank2, f.expected_result, f.neutral, "fixture" as type
         FROM fixtures f
         LEFT JOIN Teams t1 ON (f.original_team1 = t1.team)
         LEFT JOIN Teams t2 ON (f.original_team2 = t2.team)
@@ -49,8 +49,9 @@ for team in teams:
         'rating2': rating2 if team == team1 else rating1,
         'rating_ev': (1 if team == team1 else -1) * rating_ev,
         'rank' : int(rank1 if team == team1 else rank2) if not pd.isna(rank1 if team == team1 else rank2) else '-',
-        'win_prob': round((1/(1+math.exp(-((1 if team == team1 else -1)*(expected_result+(0.341 if not neutral else 0)))*2.95)))*100,1)
-    } for date, country, tournament, team1, team2, original_team1, original_team2, flag1, flag2, score1, score2, rating1, rating2, rating_ev, rank1, rank2, expected_result, neutral in matches_data_sql]
+        'win_prob': round((1/(1+math.exp(-((1 if team == team1 else -1)*(expected_result+(0.341 if not neutral else 0)))*2.95)))*100,1),
+        'type': type
+    } for date, country, tournament, team1, team2, original_team1, original_team2, flag1, flag2, score1, score2, rating1, rating2, rating_ev, rank1, rank2, expected_result, neutral, type in matches_data_sql]
     }
 
     matches_path = Path(f"data/json/matches/{team}.json")
