@@ -64,6 +64,11 @@ a {
     color: #333;
 }
 
+.fixture {
+    color: #746cb6;
+    font-style: italic;
+}
+
 #LineChart {
     max-height: 200px;
     width: auto;

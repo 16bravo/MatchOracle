@@ -45,6 +45,7 @@ document.addEventListener('DOMContentLoaded', function () {
             color = 'black';
             }
             const row = document.createElement('tr');
+            row.classList.add(match.type);
             row.innerHTML = `
             <td>${match.date}</td>
             <td>${match.country}</td>
