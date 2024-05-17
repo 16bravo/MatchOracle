@@ -18,6 +18,14 @@ teams['endDate'] = pd.to_datetime(teams['endDate'], errors='coerce')
 teams['endDate'] = teams['endDate'].fillna('31/12/2099')
 teams['endDate'] = pd.to_datetime(teams['endDate'], format='%d/%m/%Y')
 
+# Checking if the teams are valid
+home_condition = fixtures['home_team'].isin(teams['reference_team'])
+away_condition = fixtures['away_team'].isin(teams['reference_team'])
+
+valid_fixtures = home_condition & away_condition
+fixtures = fixtures[valid_fixtures]
+
+print(fixtures)
 
 ## POINTS CALCULATION MATCH BY MATCH
 
