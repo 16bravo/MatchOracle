@@ -51,3 +51,16 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create .kaggle directory
+        run: mkdir -p /home/runner/.kaggle
+        
+      - name: Set up Kaggle credentials
+        run: echo "$KAGGLE_JSON" > /home/runner/.kaggle/kaggle.json && chmod 600 /home/runner/.kaggle/kaggle.json
+        env:
+          KAGGLE_JSON: ${{ secrets.KAGGLE_JSON }}
+          
+      - name: Update Kaggle
+        run: |
+          cd data/source/match_dataset
+          kaggle datasets version -p . -m "Updated data"
