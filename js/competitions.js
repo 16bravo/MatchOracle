@@ -1,6 +1,6 @@
 import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
-var JSON_file = 'data/json/competitions/euro2024_roundOf16.json';
+var JSON_file = 'data/json/competitions/euro2024_champion.json';
 
 // Déclarer les dimensions du graphique et les marges.
 const width = 960;
