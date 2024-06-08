@@ -1,0 +1,8 @@
+img, svg {
+    display: block;
+    margin: auto;
+}
+
+.tooltip {
+    opacity: 0.8 !important;
+}
