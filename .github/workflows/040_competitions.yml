@@ -1,8 +1,8 @@
-name: JSON Generation
+name: Calculate Euro 2024
 
 on:
   workflow_run:
-    workflows: ["DB Update","DB Update Daily"]
+    workflows: ["JSON Generation"]
     types:
       - completed
 
@@ -36,7 +36,6 @@ jobs:
         run: |
           echo "Working Directory: $(pwd)"
           echo "Files in Current Directory: $(ls -al)"
-          python scripts/040_Competitions/0400_Euro2024/0400_Calculate_Insert_PreviousDaysData_Euro2024.py
           python scripts/040_Competitions/0400_Euro2024/0401_Calculate_Insert_Euro2024.py
           python scripts/040_Competitions/0400_Euro2024/0402_Generate_JSON_Euro2024.py
 
