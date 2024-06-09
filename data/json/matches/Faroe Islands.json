@@ -2,6 +2,25 @@
   "team": "Faroe Islands",
   "matches": [
     {
+      "date": "2024-06-11",
+      "country": "Latvia",
+      "tournament": "Baltic Cup",
+      "team1": "Faroe Islands",
+      "team2": "Latvia",
+      "original_team1": "Faroe Islands",
+      "original_team2": "Latvia",
+      "flag1": "faroe.png",
+      "flag2": "latvia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4783,
+      "rating2": 4799,
+      "rating_ev": 0,
+      "rank": 126,
+      "win_prob": 37.5,
+      "type": "fixture"
+    },
+    {
       "date": "2024-06-08",
       "country": "Estonia",
       "tournament": "Baltic Cup",
@@ -11,14 +30,14 @@
       "original_team2": "Estonia",
       "flag1": "faroe.png",
       "flag2": "estonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4819,
-      "rating2": 4805,
-      "rating_ev": 0,
-      "rank": 110,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4783,
+      "rating2": 4841,
+      "rating_ev": -36,
+      "rank": 125,
       "win_prob": 40.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-03-26",
