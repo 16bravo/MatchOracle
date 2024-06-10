@@ -3,7 +3,7 @@ name: Deploy static content to Pages
 
 on:
   workflow_run:
-    workflows: ["JSON Generation"]
+    workflows: ["Calculate Euro 2024"]
     types:
       - completed
 
