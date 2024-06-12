@@ -43,10 +43,10 @@ jobs:
         run: |
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USERNAME }}"
-          if git diff --quiet -- data/json/; then
-            echo "No changes in data/json directory. Skipping commit."
+          if git diff --quiet -- data; then
+            echo "No changes in data directory. Skipping commit."
           else
-            git add -A data/json
+            git add -A data
             git commit -m "Update euro2024 data"
             git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             git push

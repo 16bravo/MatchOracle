@@ -9,15 +9,15 @@ from datetime import datetime, timedelta
 # Host country
 host = 'Germany'
 # Nb of iterations
-iterations = 10000
+iterations = 20000
 # Output file name from current date
 '''now = datetime.now()
 formatted_now = now.strftime("%Y%m%d%H%M%S")
 file_name = 'euro2024_sim_result_NEW'+formatted_now+'.xlsx'''
 
 # Dates for loop
-start_date = datetime(2024, 6, 1)
-num_days = 6
+start_date = datetime(2024, 6, 10)
+num_days = 3
 
 # MATCH SIM
 def get_team_level(team):
