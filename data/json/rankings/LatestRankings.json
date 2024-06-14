@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2024-06-11"
+    "2024-06-12"
   ],
   "rankings": [
     {
@@ -46,23 +46,23 @@
     },
     {
       "ranking": 5,
-      "flag": "brazil.png",
-      "team": "Brazil",
-      "reference_team": "Brazil",
-      "points": 5570,
-      "confederation": "CONMEBOL",
-      "ranking_change": 2,
-      "points_change": 12
-    },
-    {
-      "ranking": 6,
       "flag": "england.png",
       "team": "England",
       "reference_team": "England",
       "points": 5567,
       "confederation": "UEFA",
-      "ranking_change": -1,
+      "ranking_change": 0,
       "points_change": -13
+    },
+    {
+      "ranking": 6,
+      "flag": "brazil.png",
+      "team": "Brazil",
+      "reference_team": "Brazil",
+      "points": 5565,
+      "confederation": "CONMEBOL",
+      "ranking_change": 1,
+      "points_change": 7
     },
     {
       "ranking": 7,
@@ -169,30 +169,30 @@
       "flag": "ecuador.png",
       "team": "Ecuador",
       "reference_team": "Ecuador",
-      "points": 5347,
+      "points": 5352,
       "confederation": "CONMEBOL",
       "ranking_change": -2,
-      "points_change": -9
+      "points_change": -4
     },
     {
       "ranking": 18,
+      "flag": "usa.png",
+      "team": "United States",
+      "reference_team": "United States",
+      "points": 5325,
+      "confederation": "CONCACAF",
+      "ranking_change": 0,
+      "points_change": -7
+    },
+    {
+      "ranking": 19,
       "flag": "russia.png",
       "team": "Russia",
       "reference_team": "Russia",
       "points": 5321,
       "confederation": "UEFA",
-      "ranking_change": 9,
+      "ranking_change": 8,
       "points_change": 44
-    },
-    {
-      "ranking": 19,
-      "flag": "usa.png",
-      "team": "United States",
-      "reference_team": "United States",
-      "points": 5320,
-      "confederation": "CONCACAF",
-      "ranking_change": -1,
-      "points_change": -12
     },
     {
       "ranking": 20,
@@ -606,23 +606,23 @@
     },
     {
       "ranking": 61,
-      "flag": "bolivia.png",
-      "team": "Bolivia",
-      "reference_team": "Bolivia",
-      "points": 5059,
-      "confederation": "CONMEBOL",
-      "ranking_change": -1,
-      "points_change": -14
-    },
-    {
-      "ranking": 62,
       "flag": "nigeria.png",
       "team": "Nigeria",
       "reference_team": "Nigeria",
       "points": 5056,
       "confederation": "CAF",
-      "ranking_change": -4,
+      "ranking_change": -3,
       "points_change": -20
+    },
+    {
+      "ranking": 62,
+      "flag": "bolivia.png",
+      "team": "Bolivia",
+      "reference_team": "Bolivia",
+      "points": 5054,
+      "confederation": "CONMEBOL",
+      "ranking_change": -2,
+      "points_change": -19
     },
     {
       "ranking": 63,
