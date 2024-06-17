@@ -39,8 +39,7 @@ jobs:
 
       - name: Install dependencies
         if: steps.check-db.outputs.update_ok == 'true'
-        run:  pip install -r requirements.txt
-              pip install numpy==1.18.5 pandas==1.4.4
+        run: pip install -r requirements.txt
 
       - name: Create .kaggle directory
         if: steps.check-db.outputs.update_ok == 'true'
