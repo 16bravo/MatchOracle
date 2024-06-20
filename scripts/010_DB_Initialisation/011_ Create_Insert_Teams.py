@@ -14,6 +14,7 @@ cursor.execute('''
         reference_team VARCHAR(50),
         tricode VARCHAR(3),
         flag VARCHAR(25),
+        color_hex_code VARCHAR(7),
         confederation VARCHAR(10),
         startDate DATE,
         endDate DATE,
