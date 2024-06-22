@@ -95,26 +95,70 @@ def check_match(phase,team1,team2):
 
 def group_stage(group, team1,team2,team3,team4):
 
-    match1_ecart, match1_result1, match1_result2 = check_match(group, team1, team2)
-    match2_ecart, match2_result1, match2_result2 = check_match(group, team3, team4)
-    match3_ecart, match3_result1, match3_result2 = check_match(group, team1, team3)
-    match4_ecart, match4_result1, match4_result2 = check_match(group, team2, team4)
-    match5_ecart, match5_result1, match5_result2 = check_match(group, team1, team4)
-    match6_ecart, match6_result1, match6_result2 = check_match(group, team2, team3)
+    # matches list
+    matches = [
+        (team1, team2),
+        (team3, team4),
+        (team1, team3),
+        (team2, team4),
+        (team1, team4),
+        (team2, team3)
+    ]
 
-    team1_points = match1_result1 + match3_result1 + match5_result1 + (+match1_ecart + match3_ecart + match5_ecart)/1000 + 1/1000000
-    team2_points = match1_result2 + match4_result1 + match6_result1 + (-match1_ecart + match4_ecart + match6_ecart)/1000 + 2/1000000
-    team3_points = match2_result1 + match3_result2 + match6_result2 + (+match2_ecart - match3_ecart - match6_ecart)/1000 + 3/1000000
-    team4_points = match2_result2 + match4_result2 + match5_result2 + (-match2_ecart - match4_ecart - match5_ecart)/1000 + 4/1000000
+    # list to stock match result
+    match_results = []
 
+    # simulate matches or check if exists
+    for teamA, teamB in matches:
+        ecart, resultA, resultB = check_match(group, teamA, teamB)
+        match_result = {'teamA': teamA, 'teamB': teamB, 'ecart': ecart, 'resultA': resultA, 'resultB': resultB}
+        match_results.append(match_result)
+
+    # dataframe creation from simulated/existing results
+    group_result = pd.DataFrame(match_results)
+
+    # ranking calculation
     teams = [team1, team2, team3, team4]
-    points = [team1_points, team2_points, team3_points, team4_points]
+    ranking_data = []
+    
+    for team in teams:
+        total_result = group_result.loc[group_result['teamA'] == team, 'resultA'].sum() + group_result.loc[group_result['teamB'] == team, 'resultB'].sum()
+        total_ecart = group_result.loc[group_result['teamA'] == team, 'ecart'].sum() - group_result.loc[group_result['teamB'] == team, 'ecart'].sum()
+        ranking_data.append({'team': team, 'total_result': total_result, 'total_ecart': total_ecart})
 
-    group_data = {'team': teams, 'points': points}
+    group_ranking_step1 = pd.DataFrame(ranking_data)
+    group_ranking_step1 = group_ranking_step1.sort_values(by='total_result', ascending=False).reset_index(drop=True)
+    group_ranking_step1['ranking1'] = group_ranking_step1['total_result'].rank(method='min', ascending=False).astype(int)
 
-    ranking = pd.DataFrame(group_data)
-    ranking['rank'] = ranking['points'].rank(ascending=False, method='dense').astype(int)
-    return ranking
+    # sub_dataframes from ranking
+    ranking_groups = group_ranking_step1.groupby('ranking1')
+
+    sub_dfs = []
+    for rank, group in ranking_groups:
+        teams_in_rank = group['team'].tolist()
+        filtered_results = group_result[(group_result['teamA'].isin(teams_in_rank)) & (group_result['teamB'].isin(teams_in_rank))]
+        
+        sub_ranking_data = []
+        for team in teams_in_rank:
+            total_result_step2 = filtered_results.loc[filtered_results['teamA'] == team, 'resultA'].sum() + filtered_results.loc[filtered_results['teamB'] == team, 'resultB'].sum()
+            total_ecart_step2 = filtered_results.loc[filtered_results['teamA'] == team, 'ecart'].sum() - filtered_results.loc[filtered_results['teamB'] == team, 'ecart'].sum()
+            sub_ranking_data.append({'team': team, 'total_result_2': total_result_step2, 'total_ecart_2': total_ecart_step2})
+        
+        sub_df = pd.DataFrame(sub_ranking_data)
+        sub_dfs.append(sub_df)
+
+    concatenated_sub_dfs = pd.concat(sub_dfs).reset_index(drop=True)
+
+    group_ranking_step2 = group_ranking_step1.merge(concatenated_sub_dfs, on='team', how='left')
+
+    group_ranking_step2 = group_ranking_step2.sort_values(
+        by=['total_result', 'total_result_2', 'total_ecart_2', 'total_ecart'],
+        ascending=[False, False, False, False]
+    ).reset_index(drop=True)
+
+    group_ranking_step2['rank'] = group_ranking_step2.index + 1
+
+    return group_ranking_step2
 
 # KNOCKOUTS
 
@@ -123,82 +167,87 @@ def ko_teams_euro24():
     # BEST THIRDS RANKING
     thirds_ranking = pd.concat([groupA[groupA['rank']==3], groupB[groupB['rank']==3], groupC[groupC['rank']==3], groupD[groupD['rank']==3], groupE[groupE['rank']==3], groupF[groupF['rank']==3]])
     thirds_ranking = thirds_ranking.assign(group=['A','B','C','D','E','F'])
-    thirds_ranking['rank'] = thirds_ranking['points'].rank(ascending=False, method='dense').astype(int)
-    #print(thirds_ranking)
+    thirds_ranking = thirds_ranking.sort_values(
+        by=['total_result', 'total_ecart'],
+        ascending=[False, False]
+    ).reset_index(drop=True)
+    thirds_ranking['rank'] = thirds_ranking.index + 1
     eliminated = tuple(thirds_ranking[thirds_ranking['rank']>4]['group'])
+    eliminated = set(eliminated)
+
 
     #SCENARIOS
-    if eliminated == ('E','F'):
+    if eliminated == {'E','F'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="A"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="D"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="B"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="C"]['team'].to_string(index=False)
-    elif eliminated == ('D','F'):
+    elif eliminated == {'D','F'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="A"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="E"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="B"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="C"]['team'].to_string(index=False)
-    elif eliminated == ('D','E'):
+    elif eliminated == {'D','E'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="A"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="F"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="B"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="C"]['team'].to_string(index=False)
-    elif eliminated == ('C','F'):
+    elif eliminated == {'C','F'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="D"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="E"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="A"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="B"]['team'].to_string(index=False)
-    elif eliminated == ('C','E'):
+    elif eliminated == {'C','E'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="D"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="F"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="A"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="B"]['team'].to_string(index=False)
-    elif eliminated == ('C','D'):
+    elif eliminated == {'C','D'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="E"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="F"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="B"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="A"]['team'].to_string(index=False)
-    elif eliminated == ('B','F'):
+    elif eliminated == {'B','F'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="E"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="D"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="C"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="A"]['team'].to_string(index=False)
-    elif eliminated == ('B','E'):
+    elif eliminated == {'B','E'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="F"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="D"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="C"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="A"]['team'].to_string(index=False)
-    elif eliminated == ('B','D'):
+    elif eliminated == {'B','D'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="E"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="F"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="C"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="A"]['team'].to_string(index=False)
-    elif eliminated == ('B','C'):
+    elif eliminated == {'B','C'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="E"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="F"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="D"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="A"]['team'].to_string(index=False)
-    elif eliminated == ('A','F'):
+    elif eliminated == {'A','F'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="E"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="D"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="B"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="C"]['team'].to_string(index=False)
-    elif eliminated == ('A','E'):
+    elif eliminated == {'A','E'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="F"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="D"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="C"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="B"]['team'].to_string(index=False)
-    elif eliminated == ('A','D'):
+    elif eliminated == {'A','D'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="F"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="E"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="C"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="B"]['team'].to_string(index=False)
-    elif eliminated == ('A','C'):
+    elif eliminated == {'A','C'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="F"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="E"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="D"]['team'].to_string(index=False)
         f_opp = thirds_ranking[thirds_ranking['group']=="B"]['team'].to_string(index=False)
-    elif eliminated == ('A','B'):
+    elif eliminated == {'A','B'}:
         b_opp = thirds_ranking[thirds_ranking['group']=="F"]['team'].to_string(index=False)
         c_opp = thirds_ranking[thirds_ranking['group']=="E"]['team'].to_string(index=False)
         e_opp = thirds_ranking[thirds_ranking['group']=="D"]['team'].to_string(index=False)
