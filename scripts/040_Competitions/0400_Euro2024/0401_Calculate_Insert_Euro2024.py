@@ -65,7 +65,7 @@ def match(team1_level,team2_level,type):
 
     result1, result2 = get_result(ecart,ecart_lvl)
 
-    return ecart, result1, result2
+    return ecart, result1, result2, max(ecart,0), max(-ecart,0) # for goals (see if necessary to develop this)
 
 def check_match(phase,team1,team2):
     all_match_data = (matches[
@@ -89,7 +89,7 @@ def check_match(phase,team1,team2):
         team2_score = match_data['away_score'] if match_data['home_team'] == team1 else match_data['home_score']
         ecart = (team1_score - team2_score)*130
         result = (get_result(ecart,130))
-        return (ecart, result[0], result[1])
+        return (ecart, result[0], result[1], team1_score, team2_score)
 
 # GROUP STAGE SIM
 
@@ -110,8 +110,8 @@ def group_stage(group, team1,team2,team3,team4):
 
     # simulate matches or check if exists
     for teamA, teamB in matches:
-        ecart, resultA, resultB = check_match(group, teamA, teamB)
-        match_result = {'teamA': teamA, 'teamB': teamB, 'ecart': ecart, 'resultA': resultA, 'resultB': resultB}
+        ecart, resultA, resultB, scoreA, scoreB = check_match(group, teamA, teamB)
+        match_result = {'teamA': teamA, 'teamB': teamB, 'ecart': ecart, 'resultA': resultA, 'resultB': resultB, 'scoreA': scoreA, 'scoreB': scoreB}
         match_results.append(match_result)
 
     # dataframe creation from simulated/existing results
@@ -124,7 +124,8 @@ def group_stage(group, team1,team2,team3,team4):
     for team in teams:
         total_result = group_result.loc[group_result['teamA'] == team, 'resultA'].sum() + group_result.loc[group_result['teamB'] == team, 'resultB'].sum()
         total_ecart = group_result.loc[group_result['teamA'] == team, 'ecart'].sum() - group_result.loc[group_result['teamB'] == team, 'ecart'].sum()
-        ranking_data.append({'team': team, 'total_result': total_result, 'total_ecart': total_ecart})
+        total_goal = group_result.loc[group_result['teamA'] == team, 'scoreA'].sum() + group_result.loc[group_result['teamB'] == team, 'scoreB'].sum()
+        ranking_data.append({'team': team, 'total_result': total_result, 'total_ecart': total_ecart, 'total_goal': total_goal})
 
     group_ranking_step1 = pd.DataFrame(ranking_data)
     group_ranking_step1 = group_ranking_step1.sort_values(by='total_result', ascending=False).reset_index(drop=True)
@@ -142,7 +143,8 @@ def group_stage(group, team1,team2,team3,team4):
         for team in teams_in_rank:
             total_result_step2 = filtered_results.loc[filtered_results['teamA'] == team, 'resultA'].sum() + filtered_results.loc[filtered_results['teamB'] == team, 'resultB'].sum()
             total_ecart_step2 = filtered_results.loc[filtered_results['teamA'] == team, 'ecart'].sum() - filtered_results.loc[filtered_results['teamB'] == team, 'ecart'].sum()
-            sub_ranking_data.append({'team': team, 'total_result_2': total_result_step2, 'total_ecart_2': total_ecart_step2})
+            total_goal_step2 = filtered_results.loc[filtered_results['teamA'] == team, 'scoreA'].sum() + filtered_results.loc[filtered_results['teamB'] == team, 'scoreB'].sum()
+            sub_ranking_data.append({'team': team, 'total_result_2': total_result_step2, 'total_ecart_2': total_ecart_step2, 'total_goal_2': total_goal_step2})
         
         sub_df = pd.DataFrame(sub_ranking_data)
         sub_dfs.append(sub_df)
@@ -152,8 +154,8 @@ def group_stage(group, team1,team2,team3,team4):
     group_ranking_step2 = group_ranking_step1.merge(concatenated_sub_dfs, on='team', how='left')
 
     group_ranking_step2 = group_ranking_step2.sort_values(
-        by=['total_result', 'total_result_2', 'total_ecart_2', 'total_ecart'],
-        ascending=[False, False, False, False]
+        by=['total_result', 'total_result_2', 'total_ecart_2', 'total_goal_2', 'total_ecart', 'total_goal'],
+        ascending=[False, False, False, False, False, False]
     ).reset_index(drop=True)
 
     group_ranking_step2['rank'] = group_ranking_step2.index + 1
@@ -308,7 +310,7 @@ for i in tqdm(range(iterations), desc="Processing", unit="iteration"):
     # GROUP STAGE
     groupA = group_stage('Group A', 'Germany','Scotland','Hungary','Switzerland')
     groupB = group_stage('Group B','Spain','Croatia','Italy','Albania')
-    groupC = group_stage('Group C','Slovenia','Denmark','Serbia','England')
+    groupC = group_stage('Group C','Denmark','Slovenia','Serbia','England')
     groupD = group_stage('Group D','Poland','Netherlands','Austria','France')
     groupE = group_stage('Group E','Belgium','Slovakia','Romania','Ukraine')
     groupF = group_stage('Group F','Turkey','Georgia','Portugal','Czechia')
@@ -324,7 +326,6 @@ calculated_result = result_counts.pivot_table(index='value', columns='Level', va
 #calculated_result.columns = ['KO', 'QF', 'SF', 'F', 'Champion']
 calculated_result.reset_index(inplace=True)
 print(calculated_result)
-
 
 # Insert matches data into SQLite table
 cursor = connection.cursor()
