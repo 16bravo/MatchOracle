@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2024-06-25"
+    "2024-06-26"
   ],
   "rankings": [
     {
@@ -19,20 +19,20 @@
       "flag": "argentina.png",
       "team": "Argentina",
       "reference_team": "Argentina",
-      "points": 5617,
+      "points": 5609,
       "confederation": "CONMEBOL",
       "ranking_change": 2,
-      "points_change": -2
+      "points_change": -10
     },
     {
-      "ranking": 2,
+      "ranking": 3,
       "flag": "portugal.png",
       "team": "Portugal",
       "reference_team": "Portugal",
-      "points": 5617,
+      "points": 5562,
       "confederation": "UEFA",
-      "ranking_change": -1,
-      "points_change": -13
+      "ranking_change": -2,
+      "points_change": -68
     },
     {
       "ranking": 4,
@@ -56,23 +56,23 @@
     },
     {
       "ranking": 6,
-      "flag": "belgium.png",
-      "team": "Belgium",
-      "reference_team": "Belgium",
-      "points": 5534,
-      "confederation": "UEFA",
-      "ranking_change": 0,
-      "points_change": -32
-    },
-    {
-      "ranking": 7,
       "flag": "england.png",
       "team": "England",
       "reference_team": "England",
       "points": 5532,
       "confederation": "UEFA",
-      "ranking_change": -2,
+      "ranking_change": -1,
       "points_change": -48
+    },
+    {
+      "ranking": 7,
+      "flag": "belgium.png",
+      "team": "Belgium",
+      "reference_team": "Belgium",
+      "points": 5521,
+      "confederation": "UEFA",
+      "ranking_change": -1,
+      "points_change": -45
     },
     {
       "ranking": 8,
@@ -166,53 +166,53 @@
     },
     {
       "ranking": 17,
+      "flag": "ecuador.png",
+      "team": "Ecuador",
+      "reference_team": "Ecuador",
+      "points": 5339,
+      "confederation": "CONMEBOL",
+      "ranking_change": -2,
+      "points_change": -17
+    },
+    {
+      "ranking": 18,
       "flag": "usa.png",
       "team": "United States",
       "reference_team": "United States",
       "points": 5330,
       "confederation": "CONCACAF",
-      "ranking_change": 1,
+      "ranking_change": 0,
       "points_change": -2
     },
     {
-      "ranking": 18,
-      "flag": "ecuador.png",
-      "team": "Ecuador",
-      "reference_team": "Ecuador",
+      "ranking": 19,
+      "flag": "ukraine.png",
+      "team": "Ukraine",
+      "reference_team": "Ukraine",
       "points": 5329,
-      "confederation": "CONMEBOL",
-      "ranking_change": -3,
-      "points_change": -27
+      "confederation": "UEFA",
+      "ranking_change": -2,
+      "points_change": -14
     },
     {
-      "ranking": 19,
+      "ranking": 20,
       "flag": "denmark.png",
       "team": "Denmark",
       "reference_team": "Denmark",
       "points": 5325,
       "confederation": "UEFA",
-      "ranking_change": 3,
+      "ranking_change": 2,
       "points_change": 14
     },
     {
-      "ranking": 20,
+      "ranking": 21,
       "flag": "russia.png",
       "team": "Russia",
       "reference_team": "Russia",
       "points": 5321,
       "confederation": "UEFA",
-      "ranking_change": 7,
+      "ranking_change": 6,
       "points_change": 44
-    },
-    {
-      "ranking": 21,
-      "flag": "ukraine.png",
-      "team": "Ukraine",
-      "reference_team": "Ukraine",
-      "points": 5316,
-      "confederation": "UEFA",
-      "ranking_change": -4,
-      "points_change": -27
     },
     {
       "ranking": 22,
@@ -246,83 +246,93 @@
     },
     {
       "ranking": 25,
-      "flag": "czechia.png",
-      "team": "Czechia",
-      "reference_team": "Czechia",
-      "points": 5284,
-      "confederation": "UEFA",
-      "ranking_change": 7,
-      "points_change": 19
-    },
-    {
-      "ranking": 26,
       "flag": "mexico.png",
       "team": "Mexico",
       "reference_team": "Mexico",
       "points": 5281,
       "confederation": "CONCACAF",
-      "ranking_change": 7,
+      "ranking_change": 8,
       "points_change": 18
     },
     {
-      "ranking": 27,
+      "ranking": 26,
       "flag": "norway.png",
       "team": "Norway",
       "reference_team": "Norway",
       "points": 5280,
       "confederation": "UEFA",
-      "ranking_change": -2,
+      "ranking_change": -1,
       "points_change": -18
     },
     {
-      "ranking": 28,
+      "ranking": 27,
       "flag": "venezuela.png",
       "team": "Venezuela",
       "reference_team": "Venezuela",
       "points": 5278,
       "confederation": "CONMEBOL",
-      "ranking_change": 2,
+      "ranking_change": 3,
       "points_change": 6
     },
     {
-      "ranking": 29,
+      "ranking": 28,
       "flag": "australia.png",
       "team": "Australia",
       "reference_team": "Australia",
       "points": 5272,
       "confederation": "AFC",
-      "ranking_change": 2,
+      "ranking_change": 3,
       "points_change": 1
     },
     {
-      "ranking": 30,
+      "ranking": 29,
       "flag": "morocco.png",
       "team": "Morocco",
       "reference_team": "Morocco",
       "points": 5271,
       "confederation": "CAF",
-      "ranking_change": -10,
+      "ranking_change": -9,
       "points_change": -44
     },
     {
+      "ranking": 30,
+      "flag": "czechia.png",
+      "team": "Czechia",
+      "reference_team": "Czechia",
+      "points": 5268,
+      "confederation": "UEFA",
+      "ranking_change": 2,
+      "points_change": 3
+    },
+    {
       "ranking": 31,
+      "flag": "turkey.png",
+      "team": "Turkey",
+      "reference_team": "Turkey",
+      "points": 5267,
+      "confederation": "UEFA",
+      "ranking_change": -2,
+      "points_change": -8
+    },
+    {
+      "ranking": 32,
       "flag": "poland.png",
       "team": "Poland",
       "reference_team": "Poland",
       "points": 5254,
       "confederation": "UEFA",
-      "ranking_change": 10,
+      "ranking_change": 9,
       "points_change": 52
     },
     {
-      "ranking": 32,
-      "flag": "turkey.png",
-      "team": "Turkey",
-      "reference_team": "Turkey",
-      "points": 5251,
-      "confederation": "UEFA",
-      "ranking_change": -3,
-      "points_change": -24
+      "ranking": 33,
+      "flag": "chile.png",
+      "team": "Chile",
+      "reference_team": "Chile",
+      "points": 5244,
+      "confederation": "CONMEBOL",
+      "ranking_change": 11,
+      "points_change": 50
     },
     {
       "ranking": 33,
@@ -333,16 +343,6 @@
       "confederation": "UEFA",
       "ranking_change": 9,
       "points_change": 44
-    },
-    {
-      "ranking": 34,
-      "flag": "chile.png",
-      "team": "Chile",
-      "reference_team": "Chile",
-      "points": 5236,
-      "confederation": "CONMEBOL",
-      "ranking_change": 10,
-      "points_change": 42
     },
     {
       "ranking": 35,
@@ -406,6 +406,16 @@
     },
     {
       "ranking": 41,
+      "flag": "georgia.png",
+      "team": "Georgia",
+      "reference_team": "Georgia",
+      "points": 5209,
+      "confederation": "UEFA",
+      "ranking_change": 12,
+      "points_change": 68
+    },
+    {
+      "ranking": 41,
       "flag": "south_korea.png",
       "team": "South Korea",
       "reference_team": "South Korea",
@@ -415,64 +425,54 @@
       "points_change": -68
     },
     {
-      "ranking": 42,
+      "ranking": 43,
       "flag": "slovakia.png",
       "team": "Slovakia",
       "reference_team": "Slovakia",
       "points": 5208,
       "confederation": "UEFA",
-      "ranking_change": 7,
+      "ranking_change": 6,
       "points_change": 51
     },
     {
-      "ranking": 43,
+      "ranking": 44,
       "flag": "paraguay.png",
       "team": "Paraguay",
       "reference_team": "Paraguay",
       "points": 5202,
       "confederation": "CONMEBOL",
-      "ranking_change": -4,
+      "ranking_change": -5,
       "points_change": -3
     },
     {
-      "ranking": 44,
+      "ranking": 45,
       "flag": "senegal.png",
       "team": "Senegal",
       "reference_team": "Senegal",
       "points": 5192,
       "confederation": "CAF",
-      "ranking_change": 6,
+      "ranking_change": 5,
       "points_change": 37
     },
     {
-      "ranking": 45,
+      "ranking": 46,
       "flag": "wales.png",
       "team": "Wales",
       "reference_team": "Wales",
       "points": 5182,
       "confederation": "UEFA",
-      "ranking_change": -5,
+      "ranking_change": -6,
       "points_change": -22
     },
     {
-      "ranking": 46,
+      "ranking": 47,
       "flag": "ireland.png",
       "team": "Ireland",
       "reference_team": "Ireland",
       "points": 5171,
       "confederation": "UEFA",
-      "ranking_change": 2,
+      "ranking_change": 1,
       "points_change": 7
-    },
-    {
-      "ranking": 47,
-      "flag": "georgia.png",
-      "team": "Georgia",
-      "reference_team": "Georgia",
-      "points": 5154,
-      "confederation": "UEFA",
-      "ranking_change": 6,
-      "points_change": 13
     },
     {
       "ranking": 48,
@@ -689,40 +689,40 @@
       "flag": "jamaica.png",
       "team": "Jamaica",
       "reference_team": "Jamaica",
-      "points": 5027,
+      "points": 5017,
       "confederation": "CONCACAF",
       "ranking_change": -8,
-      "points_change": -41
+      "points_change": -51
     },
     {
       "ranking": 70,
-      "flag": "south_africa.png",
-      "team": "South Africa",
-      "reference_team": "South Africa",
-      "points": 5024,
-      "confederation": "CAF",
-      "ranking_change": 20,
-      "points_change": 107
-    },
-    {
-      "ranking": 71,
       "flag": "northern_ireland.png",
       "team": "Northern Ireland",
       "reference_team": "Northern Ireland",
       "points": 5015,
       "confederation": "UEFA",
-      "ranking_change": 2,
+      "ranking_change": 3,
       "points_change": 25
     },
     {
-      "ranking": 72,
+      "ranking": 71,
       "flag": "bulgaria.png",
       "team": "Bulgaria",
       "reference_team": "Bulgaria",
       "points": 5012,
       "confederation": "UEFA",
-      "ranking_change": 3,
+      "ranking_change": 4,
       "points_change": 25
+    },
+    {
+      "ranking": 72,
+      "flag": "south_africa.png",
+      "team": "South Africa",
+      "reference_team": "South Africa",
+      "points": 5007,
+      "confederation": "CAF",
+      "ranking_change": 18,
+      "points_change": 90
     },
     {
       "ranking": 73,
@@ -1036,6 +1036,16 @@
     },
     {
       "ranking": 104,
+      "flag": "mozambique.png",
+      "team": "Mozambique",
+      "reference_team": "Mozambique",
+      "points": 4844,
+      "confederation": "CAF",
+      "ranking_change": 12,
+      "points_change": 33
+    },
+    {
+      "ranking": 104,
       "flag": "sudan.png",
       "team": "Sudan",
       "reference_team": "Sudan",
@@ -1045,74 +1055,64 @@
       "points_change": 70
     },
     {
-      "ranking": 105,
+      "ranking": 106,
       "flag": "namibia.png",
       "team": "Namibia",
       "reference_team": "Namibia",
       "points": 4839,
       "confederation": "CAF",
-      "ranking_change": -9,
+      "ranking_change": -10,
       "points_change": -22
     },
     {
-      "ranking": 106,
+      "ranking": 107,
       "flag": "moldova.png",
       "team": "Moldova",
       "reference_team": "Moldova",
       "points": 4834,
       "confederation": "UEFA",
-      "ranking_change": -4,
+      "ranking_change": -5,
       "points_change": -9
     },
     {
-      "ranking": 107,
+      "ranking": 108,
       "flag": "bahrain.png",
       "team": "Bahrain",
       "reference_team": "Bahrain",
       "points": 4833,
       "confederation": "AFC",
-      "ranking_change": -1,
+      "ranking_change": -2,
       "points_change": -2
     },
     {
-      "ranking": 108,
+      "ranking": 109,
       "flag": "lithuania.png",
       "team": "Lithuania",
       "reference_team": "Lithuania",
       "points": 4832,
       "confederation": "UEFA",
-      "ranking_change": -1,
+      "ranking_change": -2,
       "points_change": -2
     },
     {
-      "ranking": 109,
+      "ranking": 110,
       "flag": "gambia.png",
       "team": "Gambia",
       "reference_team": "Gambia",
       "points": 4831,
       "confederation": "CAF",
-      "ranking_change": -10,
+      "ranking_change": -11,
       "points_change": -19
     },
     {
-      "ranking": 110,
+      "ranking": 111,
       "flag": "china.png",
       "team": "China",
       "reference_team": "China",
       "points": 4828,
       "confederation": "AFC",
-      "ranking_change": -15,
+      "ranking_change": -16,
       "points_change": -40
-    },
-    {
-      "ranking": 111,
-      "flag": "mozambique.png",
-      "team": "Mozambique",
-      "reference_team": "Mozambique",
-      "points": 4827,
-      "confederation": "CAF",
-      "ranking_change": 5,
-      "points_change": 16
     },
     {
       "ranking": 112,
@@ -1159,10 +1159,10 @@
       "flag": "botswana.png",
       "team": "Botswana",
       "reference_team": "Botswana",
-      "points": 4812,
+      "points": 4807,
       "confederation": "CAF",
       "ranking_change": -3,
-      "points_change": -10
+      "points_change": -15
     },
     {
       "ranking": 117,
@@ -1399,10 +1399,10 @@
       "flag": "eswatini.png",
       "team": "Eswatini",
       "reference_team": "Eswatini",
-      "points": 4727,
+      "points": 4732,
       "confederation": "CAF",
       "ranking_change": -7,
-      "points_change": -27
+      "points_change": -22
     },
     {
       "ranking": 141,
