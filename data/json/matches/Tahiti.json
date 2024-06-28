@@ -2,6 +2,25 @@
   "team": "Tahiti",
   "matches": [
     {
+      "date": "2024-06-30",
+      "country": "Vanuatu",
+      "tournament": "Oceania Nations Cup",
+      "team1": "Tahiti",
+      "team2": "Fiji",
+      "original_team1": "Tahiti",
+      "original_team2": "Fiji",
+      "flag1": "tahiti.png",
+      "flag2": "fiji.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4195,
+      "rating2": 4399,
+      "rating_ev": 0,
+      "rank": 185,
+      "win_prob": 29.0,
+      "type": "fixture"
+    },
+    {
       "date": "2024-06-27",
       "country": "Vanuatu",
       "tournament": "Oceania Nations Cup",
@@ -11,14 +30,14 @@
       "original_team2": "New Zealand",
       "flag1": "tahiti.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4217,
-      "rating2": 4978,
-      "rating_ev": 0,
-      "rank": 184,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 4195,
+      "rating2": 5000,
+      "rating_ev": -22,
+      "rank": 185,
       "win_prob": 4.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-06-22",

@@ -2,6 +2,25 @@
   "team": "Vanuatu",
   "matches": [
     {
+      "date": "2024-06-30",
+      "country": "Vanuatu",
+      "tournament": "Oceania Nations Cup",
+      "team1": "Vanuatu",
+      "team2": "New Zealand",
+      "original_team1": "Vanuatu",
+      "original_team2": "New Zealand",
+      "flag1": "vanuatu.png",
+      "flag2": "new_zealand.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4165,
+      "rating2": 5000,
+      "rating_ev": 0,
+      "rank": 189,
+      "win_prob": 4.9,
+      "type": "fixture"
+    },
+    {
       "date": "2024-06-27",
       "country": "Vanuatu",
       "tournament": "Oceania Nations Cup",
@@ -11,14 +30,14 @@
       "original_team2": "Fiji",
       "flag1": "vanuatu.png",
       "flag2": "fiji.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4140,
-      "rating2": 4424,
-      "rating_ev": 0,
-      "rank": 192,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4165,
+      "rating2": 4399,
+      "rating_ev": 25,
+      "rank": 189,
       "win_prob": 31.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-06-21",
