@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2024-07-02"
+    "2024-07-03"
   ],
   "rankings": [
     {
@@ -39,10 +39,10 @@
       "flag": "brazil.png",
       "team": "Brazil",
       "reference_team": "Brazil",
-      "points": 5556,
+      "points": 5553,
       "confederation": "CONMEBOL",
       "ranking_change": 3,
-      "points_change": -2
+      "points_change": -5
     },
     {
       "ranking": 5,
@@ -96,23 +96,23 @@
     },
     {
       "ranking": 10,
+      "flag": "colombia.png",
+      "team": "Colombia",
+      "reference_team": "Colombia",
+      "points": 5510,
+      "confederation": "CONMEBOL",
+      "ranking_change": 2,
+      "points_change": 62
+    },
+    {
+      "ranking": 11,
       "flag": "belgium.png",
       "team": "Belgium",
       "reference_team": "Belgium",
       "points": 5509,
       "confederation": "UEFA",
-      "ranking_change": -4,
+      "ranking_change": -5,
       "points_change": -57
-    },
-    {
-      "ranking": 11,
-      "flag": "colombia.png",
-      "team": "Colombia",
-      "reference_team": "Colombia",
-      "points": 5507,
-      "confederation": "CONMEBOL",
-      "ranking_change": 1,
-      "points_change": 59
     },
     {
       "ranking": 12,
@@ -456,23 +456,23 @@
     },
     {
       "ranking": 46,
-      "flag": "paraguay.png",
-      "team": "Paraguay",
-      "reference_team": "Paraguay",
-      "points": 5181,
-      "confederation": "CONMEBOL",
-      "ranking_change": -7,
-      "points_change": -24
-    },
-    {
-      "ranking": 47,
       "flag": "ireland.png",
       "team": "Ireland",
       "reference_team": "Ireland",
       "points": 5171,
       "confederation": "UEFA",
-      "ranking_change": 1,
+      "ranking_change": 2,
       "points_change": 7
+    },
+    {
+      "ranking": 47,
+      "flag": "paraguay.png",
+      "team": "Paraguay",
+      "reference_team": "Paraguay",
+      "points": 5160,
+      "confederation": "CONMEBOL",
+      "ranking_change": -8,
+      "points_change": -45
     },
     {
       "ranking": 48,
@@ -576,42 +576,42 @@
     },
     {
       "ranking": 58,
+      "flag": "costa_rica.png",
+      "team": "Costa Rica",
+      "reference_team": "Costa Rica",
+      "points": 5084,
+      "confederation": "CONCACAF",
+      "ranking_change": 13,
+      "points_change": 89
+    },
+    {
+      "ranking": 59,
       "flag": "cameroon.png",
       "team": "Cameroon",
       "reference_team": "Cameroon",
       "points": 5071,
       "confederation": "CAF",
-      "ranking_change": -1,
+      "ranking_change": -2,
       "points_change": -35
     },
     {
-      "ranking": 59,
+      "ranking": 60,
       "flag": "iraq.png",
       "team": "Iraq",
       "reference_team": "Iraq",
       "points": 5065,
       "confederation": "AFC",
-      "ranking_change": 7,
+      "ranking_change": 6,
       "points_change": 34
     },
     {
-      "ranking": 60,
-      "flag": "costa_rica.png",
-      "team": "Costa Rica",
-      "reference_team": "Costa Rica",
-      "points": 5063,
-      "confederation": "CONCACAF",
-      "ranking_change": 11,
-      "points_change": 68
-    },
-    {
-      "ranking": 60,
+      "ranking": 61,
       "flag": "jordan.png",
       "team": "Jordan",
       "reference_team": "Jordan",
       "points": 5063,
       "confederation": "AFC",
-      "ranking_change": 28,
+      "ranking_change": 27,
       "points_change": 136
     },
     {
@@ -836,6 +836,16 @@
     },
     {
       "ranking": 84,
+      "flag": "angola.png",
+      "team": "Angola",
+      "reference_team": "Angola",
+      "points": 4943,
+      "confederation": "CAF",
+      "ranking_change": 15,
+      "points_change": 93
+    },
+    {
+      "ranking": 84,
       "flag": "armenia.png",
       "team": "Armenia",
       "reference_team": "Armenia",
@@ -845,34 +855,24 @@
       "points_change": 8
     },
     {
-      "ranking": 85,
+      "ranking": 86,
       "flag": "belarus.png",
       "team": "Belarus",
       "reference_team": "Belarus",
       "points": 4933,
       "confederation": "UEFA",
-      "ranking_change": -7,
+      "ranking_change": -8,
       "points_change": -40
     },
     {
-      "ranking": 86,
+      "ranking": 87,
       "flag": "luxembourg.png",
       "team": "Luxembourg",
       "reference_team": "Luxembourg",
       "points": 4932,
       "confederation": "UEFA",
-      "ranking_change": -1,
+      "ranking_change": -2,
       "points_change": -5
-    },
-    {
-      "ranking": 87,
-      "flag": "angola.png",
-      "team": "Angola",
-      "reference_team": "Angola",
-      "points": 4928,
-      "confederation": "CAF",
-      "ranking_change": 12,
-      "points_change": 78
     },
     {
       "ranking": 88,
@@ -996,72 +996,72 @@
     },
     {
       "ranking": 100,
-      "flag": "namibia.png",
-      "team": "Namibia",
-      "reference_team": "Namibia",
-      "points": 4852,
-      "confederation": "CAF",
-      "ranking_change": -4,
-      "points_change": -9
-    },
-    {
-      "ranking": 101,
       "flag": "togo.png",
       "team": "Togo",
       "reference_team": "Togo",
       "points": 4849,
       "confederation": "CAF",
-      "ranking_change": -7,
+      "ranking_change": -6,
       "points_change": -29
     },
     {
-      "ranking": 102,
+      "ranking": 101,
       "flag": "zambia.png",
       "team": "Zambia",
       "reference_team": "Zambia",
       "points": 4848,
       "confederation": "CAF",
-      "ranking_change": -18,
+      "ranking_change": -17,
       "points_change": -90
     },
     {
-      "ranking": 103,
+      "ranking": 102,
       "flag": "cta.png",
       "team": "Central African Republic",
       "reference_team": "Central African Republic",
       "points": 4846,
       "confederation": "CAF",
-      "ranking_change": 14,
+      "ranking_change": 15,
       "points_change": 37
     },
     {
-      "ranking": 103,
+      "ranking": 102,
       "flag": "estonia.png",
       "team": "Estonia",
       "reference_team": "Estonia",
       "points": 4846,
       "confederation": "UEFA",
-      "ranking_change": 7,
+      "ranking_change": 8,
       "points_change": 15
     },
     {
-      "ranking": 103,
+      "ranking": 102,
       "flag": "trinidad.png",
       "team": "Trinidad and Tobago",
       "reference_team": "Trinidad and Tobago",
       "points": 4846,
       "confederation": "CONCACAF",
-      "ranking_change": 22,
+      "ranking_change": 23,
       "points_change": 59
     },
     {
-      "ranking": 106,
+      "ranking": 105,
+      "flag": "namibia.png",
+      "team": "Namibia",
+      "reference_team": "Namibia",
+      "points": 4844,
+      "confederation": "CAF",
+      "ranking_change": -9,
+      "points_change": -17
+    },
+    {
+      "ranking": 105,
       "flag": "sudan.png",
       "team": "Sudan",
       "reference_team": "Sudan",
       "points": 4844,
       "confederation": "CAF",
-      "ranking_change": 24,
+      "ranking_change": 25,
       "points_change": 70
     },
     {
@@ -1406,43 +1406,43 @@
     },
     {
       "ranking": 141,
-      "flag": "lesotho.png",
-      "team": "Lesotho",
-      "reference_team": "Lesotho",
-      "points": 4712,
-      "confederation": "CAF",
-      "ranking_change": 2,
-      "points_change": -6
-    },
-    {
-      "ranking": 142,
       "flag": "kuwait.png",
       "team": "Kuwait",
       "reference_team": "Kuwait",
       "points": 4710,
       "confederation": "AFC",
-      "ranking_change": -11,
+      "ranking_change": -10,
       "points_change": -59
     },
     {
-      "ranking": 142,
+      "ranking": 141,
       "flag": "liberia.png",
       "team": "Liberia",
       "reference_team": "Liberia",
       "points": 4710,
       "confederation": "CAF",
-      "ranking_change": -3,
+      "ranking_change": -2,
       "points_change": -28
     },
     {
-      "ranking": 144,
+      "ranking": 143,
       "flag": "indonesia.png",
       "team": "Indonesia",
       "reference_team": "Indonesia",
       "points": 4699,
       "confederation": "AFC",
-      "ranking_change": 4,
+      "ranking_change": 5,
       "points_change": 40
+    },
+    {
+      "ranking": 144,
+      "flag": "lesotho.png",
+      "team": "Lesotho",
+      "reference_team": "Lesotho",
+      "points": 4697,
+      "confederation": "CAF",
+      "ranking_change": -1,
+      "points_change": -21
     },
     {
       "ranking": 145,
@@ -1839,10 +1839,10 @@
       "flag": "seychelles.png",
       "team": "Seychelles",
       "reference_team": "Seychelles",
-      "points": 4228,
+      "points": 4236,
       "confederation": "CAF",
       "ranking_change": 6,
-      "points_change": 54
+      "points_change": 62
     },
     {
       "ranking": 185,
