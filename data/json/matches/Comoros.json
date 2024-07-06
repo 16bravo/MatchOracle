@@ -2,6 +2,25 @@
   "team": "Comoros",
   "matches": [
     {
+      "date": "2024-07-07",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Comoros",
+      "team2": "Mozambique",
+      "original_team1": "Comoros",
+      "original_team2": "Mozambique",
+      "flag1": "comoros.png",
+      "flag2": "mozambique.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4820,
+      "rating2": 4863,
+      "rating_ev": 0,
+      "rank": 113,
+      "win_prob": 45.3,
+      "type": "fixture"
+    },
+    {
       "date": "2024-07-05",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
@@ -11,14 +30,14 @@
       "original_team2": "Angola",
       "flag1": "comoros.png",
       "flag2": "angola.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4827,
-      "rating2": 4943,
-      "rating_ev": 0,
-      "rank": 112,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4820,
+      "rating2": 4950,
+      "rating_ev": -7,
+      "rank": 113,
       "win_prob": 37.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-07-02",

@@ -2,6 +2,25 @@
   "team": "Namibia",
   "matches": [
     {
+      "date": "2024-07-07",
+      "country": "South Africa",
+      "tournament": "COSAFA Cup",
+      "team1": "Namibia",
+      "team2": "Angola",
+      "original_team1": "Namibia",
+      "original_team2": "Angola",
+      "flag1": "namibia.png",
+      "flag2": "angola.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4845,
+      "rating2": 4950,
+      "rating_ev": 0,
+      "rank": 105,
+      "win_prob": 38.7,
+      "type": "fixture"
+    },
+    {
       "date": "2024-07-05",
       "country": "South Africa",
       "tournament": "COSAFA Cup",
@@ -11,14 +30,14 @@
       "original_team2": "Mozambique",
       "flag1": "namibia.png",
       "flag2": "mozambique.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4844,
-      "rating2": 4864,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4845,
+      "rating2": 4863,
+      "rating_ev": 1,
       "rank": 105,
       "win_prob": 47.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-07-03",
