@@ -26,23 +26,23 @@
     },
     {
       "ranking": 3,
+      "flag": "colombia.png",
+      "team": "Colombia",
+      "reference_team": "Colombia",
+      "points": 5567,
+      "confederation": "CONMEBOL",
+      "ranking_change": 9,
+      "points_change": 119
+    },
+    {
+      "ranking": 4,
       "flag": "france.png",
       "team": "France",
       "reference_team": "France",
       "points": 5562,
       "confederation": "UEFA",
-      "ranking_change": 0,
+      "ranking_change": -1,
       "points_change": -64
-    },
-    {
-      "ranking": 4,
-      "flag": "colombia.png",
-      "team": "Colombia",
-      "reference_team": "Colombia",
-      "points": 5554,
-      "confederation": "CONMEBOL",
-      "ranking_change": 8,
-      "points_change": 106
     },
     {
       "ranking": 5,
@@ -66,23 +66,23 @@
     },
     {
       "ranking": 7,
-      "flag": "uruguay.png",
-      "team": "Uruguay",
-      "reference_team": "Uruguay",
-      "points": 5543,
-      "confederation": "CONMEBOL",
-      "ranking_change": 1,
-      "points_change": 41
-    },
-    {
-      "ranking": 8,
       "flag": "england.png",
       "team": "England",
       "reference_team": "England",
       "points": 5532,
       "confederation": "UEFA",
-      "ranking_change": -3,
+      "ranking_change": -2,
       "points_change": -48
+    },
+    {
+      "ranking": 8,
+      "flag": "uruguay.png",
+      "team": "Uruguay",
+      "reference_team": "Uruguay",
+      "points": 5530,
+      "confederation": "CONMEBOL",
+      "ranking_change": 0,
+      "points_change": 28
     },
     {
       "ranking": 9,
