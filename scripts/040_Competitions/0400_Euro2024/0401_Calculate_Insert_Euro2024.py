@@ -8,10 +8,11 @@ from datetime import datetime
 # Host country
 host = 'Germany'
 # Nb of iterations
-iterations = 20000
+iterations = 100
 # Output file name from current date
 now = datetime.now()
 date_str = now.strftime('%Y-%m-%d')
+date_str = '2024-07-15'
 #formatted_now = now.strftime("%Y%m%d%H%M%S")
 #file_name = 'euro2024_sim_result_NEW'+formatted_now+'.xlsx'
 
