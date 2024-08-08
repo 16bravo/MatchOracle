@@ -61,7 +61,7 @@
     {
       "date": "2024-09-10",
       "country": "Vietnam",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Thailand",
       "team2": "Vietnam",
       "original_team1": "Thailand",
@@ -75,6 +75,25 @@
       "rating_ev": 0,
       "rank": 126,
       "win_prob": 48.8,
+      "type": "fixture"
+    },
+    {
+      "date": "2024-09-07",
+      "country": "Vietnam",
+      "tournament": "Friendly tournament",
+      "team1": "Thailand",
+      "team2": "Russia",
+      "original_team1": "Thailand",
+      "original_team2": "Russia",
+      "flag1": "thailand.png",
+      "flag2": "russia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4782,
+      "rating2": 5321,
+      "rating_ev": 0,
+      "rank": 126,
+      "win_prob": 9.1,
       "type": "fixture"
     },
     {
