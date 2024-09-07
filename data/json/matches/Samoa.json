@@ -2,6 +2,25 @@
   "team": "Samoa",
   "matches": [
     {
+      "date": "2024-09-09",
+      "country": "Samoa",
+      "tournament": "World Cup qualifier",
+      "team1": "Samoa",
+      "team2": "Tonga",
+      "original_team1": "Samoa",
+      "original_team2": "Tonga",
+      "flag1": "samoa.png",
+      "flag2": "tonga.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 3163,
+      "rating2": 2767,
+      "rating_ev": 0,
+      "rank": 216,
+      "win_prob": 89.6,
+      "type": "fixture"
+    },
+    {
       "date": "2024-09-06",
       "country": "Samoa",
       "tournament": "World Cup qualifier",
@@ -11,14 +30,14 @@
       "original_team2": "Eastern Samoa",
       "flag1": "samoa.png",
       "flag2": "us_samoa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3191,
-      "rating2": 2272,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 3163,
+      "rating2": 2300,
+      "rating_ev": -28,
       "rank": 216,
       "win_prob": 98.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-06-22",
