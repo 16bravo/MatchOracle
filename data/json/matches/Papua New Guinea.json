@@ -2,6 +2,25 @@
   "team": "Papua New Guinea",
   "matches": [
     {
+      "date": "2024-12-18",
+      "country": "Solomon Isl",
+      "tournament": "Melanesian Cup",
+      "team1": "Papua New Guinea",
+      "team2": "Solomon Islands",
+      "original_team1": "Papua New Guinea",
+      "original_team2": "Solomon Islands",
+      "flag1": "papua.png",
+      "flag2": "solomon.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4111,
+      "rating2": 4299,
+      "rating_ev": 0,
+      "rank": 194,
+      "win_prob": 30.5,
+      "type": "fixture"
+    },
+    {
       "date": "2024-11-17",
       "country": "Papua New Guinea",
       "tournament": "World Cup qualifier",
@@ -11,14 +30,14 @@
       "original_team2": "Solomon Islands",
       "flag1": "papua.png",
       "flag2": "solomon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4121,
-      "rating2": 4289,
-      "rating_ev": 0,
-      "rank": 193,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4111,
+      "rating2": 4299,
+      "rating_ev": -10,
+      "rank": 194,
       "win_prob": 42.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-11-14",
