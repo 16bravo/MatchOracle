@@ -1,8 +1,6 @@
 date,home_team,away_team,tournament,country,neutral
 2024-01-18,United States,Venezuela,Friendly,United States,False
 2024-01-22,United States,Costa Rica,Friendly,United States,False
-2024-03-20,Brazil,Colombia,World Cup qualifier,Brazil,False
-2024-03-20,Netherlands,Spain,European League,Netherlands,False
 2024-03-20,Austria,Serbia,European League A/B,Austria,False
 2024-03-20,Greece,Scotland,European League A/B,Greece,False
 2024-03-20,Turkey,Hungary,European League A/B,Turkey,False
@@ -10,18 +8,20 @@ date,home_team,away_team,tournament,country,neutral
 2024-03-20,Armenia,Georgia,European League B/C,Armenia,False
 2024-03-20,Bulgaria,Ireland,European League B/C,Bulgaria,False
 2024-03-20,Kosovo,Iceland,European League B/C,Kosovo,False
-2024-03-20,Slovakia,Slovenia,European League B/C,Slovakia,False
+2024-03-20,Netherlands,Spain,European League,Netherlands,False
+2024-03-20,Ecuador,Venezuela,World Cup qualifier,Ecuador,False
 2024-03-20,Gibraltar,Latvia,European League C/D,Gibraltar,False
 2024-03-20,Malta,Luxembourg,European League C/D,Malta,False
-2024-03-20,Ecuador,Venezuela,World Cup qualifier,Ecuador,False
+2024-03-20,Brazil,Colombia,World Cup qualifier,Brazil,False
 2024-03-20,Paraguay,Chile,World Cup qualifier,Paraguay,False
 2024-03-20,Peru,Bolivia,World Cup qualifier,Peru,False
 2024-03-20,Uruguay,Argentina,World Cup qualifier,Uruguay,False
 2024-03-20,Canada,Mexico,CONCACAF League,United States,True
 2024-03-20,United States,Panama,CONCACAF League,United States,False
-2024-03-20,Italy,Germany,European League,Italy,False
-2024-03-20,Croatia,France,European League,Croatia,False
+2024-03-20,Slovakia,Slovenia,European League B/C,Slovakia,False
 2024-03-20,Denmark,Portugal,European League,Denmark,False
+2024-03-20,Italy,Germany,European League,Italy,False
+2024-03-20,Uzbekistan,Kyrgyzstan,World Cup qualifier,Uzbekistan,False
 2024-03-20,South Korea,Oman,World Cup qualifier,South Korea,False
 2024-03-20,Saudi Arabia,China,World Cup qualifier,Saudi Arabia,False
 2024-03-20,Qatar,North Korea,World Cup qualifier,Qatar,False
@@ -30,24 +30,25 @@ date,home_team,away_team,tournament,country,neutral
 2024-03-20,Iraq,Kuwait,World Cup qualifier,Iraq,False
 2024-03-20,Iran,United Arab Emirates,World Cup qualifier,Iran,False
 2024-03-20,Australia,Indonesia,World Cup qualifier,Australia,False
-2024-03-20,Uzbekistan,Kyrgyzstan,World Cup qualifier,Uzbekistan,False
+2024-03-20,Croatia,France,European League,Croatia,False
 2024-03-21,New Zealand,Fiji,World Cup qualifier,New Zealand,False
 2024-03-21,New Caledonia,Tahiti,World Cup qualifier,New Zealand,True
-2024-03-23,Germany,Italy,European League,Germany,False
+2024-03-23,Portugal,Denmark,European League,Portugal,False
 2024-03-23,Luxembourg,Malta,European League C/D,Luxembourg,False
 2024-03-23,Latvia,Gibraltar,European League C/D,Latvia,False
 2024-03-23,Slovenia,Slovakia,European League B/C,Slovenia,False
-2024-03-23,Ireland,Bulgaria,European League B/C,Ireland,False
-2024-03-23,Scotland,Greece,European League A/B,Scotland,False
-2024-03-23,Georgia,Armenia,European League B/C,Georgia,False
-2024-03-23,Portugal,Denmark,European League,Portugal,False
 2024-03-23,Serbia,Austria,European League A/B,Serbia,False
-2024-03-23,Hungary,Turkey,European League A/B,Hungary,False
-2024-03-23,Spain,Netherlands,European League,Spain,False
 2024-03-23,Iceland,Kosovo,European League B/C,Iceland,False
-2024-03-23,France,Croatia,European League,France,False
+2024-03-23,Spain,Netherlands,European League,Spain,False
+2024-03-23,Georgia,Armenia,European League B/C,Georgia,False
+2024-03-23,Scotland,Greece,European League A/B,Scotland,False
 2024-03-23,Belgium,Ukraine,European League A/B,Belgium,False
+2024-03-23,Germany,Italy,European League,Germany,False
+2024-03-23,Ireland,Bulgaria,European League B/C,Ireland,False
+2024-03-23,France,Croatia,European League,France,False
+2024-03-23,Hungary,Turkey,European League A/B,Hungary,False
 2024-03-25,Maldives,Philippines,Asian Cup qualifier,Maldives,False
+2024-03-25,North Korea,United Arab Emirates,World Cup qualifier,North Korea,False
 2024-03-25,Kyrgyzstan,Qatar,World Cup qualifier,Kyrgyzstan,False
 2024-03-25,Kuwait,Oman,World Cup qualifier,Kuwait,False
 2024-03-25,Japan,Saudi Arabia,World Cup qualifier,Japan,False
@@ -62,42 +63,40 @@ date,home_team,away_team,tournament,country,neutral
 2024-03-25,Vietnam,Laos,Asian Cup qualifier,Vietnam,False
 2024-03-25,Thailand,Sri Lanka,Asian Cup qualifier,Thailand,False
 2024-03-25,Tajikistan,East Timor,Asian Cup qualifier,Tajikistan,False
+2024-03-25,Bhutan,Yemen,Asian Cup qualifier,Bhutan,False
 2024-03-25,Taiwan,Turkmenistan,Asian Cup qualifier,Taiwan,False
-2024-03-25,South Korea,Jordan,World Cup qualifier,South Korea,False
+2024-03-25,Palestine,Iraq,World Cup qualifier,Palestine,False
 2024-03-25,Syria,Pakistan,Asian Cup qualifier,Syria,False
-2024-03-25,North Korea,United Arab Emirates,World Cup qualifier,North Korea,False
 2024-03-25,Singapore,Hong Kong,Asian Cup qualifier,Singapore,False
 2024-03-25,Nepal,Malaysia,Asian Cup qualifier,Nepal,False
-2024-03-25,Bhutan,Yemen,Asian Cup qualifier,Bhutan,False
 2024-03-25,India,Bangladesh,Asian Cup qualifier,India,False
 2024-03-25,Lebanon,Brunei,Asian Cup qualifier,Lebanon,False
 2024-03-25,Myanmar,Afghanistan,Asian Cup qualifier,Myanmar,False
-2024-03-25,Palestine,Iraq,World Cup qualifier,Palestine,False
+2024-03-25,South Korea,Jordan,World Cup qualifier,South Korea,False
 2024-12-22,Bahrain,Saudi Arabia,Gulf Cup,Kuwait,True
 2024-12-22,Iraq,Yemen,Gulf Cup,Kuwait,True
-2024-12-22,Northern Marianas,Guam,Friendly,N Marianas,True
-2024-12-24,Kuwait,United Arab Emirates,Gulf Cup,Kuwait,False
 2024-12-24,Oman,Qatar,Gulf Cup,Kuwait,True
-2024-12-25,Bahrain,Iraq,Gulf Cup,Kuwait,True
+2024-12-24,Kuwait,United Arab Emirates,Gulf Cup,Kuwait,False
 2024-12-25,Saudi Arabia,Yemen,Gulf Cup,Kuwait,True
-2024-12-27,Kuwait,Qatar,Gulf Cup,Kuwait,False
+2024-12-25,Bahrain,Iraq,Gulf Cup,Kuwait,True
 2024-12-27,Oman,United Arab Emirates,Gulf Cup,Kuwait,True
-2024-12-28,Bahrain,Yemen,Gulf Cup,Kuwait,True
+2024-12-27,Kuwait,Qatar,Gulf Cup,Kuwait,False
 2024-12-28,Iraq,Saudi Arabia,Gulf Cup,Kuwait,True
-2025-03-22,Belize,Costa Rica,CONCACAF Ch q,Belize,False
-2025-03-22,Bermuda,Honduras,CONCACAF Ch q,Bermuda,False
-2025-03-22,Guadeloupe,Nicaragua,CONCACAF Ch q,Guadeloupe,False
-2025-03-22,Guyana,Guatemala,CONCACAF Ch q,Guyana,False
-2025-03-22,St Vincent & Grenadines,Jamaica,CONCACAF Ch q,St Vincent & Grenadines,False
-2025-03-22,Suriname,Martinique,CONCACAF Ch q,Suriname,False
-2025-03-22,Trinidad and Tobago,Cuba,CONCACAF Ch q,Trinidad and Tobago,False
-2025-03-22,Cuba,Trinidad and Tobago,CONCACAF Ch q,Cuba,False
-2025-03-22,Guatemala,Guyana,CONCACAF Ch q,Guatemala,False
-2025-03-22,Honduras,Bermuda,CONCACAF Ch q,Honduras,False
-2025-03-22,Jamaica,St Vincent & Grenadines,CONCACAF Ch q,Jamaica,False
-2025-03-22,Martinique,Suriname,CONCACAF Ch q,Martinique,False
-2025-03-22,Nicaragua,Guadeloupe,CONCACAF Ch q,Nicaragua,False
-2025-03-22,Costa Rica,Belize,CONCACAF Ch q,Costa Rica,False
+2024-12-28,Bahrain,Yemen,Gulf Cup,Kuwait,True
+2025-03-23,Trinidad and Tobago,Cuba,CONCACAF Ch q,Trinidad and Tobago,False
+2025-03-23,Suriname,Martinique,CONCACAF Ch q,Suriname,False
+2025-03-23,St Vincent & Grenadines,Jamaica,CONCACAF Ch q,St Vincent & Grenadines,False
+2025-03-23,Guyana,Guatemala,CONCACAF Ch q,Guyana,False
+2025-03-23,Guadeloupe,Nicaragua,CONCACAF Ch q,Guadeloupe,False
+2025-03-23,Bermuda,Honduras,CONCACAF Ch q,Bermuda,False
+2025-03-23,Belize,Costa Rica,CONCACAF Ch q,Belize,False
+2025-03-23,Cuba,Trinidad and Tobago,CONCACAF Ch q,Cuba,False
+2025-03-23,Guatemala,Guyana,CONCACAF Ch q,Guatemala,False
+2025-03-23,Honduras,Bermuda,CONCACAF Ch q,Honduras,False
+2025-03-23,Jamaica,St Vincent & Grenadines,CONCACAF Ch q,Jamaica,False
+2025-03-23,Martinique,Suriname,CONCACAF Ch q,Martinique,False
+2025-03-23,Nicaragua,Guadeloupe,CONCACAF Ch q,Nicaragua,False
+2025-03-23,Costa Rica,Belize,CONCACAF Ch q,Costa Rica,False
 2025-06-04,St Vincent & Grenadines,Anguilla,World Cup qualifier,St Vincent & Grenadines,False
 2025-06-04,Montserrat,Belize,World Cup qualifier,Montserrat,False
 2025-06-04,Grenada,Bahamas,World Cup qualifier,Grenada,False
@@ -168,12 +167,12 @@ date,home_team,away_team,tournament,country,neutral
 2025-06-10,Hong Kong,India,Asian Cup qualifier,Hong Kong,False
 2025-06-10,Laos,Nepal,Asian Cup qualifier,Laos,False
 2025-06-10,Uzbekistan,Qatar,World Cup qualifier,Uzbekistan,False
-2025-07-22,South Korea,Japan,East Asian Champ,South Korea,False
-2025-07-22,South Korea,China,East Asian Champ,South Korea,False
-2025-07-22,South Korea,Hong Kong,East Asian Champ,South Korea,False
-2025-07-22,China,Japan,East Asian Champ,South Korea,True
-2025-07-22,Hong Kong,Japan,East Asian Champ,South Korea,True
-2025-07-22,China,Hong Kong,East Asian Champ,South Korea,True
+2025-07-23,South Korea,Japan,East Asian Champ,South Korea,False
+2025-07-23,South Korea,China,East Asian Champ,South Korea,False
+2025-07-23,South Korea,Hong Kong,East Asian Champ,South Korea,False
+2025-07-23,China,Japan,East Asian Champ,South Korea,True
+2025-07-23,Hong Kong,Japan,East Asian Champ,South Korea,True
+2025-07-23,China,Hong Kong,East Asian Champ,South Korea,True
 2025-09-09,Argentina,Venezuela,World Cup qualifier,Argentina,False
 2025-09-09,Brazil,Chile,World Cup qualifier,Brazil,False
 2025-09-09,Colombia,Bolivia,World Cup qualifier,Colombia,False
