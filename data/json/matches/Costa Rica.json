@@ -40,7 +40,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-03-31",
+      "date": "2025-03-01",
       "country": "Belize",
       "tournament": "CONCACAF Ch q",
       "team1": "Costa Rica",
@@ -59,7 +59,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-03-31",
+      "date": "2025-03-01",
       "country": "Costa Rica",
       "tournament": "CONCACAF Ch q",
       "team1": "Costa Rica",
@@ -75,6 +75,25 @@
       "rating_ev": 0,
       "rank": 54,
       "win_prob": 97.2,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-01-22",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Costa Rica",
+      "team2": "United States",
+      "original_team1": "Costa Rica",
+      "original_team2": "United States",
+      "flag1": "costa_rica.png",
+      "flag2": "usa.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5091,
+      "rating2": 5274,
+      "rating_ev": 0,
+      "rank": 54,
+      "win_prob": 22.4,
       "type": "fixture"
     },
     {
@@ -361,25 +380,6 @@
       "rank": 73,
       "win_prob": 75.6,
       "type": "past"
-    },
-    {
-      "date": "2024-01-22",
-      "country": "United States",
-      "tournament": "Friendly",
-      "team1": "Costa Rica",
-      "team2": "United States",
-      "original_team1": "Costa Rica",
-      "original_team2": "United States",
-      "flag1": "costa_rica.png",
-      "flag2": "usa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5091,
-      "rating2": 5274,
-      "rating_ev": 0,
-      "rank": 54,
-      "win_prob": 22.4,
-      "type": "fixture"
     },
     {
       "date": "2023-11-20",
