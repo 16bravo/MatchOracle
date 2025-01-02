@@ -1,7 +1,48 @@
 {
   "year": 2024,
   "latest_date": [
-    "2024-12-30"
+    "2024-12-31"
   ],
-  "rankings": []
+  "rankings": [
+    {
+      "ranking": 1,
+      "flag": "saudi_arabia.png",
+      "team": "Saudi Arabia",
+      "reference_team": "Saudi Arabia",
+      "points": 4934,
+      "confederation": "AFC",
+      "ranking_change": 62,
+      "points_change": -115
+    },
+    {
+      "ranking": 2,
+      "flag": "oman.png",
+      "team": "Oman",
+      "reference_team": "Oman",
+      "points": 4901,
+      "confederation": "AFC",
+      "ranking_change": 87,
+      "points_change": -17
+    },
+    {
+      "ranking": 3,
+      "flag": "bahrain.png",
+      "team": "Bahrain",
+      "reference_team": "Bahrain",
+      "points": 4870,
+      "confederation": "AFC",
+      "ranking_change": 103,
+      "points_change": 35
+    },
+    {
+      "ranking": 4,
+      "flag": "kuwait.png",
+      "team": "Kuwait",
+      "reference_team": "Kuwait",
+      "points": 4719,
+      "confederation": "AFC",
+      "ranking_change": 127,
+      "points_change": -50
+    }
+  ]
 }
