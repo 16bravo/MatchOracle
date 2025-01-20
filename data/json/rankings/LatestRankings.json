@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2025-01-05"
+    "2025-01-18"
   ],
   "rankings": [
     {
@@ -269,7 +269,7 @@
       "flag": "usa.png",
       "team": "United States",
       "reference_team": "United States",
-      "points": 5274,
+      "points": 5284,
       "confederation": "CONCACAF",
       "ranking_change": null,
       "points_change": null
@@ -326,16 +326,6 @@
     },
     {
       "ranking": 33,
-      "flag": "venezuela.png",
-      "team": "Venezuela",
-      "reference_team": "Venezuela",
-      "points": 5242,
-      "confederation": "CONMEBOL",
-      "ranking_change": null,
-      "points_change": null
-    },
-    {
-      "ranking": 34,
       "flag": "hungary.png",
       "team": "Hungary",
       "reference_team": "Hungary",
@@ -345,12 +335,22 @@
       "points_change": null
     },
     {
-      "ranking": 35,
+      "ranking": 34,
       "flag": "wales.png",
       "team": "Wales",
       "reference_team": "Wales",
       "points": 5233,
       "confederation": "UEFA",
+      "ranking_change": null,
+      "points_change": null
+    },
+    {
+      "ranking": 35,
+      "flag": "venezuela.png",
+      "team": "Venezuela",
+      "reference_team": "Venezuela",
+      "points": 5232,
+      "confederation": "CONMEBOL",
       "ranking_change": null,
       "points_change": null
     },
