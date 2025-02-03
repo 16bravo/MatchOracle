@@ -28,15 +28,15 @@ jobs:
         run: |
             if [ -f data/BravoRanking.db ]; then
               echo "Database exists already. No need for init."
-              echo "::set-output name=init_required::false"
+              echo "init_required=false" >> $GITHUB_OUTPUT
             else
               echo "Database does not exist. Init needed."
-              echo "::set-output name=init_required::true"
+              echo "init_required=true" >> $GITHUB_OUTPUT
             fi
 
       - name: Install dependencies
         if: steps.check-db.outputs.init_required == 'true'
-        run: pip install -r requirements.txt
+        run: pip install --upgrade --force-reinstall -r requirements.txt
 
       - name: Create .kaggle directory
         if: steps.check-db.outputs.init_required == 'true'
