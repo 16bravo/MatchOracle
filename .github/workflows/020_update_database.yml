@@ -31,15 +31,15 @@ jobs:
         run: |
             if [ -f data/BravoRanking.db ]; then
               echo "Database exists already. OK for update."
-              echo "::set-output name=update_ok::true"
+              echo "update_ok=true" >> $GITHUB_OUTPUT
             else
               echo "Database does not exist. KO for update."
-              echo "::set-output name=update_ok::false"
+              echo "update_ok=false" >> $GITHUB_OUTPUT
             fi
 
       - name: Install dependencies
         if: steps.check-db.outputs.update_ok == 'true'
-        run: pip install -r requirements.txt
+        run: pip install --upgrade --force-reinstall -r requirements.txt
 
       - name: Create .kaggle directory
         if: steps.check-db.outputs.update_ok == 'true'
