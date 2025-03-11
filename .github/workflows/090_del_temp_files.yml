@@ -12,28 +12,17 @@ jobs:
 
     steps:
       - name: Check the previous workflow
-        run: |
-          if [ ${{ github.event.workflow_run.conclusion == 'success' }} ]; then
-            echo "Previous workflow OK"  
-          else
-            echo "Previous workflow in error"
-            exit 1
-          fi
-          
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+        if: github.event.workflow_run.conclusion == 'success'
+        run: echo "Previous workflow OK"
 
-      - name: Restore dependency cache
-        uses: actions/cache@v2
-        with:
-          path: |
-            ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: "3.x"
+          cache: "pip"
 
       - name: Run JSON generation scripts
         run: |
@@ -50,15 +39,7 @@ jobs:
           else
             git add -A data/json
             git commit -m "Update data/json"
-            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             git push
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Sauvegarder le cache des dépendances
-        uses: actions/cache@v2
-        with:
-          path: |
-            ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
