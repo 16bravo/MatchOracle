@@ -23,6 +23,8 @@ jobs:
         with:
           python-version: "3.x"
           cache: "pip"
+          cache-dependency-path: |
+            **/requirements.txt
 
       - name: Run JSON generation scripts
         run: |
