@@ -2,6 +2,25 @@
   "team": "Ghana",
   "matches": [
     {
+      "date": "2025-05-31",
+      "country": "England",
+      "tournament": "Friendly tournament",
+      "team1": "Ghana",
+      "team2": "Trinidad and Tobago",
+      "original_team1": "Ghana",
+      "original_team2": "Trinidad and Tobago",
+      "flag1": "ghana.png",
+      "flag2": "trinidad.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4965,
+      "rating2": 4821,
+      "rating_ev": 0,
+      "rank": 79,
+      "win_prob": 65.3,
+      "type": "fixture"
+    },
+    {
       "date": "2025-05-28",
       "country": "England",
       "tournament": "Friendly tournament",
@@ -11,14 +30,14 @@
       "original_team2": "Nigeria",
       "flag1": "ghana.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4976,
-      "rating2": 5027,
-      "rating_ev": 0,
-      "rank": 76,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4965,
+      "rating2": 5038,
+      "rating_ev": -11,
+      "rank": 79,
       "win_prob": 44.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",
