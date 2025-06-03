@@ -1,5 +1,36 @@
 {
   "team": "Morocco",
+  "stats": {
+    "matches_played": 702,
+    "wins": 342,
+    "draws": 198,
+    "losses": 162,
+    "goals_for": 1053,
+    "goals_against": 604,
+    "goal_difference": 449,
+    "win_percentage": 48.7,
+    "avg_points": 1.74,
+    "best_rank": 15,
+    "worst_rank": 76,
+    "avg_rank": 46.2,
+    "biggest_win": {
+      "score": "13-1",
+      "opponent": "Saudi Arabia",
+      "date": "1961-09-06",
+      "flag": "saudi_arabia.png"
+    },
+    "biggest_loss": {
+      "score": "1-8",
+      "opponent": "Switzerland",
+      "date": "1961-10-11",
+      "flag": "switzerland.png"
+    },
+    "home_matches": 303,
+    "away_matches": 210,
+    "neutral_matches": 189,
+    "first_match_date": "1957-10-19",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-29",

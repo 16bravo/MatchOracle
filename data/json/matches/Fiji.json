@@ -1,5 +1,36 @@
 {
   "team": "Fiji",
+  "stats": {
+    "matches_played": 278,
+    "wins": 125,
+    "draws": 53,
+    "losses": 100,
+    "goals_for": 635,
+    "goals_against": 437,
+    "goal_difference": 198,
+    "win_percentage": 45.0,
+    "avg_points": 1.54,
+    "best_rank": 136,
+    "worst_rank": 195,
+    "avg_rank": 167.22,
+    "biggest_win": {
+      "score": "24-0",
+      "opponent": "Kiribati",
+      "date": "1979-08-30",
+      "flag": "kiribati.png"
+    },
+    "biggest_loss": {
+      "score": "0-13",
+      "opponent": "New Zealand",
+      "date": "1981-08-16",
+      "flag": "new_zealand.png"
+    },
+    "home_matches": 104,
+    "away_matches": 60,
+    "neutral_matches": 114,
+    "first_match_date": "1951-10-07",
+    "last_match_date": "2025-03-21"
+  },
   "matches": [
     {
       "date": "2025-03-21",

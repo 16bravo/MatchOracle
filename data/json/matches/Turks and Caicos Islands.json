@@ -1,5 +1,36 @@
 {
   "team": "Turks and Caicos Islands",
+  "stats": {
+    "matches_played": 54,
+    "wins": 12,
+    "draws": 5,
+    "losses": 37,
+    "goals_for": 50,
+    "goals_against": 191,
+    "goal_difference": -141,
+    "win_percentage": 22.2,
+    "avg_points": 0.76,
+    "best_rank": 208,
+    "worst_rank": 215,
+    "avg_rank": 212.07,
+    "biggest_win": {
+      "score": "5-2",
+      "opponent": "Sint Maarten",
+      "date": "2019-10-10",
+      "flag": "st_maarten.png"
+    },
+    "biggest_loss": {
+      "score": "0-11",
+      "opponent": "Cuba",
+      "date": "2018-09-08",
+      "flag": "cuba.png"
+    },
+    "home_matches": 16,
+    "away_matches": 23,
+    "neutral_matches": 15,
+    "first_match_date": "1999-02-24",
+    "last_match_date": "2024-10-15"
+  },
   "matches": [
     {
       "date": "2025-08-03",

@@ -1,5 +1,36 @@
 {
   "team": "Nepal",
+  "stats": {
+    "matches_played": 288,
+    "wins": 65,
+    "draws": 51,
+    "losses": 172,
+    "goals_for": 238,
+    "goals_against": 667,
+    "goal_difference": -429,
+    "win_percentage": 22.6,
+    "avg_points": 0.85,
+    "best_rank": 185,
+    "worst_rank": 205,
+    "avg_rank": 195.52,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Bhutan",
+      "date": "1999-09-26",
+      "flag": "bhutan.png"
+    },
+    "biggest_loss": {
+      "score": "0-16",
+      "opponent": "South Korea",
+      "date": "2003-09-29",
+      "flag": "south_korea.png"
+    },
+    "home_matches": 73,
+    "away_matches": 84,
+    "neutral_matches": 131,
+    "first_match_date": "1972-10-13",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

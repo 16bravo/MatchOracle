@@ -1,5 +1,36 @@
 {
   "team": "Kosovo",
+  "stats": {
+    "matches_played": 95,
+    "wins": 35,
+    "draws": 21,
+    "losses": 39,
+    "goals_for": 126,
+    "goals_against": 130,
+    "goal_difference": -4,
+    "win_percentage": 36.8,
+    "avg_points": 1.33,
+    "best_rank": 52,
+    "worst_rank": 104,
+    "avg_rank": 73.93,
+    "biggest_win": {
+      "score": "5-0",
+      "opponent": "Malta",
+      "date": "2018-11-17",
+      "flag": "malta.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Croatia",
+      "date": "2016-10-06",
+      "flag": "croatia.png"
+    },
+    "home_matches": 42,
+    "away_matches": 34,
+    "neutral_matches": 19,
+    "first_match_date": "1993-02-14",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-18",

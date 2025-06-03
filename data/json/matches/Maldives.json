@@ -1,5 +1,36 @@
 {
   "team": "Maldives",
+  "stats": {
+    "matches_played": 227,
+    "wins": 65,
+    "draws": 38,
+    "losses": 124,
+    "goals_for": 280,
+    "goals_against": 508,
+    "goal_difference": -228,
+    "win_percentage": 28.6,
+    "avg_points": 1.03,
+    "best_rank": 162,
+    "worst_rank": 213,
+    "avg_rank": 187.87,
+    "biggest_win": {
+      "score": "12-0",
+      "opponent": "Mongolia",
+      "date": "2003-12-03",
+      "flag": "mongolia.png"
+    },
+    "biggest_loss": {
+      "score": "0-17",
+      "opponent": "Iran",
+      "date": "1997-06-02",
+      "flag": "iran.png"
+    },
+    "home_matches": 59,
+    "away_matches": 77,
+    "neutral_matches": 91,
+    "first_match_date": "1979-08-27",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

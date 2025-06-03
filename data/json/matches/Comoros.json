@@ -1,5 +1,36 @@
 {
   "team": "Comoros",
+  "stats": {
+    "matches_played": 137,
+    "wins": 35,
+    "draws": 32,
+    "losses": 70,
+    "goals_for": 125,
+    "goals_against": 218,
+    "goal_difference": -93,
+    "win_percentage": 25.5,
+    "avg_points": 1.0,
+    "best_rank": 91,
+    "worst_rank": 194,
+    "avg_rank": 153.03,
+    "biggest_win": {
+      "score": "7-1",
+      "opponent": "Seychelles",
+      "date": "2021-09-01",
+      "flag": "seychelles.png"
+    },
+    "biggest_loss": {
+      "score": "1-6",
+      "opponent": "Reunion",
+      "date": "1979-08-31",
+      "flag": "reunion.png"
+    },
+    "home_matches": 27,
+    "away_matches": 30,
+    "neutral_matches": 80,
+    "first_match_date": "1979-08-26",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-29",

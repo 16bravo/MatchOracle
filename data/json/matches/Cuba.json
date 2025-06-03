@@ -1,5 +1,36 @@
 {
   "team": "Cuba",
+  "stats": {
+    "matches_played": 492,
+    "wins": 186,
+    "draws": 115,
+    "losses": 191,
+    "goals_for": 677,
+    "goals_against": 687,
+    "goal_difference": -10,
+    "win_percentage": 37.8,
+    "avg_points": 1.37,
+    "best_rank": 49,
+    "worst_rank": 173,
+    "avg_rank": 111.93,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Turks and Caicos Islands",
+      "date": "2018-09-08",
+      "flag": "turks_caicos.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Sweden",
+      "date": "1938-06-12",
+      "flag": "sweden.png"
+    },
+    "home_matches": 112,
+    "away_matches": 210,
+    "neutral_matches": 170,
+    "first_match_date": "1930-03-16",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

@@ -1,5 +1,36 @@
 {
   "team": "Palau",
+  "stats": {
+    "matches_played": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goals_for": 3,
+    "goals_against": 27,
+    "goal_difference": -24,
+    "win_percentage": 0.0,
+    "avg_points": 0.0,
+    "best_rank": 224,
+    "worst_rank": 224,
+    "avg_rank": 224.0,
+    "biggest_win": {
+      "score": "1-12",
+      "opponent": "Northern Mariana Islands",
+      "date": "1998-07-31",
+      "flag": "mariana.png"
+    },
+    "biggest_loss": {
+      "score": "2-15",
+      "opponent": "Guam",
+      "date": "1998-08-01",
+      "flag": "guam.png"
+    },
+    "home_matches": 2,
+    "away_matches": 0,
+    "neutral_matches": 0,
+    "first_match_date": "1998-07-31",
+    "last_match_date": "1998-08-01"
+  },
   "matches": [
     {
       "date": "1998-08-01",

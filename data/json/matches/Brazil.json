@@ -1,5 +1,36 @@
 {
   "team": "Brazil",
+  "stats": {
+    "matches_played": 1056,
+    "wins": 667,
+    "draws": 220,
+    "losses": 169,
+    "goals_for": 2278,
+    "goals_against": 946,
+    "goal_difference": 1332,
+    "win_percentage": 63.2,
+    "avg_points": 2.1,
+    "best_rank": 1,
+    "worst_rank": 14,
+    "avg_rank": 3.1,
+    "biggest_win": {
+      "score": "10-1",
+      "opponent": "Bolivia",
+      "date": "1949-04-10",
+      "flag": "bolivia.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Uruguay",
+      "date": "1920-09-18",
+      "flag": "uruguay.png"
+    },
+    "home_matches": 371,
+    "away_matches": 342,
+    "neutral_matches": 343,
+    "first_match_date": "1914-09-20",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-09-14",

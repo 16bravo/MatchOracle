@@ -1,5 +1,36 @@
 {
   "team": "Benin",
+  "stats": {
+    "matches_played": 335,
+    "wins": 82,
+    "draws": 83,
+    "losses": 170,
+    "goals_for": 351,
+    "goals_against": 589,
+    "goal_difference": -238,
+    "win_percentage": 24.5,
+    "avg_points": 0.98,
+    "best_rank": 77,
+    "worst_rank": 159,
+    "avg_rank": 112.99,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Mauritania",
+      "date": "1961-12-26",
+      "flag": "mauritania.png"
+    },
+    "biggest_loss": {
+      "score": "1-10",
+      "opponent": "Nigeria",
+      "date": "1959-11-28",
+      "flag": "nigeria.png"
+    },
+    "home_matches": 104,
+    "away_matches": 137,
+    "neutral_matches": 94,
+    "first_match_date": "1954-12-31",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-30",

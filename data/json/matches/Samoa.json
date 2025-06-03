@@ -1,5 +1,36 @@
 {
   "team": "Samoa",
+  "stats": {
+    "matches_played": 75,
+    "wins": 23,
+    "draws": 4,
+    "losses": 48,
+    "goals_for": 107,
+    "goals_against": 274,
+    "goal_difference": -167,
+    "win_percentage": 30.7,
+    "avg_points": 0.97,
+    "best_rank": 215,
+    "worst_rank": 221,
+    "avg_rank": 216.49,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "Eastern Samoa",
+      "date": "2023-11-20",
+      "flag": "us_samoa.png"
+    },
+    "biggest_loss": {
+      "score": "0-13",
+      "opponent": "Tahiti",
+      "date": "1981-07-08",
+      "flag": "tahiti.png"
+    },
+    "home_matches": 20,
+    "away_matches": 15,
+    "neutral_matches": 40,
+    "first_match_date": "1979-08-31",
+    "last_match_date": "2024-11-18"
+  },
   "matches": [
     {
       "date": "2024-11-18",

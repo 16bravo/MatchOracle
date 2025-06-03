@@ -1,5 +1,36 @@
 {
   "team": "Ethiopia",
+  "stats": {
+    "matches_played": 454,
+    "wins": 160,
+    "draws": 101,
+    "losses": 193,
+    "goals_for": 628,
+    "goals_against": 672,
+    "goal_difference": -44,
+    "win_percentage": 35.2,
+    "avg_points": 1.28,
+    "best_rank": 43,
+    "worst_rank": 147,
+    "avg_rank": 103.11,
+    "biggest_win": {
+      "score": "10-2",
+      "opponent": "French Somaliland",
+      "date": "1954-05-01",
+      "flag": "france.png"
+    },
+    "biggest_loss": {
+      "score": "0-13",
+      "opponent": "Iraq",
+      "date": "1992-08-18",
+      "flag": "iraq.png"
+    },
+    "home_matches": 206,
+    "away_matches": 155,
+    "neutral_matches": 93,
+    "first_match_date": "1947-12-05",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-03-24",

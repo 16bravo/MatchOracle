@@ -1,5 +1,36 @@
 {
   "team": "Greece",
+  "stats": {
+    "matches_played": 645,
+    "wins": 247,
+    "draws": 154,
+    "losses": 244,
+    "goals_for": 815,
+    "goals_against": 884,
+    "goal_difference": -69,
+    "win_percentage": 38.3,
+    "avg_points": 1.39,
+    "best_rank": 12,
+    "worst_rank": 102,
+    "avg_rank": 39.25,
+    "biggest_win": {
+      "score": "8-0",
+      "opponent": "Syria",
+      "date": "1949-11-25",
+      "flag": "syria.png"
+    },
+    "biggest_loss": {
+      "score": "1-11",
+      "opponent": "Hungary",
+      "date": "1938-03-25",
+      "flag": "hungary.png"
+    },
+    "home_matches": 292,
+    "away_matches": 292,
+    "neutral_matches": 61,
+    "first_match_date": "1920-08-28",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-18",

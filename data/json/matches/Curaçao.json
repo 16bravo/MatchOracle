@@ -1,5 +1,36 @@
 {
   "team": "Cura\u00e7ao",
+  "stats": {
+    "matches_played": 471,
+    "wins": 191,
+    "draws": 115,
+    "losses": 165,
+    "goals_for": 830,
+    "goals_against": 729,
+    "goal_difference": 101,
+    "win_percentage": 40.6,
+    "avg_points": 1.46,
+    "best_rank": 57,
+    "worst_rank": 182,
+    "avg_rank": 121.38,
+    "biggest_win": {
+      "score": "15-0",
+      "opponent": "Puerto Rico",
+      "date": "1959-01-07",
+      "flag": "puerto_rico.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Netherlands",
+      "date": "1962-09-05",
+      "flag": "netherlands.png"
+    },
+    "home_matches": 107,
+    "away_matches": 166,
+    "neutral_matches": 198,
+    "first_match_date": "1924-04-06",
+    "last_match_date": "2025-03-19"
+  },
   "matches": [
     {
       "date": "2025-06-24",

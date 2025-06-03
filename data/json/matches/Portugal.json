@@ -1,5 +1,36 @@
 {
   "team": "Portugal",
+  "stats": {
+    "matches_played": 684,
+    "wins": 340,
+    "draws": 156,
+    "losses": 188,
+    "goals_for": 1196,
+    "goals_against": 769,
+    "goal_difference": 427,
+    "win_percentage": 49.7,
+    "avg_points": 1.72,
+    "best_rank": 1,
+    "worst_rank": 34,
+    "avg_rank": 15.11,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Luxembourg",
+      "date": "2023-09-11",
+      "flag": "luxembourg.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "England",
+      "date": "1947-05-25",
+      "flag": "england.png"
+    },
+    "home_matches": 317,
+    "away_matches": 256,
+    "neutral_matches": 111,
+    "first_match_date": "1921-12-18",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-16",

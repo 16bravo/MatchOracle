@@ -1,5 +1,36 @@
 {
   "team": "Somalia",
+  "stats": {
+    "matches_played": 138,
+    "wins": 14,
+    "draws": 19,
+    "losses": 105,
+    "goals_for": 73,
+    "goals_against": 352,
+    "goal_difference": -279,
+    "win_percentage": 10.1,
+    "avg_points": 0.44,
+    "best_rank": 128,
+    "worst_rank": 193,
+    "avg_rank": 170.79,
+    "biggest_win": {
+      "score": "5-2",
+      "opponent": "Mauritania",
+      "date": "1985-08-06",
+      "flag": "mauritania.png"
+    },
+    "biggest_loss": {
+      "score": "0-14",
+      "opponent": "North Korea",
+      "date": "1963-11-14",
+      "flag": "north_korea.png"
+    },
+    "home_matches": 10,
+    "away_matches": 40,
+    "neutral_matches": 88,
+    "first_match_date": "1963-11-14",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-03",

@@ -39,6 +39,7 @@ jobs:
           python scripts/030_JSON_Generation/031_Generate_Rankings_History_JSON.py
           python scripts/030_JSON_Generation/032_Generate_Latest_Rankings_JSON.py
           python scripts/030_JSON_Generation/033_Generate_Matches_JSON.py
+          python scripts/030_JSON_Generation/034_Generate_All_Matches_JSON.py
 
       - name: Commit changes
         run: |

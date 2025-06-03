@@ -1,5 +1,36 @@
 {
   "team": "Serbia",
+  "stats": {
+    "matches_played": 851,
+    "wins": 397,
+    "draws": 191,
+    "losses": 263,
+    "goals_for": 1601,
+    "goals_against": 1163,
+    "goal_difference": 438,
+    "win_percentage": 46.7,
+    "avg_points": 1.62,
+    "best_rank": 2,
+    "worst_rank": 51,
+    "avg_rank": 17.35,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "Venezuela",
+      "date": "1972-06-14",
+      "flag": "venezuela.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Czechoslovakia",
+      "date": "1920-08-28",
+      "flag": "czechia.png"
+    },
+    "home_matches": 69,
+    "away_matches": 418,
+    "neutral_matches": 364,
+    "first_match_date": "1920-08-28",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-16",

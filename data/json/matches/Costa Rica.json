@@ -1,5 +1,36 @@
 {
   "team": "Costa Rica",
+  "stats": {
+    "matches_played": 771,
+    "wins": 350,
+    "draws": 183,
+    "losses": 238,
+    "goals_for": 1334,
+    "goals_against": 890,
+    "goal_difference": 444,
+    "win_percentage": 45.4,
+    "avg_points": 1.6,
+    "best_rank": 8,
+    "worst_rank": 93,
+    "avg_rank": 48.82,
+    "biggest_win": {
+      "score": "12-0",
+      "opponent": "Puerto Rico",
+      "date": "1946-12-10",
+      "flag": "puerto_rico.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Mexico",
+      "date": "1975-08-17",
+      "flag": "mexico.png"
+    },
+    "home_matches": 255,
+    "away_matches": 274,
+    "neutral_matches": 242,
+    "first_match_date": "1921-09-14",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-22",

@@ -58,6 +58,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Activate DataTables on the array with Select
         const dataTable = $('#myTable').DataTable({
+            paging: false // Deactivate page
             //select: true  // Activate Select functionality
         });
 
@@ -97,5 +98,54 @@ document.addEventListener('DOMContentLoaded', function () {
                 });
             });
         });
+
+        // ...after DataTables initialization...
+        // Generate confederation filters dynamically
+        const confedFiltersDiv = document.getElementById('confed-filters');
+        const confederations = [...new Set(rankingArray.map(item => item.confederation))];
+        confederations.forEach(confed => {
+            const label = document.createElement('label');
+            label.className = 'form-check-label mr-2';
+            label.innerHTML = `
+                <input class="form-check-input confed-checkbox" type="checkbox" value="${confed}" checked>
+                ${confed}
+            `;
+            confedFiltersDiv.appendChild(label);
+        });
+
+        // Filter table rows on checkbox change
+        $('#confed-filters').on('change', '.confed-checkbox', function () {
+            const checked = $('.confed-checkbox:checked').map(function () { return this.value; }).get();
+            $('#myTable').DataTable().column(6).search(checked.join('|'), true, false).draw();
+        });
     });
+
+    // Back to top button logic
+    const backToTopBtn = document.getElementById('back-to-top');
+    window.addEventListener('scroll', function() {
+        if (window.scrollY > 200) {
+            backToTopBtn.style.display = 'block';
+        } else {
+            backToTopBtn.style.display = 'none';
+        }
+    });
+    backToTopBtn.addEventListener('click', function() {
+        window.scrollTo({top: 0, behavior: 'smooth'});
+    });
+
+    // Theme switch logic
+    const themeToggle = document.getElementById('theme-toggle');
+    if (themeToggle) {
+        // Load theme from localStorage if available
+        if (localStorage.getItem('theme') === 'dark') {
+            document.body.classList.add('dark-theme');
+            themeToggle.textContent = '☀️';
+        }
+        themeToggle.addEventListener('click', function() {
+            document.body.classList.toggle('dark-theme');
+            const isDark = document.body.classList.contains('dark-theme');
+            themeToggle.textContent = isDark ? '☀️' : '🌙';
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        });
+    }
 });

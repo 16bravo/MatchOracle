@@ -1,5 +1,36 @@
 {
   "team": "Senegal",
+  "stats": {
+    "matches_played": 670,
+    "wins": 300,
+    "draws": 188,
+    "losses": 182,
+    "goals_for": 907,
+    "goals_against": 634,
+    "goal_difference": 273,
+    "win_percentage": 44.8,
+    "avg_points": 1.62,
+    "best_rank": 32,
+    "worst_rank": 98,
+    "avg_rank": 62.5,
+    "biggest_win": {
+      "score": "10-1",
+      "opponent": "Mauritania",
+      "date": "1972-09-28",
+      "flag": "mauritania.png"
+    },
+    "biggest_loss": {
+      "score": "0-5",
+      "opponent": "Guinea",
+      "date": "1966-03-06",
+      "flag": "guinea.png"
+    },
+    "home_matches": 213,
+    "away_matches": 230,
+    "neutral_matches": 227,
+    "first_match_date": "1959-12-31",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-30",

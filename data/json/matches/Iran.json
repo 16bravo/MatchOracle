@@ -1,5 +1,36 @@
 {
   "team": "Iran",
+  "stats": {
+    "matches_played": 665,
+    "wins": 380,
+    "draws": 155,
+    "losses": 130,
+    "goals_for": 1265,
+    "goals_against": 521,
+    "goal_difference": 744,
+    "win_percentage": 57.1,
+    "avg_points": 1.95,
+    "best_rank": 12,
+    "worst_rank": 127,
+    "avg_rank": 44.52,
+    "biggest_win": {
+      "score": "19-0",
+      "opponent": "Guam",
+      "date": "2000-11-24",
+      "flag": "guam.png"
+    },
+    "biggest_loss": {
+      "score": "1-6",
+      "opponent": "Turkey",
+      "date": "1950-05-28",
+      "flag": "turkey.png"
+    },
+    "home_matches": 224,
+    "away_matches": 190,
+    "neutral_matches": 251,
+    "first_match_date": "1941-08-23",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-10-14",

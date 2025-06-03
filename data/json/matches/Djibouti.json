@@ -1,5 +1,36 @@
 {
   "team": "Djibouti",
+  "stats": {
+    "matches_played": 113,
+    "wins": 10,
+    "draws": 11,
+    "losses": 92,
+    "goals_for": 79,
+    "goals_against": 402,
+    "goal_difference": -323,
+    "win_percentage": 8.8,
+    "avg_points": 0.36,
+    "best_rank": 176,
+    "worst_rank": 202,
+    "avg_rank": 194.71,
+    "biggest_win": {
+      "score": "4-1",
+      "opponent": "South Yemen",
+      "date": "1988-02-26",
+      "flag": "south_yemen.png"
+    },
+    "biggest_loss": {
+      "score": "1-10",
+      "opponent": "Uganda",
+      "date": "2001-12-09",
+      "flag": "uganda.png"
+    },
+    "home_matches": 24,
+    "away_matches": 35,
+    "neutral_matches": 54,
+    "first_match_date": "1947-12-05",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-11-03",

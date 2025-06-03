@@ -1,5 +1,36 @@
 {
   "team": "Scotland",
+  "stats": {
+    "matches_played": 855,
+    "wins": 405,
+    "draws": 186,
+    "losses": 264,
+    "goals_for": 1464,
+    "goals_against": 1055,
+    "goal_difference": 409,
+    "win_percentage": 47.4,
+    "avg_points": 1.64,
+    "best_rank": 1,
+    "worst_rank": 62,
+    "avg_rank": 19.18,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Ireland",
+      "date": "1901-02-23",
+      "flag": "ireland.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Uruguay",
+      "date": "1954-06-19",
+      "flag": "uruguay.png"
+    },
+    "home_matches": 397,
+    "away_matches": 409,
+    "neutral_matches": 49,
+    "first_match_date": "1872-11-30",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-18",

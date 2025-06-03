@@ -1,5 +1,36 @@
 {
   "team": "Tahiti",
+  "stats": {
+    "matches_played": 246,
+    "wins": 130,
+    "draws": 35,
+    "losses": 81,
+    "goals_for": 642,
+    "goals_against": 375,
+    "goal_difference": 267,
+    "win_percentage": 52.8,
+    "avg_points": 1.73,
+    "best_rank": 101,
+    "worst_rank": 193,
+    "avg_rank": 149.96,
+    "biggest_win": {
+      "score": "30-0",
+      "opponent": "Cook Islands",
+      "date": "1971-09-13",
+      "flag": "cook.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "New Zealand",
+      "date": "2004-06-04",
+      "flag": "new_zealand.png"
+    },
+    "home_matches": 57,
+    "away_matches": 69,
+    "neutral_matches": 120,
+    "first_match_date": "1952-09-21",
+    "last_match_date": "2025-03-21"
+  },
   "matches": [
     {
       "date": "2025-03-21",

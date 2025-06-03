@@ -1,5 +1,36 @@
 {
   "team": "Malta",
+  "stats": {
+    "matches_played": 444,
+    "wins": 62,
+    "draws": 75,
+    "losses": 307,
+    "goals_for": 283,
+    "goals_against": 992,
+    "goal_difference": -709,
+    "win_percentage": 14.0,
+    "avg_points": 0.59,
+    "best_rank": 75,
+    "worst_rank": 146,
+    "avg_rank": 116.93,
+    "biggest_win": {
+      "score": "7-1",
+      "opponent": "Liechtenstein",
+      "date": "2008-03-26",
+      "flag": "liechtenstein.png"
+    },
+    "biggest_loss": {
+      "score": "1-12",
+      "opponent": "Spain",
+      "date": "1983-12-21",
+      "flag": "spain.png"
+    },
+    "home_matches": 240,
+    "away_matches": 178,
+    "neutral_matches": 26,
+    "first_match_date": "1957-02-24",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2026-03-31",

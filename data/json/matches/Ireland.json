@@ -1,5 +1,36 @@
 {
   "team": "Ireland",
+  "stats": {
+    "matches_played": 727,
+    "wins": 256,
+    "draws": 188,
+    "losses": 283,
+    "goals_for": 957,
+    "goals_against": 1145,
+    "goal_difference": -188,
+    "win_percentage": 35.2,
+    "avg_points": 1.31,
+    "best_rank": 6,
+    "worst_rank": 92,
+    "avg_rank": 27.52,
+    "biggest_win": {
+      "score": "8-0",
+      "opponent": "Malta",
+      "date": "1983-11-16",
+      "flag": "malta.png"
+    },
+    "biggest_loss": {
+      "score": "0-13",
+      "opponent": "England",
+      "date": "1882-02-18",
+      "flag": "england.png"
+    },
+    "home_matches": 371,
+    "away_matches": 297,
+    "neutral_matches": 59,
+    "first_match_date": "1882-02-18",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-16",

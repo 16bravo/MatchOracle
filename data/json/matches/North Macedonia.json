@@ -1,5 +1,36 @@
 {
   "team": "North Macedonia",
+  "stats": {
+    "matches_played": 293,
+    "wins": 93,
+    "draws": 73,
+    "losses": 127,
+    "goals_for": 354,
+    "goals_against": 392,
+    "goal_difference": -38,
+    "win_percentage": 31.7,
+    "avg_points": 1.2,
+    "best_rank": 37,
+    "worst_rank": 87,
+    "avg_rank": 63.18,
+    "biggest_win": {
+      "score": "11-1",
+      "opponent": "Liechtenstein",
+      "date": "1996-11-09",
+      "flag": "liechtenstein.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "England",
+      "date": "2023-06-19",
+      "flag": "england.png"
+    },
+    "home_matches": 31,
+    "away_matches": 127,
+    "neutral_matches": 135,
+    "first_match_date": "1993-10-13",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-18",

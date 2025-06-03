@@ -1,5 +1,36 @@
 {
   "team": "Azerbaijan",
+  "stats": {
+    "matches_played": 312,
+    "wins": 65,
+    "draws": 78,
+    "losses": 169,
+    "goals_for": 252,
+    "goals_against": 522,
+    "goal_difference": -270,
+    "win_percentage": 20.8,
+    "avg_points": 0.88,
+    "best_rank": 53,
+    "worst_rank": 130,
+    "avg_rank": 99.78,
+    "biggest_win": {
+      "score": "4-0",
+      "opponent": "Armenia",
+      "date": "1926-12-31",
+      "flag": "armenia.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "France",
+      "date": "1995-09-06",
+      "flag": "france.png"
+    },
+    "home_matches": 110,
+    "away_matches": 149,
+    "neutral_matches": 53,
+    "first_match_date": "1926-12-31",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-16",

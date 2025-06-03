@@ -1,5 +1,36 @@
 {
   "team": "Russia",
+  "stats": {
+    "matches_played": 764,
+    "wins": 398,
+    "draws": 198,
+    "losses": 168,
+    "goals_for": 1368,
+    "goals_against": 746,
+    "goal_difference": 622,
+    "win_percentage": 52.1,
+    "avg_points": 1.82,
+    "best_rank": 1,
+    "worst_rank": 48,
+    "avg_rank": 14.4,
+    "biggest_win": {
+      "score": "15-1",
+      "opponent": "Australia",
+      "date": "1956-11-15",
+      "flag": "australia.png"
+    },
+    "biggest_loss": {
+      "score": "0-16",
+      "opponent": "Germany",
+      "date": "1912-07-01",
+      "flag": "germany.png"
+    },
+    "home_matches": 155,
+    "away_matches": 356,
+    "neutral_matches": 253,
+    "first_match_date": "1912-06-30",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-10-06",

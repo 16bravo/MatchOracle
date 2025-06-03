@@ -1,5 +1,36 @@
 {
   "team": "Mozambique",
+  "stats": {
+    "matches_played": 400,
+    "wins": 123,
+    "draws": 105,
+    "losses": 172,
+    "goals_for": 407,
+    "goals_against": 514,
+    "goal_difference": -107,
+    "win_percentage": 30.8,
+    "avg_points": 1.19,
+    "best_rank": 84,
+    "worst_rank": 144,
+    "avg_rank": 116.68,
+    "biggest_win": {
+      "score": "6-1",
+      "opponent": "Lesotho",
+      "date": "1980-08-10",
+      "flag": "lesotho.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Rhodesia",
+      "date": "1979-05-19",
+      "flag": "rhodesia.png"
+    },
+    "home_matches": 151,
+    "away_matches": 158,
+    "neutral_matches": 91,
+    "first_match_date": "1975-06-25",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-31",

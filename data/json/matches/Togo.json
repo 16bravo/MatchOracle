@@ -1,5 +1,36 @@
 {
   "team": "Togo",
+  "stats": {
+    "matches_played": 480,
+    "wins": 149,
+    "draws": 125,
+    "losses": 206,
+    "goals_for": 520,
+    "goals_against": 663,
+    "goal_difference": -143,
+    "win_percentage": 31.0,
+    "avg_points": 1.19,
+    "best_rank": 62,
+    "worst_rank": 130,
+    "avg_rank": 95.28,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Swaziland",
+      "date": "2008-10-11",
+      "flag": "eswatini.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Morocco",
+      "date": "1979-06-24",
+      "flag": "morocco.png"
+    },
+    "home_matches": 170,
+    "away_matches": 191,
+    "neutral_matches": 119,
+    "first_match_date": "1954-12-31",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-03-25",

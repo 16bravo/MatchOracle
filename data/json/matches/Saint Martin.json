@@ -1,5 +1,36 @@
 {
   "team": "Saint Martin",
+  "stats": {
+    "matches_played": 73,
+    "wins": 28,
+    "draws": 8,
+    "losses": 37,
+    "goals_for": 113,
+    "goals_against": 164,
+    "goal_difference": -51,
+    "win_percentage": 38.4,
+    "avg_points": 1.26,
+    "best_rank": 183,
+    "worst_rank": 210,
+    "avg_rank": 197.92,
+    "biggest_win": {
+      "score": "8-0",
+      "opponent": "Anguilla",
+      "date": "2023-10-16",
+      "flag": "anguilla.png"
+    },
+    "biggest_loss": {
+      "score": "0-12",
+      "opponent": "Jamaica",
+      "date": "2004-11-24",
+      "flag": "jamaica.png"
+    },
+    "home_matches": 14,
+    "away_matches": 31,
+    "neutral_matches": 28,
+    "first_match_date": "1988-06-14",
+    "last_match_date": "2025-05-25"
+  },
   "matches": [
     {
       "date": "2025-05-25",

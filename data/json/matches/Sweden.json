@@ -1,5 +1,36 @@
 {
   "team": "Sweden",
+  "stats": {
+    "matches_played": 1110,
+    "wins": 547,
+    "draws": 233,
+    "losses": 330,
+    "goals_for": 2214,
+    "goals_against": 1460,
+    "goal_difference": 754,
+    "win_percentage": 49.3,
+    "avg_points": 1.69,
+    "best_rank": 3,
+    "worst_rank": 37,
+    "avg_rank": 17.38,
+    "biggest_win": {
+      "score": "12-0",
+      "opponent": "Latvia",
+      "date": "1927-05-29",
+      "flag": "latvia.png"
+    },
+    "biggest_loss": {
+      "score": "1-12",
+      "opponent": "England",
+      "date": "1908-10-20",
+      "flag": "england.png"
+    },
+    "home_matches": 483,
+    "away_matches": 497,
+    "neutral_matches": 130,
+    "first_match_date": "1908-07-12",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-18",

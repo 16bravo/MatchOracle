@@ -1,5 +1,36 @@
 {
   "team": "Guadeloupe",
+  "stats": {
+    "matches_played": 284,
+    "wins": 124,
+    "draws": 50,
+    "losses": 110,
+    "goals_for": 476,
+    "goals_against": 398,
+    "goal_difference": 78,
+    "win_percentage": 43.7,
+    "avg_points": 1.49,
+    "best_rank": 101,
+    "worst_rank": 169,
+    "avg_rank": 131.31,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "US Virgin Islands",
+      "date": "2001-04-12",
+      "flag": "us_virgin.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Martinique",
+      "date": "1934-12-31",
+      "flag": "martinique.png"
+    },
+    "home_matches": 91,
+    "away_matches": 87,
+    "neutral_matches": 106,
+    "first_match_date": "1934-12-31",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-24",

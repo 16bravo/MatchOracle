@@ -1,5 +1,36 @@
 {
   "team": "North Vietnam",
+  "stats": {
+    "matches_played": 25,
+    "wins": 7,
+    "draws": 3,
+    "losses": 15,
+    "goals_for": 49,
+    "goals_against": 57,
+    "goal_difference": -8,
+    "win_percentage": 28.0,
+    "avg_points": 0.96,
+    "best_rank": 93,
+    "worst_rank": 131,
+    "avg_rank": 114.57,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "North Yemen",
+      "date": "1966-11-26",
+      "flag": "north_yemen.png"
+    },
+    "biggest_loss": {
+      "score": "0-5",
+      "opponent": "North Korea",
+      "date": "1959-10-22",
+      "flag": "north_korea.png"
+    },
+    "home_matches": 5,
+    "away_matches": 5,
+    "neutral_matches": 15,
+    "first_match_date": "1956-10-04",
+    "last_match_date": "1970-09-20"
+  },
   "matches": [
     {
       "date": "1970-09-20",

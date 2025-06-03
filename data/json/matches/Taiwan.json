@@ -1,5 +1,36 @@
 {
   "team": "Taiwan",
+  "stats": {
+    "matches_played": 330,
+    "wins": 94,
+    "draws": 51,
+    "losses": 185,
+    "goals_for": 456,
+    "goals_against": 764,
+    "goal_difference": -308,
+    "win_percentage": 28.5,
+    "avg_points": 1.01,
+    "best_rank": 62,
+    "worst_rank": 202,
+    "avg_rank": 162.73,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "Guam",
+      "date": "2007-06-17",
+      "flag": "guam.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Kuwait",
+      "date": "2006-11-09",
+      "flag": "kuwait.png"
+    },
+    "home_matches": 91,
+    "away_matches": 104,
+    "neutral_matches": 135,
+    "first_match_date": "1954-05-01",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

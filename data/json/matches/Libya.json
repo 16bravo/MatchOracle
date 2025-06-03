@@ -1,5 +1,36 @@
 {
   "team": "Libya",
+  "stats": {
+    "matches_played": 437,
+    "wins": 159,
+    "draws": 101,
+    "losses": 177,
+    "goals_for": 593,
+    "goals_against": 580,
+    "goal_difference": 13,
+    "win_percentage": 36.4,
+    "avg_points": 1.32,
+    "best_rank": 48,
+    "worst_rank": 121,
+    "avg_rank": 86.92,
+    "biggest_win": {
+      "score": "21-0",
+      "opponent": "Oman",
+      "date": "1966-04-01",
+      "flag": "oman.png"
+    },
+    "biggest_loss": {
+      "score": "2-10",
+      "opponent": "Egypt",
+      "date": "1953-08-06",
+      "flag": "egypt.png"
+    },
+    "home_matches": 157,
+    "away_matches": 158,
+    "neutral_matches": 122,
+    "first_match_date": "1953-08-03",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-03",

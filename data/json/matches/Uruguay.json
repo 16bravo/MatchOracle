@@ -1,5 +1,36 @@
 {
   "team": "Uruguay",
+  "stats": {
+    "matches_played": 1001,
+    "wins": 440,
+    "draws": 246,
+    "losses": 315,
+    "goals_for": 1582,
+    "goals_against": 1223,
+    "goal_difference": 359,
+    "win_percentage": 44.0,
+    "avg_points": 1.56,
+    "best_rank": 1,
+    "worst_rank": 39,
+    "avg_rank": 13.69,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Bolivia",
+      "date": "1927-11-06",
+      "flag": "bolivia.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Argentina",
+      "date": "1902-07-20",
+      "flag": "argentina.png"
+    },
+    "home_matches": 330,
+    "away_matches": 423,
+    "neutral_matches": 248,
+    "first_match_date": "1902-07-20",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-09-14",

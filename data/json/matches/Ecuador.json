@@ -1,5 +1,36 @@
 {
   "team": "Ecuador",
+  "stats": {
+    "matches_played": 588,
+    "wins": 181,
+    "draws": 153,
+    "losses": 254,
+    "goals_for": 712,
+    "goals_against": 899,
+    "goal_difference": -187,
+    "win_percentage": 30.8,
+    "avg_points": 1.18,
+    "best_rank": 9,
+    "worst_rank": 132,
+    "avg_rank": 39.9,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Peru",
+      "date": "1975-06-22",
+      "flag": "peru.png"
+    },
+    "biggest_loss": {
+      "score": "0-12",
+      "opponent": "Argentina",
+      "date": "1942-01-22",
+      "flag": "argentina.png"
+    },
+    "home_matches": 181,
+    "away_matches": 205,
+    "neutral_matches": 202,
+    "first_match_date": "1938-08-08",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-10-14",

@@ -1,5 +1,36 @@
 {
   "team": "Dominica",
+  "stats": {
+    "matches_played": 236,
+    "wins": 58,
+    "draws": 51,
+    "losses": 127,
+    "goals_for": 278,
+    "goals_against": 471,
+    "goal_difference": -193,
+    "win_percentage": 24.6,
+    "avg_points": 0.95,
+    "best_rank": 159,
+    "worst_rank": 196,
+    "avg_rank": 182.49,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "British Virgin Islands",
+      "date": "2010-10-15",
+      "flag": "gb_virgin.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Mexico",
+      "date": "2004-06-19",
+      "flag": "mexico.png"
+    },
+    "home_matches": 68,
+    "away_matches": 95,
+    "neutral_matches": 73,
+    "first_match_date": "1932-12-31",
+    "last_match_date": "2025-05-11"
+  },
   "matches": [
     {
       "date": "2025-06-10",

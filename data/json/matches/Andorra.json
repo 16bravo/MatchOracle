@@ -1,5 +1,36 @@
 {
   "team": "Andorra",
+  "stats": {
+    "matches_played": 218,
+    "wins": 14,
+    "draws": 29,
+    "losses": 175,
+    "goals_for": 72,
+    "goals_against": 521,
+    "goal_difference": -449,
+    "win_percentage": 6.4,
+    "avg_points": 0.33,
+    "best_rank": 128,
+    "worst_rank": 166,
+    "avg_rank": 151.1,
+    "biggest_win": {
+      "score": "3-0",
+      "opponent": "San Marino",
+      "date": "2021-10-12",
+      "flag": "san_marino.png"
+    },
+    "biggest_loss": {
+      "score": "1-8",
+      "opponent": "Czechia",
+      "date": "2005-06-04",
+      "flag": "czechia.png"
+    },
+    "home_matches": 89,
+    "away_matches": 98,
+    "neutral_matches": 31,
+    "first_match_date": "1996-11-13",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-11-17",

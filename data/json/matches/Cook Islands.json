@@ -1,5 +1,36 @@
 {
   "team": "Cook Islands",
+  "stats": {
+    "matches_played": 55,
+    "wins": 12,
+    "draws": 4,
+    "losses": 39,
+    "goals_for": 48,
+    "goals_against": 275,
+    "goal_difference": -227,
+    "win_percentage": 21.8,
+    "avg_points": 0.73,
+    "best_rank": 216,
+    "worst_rank": 222,
+    "avg_rank": 217.89,
+    "biggest_win": {
+      "score": "3-0",
+      "opponent": "Eastern Samoa",
+      "date": "2000-06-10",
+      "flag": "us_samoa.png"
+    },
+    "biggest_loss": {
+      "score": "0-30",
+      "opponent": "Tahiti",
+      "date": "1971-09-13",
+      "flag": "tahiti.png"
+    },
+    "home_matches": 4,
+    "away_matches": 14,
+    "neutral_matches": 37,
+    "first_match_date": "1971-09-11",
+    "last_match_date": "2024-09-09"
+  },
   "matches": [
     {
       "date": "2024-09-09",

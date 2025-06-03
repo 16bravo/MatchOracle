@@ -1,5 +1,36 @@
 {
   "team": "Guinea-Bissau",
+  "stats": {
+    "matches_played": 200,
+    "wins": 56,
+    "draws": 48,
+    "losses": 96,
+    "goals_for": 202,
+    "goals_against": 296,
+    "goal_difference": -94,
+    "win_percentage": 28.0,
+    "avg_points": 1.08,
+    "best_rank": 93,
+    "worst_rank": 150,
+    "avg_rank": 121.59,
+    "biggest_win": {
+      "score": "7-2",
+      "opponent": "Benin",
+      "date": "2001-11-03",
+      "flag": "benin.png"
+    },
+    "biggest_loss": {
+      "score": "1-6",
+      "opponent": "Mali",
+      "date": "1997-12-01",
+      "flag": "mali.png"
+    },
+    "home_matches": 59,
+    "away_matches": 54,
+    "neutral_matches": 87,
+    "first_match_date": "1953-06-02",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-06-09",

@@ -1,5 +1,36 @@
 {
   "team": "Afghanistan",
+  "stats": {
+    "matches_played": 156,
+    "wins": 36,
+    "draws": 36,
+    "losses": 84,
+    "goals_for": 148,
+    "goals_against": 322,
+    "goal_difference": -174,
+    "win_percentage": 23.1,
+    "avg_points": 0.92,
+    "best_rank": 168,
+    "worst_rank": 201,
+    "avg_rank": 184.93,
+    "biggest_win": {
+      "score": "8-1",
+      "opponent": "Bhutan",
+      "date": "2011-12-07",
+      "flag": "bhutan.png"
+    },
+    "biggest_loss": {
+      "score": "0-11",
+      "opponent": "Turkmenistan",
+      "date": "2003-11-19",
+      "flag": "turkmenistan.png"
+    },
+    "home_matches": 9,
+    "away_matches": 61,
+    "neutral_matches": 86,
+    "first_match_date": "1941-08-24",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

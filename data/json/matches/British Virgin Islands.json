@@ -1,5 +1,36 @@
 {
   "team": "British Virgin Islands",
+  "stats": {
+    "matches_played": 130,
+    "wins": 19,
+    "draws": 23,
+    "losses": 88,
+    "goals_for": 109,
+    "goals_against": 386,
+    "goal_difference": -277,
+    "win_percentage": 14.6,
+    "avg_points": 0.62,
+    "best_rank": 201,
+    "worst_rank": 214,
+    "avg_rank": 207.7,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Anguilla",
+      "date": "1990-03-28",
+      "flag": "anguilla.png"
+    },
+    "biggest_loss": {
+      "score": "0-17",
+      "opponent": "Dominican Republic",
+      "date": "2010-10-14",
+      "flag": "dominican_rep.png"
+    },
+    "home_matches": 35,
+    "away_matches": 57,
+    "neutral_matches": 38,
+    "first_match_date": "1985-10-31",
+    "last_match_date": "2025-05-29"
+  },
   "matches": [
     {
       "date": "2025-06-07",

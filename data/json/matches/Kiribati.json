@@ -1,5 +1,36 @@
 {
   "team": "Kiribati",
+  "stats": {
+    "matches_played": 11,
+    "wins": 0,
+    "draws": 1,
+    "losses": 10,
+    "goals_for": 7,
+    "goals_against": 126,
+    "goal_difference": -119,
+    "win_percentage": 0.0,
+    "avg_points": 0.09,
+    "best_rank": 221,
+    "worst_rank": 224,
+    "avg_rank": 222.45,
+    "biggest_win": {
+      "score": "3-3",
+      "opponent": "Tuvalu",
+      "date": "1979-09-05",
+      "flag": "tuvalu.png"
+    },
+    "biggest_loss": {
+      "score": "0-24",
+      "opponent": "Fiji",
+      "date": "1979-08-30",
+      "flag": "fiji.png"
+    },
+    "home_matches": 0,
+    "away_matches": 2,
+    "neutral_matches": 9,
+    "first_match_date": "1979-08-30",
+    "last_match_date": "2011-09-05"
+  },
   "matches": [
     {
       "date": "2011-09-05",

@@ -1,5 +1,36 @@
 {
   "team": "Mali",
+  "stats": {
+    "matches_played": 596,
+    "wins": 244,
+    "draws": 157,
+    "losses": 195,
+    "goals_for": 794,
+    "goals_against": 679,
+    "goal_difference": 115,
+    "win_percentage": 40.9,
+    "avg_points": 1.49,
+    "best_rank": 49,
+    "worst_rank": 116,
+    "avg_rank": 81.3,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Mauritania",
+      "date": "1972-10-01",
+      "flag": "mauritania.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Algeria",
+      "date": "1988-11-13",
+      "flag": "algeria.png"
+    },
+    "home_matches": 187,
+    "away_matches": 216,
+    "neutral_matches": 193,
+    "first_match_date": "1954-12-31",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-12-29",

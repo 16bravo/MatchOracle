@@ -1,5 +1,36 @@
 {
   "team": "Palestine",
+  "stats": {
+    "matches_played": 276,
+    "wins": 78,
+    "draws": 71,
+    "losses": 127,
+    "goals_for": 353,
+    "goals_against": 437,
+    "goal_difference": -84,
+    "win_percentage": 28.3,
+    "avg_points": 1.11,
+    "best_rank": 96,
+    "worst_rank": 164,
+    "avg_rank": 134.53,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Guam",
+      "date": "2006-04-01",
+      "flag": "guam.png"
+    },
+    "biggest_loss": {
+      "score": "1-9",
+      "opponent": "Lebanon",
+      "date": "1953-08-08",
+      "flag": "lebanon.png"
+    },
+    "home_matches": 18,
+    "away_matches": 108,
+    "neutral_matches": 150,
+    "first_match_date": "1934-03-16",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-03",

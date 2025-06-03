@@ -1,5 +1,36 @@
 {
   "team": "Namibia",
+  "stats": {
+    "matches_played": 293,
+    "wins": 75,
+    "draws": 89,
+    "losses": 129,
+    "goals_for": 286,
+    "goals_against": 408,
+    "goal_difference": -122,
+    "win_percentage": 25.6,
+    "avg_points": 1.07,
+    "best_rank": 94,
+    "worst_rank": 159,
+    "avg_rank": 123.89,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Botswana",
+      "date": "1996-08-25",
+      "flag": "botswana.png"
+    },
+    "biggest_loss": {
+      "score": "1-7",
+      "opponent": "Egypt",
+      "date": "1996-11-08",
+      "flag": "egypt.png"
+    },
+    "home_matches": 102,
+    "away_matches": 114,
+    "neutral_matches": 77,
+    "first_match_date": "1989-05-16",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-06-10",

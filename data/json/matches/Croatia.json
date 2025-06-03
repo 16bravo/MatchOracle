@@ -1,5 +1,36 @@
 {
   "team": "Croatia",
+  "stats": {
+    "matches_played": 388,
+    "wins": 201,
+    "draws": 105,
+    "losses": 82,
+    "goals_for": 665,
+    "goals_against": 393,
+    "goal_difference": 272,
+    "win_percentage": 51.8,
+    "avg_points": 1.82,
+    "best_rank": 5,
+    "worst_rank": 31,
+    "avg_rank": 14.74,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "San Marino",
+      "date": "2016-06-04",
+      "flag": "san_marino.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Spain",
+      "date": "2018-09-11",
+      "flag": "spain.png"
+    },
+    "home_matches": 152,
+    "away_matches": 164,
+    "neutral_matches": 72,
+    "first_match_date": "1940-04-02",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-17",

@@ -1,5 +1,36 @@
 {
   "team": "Faroe Islands",
+  "stats": {
+    "matches_played": 265,
+    "wins": 38,
+    "draws": 36,
+    "losses": 191,
+    "goals_for": 179,
+    "goals_against": 626,
+    "goal_difference": -447,
+    "win_percentage": 14.3,
+    "avg_points": 0.57,
+    "best_rank": 103,
+    "worst_rank": 173,
+    "avg_rank": 133.49,
+    "biggest_win": {
+      "score": "5-1",
+      "opponent": "Liechtenstein",
+      "date": "2021-06-07",
+      "flag": "liechtenstein.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Iceland",
+      "date": "1985-07-10",
+      "flag": "iceland.png"
+    },
+    "home_matches": 112,
+    "away_matches": 134,
+    "neutral_matches": 19,
+    "first_match_date": "1930-07-29",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-14",

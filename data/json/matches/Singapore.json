@@ -1,5 +1,36 @@
 {
   "team": "Singapore",
+  "stats": {
+    "matches_played": 749,
+    "wins": 231,
+    "draws": 154,
+    "losses": 364,
+    "goals_for": 996,
+    "goals_against": 1356,
+    "goal_difference": -360,
+    "win_percentage": 30.8,
+    "avg_points": 1.13,
+    "best_rank": 110,
+    "worst_rank": 185,
+    "avg_rank": 151.57,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Laos",
+      "date": "2007-01-15",
+      "flag": "laos.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Burma",
+      "date": "1969-11-09",
+      "flag": "burma.png"
+    },
+    "home_matches": 309,
+    "away_matches": 174,
+    "neutral_matches": 266,
+    "first_match_date": "1948-05-22",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

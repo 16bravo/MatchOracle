@@ -1,5 +1,36 @@
 {
   "team": "Sudan",
+  "stats": {
+    "matches_played": 529,
+    "wins": 182,
+    "draws": 134,
+    "losses": 213,
+    "goals_for": 616,
+    "goals_against": 694,
+    "goal_difference": -78,
+    "win_percentage": 34.4,
+    "avg_points": 1.29,
+    "best_rank": 37,
+    "worst_rank": 138,
+    "avg_rank": 97.99,
+    "biggest_win": {
+      "score": "15-0",
+      "opponent": "Oman",
+      "date": "1965-09-04",
+      "flag": "oman.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "South Korea",
+      "date": "1979-09-08",
+      "flag": "south_korea.png"
+    },
+    "home_matches": 151,
+    "away_matches": 196,
+    "neutral_matches": 182,
+    "first_match_date": "1956-05-13",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-31",

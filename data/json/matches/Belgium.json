@@ -1,5 +1,36 @@
 {
   "team": "Belgium",
+  "stats": {
+    "matches_played": 866,
+    "wins": 384,
+    "draws": 180,
+    "losses": 302,
+    "goals_for": 1564,
+    "goals_against": 1349,
+    "goal_difference": 215,
+    "win_percentage": 44.3,
+    "avg_points": 1.54,
+    "best_rank": 1,
+    "worst_rank": 73,
+    "avg_rank": 21.49,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Zambia",
+      "date": "1994-06-04",
+      "flag": "zambia.png"
+    },
+    "biggest_loss": {
+      "score": "2-11",
+      "opponent": "England",
+      "date": "1909-04-19",
+      "flag": "england.png"
+    },
+    "home_matches": 411,
+    "away_matches": 370,
+    "neutral_matches": 85,
+    "first_match_date": "1904-05-01",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-18",

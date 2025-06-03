@@ -1,5 +1,36 @@
 {
   "team": "Bahamas",
+  "stats": {
+    "matches_played": 83,
+    "wins": 17,
+    "draws": 11,
+    "losses": 55,
+    "goals_for": 88,
+    "goals_against": 264,
+    "goal_difference": -176,
+    "win_percentage": 20.5,
+    "avg_points": 0.75,
+    "best_rank": 201,
+    "worst_rank": 207,
+    "avg_rank": 204.47,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Turks and Caicos Islands",
+      "date": "2011-07-09",
+      "flag": "turks_caicos.png"
+    },
+    "biggest_loss": {
+      "score": "0-13",
+      "opponent": "Mexico",
+      "date": "1987-04-28",
+      "flag": "mexico.png"
+    },
+    "home_matches": 30,
+    "away_matches": 29,
+    "neutral_matches": 24,
+    "first_match_date": "1965-07-17",
+    "last_match_date": "2024-10-15"
+  },
   "matches": [
     {
       "date": "2025-06-07",

@@ -1,5 +1,36 @@
 {
   "team": "Belarus",
+  "stats": {
+    "matches_played": 291,
+    "wins": 87,
+    "draws": 74,
+    "losses": 130,
+    "goals_for": 325,
+    "goals_against": 412,
+    "goal_difference": -87,
+    "win_percentage": 29.9,
+    "avg_points": 1.15,
+    "best_rank": 33,
+    "worst_rank": 100,
+    "avg_rank": 65.74,
+    "biggest_win": {
+      "score": "5-0",
+      "opponent": "Lithuania",
+      "date": "1998-06-07",
+      "flag": "lithuania.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Belgium",
+      "date": "2021-03-30",
+      "flag": "belgium.png"
+    },
+    "home_matches": 98,
+    "away_matches": 151,
+    "neutral_matches": 42,
+    "first_match_date": "1992-10-28",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-18",

@@ -1,5 +1,36 @@
 {
   "team": "Australia",
+  "stats": {
+    "matches_played": 619,
+    "wins": 319,
+    "draws": 130,
+    "losses": 170,
+    "goals_for": 1264,
+    "goals_against": 680,
+    "goal_difference": 584,
+    "win_percentage": 51.5,
+    "avg_points": 1.76,
+    "best_rank": 15,
+    "worst_rank": 87,
+    "avg_rank": 41.1,
+    "biggest_win": {
+      "score": "31-0",
+      "opponent": "Eastern Samoa",
+      "date": "2001-04-11",
+      "flag": "us_samoa.png"
+    },
+    "biggest_loss": {
+      "score": "1-15",
+      "opponent": "Soviet Union",
+      "date": "1956-11-15",
+      "flag": "ussr.png"
+    },
+    "home_matches": 259,
+    "away_matches": 220,
+    "neutral_matches": 140,
+    "first_match_date": "1922-06-17",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

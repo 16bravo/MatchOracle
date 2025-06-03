@@ -1,5 +1,36 @@
 {
   "team": "Latvia",
+  "stats": {
+    "matches_played": 448,
+    "wins": 126,
+    "draws": 107,
+    "losses": 215,
+    "goals_for": 527,
+    "goals_against": 741,
+    "goal_difference": -214,
+    "win_percentage": 28.1,
+    "avg_points": 1.08,
+    "best_rank": 48,
+    "worst_rank": 143,
+    "avg_rank": 91.16,
+    "biggest_win": {
+      "score": "6-1",
+      "opponent": "Lithuania",
+      "date": "1935-05-30",
+      "flag": "lithuania.png"
+    },
+    "biggest_loss": {
+      "score": "0-12",
+      "opponent": "Sweden",
+      "date": "1927-05-29",
+      "flag": "sweden.png"
+    },
+    "home_matches": 185,
+    "away_matches": 209,
+    "neutral_matches": 54,
+    "first_match_date": "1922-09-24",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2026-03-31",

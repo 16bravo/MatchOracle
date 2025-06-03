@@ -1,5 +1,36 @@
 {
   "team": "Kenya",
+  "stats": {
+    "matches_played": 720,
+    "wins": 271,
+    "draws": 177,
+    "losses": 272,
+    "goals_for": 991,
+    "goals_against": 979,
+    "goal_difference": 12,
+    "win_percentage": 37.6,
+    "avg_points": 1.38,
+    "best_rank": 52,
+    "worst_rank": 131,
+    "avg_rank": 98.72,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "Zanzibar",
+      "date": "1961-10-04",
+      "flag": "zanzibar.png"
+    },
+    "biggest_loss": {
+      "score": "1-13",
+      "opponent": "Uganda",
+      "date": "1932-12-31",
+      "flag": "uganda.png"
+    },
+    "home_matches": 262,
+    "away_matches": 254,
+    "neutral_matches": 204,
+    "first_match_date": "1926-05-01",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-06-10",

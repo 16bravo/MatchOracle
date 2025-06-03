@@ -1,5 +1,36 @@
 {
   "team": "Zambia",
+  "stats": {
+    "matches_played": 837,
+    "wins": 379,
+    "draws": 214,
+    "losses": 244,
+    "goals_for": 1326,
+    "goals_against": 886,
+    "goal_difference": 440,
+    "win_percentage": 45.3,
+    "avg_points": 1.61,
+    "best_rank": 35,
+    "worst_rank": 111,
+    "avg_rank": 68.44,
+    "biggest_win": {
+      "score": "11-2",
+      "opponent": "Swaziland",
+      "date": "1978-02-05",
+      "flag": "eswatini.png"
+    },
+    "biggest_loss": {
+      "score": "1-10",
+      "opponent": "DR Congo",
+      "date": "1969-11-22",
+      "flag": "dr_congo.png"
+    },
+    "home_matches": 253,
+    "away_matches": 343,
+    "neutral_matches": 241,
+    "first_match_date": "1946-12-31",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-29",

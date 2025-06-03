@@ -1,5 +1,36 @@
 {
   "team": "Haiti",
+  "stats": {
+    "matches_played": 546,
+    "wins": 241,
+    "draws": 114,
+    "losses": 191,
+    "goals_for": 931,
+    "goals_against": 740,
+    "goal_difference": 191,
+    "win_percentage": 44.1,
+    "avg_points": 1.53,
+    "best_rank": 58,
+    "worst_rank": 146,
+    "avg_rank": 103.99,
+    "biggest_win": {
+      "score": "13-0",
+      "opponent": "Sint Maarten",
+      "date": "2018-09-10",
+      "flag": "st_maarten.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Mexico",
+      "date": "1953-07-19",
+      "flag": "mexico.png"
+    },
+    "home_matches": 181,
+    "away_matches": 188,
+    "neutral_matches": 177,
+    "first_match_date": "1925-03-22",
+    "last_match_date": "2025-03-22"
+  },
   "matches": [
     {
       "date": "2025-06-22",

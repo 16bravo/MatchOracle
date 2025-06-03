@@ -1,5 +1,36 @@
 {
   "team": "Moldova",
+  "stats": {
+    "matches_played": 289,
+    "wins": 59,
+    "draws": 67,
+    "losses": 163,
+    "goals_for": 236,
+    "goals_against": 487,
+    "goal_difference": -251,
+    "win_percentage": 20.4,
+    "avg_points": 0.84,
+    "best_rank": 75,
+    "worst_rank": 144,
+    "avg_rank": 102.46,
+    "biggest_win": {
+      "score": "5-0",
+      "opponent": "Pakistan",
+      "date": "1992-08-18",
+      "flag": "pakistan.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Denmark",
+      "date": "2021-03-28",
+      "flag": "denmark.png"
+    },
+    "home_matches": 109,
+    "away_matches": 139,
+    "neutral_matches": 41,
+    "first_match_date": "1991-07-02",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-16",

@@ -1,5 +1,36 @@
 {
   "team": "Northern Mariana Islands",
+  "stats": {
+    "matches_played": 35,
+    "wins": 5,
+    "draws": 3,
+    "losses": 27,
+    "goals_for": 43,
+    "goals_against": 146,
+    "goal_difference": -103,
+    "win_percentage": 14.3,
+    "avg_points": 0.51,
+    "best_rank": 215,
+    "worst_rank": 220,
+    "avg_rank": 219.29,
+    "biggest_win": {
+      "score": "12-1",
+      "opponent": "Palau",
+      "date": "1998-07-31",
+      "flag": "palau.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Fiji",
+      "date": "2023-11-18",
+      "flag": "fiji.png"
+    },
+    "home_matches": 0,
+    "away_matches": 10,
+    "neutral_matches": 25,
+    "first_match_date": "1998-07-30",
+    "last_match_date": "2024-12-22"
+  },
   "matches": [
     {
       "date": "2024-12-22",

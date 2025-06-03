@@ -1,5 +1,36 @@
 {
   "team": "South Africa",
+  "stats": {
+    "matches_played": 500,
+    "wins": 221,
+    "draws": 147,
+    "losses": 132,
+    "goals_for": 684,
+    "goals_against": 513,
+    "goal_difference": 171,
+    "win_percentage": 44.2,
+    "avg_points": 1.62,
+    "best_rank": 23,
+    "worst_rank": 99,
+    "avg_rank": 63.5,
+    "biggest_win": {
+      "score": "8-0",
+      "opponent": "Australia",
+      "date": "1955-09-17",
+      "flag": "australia.png"
+    },
+    "biggest_loss": {
+      "score": "1-9",
+      "opponent": "England",
+      "date": "1920-07-17",
+      "flag": "england.png"
+    },
+    "home_matches": 257,
+    "away_matches": 158,
+    "neutral_matches": 85,
+    "first_match_date": "1906-07-09",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-29",

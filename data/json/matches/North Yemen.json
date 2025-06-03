@@ -1,5 +1,36 @@
 {
   "team": "North Yemen",
+  "stats": {
+    "matches_played": 37,
+    "wins": 2,
+    "draws": 3,
+    "losses": 32,
+    "goals_for": 19,
+    "goals_against": 160,
+    "goal_difference": -141,
+    "win_percentage": 5.4,
+    "avg_points": 0.24,
+    "best_rank": 191,
+    "worst_rank": 209,
+    "avg_rank": 204.03,
+    "biggest_win": {
+      "score": "2-1",
+      "opponent": "United Arab Emirates",
+      "date": "1985-08-11",
+      "flag": "uae.png"
+    },
+    "biggest_loss": {
+      "score": "0-14",
+      "opponent": "Libya",
+      "date": "1966-04-06",
+      "flag": "libya.png"
+    },
+    "home_matches": 6,
+    "away_matches": 8,
+    "neutral_matches": 23,
+    "first_match_date": "1966-04-02",
+    "last_match_date": "1989-04-05"
+  },
   "matches": [
     {
       "date": "1989-04-05",

@@ -1,5 +1,36 @@
 {
   "team": "Peru",
+  "stats": {
+    "matches_played": 701,
+    "wins": 229,
+    "draws": 172,
+    "losses": 300,
+    "goals_for": 856,
+    "goals_against": 979,
+    "goal_difference": -123,
+    "win_percentage": 32.7,
+    "avg_points": 1.23,
+    "best_rank": 13,
+    "worst_rank": 76,
+    "avg_rank": 32.57,
+    "biggest_win": {
+      "score": "9-1",
+      "opponent": "Ecuador",
+      "date": "1938-08-11",
+      "flag": "ecuador.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Brazil",
+      "date": "1997-06-26",
+      "flag": "brazil.png"
+    },
+    "home_matches": 266,
+    "away_matches": 249,
+    "neutral_matches": 186,
+    "first_match_date": "1927-11-01",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-09-14",

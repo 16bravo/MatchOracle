@@ -1,5 +1,36 @@
 {
   "team": "Egypt",
+  "stats": {
+    "matches_played": 843,
+    "wins": 431,
+    "draws": 203,
+    "losses": 209,
+    "goals_for": 1476,
+    "goals_against": 880,
+    "goal_difference": 596,
+    "win_percentage": 51.1,
+    "avg_points": 1.77,
+    "best_rank": 13,
+    "worst_rank": 62,
+    "avg_rank": 42.65,
+    "biggest_win": {
+      "score": "15-0",
+      "opponent": "Laos",
+      "date": "1963-11-15",
+      "flag": "laos.png"
+    },
+    "biggest_loss": {
+      "score": "3-11",
+      "opponent": "Italy",
+      "date": "1928-06-09",
+      "flag": "italy.png"
+    },
+    "home_matches": 332,
+    "away_matches": 269,
+    "neutral_matches": 242,
+    "first_match_date": "1920-08-28",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-29",

@@ -1,5 +1,36 @@
 {
   "team": "Panama",
+  "stats": {
+    "matches_played": 580,
+    "wins": 190,
+    "draws": 139,
+    "losses": 251,
+    "goals_for": 715,
+    "goals_against": 898,
+    "goal_difference": -183,
+    "win_percentage": 32.8,
+    "avg_points": 1.22,
+    "best_rank": 39,
+    "worst_rank": 167,
+    "avg_rank": 96.8,
+    "biggest_win": {
+      "score": "13-0",
+      "opponent": "Anguilla",
+      "date": "2021-06-05",
+      "flag": "anguilla.png"
+    },
+    "biggest_loss": {
+      "score": "0-11",
+      "opponent": "Costa Rica",
+      "date": "1938-02-16",
+      "flag": "costa_rica.png"
+    },
+    "home_matches": 197,
+    "away_matches": 223,
+    "neutral_matches": 160,
+    "first_match_date": "1938-02-12",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-06-24",

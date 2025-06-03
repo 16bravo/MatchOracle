@@ -1,5 +1,36 @@
 {
   "team": "Trinidad and Tobago",
+  "stats": {
+    "matches_played": 853,
+    "wins": 373,
+    "draws": 185,
+    "losses": 295,
+    "goals_for": 1431,
+    "goals_against": 1080,
+    "goal_difference": 351,
+    "win_percentage": 43.7,
+    "avg_points": 1.53,
+    "best_rank": 56,
+    "worst_rank": 142,
+    "avg_rank": 97.24,
+    "biggest_win": {
+      "score": "15-0",
+      "opponent": "Anguilla",
+      "date": "2019-11-10",
+      "flag": "anguilla.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Mexico",
+      "date": "2000-10-08",
+      "flag": "mexico.png"
+    },
+    "home_matches": 340,
+    "away_matches": 355,
+    "neutral_matches": 158,
+    "first_match_date": "1905-07-21",
+    "last_match_date": "2025-05-31"
+  },
   "matches": [
     {
       "date": "2025-06-22",

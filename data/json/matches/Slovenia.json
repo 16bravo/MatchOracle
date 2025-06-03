@@ -1,5 +1,36 @@
 {
   "team": "Slovenia",
+  "stats": {
+    "matches_played": 306,
+    "wins": 112,
+    "draws": 81,
+    "losses": 113,
+    "goals_for": 383,
+    "goals_against": 357,
+    "goal_difference": 26,
+    "win_percentage": 36.6,
+    "avg_points": 1.36,
+    "best_rank": 24,
+    "worst_rank": 70,
+    "avg_rank": 46.36,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Oman",
+      "date": "1999-02-08",
+      "flag": "oman.png"
+    },
+    "biggest_loss": {
+      "score": "0-5",
+      "opponent": "France",
+      "date": "2002-10-12",
+      "flag": "france.png"
+    },
+    "home_matches": 138,
+    "away_matches": 138,
+    "neutral_matches": 30,
+    "first_match_date": "1990-12-08",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-18",

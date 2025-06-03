@@ -1,5 +1,36 @@
 {
   "team": "Antigua and Barbuda",
+  "stats": {
+    "matches_played": 268,
+    "wins": 93,
+    "draws": 50,
+    "losses": 125,
+    "goals_for": 381,
+    "goals_against": 462,
+    "goal_difference": -81,
+    "win_percentage": 34.7,
+    "avg_points": 1.23,
+    "best_rank": 141,
+    "worst_rank": 199,
+    "avg_rank": 167.32,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "US Virgin Islands",
+      "date": "2011-10-11",
+      "flag": "us_virgin.png"
+    },
+    "biggest_loss": {
+      "score": "1-11",
+      "opponent": "Trinidad and Tobago",
+      "date": "1972-11-10",
+      "flag": "trinidad.png"
+    },
+    "home_matches": 109,
+    "away_matches": 96,
+    "neutral_matches": 63,
+    "first_match_date": "1950-02-01",
+    "last_match_date": "2024-11-19"
+  },
   "matches": [
     {
       "date": "2025-06-10",

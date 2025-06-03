@@ -1,5 +1,36 @@
 {
   "team": "Seychelles",
+  "stats": {
+    "matches_played": 178,
+    "wins": 23,
+    "draws": 32,
+    "losses": 123,
+    "goals_for": 135,
+    "goals_against": 389,
+    "goal_difference": -254,
+    "win_percentage": 12.9,
+    "avg_points": 0.57,
+    "best_rank": 157,
+    "worst_rank": 190,
+    "avg_rank": 172.53,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Maldives",
+      "date": "1979-08-27",
+      "flag": "maldives.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Ivory Coast",
+      "date": "2023-11-17",
+      "flag": "ivory_coast.png"
+    },
+    "home_matches": 48,
+    "away_matches": 57,
+    "neutral_matches": 73,
+    "first_match_date": "1974-03-13",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-03-25",

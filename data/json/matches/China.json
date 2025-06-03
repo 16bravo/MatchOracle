@@ -1,5 +1,36 @@
 {
   "team": "China",
+  "stats": {
+    "matches_played": 736,
+    "wins": 358,
+    "draws": 157,
+    "losses": 221,
+    "goals_for": 1380,
+    "goals_against": 814,
+    "goal_difference": 566,
+    "win_percentage": 48.6,
+    "avg_points": 1.67,
+    "best_rank": 26,
+    "worst_rank": 128,
+    "avg_rank": 65.78,
+    "biggest_win": {
+      "score": "19-0",
+      "opponent": "Guam",
+      "date": "2000-01-26",
+      "flag": "guam.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Brazil",
+      "date": "2012-09-10",
+      "flag": "brazil.png"
+    },
+    "home_matches": 269,
+    "away_matches": 245,
+    "neutral_matches": 222,
+    "first_match_date": "1913-02-04",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-07-15",

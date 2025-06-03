@@ -1,5 +1,36 @@
 {
   "team": "Ivory Coast",
+  "stats": {
+    "matches_played": 657,
+    "wins": 333,
+    "draws": 167,
+    "losses": 157,
+    "goals_for": 1064,
+    "goals_against": 656,
+    "goal_difference": 408,
+    "win_percentage": 50.7,
+    "avg_points": 1.77,
+    "best_rank": 11,
+    "worst_rank": 81,
+    "avg_rank": 48.55,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Central African Republic",
+      "date": "1961-12-27",
+      "flag": "cta.png"
+    },
+    "biggest_loss": {
+      "score": "0-5",
+      "opponent": "Netherlands",
+      "date": "2017-06-04",
+      "flag": "netherlands.png"
+    },
+    "home_matches": 228,
+    "away_matches": 221,
+    "neutral_matches": 208,
+    "first_match_date": "1954-12-31",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-12-31",

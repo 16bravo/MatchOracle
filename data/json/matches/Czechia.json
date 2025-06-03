@@ -1,5 +1,36 @@
 {
   "team": "Czechia",
+  "stats": {
+    "matches_played": 871,
+    "wins": 421,
+    "draws": 192,
+    "losses": 258,
+    "goals_for": 1607,
+    "goals_against": 1082,
+    "goal_difference": 525,
+    "win_percentage": 48.3,
+    "avg_points": 1.67,
+    "best_rank": 1,
+    "worst_rank": 41,
+    "avg_rank": 13.15,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Yugoslavia",
+      "date": "1920-08-28",
+      "flag": "yugoslavia.png"
+    },
+    "biggest_loss": {
+      "score": "1-7",
+      "opponent": "Austria",
+      "date": "1939-05-21",
+      "flag": "austria.png"
+    },
+    "home_matches": 142,
+    "away_matches": 413,
+    "neutral_matches": 316,
+    "first_match_date": "1903-04-05",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-17",

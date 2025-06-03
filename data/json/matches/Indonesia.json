@@ -1,5 +1,36 @@
 {
   "team": "Indonesia",
+  "stats": {
+    "matches_played": 774,
+    "wins": 294,
+    "draws": 151,
+    "losses": 329,
+    "goals_for": 1296,
+    "goals_against": 1263,
+    "goal_difference": 33,
+    "win_percentage": 38.0,
+    "avg_points": 1.33,
+    "best_rank": 56,
+    "worst_rank": 178,
+    "avg_rank": 127.78,
+    "biggest_win": {
+      "score": "12-0",
+      "opponent": "Philippines",
+      "date": "1972-09-25",
+      "flag": "philippines.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Bahrain",
+      "date": "2012-02-29",
+      "flag": "bahrain.png"
+    },
+    "home_matches": 243,
+    "away_matches": 189,
+    "neutral_matches": 342,
+    "first_match_date": "1928-08-19",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-09-03",

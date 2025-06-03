@@ -1,5 +1,36 @@
 {
   "team": "Hong Kong",
+  "stats": {
+    "matches_played": 501,
+    "wins": 178,
+    "draws": 97,
+    "losses": 226,
+    "goals_for": 793,
+    "goals_against": 843,
+    "goal_difference": -50,
+    "win_percentage": 35.5,
+    "avg_points": 1.26,
+    "best_rank": 89,
+    "worst_rank": 173,
+    "avg_rank": 140.75,
+    "biggest_win": {
+      "score": "15-0",
+      "opponent": "Guam",
+      "date": "2005-03-07",
+      "flag": "guam.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "South Vietnam",
+      "date": "1948-03-31",
+      "flag": "south_vietnam.png"
+    },
+    "home_matches": 176,
+    "away_matches": 149,
+    "neutral_matches": 176,
+    "first_match_date": "1947-04-20",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

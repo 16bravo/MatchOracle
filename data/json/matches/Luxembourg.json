@@ -1,5 +1,36 @@
 {
   "team": "Luxembourg",
+  "stats": {
+    "matches_played": 458,
+    "wins": 51,
+    "draws": 60,
+    "losses": 347,
+    "goals_for": 299,
+    "goals_against": 1199,
+    "goal_difference": -900,
+    "win_percentage": 11.1,
+    "avg_points": 0.47,
+    "best_rank": 74,
+    "worst_rank": 168,
+    "avg_rank": 113.64,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Afghanistan",
+      "date": "1948-07-26",
+      "flag": "afghanistan.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Germany",
+      "date": "1936-08-04",
+      "flag": "germany.png"
+    },
+    "home_matches": 248,
+    "away_matches": 194,
+    "neutral_matches": 16,
+    "first_match_date": "1911-10-29",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

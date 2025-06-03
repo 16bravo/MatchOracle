@@ -1,5 +1,36 @@
 {
   "team": "North Korea",
+  "stats": {
+    "matches_played": 419,
+    "wins": 178,
+    "draws": 115,
+    "losses": 126,
+    "goals_for": 654,
+    "goals_against": 443,
+    "goal_difference": 211,
+    "win_percentage": 42.5,
+    "avg_points": 1.55,
+    "best_rank": 22,
+    "worst_rank": 149,
+    "avg_rank": 82.96,
+    "biggest_win": {
+      "score": "21-0",
+      "opponent": "Guam",
+      "date": "2005-03-11",
+      "flag": "guam.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Portugal",
+      "date": "2010-06-21",
+      "flag": "portugal.png"
+    },
+    "home_matches": 50,
+    "away_matches": 149,
+    "neutral_matches": 220,
+    "first_match_date": "1956-10-07",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

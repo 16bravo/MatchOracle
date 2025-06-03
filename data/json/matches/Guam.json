@@ -1,5 +1,36 @@
 {
   "team": "Guam",
+  "stats": {
+    "matches_played": 124,
+    "wins": 27,
+    "draws": 13,
+    "losses": 84,
+    "goals_for": 149,
+    "goals_against": 571,
+    "goal_difference": -422,
+    "win_percentage": 21.8,
+    "avg_points": 0.76,
+    "best_rank": 199,
+    "worst_rank": 221,
+    "avg_rank": 213.27,
+    "biggest_win": {
+      "score": "15-2",
+      "opponent": "Palau",
+      "date": "1998-08-01",
+      "flag": "palau.png"
+    },
+    "biggest_loss": {
+      "score": "0-21",
+      "opponent": "North Korea",
+      "date": "2005-03-11",
+      "flag": "north_korea.png"
+    },
+    "home_matches": 22,
+    "away_matches": 35,
+    "neutral_matches": 67,
+    "first_match_date": "1975-08-02",
+    "last_match_date": "2024-12-22"
+  },
   "matches": [
     {
       "date": "2024-12-22",

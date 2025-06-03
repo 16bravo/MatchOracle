@@ -1,5 +1,36 @@
 {
   "team": "Macao",
+  "stats": {
+    "matches_played": 162,
+    "wins": 24,
+    "draws": 17,
+    "losses": 121,
+    "goals_for": 139,
+    "goals_against": 486,
+    "goal_difference": -347,
+    "win_percentage": 14.8,
+    "avg_points": 0.55,
+    "best_rank": 183,
+    "worst_rank": 212,
+    "avg_rank": 200.43,
+    "biggest_win": {
+      "score": "6-1",
+      "opponent": "Northern Mariana Islands",
+      "date": "2009-03-11",
+      "flag": "mariana.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Japan",
+      "date": "1997-03-25",
+      "flag": "japan.png"
+    },
+    "home_matches": 53,
+    "away_matches": 51,
+    "neutral_matches": 58,
+    "first_match_date": "1948-03-29",
+    "last_match_date": "2025-03-19"
+  },
   "matches": [
     {
       "date": "2025-06-05",

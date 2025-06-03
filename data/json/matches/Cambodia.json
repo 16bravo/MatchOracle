@@ -1,5 +1,36 @@
 {
   "team": "Cambodia",
+  "stats": {
+    "matches_played": 306,
+    "wins": 68,
+    "draws": 43,
+    "losses": 195,
+    "goals_for": 347,
+    "goals_against": 791,
+    "goal_difference": -444,
+    "win_percentage": 22.2,
+    "avg_points": 0.81,
+    "best_rank": 120,
+    "worst_rank": 207,
+    "avg_rank": 183.31,
+    "biggest_win": {
+      "score": "8-0",
+      "opponent": "North Yemen",
+      "date": "1966-11-29",
+      "flag": "north_yemen.png"
+    },
+    "biggest_loss": {
+      "score": "0-14",
+      "opponent": "Iran",
+      "date": "2019-10-10",
+      "flag": "iran.png"
+    },
+    "home_matches": 75,
+    "away_matches": 88,
+    "neutral_matches": 143,
+    "first_match_date": "1956-03-17",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-05",

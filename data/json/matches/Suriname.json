@@ -1,5 +1,36 @@
 {
   "team": "Suriname",
+  "stats": {
+    "matches_played": 518,
+    "wins": 227,
+    "draws": 120,
+    "losses": 171,
+    "goals_for": 941,
+    "goals_against": 707,
+    "goal_difference": 234,
+    "win_percentage": 43.8,
+    "avg_points": 1.55,
+    "best_rank": 69,
+    "worst_rank": 168,
+    "avg_rank": 117.13,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "French Guiana",
+      "date": "1947-03-02",
+      "flag": "fr_guiana.png"
+    },
+    "biggest_loss": {
+      "score": "1-8",
+      "opponent": "Aruba",
+      "date": "1946-06-05",
+      "flag": "aruba.png"
+    },
+    "home_matches": 215,
+    "away_matches": 218,
+    "neutral_matches": 85,
+    "first_match_date": "1915-08-17",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-22",

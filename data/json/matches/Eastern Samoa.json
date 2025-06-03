@@ -1,5 +1,36 @@
 {
   "team": "Eastern Samoa",
+  "stats": {
+    "matches_played": 55,
+    "wins": 4,
+    "draws": 2,
+    "losses": 49,
+    "goals_for": 30,
+    "goals_against": 369,
+    "goal_difference": -339,
+    "win_percentage": 7.3,
+    "avg_points": 0.25,
+    "best_rank": 221,
+    "worst_rank": 223,
+    "avg_rank": 221.25,
+    "biggest_win": {
+      "score": "2-0",
+      "opponent": "Cook Islands",
+      "date": "2015-09-04",
+      "flag": "cook.png"
+    },
+    "biggest_loss": {
+      "score": "0-31",
+      "opponent": "Australia",
+      "date": "2001-04-11",
+      "flag": "australia.png"
+    },
+    "home_matches": 0,
+    "away_matches": 15,
+    "neutral_matches": 40,
+    "first_match_date": "1983-08-20",
+    "last_match_date": "2024-09-09"
+  },
   "matches": [
     {
       "date": "2024-09-09",

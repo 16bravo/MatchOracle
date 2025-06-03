@@ -1,5 +1,36 @@
 {
   "team": "Kuwait",
+  "stats": {
+    "matches_played": 727,
+    "wins": 304,
+    "draws": 189,
+    "losses": 234,
+    "goals_for": 1134,
+    "goals_against": 822,
+    "goal_difference": 312,
+    "win_percentage": 41.8,
+    "avg_points": 1.51,
+    "best_rank": 21,
+    "worst_rank": 154,
+    "avg_rank": 82.34,
+    "biggest_win": {
+      "score": "20-0",
+      "opponent": "Bhutan",
+      "date": "2000-02-14",
+      "flag": "bhutan.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "United Arab Republic",
+      "date": "1961-09-04",
+      "flag": "uar.png"
+    },
+    "home_matches": 257,
+    "away_matches": 170,
+    "neutral_matches": 300,
+    "first_match_date": "1961-09-03",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-03",

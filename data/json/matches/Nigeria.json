@@ -1,5 +1,36 @@
 {
   "team": "Nigeria",
+  "stats": {
+    "matches_played": 692,
+    "wins": 316,
+    "draws": 198,
+    "losses": 178,
+    "goals_for": 1030,
+    "goals_against": 707,
+    "goal_difference": 323,
+    "win_percentage": 45.7,
+    "avg_points": 1.66,
+    "best_rank": 23,
+    "worst_rank": 82,
+    "avg_rank": 48.78,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "date": "2022-06-13",
+      "flag": "sao_tome.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Gold Coast",
+      "date": "1955-11-30",
+      "flag": "gold_coast.png"
+    },
+    "home_matches": 233,
+    "away_matches": 257,
+    "neutral_matches": 202,
+    "first_match_date": "1949-10-08",
+    "last_match_date": "2025-05-31"
+  },
   "matches": [
     {
       "date": "2025-12-30",

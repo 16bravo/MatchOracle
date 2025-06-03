@@ -1,5 +1,36 @@
 {
   "team": "Central African Republic",
+  "stats": {
+    "matches_played": 156,
+    "wins": 34,
+    "draws": 32,
+    "losses": 90,
+    "goals_for": 174,
+    "goals_against": 308,
+    "goal_difference": -134,
+    "win_percentage": 21.8,
+    "avg_points": 0.86,
+    "best_rank": 96,
+    "worst_rank": 148,
+    "avg_rank": 130.87,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Bhutan",
+      "date": "2024-03-22",
+      "flag": "bhutan.png"
+    },
+    "biggest_loss": {
+      "score": "0-11",
+      "opponent": "Ivory Coast",
+      "date": "1961-12-27",
+      "flag": "ivory_coast.png"
+    },
+    "home_matches": 30,
+    "away_matches": 65,
+    "neutral_matches": 61,
+    "first_match_date": "1956-12-31",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-06-09",

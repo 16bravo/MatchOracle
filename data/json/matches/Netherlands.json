@@ -1,5 +1,36 @@
 {
   "team": "Netherlands",
+  "stats": {
+    "matches_played": 885,
+    "wins": 453,
+    "draws": 193,
+    "losses": 239,
+    "goals_for": 1842,
+    "goals_against": 1128,
+    "goal_difference": 714,
+    "win_percentage": 51.2,
+    "avg_points": 1.75,
+    "best_rank": 1,
+    "worst_rank": 39,
+    "avg_rank": 10.86,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "San Marino",
+      "date": "2011-09-02",
+      "flag": "san_marino.png"
+    },
+    "biggest_loss": {
+      "score": "2-12",
+      "opponent": "England",
+      "date": "1907-12-21",
+      "flag": "england.png"
+    },
+    "home_matches": 418,
+    "away_matches": 353,
+    "neutral_matches": 114,
+    "first_match_date": "1905-04-30",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-17",

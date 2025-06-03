@@ -1,5 +1,36 @@
 {
   "team": "Mexico",
+  "stats": {
+    "matches_played": 1005,
+    "wins": 520,
+    "draws": 230,
+    "losses": 255,
+    "goals_for": 1792,
+    "goals_against": 1036,
+    "goal_difference": 756,
+    "win_percentage": 51.7,
+    "avg_points": 1.78,
+    "best_rank": 2,
+    "worst_rank": 59,
+    "avg_rank": 22.11,
+    "biggest_win": {
+      "score": "13-0",
+      "opponent": "Bahamas",
+      "date": "1987-04-28",
+      "flag": "bahamas.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "England",
+      "date": "1961-05-10",
+      "flag": "england.png"
+    },
+    "home_matches": 292,
+    "away_matches": 268,
+    "neutral_matches": 445,
+    "first_match_date": "1923-01-01",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-10-14",

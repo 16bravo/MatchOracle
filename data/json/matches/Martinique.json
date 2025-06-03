@@ -1,5 +1,36 @@
 {
   "team": "Martinique",
+  "stats": {
+    "matches_played": 358,
+    "wins": 162,
+    "draws": 86,
+    "losses": 110,
+    "goals_for": 662,
+    "goals_against": 475,
+    "goal_difference": 187,
+    "win_percentage": 45.3,
+    "avg_points": 1.6,
+    "best_rank": 84,
+    "worst_rank": 147,
+    "avg_rank": 118.95,
+    "biggest_win": {
+      "score": "16-0",
+      "opponent": "British Virgin Islands",
+      "date": "2012-09-05",
+      "flag": "gb_virgin.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Mexico",
+      "date": "1993-07-11",
+      "flag": "mexico.png"
+    },
+    "home_matches": 131,
+    "away_matches": 120,
+    "neutral_matches": 107,
+    "first_match_date": "1931-02-09",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-03-25",

@@ -1,5 +1,36 @@
 {
   "team": "Israel",
+  "stats": {
+    "matches_played": 513,
+    "wins": 192,
+    "draws": 117,
+    "losses": 204,
+    "goals_for": 784,
+    "goals_against": 746,
+    "goal_difference": 38,
+    "win_percentage": 37.4,
+    "avg_points": 1.35,
+    "best_rank": 15,
+    "worst_rank": 78,
+    "avg_rank": 46.17,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Taiwan",
+      "date": "1988-03-23",
+      "flag": "taiwan.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Yugoslavia",
+      "date": "1949-08-21",
+      "flag": "yugoslavia.png"
+    },
+    "home_matches": 249,
+    "away_matches": 205,
+    "neutral_matches": 59,
+    "first_match_date": "1949-07-30",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-16",

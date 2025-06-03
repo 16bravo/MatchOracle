@@ -1,5 +1,36 @@
 {
   "team": "French Guiana",
+  "stats": {
+    "matches_played": 184,
+    "wins": 54,
+    "draws": 40,
+    "losses": 90,
+    "goals_for": 255,
+    "goals_against": 316,
+    "goal_difference": -61,
+    "win_percentage": 29.3,
+    "avg_points": 1.1,
+    "best_rank": 129,
+    "worst_rank": 176,
+    "avg_rank": 156.42,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "British Virgin Islands",
+      "date": "2014-05-30",
+      "flag": "gb_virgin.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Suriname",
+      "date": "1947-03-02",
+      "flag": "suriname.png"
+    },
+    "home_matches": 67,
+    "away_matches": 65,
+    "neutral_matches": 52,
+    "first_match_date": "1935-12-29",
+    "last_match_date": "2024-11-19"
+  },
   "matches": [
     {
       "date": "2024-11-19",

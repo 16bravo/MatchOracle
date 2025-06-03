@@ -1,5 +1,36 @@
 {
   "team": "Lebanon",
+  "stats": {
+    "matches_played": 389,
+    "wins": 110,
+    "draws": 103,
+    "losses": 176,
+    "goals_for": 464,
+    "goals_against": 589,
+    "goal_difference": -125,
+    "win_percentage": 28.3,
+    "avg_points": 1.11,
+    "best_rank": 85,
+    "worst_rank": 173,
+    "avg_rank": 120.83,
+    "biggest_win": {
+      "score": "11-1",
+      "opponent": "Philippines",
+      "date": "1967-10-06",
+      "flag": "philippines.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Iraq",
+      "date": "1959-11-25",
+      "flag": "iraq.png"
+    },
+    "home_matches": 139,
+    "away_matches": 127,
+    "neutral_matches": 123,
+    "first_match_date": "1940-04-27",
+    "last_match_date": "2025-05-28"
+  },
   "matches": [
     {
       "date": "2026-03-31",

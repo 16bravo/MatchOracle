@@ -1,5 +1,36 @@
 {
   "team": "Saint Kitts and Nevis",
+  "stats": {
+    "matches_played": 232,
+    "wins": 93,
+    "draws": 44,
+    "losses": 95,
+    "goals_for": 390,
+    "goals_against": 361,
+    "goal_difference": 29,
+    "win_percentage": 40.1,
+    "avg_points": 1.39,
+    "best_rank": 135,
+    "worst_rank": 192,
+    "avg_rank": 163.86,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "Montserrat",
+      "date": "1992-04-17",
+      "flag": "montserrat.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Mexico",
+      "date": "2004-11-17",
+      "flag": "mexico.png"
+    },
+    "home_matches": 113,
+    "away_matches": 75,
+    "neutral_matches": 44,
+    "first_match_date": "1938-08-18",
+    "last_match_date": "2025-05-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

@@ -1,5 +1,36 @@
 {
   "team": "Malawi",
+  "stats": {
+    "matches_played": 653,
+    "wins": 217,
+    "draws": 187,
+    "losses": 249,
+    "goals_for": 763,
+    "goals_against": 847,
+    "goal_difference": -84,
+    "win_percentage": 33.2,
+    "avg_points": 1.28,
+    "best_rank": 61,
+    "worst_rank": 180,
+    "avg_rank": 109.63,
+    "biggest_win": {
+      "score": "8-1",
+      "opponent": "Botswana",
+      "date": "1968-07-13",
+      "flag": "botswana.png"
+    },
+    "biggest_loss": {
+      "score": "0-12",
+      "opponent": "Ghana",
+      "date": "1962-10-15",
+      "flag": "ghana.png"
+    },
+    "home_matches": 283,
+    "away_matches": 226,
+    "neutral_matches": 144,
+    "first_match_date": "1957-12-31",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-06-10",

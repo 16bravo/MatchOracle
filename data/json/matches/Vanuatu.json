@@ -1,5 +1,36 @@
 {
   "team": "Vanuatu",
+  "stats": {
+    "matches_played": 216,
+    "wins": 65,
+    "draws": 29,
+    "losses": 122,
+    "goals_for": 378,
+    "goals_against": 471,
+    "goal_difference": -93,
+    "win_percentage": 30.1,
+    "avg_points": 1.04,
+    "best_rank": 175,
+    "worst_rank": 205,
+    "avg_rank": 188.76,
+    "biggest_win": {
+      "score": "18-0",
+      "opponent": "Kiribati",
+      "date": "2003-07-07",
+      "flag": "kiribati.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "New Zealand",
+      "date": "1951-10-04",
+      "flag": "new_zealand.png"
+    },
+    "home_matches": 46,
+    "away_matches": 50,
+    "neutral_matches": 120,
+    "first_match_date": "1951-10-04",
+    "last_match_date": "2024-12-21"
+  },
   "matches": [
     {
       "date": "2024-12-21",

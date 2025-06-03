@@ -1,5 +1,36 @@
 {
   "team": "Honduras",
+  "stats": {
+    "matches_played": 653,
+    "wins": 257,
+    "draws": 169,
+    "losses": 227,
+    "goals_for": 949,
+    "goals_against": 843,
+    "goal_difference": 106,
+    "win_percentage": 39.4,
+    "avg_points": 1.44,
+    "best_rank": 24,
+    "worst_rank": 166,
+    "avg_rank": 69.91,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "Nicaragua",
+      "date": "1946-03-13",
+      "flag": "nicaragua.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Guatemala",
+      "date": "1921-09-14",
+      "flag": "guatemala.png"
+    },
+    "home_matches": 208,
+    "away_matches": 213,
+    "neutral_matches": 232,
+    "first_match_date": "1921-09-14",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-24",

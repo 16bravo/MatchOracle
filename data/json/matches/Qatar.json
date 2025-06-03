@@ -1,5 +1,36 @@
 {
   "team": "Qatar",
+  "stats": {
+    "matches_played": 672,
+    "wins": 281,
+    "draws": 170,
+    "losses": 221,
+    "goals_for": 968,
+    "goals_against": 790,
+    "goal_difference": 178,
+    "win_percentage": 41.8,
+    "avg_points": 1.51,
+    "best_rank": 34,
+    "worst_rank": 181,
+    "avg_rank": 88.25,
+    "biggest_win": {
+      "score": "15-0",
+      "opponent": "Bhutan",
+      "date": "2015-09-03",
+      "flag": "bhutan.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Kuwait",
+      "date": "1973-12-31",
+      "flag": "kuwait.png"
+    },
+    "home_matches": 308,
+    "away_matches": 143,
+    "neutral_matches": 221,
+    "first_match_date": "1970-03-27",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-03",

@@ -1,5 +1,36 @@
 {
   "team": "Zimbabwe",
+  "stats": {
+    "matches_played": 508,
+    "wins": 197,
+    "draws": 147,
+    "losses": 164,
+    "goals_for": 685,
+    "goals_against": 591,
+    "goal_difference": 94,
+    "win_percentage": 38.8,
+    "avg_points": 1.45,
+    "best_rank": 53,
+    "worst_rank": 130,
+    "avg_rank": 88.82,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Botswana",
+      "date": "1990-08-26",
+      "flag": "botswana.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "South Africa",
+      "date": "1977-04-09",
+      "flag": "south_africa.png"
+    },
+    "home_matches": 165,
+    "away_matches": 201,
+    "neutral_matches": 142,
+    "first_match_date": "1946-12-31",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-29",

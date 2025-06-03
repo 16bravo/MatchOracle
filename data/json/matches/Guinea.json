@@ -1,5 +1,36 @@
 {
   "team": "Guinea",
+  "stats": {
+    "matches_played": 590,
+    "wins": 221,
+    "draws": 171,
+    "losses": 198,
+    "goals_for": 833,
+    "goals_against": 729,
+    "goal_difference": 104,
+    "win_percentage": 37.5,
+    "avg_points": 1.41,
+    "best_rank": 31,
+    "worst_rank": 116,
+    "avg_rank": 77.22,
+    "biggest_win": {
+      "score": "14-0",
+      "opponent": "Mauritania",
+      "date": "1972-10-03",
+      "flag": "mauritania.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Zaire",
+      "date": "1972-07-02",
+      "flag": "zaire.png"
+    },
+    "home_matches": 148,
+    "away_matches": 232,
+    "neutral_matches": 210,
+    "first_match_date": "1958-12-07",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-03-25",

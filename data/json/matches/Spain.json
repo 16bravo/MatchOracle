@@ -1,5 +1,36 @@
 {
   "team": "Spain",
+  "stats": {
+    "matches_played": 770,
+    "wins": 454,
+    "draws": 178,
+    "losses": 138,
+    "goals_for": 1560,
+    "goals_against": 689,
+    "goal_difference": 871,
+    "win_percentage": 59.0,
+    "avg_points": 2.0,
+    "best_rank": 1,
+    "worst_rank": 19,
+    "avg_rank": 6.34,
+    "biggest_win": {
+      "score": "13-0",
+      "opponent": "Bulgaria",
+      "date": "1933-05-21",
+      "flag": "bulgaria.png"
+    },
+    "biggest_loss": {
+      "score": "1-7",
+      "opponent": "Italy",
+      "date": "1928-06-04",
+      "flag": "italy.png"
+    },
+    "home_matches": 335,
+    "away_matches": 299,
+    "neutral_matches": 136,
+    "first_match_date": "1920-08-28",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-18",

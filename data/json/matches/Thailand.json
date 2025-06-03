@@ -1,5 +1,36 @@
 {
   "team": "Thailand",
+  "stats": {
+    "matches_played": 922,
+    "wins": 358,
+    "draws": 211,
+    "losses": 353,
+    "goals_for": 1466,
+    "goals_against": 1385,
+    "goal_difference": 81,
+    "win_percentage": 38.8,
+    "avg_points": 1.39,
+    "best_rank": 69,
+    "worst_rank": 185,
+    "avg_rank": 124.83,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "Brunei",
+      "date": "1971-05-24",
+      "flag": "brunei.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Georgia",
+      "date": "2023-10-12",
+      "flag": "georgia.png"
+    },
+    "home_matches": 383,
+    "away_matches": 196,
+    "neutral_matches": 343,
+    "first_match_date": "1948-08-20",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

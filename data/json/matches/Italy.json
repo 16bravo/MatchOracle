@@ -1,5 +1,36 @@
 {
   "team": "Italy",
+  "stats": {
+    "matches_played": 892,
+    "wins": 473,
+    "draws": 244,
+    "losses": 175,
+    "goals_for": 1557,
+    "goals_against": 881,
+    "goal_difference": 676,
+    "win_percentage": 53.0,
+    "avg_points": 1.86,
+    "best_rank": 1,
+    "worst_rank": 30,
+    "avg_rank": 10.11,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "United States",
+      "date": "1975-04-02",
+      "flag": "usa.png"
+    },
+    "biggest_loss": {
+      "score": "1-7",
+      "opponent": "Hungary",
+      "date": "1924-04-06",
+      "flag": "hungary.png"
+    },
+    "home_matches": 402,
+    "away_matches": 320,
+    "neutral_matches": 170,
+    "first_match_date": "1910-05-15",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-16",

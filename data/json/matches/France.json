@@ -1,5 +1,36 @@
 {
   "team": "France",
+  "stats": {
+    "matches_played": 925,
+    "wins": 463,
+    "draws": 194,
+    "losses": 268,
+    "goals_for": 1663,
+    "goals_against": 1268,
+    "goal_difference": 395,
+    "win_percentage": 50.1,
+    "avg_points": 1.71,
+    "best_rank": 1,
+    "worst_rank": 91,
+    "avg_rank": 16.54,
+    "biggest_win": {
+      "score": "14-0",
+      "opponent": "Gibraltar",
+      "date": "2023-11-18",
+      "flag": "gibraltar.png"
+    },
+    "biggest_loss": {
+      "score": "1-17",
+      "opponent": "Denmark",
+      "date": "1908-10-22",
+      "flag": "denmark.png"
+    },
+    "home_matches": 468,
+    "away_matches": 337,
+    "neutral_matches": 120,
+    "first_match_date": "1904-05-01",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-16",

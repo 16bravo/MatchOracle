@@ -1,5 +1,36 @@
 {
   "team": "Lithuania",
+  "stats": {
+    "matches_played": 406,
+    "wins": 104,
+    "draws": 78,
+    "losses": 224,
+    "goals_for": 401,
+    "goals_against": 738,
+    "goal_difference": -337,
+    "win_percentage": 25.6,
+    "avg_points": 0.96,
+    "best_rank": 39,
+    "worst_rank": 177,
+    "avg_rank": 101.29,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Estonia",
+      "date": "1995-05-20",
+      "flag": "estonia.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Egypt",
+      "date": "1924-05-27",
+      "flag": "egypt.png"
+    },
+    "home_matches": 161,
+    "away_matches": 202,
+    "neutral_matches": 43,
+    "first_match_date": "1923-06-24",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-11-17",

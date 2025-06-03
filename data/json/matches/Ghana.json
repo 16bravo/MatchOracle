@@ -1,5 +1,36 @@
 {
   "team": "Ghana",
+  "stats": {
+    "matches_played": 750,
+    "wins": 360,
+    "draws": 187,
+    "losses": 203,
+    "goals_for": 1200,
+    "goals_against": 779,
+    "goal_difference": 421,
+    "win_percentage": 48.0,
+    "avg_points": 1.69,
+    "best_rank": 15,
+    "worst_rank": 93,
+    "avg_rank": 51.09,
+    "biggest_win": {
+      "score": "12-0",
+      "opponent": "Nyasaland",
+      "date": "1962-10-15",
+      "flag": "nyasaland.png"
+    },
+    "biggest_loss": {
+      "score": "2-8",
+      "opponent": "Brazil",
+      "date": "1996-03-27",
+      "flag": "brazil.png"
+    },
+    "home_matches": 232,
+    "away_matches": 277,
+    "neutral_matches": 241,
+    "first_match_date": "1950-05-28",
+    "last_match_date": "2025-05-31"
+  },
   "matches": [
     {
       "date": "2025-05-31",

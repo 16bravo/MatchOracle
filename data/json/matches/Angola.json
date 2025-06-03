@@ -1,5 +1,36 @@
 {
   "team": "Angola",
+  "stats": {
+    "matches_played": 442,
+    "wins": 161,
+    "draws": 152,
+    "losses": 129,
+    "goals_for": 519,
+    "goals_against": 450,
+    "goal_difference": 69,
+    "win_percentage": 36.4,
+    "avg_points": 1.44,
+    "best_rank": 58,
+    "worst_rank": 138,
+    "avg_rank": 88.29,
+    "biggest_win": {
+      "score": "7-1",
+      "opponent": "Swaziland",
+      "date": "2000-04-23",
+      "flag": "eswatini.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Portugal",
+      "date": "1989-03-29",
+      "flag": "portugal.png"
+    },
+    "home_matches": 153,
+    "away_matches": 173,
+    "neutral_matches": 116,
+    "first_match_date": "1976-02-08",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-29",

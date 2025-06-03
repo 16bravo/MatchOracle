@@ -77,3 +77,115 @@ a {
     max-height: 200px;
     width: auto;
 }
+
+/* Dark theme for stat cards and collapsible */
+body.dark-theme .card,
+body.dark-theme .card-header,
+body.dark-theme .card-body,
+body.dark-theme .bg-light {
+    background-color: #23272b !important;
+    color: #e0e0e0 !important;
+    border-color: #444 !important;
+}
+
+body.dark-theme .card .font-weight-bold,
+body.dark-theme .card .text,
+body.dark-theme .card .custom-control-label {
+    color: #ffd700 !important;
+}
+
+body.dark-theme .badge-success {
+    background-color: #357a38 !important;
+    color: #fff !important;
+}
+body.dark-theme .badge-danger {
+    background-color: #a93226 !important;
+    color: #fff !important;
+}
+
+body.dark-theme .custom-control-label::before {
+    background-color: #444 !important;
+    border-color: #888 !important;
+}
+
+body.dark-theme .custom-control-input:checked~.custom-control-label::before {
+    background-color: #ffd700 !important;
+    border-color: #ffd700 !important;
+}
+
+body.dark-theme #lineChart {
+    background-color: #181a1b !important;
+}
+
+/* Optional: Table header dark mode */
+body.dark-theme .table thead.thead-dark th {
+    background-color: #23272b !important;
+    color: #ffd700 !important;
+}
+
+body.dark-theme .apexcharts-tooltip,
+body.dark-theme .apexcharts-menu,
+body.dark-theme .apexcharts-legend-text,
+body.dark-theme .apexcharts-xaxis-label,
+body.dark-theme .apexcharts-yaxis-label {
+    color: #ffd700 !important;
+    background: #23272b !important;
+}
+body.dark-theme .apexcharts-grid {
+    stroke: #444 !important;
+}
+
+/* Liens en dark mode */
+body.dark-theme a {
+    color: #ffd700 !important;
+    text-decoration: none !important;
+}
+body.dark-theme a:hover {
+    color: #fff700 !important;
+}
+
+/* Texte dans les barres de pourcentage */
+body.dark-theme .percentage-indicator {
+    border-color: #666;
+    background: #23272b;
+}
+body.dark-theme .percentage-indicator .text {
+    color: #ffffff !important;
+}
+body.dark-theme .percentage-indicator .fill {
+    opacity: 0.85;
+}
+
+/* Score des fixtures en dark mode */
+body.dark-theme .fixture {
+    color: #b3a6ff !important;
+}
+
+/* Stat cards : nuance sur bg-light */
+body.dark-theme .bg-light {
+    background-color: #23272b !important;
+    color: #ffd700 !important;
+}
+
+/* Table rows hover */
+body.dark-theme .table-striped tbody tr:hover {
+    background-color: #2d3136 !important;
+}
+
+/* Barres de pourcentage plus foncées en dark mode */
+body.dark-theme .lv-1 { background-color: #a05a6a !important; }
+body.dark-theme .lv-2 { background-color: #a97b4a !important; }
+body.dark-theme .lv-3 { background-color: #a9a86a !important; }
+body.dark-theme .lv-4 { background-color: #4a7c5a !important; }
+body.dark-theme .lv-5 { background-color: #2a7c5a !important; }
+
+body.dark-theme .table-bordered,
+body.dark-theme .table-bordered th,
+body.dark-theme .table-bordered td {
+    border-color: #444 !important;
+}
+body.dark-theme .table thead.thead-dark th {
+    background-color: #23272b !important;
+    color: #ffd700 !important;
+    border-color: #444 !important;
+}

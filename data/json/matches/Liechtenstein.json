@@ -1,5 +1,36 @@
 {
   "team": "Liechtenstein",
+  "stats": {
+    "matches_played": 247,
+    "wins": 18,
+    "draws": 32,
+    "losses": 197,
+    "goals_for": 101,
+    "goals_against": 686,
+    "goal_difference": -585,
+    "win_percentage": 7.3,
+    "avg_points": 0.35,
+    "best_rank": 117,
+    "worst_rank": 187,
+    "avg_rank": 154.29,
+    "biggest_win": {
+      "score": "4-0",
+      "opponent": "Luxembourg",
+      "date": "2004-10-13",
+      "flag": "luxembourg.png"
+    },
+    "biggest_loss": {
+      "score": "1-11",
+      "opponent": "Macedonia",
+      "date": "1996-11-09",
+      "flag": "macedonia.png"
+    },
+    "home_matches": 111,
+    "away_matches": 119,
+    "neutral_matches": 17,
+    "first_match_date": "1981-06-14",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-18",

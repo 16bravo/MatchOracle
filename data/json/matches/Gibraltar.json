@@ -1,5 +1,36 @@
 {
   "team": "Gibraltar",
+  "stats": {
+    "matches_played": 98,
+    "wins": 12,
+    "draws": 14,
+    "losses": 72,
+    "goals_for": 42,
+    "goals_against": 306,
+    "goal_difference": -264,
+    "win_percentage": 12.2,
+    "avg_points": 0.51,
+    "best_rank": 162,
+    "worst_rank": 186,
+    "avg_rank": 175.02,
+    "biggest_win": {
+      "score": "3-0",
+      "opponent": "Faroe Islands",
+      "date": "2011-03-11",
+      "flag": "faroe.png"
+    },
+    "biggest_loss": {
+      "score": "0-14",
+      "opponent": "France",
+      "date": "2023-11-18",
+      "flag": "france.png"
+    },
+    "home_matches": 32,
+    "away_matches": 45,
+    "neutral_matches": 21,
+    "first_match_date": "2007-07-04",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

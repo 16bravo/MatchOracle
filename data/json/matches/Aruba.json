@@ -1,5 +1,36 @@
 {
   "team": "Aruba",
+  "stats": {
+    "matches_played": 199,
+    "wins": 49,
+    "draws": 42,
+    "losses": 108,
+    "goals_for": 285,
+    "goals_against": 454,
+    "goal_difference": -169,
+    "win_percentage": 24.6,
+    "avg_points": 0.95,
+    "best_rank": 91,
+    "worst_rank": 198,
+    "avg_rank": 156.85,
+    "biggest_win": {
+      "score": "8-1",
+      "opponent": "Suriname",
+      "date": "1946-06-05",
+      "flag": "suriname.png"
+    },
+    "biggest_loss": {
+      "score": "0-11",
+      "opponent": "Trinidad and Tobago",
+      "date": "1989-04-23",
+      "flag": "trinidad.png"
+    },
+    "home_matches": 82,
+    "away_matches": 76,
+    "neutral_matches": 41,
+    "first_match_date": "1924-04-06",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-07",

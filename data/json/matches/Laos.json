@@ -1,5 +1,36 @@
 {
   "team": "Laos",
+  "stats": {
+    "matches_played": 229,
+    "wins": 41,
+    "draws": 35,
+    "losses": 153,
+    "goals_for": 231,
+    "goals_against": 725,
+    "goal_difference": -494,
+    "win_percentage": 17.9,
+    "avg_points": 0.69,
+    "best_rank": 189,
+    "worst_rank": 207,
+    "avg_rank": 200.2,
+    "biggest_win": {
+      "score": "6-1",
+      "opponent": "East Timor",
+      "date": "2010-10-26",
+      "flag": "timor.png"
+    },
+    "biggest_loss": {
+      "score": "0-15",
+      "opponent": "Egypt",
+      "date": "1963-11-15",
+      "flag": "egypt.png"
+    },
+    "home_matches": 45,
+    "away_matches": 67,
+    "neutral_matches": 117,
+    "first_match_date": "1961-12-12",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

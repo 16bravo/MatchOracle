@@ -1,5 +1,36 @@
 {
   "team": "Kyrgyzstan",
+  "stats": {
+    "matches_played": 182,
+    "wins": 55,
+    "draws": 27,
+    "losses": 100,
+    "goals_for": 199,
+    "goals_against": 318,
+    "goal_difference": -119,
+    "win_percentage": 30.2,
+    "avg_points": 1.05,
+    "best_rank": 136,
+    "worst_rank": 179,
+    "avg_rank": 159.95,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Myanmar",
+      "date": "2019-10-10",
+      "flag": "myanmar.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Iran",
+      "date": "1997-06-04",
+      "flag": "iran.png"
+    },
+    "home_matches": 46,
+    "away_matches": 72,
+    "neutral_matches": 64,
+    "first_match_date": "1992-08-23",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

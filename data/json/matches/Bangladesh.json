@@ -1,5 +1,36 @@
 {
   "team": "Bangladesh",
+  "stats": {
+    "matches_played": 316,
+    "wins": 83,
+    "draws": 70,
+    "losses": 163,
+    "goals_for": 280,
+    "goals_against": 568,
+    "goal_difference": -288,
+    "win_percentage": 26.3,
+    "avg_points": 1.01,
+    "best_rank": 167,
+    "worst_rank": 200,
+    "avg_rank": 187.33,
+    "biggest_win": {
+      "score": "8-0",
+      "opponent": "Maldives",
+      "date": "1985-12-23",
+      "flag": "maldives.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "South Korea",
+      "date": "1979-09-16",
+      "flag": "south_korea.png"
+    },
+    "home_matches": 87,
+    "away_matches": 88,
+    "neutral_matches": 141,
+    "first_match_date": "1973-07-27",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

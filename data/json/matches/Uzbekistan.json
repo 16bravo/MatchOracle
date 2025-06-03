@@ -1,5 +1,36 @@
 {
   "team": "Uzbekistan",
+  "stats": {
+    "matches_played": 350,
+    "wins": 171,
+    "draws": 70,
+    "losses": 109,
+    "goals_for": 611,
+    "goals_against": 390,
+    "goal_difference": 221,
+    "win_percentage": 48.9,
+    "avg_points": 1.67,
+    "best_rank": 38,
+    "worst_rank": 99,
+    "avg_rank": 66.36,
+    "biggest_win": {
+      "score": "15-0",
+      "opponent": "Mongolia",
+      "date": "1998-12-05",
+      "flag": "mongolia.png"
+    },
+    "biggest_loss": {
+      "score": "1-8",
+      "opponent": "Japan",
+      "date": "2000-10-17",
+      "flag": "japan.png"
+    },
+    "home_matches": 121,
+    "away_matches": 127,
+    "neutral_matches": 102,
+    "first_match_date": "1992-06-17",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

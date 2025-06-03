@@ -1,5 +1,36 @@
 {
   "team": "Oman",
+  "stats": {
+    "matches_played": 575,
+    "wins": 219,
+    "draws": 143,
+    "losses": 213,
+    "goals_for": 743,
+    "goals_against": 761,
+    "goal_difference": -18,
+    "win_percentage": 38.1,
+    "avg_points": 1.39,
+    "best_rank": 53,
+    "worst_rank": 205,
+    "avg_rank": 105.82,
+    "biggest_win": {
+      "score": "14-0",
+      "opponent": "Bhutan",
+      "date": "2017-03-28",
+      "flag": "bhutan.png"
+    },
+    "biggest_loss": {
+      "score": "0-21",
+      "opponent": "Libya",
+      "date": "1966-04-01",
+      "flag": "libya.png"
+    },
+    "home_matches": 223,
+    "away_matches": 142,
+    "neutral_matches": 210,
+    "first_match_date": "1965-09-02",
+    "last_match_date": "2025-05-28"
+  },
   "matches": [
     {
       "date": "2025-11-03",

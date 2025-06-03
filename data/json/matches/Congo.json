@@ -1,5 +1,36 @@
 {
   "team": "Congo",
+  "stats": {
+    "matches_played": 460,
+    "wins": 168,
+    "draws": 112,
+    "losses": 180,
+    "goals_for": 660,
+    "goals_against": 645,
+    "goal_difference": 15,
+    "win_percentage": 36.5,
+    "avg_points": 1.34,
+    "best_rank": 40,
+    "worst_rank": 152,
+    "avg_rank": 84.14,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Chad",
+      "date": "1964-03-28",
+      "flag": "chad.png"
+    },
+    "biggest_loss": {
+      "score": "1-8",
+      "opponent": "Madagascar",
+      "date": "1960-04-18",
+      "flag": "madagascar.png"
+    },
+    "home_matches": 178,
+    "away_matches": 182,
+    "neutral_matches": 100,
+    "first_match_date": "1954-12-31",
+    "last_match_date": "2024-11-19"
+  },
   "matches": [
     {
       "date": "2024-11-19",

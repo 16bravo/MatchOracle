@@ -1,5 +1,36 @@
 {
   "team": "New Caledonia",
+  "stats": {
+    "matches_played": 272,
+    "wins": 132,
+    "draws": 33,
+    "losses": 107,
+    "goals_for": 671,
+    "goals_against": 405,
+    "goal_difference": 266,
+    "win_percentage": 48.5,
+    "avg_points": 1.58,
+    "best_rank": 98,
+    "worst_rank": 184,
+    "avg_rank": 148.96,
+    "biggest_win": {
+      "score": "18-0",
+      "opponent": "Guam",
+      "date": "1991-09-14",
+      "flag": "guam.png"
+    },
+    "biggest_loss": {
+      "score": "0-11",
+      "opponent": "Australia",
+      "date": "2002-07-08",
+      "flag": "australia.png"
+    },
+    "home_matches": 85,
+    "away_matches": 67,
+    "neutral_matches": 120,
+    "first_match_date": "1933-08-15",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-03-24",

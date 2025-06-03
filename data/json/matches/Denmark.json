@@ -1,5 +1,36 @@
 {
   "team": "Denmark",
+  "stats": {
+    "matches_played": 893,
+    "wins": 414,
+    "draws": 183,
+    "losses": 296,
+    "goals_for": 1629,
+    "goals_against": 1206,
+    "goal_difference": 423,
+    "win_percentage": 46.4,
+    "avg_points": 1.6,
+    "best_rank": 1,
+    "worst_rank": 52,
+    "avg_rank": 19.71,
+    "biggest_win": {
+      "score": "17-1",
+      "opponent": "France",
+      "date": "1908-10-22",
+      "flag": "france.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Germany",
+      "date": "1937-05-16",
+      "flag": "germany.png"
+    },
+    "home_matches": 406,
+    "away_matches": 392,
+    "neutral_matches": 95,
+    "first_match_date": "1908-10-19",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-18",

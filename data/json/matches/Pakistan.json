@@ -1,5 +1,36 @@
 {
   "team": "Pakistan",
+  "stats": {
+    "matches_played": 273,
+    "wins": 61,
+    "draws": 48,
+    "losses": 164,
+    "goals_for": 254,
+    "goals_against": 610,
+    "goal_difference": -356,
+    "win_percentage": 22.3,
+    "avg_points": 0.85,
+    "best_rank": 104,
+    "worst_rank": 203,
+    "avg_rank": 174.31,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Thailand",
+      "date": "1960-08-05",
+      "flag": "thailand.png"
+    },
+    "biggest_loss": {
+      "score": "1-9",
+      "opponent": "Iran",
+      "date": "1969-03-12",
+      "flag": "iran.png"
+    },
+    "home_matches": 59,
+    "away_matches": 91,
+    "neutral_matches": 123,
+    "first_match_date": "1950-10-27",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

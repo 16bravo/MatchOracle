@@ -1,5 +1,36 @@
 {
   "team": "Niue",
+  "stats": {
+    "matches_played": 2,
+    "wins": 0,
+    "draws": 0,
+    "losses": 2,
+    "goals_for": 0,
+    "goals_against": 33,
+    "goal_difference": -33,
+    "win_percentage": 0.0,
+    "avg_points": 0.0,
+    "best_rank": 225,
+    "worst_rank": 225,
+    "avg_rank": 225.0,
+    "biggest_win": {
+      "score": "0-14",
+      "opponent": "Tahiti",
+      "date": "1983-08-20",
+      "flag": "tahiti.png"
+    },
+    "biggest_loss": {
+      "score": "0-19",
+      "opponent": "Papua New Guinea",
+      "date": "1983-08-22",
+      "flag": "papua.png"
+    },
+    "home_matches": 0,
+    "away_matches": 0,
+    "neutral_matches": 2,
+    "first_match_date": "1983-08-20",
+    "last_match_date": "1983-08-22"
+  },
   "matches": [
     {
       "date": "1983-08-22",

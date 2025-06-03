@@ -1,5 +1,36 @@
 {
   "team": "South Sudan",
+  "stats": {
+    "matches_played": 74,
+    "wins": 12,
+    "draws": 14,
+    "losses": 48,
+    "goals_for": 50,
+    "goals_against": 133,
+    "goal_difference": -83,
+    "win_percentage": 16.2,
+    "avg_points": 0.68,
+    "best_rank": 151,
+    "worst_rank": 173,
+    "avg_rank": 160.38,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Djibouti",
+      "date": "2017-03-28",
+      "flag": "djibouti.png"
+    },
+    "biggest_loss": {
+      "score": "0-5",
+      "opponent": "Mozambique",
+      "date": "2014-05-18",
+      "flag": "mozambique.png"
+    },
+    "home_matches": 13,
+    "away_matches": 28,
+    "neutral_matches": 33,
+    "first_match_date": "2012-07-10",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-03",

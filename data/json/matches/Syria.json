@@ -1,5 +1,36 @@
 {
   "team": "Syria",
+  "stats": {
+    "matches_played": 567,
+    "wins": 209,
+    "draws": 138,
+    "losses": 220,
+    "goals_for": 810,
+    "goals_against": 730,
+    "goal_difference": 80,
+    "win_percentage": 36.9,
+    "avg_points": 1.35,
+    "best_rank": 64,
+    "worst_rank": 140,
+    "avg_rank": 94.7,
+    "biggest_win": {
+      "score": "13-0",
+      "opponent": "Oman",
+      "date": "1965-09-06",
+      "flag": "oman.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Greece",
+      "date": "1949-11-25",
+      "flag": "greece.png"
+    },
+    "home_matches": 116,
+    "away_matches": 211,
+    "neutral_matches": 240,
+    "first_match_date": "1944-03-10",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

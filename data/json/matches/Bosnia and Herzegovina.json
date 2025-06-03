@@ -1,5 +1,36 @@
 {
   "team": "Bosnia and Herzegovina",
+  "stats": {
+    "matches_played": 268,
+    "wins": 99,
+    "draws": 60,
+    "losses": 109,
+    "goals_for": 366,
+    "goals_against": 373,
+    "goal_difference": -7,
+    "win_percentage": 36.9,
+    "avg_points": 1.33,
+    "best_rank": 8,
+    "worst_rank": 87,
+    "avg_rank": 49.48,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Estonia",
+      "date": "2008-09-10",
+      "flag": "estonia.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Germany",
+      "date": "2024-11-16",
+      "flag": "germany.png"
+    },
+    "home_matches": 112,
+    "away_matches": 130,
+    "neutral_matches": 26,
+    "first_match_date": "1990-12-08",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-03-24",

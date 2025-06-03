@@ -1,5 +1,36 @@
 {
   "team": "Cyprus",
+  "stats": {
+    "matches_played": 418,
+    "wins": 82,
+    "draws": 70,
+    "losses": 266,
+    "goals_for": 370,
+    "goals_against": 913,
+    "goal_difference": -543,
+    "win_percentage": 19.6,
+    "avg_points": 0.76,
+    "best_rank": 57,
+    "worst_rank": 143,
+    "avg_rank": 94.97,
+    "biggest_win": {
+      "score": "5-0",
+      "opponent": "Andorra",
+      "date": "2000-11-15",
+      "flag": "andorra.png"
+    },
+    "biggest_loss": {
+      "score": "0-12",
+      "opponent": "West Germany",
+      "date": "1969-05-21",
+      "flag": "germany.png"
+    },
+    "home_matches": 232,
+    "away_matches": 180,
+    "neutral_matches": 6,
+    "first_match_date": "1949-07-30",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-11-18",

@@ -1,5 +1,36 @@
 {
   "team": "South Korea",
+  "stats": {
+    "matches_played": 1037,
+    "wins": 566,
+    "draws": 256,
+    "losses": 215,
+    "goals_for": 1889,
+    "goals_against": 945,
+    "goal_difference": 944,
+    "win_percentage": 54.6,
+    "avg_points": 1.88,
+    "best_rank": 19,
+    "worst_rank": 116,
+    "avg_rank": 50.96,
+    "biggest_win": {
+      "score": "16-0",
+      "opponent": "Nepal",
+      "date": "2003-09-29",
+      "flag": "nepal.png"
+    },
+    "biggest_loss": {
+      "score": "0-12",
+      "opponent": "Sweden",
+      "date": "1948-08-05",
+      "flag": "sweden.png"
+    },
+    "home_matches": 345,
+    "away_matches": 247,
+    "neutral_matches": 445,
+    "first_match_date": "1942-08-16",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-09-09",

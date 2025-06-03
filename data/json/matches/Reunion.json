@@ -1,5 +1,36 @@
 {
   "team": "Reunion",
+  "stats": {
+    "matches_played": 125,
+    "wins": 47,
+    "draws": 24,
+    "losses": 54,
+    "goals_for": 194,
+    "goals_against": 243,
+    "goal_difference": -49,
+    "win_percentage": 37.6,
+    "avg_points": 1.32,
+    "best_rank": 122,
+    "worst_rank": 179,
+    "avg_rank": 145.42,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Maldives",
+      "date": "1979-08-28",
+      "flag": "maldives.png"
+    },
+    "biggest_loss": {
+      "score": "2-15",
+      "opponent": "Mauritius",
+      "date": "1950-12-31",
+      "flag": "mauritius.png"
+    },
+    "home_matches": 52,
+    "away_matches": 35,
+    "neutral_matches": 38,
+    "first_match_date": "1932-01-17",
+    "last_match_date": "2023-09-02"
+  },
   "matches": [
     {
       "date": "2023-09-02",

@@ -1,5 +1,36 @@
 {
   "team": "East Germany",
+  "stats": {
+    "matches_played": 320,
+    "wins": 150,
+    "draws": 72,
+    "losses": 98,
+    "goals_for": 541,
+    "goals_against": 391,
+    "goal_difference": 150,
+    "win_percentage": 46.9,
+    "avg_points": 1.63,
+    "best_rank": 5,
+    "worst_rank": 53,
+    "avg_rank": 19.82,
+    "biggest_win": {
+      "score": "12-1",
+      "opponent": "Ceylon",
+      "date": "1964-01-12",
+      "flag": "ceylon.png"
+    },
+    "biggest_loss": {
+      "score": "0-5",
+      "opponent": "Hungary",
+      "date": "1952-05-18",
+      "flag": "hungary.png"
+    },
+    "home_matches": 136,
+    "away_matches": 166,
+    "neutral_matches": 18,
+    "first_match_date": "1951-04-21",
+    "last_match_date": "1990-09-12"
+  },
   "matches": [
     {
       "date": "1990-09-12",

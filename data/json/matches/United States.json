@@ -1,5 +1,36 @@
 {
   "team": "United States",
+  "stats": {
+    "matches_played": 805,
+    "wins": 357,
+    "draws": 169,
+    "losses": 279,
+    "goals_for": 1215,
+    "goals_against": 1045,
+    "goal_difference": 170,
+    "win_percentage": 44.3,
+    "avg_points": 1.54,
+    "best_rank": 12,
+    "worst_rank": 111,
+    "avg_rank": 41.64,
+    "biggest_win": {
+      "score": "8-0",
+      "opponent": "Barbados",
+      "date": "2008-06-15",
+      "flag": "barbados.png"
+    },
+    "biggest_loss": {
+      "score": "0-11",
+      "opponent": "Norway",
+      "date": "1948-08-06",
+      "flag": "norway.png"
+    },
+    "home_matches": 469,
+    "away_matches": 251,
+    "neutral_matches": 85,
+    "first_match_date": "1916-08-20",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-09-09",

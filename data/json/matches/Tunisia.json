@@ -1,5 +1,36 @@
 {
   "team": "Tunisia",
+  "stats": {
+    "matches_played": 740,
+    "wins": 314,
+    "draws": 204,
+    "losses": 222,
+    "goals_for": 1041,
+    "goals_against": 798,
+    "goal_difference": 243,
+    "win_percentage": 42.4,
+    "avg_points": 1.55,
+    "best_rank": 31,
+    "worst_rank": 88,
+    "avg_rank": 55.17,
+    "biggest_win": {
+      "score": "8-1",
+      "opponent": "Taiwan",
+      "date": "1960-08-18",
+      "flag": "taiwan.png"
+    },
+    "biggest_loss": {
+      "score": "1-10",
+      "opponent": "Hungary",
+      "date": "1960-07-20",
+      "flag": "hungary.png"
+    },
+    "home_matches": 323,
+    "away_matches": 241,
+    "neutral_matches": 176,
+    "first_match_date": "1954-05-31",
+    "last_match_date": "2025-06-02"
+  },
   "matches": [
     {
       "date": "2025-12-30",

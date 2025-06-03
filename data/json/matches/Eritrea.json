@@ -1,5 +1,36 @@
 {
   "team": "Eritrea",
+  "stats": {
+    "matches_played": 84,
+    "wins": 15,
+    "draws": 19,
+    "losses": 50,
+    "goals_for": 57,
+    "goals_against": 136,
+    "goal_difference": -79,
+    "win_percentage": 17.9,
+    "avg_points": 0.76,
+    "best_rank": 123,
+    "worst_rank": 163,
+    "avg_rank": 147.88,
+    "biggest_win": {
+      "score": "3-0",
+      "opponent": "Djibouti",
+      "date": "2019-12-13",
+      "flag": "djibouti.png"
+    },
+    "biggest_loss": {
+      "score": "0-5",
+      "opponent": "Ghana",
+      "date": "1999-02-28",
+      "flag": "ghana.png"
+    },
+    "home_matches": 20,
+    "away_matches": 27,
+    "neutral_matches": 37,
+    "first_match_date": "1992-06-26",
+    "last_match_date": "2020-01-25"
+  },
   "matches": [
     {
       "date": "2020-01-25",

@@ -1,5 +1,36 @@
 {
   "team": "Jordan",
+  "stats": {
+    "matches_played": 543,
+    "wins": 192,
+    "draws": 148,
+    "losses": 203,
+    "goals_for": 672,
+    "goals_against": 653,
+    "goal_difference": 19,
+    "win_percentage": 35.4,
+    "avg_points": 1.33,
+    "best_rank": 53,
+    "worst_rank": 176,
+    "avg_rank": 97.5,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Nepal",
+      "date": "2011-07-23",
+      "flag": "nepal.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Lebanon",
+      "date": "1957-10-22",
+      "flag": "lebanon.png"
+    },
+    "home_matches": 192,
+    "away_matches": 173,
+    "neutral_matches": 178,
+    "first_match_date": "1953-08-01",
+    "last_match_date": "2025-05-30"
+  },
   "matches": [
     {
       "date": "2025-12-03",

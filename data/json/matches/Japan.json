@@ -1,5 +1,36 @@
 {
   "team": "Japan",
+  "stats": {
+    "matches_played": 816,
+    "wins": 398,
+    "draws": 166,
+    "losses": 252,
+    "goals_for": 1477,
+    "goals_against": 965,
+    "goal_difference": 512,
+    "win_percentage": 48.8,
+    "avg_points": 1.67,
+    "best_rank": 10,
+    "worst_rank": 196,
+    "avg_rank": 60.63,
+    "biggest_win": {
+      "score": "15-0",
+      "opponent": "Philippines",
+      "date": "1967-09-27",
+      "flag": "philippines.png"
+    },
+    "biggest_loss": {
+      "score": "2-15",
+      "opponent": "Philippines",
+      "date": "1917-05-10",
+      "flag": "philippines.png"
+    },
+    "home_matches": 325,
+    "away_matches": 196,
+    "neutral_matches": 295,
+    "first_match_date": "1917-05-09",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-09-09",

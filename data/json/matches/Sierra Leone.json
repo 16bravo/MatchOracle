@@ -1,5 +1,36 @@
 {
   "team": "Sierra Leone",
+  "stats": {
+    "matches_played": 321,
+    "wins": 91,
+    "draws": 85,
+    "losses": 145,
+    "goals_for": 303,
+    "goals_against": 451,
+    "goal_difference": -148,
+    "win_percentage": 28.3,
+    "avg_points": 1.12,
+    "best_rank": 76,
+    "worst_rank": 146,
+    "avg_rank": 105.41,
+    "biggest_win": {
+      "score": "5-1",
+      "opponent": "Niger",
+      "date": "1976-03-07",
+      "flag": "niger.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Mali",
+      "date": "2007-06-17",
+      "flag": "mali.png"
+    },
+    "home_matches": 110,
+    "away_matches": 126,
+    "neutral_matches": 85,
+    "first_match_date": "1949-10-08",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-03-25",

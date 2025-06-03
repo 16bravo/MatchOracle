@@ -1,5 +1,36 @@
 {
   "team": "Equatorial Guinea",
+  "stats": {
+    "matches_played": 181,
+    "wins": 53,
+    "draws": 41,
+    "losses": 87,
+    "goals_for": 166,
+    "goals_against": 262,
+    "goal_difference": -96,
+    "win_percentage": 29.3,
+    "avg_points": 1.1,
+    "best_rank": 70,
+    "worst_rank": 172,
+    "avg_rank": 127.43,
+    "biggest_win": {
+      "score": "4-0",
+      "opponent": "South Sudan",
+      "date": "2016-09-04",
+      "flag": "south_sudan.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Congo",
+      "date": "1990-12-13",
+      "flag": "congo.png"
+    },
+    "home_matches": 78,
+    "away_matches": 62,
+    "neutral_matches": 41,
+    "first_match_date": "1975-05-23",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-12-31",

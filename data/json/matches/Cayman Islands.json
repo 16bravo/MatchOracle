@@ -1,5 +1,36 @@
 {
   "team": "Cayman Islands",
+  "stats": {
+    "matches_played": 123,
+    "wins": 25,
+    "draws": 24,
+    "losses": 74,
+    "goals_for": 118,
+    "goals_against": 300,
+    "goal_difference": -182,
+    "win_percentage": 20.3,
+    "avg_points": 0.8,
+    "best_rank": 178,
+    "worst_rank": 205,
+    "avg_rank": 192.12,
+    "biggest_win": {
+      "score": "5-0",
+      "opponent": "British Virgin Islands",
+      "date": "1994-03-02",
+      "flag": "gb_virgin.png"
+    },
+    "biggest_loss": {
+      "score": "0-11",
+      "opponent": "Canada",
+      "date": "2021-03-29",
+      "flag": "canada.png"
+    },
+    "home_matches": 55,
+    "away_matches": 38,
+    "neutral_matches": 30,
+    "first_match_date": "1985-03-03",
+    "last_match_date": "2024-11-19"
+  },
   "matches": [
     {
       "date": "2025-06-07",

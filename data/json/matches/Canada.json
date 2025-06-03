@@ -1,5 +1,36 @@
 {
   "team": "Canada",
+  "stats": {
+    "matches_played": 467,
+    "wins": 181,
+    "draws": 107,
+    "losses": 179,
+    "goals_for": 597,
+    "goals_against": 600,
+    "goal_difference": -3,
+    "win_percentage": 38.8,
+    "avg_points": 1.39,
+    "best_rank": 16,
+    "worst_rank": 100,
+    "avg_rank": 66.46,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Cayman Islands",
+      "date": "2021-03-29",
+      "flag": "cayman.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Mexico",
+      "date": "1993-07-18",
+      "flag": "mexico.png"
+    },
+    "home_matches": 141,
+    "away_matches": 198,
+    "neutral_matches": 128,
+    "first_match_date": "1924-06-07",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-09-09",

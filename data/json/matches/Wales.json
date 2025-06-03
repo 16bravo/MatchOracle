@@ -1,5 +1,36 @@
 {
   "team": "Wales",
+  "stats": {
+    "matches_played": 723,
+    "wins": 232,
+    "draws": 164,
+    "losses": 327,
+    "goals_for": 898,
+    "goals_against": 1158,
+    "goal_difference": -260,
+    "win_percentage": 32.1,
+    "avg_points": 1.19,
+    "best_rank": 4,
+    "worst_rank": 76,
+    "avg_rank": 26.02,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Ireland",
+      "date": "1888-03-03",
+      "flag": "ireland.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Scotland",
+      "date": "1878-03-23",
+      "flag": "scotland.png"
+    },
+    "home_matches": 339,
+    "away_matches": 352,
+    "neutral_matches": 32,
+    "first_match_date": "1876-03-25",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-18",

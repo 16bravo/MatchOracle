@@ -1,5 +1,36 @@
 {
   "team": "Cameroon",
+  "stats": {
+    "matches_played": 642,
+    "wins": 279,
+    "draws": 196,
+    "losses": 167,
+    "goals_for": 929,
+    "goals_against": 699,
+    "goal_difference": 230,
+    "win_percentage": 43.5,
+    "avg_points": 1.61,
+    "best_rank": 23,
+    "worst_rank": 81,
+    "avg_rank": 54.83,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Chad",
+      "date": "1965-04-07",
+      "flag": "chad.png"
+    },
+    "biggest_loss": {
+      "score": "0-5",
+      "opponent": "South Korea",
+      "date": "1984-10-04",
+      "flag": "south_korea.png"
+    },
+    "home_matches": 182,
+    "away_matches": 238,
+    "neutral_matches": 222,
+    "first_match_date": "1953-09-30",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-31",

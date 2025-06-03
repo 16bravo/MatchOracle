@@ -1,5 +1,36 @@
 {
   "team": "Norway",
+  "stats": {
+    "matches_played": 872,
+    "wins": 325,
+    "draws": 194,
+    "losses": 353,
+    "goals_for": 1334,
+    "goals_against": 1432,
+    "goal_difference": -98,
+    "win_percentage": 37.3,
+    "avg_points": 1.34,
+    "best_rank": 7,
+    "worst_rank": 78,
+    "avg_rank": 35.64,
+    "biggest_win": {
+      "score": "12-0",
+      "opponent": "Finland",
+      "date": "1946-06-28",
+      "flag": "finland.png"
+    },
+    "biggest_loss": {
+      "score": "0-12",
+      "opponent": "Denmark",
+      "date": "1917-10-07",
+      "flag": "denmark.png"
+    },
+    "home_matches": 416,
+    "away_matches": 404,
+    "neutral_matches": 52,
+    "first_match_date": "1908-07-12",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-16",

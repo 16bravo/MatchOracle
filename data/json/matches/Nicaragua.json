@@ -1,5 +1,36 @@
 {
   "team": "Nicaragua",
+  "stats": {
+    "matches_played": 242,
+    "wins": 52,
+    "draws": 30,
+    "losses": 160,
+    "goals_for": 252,
+    "goals_against": 599,
+    "goal_difference": -347,
+    "win_percentage": 21.5,
+    "avg_points": 0.77,
+    "best_rank": 115,
+    "worst_rank": 206,
+    "avg_rank": 165.98,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Turks and Caicos Islands",
+      "date": "2021-03-27",
+      "flag": "turks_caicos.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Honduras",
+      "date": "1946-03-13",
+      "flag": "honduras.png"
+    },
+    "home_matches": 59,
+    "away_matches": 94,
+    "neutral_matches": 89,
+    "first_match_date": "1929-05-01",
+    "last_match_date": "2025-06-01"
+  },
   "matches": [
     {
       "date": "2025-06-10",

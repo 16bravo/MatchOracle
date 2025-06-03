@@ -1,5 +1,36 @@
 {
   "team": "Turkmenistan",
+  "stats": {
+    "matches_played": 175,
+    "wins": 64,
+    "draws": 33,
+    "losses": 78,
+    "goals_for": 263,
+    "goals_against": 267,
+    "goal_difference": -4,
+    "win_percentage": 36.6,
+    "avg_points": 1.29,
+    "best_rank": 71,
+    "worst_rank": 160,
+    "avg_rank": 124.9,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Afghanistan",
+      "date": "2003-11-19",
+      "flag": "afghanistan.png"
+    },
+    "biggest_loss": {
+      "score": "0-5",
+      "opponent": "Tajikistan",
+      "date": "1997-06-22",
+      "flag": "tajikistan.png"
+    },
+    "home_matches": 39,
+    "away_matches": 71,
+    "neutral_matches": 65,
+    "first_match_date": "1992-06-01",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

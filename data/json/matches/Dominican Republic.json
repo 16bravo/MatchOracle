@@ -1,5 +1,36 @@
 {
   "team": "Dominican Republic",
+  "stats": {
+    "matches_played": 176,
+    "wins": 66,
+    "draws": 28,
+    "losses": 82,
+    "goals_for": 282,
+    "goals_against": 285,
+    "goal_difference": -3,
+    "win_percentage": 37.5,
+    "avg_points": 1.28,
+    "best_rank": 134,
+    "worst_rank": 192,
+    "avg_rank": 172.24,
+    "biggest_win": {
+      "score": "17-0",
+      "opponent": "British Virgin Islands",
+      "date": "2010-10-14",
+      "flag": "gb_virgin.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Trinidad and Tobago",
+      "date": "2008-10-08",
+      "flag": "trinidad.png"
+    },
+    "home_matches": 81,
+    "away_matches": 59,
+    "neutral_matches": 36,
+    "first_match_date": "1949-05-14",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-22",

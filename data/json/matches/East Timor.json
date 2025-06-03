@@ -1,5 +1,36 @@
 {
   "team": "East Timor",
+  "stats": {
+    "matches_played": 88,
+    "wins": 10,
+    "draws": 8,
+    "losses": 70,
+    "goals_for": 79,
+    "goals_against": 284,
+    "goal_difference": -205,
+    "win_percentage": 11.4,
+    "avg_points": 0.43,
+    "best_rank": 203,
+    "worst_rank": 212,
+    "avg_rank": 207.06,
+    "biggest_win": {
+      "score": "5-1",
+      "opponent": "Cambodia",
+      "date": "2012-10-05",
+      "flag": "cambodia.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Saudi Arabia",
+      "date": "2015-11-17",
+      "flag": "saudi_arabia.png"
+    },
+    "home_matches": 6,
+    "away_matches": 45,
+    "neutral_matches": 37,
+    "first_match_date": "2003-03-21",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

@@ -1,5 +1,36 @@
 {
   "team": "Romania",
+  "stats": {
+    "matches_played": 783,
+    "wins": 348,
+    "draws": 196,
+    "losses": 239,
+    "goals_for": 1274,
+    "goals_against": 988,
+    "goal_difference": 286,
+    "win_percentage": 44.4,
+    "avg_points": 1.58,
+    "best_rank": 6,
+    "worst_rank": 64,
+    "avg_rank": 24.85,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Finland",
+      "date": "1973-10-14",
+      "flag": "finland.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Hungary",
+      "date": "1948-06-06",
+      "flag": "hungary.png"
+    },
+    "home_matches": 326,
+    "away_matches": 367,
+    "neutral_matches": 90,
+    "first_match_date": "1922-06-08",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-11-18",

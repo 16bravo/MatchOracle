@@ -1,5 +1,36 @@
 {
   "team": "Finland",
+  "stats": {
+    "matches_played": 813,
+    "wins": 213,
+    "draws": 166,
+    "losses": 434,
+    "goals_for": 959,
+    "goals_against": 1679,
+    "goal_difference": -720,
+    "win_percentage": 26.2,
+    "avg_points": 0.99,
+    "best_rank": 24,
+    "worst_rank": 115,
+    "avg_rank": 59.68,
+    "biggest_win": {
+      "score": "10-2",
+      "opponent": "Estonia",
+      "date": "1922-08-11",
+      "flag": "estonia.png"
+    },
+    "biggest_loss": {
+      "score": "0-13",
+      "opponent": "Germany",
+      "date": "1940-09-01",
+      "flag": "germany.png"
+    },
+    "home_matches": 332,
+    "away_matches": 424,
+    "neutral_matches": 57,
+    "first_match_date": "1911-10-22",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-11-17",

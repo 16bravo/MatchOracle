@@ -1,5 +1,36 @@
 {
   "team": "Papua New Guinea",
+  "stats": {
+    "matches_played": 156,
+    "wins": 48,
+    "draws": 30,
+    "losses": 78,
+    "goals_for": 319,
+    "goals_against": 343,
+    "goal_difference": -24,
+    "win_percentage": 30.8,
+    "avg_points": 1.12,
+    "best_rank": 172,
+    "worst_rank": 203,
+    "avg_rank": 190.77,
+    "biggest_win": {
+      "score": "20-0",
+      "opponent": "Eastern Samoa",
+      "date": "1987-12-15",
+      "flag": "us_samoa.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Malaysia",
+      "date": "2023-06-20",
+      "flag": "malaysia.png"
+    },
+    "home_matches": 25,
+    "away_matches": 42,
+    "neutral_matches": 89,
+    "first_match_date": "1963-08-29",
+    "last_match_date": "2024-12-21"
+  },
   "matches": [
     {
       "date": "2024-12-21",

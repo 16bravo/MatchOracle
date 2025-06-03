@@ -1,5 +1,36 @@
 {
   "team": "Vietnam",
+  "stats": {
+    "matches_played": 513,
+    "wins": 213,
+    "draws": 102,
+    "losses": 198,
+    "goals_for": 899,
+    "goals_against": 763,
+    "goal_difference": 136,
+    "win_percentage": 41.5,
+    "avg_points": 1.44,
+    "best_rank": 83,
+    "worst_rank": 175,
+    "avg_rank": 130.15,
+    "biggest_win": {
+      "score": "11-0",
+      "opponent": "Guam",
+      "date": "2000-01-23",
+      "flag": "guam.png"
+    },
+    "biggest_loss": {
+      "score": "1-9",
+      "opponent": "Indonesia",
+      "date": "1971-05-02",
+      "flag": "indonesia.png"
+    },
+    "home_matches": 118,
+    "away_matches": 125,
+    "neutral_matches": 270,
+    "first_match_date": "1947-04-20",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

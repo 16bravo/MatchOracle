@@ -1,5 +1,36 @@
 {
   "team": "Kazakhstan",
+  "stats": {
+    "matches_played": 258,
+    "wins": 66,
+    "draws": 55,
+    "losses": 137,
+    "goals_for": 269,
+    "goals_against": 432,
+    "goal_difference": -163,
+    "win_percentage": 25.6,
+    "avg_points": 0.98,
+    "best_rank": 72,
+    "worst_rank": 117,
+    "avg_rank": 99.09,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Pakistan",
+      "date": "1997-06-11",
+      "flag": "pakistan.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "France",
+      "date": "2021-11-13",
+      "flag": "france.png"
+    },
+    "home_matches": 97,
+    "away_matches": 116,
+    "neutral_matches": 45,
+    "first_match_date": "1992-06-01",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-15",

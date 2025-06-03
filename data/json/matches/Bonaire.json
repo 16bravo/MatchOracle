@@ -1,5 +1,36 @@
 {
   "team": "Bonaire",
+  "stats": {
+    "matches_played": 99,
+    "wins": 23,
+    "draws": 12,
+    "losses": 64,
+    "goals_for": 110,
+    "goals_against": 246,
+    "goal_difference": -136,
+    "win_percentage": 23.2,
+    "avg_points": 0.82,
+    "best_rank": 181,
+    "worst_rank": 205,
+    "avg_rank": 192.97,
+    "biggest_win": {
+      "score": "5-0",
+      "opponent": "Aruba",
+      "date": "1984-07-06",
+      "flag": "aruba.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Cura\u00e7ao",
+      "date": "1969-08-09",
+      "flag": "curacao.png"
+    },
+    "home_matches": 17,
+    "away_matches": 52,
+    "neutral_matches": 30,
+    "first_match_date": "1934-02-04",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-03-25",

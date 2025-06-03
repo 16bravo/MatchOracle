@@ -1,5 +1,36 @@
 {
   "team": "Bermuda",
+  "stats": {
+    "matches_played": 220,
+    "wins": 71,
+    "draws": 44,
+    "losses": 105,
+    "goals_for": 341,
+    "goals_against": 385,
+    "goal_difference": -44,
+    "win_percentage": 32.3,
+    "avg_points": 1.17,
+    "best_rank": 121,
+    "worst_rank": 172,
+    "avg_rank": 145.09,
+    "biggest_win": {
+      "score": "13-0",
+      "opponent": "Montserrat",
+      "date": "2004-02-29",
+      "flag": "montserrat.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Denmark",
+      "date": "1969-07-01",
+      "flag": "denmark.png"
+    },
+    "home_matches": 99,
+    "away_matches": 76,
+    "neutral_matches": 45,
+    "first_match_date": "1964-08-10",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

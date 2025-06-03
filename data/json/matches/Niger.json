@@ -1,5 +1,36 @@
 {
   "team": "Niger",
+  "stats": {
+    "matches_played": 274,
+    "wins": 59,
+    "draws": 65,
+    "losses": 150,
+    "goals_for": 267,
+    "goals_against": 479,
+    "goal_difference": -212,
+    "win_percentage": 21.5,
+    "avg_points": 0.88,
+    "best_rank": 85,
+    "worst_rank": 161,
+    "avg_rank": 127.2,
+    "biggest_win": {
+      "score": "7-1",
+      "opponent": "Mauritania",
+      "date": "1990-10-12",
+      "flag": "mauritania.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Congo",
+      "date": "1961-12-27",
+      "flag": "congo.png"
+    },
+    "home_matches": 96,
+    "away_matches": 112,
+    "neutral_matches": 66,
+    "first_match_date": "1961-12-25",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

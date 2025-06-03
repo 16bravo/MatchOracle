@@ -1,5 +1,36 @@
 {
   "team": "Mauritius",
+  "stats": {
+    "matches_played": 331,
+    "wins": 94,
+    "draws": 73,
+    "losses": 164,
+    "goals_for": 425,
+    "goals_against": 537,
+    "goal_difference": -112,
+    "win_percentage": 28.4,
+    "avg_points": 1.07,
+    "best_rank": 17,
+    "worst_rank": 177,
+    "avg_rank": 128.47,
+    "biggest_win": {
+      "score": "15-2",
+      "opponent": "Reunion",
+      "date": "1950-12-31",
+      "flag": "reunion.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Egypt",
+      "date": "2003-06-08",
+      "flag": "egypt.png"
+    },
+    "home_matches": 110,
+    "away_matches": 146,
+    "neutral_matches": 75,
+    "first_match_date": "1932-01-17",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-06-10",

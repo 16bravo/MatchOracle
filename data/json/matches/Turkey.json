@@ -1,5 +1,36 @@
 {
   "team": "Turkey",
+  "stats": {
+    "matches_played": 651,
+    "wins": 254,
+    "draws": 153,
+    "losses": 244,
+    "goals_for": 908,
+    "goals_against": 942,
+    "goal_difference": -34,
+    "win_percentage": 39.0,
+    "avg_points": 1.41,
+    "best_rank": 10,
+    "worst_rank": 72,
+    "avg_rank": 34.6,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Syria",
+      "date": "1949-11-20",
+      "flag": "syria.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Poland",
+      "date": "1968-04-24",
+      "flag": "poland.png"
+    },
+    "home_matches": 283,
+    "away_matches": 291,
+    "neutral_matches": 77,
+    "first_match_date": "1923-10-26",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-18",

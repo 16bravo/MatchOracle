@@ -1,5 +1,36 @@
 {
   "team": "New Zealand",
+  "stats": {
+    "matches_played": 429,
+    "wins": 179,
+    "draws": 78,
+    "losses": 172,
+    "goals_for": 758,
+    "goals_against": 630,
+    "goal_difference": 128,
+    "win_percentage": 41.7,
+    "avg_points": 1.43,
+    "best_rank": 51,
+    "worst_rank": 144,
+    "avg_rank": 92.06,
+    "biggest_win": {
+      "score": "13-0",
+      "opponent": "Fiji",
+      "date": "1981-08-16",
+      "flag": "fiji.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Australia",
+      "date": "1936-07-11",
+      "flag": "australia.png"
+    },
+    "home_matches": 132,
+    "away_matches": 186,
+    "neutral_matches": 111,
+    "first_match_date": "1922-06-17",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-10-14",

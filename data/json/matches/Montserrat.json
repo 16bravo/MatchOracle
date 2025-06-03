@@ -1,5 +1,36 @@
 {
   "team": "Montserrat",
+  "stats": {
+    "matches_played": 72,
+    "wins": 17,
+    "draws": 8,
+    "losses": 47,
+    "goals_for": 75,
+    "goals_against": 232,
+    "goal_difference": -157,
+    "win_percentage": 23.6,
+    "avg_points": 0.82,
+    "best_rank": 183,
+    "worst_rank": 213,
+    "avg_rank": 202.81,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "British Virgin Islands",
+      "date": "2012-09-09",
+      "flag": "gb_virgin.png"
+    },
+    "biggest_loss": {
+      "score": "0-13",
+      "opponent": "Bermuda",
+      "date": "2004-02-29",
+      "flag": "bermuda.png"
+    },
+    "home_matches": 16,
+    "away_matches": 24,
+    "neutral_matches": 32,
+    "first_match_date": "1950-02-01",
+    "last_match_date": "2024-11-17"
+  },
   "matches": [
     {
       "date": "2025-06-10",

@@ -1,5 +1,36 @@
 {
   "team": "Bahrain",
+  "stats": {
+    "matches_played": 616,
+    "wins": 220,
+    "draws": 163,
+    "losses": 233,
+    "goals_for": 762,
+    "goals_against": 781,
+    "goal_difference": -19,
+    "win_percentage": 35.7,
+    "avg_points": 1.34,
+    "best_rank": 55,
+    "worst_rank": 174,
+    "avg_rank": 102.41,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "Indonesia",
+      "date": "2012-02-29",
+      "flag": "indonesia.png"
+    },
+    "biggest_loss": {
+      "score": "1-10",
+      "opponent": "Iraq",
+      "date": "1966-04-05",
+      "flag": "iraq.png"
+    },
+    "home_matches": 209,
+    "away_matches": 154,
+    "neutral_matches": 253,
+    "first_match_date": "1966-04-01",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-03",

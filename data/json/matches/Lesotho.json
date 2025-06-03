@@ -1,5 +1,36 @@
 {
   "team": "Lesotho",
+  "stats": {
+    "matches_played": 329,
+    "wins": 65,
+    "draws": 100,
+    "losses": 164,
+    "goals_for": 261,
+    "goals_against": 531,
+    "goal_difference": -270,
+    "win_percentage": 19.8,
+    "avg_points": 0.9,
+    "best_rank": 127,
+    "worst_rank": 175,
+    "avg_rank": 148.28,
+    "biggest_win": {
+      "score": "5-0",
+      "opponent": "Swaziland",
+      "date": "2006-04-14",
+      "flag": "eswatini.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Zambia",
+      "date": "1988-08-08",
+      "flag": "zambia.png"
+    },
+    "home_matches": 109,
+    "away_matches": 137,
+    "neutral_matches": 83,
+    "first_match_date": "1970-08-08",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

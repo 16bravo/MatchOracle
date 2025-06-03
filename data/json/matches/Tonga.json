@@ -1,5 +1,36 @@
 {
   "team": "Tonga",
+  "stats": {
+    "matches_played": 67,
+    "wins": 14,
+    "draws": 6,
+    "losses": 47,
+    "goals_for": 74,
+    "goals_against": 262,
+    "goal_difference": -188,
+    "win_percentage": 20.9,
+    "avg_points": 0.72,
+    "best_rank": 216,
+    "worst_rank": 220,
+    "avg_rank": 217.78,
+    "biggest_win": {
+      "score": "5-0",
+      "opponent": "Eastern Samoa",
+      "date": "2001-04-14",
+      "flag": "us_samoa.png"
+    },
+    "biggest_loss": {
+      "score": "0-22",
+      "opponent": "Australia",
+      "date": "2001-04-09",
+      "flag": "australia.png"
+    },
+    "home_matches": 10,
+    "away_matches": 15,
+    "neutral_matches": 42,
+    "first_match_date": "1979-08-29",
+    "last_match_date": "2024-09-09"
+  },
   "matches": [
     {
       "date": "2024-09-09",

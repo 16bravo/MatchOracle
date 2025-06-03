@@ -1,5 +1,36 @@
 {
   "team": "Switzerland",
+  "stats": {
+    "matches_played": 883,
+    "wins": 312,
+    "draws": 199,
+    "losses": 372,
+    "goals_for": 1308,
+    "goals_against": 1473,
+    "goal_difference": -165,
+    "win_percentage": 35.3,
+    "avg_points": 1.29,
+    "best_rank": 7,
+    "worst_rank": 45,
+    "avg_rank": 25.86,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Lithuania",
+      "date": "1924-05-25",
+      "flag": "lithuania.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "England",
+      "date": "1909-05-20",
+      "flag": "england.png"
+    },
+    "home_matches": 420,
+    "away_matches": 386,
+    "neutral_matches": 77,
+    "first_match_date": "1905-02-12",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-18",

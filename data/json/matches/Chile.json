@@ -1,5 +1,36 @@
 {
   "team": "Chile",
+  "stats": {
+    "matches_played": 844,
+    "wins": 315,
+    "draws": 187,
+    "losses": 342,
+    "goals_for": 1187,
+    "goals_against": 1203,
+    "goal_difference": -16,
+    "win_percentage": 37.3,
+    "avg_points": 1.34,
+    "best_rank": 2,
+    "worst_rank": 52,
+    "avg_rank": 23.57,
+    "biggest_win": {
+      "score": "10-1",
+      "opponent": "Tahiti",
+      "date": "1973-02-14",
+      "flag": "tahiti.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Brazil",
+      "date": "1959-09-17",
+      "flag": "brazil.png"
+    },
+    "home_matches": 324,
+    "away_matches": 305,
+    "neutral_matches": 215,
+    "first_match_date": "1910-05-27",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-09-14",

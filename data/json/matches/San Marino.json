@@ -1,5 +1,36 @@
 {
   "team": "San Marino",
+  "stats": {
+    "matches_played": 216,
+    "wins": 3,
+    "draws": 11,
+    "losses": 202,
+    "goals_for": 39,
+    "goals_against": 853,
+    "goal_difference": -814,
+    "win_percentage": 1.4,
+    "avg_points": 0.09,
+    "best_rank": 170,
+    "worst_rank": 196,
+    "avg_rank": 185.06,
+    "biggest_win": {
+      "score": "3-1",
+      "opponent": "Liechtenstein",
+      "date": "2024-11-18",
+      "flag": "liechtenstein.png"
+    },
+    "biggest_loss": {
+      "score": "0-13",
+      "opponent": "Germany",
+      "date": "2006-09-06",
+      "flag": "germany.png"
+    },
+    "home_matches": 104,
+    "away_matches": 105,
+    "neutral_matches": 7,
+    "first_match_date": "1987-09-16",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-11-18",

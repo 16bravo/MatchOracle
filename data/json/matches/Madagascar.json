@@ -1,5 +1,36 @@
 {
   "team": "Madagascar",
+  "stats": {
+    "matches_played": 331,
+    "wins": 124,
+    "draws": 72,
+    "losses": 135,
+    "goals_for": 454,
+    "goals_against": 499,
+    "goal_difference": -45,
+    "win_percentage": 37.5,
+    "avg_points": 1.34,
+    "best_rank": 78,
+    "worst_rank": 158,
+    "avg_rank": 114.82,
+    "biggest_win": {
+      "score": "8-1",
+      "opponent": "Congo",
+      "date": "1960-04-18",
+      "flag": "congo.png"
+    },
+    "biggest_loss": {
+      "score": "0-7",
+      "opponent": "Mauritius",
+      "date": "1952-07-31",
+      "flag": "mauritius.png"
+    },
+    "home_matches": 116,
+    "away_matches": 116,
+    "neutral_matches": 99,
+    "first_match_date": "1947-12-31",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-06-09",

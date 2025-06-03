@@ -1,5 +1,36 @@
 {
   "team": "Sri Lanka",
+  "stats": {
+    "matches_played": 270,
+    "wins": 50,
+    "draws": 48,
+    "losses": 172,
+    "goals_for": 254,
+    "goals_against": 674,
+    "goal_difference": -420,
+    "win_percentage": 18.5,
+    "avg_points": 0.73,
+    "best_rank": 180,
+    "worst_rank": 205,
+    "avg_rank": 195.17,
+    "biggest_win": {
+      "score": "7-1",
+      "opponent": "Pakistan",
+      "date": "2008-04-04",
+      "flag": "pakistan.png"
+    },
+    "biggest_loss": {
+      "score": "1-12",
+      "opponent": "East Germany",
+      "date": "1964-01-12",
+      "flag": "gdr.png"
+    },
+    "home_matches": 54,
+    "away_matches": 86,
+    "neutral_matches": 130,
+    "first_match_date": "1952-03-09",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

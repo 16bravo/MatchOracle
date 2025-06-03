@@ -1,5 +1,36 @@
 {
   "team": "Guyana",
+  "stats": {
+    "matches_played": 445,
+    "wins": 137,
+    "draws": 89,
+    "losses": 219,
+    "goals_for": 569,
+    "goals_against": 775,
+    "goal_difference": -206,
+    "win_percentage": 30.8,
+    "avg_points": 1.12,
+    "best_rank": 77,
+    "worst_rank": 188,
+    "avg_rank": 147.16,
+    "biggest_win": {
+      "score": "14-0",
+      "opponent": "Anguilla",
+      "date": "1998-04-19",
+      "flag": "anguilla.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Suriname",
+      "date": "1952-02-17",
+      "flag": "suriname.png"
+    },
+    "home_matches": 109,
+    "away_matches": 189,
+    "neutral_matches": 147,
+    "first_match_date": "1905-07-21",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

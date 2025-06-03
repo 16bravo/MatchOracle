@@ -1,5 +1,36 @@
 {
   "team": "Austria",
+  "stats": {
+    "matches_played": 853,
+    "wins": 362,
+    "draws": 182,
+    "losses": 309,
+    "goals_for": 1527,
+    "goals_against": 1311,
+    "goal_difference": 216,
+    "win_percentage": 42.4,
+    "avg_points": 1.49,
+    "best_rank": 3,
+    "worst_rank": 63,
+    "avg_rank": 21.93,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Malta",
+      "date": "1977-04-30",
+      "flag": "malta.png"
+    },
+    "biggest_loss": {
+      "score": "1-11",
+      "opponent": "England",
+      "date": "1908-06-08",
+      "flag": "england.png"
+    },
+    "home_matches": 424,
+    "away_matches": 378,
+    "neutral_matches": 51,
+    "first_match_date": "1902-10-12",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-15",

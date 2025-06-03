@@ -1,5 +1,36 @@
 {
   "team": "DR Congo",
+  "stats": {
+    "matches_played": 524,
+    "wins": 210,
+    "draws": 147,
+    "losses": 167,
+    "goals_for": 799,
+    "goals_against": 625,
+    "goal_difference": 174,
+    "win_percentage": 40.1,
+    "avg_points": 1.48,
+    "best_rank": 27,
+    "worst_rank": 110,
+    "avg_rank": 67.89,
+    "biggest_win": {
+      "score": "10-1",
+      "opponent": "Zambia",
+      "date": "1969-11-22",
+      "flag": "zambia.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Yugoslavia",
+      "date": "1974-06-18",
+      "flag": "yugoslavia.png"
+    },
+    "home_matches": 101,
+    "away_matches": 215,
+    "neutral_matches": 208,
+    "first_match_date": "1948-12-31",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-30",

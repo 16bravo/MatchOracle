@@ -1,5 +1,36 @@
 {
   "team": "Estonia",
+  "stats": {
+    "matches_played": 529,
+    "wins": 131,
+    "draws": 117,
+    "losses": 281,
+    "goals_for": 522,
+    "goals_against": 938,
+    "goal_difference": -416,
+    "win_percentage": 24.8,
+    "avg_points": 0.96,
+    "best_rank": 76,
+    "worst_rank": 156,
+    "avg_rank": 103.55,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Lithuania",
+      "date": "1928-07-26",
+      "flag": "lithuania.png"
+    },
+    "biggest_loss": {
+      "score": "2-10",
+      "opponent": "Finland",
+      "date": "1922-08-11",
+      "flag": "finland.png"
+    },
+    "home_matches": 225,
+    "away_matches": 251,
+    "neutral_matches": 53,
+    "first_match_date": "1920-10-17",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-11-18",

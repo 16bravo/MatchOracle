@@ -1,5 +1,36 @@
 {
   "team": "Uganda",
+  "stats": {
+    "matches_played": 703,
+    "wins": 295,
+    "draws": 184,
+    "losses": 224,
+    "goals_for": 1060,
+    "goals_against": 836,
+    "goal_difference": 224,
+    "win_percentage": 42.0,
+    "avg_points": 1.52,
+    "best_rank": 28,
+    "worst_rank": 128,
+    "avg_rank": 87.76,
+    "biggest_win": {
+      "score": "13-1",
+      "opponent": "Kenya",
+      "date": "1932-12-31",
+      "flag": "kenya.png"
+    },
+    "biggest_loss": {
+      "score": "1-7",
+      "opponent": "Ethiopia",
+      "date": "1963-03-24",
+      "flag": "ethiopia.png"
+    },
+    "home_matches": 240,
+    "away_matches": 237,
+    "neutral_matches": 226,
+    "first_match_date": "1926-05-01",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-30",

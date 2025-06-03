@@ -1,5 +1,36 @@
 {
   "team": "Zanzibar",
+  "stats": {
+    "matches_played": 199,
+    "wins": 35,
+    "draws": 40,
+    "losses": 124,
+    "goals_for": 162,
+    "goals_against": 426,
+    "goal_difference": -264,
+    "win_percentage": 17.6,
+    "avg_points": 0.73,
+    "best_rank": 112,
+    "worst_rank": 188,
+    "avg_rank": 156.6,
+    "biggest_win": {
+      "score": "4-0",
+      "opponent": "Burundi",
+      "date": "2009-11-29",
+      "flag": "burundi.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Kenya",
+      "date": "1961-10-04",
+      "flag": "kenya.png"
+    },
+    "home_matches": 23,
+    "away_matches": 37,
+    "neutral_matches": 139,
+    "first_match_date": "1947-09-18",
+    "last_match_date": "2023-12-27"
+  },
   "matches": [
     {
       "date": "2023-12-27",

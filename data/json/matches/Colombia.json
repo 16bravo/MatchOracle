@@ -1,5 +1,36 @@
 {
   "team": "Colombia",
+  "stats": {
+    "matches_played": 641,
+    "wins": 260,
+    "draws": 176,
+    "losses": 205,
+    "goals_for": 824,
+    "goals_against": 738,
+    "goal_difference": 86,
+    "win_percentage": 40.6,
+    "avg_points": 1.49,
+    "best_rank": 3,
+    "worst_rank": 98,
+    "avg_rank": 28.12,
+    "biggest_win": {
+      "score": "7-1",
+      "opponent": "Guyana",
+      "date": "2012-05-28",
+      "flag": "guyana.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Brazil",
+      "date": "1957-03-24",
+      "flag": "brazil.png"
+    },
+    "home_matches": 182,
+    "away_matches": 228,
+    "neutral_matches": 231,
+    "first_match_date": "1938-02-10",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-10-11",

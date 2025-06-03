@@ -1,5 +1,36 @@
 {
   "team": "Grenada",
+  "stats": {
+    "matches_played": 295,
+    "wins": 98,
+    "draws": 74,
+    "losses": 123,
+    "goals_for": 465,
+    "goals_against": 528,
+    "goal_difference": -63,
+    "win_percentage": 33.2,
+    "avg_points": 1.25,
+    "best_rank": 110,
+    "worst_rank": 185,
+    "avg_rank": 155.35,
+    "biggest_win": {
+      "score": "14-1",
+      "opponent": "Anguilla",
+      "date": "1998-04-15",
+      "flag": "anguilla.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Cura\u00e7ao",
+      "date": "2018-09-10",
+      "flag": "curacao.png"
+    },
+    "home_matches": 110,
+    "away_matches": 110,
+    "neutral_matches": 75,
+    "first_match_date": "1934-10-13",
+    "last_match_date": "2025-05-31"
+  },
   "matches": [
     {
       "date": "2025-06-10",

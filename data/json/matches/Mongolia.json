@@ -1,5 +1,36 @@
 {
   "team": "Mongolia",
+  "stats": {
+    "matches_played": 97,
+    "wins": 21,
+    "draws": 11,
+    "losses": 65,
+    "goals_for": 98,
+    "goals_against": 270,
+    "goal_difference": -172,
+    "win_percentage": 21.6,
+    "avg_points": 0.76,
+    "best_rank": 196,
+    "worst_rank": 211,
+    "avg_rank": 205.62,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Northern Mariana Islands",
+      "date": "2018-09-04",
+      "flag": "mariana.png"
+    },
+    "biggest_loss": {
+      "score": "0-15",
+      "opponent": "Uzbekistan",
+      "date": "1998-12-05",
+      "flag": "uzbekistan.png"
+    },
+    "home_matches": 20,
+    "away_matches": 36,
+    "neutral_matches": 41,
+    "first_match_date": "1960-12-03",
+    "last_match_date": "2024-12-11"
+  },
   "matches": [
     {
       "date": "2024-12-11",

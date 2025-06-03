@@ -1,5 +1,36 @@
 {
   "team": "Poland",
+  "stats": {
+    "matches_played": 907,
+    "wins": 393,
+    "draws": 222,
+    "losses": 292,
+    "goals_for": 1540,
+    "goals_against": 1224,
+    "goal_difference": 316,
+    "win_percentage": 43.3,
+    "avg_points": 1.54,
+    "best_rank": 1,
+    "worst_rank": 48,
+    "avg_rank": 25.01,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "San Marino",
+      "date": "2009-04-01",
+      "flag": "san_marino.png"
+    },
+    "biggest_loss": {
+      "score": "0-8",
+      "opponent": "Denmark",
+      "date": "1948-06-26",
+      "flag": "denmark.png"
+    },
+    "home_matches": 390,
+    "away_matches": 402,
+    "neutral_matches": 115,
+    "first_match_date": "1921-12-18",
+    "last_match_date": "2025-03-24"
+  },
   "matches": [
     {
       "date": "2025-11-17",

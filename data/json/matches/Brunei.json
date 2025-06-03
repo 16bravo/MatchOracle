@@ -1,5 +1,36 @@
 {
   "team": "Brunei",
+  "stats": {
+    "matches_played": 145,
+    "wins": 26,
+    "draws": 13,
+    "losses": 106,
+    "goals_for": 116,
+    "goals_against": 467,
+    "goal_difference": -351,
+    "win_percentage": 17.9,
+    "avg_points": 0.63,
+    "best_rank": 202,
+    "worst_rank": 212,
+    "avg_rank": 206.19,
+    "biggest_win": {
+      "score": "4-0",
+      "opponent": "East Timor",
+      "date": "2016-11-02",
+      "flag": "timor.png"
+    },
+    "biggest_loss": {
+      "score": "0-12",
+      "opponent": "United Arab Emirates",
+      "date": "2001-04-14",
+      "flag": "uae.png"
+    },
+    "home_matches": 26,
+    "away_matches": 42,
+    "neutral_matches": 77,
+    "first_match_date": "1971-05-22",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

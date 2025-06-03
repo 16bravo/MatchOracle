@@ -1,5 +1,36 @@
 {
   "team": "Saudi Arabia",
+  "stats": {
+    "matches_played": 792,
+    "wins": 379,
+    "draws": 184,
+    "losses": 229,
+    "goals_for": 1235,
+    "goals_against": 846,
+    "goal_difference": 389,
+    "win_percentage": 47.9,
+    "avg_points": 1.67,
+    "best_rank": 37,
+    "worst_rank": 163,
+    "avg_rank": 70.88,
+    "biggest_win": {
+      "score": "10-0",
+      "opponent": "East Timor",
+      "date": "2015-11-17",
+      "flag": "timor.png"
+    },
+    "biggest_loss": {
+      "score": "0-13",
+      "opponent": "United Arab Republic",
+      "date": "1961-09-03",
+      "flag": "uar.png"
+    },
+    "home_matches": 310,
+    "away_matches": 143,
+    "neutral_matches": 339,
+    "first_match_date": "1957-10-18",
+    "last_match_date": "2025-05-30"
+  },
   "matches": [
     {
       "date": "2025-12-03",

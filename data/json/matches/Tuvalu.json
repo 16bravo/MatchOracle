@@ -1,5 +1,36 @@
 {
   "team": "Tuvalu",
+  "stats": {
+    "matches_played": 33,
+    "wins": 8,
+    "draws": 4,
+    "losses": 21,
+    "goals_for": 41,
+    "goals_against": 181,
+    "goal_difference": -140,
+    "win_percentage": 24.2,
+    "avg_points": 0.85,
+    "best_rank": 216,
+    "worst_rank": 221,
+    "avg_rank": 218.0,
+    "biggest_win": {
+      "score": "4-0",
+      "opponent": "Eastern Samoa",
+      "date": "2011-08-27",
+      "flag": "us_samoa.png"
+    },
+    "biggest_loss": {
+      "score": "0-18",
+      "opponent": "Tahiti",
+      "date": "1979-08-30",
+      "flag": "tahiti.png"
+    },
+    "home_matches": 0,
+    "away_matches": 4,
+    "neutral_matches": 29,
+    "first_match_date": "1979-08-30",
+    "last_match_date": "2023-11-30"
+  },
   "matches": [
     {
       "date": "2023-11-30",

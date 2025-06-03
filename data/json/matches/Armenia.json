@@ -1,5 +1,36 @@
 {
   "team": "Armenia",
+  "stats": {
+    "matches_played": 271,
+    "wins": 65,
+    "draws": 55,
+    "losses": 151,
+    "goals_for": 271,
+    "goals_against": 507,
+    "goal_difference": -236,
+    "win_percentage": 24.0,
+    "avg_points": 0.92,
+    "best_rank": 53,
+    "worst_rank": 160,
+    "avg_rank": 89.5,
+    "biggest_win": {
+      "score": "7-1",
+      "opponent": "Guatemala",
+      "date": "2016-05-28",
+      "flag": "guatemala.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "Norway",
+      "date": "2022-03-29",
+      "flag": "norway.png"
+    },
+    "home_matches": 108,
+    "away_matches": 127,
+    "neutral_matches": 36,
+    "first_match_date": "1926-12-31",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-16",

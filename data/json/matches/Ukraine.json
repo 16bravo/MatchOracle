@@ -1,5 +1,36 @@
 {
   "team": "Ukraine",
+  "stats": {
+    "matches_played": 323,
+    "wins": 145,
+    "draws": 92,
+    "losses": 86,
+    "goals_for": 449,
+    "goals_against": 332,
+    "goal_difference": 117,
+    "win_percentage": 44.9,
+    "avg_points": 1.63,
+    "best_rank": 10,
+    "worst_rank": 62,
+    "avg_rank": 29.25,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "San Marino",
+      "date": "2013-09-06",
+      "flag": "san_marino.png"
+    },
+    "biggest_loss": {
+      "score": "1-7",
+      "opponent": "France",
+      "date": "2020-10-07",
+      "flag": "france.png"
+    },
+    "home_matches": 131,
+    "away_matches": 138,
+    "neutral_matches": 54,
+    "first_match_date": "1992-04-29",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-16",

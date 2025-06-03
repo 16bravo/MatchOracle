@@ -1,5 +1,36 @@
 {
   "team": "Iraq",
+  "stats": {
+    "matches_played": 740,
+    "wins": 348,
+    "draws": 209,
+    "losses": 183,
+    "goals_for": 1178,
+    "goals_against": 689,
+    "goal_difference": 489,
+    "win_percentage": 47.0,
+    "avg_points": 1.69,
+    "best_rank": 34,
+    "worst_rank": 101,
+    "avg_rank": 65.12,
+    "biggest_win": {
+      "score": "13-0",
+      "opponent": "Ethiopia",
+      "date": "1992-08-18",
+      "flag": "ethiopia.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Brazil",
+      "date": "2012-10-11",
+      "flag": "brazil.png"
+    },
+    "home_matches": 136,
+    "away_matches": 226,
+    "neutral_matches": 378,
+    "first_match_date": "1944-03-05",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-12-03",

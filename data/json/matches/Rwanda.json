@@ -1,5 +1,36 @@
 {
   "team": "Rwanda",
+  "stats": {
+    "matches_played": 281,
+    "wins": 86,
+    "draws": 74,
+    "losses": 121,
+    "goals_for": 287,
+    "goals_against": 354,
+    "goal_difference": -67,
+    "win_percentage": 30.6,
+    "avg_points": 1.18,
+    "best_rank": 92,
+    "worst_rank": 173,
+    "avg_rank": 122.9,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Djibouti",
+      "date": "2007-12-13",
+      "flag": "djibouti.png"
+    },
+    "biggest_loss": {
+      "score": "0-5",
+      "opponent": "Cameroon",
+      "date": "1976-06-29",
+      "flag": "cameroon.png"
+    },
+    "home_matches": 102,
+    "away_matches": 97,
+    "neutral_matches": 82,
+    "first_match_date": "1976-06-29",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-05",

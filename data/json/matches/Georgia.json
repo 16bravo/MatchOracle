@@ -1,5 +1,36 @@
 {
   "team": "Georgia",
+  "stats": {
+    "matches_played": 305,
+    "wins": 102,
+    "draws": 65,
+    "losses": 138,
+    "goals_for": 393,
+    "goals_against": 419,
+    "goal_difference": -26,
+    "win_percentage": 33.4,
+    "avg_points": 1.22,
+    "best_rank": 29,
+    "worst_rank": 90,
+    "avg_rank": 59.97,
+    "biggest_win": {
+      "score": "8-0",
+      "opponent": "Thailand",
+      "date": "2023-10-12",
+      "flag": "thailand.png"
+    },
+    "biggest_loss": {
+      "score": "1-7",
+      "opponent": "Spain",
+      "date": "2023-09-08",
+      "flag": "spain.png"
+    },
+    "home_matches": 130,
+    "away_matches": 144,
+    "neutral_matches": 31,
+    "first_match_date": "1926-12-31",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-11-18",

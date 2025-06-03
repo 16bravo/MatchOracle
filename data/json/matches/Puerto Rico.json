@@ -1,5 +1,36 @@
 {
   "team": "Puerto Rico",
+  "stats": {
+    "matches_played": 193,
+    "wins": 43,
+    "draws": 31,
+    "losses": 119,
+    "goals_for": 220,
+    "goals_against": 483,
+    "goal_difference": -263,
+    "win_percentage": 22.3,
+    "avg_points": 0.83,
+    "best_rank": 159,
+    "worst_rank": 208,
+    "avg_rank": 187.27,
+    "biggest_win": {
+      "score": "9-0",
+      "opponent": "Saint Martin",
+      "date": "2012-09-09",
+      "flag": "france.png"
+    },
+    "biggest_loss": {
+      "score": "0-15",
+      "opponent": "Netherlands Antilles",
+      "date": "1959-01-07",
+      "flag": "nl_antilles.png"
+    },
+    "home_matches": 69,
+    "away_matches": 70,
+    "neutral_matches": 54,
+    "first_match_date": "1940-11-12",
+    "last_match_date": "2025-06-01"
+  },
   "matches": [
     {
       "date": "2025-06-10",

@@ -1,5 +1,36 @@
 {
   "team": "Barbados",
+  "stats": {
+    "matches_played": 364,
+    "wins": 112,
+    "draws": 94,
+    "losses": 158,
+    "goals_for": 465,
+    "goals_against": 600,
+    "goal_difference": -135,
+    "win_percentage": 30.8,
+    "avg_points": 1.18,
+    "best_rank": 127,
+    "worst_rank": 197,
+    "avg_rank": 161.18,
+    "biggest_win": {
+      "score": "7-1",
+      "opponent": "Anguilla",
+      "date": "2006-09-24",
+      "flag": "anguilla.png"
+    },
+    "biggest_loss": {
+      "score": "0-9",
+      "opponent": "British Guiana",
+      "date": "1931-03-13",
+      "flag": "gb_guiana.png"
+    },
+    "home_matches": 164,
+    "away_matches": 130,
+    "neutral_matches": 70,
+    "first_match_date": "1929-04-20",
+    "last_match_date": "2025-05-11"
+  },
   "matches": [
     {
       "date": "2025-06-10",

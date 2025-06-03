@@ -1,5 +1,36 @@
 {
   "team": "Burundi",
+  "stats": {
+    "matches_played": 231,
+    "wins": 70,
+    "draws": 54,
+    "losses": 107,
+    "goals_for": 262,
+    "goals_against": 321,
+    "goal_difference": -59,
+    "win_percentage": 30.3,
+    "avg_points": 1.14,
+    "best_rank": 100,
+    "worst_rank": 147,
+    "avg_rank": 125.96,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Djibouti",
+      "date": "2017-03-11",
+      "flag": "djibouti.png"
+    },
+    "biggest_loss": {
+      "score": "1-9",
+      "opponent": "Uganda",
+      "date": "1953-09-19",
+      "flag": "uganda.png"
+    },
+    "home_matches": 49,
+    "away_matches": 85,
+    "neutral_matches": 97,
+    "first_match_date": "1953-09-19",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2025-06-10",

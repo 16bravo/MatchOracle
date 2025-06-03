@@ -1,5 +1,36 @@
 {
   "team": "Eswatini",
+  "stats": {
+    "matches_played": 300,
+    "wins": 62,
+    "draws": 92,
+    "losses": 146,
+    "goals_for": 253,
+    "goals_against": 490,
+    "goal_difference": -237,
+    "win_percentage": 20.7,
+    "avg_points": 0.93,
+    "best_rank": 119,
+    "worst_rank": 184,
+    "avg_rank": 149.62,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Djibouti",
+      "date": "2015-10-09",
+      "flag": "djibouti.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "Egypt",
+      "date": "2013-03-22",
+      "flag": "egypt.png"
+    },
+    "home_matches": 12,
+    "away_matches": 122,
+    "neutral_matches": 166,
+    "first_match_date": "1968-07-20",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-06-11",

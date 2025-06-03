@@ -1,5 +1,36 @@
 {
   "team": "Yemen",
+  "stats": {
+    "matches_played": 284,
+    "wins": 61,
+    "draws": 54,
+    "losses": 169,
+    "goals_for": 274,
+    "goals_against": 571,
+    "goal_difference": -297,
+    "win_percentage": 21.5,
+    "avg_points": 0.83,
+    "best_rank": 113,
+    "worst_rank": 181,
+    "avg_rank": 152.27,
+    "biggest_win": {
+      "score": "11-2",
+      "opponent": "Bhutan",
+      "date": "2000-02-18",
+      "flag": "bhutan.png"
+    },
+    "biggest_loss": {
+      "score": "0-14",
+      "opponent": "Egypt",
+      "date": "1965-09-03",
+      "flag": "egypt.png"
+    },
+    "home_matches": 49,
+    "away_matches": 84,
+    "neutral_matches": 151,
+    "first_match_date": "1965-09-02",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

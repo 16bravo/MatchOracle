@@ -1,5 +1,36 @@
 {
   "team": "Bhutan",
+  "stats": {
+    "matches_played": 104,
+    "wins": 10,
+    "draws": 7,
+    "losses": 87,
+    "goals_for": 57,
+    "goals_against": 383,
+    "goal_difference": -326,
+    "win_percentage": 9.6,
+    "avg_points": 0.36,
+    "best_rank": 206,
+    "worst_rank": 214,
+    "avg_rank": 210.66,
+    "biggest_win": {
+      "score": "6-0",
+      "opponent": "Guam",
+      "date": "2003-04-23",
+      "flag": "guam.png"
+    },
+    "biggest_loss": {
+      "score": "0-20",
+      "opponent": "Kuwait",
+      "date": "2000-02-14",
+      "flag": "kuwait.png"
+    },
+    "home_matches": 18,
+    "away_matches": 36,
+    "neutral_matches": 50,
+    "first_match_date": "1982-04-30",
+    "last_match_date": "2025-03-25"
+  },
   "matches": [
     {
       "date": "2026-03-31",

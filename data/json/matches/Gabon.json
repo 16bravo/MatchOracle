@@ -1,5 +1,36 @@
 {
   "team": "Gabon",
+  "stats": {
+    "matches_played": 440,
+    "wins": 152,
+    "draws": 125,
+    "losses": 163,
+    "goals_for": 513,
+    "goals_against": 527,
+    "goal_difference": -14,
+    "win_percentage": 34.5,
+    "avg_points": 1.32,
+    "best_rank": 63,
+    "worst_rank": 130,
+    "avg_rank": 93.71,
+    "biggest_win": {
+      "score": "7-0",
+      "opponent": "Benin",
+      "date": "1995-04-02",
+      "flag": "benin.png"
+    },
+    "biggest_loss": {
+      "score": "0-6",
+      "opponent": "Cameroon",
+      "date": "1961-12-26",
+      "flag": "cameroon.png"
+    },
+    "home_matches": 177,
+    "away_matches": 148,
+    "neutral_matches": 115,
+    "first_match_date": "1960-04-14",
+    "last_match_date": "2025-03-23"
+  },
   "matches": [
     {
       "date": "2025-12-31",

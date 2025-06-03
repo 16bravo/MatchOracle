@@ -1,5 +1,36 @@
 {
   "team": "Malaysia",
+  "stats": {
+    "matches_played": 912,
+    "wins": 350,
+    "draws": 208,
+    "losses": 354,
+    "goals_for": 1479,
+    "goals_against": 1341,
+    "goal_difference": 138,
+    "win_percentage": 38.4,
+    "avg_points": 1.38,
+    "best_rank": 68,
+    "worst_rank": 183,
+    "avg_rank": 131.43,
+    "biggest_win": {
+      "score": "15-1",
+      "opponent": "Philippines",
+      "date": "1962-08-26",
+      "flag": "philippines.png"
+    },
+    "biggest_loss": {
+      "score": "0-10",
+      "opponent": "United Arab Emirates",
+      "date": "2015-09-03",
+      "flag": "uae.png"
+    },
+    "home_matches": 340,
+    "away_matches": 230,
+    "neutral_matches": 342,
+    "first_match_date": "1948-06-20",
+    "last_match_date": "2025-05-29"
+  },
   "matches": [
     {
       "date": "2026-03-31",

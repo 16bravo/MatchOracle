@@ -1,5 +1,36 @@
 {
   "team": "US Virgin Islands",
+  "stats": {
+    "matches_played": 76,
+    "wins": 8,
+    "draws": 12,
+    "losses": 56,
+    "goals_for": 44,
+    "goals_against": 291,
+    "goal_difference": -247,
+    "win_percentage": 10.5,
+    "avg_points": 0.47,
+    "best_rank": 211,
+    "worst_rank": 215,
+    "avg_rank": 213.46,
+    "biggest_win": {
+      "score": "3-0",
+      "opponent": "Anguilla",
+      "date": "2019-03-22",
+      "flag": "anguilla.png"
+    },
+    "biggest_loss": {
+      "score": "1-14",
+      "opponent": "Saint Lucia",
+      "date": "2001-04-14",
+      "flag": "st_lucia.png"
+    },
+    "home_matches": 27,
+    "away_matches": 33,
+    "neutral_matches": 16,
+    "first_match_date": "1998-03-22",
+    "last_match_date": "2024-10-12"
+  },
   "matches": [
     {
       "date": "2025-08-03",
