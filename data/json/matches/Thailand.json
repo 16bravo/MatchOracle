@@ -1,18 +1,18 @@
 {
   "team": "Thailand",
   "stats": {
-    "matches_played": 922,
-    "wins": 358,
+    "matches_played": 923,
+    "wins": 359,
     "draws": 211,
     "losses": 353,
-    "goals_for": 1466,
+    "goals_for": 1468,
     "goals_against": 1385,
-    "goal_difference": 81,
-    "win_percentage": 38.8,
-    "avg_points": 1.39,
+    "goal_difference": 83,
+    "win_percentage": 38.9,
+    "avg_points": 1.4,
     "best_rank": 69,
     "worst_rank": 185,
-    "avg_rank": 124.83,
+    "avg_rank": 124.84,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Brunei",
@@ -25,11 +25,11 @@
       "date": "2023-10-12",
       "flag": "georgia.png"
     },
-    "home_matches": 383,
+    "home_matches": 384,
     "away_matches": 196,
     "neutral_matches": 343,
     "first_match_date": "1948-08-20",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4718,
+      "rating1": 4723,
       "rating2": 4551,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 76.3,
+      "rank": 139,
+      "win_prob": 76.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4718,
+      "rating1": 4723,
       "rating2": 4058,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 91.1,
+      "rank": 139,
+      "win_prob": 91.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4718,
+      "rating1": 4723,
       "rating2": 4228,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 92.7,
+      "rank": 139,
+      "win_prob": 92.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4718,
+      "rating1": 4723,
       "rating2": 4228,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 84.0,
+      "rank": 139,
+      "win_prob": 84.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4718,
+      "rating1": 4723,
       "rating2": 4551,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 57.3,
+      "rank": 139,
+      "win_prob": 57.8,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "India",
       "flag1": "thailand.png",
       "flag2": "india.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4718,
-      "rating2": 4511,
-      "rating_ev": 0,
-      "rank": 141,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4723,
+      "rating2": 4506,
+      "rating_ev": 5,
+      "rank": 139,
       "win_prob": 79.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

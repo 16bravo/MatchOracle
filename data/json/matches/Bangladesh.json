@@ -1,18 +1,18 @@
 {
   "team": "Bangladesh",
   "stats": {
-    "matches_played": 316,
-    "wins": 83,
+    "matches_played": 317,
+    "wins": 84,
     "draws": 70,
     "losses": 163,
-    "goals_for": 280,
+    "goals_for": 282,
     "goals_against": 568,
-    "goal_difference": -288,
-    "win_percentage": 26.3,
-    "avg_points": 1.01,
+    "goal_difference": -286,
+    "win_percentage": 26.5,
+    "avg_points": 1.02,
     "best_rank": 167,
     "worst_rank": 200,
-    "avg_rank": 187.33,
+    "avg_rank": 187.32,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Maldives",
@@ -25,11 +25,11 @@
       "date": "1979-09-16",
       "flag": "south_korea.png"
     },
-    "home_matches": 87,
+    "home_matches": 88,
     "away_matches": 88,
     "neutral_matches": 141,
     "first_match_date": "1973-07-27",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4199,
+      "rating1": 4196,
       "rating2": 4303,
       "rating_ev": 0,
       "rank": 186,
-      "win_prob": 29.0,
+      "win_prob": 28.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4199,
-      "rating2": 4511,
+      "rating1": 4196,
+      "rating2": 4506,
       "rating_ev": 0,
       "rank": 186,
-      "win_prob": 28.5,
+      "win_prob": 28.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4199,
+      "rating1": 4196,
       "rating2": 4509,
       "rating_ev": 0,
       "rank": 186,
-      "win_prob": 14.3,
+      "win_prob": 14.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4199,
+      "rating1": 4196,
       "rating2": 4509,
       "rating_ev": 0,
       "rank": 186,
-      "win_prob": 28.7,
+      "win_prob": 28.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4199,
+      "rating1": 4196,
       "rating2": 4303,
       "rating_ev": 0,
       "rank": 186,
-      "win_prob": 49.5,
+      "win_prob": 49.2,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Bhutan",
       "flag1": "bangladesh.png",
       "flag2": "bhutan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4199,
-      "rating2": 3720,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4196,
+      "rating2": 3723,
+      "rating_ev": -3,
       "rank": 186,
       "win_prob": 92.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

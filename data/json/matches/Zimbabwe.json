@@ -1,18 +1,18 @@
 {
   "team": "Zimbabwe",
   "stats": {
-    "matches_played": 508,
+    "matches_played": 509,
     "wins": 197,
-    "draws": 147,
+    "draws": 148,
     "losses": 164,
     "goals_for": 685,
     "goals_against": 591,
     "goal_difference": 94,
-    "win_percentage": 38.8,
+    "win_percentage": 38.7,
     "avg_points": 1.45,
     "best_rank": 53,
     "worst_rank": 130,
-    "avg_rank": 88.82,
+    "avg_rank": 88.84,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Botswana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 165,
     "away_matches": 201,
-    "neutral_matches": 142,
+    "neutral_matches": 143,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
-      "rating2": 5049,
+      "rating1": 4863,
+      "rating2": 5021,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 32.5,
+      "rank": 100,
+      "win_prob": 33.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
+      "rating1": 4863,
       "rating2": 4976,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 39.9,
+      "rank": 100,
+      "win_prob": 37.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
+      "rating1": 4863,
       "rating2": 5120,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 26.2,
+      "rank": 100,
+      "win_prob": 24.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "niger.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
+      "rating1": 4863,
       "rating2": 4877,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 50.7,
+      "rank": 100,
+      "win_prob": 48.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
-      "rating2": 4901,
+      "rating1": 4863,
+      "rating2": 4929,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 48.0,
+      "rank": 100,
+      "win_prob": 42.8,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
-      "rating2": 5049,
+      "rating1": 4863,
+      "rating2": 5021,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 23.7,
+      "rank": 100,
+      "win_prob": 24.4,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
+      "rating1": 4863,
       "rating2": 4984,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 39.1,
+      "rank": 100,
+      "win_prob": 37.0,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Mauritius",
       "flag1": "zimbabwe.png",
       "flag2": "mauritius.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4883,
-      "rating2": 4542,
-      "rating_ev": 0,
-      "rank": 94,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4863,
+      "rating2": 4562,
+      "rating_ev": -20,
+      "rank": 100,
       "win_prob": 81.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

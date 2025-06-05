@@ -1,18 +1,18 @@
 {
   "team": "Bhutan",
   "stats": {
-    "matches_played": 104,
+    "matches_played": 105,
     "wins": 10,
     "draws": 7,
-    "losses": 87,
+    "losses": 88,
     "goals_for": 57,
-    "goals_against": 383,
-    "goal_difference": -326,
-    "win_percentage": 9.6,
-    "avg_points": 0.36,
+    "goals_against": 385,
+    "goal_difference": -328,
+    "win_percentage": 9.5,
+    "avg_points": 0.35,
     "best_rank": 206,
     "worst_rank": 214,
-    "avg_rank": 210.66,
+    "avg_rank": 210.65,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "kuwait.png"
     },
     "home_matches": 18,
-    "away_matches": 36,
+    "away_matches": 37,
     "neutral_matches": 50,
     "first_match_date": "1982-04-30",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "brunei.png",
       "score1": "",
       "score2": "",
-      "rating1": 3720,
+      "rating1": 3723,
       "rating2": 3684,
       "rating_ev": 0,
       "rank": 209,
-      "win_prob": 64.5,
+      "win_prob": 64.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 3720,
+      "rating1": 3723,
       "rating2": 4473,
       "rating_ev": 0,
       "rank": 209,
-      "win_prob": 4.2,
+      "win_prob": 4.3,
       "type": "fixture"
     },
     {
@@ -82,7 +82,7 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 3720,
+      "rating1": 3723,
       "rating2": 4719,
       "rating_ev": 0,
       "rank": 209,
@@ -101,7 +101,7 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 3720,
+      "rating1": 3723,
       "rating2": 4719,
       "rating_ev": 0,
       "rank": 209,
@@ -120,11 +120,11 @@
       "flag2": "brunei.png",
       "score1": "",
       "score2": "",
-      "rating1": 3720,
+      "rating1": 3723,
       "rating2": 3684,
       "rating_ev": 0,
       "rank": 209,
-      "win_prob": 43.0,
+      "win_prob": 43.4,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Bangladesh",
       "flag1": "bhutan.png",
       "flag2": "bangladesh.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3720,
-      "rating2": 4199,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 3723,
+      "rating2": 4196,
+      "rating_ev": 3,
       "rank": 209,
       "win_prob": 7.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

@@ -1,18 +1,18 @@
 {
   "team": "British Virgin Islands",
   "stats": {
-    "matches_played": 130,
+    "matches_played": 131,
     "wins": 19,
     "draws": 23,
-    "losses": 88,
+    "losses": 89,
     "goals_for": 109,
-    "goals_against": 386,
-    "goal_difference": -277,
-    "win_percentage": 14.6,
-    "avg_points": 0.62,
+    "goals_against": 389,
+    "goal_difference": -280,
+    "win_percentage": 14.5,
+    "avg_points": 0.61,
     "best_rank": 201,
     "worst_rank": 214,
-    "avg_rank": 207.7,
+    "avg_rank": 207.73,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "dominican_rep.png"
     },
     "home_matches": 35,
-    "away_matches": 57,
+    "away_matches": 58,
     "neutral_matches": 38,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2025-05-29"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,10 +44,10 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 3663,
+      "rating1": 3653,
       "rating2": 4964,
       "rating_ev": 0,
-      "rank": 211,
+      "rank": 212,
       "win_prob": 0.8,
       "type": "fixture"
     },
@@ -61,14 +61,14 @@
       "original_team2": "Dominica",
       "flag1": "gb_virgin.png",
       "flag2": "dominica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3663,
-      "rating2": 4095,
-      "rating_ev": 0,
-      "rank": 211,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 3653,
+      "rating2": 4105,
+      "rating_ev": -10,
+      "rank": 212,
       "win_prob": 9.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-05-29",

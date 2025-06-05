@@ -1,18 +1,18 @@
 {
   "team": "Dominica",
   "stats": {
-    "matches_played": 236,
-    "wins": 58,
+    "matches_played": 237,
+    "wins": 59,
     "draws": 51,
     "losses": 127,
-    "goals_for": 278,
+    "goals_for": 281,
     "goals_against": 471,
-    "goal_difference": -193,
-    "win_percentage": 24.6,
-    "avg_points": 0.95,
+    "goal_difference": -190,
+    "win_percentage": 24.9,
+    "avg_points": 0.96,
     "best_rank": 159,
     "worst_rank": 196,
-    "avg_rank": 182.49,
+    "avg_rank": 182.55,
     "biggest_win": {
       "score": "10-0",
       "opponent": "British Virgin Islands",
@@ -25,11 +25,11 @@
       "date": "2004-06-19",
       "flag": "mexico.png"
     },
-    "home_matches": 68,
+    "home_matches": 69,
     "away_matches": 95,
     "neutral_matches": 73,
     "first_match_date": "1932-12-31",
-    "last_match_date": "2025-05-11"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 4095,
+      "rating1": 4105,
       "rating2": 4734,
       "rating_ev": 0,
       "rank": 196,
-      "win_prob": 6.4,
+      "win_prob": 6.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "British Virgin Islands",
       "flag1": "dominica.png",
       "flag2": "gb_virgin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4095,
-      "rating2": 3663,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4105,
+      "rating2": 3653,
+      "rating_ev": 10,
       "rank": 196,
       "win_prob": 90.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-05-11",
