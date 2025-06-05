@@ -18,59 +18,59 @@
 </head>
 <body class="bg-light">
 
-<nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom mb-4">
-  <a class="navbar-brand" href="index.html">MatchOracle</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+  <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom mb-4 fixed-top">
+    <a class="navbar-brand" href="index.html">MatchOracle</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item"><a class="nav-link" href="index.html">Ranking</a></li>
+        <li class="nav-item"><a class="nav-link" href="schedule.html?type=past">Latest Matches</a></li>
+        <li class="nav-item"><a class="nav-link" href="schedule.html?type=fixture">Fixtures</a></li>
+        <li class="nav-item"><a class="nav-link" href="match_up.html">Match-Up</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+      </ul>
+      <button id="theme-toggle" class="btn btn-outline-secondary ml-2" title="Switch theme">🌙</button>
+    </div>
+  </nav>
+
+  <div class="container mt-5">
+    <h1 class="mb-4">Ranking</h1>
+
+    <label for="yearSelect">Year:</label>
+    <select id="yearSelect" class="form-control">
+    </select>
+
+    <div><i>Date of the latest match : <span id="latestDate"></span></i></div>
+
+    <div class="mb-3">
+      <label><strong>Filter by confederation:</strong></label>
+      <div id="confed-filters" class="form-check form-check-inline"></div>
+    </div>
+
+    <table class="table table-striped" id="myTable">
+      <thead class="thead-dark">
+        <tr>
+          <th>#</th>
+          <th style="width: 55px;"></th>
+          <th style="width: 55px;"></th>
+          <th>Team</th>
+          <th>Points</th>
+          <th>Points Change</th>
+          <th>Confed.</th>
+        </tr>
+      </thead>
+      <tbody id="table-body">
+        <!-- JSON data will be inserted here -->
+      </tbody>
+    </table>
+  </div>
+
+  <button id="back-to-top" class="btn btn-secondary" style="position:fixed;bottom:30px;right:30px;display:none;z-index:999;">
+    ↑ Top
   </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item"><a class="nav-link" href="index.html">Ranking</a></li>
-      <li class="nav-item"><a class="nav-link" href="schedule.html?type=past">Latest Matches</a></li>
-      <li class="nav-item"><a class="nav-link" href="schedule.html?type=fixture">Fixtures</a></li>
-      <!--<li class="nav-item"><a class="nav-link" href="competitions.html">Competitions</a></li>-->
-      <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-    </ul>
-    <button id="theme-toggle" class="btn btn-outline-secondary ml-2" title="Switch theme">🌙</button>
-  </div>
-</nav>
-
-<div class="container mt-5">
-  <h1 class="mb-4">MatchOracle</h1>
-
-  <label for="yearSelect">Year:</label>
-  <select id="yearSelect" class="form-control">
-  </select>
-
-  <div><i>Date of the latest match : <span id="latestDate"></span></i></div>
-
-  <div class="mb-3">
-    <label><strong>Filter by confederation:</strong></label>
-    <div id="confed-filters" class="form-check form-check-inline"></div>
-  </div>
-
-  <table class="table table-striped" id="myTable">
-    <thead class="thead-dark">
-      <tr>
-        <th>#</th>
-        <th style="width: 55px;"></th>
-        <th style="width: 55px;"></th>
-        <th>Team</th>
-        <th>Points</th>
-        <th>Points Change</th>
-        <th>Confed.</th>
-      </tr>
-    </thead>
-    <tbody id="table-body">
-      <!-- JSON data will be inserted here -->
-    </tbody>
-  </table>
-</div>
-
-<button id="back-to-top" class="btn btn-secondary" style="position:fixed;bottom:30px;right:30px;display:none;z-index:999;">
-  ↑ Top
-</button>
 
 </body>
 </html>

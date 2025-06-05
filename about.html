@@ -14,67 +14,67 @@
 </head>
 <body class="bg-light">
 
-<nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom mb-4">
-  <a class="navbar-brand" href="index.html">MatchOracle</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item"><a class="nav-link" href="index.html">Ranking</a></li>
-      <li class="nav-item"><a class="nav-link" href="matches.html">Latest Matches</a></li>
-      <li class="nav-item"><a class="nav-link" href="fixtures.html">Future Fixtures</a></li>
-      <!-- <li class="nav-item"><a class="nav-link" href="competitions.html">Competitions</a></li> -->
-      <li class="nav-item active"><a class="nav-link" href="about.html">About</a></li>
-    </ul>
-    <button id="theme-toggle" class="btn btn-outline-secondary ml-2" title="Switch theme">🌙</button>
+  <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom mb-4 fixed-top">
+    <a class="navbar-brand" href="index.html">MatchOracle</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item"><a class="nav-link" href="index.html">Ranking</a></li>
+        <li class="nav-item"><a class="nav-link" href="schedule.html?type=past">Latest Matches</a></li>
+        <li class="nav-item"><a class="nav-link" href="schedule.html?type=fixture">Fixtures</a></li>
+        <li class="nav-item"><a class="nav-link" href="match_up.html">Match-Up</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+      </ul>
+      <button id="theme-toggle" class="btn btn-outline-secondary ml-2" title="Switch theme">🌙</button>
+    </div>
+  </nav>
+
+  <div class="container mt-5">
+    <h1 class="mb-4">About MatchOracle</h1>
+    <p>
+      <strong>MatchOracle</strong> is a project dedicated to providing up-to-date and historical rankings for national football teams worldwide. The site offers interactive tables, statistics, and visualizations based on official match results and advanced ranking algorithms.
+    </p>
+    <p>
+      <strong>Features:</strong>
+      <ul>
+        <li>World ranking for all national teams, updated after every international match</li>
+        <li>Historical rankings since 1872</li>
+        <li>Detailed team pages and match results</li>
+        <li>Probability analysis for competitions and fixtures</li>
+        <li>Responsive and user-friendly interface</li>
+      </ul>
+    </p>
+    <p>
+      <strong>Data source:</strong> All match data and rankings are based on the <a href="https://www.kaggle.com/datasets/patateriedata/all-international-football-results" target="_blank">All International Football Results Dataset</a> available on Kaggle.
+    </p>
+    <p>
+      <strong>Author:</strong> Clément Bravo
+    </p>
+    <p>
+      For questions, suggestions, or contributions, please visit the <a href="https://www.kaggle.com/datasets/patateriedata/all-international-football-results" target="_blank">Kaggle dataset page</a> or contact the author.
+    </p>
   </div>
-</nav>
 
-<div class="container mt-5">
-  <h1 class="mb-4">About MatchOracle</h1>
-  <p>
-    <strong>MatchOracle</strong> is a project dedicated to providing up-to-date and historical rankings for national football teams worldwide. The site offers interactive tables, statistics, and visualizations based on official match results and advanced ranking algorithms.
-  </p>
-  <p>
-    <strong>Features:</strong>
-    <ul>
-      <li>World ranking for all national teams, updated after every international match</li>
-      <li>Historical rankings since 1872</li>
-      <li>Detailed team pages and match results</li>
-      <li>Probability analysis for competitions and fixtures</li>
-      <li>Responsive and user-friendly interface</li>
-    </ul>
-  </p>
-  <p>
-    <strong>Data source:</strong> All match data and rankings are based on the <a href="https://www.kaggle.com/datasets/patateriedata/all-international-football-results" target="_blank">All International Football Results Dataset</a> available on Kaggle.
-  </p>
-  <p>
-    <strong>Author:</strong> Clément Bravo
-  </p>
-  <p>
-    For questions, suggestions, or contributions, please visit the <a href="https://www.kaggle.com/datasets/patateriedata/all-international-football-results" target="_blank">Kaggle dataset page</a> or contact the author.
-  </p>
-</div>
-
-<script>
-  // Theme switch logic
-  const themeToggle = document.getElementById('theme-toggle');
-  if (themeToggle) {
-      // Load theme from localStorage if available
-      if (localStorage.getItem('theme') === 'dark') {
-          document.body.classList.add('dark-theme');
-          themeToggle.textContent = '☀️';
-      }
-      themeToggle.addEventListener('click', function() {
-          document.body.classList.toggle('dark-theme');
-          const isDark = document.body.classList.contains('dark-theme');
-          themeToggle.textContent = isDark ? '☀️' : '🌙';
-          localStorage.setItem('theme', isDark ? 'dark' : 'light');
-      });
-  }
-</script>
+  <script>
+    // Theme switch logic
+    const themeToggle = document.getElementById('theme-toggle');
+    if (themeToggle) {
+        // Load theme from localStorage if available
+        if (localStorage.getItem('theme') === 'dark') {
+            document.body.classList.add('dark-theme');
+            themeToggle.textContent = '☀️';
+        }
+        themeToggle.addEventListener('click', function() {
+            document.body.classList.toggle('dark-theme');
+            const isDark = document.body.classList.contains('dark-theme');
+            themeToggle.textContent = isDark ? '☀️' : '🌙';
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        });
+    }
+  </script>
 
 </body>
 </html>

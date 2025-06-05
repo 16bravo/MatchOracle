@@ -6,3 +6,52 @@ img, svg {
 .tooltip {
     opacity: 0.8 !important;
 }
+
+#team-sidebar {
+    min-width: 220px;
+    max-width: 260px;
+    background: var(--bs-body-bg, #fff);
+    border-right: 1px solid #ddd;
+    overflow-y: auto;
+    height: 80vh;
+    position: sticky;
+    top: 80px;
+}
+
+body.dark-theme {
+    background-color: #181a1b !important;
+    color: #e0e0e0;
+}
+
+body.dark-theme .bg-white,
+body.dark-theme #team-sidebar {
+    background-color: #23272b !important;
+    color: #e0e0e0;
+    border-color: #444 !important;
+}
+
+body.dark-theme .table {
+    color: #e0e0e0;
+    background-color: #23272b;
+}
+
+body.dark-theme .table-bordered,
+body.dark-theme .table-bordered th,
+body.dark-theme .table-bordered td {
+    border-color: #444 !important;
+}
+
+body.dark-theme .nav-tabs .nav-link.active {
+    background-color: #23272b !important;
+    color: #ffd700 !important;
+    border-color: #444 #444 #23272b !important;
+}
+
+body.dark-theme .nav-tabs .nav-link {
+    color: #e0e0e0;
+}
+
+body.dark-theme .form-check-label,
+body.dark-theme .form-check-input {
+    color: #e0e0e0;
+}

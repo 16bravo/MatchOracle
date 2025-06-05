@@ -112,6 +112,20 @@ document.addEventListener('DOMContentLoaded', function () {
             option.textContent = opp;
             opponentFilter.appendChild(option);
         });
+        // 1bis. Remplir dynamiquement la liste des tournois
+        const tournamentSet = new Set();
+        teamResultsData.matches.forEach(match => {
+            if (match.tournament) {
+                tournamentSet.add(match.tournament);
+            }
+        });
+        const tournamentFilter = document.getElementById('tournamentFilter');
+        [...tournamentSet].sort().forEach(tour => {
+            const option = document.createElement('option');
+            option.value = tour;
+            option.textContent = tour;
+            tournamentFilter.appendChild(option);
+        });
 
         // 2. Fonction de filtrage
         function filterAndRenderTable() {
@@ -122,6 +136,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Récupère les valeurs des filtres
                 const selectedOpponent = document.getElementById('opponentFilter').value;
                 const selectedVenue = document.getElementById('venueFilter').value;
+                const selectedTournament = document.getElementById('tournamentFilter').value;
                 const dateFrom = document.getElementById('dateFrom').value;
                 const dateTo = document.getElementById('dateTo').value;
 
@@ -139,6 +154,9 @@ document.addEventListener('DOMContentLoaded', function () {
                         if (selectedVenue === 'away' && match.country !== match.original_team2) return false;
                         if (selectedVenue === 'neutral' && (match.country === teamName || match.country === match.original_team2)) return false;
                     }
+
+                    // Tournament
+                    if (selectedTournament && match.tournament !== selectedTournament) return false;
 
                     // Date range
                     if (dateFrom && match.date < dateFrom) return false;
@@ -197,6 +215,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // 3. Ajoute les écouteurs d'événements sur les filtres
         document.getElementById('opponentFilter').addEventListener('change', filterAndRenderTable);
         document.getElementById('venueFilter').addEventListener('change', filterAndRenderTable);
+        document.getElementById('tournamentFilter').addEventListener('change', filterAndRenderTable);
         document.getElementById('dateFrom').addEventListener('change', filterAndRenderTable);
         document.getElementById('dateTo').addEventListener('change', filterAndRenderTable);
 

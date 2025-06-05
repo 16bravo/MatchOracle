@@ -58,14 +58,14 @@ $(document).ready(function() {
                 { key: "country", label: "Country" },
                 { key: "tournament", label: "Tournament" },
                 { key: "team1", label: "Team 1", flag: "flag1" },
-                { key: "score1", label: "Score 1" },
-                { key: "score2", label: "Score 2" },
+                { key: "score", label: "Score" },
                 { key: "team2", label: "Team 2", flag: "flag2" },
                 { key: "rating1", label: "Rating 1" },
                 { key: "rating2", label: "Rating 2" },
                 { key: "rank1", label: "Rank 1" },
                 { key: "rank2", label: "Rank 2" },
-                { key: "win_prob", label: "Win Prob (%)" }
+                { key: "win_prob", label: "Win Prob (%)" },
+                { key: "rating_ev", label: "Points Change" }
             ];
 
             // Efface l'ancien tableau
@@ -80,11 +80,30 @@ $(document).ready(function() {
                 html += '<tr>';
                 columns.forEach(col => {
                     if (col.flag) {
-                        html += `<td><img src="img/flags/${match[col.flag] || ''}" alt="" class="mr-1" />${match[col.key] || ''}</td>`;
-                    } else if ((col.key === "score1" || col.key === "score2") && match.type === "fixture") {
-                        html += `<td>-</td>`;
+                        // Lien vers la page équipe avec drapeau inclus
+                        const teamName = match[col.key] || '';
+                        const flag = match["flag" + col.key.slice(-1)] || '';
+                        const refTeam = match["original_" + col.key] || teamName;
+                        html += `<td>
+                            <a href="matches.html?team=${encodeURIComponent(refTeam).replace(/&/g, "%26")}">
+                                <img src="img/flags/${flag}" alt="" class="mr-1" />${teamName}
+                            </a>
+                        </td>`;
+                    } else if (col.key === "score") {
+                        // Affiche score1 - score2 ou "-"
+                        if (match.type === "fixture") {
+                            html += `<td>-</td>`;
+                        } else {
+                            html += `<td>${match.score1} - ${match.score2}</td>`;
+                        }
                     } else if (col.key === "win_prob" && match.win_prob !== undefined) {
                         html += `<td>${Math.round(match.win_prob)}%</td>`;
+                    } else if (col.key === "rating_ev") {
+                        if (typeof match.rating_ev === "number") {
+                            html += `<td>${match.rating_ev > 0 ? "+" : ""}${Math.round(match.rating_ev)}</td>`;
+                        } else {
+                            html += `<td></td>`;
+                        }
                     } else {
                         html += `<td>${match[col.key] !== undefined ? match[col.key] : ''}</td>`;
                     }
