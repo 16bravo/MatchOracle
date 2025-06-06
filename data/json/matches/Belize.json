@@ -1,18 +1,18 @@
 {
   "team": "Belize",
   "stats": {
-    "matches_played": 123,
+    "matches_played": 124,
     "wins": 30,
     "draws": 23,
-    "losses": 70,
+    "losses": 71,
     "goals_for": 128,
-    "goals_against": 234,
-    "goal_difference": -106,
-    "win_percentage": 24.4,
-    "avg_points": 0.92,
+    "goals_against": 235,
+    "goal_difference": -107,
+    "win_percentage": 24.2,
+    "avg_points": 0.91,
     "best_rank": 146,
     "worst_rank": 179,
-    "avg_rank": 160.81,
+    "avg_rank": 160.96,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Nicaragua",
@@ -27,9 +27,9 @@
     },
     "home_matches": 42,
     "away_matches": 43,
-    "neutral_matches": 38,
+    "neutral_matches": 39,
     "first_match_date": "1928-02-19",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 4280,
+      "rating1": 4262,
       "rating2": 5117,
       "rating_ev": 0,
       "rank": 179,
-      "win_prob": 4.8,
+      "win_prob": 4.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Montserrat",
       "flag1": "belize.png",
       "flag2": "montserrat.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4280,
-      "rating2": 4205,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4262,
+      "rating2": 4223,
+      "rating_ev": -18,
       "rank": 179,
       "win_prob": 58.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

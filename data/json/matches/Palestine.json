@@ -1,18 +1,18 @@
 {
   "team": "Palestine",
   "stats": {
-    "matches_played": 276,
-    "wins": 78,
+    "matches_played": 277,
+    "wins": 79,
     "draws": 71,
     "losses": 127,
-    "goals_for": 353,
+    "goals_for": 355,
     "goals_against": 437,
-    "goal_difference": -84,
-    "win_percentage": 28.3,
+    "goal_difference": -82,
+    "win_percentage": 28.5,
     "avg_points": 1.11,
-    "best_rank": 96,
+    "best_rank": 95,
     "worst_rank": 164,
-    "avg_rank": 134.53,
+    "avg_rank": 134.39,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Guam",
@@ -26,14 +26,14 @@
       "flag": "lebanon.png"
     },
     "home_matches": 18,
-    "away_matches": 108,
+    "away_matches": 109,
     "neutral_matches": 150,
     "first_match_date": "1934-03-16",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-06",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Palestine",
@@ -44,11 +44,11 @@
       "flag2": "libya.png",
       "score1": "",
       "score2": "",
-      "rating1": 4844,
+      "rating1": 4871,
       "rating2": 4854,
       "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 48.9,
+      "rank": 95,
+      "win_prob": 51.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4844,
-      "rating2": 4896,
+      "rating1": 4871,
+      "rating2": 4859,
       "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 44.3,
+      "rank": 95,
+      "win_prob": 51.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Kuwait",
       "flag1": "palestine.png",
       "flag2": "kuwait.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4844,
-      "rating2": 4737,
-      "rating_ev": 0,
-      "rank": 105,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4871,
+      "rating2": 4710,
+      "rating_ev": 27,
+      "rank": 95,
       "win_prob": 50.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

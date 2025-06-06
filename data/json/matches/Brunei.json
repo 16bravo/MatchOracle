@@ -1,18 +1,18 @@
 {
   "team": "Brunei",
   "stats": {
-    "matches_played": 145,
+    "matches_played": 146,
     "wins": 26,
     "draws": 13,
-    "losses": 106,
+    "losses": 107,
     "goals_for": 116,
-    "goals_against": 467,
-    "goal_difference": -351,
-    "win_percentage": 17.9,
-    "avg_points": 0.63,
+    "goals_against": 468,
+    "goal_difference": -352,
+    "win_percentage": 17.8,
+    "avg_points": 0.62,
     "best_rank": 202,
     "worst_rank": 212,
-    "avg_rank": 206.19,
+    "avg_rank": 206.22,
     "biggest_win": {
       "score": "4-0",
       "opponent": "East Timor",
@@ -27,9 +27,9 @@
     },
     "home_matches": 26,
     "away_matches": 42,
-    "neutral_matches": 77,
+    "neutral_matches": 78,
     "first_match_date": "1971-05-22",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bhutan.png",
       "score1": "",
       "score2": "",
-      "rating1": 3684,
+      "rating1": 3688,
       "rating2": 3723,
       "rating_ev": 0,
       "rank": 210,
-      "win_prob": 35.2,
+      "win_prob": 35.6,
       "type": "fixture"
     },
     {
@@ -63,7 +63,7 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 3684,
+      "rating1": 3688,
       "rating2": 4719,
       "rating_ev": 0,
       "rank": 210,
@@ -82,11 +82,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 3684,
+      "rating1": 3688,
       "rating2": 4473,
       "rating_ev": 0,
       "rank": 210,
-      "win_prob": 3.7,
+      "win_prob": 3.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 3684,
+      "rating1": 3688,
       "rating2": 4473,
       "rating_ev": 0,
       "rank": 210,
-      "win_prob": 5.7,
+      "win_prob": 5.8,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "bhutan.png",
       "score1": "",
       "score2": "",
-      "rating1": 3684,
+      "rating1": 3688,
       "rating2": 3723,
       "rating_ev": 0,
       "rank": 210,
-      "win_prob": 56.6,
+      "win_prob": 57.1,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Sri Lanka",
       "flag1": "brunei.png",
       "flag2": "sri_lanka.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3684,
-      "rating2": 4058,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 3688,
+      "rating2": 4054,
+      "rating_ev": 4,
       "rank": 210,
       "win_prob": 16.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

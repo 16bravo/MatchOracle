@@ -1,18 +1,18 @@
 {
   "team": "Cayman Islands",
   "stats": {
-    "matches_played": 123,
+    "matches_played": 124,
     "wins": 25,
     "draws": 24,
-    "losses": 74,
+    "losses": 75,
     "goals_for": 118,
-    "goals_against": 300,
-    "goal_difference": -182,
-    "win_percentage": 20.3,
+    "goals_against": 305,
+    "goal_difference": -187,
+    "win_percentage": 20.2,
     "avg_points": 0.8,
     "best_rank": 178,
     "worst_rank": 205,
-    "avg_rank": 192.12,
+    "avg_rank": 192.23,
     "biggest_win": {
       "score": "5-0",
       "opponent": "British Virgin Islands",
@@ -26,10 +26,10 @@
       "flag": "canada.png"
     },
     "home_matches": 55,
-    "away_matches": 38,
+    "away_matches": 39,
     "neutral_matches": 30,
     "first_match_date": "1985-03-03",
-    "last_match_date": "2024-11-19"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "honduras.png",
       "score1": "",
       "score2": "",
-      "rating1": 3874,
+      "rating1": 3845,
       "rating2": 4986,
       "rating_ev": 0,
       "rank": 205,
-      "win_prob": 2.1,
+      "win_prob": 1.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bermuda",
       "flag1": "cayman.png",
       "flag2": "bermuda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3874,
-      "rating2": 4389,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 3845,
+      "rating2": 4418,
+      "rating_ev": -29,
       "rank": 205,
       "win_prob": 6.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-11-19",

@@ -1,18 +1,18 @@
 {
   "team": "North Korea",
   "stats": {
-    "matches_played": 419,
+    "matches_played": 420,
     "wins": 178,
-    "draws": 115,
+    "draws": 116,
     "losses": 126,
-    "goals_for": 654,
-    "goals_against": 443,
+    "goals_for": 656,
+    "goals_against": 445,
     "goal_difference": 211,
-    "win_percentage": 42.5,
+    "win_percentage": 42.4,
     "avg_points": 1.55,
     "best_rank": 22,
     "worst_rank": 149,
-    "avg_rank": 82.96,
+    "avg_rank": 83.05,
     "biggest_win": {
       "score": "21-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 50,
     "away_matches": 149,
-    "neutral_matches": 220,
+    "neutral_matches": 221,
     "first_match_date": "1956-10-07",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 4789,
-      "rating2": 5202,
+      "rating1": 4786,
+      "rating2": 5175,
       "rating_ev": 0,
       "rank": 123,
-      "win_prob": 9.8,
+      "win_prob": 10.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Kyrgyzstan",
       "flag1": "north_korea.png",
       "flag2": "kyrgyzstan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4789,
-      "rating2": 4737,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4786,
+      "rating2": 4740,
+      "rating_ev": -3,
       "rank": 123,
       "win_prob": 55.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

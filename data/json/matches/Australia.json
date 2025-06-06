@@ -1,18 +1,18 @@
 {
   "team": "Australia",
   "stats": {
-    "matches_played": 619,
-    "wins": 319,
+    "matches_played": 620,
+    "wins": 320,
     "draws": 130,
     "losses": 170,
-    "goals_for": 1264,
+    "goals_for": 1265,
     "goals_against": 680,
-    "goal_difference": 584,
-    "win_percentage": 51.5,
+    "goal_difference": 585,
+    "win_percentage": 51.6,
     "avg_points": 1.76,
     "best_rank": 15,
     "worst_rank": 87,
-    "avg_rank": 41.1,
+    "avg_rank": 41.09,
     "biggest_win": {
       "score": "31-0",
       "opponent": "Eastern Samoa",
@@ -25,11 +25,11 @@
       "date": "1956-11-15",
       "flag": "ussr.png"
     },
-    "home_matches": 259,
+    "home_matches": 260,
     "away_matches": 220,
     "neutral_matches": 140,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5212,
-      "rating2": 4986,
+      "rating1": 5233,
+      "rating2": 5013,
       "rating_ev": 0,
-      "rank": 40,
-      "win_prob": 63.4,
+      "rank": 35,
+      "win_prob": 62.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Japan",
       "flag1": "australia.png",
       "flag2": "japan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5212,
-      "rating2": 5419,
-      "rating_ev": 0,
-      "rank": 40,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5233,
+      "rating2": 5398,
+      "rating_ev": 21,
+      "rank": 35,
       "win_prob": 38.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

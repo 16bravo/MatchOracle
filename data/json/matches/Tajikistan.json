@@ -1,18 +1,18 @@
 {
   "team": "Tajikistan",
   "stats": {
-    "matches_played": 203,
-    "wins": 74,
+    "matches_played": 204,
+    "wins": 75,
     "draws": 42,
     "losses": 87,
-    "goals_for": 281,
-    "goals_against": 300,
-    "goal_difference": -19,
-    "win_percentage": 36.5,
-    "avg_points": 1.3,
+    "goals_for": 283,
+    "goals_against": 301,
+    "goal_difference": -18,
+    "win_percentage": 36.8,
+    "avg_points": 1.31,
     "best_rank": 84,
     "worst_rank": 165,
-    "avg_rank": 139.56,
+    "avg_rank": 139.62,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "iran.png"
     },
     "home_matches": 50,
-    "away_matches": 81,
+    "away_matches": 82,
     "neutral_matches": 72,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 4617,
+      "rating1": 4613,
       "rating2": 4487,
       "rating_ev": 0,
-      "rank": 152,
-      "win_prob": 73.3,
+      "rank": 153,
+      "win_prob": 73.0,
       "type": "fixture"
     },
     {
@@ -63,10 +63,10 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4617,
+      "rating1": 4613,
       "rating2": 3782,
       "rating_ev": 0,
-      "rank": 152,
+      "rank": 153,
       "win_prob": 96.8,
       "type": "fixture"
     },
@@ -82,11 +82,11 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 4617,
-      "rating2": 4129,
+      "rating1": 4613,
+      "rating2": 4123,
       "rating_ev": 0,
-      "rank": 152,
-      "win_prob": 92.6,
+      "rank": 153,
+      "win_prob": 92.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 4617,
-      "rating2": 4129,
+      "rating1": 4613,
+      "rating2": 4123,
       "rating_ev": 0,
-      "rank": 152,
-      "win_prob": 83.9,
+      "rank": 153,
+      "win_prob": 84.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 4617,
+      "rating1": 4613,
       "rating2": 4487,
       "rating_ev": 0,
-      "rank": 152,
-      "win_prob": 53.3,
+      "rank": 153,
+      "win_prob": 52.9,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Cambodia",
       "flag1": "tajikistan.png",
       "flag2": "cambodia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4617,
-      "rating2": 4152,
-      "rating_ev": 0,
-      "rank": 152,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4613,
+      "rating2": 4156,
+      "rating_ev": -4,
+      "rank": 153,
       "win_prob": 82.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

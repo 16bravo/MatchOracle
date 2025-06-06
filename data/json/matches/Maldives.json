@@ -1,18 +1,18 @@
 {
   "team": "Maldives",
   "stats": {
-    "matches_played": 227,
+    "matches_played": 228,
     "wins": 65,
     "draws": 38,
-    "losses": 124,
-    "goals_for": 280,
-    "goals_against": 508,
-    "goal_difference": -228,
-    "win_percentage": 28.6,
-    "avg_points": 1.03,
+    "losses": 125,
+    "goals_for": 281,
+    "goals_against": 511,
+    "goal_difference": -230,
+    "win_percentage": 28.5,
+    "avg_points": 1.02,
     "best_rank": 162,
     "worst_rank": 213,
-    "avg_rank": 187.87,
+    "avg_rank": 187.9,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Mongolia",
@@ -26,10 +26,10 @@
       "flag": "iran.png"
     },
     "home_matches": 59,
-    "away_matches": 77,
+    "away_matches": 78,
     "neutral_matches": 91,
     "first_match_date": "1979-08-27",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4129,
+      "rating1": 4123,
       "rating2": 3782,
       "rating_ev": 0,
-      "rank": 194,
-      "win_prob": 87.5,
+      "rank": 195,
+      "win_prob": 87.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 4129,
+      "rating1": 4123,
       "rating2": 4487,
       "rating_ev": 0,
-      "rank": 194,
-      "win_prob": 24.7,
+      "rank": 195,
+      "win_prob": 24.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4129,
-      "rating2": 4617,
+      "rating1": 4123,
+      "rating2": 4613,
       "rating_ev": 0,
-      "rank": 194,
-      "win_prob": 7.4,
+      "rank": 195,
+      "win_prob": 7.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4129,
-      "rating2": 4617,
+      "rating1": 4123,
+      "rating2": 4613,
       "rating_ev": 0,
-      "rank": 194,
-      "win_prob": 16.1,
+      "rank": 195,
+      "win_prob": 16.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4129,
+      "rating1": 4123,
       "rating2": 3782,
       "rating_ev": 0,
-      "rank": 194,
-      "win_prob": 81.9,
+      "rank": 195,
+      "win_prob": 81.5,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Singapore",
       "flag1": "maldives.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4129,
-      "rating2": 4303,
-      "rating_ev": 0,
-      "rank": 194,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4123,
+      "rating2": 4309,
+      "rating_ev": -6,
+      "rank": 195,
       "win_prob": 23.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

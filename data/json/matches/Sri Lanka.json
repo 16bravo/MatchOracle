@@ -1,18 +1,18 @@
 {
   "team": "Sri Lanka",
   "stats": {
-    "matches_played": 270,
-    "wins": 50,
+    "matches_played": 271,
+    "wins": 51,
     "draws": 48,
     "losses": 172,
-    "goals_for": 254,
+    "goals_for": 255,
     "goals_against": 674,
-    "goal_difference": -420,
-    "win_percentage": 18.5,
-    "avg_points": 0.73,
+    "goal_difference": -419,
+    "win_percentage": 18.8,
+    "avg_points": 0.74,
     "best_rank": 180,
     "worst_rank": 205,
-    "avg_rank": 195.17,
+    "avg_rank": 195.19,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Pakistan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 54,
     "away_matches": 86,
-    "neutral_matches": 130,
+    "neutral_matches": 131,
     "first_match_date": "1952-03-09",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4058,
+      "rating1": 4054,
       "rating2": 4228,
       "rating_ev": 0,
       "rank": 200,
-      "win_prob": 23.4,
+      "win_prob": 23.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4058,
+      "rating1": 4054,
       "rating2": 4723,
       "rating_ev": 0,
       "rank": 200,
-      "win_prob": 8.7,
+      "win_prob": 8.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4058,
+      "rating1": 4054,
       "rating2": 4551,
       "rating_ev": 0,
       "rank": 200,
-      "win_prob": 7.2,
+      "win_prob": 7.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4058,
+      "rating1": 4054,
       "rating2": 4551,
       "rating_ev": 0,
       "rank": 200,
-      "win_prob": 15.8,
+      "win_prob": 15.6,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4058,
+      "rating1": 4054,
       "rating2": 4228,
       "rating_ev": 0,
       "rank": 200,
-      "win_prob": 42.4,
+      "win_prob": 41.9,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Brunei",
       "flag1": "sri_lanka.png",
       "flag2": "brunei.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4058,
-      "rating2": 3684,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4054,
+      "rating2": 3688,
+      "rating_ev": -4,
       "rank": 200,
       "win_prob": 83.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

@@ -1,18 +1,18 @@
 {
   "team": "Angola",
   "stats": {
-    "matches_played": 442,
+    "matches_played": 443,
     "wins": 161,
-    "draws": 152,
+    "draws": 153,
     "losses": 129,
-    "goals_for": 519,
-    "goals_against": 450,
+    "goals_for": 520,
+    "goals_against": 451,
     "goal_difference": 69,
-    "win_percentage": 36.4,
+    "win_percentage": 36.3,
     "avg_points": 1.44,
     "best_rank": 58,
     "worst_rank": 138,
-    "avg_rank": 88.29,
+    "avg_rank": 88.27,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 153,
     "away_matches": 173,
-    "neutral_matches": 116,
+    "neutral_matches": 117,
     "first_match_date": "1976-02-08",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 4976,
+      "rating1": 4966,
       "rating2": 5120,
       "rating_ev": 0,
-      "rank": 78,
-      "win_prob": 34.7,
+      "rank": 79,
+      "win_prob": 33.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "zimbabwe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4976,
+      "rating1": 4966,
       "rating2": 4863,
       "rating_ev": 0,
-      "rank": 78,
-      "win_prob": 62.2,
+      "rank": 79,
+      "win_prob": 61.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4976,
+      "rating1": 4966,
       "rating2": 5021,
       "rating_ev": 0,
-      "rank": 78,
-      "win_prob": 45.1,
+      "rank": 79,
+      "win_prob": 44.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "malawi.png",
       "score1": "",
       "score2": "",
-      "rating1": 4976,
-      "rating2": 4736,
+      "rating1": 4966,
+      "rating2": 4719,
       "rating_ev": 0,
-      "rank": 78,
-      "win_prob": 74.1,
+      "rank": 79,
+      "win_prob": 74.7,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "lesotho.png",
       "score1": "",
       "score2": "",
-      "rating1": 4976,
-      "rating2": 4692,
+      "rating1": 4966,
+      "rating2": 4709,
       "rating_ev": 0,
-      "rank": 78,
-      "win_prob": 77.5,
+      "rank": 79,
+      "win_prob": 75.5,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Namibia",
       "flag1": "angola.png",
       "flag2": "namibia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4976,
-      "rating2": 4803,
-      "rating_ev": 0,
-      "rank": 78,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4966,
+      "rating2": 4813,
+      "rating_ev": -10,
+      "rank": 79,
       "win_prob": 68.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

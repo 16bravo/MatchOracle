@@ -1,18 +1,18 @@
 {
   "team": "Bermuda",
   "stats": {
-    "matches_played": 220,
-    "wins": 71,
+    "matches_played": 221,
+    "wins": 72,
     "draws": 44,
     "losses": 105,
-    "goals_for": 341,
+    "goals_for": 346,
     "goals_against": 385,
-    "goal_difference": -44,
-    "win_percentage": 32.3,
-    "avg_points": 1.17,
+    "goal_difference": -39,
+    "win_percentage": 32.6,
+    "avg_points": 1.18,
     "best_rank": 121,
     "worst_rank": 172,
-    "avg_rank": 145.09,
+    "avg_rank": 145.2,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Montserrat",
@@ -25,11 +25,11 @@
       "date": "1969-07-01",
       "flag": "denmark.png"
     },
-    "home_matches": 99,
+    "home_matches": 100,
     "away_matches": 76,
     "neutral_matches": 45,
     "first_match_date": "1964-08-10",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cuba.png",
       "score1": "",
       "score2": "",
-      "rating1": 4389,
+      "rating1": 4418,
       "rating2": 4578,
       "rating_ev": 0,
-      "rank": 170,
-      "win_prob": 22.0,
+      "rank": 169,
+      "win_prob": 24.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Cayman Islands",
       "flag1": "bermuda.png",
       "flag2": "cayman.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4389,
-      "rating2": 3874,
-      "rating_ev": 0,
-      "rank": 170,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 4418,
+      "rating2": 3845,
+      "rating_ev": 29,
+      "rank": 169,
       "win_prob": 93.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

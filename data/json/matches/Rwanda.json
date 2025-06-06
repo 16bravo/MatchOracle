@@ -1,18 +1,18 @@
 {
   "team": "Rwanda",
   "stats": {
-    "matches_played": 281,
+    "matches_played": 282,
     "wins": 86,
     "draws": 74,
-    "losses": 121,
+    "losses": 122,
     "goals_for": 287,
-    "goals_against": 354,
-    "goal_difference": -67,
-    "win_percentage": 30.6,
+    "goals_against": 356,
+    "goal_difference": -69,
+    "win_percentage": 30.5,
     "avg_points": 1.18,
     "best_rank": 92,
     "worst_rank": 173,
-    "avg_rank": 122.9,
+    "avg_rank": 122.86,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Djibouti",
@@ -26,10 +26,10 @@
       "flag": "cameroon.png"
     },
     "home_matches": 102,
-    "away_matches": 97,
+    "away_matches": 98,
     "neutral_matches": 82,
     "first_match_date": "1976-06-29",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Algeria",
       "flag1": "rwanda.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4819,
-      "rating2": 5225,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4820,
+      "rating2": 5224,
+      "rating_ev": 1,
       "rank": 113,
       "win_prob": 10.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

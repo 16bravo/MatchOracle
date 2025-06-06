@@ -1,18 +1,18 @@
 {
   "team": "Georgia",
   "stats": {
-    "matches_played": 305,
-    "wins": 102,
+    "matches_played": 306,
+    "wins": 103,
     "draws": 65,
     "losses": 138,
-    "goals_for": 393,
+    "goals_for": 394,
     "goals_against": 419,
-    "goal_difference": -26,
-    "win_percentage": 33.4,
+    "goal_difference": -25,
+    "win_percentage": 33.7,
     "avg_points": 1.22,
     "best_rank": 29,
     "worst_rank": 90,
-    "avg_rank": 59.97,
+    "avg_rank": 59.87,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Thailand",
@@ -25,11 +25,11 @@
       "date": "2023-09-08",
       "flag": "spain.png"
     },
-    "home_matches": 130,
+    "home_matches": 131,
     "away_matches": 144,
     "neutral_matches": 31,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2025-03-23"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5273,
+      "rating1": 5264,
       "rating2": 4947,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 72.7,
+      "win_prob": 71.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5273,
-      "rating2": 5658,
+      "rating1": 5264,
+      "rating2": 5665,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 22.6,
+      "win_prob": 21.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5273,
+      "rating1": 5264,
       "rating2": 5323,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 34.1,
+      "win_prob": 33.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5273,
-      "rating2": 5658,
+      "rating1": 5264,
+      "rating2": 5665,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 10.9,
+      "win_prob": 10.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5273,
+      "rating1": 5264,
       "rating2": 4947,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 86.5,
+      "win_prob": 86.0,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5273,
+      "rating1": 5264,
       "rating2": 5323,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 55.4,
+      "win_prob": 54.5,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "cape_verde.png",
       "score1": "",
       "score2": "",
-      "rating1": 5273,
+      "rating1": 5264,
       "rating2": 4926,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 87.5,
+      "win_prob": 87.1,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Faroe Islands",
       "flag1": "georgia.png",
       "flag2": "faroe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5273,
-      "rating2": 4833,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5264,
+      "rating2": 4842,
+      "rating_ev": -9,
       "rank": 29,
       "win_prob": 91.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-23",

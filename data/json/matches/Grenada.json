@@ -1,18 +1,18 @@
 {
   "team": "Grenada",
   "stats": {
-    "matches_played": 295,
-    "wins": 98,
+    "matches_played": 296,
+    "wins": 99,
     "draws": 74,
     "losses": 123,
-    "goals_for": 465,
+    "goals_for": 471,
     "goals_against": 528,
-    "goal_difference": -63,
-    "win_percentage": 33.2,
+    "goal_difference": -57,
+    "win_percentage": 33.4,
     "avg_points": 1.25,
     "best_rank": 110,
     "worst_rank": 185,
-    "avg_rank": 155.35,
+    "avg_rank": 155.41,
     "biggest_win": {
       "score": "14-1",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "2018-09-10",
       "flag": "curacao.png"
     },
-    "home_matches": 110,
+    "home_matches": 111,
     "away_matches": 110,
     "neutral_matches": 75,
     "first_match_date": "1934-10-13",
-    "last_match_date": "2025-05-31"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kitts.png",
       "score1": "",
       "score2": "",
-      "rating1": 4321,
+      "rating1": 4361,
       "rating2": 4163,
       "rating_ev": 0,
-      "rank": 176,
-      "win_prob": 66.7,
+      "rank": 173,
+      "win_prob": 70.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bahamas",
       "flag1": "grenada.png",
       "flag2": "bahamas.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4321,
-      "rating2": 3808,
-      "rating_ev": 0,
-      "rank": 176,
+      "score1": 6,
+      "score2": 0,
+      "rating1": 4361,
+      "rating2": 3768,
+      "rating_ev": 40,
+      "rank": 173,
       "win_prob": 93.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-05-31",

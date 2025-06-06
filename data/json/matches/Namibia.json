@@ -1,18 +1,18 @@
 {
   "team": "Namibia",
   "stats": {
-    "matches_played": 293,
+    "matches_played": 294,
     "wins": 75,
-    "draws": 89,
+    "draws": 90,
     "losses": 129,
-    "goals_for": 286,
-    "goals_against": 408,
+    "goals_for": 287,
+    "goals_against": 409,
     "goal_difference": -122,
-    "win_percentage": 25.6,
+    "win_percentage": 25.5,
     "avg_points": 1.07,
     "best_rank": 94,
     "worst_rank": 159,
-    "avg_rank": 123.89,
+    "avg_rank": 123.85,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Botswana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 102,
     "away_matches": 114,
-    "neutral_matches": 77,
+    "neutral_matches": 78,
     "first_match_date": "1989-05-16",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "lesotho.png",
       "score1": "",
       "score2": "",
-      "rating1": 4803,
-      "rating2": 4692,
+      "rating1": 4813,
+      "rating2": 4709,
       "rating_ev": 0,
-      "rank": 117,
-      "win_prob": 62.0,
+      "rank": 114,
+      "win_prob": 61.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "malawi.png",
       "score1": "",
       "score2": "",
-      "rating1": 4803,
-      "rating2": 4736,
+      "rating1": 4813,
+      "rating2": 4719,
       "rating_ev": 0,
-      "rank": 117,
-      "win_prob": 57.3,
+      "rank": 114,
+      "win_prob": 60.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Angola",
       "flag1": "namibia.png",
       "flag2": "angola.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4803,
-      "rating2": 4976,
-      "rating_ev": 0,
-      "rank": 117,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4813,
+      "rating2": 4966,
+      "rating_ev": 10,
+      "rank": 114,
       "win_prob": 31.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

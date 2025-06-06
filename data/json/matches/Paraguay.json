@@ -1,14 +1,14 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 779,
-    "wins": 273,
+    "matches_played": 780,
+    "wins": 274,
     "draws": 207,
     "losses": 299,
-    "goals_for": 993,
+    "goals_for": 995,
     "goals_against": 1105,
-    "goal_difference": -112,
-    "win_percentage": 35.0,
+    "goal_difference": -110,
+    "win_percentage": 35.1,
     "avg_points": 1.32,
     "best_rank": 6,
     "worst_rank": 47,
@@ -25,11 +25,11 @@
       "date": "1926-10-20",
       "flag": "argentina.png"
     },
-    "home_matches": 212,
+    "home_matches": 213,
     "away_matches": 360,
     "neutral_matches": 207,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "peru.png",
       "score1": "",
       "score2": "",
-      "rating1": 5289,
+      "rating1": 5319,
       "rating2": 5226,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 46.0,
+      "rank": 25,
+      "win_prob": 49.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5289,
+      "rating1": 5319,
       "rating2": 5404,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 48.3,
+      "rank": 25,
+      "win_prob": 51.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5289,
+      "rating1": 5319,
       "rating2": 5503,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 20.2,
+      "rank": 25,
+      "win_prob": 22.3,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Uruguay",
       "flag1": "paraguay.png",
       "flag2": "uruguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5289,
-      "rating2": 5425,
-      "rating_ev": 0,
-      "rank": 28,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5319,
+      "rating2": 5395,
+      "rating_ev": 30,
+      "rank": 25,
       "win_prob": 46.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

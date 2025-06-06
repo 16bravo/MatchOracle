@@ -1,18 +1,18 @@
 {
   "team": "Mali",
   "stats": {
-    "matches_played": 596,
+    "matches_played": 597,
     "wins": 244,
     "draws": 157,
-    "losses": 195,
+    "losses": 196,
     "goals_for": 794,
-    "goals_against": 679,
-    "goal_difference": 115,
+    "goals_against": 680,
+    "goal_difference": 114,
     "win_percentage": 40.9,
     "avg_points": 1.49,
     "best_rank": 49,
     "worst_rank": 116,
-    "avg_rank": 81.3,
+    "avg_rank": 81.26,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 187,
     "away_matches": 216,
-    "neutral_matches": 193,
+    "neutral_matches": 194,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5116,
+      "rating1": 5106,
       "rating2": 4864,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 75.1,
+      "rank": 54,
+      "win_prob": 74.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5116,
+      "rating1": 5106,
       "rating2": 5357,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 18.3,
+      "rank": 54,
+      "win_prob": 17.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5116,
+      "rating1": 5106,
       "rating2": 4861,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 75.3,
+      "rank": 54,
+      "win_prob": 74.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "DR Congo",
       "flag1": "mali.png",
       "flag2": "dr_congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5116,
-      "rating2": 5031,
-      "rating_ev": 0,
-      "rank": 53,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5106,
+      "rating2": 5041,
+      "rating_ev": -10,
+      "rank": 54,
       "win_prob": 59.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

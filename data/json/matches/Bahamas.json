@@ -1,18 +1,18 @@
 {
   "team": "Bahamas",
   "stats": {
-    "matches_played": 83,
+    "matches_played": 84,
     "wins": 17,
     "draws": 11,
-    "losses": 55,
+    "losses": 56,
     "goals_for": 88,
-    "goals_against": 264,
-    "goal_difference": -176,
-    "win_percentage": 20.5,
-    "avg_points": 0.75,
+    "goals_against": 270,
+    "goal_difference": -182,
+    "win_percentage": 20.2,
+    "avg_points": 0.74,
     "best_rank": 201,
     "worst_rank": 207,
-    "avg_rank": 204.47,
+    "avg_rank": 204.5,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Turks and Caicos Islands",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 30,
-    "away_matches": 29,
+    "away_matches": 30,
     "neutral_matches": 24,
     "first_match_date": "1965-07-17",
-    "last_match_date": "2024-10-15"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,10 +44,10 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 3808,
+      "rating1": 3768,
       "rating2": 5141,
       "rating_ev": 0,
-      "rank": 206,
+      "rank": 207,
       "win_prob": 0.7,
       "type": "fixture"
     },
@@ -61,14 +61,14 @@
       "original_team2": "Grenada",
       "flag1": "bahamas.png",
       "flag2": "grenada.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3808,
-      "rating2": 4321,
-      "rating_ev": 0,
-      "rank": 206,
+      "score1": 0,
+      "score2": 6,
+      "rating1": 3768,
+      "rating2": 4361,
+      "rating_ev": -40,
+      "rank": 207,
       "win_prob": 6.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-10-15",

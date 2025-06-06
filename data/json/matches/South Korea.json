@@ -1,15 +1,15 @@
 {
   "team": "South Korea",
   "stats": {
-    "matches_played": 1037,
-    "wins": 566,
+    "matches_played": 1038,
+    "wins": 567,
     "draws": 256,
     "losses": 215,
-    "goals_for": 1889,
+    "goals_for": 1891,
     "goals_against": 945,
-    "goal_difference": 944,
+    "goal_difference": 946,
     "win_percentage": 54.6,
-    "avg_points": 1.88,
+    "avg_points": 1.89,
     "best_rank": 19,
     "worst_rank": 116,
     "avg_rank": 50.96,
@@ -26,10 +26,10 @@
       "flag": "sweden.png"
     },
     "home_matches": 345,
-    "away_matches": 247,
+    "away_matches": 248,
     "neutral_matches": 445,
     "first_match_date": "1942-08-16",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5161,
+      "rating1": 5180,
       "rating2": 5303,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 34.9,
+      "rank": 44,
+      "win_prob": 36.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5161,
+      "rating1": 5180,
       "rating2": 5242,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 31.1,
+      "rank": 44,
+      "win_prob": 32.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5161,
-      "rating2": 5419,
+      "rating1": 5180,
+      "rating2": 5398,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 33.4,
+      "rank": 44,
+      "win_prob": 37.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 5161,
-      "rating2": 4509,
+      "rating1": 5180,
+      "rating2": 4495,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 96.0,
+      "rank": 44,
+      "win_prob": 96.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "china.png",
       "score1": "",
       "score2": "",
-      "rating1": 5161,
-      "rating2": 4809,
+      "rating1": 5180,
+      "rating2": 4792,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 87.7,
+      "rank": 44,
+      "win_prob": 89.3,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 5161,
-      "rating2": 4737,
+      "rating1": 5180,
+      "rating2": 4710,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 90.6,
+      "rank": 44,
+      "win_prob": 92.1,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Iraq",
       "flag1": "south_korea.png",
       "flag2": "iraq.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5161,
-      "rating2": 4917,
-      "rating_ev": 0,
-      "rank": 48,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5180,
+      "rating2": 4898,
+      "rating_ev": 19,
+      "rank": 45,
       "win_prob": 65.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

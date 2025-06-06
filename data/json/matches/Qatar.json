@@ -1,14 +1,14 @@
 {
   "team": "Qatar",
   "stats": {
-    "matches_played": 672,
-    "wins": 281,
+    "matches_played": 673,
+    "wins": 282,
     "draws": 170,
     "losses": 221,
-    "goals_for": 968,
+    "goals_for": 969,
     "goals_against": 790,
-    "goal_difference": 178,
-    "win_percentage": 41.8,
+    "goal_difference": 179,
+    "win_percentage": 41.9,
     "avg_points": 1.51,
     "best_rank": 34,
     "worst_rank": 181,
@@ -25,15 +25,15 @@
       "date": "1973-12-31",
       "flag": "kuwait.png"
     },
-    "home_matches": 308,
+    "home_matches": 309,
     "away_matches": 143,
     "neutral_matches": 221,
     "first_match_date": "1970-03-27",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
-      "date": "2025-12-05",
+      "date": "2025-12-06",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Qatar",
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4887,
+      "rating1": 4914,
       "rating2": 5051,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 43.0,
+      "rank": 86,
+      "win_prob": 45.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4887,
-      "rating2": 5070,
+      "rating1": 4914,
+      "rating2": 5069,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 22.4,
+      "rank": 86,
+      "win_prob": 24.6,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Iran",
       "flag1": "qatar.png",
       "flag2": "iran.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4887,
-      "rating2": 5202,
-      "rating_ev": 0,
-      "rank": 93,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4914,
+      "rating2": 5175,
+      "rating_ev": 27,
+      "rank": 86,
       "win_prob": 28.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

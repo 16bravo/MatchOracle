@@ -1,18 +1,18 @@
 {
   "team": "Indonesia",
   "stats": {
-    "matches_played": 774,
-    "wins": 294,
+    "matches_played": 775,
+    "wins": 295,
     "draws": 151,
     "losses": 329,
-    "goals_for": 1296,
+    "goals_for": 1297,
     "goals_against": 1263,
-    "goal_difference": 33,
-    "win_percentage": 38.0,
-    "avg_points": 1.33,
+    "goal_difference": 34,
+    "win_percentage": 38.1,
+    "avg_points": 1.34,
     "best_rank": 56,
     "worst_rank": 178,
-    "avg_rank": 127.78,
+    "avg_rank": 127.81,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Philippines",
@@ -25,15 +25,15 @@
       "date": "2012-02-29",
       "flag": "bahrain.png"
     },
-    "home_matches": 243,
+    "home_matches": 244,
     "away_matches": 189,
     "neutral_matches": 342,
     "first_match_date": "1928-08-19",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
-      "date": "2025-09-05",
+      "date": "2025-09-06",
       "country": "Indonesia",
       "tournament": "Friendly tournament",
       "team1": "Indonesia",
@@ -44,15 +44,15 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4655,
+      "rating1": 4672,
       "rating2": 4719,
       "rating_ev": 0,
       "rank": 148,
-      "win_prob": 53.9,
+      "win_prob": 55.8,
       "type": "fixture"
     },
     {
-      "date": "2025-09-05",
+      "date": "2025-09-06",
       "country": "Indonesia",
       "tournament": "Friendly tournament",
       "team1": "Indonesia",
@@ -63,11 +63,11 @@
       "flag2": "malaysia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4655,
+      "rating1": 4672,
       "rating2": 4533,
       "rating_ev": 0,
       "rank": 148,
-      "win_prob": 72.6,
+      "win_prob": 74.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4655,
-      "rating2": 5419,
+      "rating1": 4672,
+      "rating2": 5398,
       "rating_ev": 0,
       "rank": 148,
-      "win_prob": 2.7,
+      "win_prob": 3.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "China",
       "flag1": "indonesia.png",
       "flag2": "china.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4655,
-      "rating2": 4809,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4672,
+      "rating2": 4792,
+      "rating_ev": 17,
       "rank": 148,
       "win_prob": 44.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

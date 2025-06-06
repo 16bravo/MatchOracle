@@ -1,18 +1,18 @@
 {
   "team": "Cambodia",
   "stats": {
-    "matches_played": 306,
+    "matches_played": 307,
     "wins": 68,
     "draws": 43,
-    "losses": 195,
-    "goals_for": 347,
-    "goals_against": 791,
-    "goal_difference": -444,
-    "win_percentage": 22.2,
-    "avg_points": 0.81,
+    "losses": 196,
+    "goals_for": 348,
+    "goals_against": 793,
+    "goal_difference": -445,
+    "win_percentage": 22.1,
+    "avg_points": 0.8,
     "best_rank": 120,
     "worst_rank": 207,
-    "avg_rank": 183.31,
+    "avg_rank": 183.33,
     "biggest_win": {
       "score": "8-0",
       "opponent": "North Yemen",
@@ -25,11 +25,11 @@
       "date": "2019-10-10",
       "flag": "iran.png"
     },
-    "home_matches": 75,
+    "home_matches": 76,
     "away_matches": 88,
     "neutral_matches": 143,
     "first_match_date": "1956-03-17",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Tajikistan",
       "flag1": "cambodia.png",
       "flag2": "tajikistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4152,
-      "rating2": 4617,
-      "rating_ev": 0,
-      "rank": 191,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4156,
+      "rating2": 4613,
+      "rating_ev": 4,
+      "rank": 189,
       "win_prob": 17.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

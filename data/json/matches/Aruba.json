@@ -1,18 +1,18 @@
 {
   "team": "Aruba",
   "stats": {
-    "matches_played": 199,
+    "matches_played": 200,
     "wins": 49,
-    "draws": 42,
+    "draws": 43,
     "losses": 108,
-    "goals_for": 285,
-    "goals_against": 454,
+    "goals_for": 286,
+    "goals_against": 455,
     "goal_difference": -169,
-    "win_percentage": 24.6,
+    "win_percentage": 24.5,
     "avg_points": 0.95,
     "best_rank": 91,
     "worst_rank": 198,
-    "avg_rank": 156.85,
+    "avg_rank": 157.03,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Suriname",
@@ -26,10 +26,10 @@
       "flag": "trinidad.png"
     },
     "home_matches": 82,
-    "away_matches": 76,
+    "away_matches": 77,
     "neutral_matches": 41,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 4131,
+      "rating1": 4138,
       "rating2": 4993,
       "rating_ev": 0,
       "rank": 193,
-      "win_prob": 4.5,
+      "win_prob": 4.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Barbados",
       "flag1": "aruba.png",
       "flag2": "barbados.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4131,
-      "rating2": 4162,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4138,
+      "rating2": 4155,
+      "rating_ev": 7,
       "rank": 193,
       "win_prob": 36.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

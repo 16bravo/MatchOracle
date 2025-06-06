@@ -1,15 +1,15 @@
 {
   "team": "DR Congo",
   "stats": {
-    "matches_played": 524,
-    "wins": 210,
+    "matches_played": 525,
+    "wins": 211,
     "draws": 147,
     "losses": 167,
-    "goals_for": 799,
+    "goals_for": 800,
     "goals_against": 625,
-    "goal_difference": 174,
-    "win_percentage": 40.1,
-    "avg_points": 1.48,
+    "goal_difference": 175,
+    "win_percentage": 40.2,
+    "avg_points": 1.49,
     "best_rank": 27,
     "worst_rank": 110,
     "avg_rank": 67.89,
@@ -27,9 +27,9 @@
     },
     "home_matches": 101,
     "away_matches": 215,
-    "neutral_matches": 208,
+    "neutral_matches": 209,
     "first_match_date": "1948-12-31",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5031,
+      "rating1": 5041,
       "rating2": 4811,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 72.4,
+      "rank": 67,
+      "win_prob": 73.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5031,
+      "rating1": 5041,
       "rating2": 5164,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 35.8,
+      "rank": 67,
+      "win_prob": 36.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5031,
+      "rating1": 5041,
       "rating2": 4893,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 64.7,
+      "rank": 67,
+      "win_prob": 65.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "madagascar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5031,
+      "rating1": 5041,
       "rating2": 4795,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 73.7,
+      "rank": 67,
+      "win_prob": 74.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Mali",
       "flag1": "dr_congo.png",
       "flag2": "mali.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5031,
-      "rating2": 5116,
-      "rating_ev": 0,
-      "rank": 68,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5041,
+      "rating2": 5106,
+      "rating_ev": 10,
+      "rank": 67,
       "win_prob": 40.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

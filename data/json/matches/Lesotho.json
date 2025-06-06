@@ -1,18 +1,18 @@
 {
   "team": "Lesotho",
   "stats": {
-    "matches_played": 329,
-    "wins": 65,
+    "matches_played": 330,
+    "wins": 66,
     "draws": 100,
     "losses": 164,
-    "goals_for": 261,
+    "goals_for": 262,
     "goals_against": 531,
-    "goal_difference": -270,
-    "win_percentage": 19.8,
+    "goal_difference": -269,
+    "win_percentage": 20.0,
     "avg_points": 0.9,
     "best_rank": 127,
     "worst_rank": 175,
-    "avg_rank": 148.28,
+    "avg_rank": 148.26,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 109,
     "away_matches": 137,
-    "neutral_matches": 83,
+    "neutral_matches": 84,
     "first_match_date": "1970-08-08",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "namibia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4692,
-      "rating2": 4803,
+      "rating1": 4709,
+      "rating2": 4813,
       "rating_ev": 0,
-      "rank": 145,
-      "win_prob": 38.0,
+      "rank": 142,
+      "win_prob": 38.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 4692,
-      "rating2": 4976,
+      "rating1": 4709,
+      "rating2": 4966,
       "rating_ev": 0,
-      "rank": 145,
-      "win_prob": 22.5,
+      "rank": 142,
+      "win_prob": 24.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Malawi",
       "flag1": "lesotho.png",
       "flag2": "malawi.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4692,
-      "rating2": 4736,
-      "rating_ev": 0,
-      "rank": 145,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4709,
+      "rating2": 4719,
+      "rating_ev": 17,
+      "rank": 142,
       "win_prob": 45.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

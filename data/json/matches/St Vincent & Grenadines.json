@@ -1,18 +1,18 @@
 {
   "team": "St Vincent & Grenadines",
   "stats": {
-    "matches_played": 349,
-    "wins": 125,
+    "matches_played": 350,
+    "wins": 126,
     "draws": 81,
     "losses": 143,
-    "goals_for": 540,
+    "goals_for": 546,
     "goals_against": 630,
-    "goal_difference": -90,
-    "win_percentage": 35.8,
+    "goal_difference": -84,
+    "win_percentage": 36.0,
     "avg_points": 1.31,
     "best_rank": 124,
     "worst_rank": 187,
-    "avg_rank": 158.82,
+    "avg_rank": 158.85,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Montserrat",
@@ -25,11 +25,11 @@
       "date": "1992-12-06",
       "flag": "mexico.png"
     },
-    "home_matches": 130,
+    "home_matches": 131,
     "away_matches": 132,
     "neutral_matches": 87,
     "first_match_date": "1936-09-12",
-    "last_match_date": "2025-05-29"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "puerto_rico.png",
       "score1": "",
       "score2": "",
-      "rating1": 4375,
+      "rating1": 4402,
       "rating2": 4465,
       "rating_ev": 0,
-      "rank": 172,
-      "win_prob": 30.3,
+      "rank": 171,
+      "win_prob": 32.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Anguilla",
       "flag1": "st_vincent.png",
       "flag2": "anguilla.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4375,
-      "rating2": 3620,
-      "rating_ev": 0,
-      "rank": 172,
+      "score1": 6,
+      "score2": 0,
+      "rating1": 4402,
+      "rating2": 3593,
+      "rating_ev": 27,
+      "rank": 171,
       "win_prob": 97.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-05-29",

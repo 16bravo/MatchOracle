@@ -1,18 +1,18 @@
 {
   "team": "Montserrat",
   "stats": {
-    "matches_played": 72,
-    "wins": 17,
+    "matches_played": 73,
+    "wins": 18,
     "draws": 8,
     "losses": 47,
-    "goals_for": 75,
+    "goals_for": 76,
     "goals_against": 232,
-    "goal_difference": -157,
-    "win_percentage": 23.6,
-    "avg_points": 0.82,
+    "goal_difference": -156,
+    "win_percentage": 24.7,
+    "avg_points": 0.85,
     "best_rank": 183,
     "worst_rank": 213,
-    "avg_rank": 202.81,
+    "avg_rank": 202.53,
     "biggest_win": {
       "score": "7-0",
       "opponent": "British Virgin Islands",
@@ -27,9 +27,9 @@
     },
     "home_matches": 16,
     "away_matches": 24,
-    "neutral_matches": 32,
+    "neutral_matches": 33,
     "first_match_date": "1950-02-01",
-    "last_match_date": "2024-11-17"
+    "last_match_date": "2025-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "guyana.png",
       "score1": "",
       "score2": "",
-      "rating1": 4205,
+      "rating1": 4223,
       "rating2": 4618,
       "rating_ev": 0,
       "rank": 183,
-      "win_prob": 9.8,
+      "win_prob": 10.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Belize",
       "flag1": "montserrat.png",
       "flag2": "belize.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4205,
-      "rating2": 4280,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4223,
+      "rating2": 4262,
+      "rating_ev": 18,
       "rank": 183,
       "win_prob": 41.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-11-17",
