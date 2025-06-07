@@ -1,18 +1,18 @@
 {
   "team": "Colombia",
   "stats": {
-    "matches_played": 641,
+    "matches_played": 642,
     "wins": 260,
-    "draws": 176,
+    "draws": 177,
     "losses": 205,
     "goals_for": 824,
     "goals_against": 738,
     "goal_difference": 86,
-    "win_percentage": 40.6,
+    "win_percentage": 40.5,
     "avg_points": 1.49,
     "best_rank": 3,
     "worst_rank": 98,
-    "avg_rank": 28.12,
+    "avg_rank": 28.09,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guyana",
@@ -25,11 +25,11 @@
       "date": "1957-03-24",
       "flag": "brazil.png"
     },
-    "home_matches": 182,
+    "home_matches": 183,
     "away_matches": 228,
     "neutral_matches": 231,
     "first_match_date": "1938-02-10",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5478,
+      "rating1": 5457,
       "rating2": 5303,
       "rating_ev": 0,
       "rank": 9,
-      "win_prob": 68.3,
+      "win_prob": 66.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "venezuela.png",
       "score1": "",
       "score2": "",
-      "rating1": 5478,
-      "rating2": 5241,
+      "rating1": 5457,
+      "rating2": 5252,
       "rating_ev": 0,
       "rank": 9,
-      "win_prob": 64.5,
+      "win_prob": 61.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "bolivia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5478,
-      "rating2": 5057,
+      "rating1": 5457,
+      "rating2": 5046,
       "rating_ev": 0,
       "rank": 9,
-      "win_prob": 90.5,
+      "win_prob": 90.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5478,
-      "rating2": 5634,
+      "rating1": 5457,
+      "rating2": 5630,
       "rating_ev": 0,
       "rank": 9,
-      "win_prob": 24.5,
+      "win_prob": 23.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Peru",
       "flag1": "colombia.png",
       "flag2": "peru.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5478,
-      "rating2": 5226,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5457,
+      "rating2": 5247,
+      "rating_ev": -21,
       "rank": 9,
       "win_prob": 82.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

@@ -1,18 +1,18 @@
 {
   "team": "Trinidad and Tobago",
   "stats": {
-    "matches_played": 853,
-    "wins": 373,
+    "matches_played": 854,
+    "wins": 374,
     "draws": 185,
     "losses": 295,
-    "goals_for": 1431,
-    "goals_against": 1080,
-    "goal_difference": 351,
-    "win_percentage": 43.7,
+    "goals_for": 1437,
+    "goals_against": 1082,
+    "goal_difference": 355,
+    "win_percentage": 43.8,
     "avg_points": 1.53,
     "best_rank": 56,
     "worst_rank": 142,
-    "avg_rank": 97.24,
+    "avg_rank": 97.27,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "2000-10-08",
       "flag": "mexico.png"
     },
-    "home_matches": 340,
+    "home_matches": 341,
     "away_matches": 355,
     "neutral_matches": 158,
     "first_match_date": "1905-07-21",
-    "last_match_date": "2025-05-31"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4776,
+      "rating1": 4788,
       "rating2": 5013,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 26.2,
+      "rank": 124,
+      "win_prob": 27.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 4776,
+      "rating1": 4788,
       "rating2": 4993,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 27.9,
+      "rank": 124,
+      "win_prob": 28.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4776,
+      "rating1": 4788,
       "rating2": 5242,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 8.0,
+      "rank": 124,
+      "win_prob": 8.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4776,
+      "rating1": 4788,
       "rating2": 5141,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 11.7,
+      "rank": 124,
+      "win_prob": 12.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Saint Kitts and Nevis",
       "flag1": "trinidad.png",
       "flag2": "kitts.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4776,
-      "rating2": 4163,
-      "rating_ev": 0,
-      "rank": 126,
+      "score1": 6,
+      "score2": 2,
+      "rating1": 4788,
+      "rating2": 4151,
+      "rating_ev": 12,
+      "rank": 124,
       "win_prob": 95.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-05-31",

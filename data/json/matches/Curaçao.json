@@ -1,18 +1,18 @@
 {
   "team": "Cura\u00e7ao",
   "stats": {
-    "matches_played": 471,
-    "wins": 191,
+    "matches_played": 472,
+    "wins": 192,
     "draws": 115,
     "losses": 165,
-    "goals_for": 830,
+    "goals_for": 834,
     "goals_against": 729,
-    "goal_difference": 101,
-    "win_percentage": 40.6,
+    "goal_difference": 105,
+    "win_percentage": 40.7,
     "avg_points": 1.46,
     "best_rank": 57,
     "worst_rank": 182,
-    "avg_rank": 121.38,
+    "avg_rank": 121.42,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Puerto Rico",
@@ -25,11 +25,11 @@
       "date": "1962-09-05",
       "flag": "netherlands.png"
     },
-    "home_matches": 107,
+    "home_matches": 108,
     "away_matches": 166,
     "neutral_matches": 198,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2025-03-19"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "honduras.png",
       "score1": "",
       "score2": "",
-      "rating1": 4707,
+      "rating1": 4727,
       "rating2": 4986,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 22.8,
+      "rank": 139,
+      "win_prob": 24.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 4707,
+      "rating1": 4727,
       "rating2": 5245,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 9.2,
+      "rank": 139,
+      "win_prob": 9.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 4707,
+      "rating1": 4727,
       "rating2": 4684,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 52.5,
+      "rank": 139,
+      "win_prob": 54.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 4707,
+      "rating1": 4727,
       "rating2": 4993,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 22.3,
+      "rank": 139,
+      "win_prob": 23.8,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Saint Lucia",
       "flag1": "curacao.png",
       "flag2": "st_lucia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4707,
-      "rating2": 4240,
-      "rating_ev": 0,
-      "rank": 143,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4727,
+      "rating2": 4220,
+      "rating_ev": 20,
+      "rank": 138,
       "win_prob": 92.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-19",

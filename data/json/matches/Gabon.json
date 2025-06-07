@@ -1,13 +1,13 @@
 {
   "team": "Gabon",
   "stats": {
-    "matches_played": 440,
+    "matches_played": 441,
     "wins": 152,
     "draws": 125,
-    "losses": 163,
-    "goals_for": 513,
-    "goals_against": 527,
-    "goal_difference": -14,
+    "losses": 164,
+    "goals_for": 516,
+    "goals_against": 531,
+    "goal_difference": -15,
     "win_percentage": 34.5,
     "avg_points": 1.32,
     "best_rank": 63,
@@ -27,9 +27,9 @@
     },
     "home_matches": 177,
     "away_matches": 148,
-    "neutral_matches": 115,
+    "neutral_matches": 116,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-03-23"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
+      "rating1": 4888,
       "rating2": 5070,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 31.8,
+      "rank": 92,
+      "win_prob": 31.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
+      "rating1": 4888,
       "rating2": 4929,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 46.4,
+      "rank": 92,
+      "win_prob": 45.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
-      "rating2": 5046,
+      "rating1": 4888,
+      "rating2": 5060,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 34.1,
+      "rank": 92,
+      "win_prob": 32.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "guinea_bissau.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
-      "rating2": 4772,
+      "rating1": 4888,
+      "rating2": 4766,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 63.3,
+      "rank": 92,
+      "win_prob": 63.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Niger",
       "flag1": "gabon.png",
       "flag2": "niger.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4896,
-      "rating2": 4877,
-      "rating_ev": 0,
-      "rank": 89,
+      "score1": 3,
+      "score2": 4,
+      "rating1": 4888,
+      "rating2": 4885,
+      "rating_ev": -8,
+      "rank": 91,
       "win_prob": 52.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-23",

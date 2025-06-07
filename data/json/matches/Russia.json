@@ -1,18 +1,18 @@
 {
   "team": "Russia",
   "stats": {
-    "matches_played": 764,
+    "matches_played": 765,
     "wins": 398,
-    "draws": 198,
+    "draws": 199,
     "losses": 168,
-    "goals_for": 1368,
-    "goals_against": 746,
+    "goals_for": 1369,
+    "goals_against": 747,
     "goal_difference": 622,
-    "win_percentage": 52.1,
+    "win_percentage": 52.0,
     "avg_points": 1.82,
     "best_rank": 1,
     "worst_rank": 48,
-    "avg_rank": 14.4,
+    "avg_rank": 14.41,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1912-07-01",
       "flag": "germany.png"
     },
-    "home_matches": 155,
+    "home_matches": 156,
     "away_matches": 356,
     "neutral_matches": 253,
     "first_match_date": "1912-06-30",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 5375,
-      "rating2": 5175,
+      "rating1": 5362,
+      "rating2": 5202,
       "rating_ev": 0,
-      "rank": 19,
-      "win_prob": 60.8,
+      "rank": 20,
+      "win_prob": 56.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "belarus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5375,
+      "rating1": 5362,
       "rating2": 4991,
       "rating_ev": 0,
-      "rank": 19,
-      "win_prob": 77.3,
+      "rank": 20,
+      "win_prob": 76.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Nigeria",
       "flag1": "russia.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5375,
-      "rating2": 5033,
-      "rating_ev": 0,
-      "rank": 19,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5362,
+      "rating2": 5046,
+      "rating_ev": -13,
+      "rank": 20,
       "win_prob": 87.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

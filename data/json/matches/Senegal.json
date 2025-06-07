@@ -1,18 +1,18 @@
 {
   "team": "Senegal",
   "stats": {
-    "matches_played": 670,
+    "matches_played": 671,
     "wins": 300,
-    "draws": 188,
+    "draws": 189,
     "losses": 182,
-    "goals_for": 907,
-    "goals_against": 634,
+    "goals_for": 908,
+    "goals_against": 635,
     "goal_difference": 273,
-    "win_percentage": 44.8,
+    "win_percentage": 44.7,
     "avg_points": 1.62,
     "best_rank": 32,
     "worst_rank": 98,
-    "avg_rank": 62.5,
+    "avg_rank": 62.47,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Mauritania",
@@ -26,10 +26,10 @@
       "flag": "guinea.png"
     },
     "home_matches": 213,
-    "away_matches": 230,
+    "away_matches": 231,
     "neutral_matches": 227,
     "first_match_date": "1959-12-31",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,10 +44,10 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5164,
+      "rating1": 5165,
       "rating2": 4893,
       "rating_ev": 0,
-      "rank": 47,
+      "rank": 45,
       "win_prob": 76.6,
       "type": "fixture"
     },
@@ -63,11 +63,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5164,
+      "rating1": 5165,
       "rating2": 5041,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 63.2,
+      "rank": 45,
+      "win_prob": 63.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5164,
+      "rating1": 5165,
       "rating2": 4811,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 82.2,
+      "rank": 45,
+      "win_prob": 82.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5164,
+      "rating1": 5165,
       "rating2": 5562,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 10.3,
+      "rank": 45,
+      "win_prob": 10.4,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Ireland",
       "flag1": "senegal.png",
       "flag2": "ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5164,
-      "rating2": 5119,
-      "rating_ev": 0,
-      "rank": 47,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5165,
+      "rating2": 5118,
+      "rating_ev": 1,
+      "rank": 45,
       "win_prob": 44.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

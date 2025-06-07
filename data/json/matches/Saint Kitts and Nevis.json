@@ -1,18 +1,18 @@
 {
   "team": "Saint Kitts and Nevis",
   "stats": {
-    "matches_played": 232,
+    "matches_played": 233,
     "wins": 93,
     "draws": 44,
-    "losses": 95,
-    "goals_for": 390,
-    "goals_against": 361,
-    "goal_difference": 29,
-    "win_percentage": 40.1,
+    "losses": 96,
+    "goals_for": 392,
+    "goals_against": 367,
+    "goal_difference": 25,
+    "win_percentage": 39.9,
     "avg_points": 1.39,
     "best_rank": 135,
     "worst_rank": 192,
-    "avg_rank": 163.86,
+    "avg_rank": 163.98,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Montserrat",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 113,
-    "away_matches": 75,
+    "away_matches": 76,
     "neutral_matches": 44,
     "first_match_date": "1938-08-18",
-    "last_match_date": "2025-05-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "grenada.png",
       "score1": "",
       "score2": "",
-      "rating1": 4163,
+      "rating1": 4151,
       "rating2": 4361,
       "rating_ev": 0,
-      "rank": 188,
-      "win_prob": 29.6,
+      "rank": 192,
+      "win_prob": 28.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Trinidad and Tobago",
       "flag1": "kitts.png",
       "flag2": "trinidad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4163,
-      "rating2": 4776,
-      "rating_ev": 0,
-      "rank": 188,
+      "score1": 2,
+      "score2": 6,
+      "rating1": 4151,
+      "rating2": 4788,
+      "rating_ev": -12,
+      "rank": 191,
       "win_prob": 4.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-05-25",

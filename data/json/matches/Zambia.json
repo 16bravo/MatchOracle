@@ -1,18 +1,18 @@
 {
   "team": "Zambia",
   "stats": {
-    "matches_played": 837,
+    "matches_played": 838,
     "wins": 379,
     "draws": 214,
-    "losses": 244,
+    "losses": 245,
     "goals_for": 1326,
-    "goals_against": 886,
-    "goal_difference": 440,
-    "win_percentage": 45.3,
+    "goals_against": 887,
+    "goal_difference": 439,
+    "win_percentage": 45.2,
     "avg_points": 1.61,
     "best_rank": 35,
     "worst_rank": 111,
-    "avg_rank": 68.44,
+    "avg_rank": 68.48,
     "biggest_win": {
       "score": "11-2",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 253,
     "away_matches": 343,
-    "neutral_matches": 241,
+    "neutral_matches": 242,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4861,
-      "rating2": 5357,
+      "rating1": 4847,
+      "rating2": 5359,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 7.2,
+      "rank": 103,
+      "win_prob": 6.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 4861,
-      "rating2": 4864,
+      "rating1": 4847,
+      "rating2": 4878,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 49.7,
+      "rank": 103,
+      "win_prob": 46.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 4861,
-      "rating2": 5106,
+      "rating1": 4847,
+      "rating2": 5116,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 25.5,
+      "rank": 103,
+      "win_prob": 23.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 4861,
+      "rating1": 4847,
       "rating2": 4811,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 55.5,
+      "rank": 103,
+      "win_prob": 54.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4861,
-      "rating2": 5051,
+      "rating1": 4847,
+      "rating2": 5049,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 30.3,
+      "rank": 103,
+      "win_prob": 29.2,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Comoros",
       "flag1": "zambia.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4861,
-      "rating2": 4864,
-      "rating_ev": 0,
-      "rank": 99,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4847,
+      "rating2": 4878,
+      "rating_ev": -14,
+      "rank": 103,
       "win_prob": 49.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

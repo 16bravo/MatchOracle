@@ -1,18 +1,18 @@
 {
   "team": "Kosovo",
   "stats": {
-    "matches_played": 95,
-    "wins": 35,
+    "matches_played": 96,
+    "wins": 36,
     "draws": 21,
     "losses": 39,
-    "goals_for": 126,
-    "goals_against": 130,
-    "goal_difference": -4,
-    "win_percentage": 36.8,
-    "avg_points": 1.33,
-    "best_rank": 52,
+    "goals_for": 131,
+    "goals_against": 132,
+    "goal_difference": -1,
+    "win_percentage": 37.5,
+    "avg_points": 1.34,
+    "best_rank": 50,
     "worst_rank": 104,
-    "avg_rank": 73.93,
+    "avg_rank": 73.68,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Malta",
@@ -25,11 +25,11 @@
       "date": "2016-10-06",
       "flag": "croatia.png"
     },
-    "home_matches": 42,
+    "home_matches": 43,
     "away_matches": 34,
     "neutral_matches": 19,
     "first_match_date": "1993-02-14",
-    "last_match_date": "2025-03-23"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
+      "rating1": 5120,
       "rating2": 5308,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 39.4,
+      "rank": 50,
+      "win_prob": 40.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
+      "rating1": 5120,
       "rating2": 5232,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 27.4,
+      "rank": 50,
+      "win_prob": 28.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
-      "rating2": 5327,
+      "rating1": 5120,
+      "rating2": 5339,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 20.0,
+      "rank": 50,
+      "win_prob": 19.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
+      "rating1": 5120,
       "rating2": 5232,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 47.6,
+      "rank": 50,
+      "win_prob": 48.7,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
-      "rating2": 5327,
+      "rating1": 5120,
+      "rating2": 5339,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 37.5,
+      "rank": 50,
+      "win_prob": 37.3,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
+      "rating1": 5120,
       "rating2": 5308,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 21.3,
+      "rank": 50,
+      "win_prob": 22.0,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
-      "rating2": 4864,
+      "rating1": 5120,
+      "rating2": 4878,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 82.0,
+      "rank": 50,
+      "win_prob": 81.7,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Armenia",
       "flag1": "kosovo.png",
       "flag2": "armenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5110,
-      "rating2": 4838,
-      "rating_ev": 0,
-      "rank": 53,
+      "score1": 5,
+      "score2": 2,
+      "rating1": 5120,
+      "rating2": 4828,
+      "rating_ev": 10,
+      "rank": 50,
       "win_prob": 83.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-23",

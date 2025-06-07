@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 469,
-    "wins": 124,
+    "matches_played": 470,
+    "wins": 125,
     "draws": 105,
     "losses": 240,
-    "goals_for": 507,
+    "goals_for": 509,
     "goals_against": 856,
-    "goal_difference": -349,
-    "win_percentage": 26.4,
+    "goal_difference": -347,
+    "win_percentage": 26.6,
     "avg_points": 1.02,
     "best_rank": 19,
     "worst_rank": 129,
-    "avg_rank": 69.18,
+    "avg_rank": 69.1,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -25,11 +25,11 @@
       "date": "1975-08-10",
       "flag": "argentina.png"
     },
-    "home_matches": 174,
+    "home_matches": 175,
     "away_matches": 176,
     "neutral_matches": 119,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
-      "rating2": 5478,
+      "rating1": 5252,
+      "rating2": 5457,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 35.5,
+      "rank": 31,
+      "win_prob": 38.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
-      "rating2": 5634,
+      "rating1": 5252,
+      "rating2": 5630,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 10.5,
+      "rank": 31,
+      "win_prob": 11.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
-      "rating2": 5395,
+      "rating1": 5252,
+      "rating2": 5425,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 24.7,
+      "rank": 31,
+      "win_prob": 23.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Bolivia",
       "flag1": "venezuela.png",
       "flag2": "bolivia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5241,
-      "rating2": 5057,
-      "rating_ev": 0,
-      "rank": 34,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5252,
+      "rating2": 5046,
+      "rating_ev": 11,
+      "rank": 31,
       "win_prob": 77.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

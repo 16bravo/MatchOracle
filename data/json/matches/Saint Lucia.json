@@ -1,18 +1,18 @@
 {
   "team": "Saint Lucia",
   "stats": {
-    "matches_played": 246,
+    "matches_played": 247,
     "wins": 82,
     "draws": 39,
-    "losses": 125,
+    "losses": 126,
     "goals_for": 343,
-    "goals_against": 459,
-    "goal_difference": -116,
-    "win_percentage": 33.3,
-    "avg_points": 1.16,
+    "goals_against": 463,
+    "goal_difference": -120,
+    "win_percentage": 33.2,
+    "avg_points": 1.15,
     "best_rank": 151,
     "worst_rank": 193,
-    "avg_rank": 171.39,
+    "avg_rank": 171.44,
     "biggest_win": {
       "score": "14-1",
       "opponent": "US Virgin Islands",
@@ -26,10 +26,10 @@
       "flag": "st_vincent.png"
     },
     "home_matches": 82,
-    "away_matches": 101,
+    "away_matches": 102,
     "neutral_matches": 63,
     "first_match_date": "1936-01-31",
-    "last_match_date": "2024-11-18"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "barbados.png",
       "score1": "",
       "score2": "",
-      "rating1": 4240,
-      "rating2": 4155,
+      "rating1": 4220,
+      "rating2": 4162,
       "rating_ev": 0,
-      "rank": 181,
-      "win_prob": 69.3,
+      "rank": 183,
+      "win_prob": 66.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Cura\u00e7ao",
       "flag1": "st_lucia.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4240,
-      "rating2": 4707,
-      "rating_ev": 0,
-      "rank": 181,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4220,
+      "rating2": 4727,
+      "rating_ev": -20,
+      "rank": 183,
       "win_prob": 8.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-11-18",

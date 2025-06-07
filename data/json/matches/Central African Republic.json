@@ -1,18 +1,18 @@
 {
   "team": "Central African Republic",
   "stats": {
-    "matches_played": 156,
-    "wins": 34,
+    "matches_played": 157,
+    "wins": 35,
     "draws": 32,
     "losses": 90,
-    "goals_for": 174,
-    "goals_against": 308,
-    "goal_difference": -134,
-    "win_percentage": 21.8,
-    "avg_points": 0.86,
+    "goals_for": 176,
+    "goals_against": 309,
+    "goal_difference": -133,
+    "win_percentage": 22.3,
+    "avg_points": 0.87,
     "best_rank": 96,
     "worst_rank": 148,
-    "avg_rank": 130.87,
+    "avg_rank": 130.86,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 30,
     "away_matches": 65,
-    "neutral_matches": 61,
+    "neutral_matches": 62,
     "first_match_date": "1956-12-31",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4747,
+      "rating1": 4756,
       "rating2": 4856,
       "rating_ev": 0,
-      "rank": 131,
-      "win_prob": 38.2,
+      "rank": 129,
+      "win_prob": 39.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Mauritania",
       "flag1": "cta.png",
       "flag2": "mauritania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4747,
-      "rating2": 4831,
-      "rating_ev": 0,
-      "rank": 131,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4756,
+      "rating2": 4822,
+      "rating_ev": 9,
+      "rank": 129,
       "win_prob": 40.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

@@ -1,18 +1,18 @@
 {
   "team": "Nigeria",
   "stats": {
-    "matches_played": 692,
+    "matches_played": 693,
     "wins": 316,
-    "draws": 198,
+    "draws": 199,
     "losses": 178,
-    "goals_for": 1030,
-    "goals_against": 707,
+    "goals_for": 1031,
+    "goals_against": 708,
     "goal_difference": 323,
-    "win_percentage": 45.7,
+    "win_percentage": 45.6,
     "avg_points": 1.66,
     "best_rank": 23,
     "worst_rank": 82,
-    "avg_rank": 48.78,
+    "avg_rank": 48.8,
     "biggest_win": {
       "score": "10-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -26,10 +26,10 @@
       "flag": "gold_coast.png"
     },
     "home_matches": 233,
-    "away_matches": 257,
+    "away_matches": 258,
     "neutral_matches": 202,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2025-05-31"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5033,
-      "rating2": 4824,
+      "rating1": 5046,
+      "rating2": 4810,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 71.4,
+      "rank": 66,
+      "win_prob": 73.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5033,
-      "rating2": 5051,
+      "rating1": 5046,
+      "rating2": 5049,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 48.0,
+      "rank": 66,
+      "win_prob": 49.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5033,
-      "rating2": 4889,
+      "rating1": 5046,
+      "rating2": 4896,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 65.3,
+      "rank": 66,
+      "win_prob": 65.9,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Russia",
       "flag1": "nigeria.png",
       "flag2": "russia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5033,
-      "rating2": 5375,
-      "rating_ev": 0,
-      "rank": 68,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5046,
+      "rating2": 5362,
+      "rating_ev": 13,
+      "rank": 65,
       "win_prob": 12.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-05-31",

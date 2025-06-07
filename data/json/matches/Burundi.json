@@ -1,18 +1,18 @@
 {
   "team": "Burundi",
   "stats": {
-    "matches_played": 231,
-    "wins": 70,
+    "matches_played": 232,
+    "wins": 71,
     "draws": 54,
     "losses": 107,
-    "goals_for": 262,
+    "goals_for": 263,
     "goals_against": 321,
-    "goal_difference": -59,
-    "win_percentage": 30.3,
-    "avg_points": 1.14,
+    "goal_difference": -58,
+    "win_percentage": 30.6,
+    "avg_points": 1.15,
     "best_rank": 100,
     "worst_rank": 147,
-    "avg_rank": 125.96,
+    "avg_rank": 125.92,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 49,
     "away_matches": 85,
-    "neutral_matches": 97,
+    "neutral_matches": 98,
     "first_match_date": "1953-09-19",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,12 +44,31 @@
       "flag2": "mauritania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4790,
-      "rating2": 4831,
+      "rating1": 4796,
+      "rating2": 4822,
       "rating_ev": 0,
-      "rank": 121,
-      "win_prob": 45.5,
+      "rank": 119,
+      "win_prob": 47.1,
       "type": "fixture"
+    },
+    {
+      "date": "2025-06-06",
+      "country": "Morocco",
+      "tournament": "Friendly",
+      "team1": "Burundi",
+      "team2": "Guinea-Bissau",
+      "original_team1": "Burundi",
+      "original_team2": "Guinea-Bissau",
+      "flag1": "burundi.png",
+      "flag2": "guinea_bissau.png",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4796,
+      "rating2": 4766,
+      "rating_ev": 6,
+      "rank": 118,
+      "win_prob": 52.0,
+      "type": "past"
     },
     {
       "date": "2025-03-25",

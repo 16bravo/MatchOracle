@@ -1,18 +1,18 @@
 {
   "team": "Gambia",
   "stats": {
-    "matches_played": 279,
-    "wins": 76,
+    "matches_played": 280,
+    "wins": 77,
     "draws": 78,
     "losses": 125,
-    "goals_for": 288,
-    "goals_against": 395,
-    "goal_difference": -107,
-    "win_percentage": 27.2,
+    "goals_for": 290,
+    "goals_against": 396,
+    "goal_difference": -106,
+    "win_percentage": 27.5,
     "avg_points": 1.1,
     "best_rank": 88,
     "worst_rank": 130,
-    "avg_rank": 107.51,
+    "avg_rank": 107.46,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lesotho",
@@ -27,9 +27,9 @@
     },
     "home_matches": 0,
     "away_matches": 97,
-    "neutral_matches": 182,
+    "neutral_matches": 183,
     "first_match_date": "1953-02-09",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 4871,
-      "rating2": 4824,
+      "rating1": 4879,
+      "rating2": 4810,
       "rating_ev": 0,
       "rank": 95,
-      "win_prob": 55.2,
+      "win_prob": 57.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Equatorial Guinea",
       "flag1": "gambia.png",
       "flag2": "eq_guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4871,
-      "rating2": 4894,
-      "rating_ev": 0,
-      "rank": 95,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4879,
+      "rating2": 4886,
+      "rating_ev": 8,
+      "rank": 94,
       "win_prob": 47.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

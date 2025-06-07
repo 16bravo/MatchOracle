@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 522,
+    "matches_played": 523,
     "wins": 117,
     "draws": 120,
-    "losses": 285,
+    "losses": 286,
     "goals_for": 540,
-    "goals_against": 1032,
-    "goal_difference": -492,
+    "goals_against": 1034,
+    "goal_difference": -494,
     "win_percentage": 22.4,
     "avg_points": 0.9,
     "best_rank": 23,
     "worst_rank": 132,
-    "avg_rank": 55.59,
+    "avg_rank": 55.6,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -26,10 +26,10 @@
       "flag": "uruguay.png"
     },
     "home_matches": 184,
-    "away_matches": 199,
+    "away_matches": 200,
     "neutral_matches": 139,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5057,
+      "rating1": 5046,
       "rating2": 5503,
       "rating_ev": 0,
-      "rank": 62,
-      "win_prob": 18.5,
+      "rank": 66,
+      "win_prob": 17.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5057,
-      "rating2": 5478,
+      "rating1": 5046,
+      "rating2": 5457,
       "rating_ev": 0,
-      "rank": 62,
-      "win_prob": 9.5,
+      "rank": 66,
+      "win_prob": 9.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "chile.png",
       "score1": "",
       "score2": "",
-      "rating1": 5057,
-      "rating2": 5230,
+      "rating1": 5046,
+      "rating2": 5234,
       "rating_ev": 0,
-      "rank": 62,
-      "win_prob": 42.0,
+      "rank": 66,
+      "win_prob": 40.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Venezuela",
       "flag1": "bolivia.png",
       "flag2": "venezuela.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5057,
-      "rating2": 5241,
-      "rating_ev": 0,
-      "rank": 62,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5046,
+      "rating2": 5252,
+      "rating_ev": -11,
+      "rank": 64,
       "win_prob": 22.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

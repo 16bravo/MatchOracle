@@ -1,18 +1,18 @@
 {
   "team": "Estonia",
   "stats": {
-    "matches_played": 529,
+    "matches_played": 530,
     "wins": 131,
     "draws": 117,
-    "losses": 281,
-    "goals_for": 522,
-    "goals_against": 938,
-    "goal_difference": -416,
-    "win_percentage": 24.8,
+    "losses": 282,
+    "goals_for": 523,
+    "goals_against": 941,
+    "goal_difference": -418,
+    "win_percentage": 24.7,
     "avg_points": 0.96,
     "best_rank": 76,
     "worst_rank": 156,
-    "avg_rank": 103.55,
+    "avg_rank": 103.54,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lithuania",
@@ -25,11 +25,11 @@
       "date": "1922-08-11",
       "flag": "finland.png"
     },
-    "home_matches": 225,
+    "home_matches": 226,
     "away_matches": 251,
     "neutral_matches": 53,
     "first_match_date": "1920-10-17",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 4877,
-      "rating2": 4721,
+      "rating1": 4857,
+      "rating2": 4731,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 56.1,
+      "rank": 97,
+      "win_prob": 52.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 4877,
-      "rating2": 5404,
+      "rating1": 4857,
+      "rating2": 5441,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 6.4,
+      "rank": 97,
+      "win_prob": 5.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 4877,
-      "rating2": 4777,
+      "rating1": 4857,
+      "rating2": 4778,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 70.7,
+      "rank": 97,
+      "win_prob": 68.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 4877,
-      "rating2": 5441,
+      "rating1": 4857,
+      "rating2": 5404,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 12.4,
+      "rank": 97,
+      "win_prob": 13.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4877,
+      "rating1": 4857,
       "rating2": 4624,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 82.4,
+      "rank": 97,
+      "win_prob": 81.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 4877,
-      "rating2": 5441,
+      "rating1": 4857,
+      "rating2": 5404,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 5.5,
+      "rank": 97,
+      "win_prob": 5.9,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 4877,
-      "rating2": 5404,
+      "rating1": 4857,
+      "rating2": 5441,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 14.0,
+      "rank": 97,
+      "win_prob": 11.5,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Israel",
       "flag1": "estonia.png",
       "flag2": "israel.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4877,
-      "rating2": 5093,
-      "rating_ev": 0,
-      "rank": 93,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4857,
+      "rating2": 5113,
+      "rating_ev": -20,
+      "rank": 100,
       "win_prob": 37.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

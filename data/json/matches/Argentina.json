@@ -1,14 +1,14 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1096,
-    "wins": 600,
+    "matches_played": 1097,
+    "wins": 601,
     "draws": 267,
     "losses": 229,
-    "goals_for": 2075,
+    "goals_for": 2076,
     "goals_against": 1126,
-    "goal_difference": 949,
-    "win_percentage": 54.7,
+    "goal_difference": 950,
+    "win_percentage": 54.8,
     "avg_points": 1.89,
     "best_rank": 1,
     "worst_rank": 28,
@@ -26,10 +26,10 @@
       "flag": "czechia.png"
     },
     "home_matches": 377,
-    "away_matches": 413,
+    "away_matches": 414,
     "neutral_matches": 306,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5634,
+      "rating1": 5630,
       "rating2": 5404,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 63.8,
+      "win_prob": 63.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "venezuela.png",
       "score1": "",
       "score2": "",
-      "rating1": 5634,
-      "rating2": 5241,
+      "rating1": 5630,
+      "rating2": 5252,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 89.5,
+      "win_prob": 88.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5634,
-      "rating2": 5478,
+      "rating1": 5630,
+      "rating2": 5457,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 75.5,
+      "win_prob": 76.8,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Chile",
       "flag1": "argentina.png",
       "flag2": "chile.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5634,
-      "rating2": 5230,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5630,
+      "rating2": 5234,
+      "rating_ev": -4,
       "rank": 2,
       "win_prob": 78.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

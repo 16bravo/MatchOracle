@@ -1,18 +1,18 @@
 {
   "team": "Cameroon",
   "stats": {
-    "matches_played": 642,
-    "wins": 279,
+    "matches_played": 643,
+    "wins": 280,
     "draws": 196,
     "losses": 167,
-    "goals_for": 929,
+    "goals_for": 932,
     "goals_against": 699,
-    "goal_difference": 230,
+    "goal_difference": 233,
     "win_percentage": 43.5,
     "avg_points": 1.61,
     "best_rank": 23,
     "worst_rank": 81,
-    "avg_rank": 54.83,
+    "avg_rank": 54.84,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Chad",
@@ -27,9 +27,9 @@
     },
     "home_matches": 182,
     "away_matches": 238,
-    "neutral_matches": 222,
+    "neutral_matches": 223,
     "first_match_date": "1953-09-30",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 5046,
+      "rating1": 5060,
       "rating2": 4929,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 62.6,
+      "rank": 63,
+      "win_prob": 64.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5046,
+      "rating1": 5060,
       "rating2": 5070,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 47.4,
+      "rank": 63,
+      "win_prob": 48.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5046,
-      "rating2": 4896,
+      "rating1": 5060,
+      "rating2": 4888,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 65.9,
+      "rank": 63,
+      "win_prob": 68.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5046,
-      "rating2": 4894,
+      "rating1": 5060,
+      "rating2": 4886,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 66.1,
+      "rank": 63,
+      "win_prob": 68.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Uganda",
       "flag1": "cameroon.png",
       "flag2": "uganda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5046,
-      "rating2": 4824,
-      "rating_ev": 0,
-      "rank": 65,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5060,
+      "rating2": 4810,
+      "rating_ev": 14,
+      "rank": 62,
       "win_prob": 72.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

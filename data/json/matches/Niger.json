@@ -1,18 +1,18 @@
 {
   "team": "Niger",
   "stats": {
-    "matches_played": 274,
-    "wins": 59,
+    "matches_played": 275,
+    "wins": 60,
     "draws": 65,
     "losses": 150,
-    "goals_for": 267,
-    "goals_against": 479,
-    "goal_difference": -212,
-    "win_percentage": 21.5,
-    "avg_points": 0.88,
+    "goals_for": 271,
+    "goals_against": 482,
+    "goal_difference": -211,
+    "win_percentage": 21.8,
+    "avg_points": 0.89,
     "best_rank": 85,
     "worst_rank": 161,
-    "avg_rank": 127.2,
+    "avg_rank": 127.08,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 96,
     "away_matches": 112,
-    "neutral_matches": 66,
+    "neutral_matches": 67,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "zimbabwe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4877,
-      "rating2": 4863,
+      "rating1": 4885,
+      "rating2": 4853,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 51.5,
+      "rank": 94,
+      "win_prob": 53.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Gabon",
       "flag1": "niger.png",
       "flag2": "gabon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4877,
-      "rating2": 4896,
-      "rating_ev": 0,
-      "rank": 93,
+      "score1": 4,
+      "score2": 3,
+      "rating1": 4885,
+      "rating2": 4888,
+      "rating_ev": 8,
+      "rank": 94,
       "win_prob": 47.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",
