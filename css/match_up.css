@@ -15,6 +15,12 @@
         max-width: 100%;
     }
 }
+@media (max-width: 600px) {
+    .table-sm td, .table-sm th {
+        padding: 0.25rem;
+        font-size: 0.8em;
+    }
+}
 .table-sm td, .table-sm th {
     padding: 0.3rem;
 }

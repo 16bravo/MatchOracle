@@ -24,6 +24,20 @@ img {
     border-left: none !important;
     border-right: none !important;
 }
+@media (max-width: 575.98px) {
+  .table td, .table th {
+    padding: 0.4rem 0.3rem;
+    font-size: 0.95em;
+  }
+}
+.flag-mini {
+  max-width: 22px;
+  max-height: 16px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 
 /* Dark Theme */
 body.dark-theme {
@@ -59,4 +73,11 @@ body.dark-theme .navbar .navbar-nav .nav-link.active,
 body.dark-theme .navbar .navbar-nav .nav-link:focus,
 body.dark-theme .navbar .navbar-nav .nav-link:hover {
   color: #ffd700 !important; /* gold/yellow highlight for active/hover */
+}
+/* Burger blanc en dark mode */
+body.dark-theme .navbar-toggler {
+    border-color: #fff;
+}
+body.dark-theme .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28255,255,255,1%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
 }

@@ -50,22 +50,24 @@
       <div id="confed-filters" class="form-check form-check-inline"></div>
     </div>
 
-    <table class="table table-striped" id="myTable">
-      <thead class="thead-dark">
-        <tr>
-          <th>#</th>
-          <th style="width: 55px;"></th>
-          <th style="width: 55px;"></th>
-          <th>Team</th>
-          <th>Points</th>
-          <th>Points Change</th>
-          <th>Confed.</th>
-        </tr>
-      </thead>
-      <tbody id="table-body">
-        <!-- JSON data will be inserted here -->
-      </tbody>
-    </table>
+    <div class="table-responsive">
+      <table class="table table-striped" id="myTable">
+        <thead class="thead-dark">
+          <tr>
+            <th>#</th>
+            <th style="width: 55px;" class="d-none d-md-table-cell"></th>
+            <th style="width:32px;"></th> <!-- largeur réduite -->
+            <th>Team</th>
+            <th>Points</th> <!-- visible partout -->
+            <th class="d-none d-lg-table-cell">Points Change</th>
+            <th class="d-none d-md-table-cell">Confed.</th>
+          </tr>
+        </thead>
+        <tbody id="table-body">
+          <!-- JSON data will be inserted here -->
+        </tbody>
+      </table>
+    </div>
   </div>
 
   <button id="back-to-top" class="btn btn-secondary" style="position:fixed;bottom:30px;right:30px;display:none;z-index:999;">

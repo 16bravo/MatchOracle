@@ -169,11 +169,32 @@ function renderTeamPanel(teamData, side) {
         let ratingEv = match.rating_ev;
         const pts = ratingEv !== undefined && ratingEv !== null && ratingEv !== "" ? (ratingEv > 0 ? '+' : '') + ratingEv : '';
         const rank = match.rank ?? '';
+
+        // Couleur du score selon victoire/défaite/nul pour l'équipe sélectionnée (teamData.team)
+        let scoreColor = '';
+        if (typeof leftScore === 'number' && typeof rightScore === 'number') {
+            let teamScore, oppScore, teamName;
+            if (leftTeam === teamData.team) {
+                teamScore = leftScore;
+                oppScore = rightScore;
+                teamName = leftTeam;
+            } else if (rightTeam === teamData.team) {
+                teamScore = rightScore;
+                oppScore = leftScore;
+                teamName = rightTeam;
+            }
+            if (teamScore > oppScore) {
+                scoreColor = 'color: #28a745;'; // vert : victoire de l'équipe sélectionnée
+            } else if (teamScore < oppScore) {
+                scoreColor = 'color: #dc3545;'; // rouge : défaite de l'équipe sélectionnée
+            } // sinon nul, couleur par défaut
+        }
+
         html += `
             <tr>
                 <td>${match.date}</td>
                 <td>${flagImgFromFile(leftFlag, leftTeam)} ${leftTeam}</td>
-                <td class="font-weight-bold">${leftScore} - ${rightScore}</td>
+                <td class="font-weight-bold" style="${scoreColor}">${leftScore} - ${rightScore}</td>
                 <td>${flagImgFromFile(rightFlag, rightTeam)} ${rightTeam}</td>
                 <td>${venue}</td>
                 <td>${tournament}</td>
@@ -231,22 +252,18 @@ function renderHeadToHead(matches, team1, team2) {
         .filter(m => m.original_team2 === team2)
         .sort((a, b) => new Date(b.date) - new Date(a.date));
     if (!filtered.length) return '<div class="alert alert-info">No direct match found.</div>';
-    let html = `<table class="table table-bordered table-sm align-middle">
+    let html = `<div class="table-responsive">
+        <table class="table table-bordered table-sm align-middle" style="font-size:0.85em;">
         <thead>
             <tr>
                 <th>Date</th>
-                <th>Venue</th>
-                <th>Tournament</th>
-                <th>Home</th>
-                <th>Score</th>
-                <th>Away</th>
-                <th>Δpts</th>
-                <th>Rank</th>
+                <th class="text-center">Result</th>
             </tr>
         </thead>
         <tbody>
     `;
     for (const m of filtered) {
+        // Détermine l'ordre selon le terrain
         let homeTeam, awayTeam, homeScore, awayScore, homeFlag, awayFlag;
         if (m.country === m.team1) {
             homeTeam = m.team1;
@@ -270,20 +287,29 @@ function renderHeadToHead(matches, team1, team2) {
             homeFlag = m.flag1;
             awayFlag = m.flag2;
         }
-        const venue = m.country || '';
-        const delta = m.rating_ev !== undefined && m.rating_ev !== null && m.rating_ev !== "" ? (m.rating_ev > 0 ? '+' : '') + m.rating_ev : '';
-        html += `<tr>
-            <td>${m.date}</td>
-            <td>${venue}</td>
-            <td>${m.tournament}</td>
-            <td class="text-end">${flagImgFromFile(homeFlag, homeTeam)}${homeTeam}</td>
-            <td class="text-center">${homeScore} - ${awayScore}</td>
-            <td class="text-start">${flagImgFromFile(awayFlag, awayTeam)}${awayTeam}</td>
-            <td>${delta}</td>
-            <td>${m.rank ?? ''}</td>
-        </tr>`;
+
+        // Détermine la couleur selon le vainqueur réel (team1 ou team2 sélectionné)
+            let scoreColor = '';
+            if (typeof homeScore === 'number' && typeof awayScore === 'number') {
+                let winner = null;
+                if (homeScore > awayScore) winner = homeTeam;
+                else if (homeScore < awayScore) winner = awayTeam;
+                // Compare winner avec team1 et team2 sélectionnés
+                if (winner === team1) scoreColor = 'color: #ff4560;'; // couleur 1 pour team1 sélectionné
+                else if (winner === team2) scoreColor = 'color: #008ffb;'; // couleur 2 pour team2 sélectionné
+                else scoreColor = 'color: #6c757d;'; // gris pour nul
+            }
+
+            html += `<tr>
+                <td>${m.date}</td>
+                <td class="text-center">
+                    ${flagImgFromFile(homeFlag, homeTeam)} <strong>${homeTeam}</strong>
+                    <span class="mx-2 font-weight-bold" style="${scoreColor}">${homeScore} - ${awayScore}</span>
+                    ${flagImgFromFile(awayFlag, awayTeam)} <strong>${awayTeam}</strong>
+                </td>
+            </tr>`;
     }
-    html += '</tbody></table>';
+    html += '</tbody></table></div>';
     return html;
 }
 
