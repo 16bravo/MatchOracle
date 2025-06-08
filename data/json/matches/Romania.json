@@ -1,18 +1,18 @@
 {
   "team": "Romania",
   "stats": {
-    "matches_played": 783,
+    "matches_played": 784,
     "wins": 348,
     "draws": 196,
-    "losses": 239,
-    "goals_for": 1274,
-    "goals_against": 988,
-    "goal_difference": 286,
+    "losses": 240,
+    "goals_for": 1275,
+    "goals_against": 990,
+    "goal_difference": 285,
     "win_percentage": 44.4,
     "avg_points": 1.58,
     "best_rank": 6,
     "worst_rank": 64,
-    "avg_rank": 24.85,
+    "avg_rank": 24.87,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Finland",
@@ -26,10 +26,10 @@
       "flag": "hungary.png"
     },
     "home_matches": 326,
-    "away_matches": 367,
+    "away_matches": 368,
     "neutral_matches": 90,
     "first_match_date": "1922-06-08",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 5192,
-      "rating2": 4334,
+      "rating1": 5195,
+      "rating2": 4363,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 98.1,
+      "rank": 42,
+      "win_prob": 97.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5192,
-      "rating2": 5390,
+      "rating1": 5195,
+      "rating2": 5387,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 39.4,
+      "rank": 42,
+      "win_prob": 40.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 5192,
+      "rating1": 5195,
       "rating2": 4778,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 90.3,
+      "rank": 42,
+      "win_prob": 90.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5192,
+      "rating1": 5195,
       "rating2": 4731,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 82.4,
+      "rank": 42,
+      "win_prob": 82.6,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5192,
-      "rating2": 5245,
+      "rating1": 5195,
+      "rating2": 5271,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 55.1,
+      "rank": 42,
+      "win_prob": 52.6,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5192,
+      "rating1": 5195,
       "rating2": 4731,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 91.8,
+      "rank": 42,
+      "win_prob": 91.9,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Austria",
       "flag1": "romania.png",
       "flag2": "austria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5192,
-      "rating2": 5390,
-      "rating_ev": 0,
-      "rank": 43,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5195,
+      "rating2": 5387,
+      "rating_ev": 3,
+      "rank": 42,
       "win_prob": 21.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

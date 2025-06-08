@@ -1,18 +1,18 @@
 {
   "team": "Honduras",
   "stats": {
-    "matches_played": 653,
-    "wins": 257,
+    "matches_played": 654,
+    "wins": 258,
     "draws": 169,
     "losses": 227,
-    "goals_for": 949,
+    "goals_for": 950,
     "goals_against": 843,
-    "goal_difference": 106,
+    "goal_difference": 107,
     "win_percentage": 39.4,
     "avg_points": 1.44,
     "best_rank": 24,
     "worst_rank": 166,
-    "avg_rank": 69.91,
+    "avg_rank": 69.92,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Nicaragua",
@@ -26,10 +26,10 @@
       "flag": "guatemala.png"
     },
     "home_matches": 208,
-    "away_matches": 213,
+    "away_matches": 214,
     "neutral_matches": 232,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
+      "rating1": 4947,
       "rating2": 4727,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 75.6,
+      "rank": 80,
+      "win_prob": 72.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
-      "rating2": 4684,
+      "rating1": 4947,
+      "rating2": 4674,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 78.9,
+      "rank": 80,
+      "win_prob": 76.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
-      "rating2": 5245,
+      "rating1": 4947,
+      "rating2": 5271,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 17.2,
+      "rank": 80,
+      "win_prob": 13.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "antigua.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
+      "rating1": 4947,
       "rating2": 4070,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 98.4,
+      "rank": 80,
+      "win_prob": 98.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Cayman Islands",
       "flag1": "honduras.png",
       "flag2": "cayman.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4986,
-      "rating2": 3874,
-      "rating_ev": 0,
-      "rank": 76,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4947,
+      "rating2": 3913,
+      "rating_ev": -39,
+      "rank": 81,
       "win_prob": 97.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

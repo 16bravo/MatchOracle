@@ -1,18 +1,18 @@
 {
   "team": "Canada",
   "stats": {
-    "matches_played": 467,
-    "wins": 181,
+    "matches_played": 468,
+    "wins": 182,
     "draws": 107,
     "losses": 179,
-    "goals_for": 597,
-    "goals_against": 600,
-    "goal_difference": -3,
-    "win_percentage": 38.8,
-    "avg_points": 1.39,
+    "goals_for": 601,
+    "goals_against": 602,
+    "goal_difference": -1,
+    "win_percentage": 38.9,
+    "avg_points": 1.4,
     "best_rank": 16,
     "worst_rank": 100,
-    "avg_rank": 66.46,
+    "avg_rank": 66.38,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Cayman Islands",
@@ -25,11 +25,11 @@
       "date": "1993-07-18",
       "flag": "mexico.png"
     },
-    "home_matches": 141,
+    "home_matches": 142,
     "away_matches": 198,
     "neutral_matches": 128,
     "first_match_date": "1924-06-07",
-    "last_match_date": "2025-03-23"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5245,
+      "rating1": 5271,
       "rating2": 5219,
       "rating_ev": 0,
-      "rank": 33,
-      "win_prob": 42.0,
+      "rank": 30,
+      "win_prob": 44.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5245,
-      "rating2": 5192,
+      "rating1": 5271,
+      "rating2": 5195,
       "rating_ev": 0,
-      "rank": 33,
-      "win_prob": 44.9,
+      "rank": 30,
+      "win_prob": 47.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5245,
-      "rating2": 4684,
+      "rating1": 5271,
+      "rating2": 4674,
       "rating_ev": 0,
-      "rank": 33,
-      "win_prob": 91.6,
+      "rank": 30,
+      "win_prob": 92.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5245,
+      "rating1": 5271,
       "rating2": 4727,
       "rating_ev": 0,
-      "rank": 33,
-      "win_prob": 90.1,
+      "rank": 30,
+      "win_prob": 91.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "honduras.png",
       "score1": "",
       "score2": "",
-      "rating1": 5245,
-      "rating2": 4986,
+      "rating1": 5271,
+      "rating2": 4947,
       "rating_ev": 0,
-      "rank": 33,
-      "win_prob": 82.8,
+      "rank": 30,
+      "win_prob": 86.4,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5245,
-      "rating2": 5070,
+      "rating1": 5271,
+      "rating2": 5057,
       "rating_ev": 0,
-      "rank": 33,
-      "win_prob": 77.0,
+      "rank": 30,
+      "win_prob": 79.8,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Ukraine",
       "flag1": "canada.png",
       "flag2": "ukraine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5245,
-      "rating2": 5304,
-      "rating_ev": 0,
-      "rank": 33,
+      "score1": 4,
+      "score2": 2,
+      "rating1": 5271,
+      "rating2": 5278,
+      "rating_ev": 26,
+      "rank": 30,
       "win_prob": 54.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-23",

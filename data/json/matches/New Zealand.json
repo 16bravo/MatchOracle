@@ -1,18 +1,18 @@
 {
   "team": "New Zealand",
   "stats": {
-    "matches_played": 429,
-    "wins": 179,
+    "matches_played": 430,
+    "wins": 180,
     "draws": 78,
     "losses": 172,
-    "goals_for": 758,
+    "goals_for": 759,
     "goals_against": 630,
-    "goal_difference": 128,
-    "win_percentage": 41.7,
-    "avg_points": 1.43,
+    "goal_difference": 129,
+    "win_percentage": 41.9,
+    "avg_points": 1.44,
     "best_rank": 51,
     "worst_rank": 144,
-    "avg_rank": 92.06,
+    "avg_rank": 91.98,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Fiji",
@@ -27,9 +27,9 @@
     },
     "home_matches": 132,
     "away_matches": 186,
-    "neutral_matches": 111,
+    "neutral_matches": 112,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5085,
+      "rating1": 5098,
       "rating2": 5441,
       "rating_ev": 0,
       "rank": 57,
-      "win_prob": 12.1,
+      "win_prob": 12.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5085,
+      "rating1": 5098,
       "rating2": 5187,
       "rating_ev": 0,
       "rank": 57,
-      "win_prob": 29.2,
+      "win_prob": 30.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ukraine.png",
       "score1": "",
       "score2": "",
-      "rating1": 5085,
-      "rating2": 5304,
+      "rating1": 5098,
+      "rating2": 5278,
       "rating_ev": 0,
       "rank": 57,
-      "win_prob": 27.7,
+      "win_prob": 31.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Ivory Coast",
       "flag1": "new_zealand.png",
       "flag2": "ivory_coast.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5085,
-      "rating2": 5070,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5098,
+      "rating2": 5057,
+      "rating_ev": 13,
       "rank": 57,
       "win_prob": 51.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

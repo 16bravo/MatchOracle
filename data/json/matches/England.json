@@ -1,14 +1,14 @@
 {
   "team": "England",
   "stats": {
-    "matches_played": 1143,
-    "wins": 668,
+    "matches_played": 1144,
+    "wins": 669,
     "draws": 261,
     "losses": 214,
-    "goals_for": 2660,
+    "goals_for": 2661,
     "goals_against": 1110,
-    "goal_difference": 1550,
-    "win_percentage": 58.4,
+    "goal_difference": 1551,
+    "win_percentage": 58.5,
     "avg_points": 1.98,
     "best_rank": 1,
     "worst_rank": 15,
@@ -27,9 +27,9 @@
     },
     "home_matches": 504,
     "away_matches": 512,
-    "neutral_matches": 127,
+    "neutral_matches": 128,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "albania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
-      "rating2": 5162,
+      "rating1": 5525,
+      "rating2": 5168,
       "rating_ev": 0,
-      "rank": 4,
-      "win_prob": 78.4,
+      "rank": 6,
+      "win_prob": 75.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
-      "rating2": 5353,
+      "rating1": 5525,
+      "rating2": 5347,
       "rating_ev": 0,
-      "rank": 4,
-      "win_prob": 79.5,
+      "rank": 6,
+      "win_prob": 77.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
-      "rating2": 4784,
+      "rating1": 5525,
+      "rating2": 4781,
       "rating_ev": 0,
-      "rank": 4,
-      "win_prob": 94.1,
+      "rank": 6,
+      "win_prob": 93.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5525,
       "rating2": 5219,
       "rating_ev": 0,
-      "rank": 4,
-      "win_prob": 87.3,
+      "rank": 6,
+      "win_prob": 85.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
-      "rating2": 5353,
+      "rating1": 5525,
+      "rating2": 5347,
       "rating_ev": 0,
-      "rank": 4,
-      "win_prob": 61.7,
+      "rank": 6,
+      "win_prob": 58.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
-      "rating2": 4624,
+      "rating1": 5525,
+      "rating2": 4661,
       "rating_ev": 0,
-      "rank": 4,
-      "win_prob": 98.5,
+      "rank": 6,
+      "win_prob": 98.1,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5525,
       "rating2": 5165,
       "rating_ev": 0,
-      "rank": 4,
-      "win_prob": 89.6,
+      "rank": 6,
+      "win_prob": 88.1,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Andorra",
       "flag1": "england.png",
       "flag2": "andorra.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5562,
-      "rating2": 4624,
-      "rating_ev": 0,
-      "rank": 4,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5525,
+      "rating2": 4661,
+      "rating_ev": -37,
+      "rank": 6,
       "win_prob": 97.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

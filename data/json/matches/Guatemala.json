@@ -1,14 +1,14 @@
 {
   "team": "Guatemala",
   "stats": {
-    "matches_played": 609,
-    "wins": 220,
+    "matches_played": 610,
+    "wins": 221,
     "draws": 163,
     "losses": 226,
-    "goals_for": 858,
-    "goals_against": 819,
-    "goal_difference": 39,
-    "win_percentage": 36.1,
+    "goals_for": 862,
+    "goals_against": 821,
+    "goal_difference": 41,
+    "win_percentage": 36.2,
     "avg_points": 1.35,
     "best_rank": 60,
     "worst_rank": 123,
@@ -25,11 +25,11 @@
       "date": "1955-07-24",
       "flag": "costa_rica.png"
     },
-    "home_matches": 201,
+    "home_matches": 202,
     "away_matches": 175,
     "neutral_matches": 233,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-05-31"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 4900,
+      "rating1": 4912,
       "rating2": 4704,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 70.3,
+      "rank": 87,
+      "win_prob": 71.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 4900,
+      "rating1": 4912,
       "rating2": 5117,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 27.9,
+      "rank": 87,
+      "win_prob": 28.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4900,
-      "rating2": 4964,
+      "rating1": 4912,
+      "rating2": 4918,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 43.0,
+      "rank": 87,
+      "win_prob": 49.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4900,
-      "rating2": 4964,
+      "rating1": 4912,
+      "rating2": 4918,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 32.7,
+      "rank": 87,
+      "win_prob": 38.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Dominican Republic",
       "flag1": "guatemala.png",
       "flag2": "dominican_rep.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4900,
-      "rating2": 4734,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 2,
+      "rating1": 4912,
+      "rating2": 4722,
+      "rating_ev": 12,
       "rank": 88,
       "win_prob": 76.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-05-31",

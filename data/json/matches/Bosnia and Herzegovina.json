@@ -1,18 +1,18 @@
 {
   "team": "Bosnia and Herzegovina",
   "stats": {
-    "matches_played": 268,
-    "wins": 99,
+    "matches_played": 269,
+    "wins": 100,
     "draws": 60,
     "losses": 109,
-    "goals_for": 366,
+    "goals_for": 367,
     "goals_against": 373,
-    "goal_difference": -7,
-    "win_percentage": 36.9,
-    "avg_points": 1.33,
+    "goal_difference": -6,
+    "win_percentage": 37.2,
+    "avg_points": 1.34,
     "best_rank": 8,
     "worst_rank": 87,
-    "avg_rank": 49.48,
+    "avg_rank": 49.59,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -25,13 +25,32 @@
       "date": "2024-11-16",
       "flag": "germany.png"
     },
-    "home_matches": 112,
+    "home_matches": 113,
     "away_matches": 130,
     "neutral_matches": 26,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
+    {
+      "date": "2025-06-07",
+      "country": "Bosnia and Herzegovina",
+      "tournament": "World Cup qualifier",
+      "team1": "Bosnia and Herzegovina",
+      "team2": "San Marino",
+      "original_team1": "Bosnia and Herzegovina",
+      "original_team2": "San Marino",
+      "flag1": "bosnia.png",
+      "flag2": "san_marino.png",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4951,
+      "rating2": 4363,
+      "rating_ev": -29,
+      "rank": 81,
+      "win_prob": 95.9,
+      "type": "past"
+    },
     {
       "date": "2025-03-24",
       "country": "Bosnia and Herzegovina",

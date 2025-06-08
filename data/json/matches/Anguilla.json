@@ -1,18 +1,18 @@
 {
   "team": "Anguilla",
   "stats": {
-    "matches_played": 110,
+    "matches_played": 111,
     "wins": 13,
     "draws": 14,
-    "losses": 83,
+    "losses": 84,
     "goals_for": 67,
-    "goals_against": 396,
-    "goal_difference": -329,
-    "win_percentage": 11.8,
+    "goals_against": 399,
+    "goal_difference": -332,
+    "win_percentage": 11.7,
     "avg_points": 0.48,
     "best_rank": 208,
     "worst_rank": 215,
-    "avg_rank": 213.15,
+    "avg_rank": 213.14,
     "biggest_win": {
       "score": "4-1",
       "opponent": "Montserrat",
@@ -25,11 +25,11 @@
       "date": "2019-11-10",
       "flag": "trinidad.png"
     },
-    "home_matches": 30,
+    "home_matches": 31,
     "away_matches": 47,
     "neutral_matches": 33,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2025-06-04"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "El Salvador",
       "flag1": "anguilla.png",
       "flag2": "salvador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3620,
-      "rating2": 4684,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 3630,
+      "rating2": 4674,
+      "rating_ev": 10,
       "rank": 213,
       "win_prob": 2.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-04",

@@ -1,18 +1,18 @@
 {
   "team": "Dominican Republic",
   "stats": {
-    "matches_played": 176,
+    "matches_played": 177,
     "wins": 66,
     "draws": 28,
-    "losses": 82,
-    "goals_for": 282,
-    "goals_against": 285,
-    "goal_difference": -3,
-    "win_percentage": 37.5,
+    "losses": 83,
+    "goals_for": 284,
+    "goals_against": 289,
+    "goal_difference": -5,
+    "win_percentage": 37.3,
     "avg_points": 1.28,
     "best_rank": 134,
     "worst_rank": 192,
-    "avg_rank": 172.24,
+    "avg_rank": 172.06,
     "biggest_win": {
       "score": "17-0",
       "opponent": "British Virgin Islands",
@@ -26,10 +26,10 @@
       "flag": "trinidad.png"
     },
     "home_matches": 81,
-    "away_matches": 59,
+    "away_matches": 60,
     "neutral_matches": 36,
     "first_match_date": "1949-05-14",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 4734,
+      "rating1": 4722,
       "rating2": 4797,
       "rating_ev": 0,
-      "rank": 136,
-      "win_prob": 43.1,
+      "rank": 141,
+      "win_prob": 41.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4734,
-      "rating2": 5141,
+      "rating1": 4722,
+      "rating2": 5167,
       "rating_ev": 0,
-      "rank": 136,
-      "win_prob": 14.7,
+      "rank": 141,
+      "win_prob": 12.8,
       "type": "fixture"
     },
     {
@@ -82,10 +82,10 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 4734,
-      "rating2": 5303,
+      "rating1": 4722,
+      "rating2": 5289,
       "rating_ev": 0,
-      "rank": 136,
+      "rank": 141,
       "win_prob": 8.2,
       "type": "fixture"
     },
@@ -101,11 +101,11 @@
       "flag2": "dominica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4734,
+      "rating1": 4722,
       "rating2": 4105,
       "rating_ev": 0,
-      "rank": 136,
-      "win_prob": 93.4,
+      "rank": 141,
+      "win_prob": 93.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Guatemala",
       "flag1": "dominican_rep.png",
       "flag2": "guatemala.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4734,
-      "rating2": 4900,
-      "rating_ev": 0,
-      "rank": 136,
+      "score1": 2,
+      "score2": 4,
+      "rating1": 4722,
+      "rating2": 4912,
+      "rating_ev": -12,
+      "rank": 141,
       "win_prob": 23.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

@@ -1,18 +1,18 @@
 {
   "team": "United States",
   "stats": {
-    "matches_played": 805,
+    "matches_played": 806,
     "wins": 357,
     "draws": 169,
-    "losses": 279,
-    "goals_for": 1215,
-    "goals_against": 1045,
-    "goal_difference": 170,
+    "losses": 280,
+    "goals_for": 1216,
+    "goals_against": 1047,
+    "goal_difference": 169,
     "win_percentage": 44.3,
     "avg_points": 1.54,
     "best_rank": 12,
     "worst_rank": 111,
-    "avg_rank": 41.64,
+    "avg_rank": 41.63,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Barbados",
@@ -25,11 +25,11 @@
       "date": "1948-08-06",
       "flag": "norway.png"
     },
-    "home_matches": 469,
+    "home_matches": 470,
     "away_matches": 251,
     "neutral_matches": 85,
     "first_match_date": "1916-08-20",
-    "last_match_date": "2025-03-23"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5242,
+      "rating1": 5235,
       "rating2": 5419,
       "rating_ev": 0,
       "rank": 34,
-      "win_prob": 41.6,
+      "win_prob": 40.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5242,
+      "rating1": 5235,
       "rating2": 5180,
       "rating_ev": 0,
       "rank": 34,
-      "win_prob": 67.1,
+      "win_prob": 66.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5242,
-      "rating2": 4993,
+      "rating1": 5235,
+      "rating2": 5016,
       "rating_ev": 0,
       "rank": 34,
-      "win_prob": 82.2,
+      "win_prob": 80.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5242,
+      "rating1": 5235,
       "rating2": 5013,
       "rating_ev": 0,
       "rank": 34,
-      "win_prob": 80.9,
+      "win_prob": 80.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 5242,
+      "rating1": 5235,
       "rating2": 4788,
       "rating_ev": 0,
       "rank": 34,
-      "win_prob": 91.6,
+      "win_prob": 91.4,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5242,
-      "rating2": 5308,
+      "rating1": 5235,
+      "rating2": 5322,
       "rating_ev": 0,
       "rank": 34,
-      "win_prob": 53.7,
+      "win_prob": 51.4,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Turkey",
       "flag1": "usa.png",
       "flag2": "turkey.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5242,
-      "rating2": 5323,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5235,
+      "rating2": 5330,
+      "rating_ev": -7,
       "rank": 34,
       "win_prob": 52.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-23",

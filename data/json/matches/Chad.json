@@ -1,18 +1,18 @@
 {
   "team": "Chad",
   "stats": {
-    "matches_played": 171,
+    "matches_played": 172,
     "wins": 34,
-    "draws": 38,
+    "draws": 39,
     "losses": 99,
     "goals_for": 152,
     "goals_against": 315,
     "goal_difference": -163,
-    "win_percentage": 19.9,
+    "win_percentage": 19.8,
     "avg_points": 0.82,
     "best_rank": 118,
     "worst_rank": 167,
-    "avg_rank": 138.47,
+    "avg_rank": 138.56,
     "biggest_win": {
       "score": "5-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 40,
     "away_matches": 58,
-    "neutral_matches": 73,
+    "neutral_matches": 74,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kenya.png",
       "score1": "",
       "score2": "",
-      "rating1": 4594,
-      "rating2": 4855,
+      "rating1": 4602,
+      "rating2": 4847,
       "rating_ev": 0,
       "rank": 154,
-      "win_prob": 24.2,
+      "win_prob": 25.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Kenya",
       "flag1": "chad.png",
       "flag2": "kenya.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4594,
-      "rating2": 4855,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4602,
+      "rating2": 4847,
+      "rating_ev": 8,
       "rank": 154,
       "win_prob": 24.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

@@ -1,15 +1,15 @@
 {
   "team": "Madagascar",
   "stats": {
-    "matches_played": 331,
-    "wins": 124,
+    "matches_played": 332,
+    "wins": 125,
     "draws": 72,
     "losses": 135,
-    "goals_for": 454,
+    "goals_for": 455,
     "goals_against": 499,
-    "goal_difference": -45,
-    "win_percentage": 37.5,
-    "avg_points": 1.34,
+    "goal_difference": -44,
+    "win_percentage": 37.7,
+    "avg_points": 1.35,
     "best_rank": 78,
     "worst_rank": 158,
     "avg_rank": 114.82,
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 116,
-    "neutral_matches": 99,
+    "neutral_matches": 100,
     "first_match_date": "1947-12-31",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "eswatini.png",
       "score1": "",
       "score2": "",
-      "rating1": 4795,
+      "rating1": 4815,
       "rating2": 4695,
       "rating_ev": 0,
-      "rank": 121,
-      "win_prob": 60.8,
+      "rank": 113,
+      "win_prob": 62.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 4795,
+      "rating1": 4815,
       "rating2": 5041,
       "rating_ev": 0,
-      "rank": 121,
-      "win_prob": 25.4,
+      "rank": 113,
+      "win_prob": 27.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Tanzania",
       "flag1": "madagascar.png",
       "flag2": "tanzania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4795,
-      "rating2": 4896,
-      "rating_ev": 0,
-      "rank": 121,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4815,
+      "rating2": 4876,
+      "rating_ev": 20,
+      "rank": 113,
       "win_prob": 39.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

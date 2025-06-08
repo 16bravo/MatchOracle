@@ -1,18 +1,18 @@
 {
   "team": "Albania",
   "stats": {
-    "matches_played": 396,
+    "matches_played": 397,
     "wins": 110,
-    "draws": 83,
+    "draws": 84,
     "losses": 203,
     "goals_for": 379,
     "goals_against": 591,
     "goal_difference": -212,
-    "win_percentage": 27.8,
+    "win_percentage": 27.7,
     "avg_points": 1.04,
     "best_rank": 40,
     "worst_rank": 89,
-    "avg_rank": 62.8,
+    "avg_rank": 62.75,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Vietnam",
@@ -25,11 +25,11 @@
       "date": "1950-09-24",
       "flag": "hungary.png"
     },
-    "home_matches": 185,
+    "home_matches": 186,
     "away_matches": 179,
     "neutral_matches": 32,
     "first_match_date": "1946-10-07",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5162,
-      "rating2": 5562,
+      "rating1": 5168,
+      "rating2": 5525,
       "rating_ev": 0,
       "rank": 46,
-      "win_prob": 21.6,
+      "win_prob": 24.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 5162,
-      "rating2": 4624,
+      "rating1": 5168,
+      "rating2": 4661,
       "rating_ev": 0,
       "rank": 46,
-      "win_prob": 86.5,
+      "win_prob": 85.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5162,
-      "rating2": 5353,
+      "rating1": 5168,
+      "rating2": 5347,
       "rating_ev": 0,
       "rank": 46,
-      "win_prob": 21.8,
+      "win_prob": 22.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5162,
-      "rating2": 4784,
+      "rating1": 5168,
+      "rating2": 4781,
       "rating_ev": 0,
       "rank": 46,
-      "win_prob": 88.9,
+      "win_prob": 89.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5162,
-      "rating2": 4784,
+      "rating1": 5168,
+      "rating2": 4781,
       "rating_ev": 0,
       "rank": 46,
-      "win_prob": 76.8,
+      "win_prob": 77.5,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Serbia",
       "flag1": "albania.png",
       "flag2": "serbia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5162,
-      "rating2": 5353,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5168,
+      "rating2": 5347,
+      "rating_ev": 6,
       "rank": 46,
       "win_prob": 40.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

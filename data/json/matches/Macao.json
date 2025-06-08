@@ -1,18 +1,18 @@
 {
   "team": "Macao",
   "stats": {
-    "matches_played": 162,
+    "matches_played": 163,
     "wins": 24,
     "draws": 17,
-    "losses": 121,
+    "losses": 122,
     "goals_for": 139,
-    "goals_against": 486,
-    "goal_difference": -347,
-    "win_percentage": 14.8,
+    "goals_against": 488,
+    "goal_difference": -349,
+    "win_percentage": 14.7,
     "avg_points": 0.55,
     "best_rank": 183,
     "worst_rank": 212,
-    "avg_rank": 200.43,
+    "avg_rank": 200.5,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Northern Mariana Islands",
@@ -26,12 +26,31 @@
       "flag": "japan.png"
     },
     "home_matches": 53,
-    "away_matches": 51,
+    "away_matches": 52,
     "neutral_matches": 58,
     "first_match_date": "1948-03-29",
-    "last_match_date": "2025-03-19"
+    "last_match_date": "2025-06-05"
   },
   "matches": [
+    {
+      "date": "2025-06-05",
+      "country": "Taiwan",
+      "tournament": "Friendly",
+      "team1": "Macao",
+      "team2": "Taiwan",
+      "original_team1": "Macao",
+      "original_team2": "Taiwan",
+      "flag1": "macao.png",
+      "flag2": "taiwan.png",
+      "score1": 0,
+      "score2": 2,
+      "rating1": 3660,
+      "rating2": 4223,
+      "rating_ev": 5,
+      "rank": 211,
+      "win_prob": 5.4,
+      "type": "past"
+    },
     {
       "date": "2025-03-19",
       "country": "Hong Kong",

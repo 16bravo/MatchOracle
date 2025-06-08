@@ -1,14 +1,14 @@
 {
   "team": "Austria",
   "stats": {
-    "matches_played": 853,
-    "wins": 362,
+    "matches_played": 854,
+    "wins": 363,
     "draws": 182,
     "losses": 309,
-    "goals_for": 1527,
-    "goals_against": 1311,
-    "goal_difference": 216,
-    "win_percentage": 42.4,
+    "goals_for": 1529,
+    "goals_against": 1312,
+    "goal_difference": 217,
+    "win_percentage": 42.5,
     "avg_points": 1.49,
     "best_rank": 3,
     "worst_rank": 63,
@@ -25,11 +25,11 @@
       "date": "1908-06-08",
       "flag": "england.png"
     },
-    "home_matches": 424,
+    "home_matches": 425,
     "away_matches": 378,
     "neutral_matches": 51,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2025-03-23"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5390,
+      "rating1": 5387,
       "rating2": 4731,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 91.1,
+      "rank": 18,
+      "win_prob": 91.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5390,
-      "rating2": 5192,
+      "rating1": 5387,
+      "rating2": 5195,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 60.6,
+      "rank": 18,
+      "win_prob": 60.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 5390,
-      "rating2": 4334,
+      "rating1": 5387,
+      "rating2": 4363,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 99.0,
+      "rank": 18,
+      "win_prob": 98.9,
       "type": "fixture"
     },
     {
@@ -101,10 +101,10 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5390,
+      "rating1": 5387,
       "rating2": 4731,
       "rating_ev": 0,
-      "rank": 17,
+      "rank": 18,
       "win_prob": 96.1,
       "type": "fixture"
     },
@@ -120,11 +120,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 5390,
-      "rating2": 4334,
+      "rating1": 5387,
+      "rating2": 4363,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 97.6,
+      "rank": 18,
+      "win_prob": 97.3,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Romania",
       "flag1": "austria.png",
       "flag2": "romania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5390,
-      "rating2": 5192,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5387,
+      "rating2": 5195,
+      "rating_ev": -3,
       "rank": 17,
       "win_prob": 78.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-23",

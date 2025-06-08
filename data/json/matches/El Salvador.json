@@ -1,18 +1,18 @@
 {
   "team": "El Salvador",
   "stats": {
-    "matches_played": 667,
-    "wins": 222,
+    "matches_played": 668,
+    "wins": 223,
     "draws": 149,
     "losses": 296,
-    "goals_for": 847,
+    "goals_for": 850,
     "goals_against": 995,
-    "goal_difference": -148,
-    "win_percentage": 33.3,
+    "goal_difference": -145,
+    "win_percentage": 33.4,
     "avg_points": 1.22,
     "best_rank": 66,
     "worst_rank": 147,
-    "avg_rank": 95.89,
+    "avg_rank": 95.96,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "hungary.png"
     },
     "home_matches": 202,
-    "away_matches": 202,
+    "away_matches": 203,
     "neutral_matches": 263,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-05-31"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 4684,
-      "rating2": 5245,
+      "rating1": 4674,
+      "rating2": 5271,
       "rating_ev": 0,
       "rank": 147,
-      "win_prob": 8.4,
+      "win_prob": 7.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "honduras.png",
       "score1": "",
       "score2": "",
-      "rating1": 4684,
-      "rating2": 4986,
+      "rating1": 4674,
+      "rating2": 4947,
       "rating_ev": 0,
       "rank": 147,
-      "win_prob": 21.1,
+      "win_prob": 23.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4684,
+      "rating1": 4674,
       "rating2": 4727,
       "rating_ev": 0,
       "rank": 147,
-      "win_prob": 45.3,
+      "win_prob": 44.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 4684,
+      "rating1": 4674,
       "rating2": 4797,
       "rating_ev": 0,
       "rank": 147,
-      "win_prob": 48.5,
+      "win_prob": 47.4,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Anguilla",
       "flag1": "salvador.png",
       "flag2": "anguilla.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4684,
-      "rating2": 3620,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4674,
+      "rating2": 3630,
+      "rating_ev": -10,
       "rank": 147,
       "win_prob": 97.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-05-31",

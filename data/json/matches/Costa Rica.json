@@ -1,18 +1,18 @@
 {
   "team": "Costa Rica",
   "stats": {
-    "matches_played": 771,
-    "wins": 350,
+    "matches_played": 772,
+    "wins": 351,
     "draws": 183,
     "losses": 238,
-    "goals_for": 1334,
+    "goals_for": 1342,
     "goals_against": 890,
-    "goal_difference": 444,
-    "win_percentage": 45.4,
+    "goal_difference": 452,
+    "win_percentage": 45.5,
     "avg_points": 1.6,
     "best_rank": 8,
     "worst_rank": 93,
-    "avg_rank": 48.82,
+    "avg_rank": 48.81,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Puerto Rico",
@@ -27,9 +27,9 @@
     },
     "home_matches": 255,
     "away_matches": 274,
-    "neutral_matches": 242,
+    "neutral_matches": 243,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5141,
-      "rating2": 5303,
+      "rating1": 5167,
+      "rating2": 5289,
       "rating_ev": 0,
-      "rank": 49,
-      "win_prob": 32.9,
+      "rank": 47,
+      "win_prob": 36.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 5141,
-      "rating2": 4734,
+      "rating1": 5167,
+      "rating2": 4722,
       "rating_ev": 0,
-      "rank": 49,
-      "win_prob": 85.3,
+      "rank": 47,
+      "win_prob": 87.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 5141,
+      "rating1": 5167,
       "rating2": 4797,
       "rating_ev": 0,
-      "rank": 49,
-      "win_prob": 81.7,
+      "rank": 47,
+      "win_prob": 83.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 5141,
+      "rating1": 5167,
       "rating2": 4788,
       "rating_ev": 0,
-      "rank": 49,
-      "win_prob": 87.8,
+      "rank": 47,
+      "win_prob": 88.9,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Bahamas",
       "flag1": "costa_rica.png",
       "flag2": "bahamas.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5141,
-      "rating2": 3808,
-      "rating_ev": 0,
-      "rank": 49,
+      "score1": 8,
+      "score2": 0,
+      "rating1": 5167,
+      "rating2": 3782,
+      "rating_ev": 26,
+      "rank": 47,
       "win_prob": 99.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

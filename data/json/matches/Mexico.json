@@ -1,13 +1,13 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1005,
+    "matches_played": 1006,
     "wins": 520,
     "draws": 230,
-    "losses": 255,
-    "goals_for": 1792,
-    "goals_against": 1036,
-    "goal_difference": 756,
+    "losses": 256,
+    "goals_for": 1794,
+    "goals_against": 1040,
+    "goal_difference": 754,
     "win_percentage": 51.7,
     "avg_points": 1.78,
     "best_rank": 2,
@@ -27,9 +27,9 @@
     },
     "home_matches": 292,
     "away_matches": 268,
-    "neutral_matches": 445,
+    "neutral_matches": 446,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2025-03-23"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
+      "rating1": 5289,
       "rating2": 5404,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 49.9,
+      "rank": 27,
+      "win_prob": 48.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
+      "rating1": 5289,
       "rating2": 5457,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 33.7,
+      "rank": 27,
+      "win_prob": 32.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
+      "rating1": 5289,
       "rating2": 5180,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 63.2,
+      "rank": 27,
+      "win_prob": 61.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
+      "rating1": 5289,
       "rating2": 5419,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 37.5,
+      "rank": 27,
+      "win_prob": 36.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
-      "rating2": 5141,
+      "rating1": 5289,
+      "rating2": 5167,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 67.1,
+      "rank": 27,
+      "win_prob": 63.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
+      "rating1": 5289,
       "rating2": 4797,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 89.7,
+      "rank": 27,
+      "win_prob": 89.2,
       "type": "fixture"
     },
     {
@@ -158,10 +158,10 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
-      "rating2": 4734,
+      "rating1": 5289,
+      "rating2": 4722,
       "rating_ev": 0,
-      "rank": 28,
+      "rank": 27,
       "win_prob": 91.8,
       "type": "fixture"
     },
@@ -177,11 +177,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
-      "rating2": 5323,
+      "rating1": 5289,
+      "rating2": 5330,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 47.8,
+      "rank": 27,
+      "win_prob": 45.5,
       "type": "fixture"
     },
     {
@@ -194,14 +194,14 @@
       "original_team2": "Switzerland",
       "flag1": "mexico.png",
       "flag2": "switzerland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5303,
-      "rating2": 5308,
-      "rating_ev": 0,
-      "rank": 28,
+      "score1": 2,
+      "score2": 4,
+      "rating1": 5289,
+      "rating2": 5322,
+      "rating_ev": -14,
+      "rank": 27,
       "win_prob": 49.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-23",

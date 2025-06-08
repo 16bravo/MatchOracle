@@ -1,18 +1,18 @@
 {
   "team": "Nicaragua",
   "stats": {
-    "matches_played": 242,
-    "wins": 52,
+    "matches_played": 243,
+    "wins": 53,
     "draws": 30,
     "losses": 160,
-    "goals_for": 252,
+    "goals_for": 253,
     "goals_against": 599,
-    "goal_difference": -347,
-    "win_percentage": 21.5,
-    "avg_points": 0.77,
+    "goal_difference": -346,
+    "win_percentage": 21.8,
+    "avg_points": 0.78,
     "best_rank": 115,
     "worst_rank": 206,
-    "avg_rank": 165.98,
+    "avg_rank": 165.86,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Turks and Caicos Islands",
@@ -25,11 +25,11 @@
       "date": "1946-03-13",
       "flag": "honduras.png"
     },
-    "home_matches": 59,
+    "home_matches": 60,
     "away_matches": 94,
     "neutral_matches": 89,
     "first_match_date": "1929-05-01",
-    "last_match_date": "2025-06-01"
+    "last_match_date": "2025-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 4734,
+      "rating1": 4735,
       "rating2": 5117,
       "rating_ev": 0,
-      "rank": 136,
-      "win_prob": 10.9,
+      "rank": 137,
+      "win_prob": 11.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Guyana",
       "flag1": "nicaragua.png",
       "flag2": "guyana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4734,
-      "rating2": 4618,
-      "rating_ev": 0,
-      "rank": 136,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4735,
+      "rating2": 4617,
+      "rating_ev": 1,
+      "rank": 137,
       "win_prob": 72.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-01",

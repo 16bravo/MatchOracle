@@ -1,18 +1,18 @@
 {
   "team": "Northern Ireland",
   "stats": {
-    "matches_played": 601,
+    "matches_played": 602,
     "wins": 167,
     "draws": 148,
-    "losses": 286,
-    "goals_for": 628,
-    "goals_against": 912,
-    "goal_difference": -284,
-    "win_percentage": 27.8,
+    "losses": 287,
+    "goals_for": 629,
+    "goals_against": 914,
+    "goal_difference": -285,
+    "win_percentage": 27.7,
     "avg_points": 1.08,
     "best_rank": 13,
     "worst_rank": 96,
-    "avg_rank": 39.85,
+    "avg_rank": 39.88,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Wales",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 273,
-    "away_matches": 292,
+    "away_matches": 293,
     "neutral_matches": 36,
     "first_match_date": "1921-02-26",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 5070,
+      "rating1": 5075,
       "rating2": 4917,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 75.2,
+      "rank": 59,
+      "win_prob": 75.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5070,
-      "rating2": 5193,
+      "rating1": 5075,
+      "rating2": 5181,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 27.3,
+      "rank": 59,
+      "win_prob": 28.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5070,
+      "rating1": 5075,
       "rating2": 5549,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 16.6,
+      "rank": 59,
+      "win_prob": 16.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5070,
-      "rating2": 5193,
+      "rating1": 5075,
+      "rating2": 5181,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 47.4,
+      "rank": 59,
+      "win_prob": 49.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5070,
+      "rating1": 5075,
       "rating2": 5549,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 7.6,
+      "rank": 59,
+      "win_prob": 7.8,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 5070,
+      "rating1": 5075,
       "rating2": 4917,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 55.8,
+      "rank": 59,
+      "win_prob": 56.3,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "iceland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5070,
+      "rating1": 5075,
       "rating2": 5065,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 61.3,
+      "rank": 59,
+      "win_prob": 61.8,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Denmark",
       "flag1": "northern_ireland.png",
       "flag2": "denmark.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5070,
-      "rating2": 5367,
-      "rating_ev": 0,
-      "rank": 60,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5075,
+      "rating2": 5362,
+      "rating_ev": 5,
+      "rank": 59,
       "win_prob": 15.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",
