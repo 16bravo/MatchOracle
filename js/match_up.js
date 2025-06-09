@@ -135,13 +135,13 @@ function renderTeamPanel(teamData, side) {
         let leftTeam, rightTeam, leftScore, rightScore, leftFlag, rightFlag;
         if (match.country === match.team1) {
             leftTeam = match.team1;
-            rightTeam = match.original_team2;
+            rightTeam = match.team2;
             leftScore = match.score1;
             rightScore = match.score2;
             leftFlag = match.flag1;
             rightFlag = match.flag2;
         } else if (match.country === match.team2) {
-            leftTeam = match.original_team2;
+            leftTeam = match.team2;
             rightTeam = match.team1;
             leftScore = match.score2;
             rightScore = match.score1;
@@ -150,13 +150,13 @@ function renderTeamPanel(teamData, side) {
         } else {
             if (side === 'left') {
                 leftTeam = match.team1;
-                rightTeam = match.original_team2;
+                rightTeam = match.team2;
                 leftScore = match.score1;
                 rightScore = match.score2;
                 leftFlag = match.flag1;
                 rightFlag = match.flag2;
             } else {
-                leftTeam = match.original_team2;
+                leftTeam = match.team2;
                 rightTeam = match.team1;
                 leftScore = match.score2;
                 rightScore = match.score1;
@@ -249,7 +249,7 @@ function renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2) {
 function renderHeadToHead(matches, team1, team2) {
     // On ne prend que les matches de team1 contre team2
     const filtered = matches
-        .filter(m => m.original_team2 === team2)
+        .filter(m => m.team2 === team2 || m.team2 === team1)
         .sort((a, b) => new Date(b.date) - new Date(a.date));
     if (!filtered.length) return '<div class="alert alert-info">No direct match found.</div>';
     let html = `<div class="table-responsive">
@@ -264,24 +264,30 @@ function renderHeadToHead(matches, team1, team2) {
     `;
     for (const m of filtered) {
         // Détermine l'ordre selon le terrain
-        let homeTeam, awayTeam, homeScore, awayScore, homeFlag, awayFlag;
+        let homeTeam, awayTeam, homeScore, awayScore, homeFlag, awayFlag, homeOriginal, awayOriginal;
         if (m.country === m.team1) {
             homeTeam = m.team1;
-            awayTeam = m.original_team2;
+            awayTeam = m.team2;
+            homeOriginal = m.original_team1;
+            awayOriginal = m.original_team2;
             homeScore = m.score1;
             awayScore = m.score2;
             homeFlag = m.flag1;
             awayFlag = m.flag2;
         } else if (m.country === m.team2) {
-            homeTeam = m.original_team2;
+            homeTeam = m.team2;
             awayTeam = m.team1;
+            homeOriginal = m.original_team2;
+            awayOriginal = m.original_team1;
             homeScore = m.score2;
             awayScore = m.score1;
             homeFlag = m.flag2;
             awayFlag = m.flag1;
         } else {
             homeTeam = m.team1;
-            awayTeam = m.original_team2;
+            awayTeam = m.team2;
+            homeOriginal = m.original_team1;
+            awayOriginal = m.original_team2;
             homeScore = m.score1;
             awayScore = m.score2;
             homeFlag = m.flag1;
@@ -289,24 +295,30 @@ function renderHeadToHead(matches, team1, team2) {
         }
 
         // Détermine la couleur selon le vainqueur réel (team1 ou team2 sélectionné)
-            let scoreColor = '';
-            if (typeof homeScore === 'number' && typeof awayScore === 'number') {
-                let winner = null;
-                if (homeScore > awayScore) winner = homeTeam;
-                else if (homeScore < awayScore) winner = awayTeam;
-                // Compare winner avec team1 et team2 sélectionnés
-                if (winner === team1) scoreColor = 'color: #ff4560;'; // couleur 1 pour team1 sélectionné
-                else if (winner === team2) scoreColor = 'color: #008ffb;'; // couleur 2 pour team2 sélectionné
-                else scoreColor = 'color: #6c757d;'; // gris pour nul
-            }
+        let scoreColor = '';
+        if (typeof homeScore === 'number' && typeof awayScore === 'number') {
+            let winner = null;
+            if (homeScore > awayScore) winner = homeTeam;
+            else if (homeScore < awayScore) winner = awayTeam;
+            // Compare winner avec team1 et team2 sélectionnés
+            if (winner === team1) scoreColor = 'color: #ff4560;'; // couleur 1 pour team1 sélectionné
+            else if (winner === team2) scoreColor = 'color: #008ffb;'; // couleur 2 pour team2 sélectionné
+            else scoreColor = 'color: #6c757d;'; // gris pour nul
+        }
+        const venue = m.country || '';
+        const tournament = m.tournament || '';
+        const pts = m.rating_ev !== undefined && m.rating_ev !== null && m.rating_ev !== "" ? (m.rating_ev > 0 ? '+' : '') + m.rating_ev : '';
+        const rank = m.rank ?? '';
 
             html += `<tr>
                 <td>${m.date}</td>
-                <td class="text-center">
-                    ${flagImgFromFile(homeFlag, homeTeam)} <strong>${homeTeam}</strong>
-                    <span class="mx-2 font-weight-bold" style="${scoreColor}">${homeScore} - ${awayScore}</span>
-                    ${flagImgFromFile(awayFlag, awayTeam)} <strong>${awayTeam}</strong>
-                </td>
+                <td class="d-none d-sm-table-cell">${flagImgFromFile(homeFlag, homeOriginal)} ${homeOriginal}</td>
+                <td class="font-weight-bold" style="${scoreColor}">${homeScore} - ${awayScore}</td>
+                <td class="d-none d-sm-table-cell">${flagImgFromFile(awayFlag, awayOriginal)} ${awayOriginal}</td>
+                <td class="d-none d-md-table-cell">${venue}</td>
+                <td class="d-none d-lg-table-cell">${tournament}</td>
+                <td class="d-none d-lg-table-cell">${pts}</td>
+                <td class="d-none d-xl-table-cell">${rank}</td>
             </tr>`;
     }
     html += '</tbody></table></div>';
@@ -356,10 +368,9 @@ async function refreshAll() {
     const prob2 = Math.round((100 - prob1)*10)/10;
 
     // Historique des confrontations
-    const h2hMatches = [
-        ...data1.matches.filter(m => m.original_team2 === team2),
-        ...data2.matches.filter(m => m.original_team2 === team1)
-    ].sort((a, b) => new Date(b.date) - new Date(a.date));
+    const h2hMatches = data1.matches
+        .filter(m => m.team2 === team2)
+        .sort((a, b) => new Date(b.date) - new Date(a.date));
 
     // Stats cumulées
     const h2hStats = computeH2HStats(h2hMatches, team1);

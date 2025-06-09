@@ -98,11 +98,11 @@ document.addEventListener('DOMContentLoaded', function () {
             indicator.innerHTML += `<span class="text">${percentValue}%</span>`;
         });
 
-        // 1. Remplir dynamiquement la liste des adversaires
+        // 1. Remplir la liste des adversaires avec les valeurs distinctes de team2
         const opponentSet = new Set();
         teamResultsData.matches.forEach(match => {
-            if (match.type === 'past' && match.original_team2) {
-                opponentSet.add(match.original_team2);
+            if (match.type === 'past' && match.team2) {
+                opponentSet.add(match.team2); // on prend bien le nom "standardisé"
             }
         });
         const opponentFilter = document.getElementById('opponentFilter');
@@ -145,8 +145,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 // Filtre les matchs (on garde past ET fixture)
                 let filtered = teamResultsData.matches.filter(match => {
-                    // Opponent
-                    if (selectedOpponent && match.original_team2 !== selectedOpponent) return false;
+                // Opponent
+                if (selectedOpponent && match.team2 !== selectedOpponent) return false;
 
                     // Venue
                     if (selectedVenue) {
