@@ -1,14 +1,14 @@
 {
   "team": "Spain",
   "stats": {
-    "matches_played": 771,
+    "matches_played": 772,
     "wins": 455,
-    "draws": 178,
+    "draws": 179,
     "losses": 138,
-    "goals_for": 1565,
-    "goals_against": 693,
+    "goals_for": 1567,
+    "goals_against": 695,
     "goal_difference": 872,
-    "win_percentage": 59.0,
+    "win_percentage": 58.9,
     "avg_points": 2.0,
     "best_rank": 1,
     "worst_rank": 19,
@@ -27,9 +27,9 @@
     },
     "home_matches": 335,
     "away_matches": 299,
-    "neutral_matches": 137,
+    "neutral_matches": 138,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5665,
+      "rating1": 5660,
       "rating2": 5330,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 86.9,
+      "win_prob": 86.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "georgia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5665,
-      "rating2": 5273,
+      "rating1": 5660,
+      "rating2": 5260,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 77.9,
+      "win_prob": 78.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5665,
+      "rating1": 5660,
       "rating2": 4937,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 97.0,
+      "win_prob": 96.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "georgia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5665,
-      "rating2": 5273,
+      "rating1": 5660,
+      "rating2": 5260,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 89.4,
+      "win_prob": 89.7,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5665,
+      "rating1": 5660,
       "rating2": 5330,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 73.5,
+      "win_prob": 73.0,
       "type": "fixture"
     },
     {
@@ -139,31 +139,31 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5665,
+      "rating1": 5660,
       "rating2": 4937,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 93.0,
+      "win_prob": 92.9,
       "type": "fixture"
     },
     {
       "date": "2025-06-08",
       "country": "Germany",
-      "tournament": "European League",
+      "tournament": "European Nations League",
       "team1": "Spain",
       "team2": "Portugal",
       "original_team1": "Spain",
       "original_team2": "Portugal",
       "flag1": "spain.png",
       "flag2": "portugal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5665,
-      "rating2": 5588,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5660,
+      "rating2": 5593,
+      "rating_ev": -5,
       "rank": 1,
       "win_prob": 58.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

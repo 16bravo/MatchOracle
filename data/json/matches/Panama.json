@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 580,
-    "wins": 190,
+    "matches_played": 581,
+    "wins": 191,
     "draws": 139,
     "losses": 251,
-    "goals_for": 715,
+    "goals_for": 717,
     "goals_against": 898,
-    "goal_difference": -183,
-    "win_percentage": 32.8,
-    "avg_points": 1.22,
+    "goal_difference": -181,
+    "win_percentage": 32.9,
+    "avg_points": 1.23,
     "best_rank": 39,
     "worst_rank": 167,
-    "avg_rank": 96.8,
+    "avg_rank": 96.73,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "costa_rica.png"
     },
     "home_matches": 197,
-    "away_matches": 223,
+    "away_matches": 224,
     "neutral_matches": 160,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-03-23"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 5117,
+      "rating1": 5104,
       "rating2": 4918,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 70.5,
+      "rank": 56,
+      "win_prob": 69.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "guatemala.png",
       "score1": "",
       "score2": "",
-      "rating1": 5117,
+      "rating1": 5104,
       "rating2": 4912,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 71.1,
+      "rank": 56,
+      "win_prob": 69.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5117,
+      "rating1": 5104,
       "rating2": 4704,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 85.6,
+      "rank": 56,
+      "win_prob": 84.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "nicaragua.png",
       "score1": "",
       "score2": "",
-      "rating1": 5117,
+      "rating1": 5104,
       "rating2": 4735,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 89.0,
+      "rank": 56,
+      "win_prob": 88.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Belize",
       "flag1": "panama.png",
       "flag2": "belize.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5117,
-      "rating2": 4280,
-      "rating_ev": 0,
-      "rank": 53,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5104,
+      "rating2": 4293,
+      "rating_ev": -13,
+      "rank": 56,
       "win_prob": 95.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-23",

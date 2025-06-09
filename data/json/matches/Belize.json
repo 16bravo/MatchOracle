@@ -1,18 +1,18 @@
 {
   "team": "Belize",
   "stats": {
-    "matches_played": 124,
+    "matches_played": 125,
     "wins": 30,
     "draws": 23,
-    "losses": 71,
+    "losses": 72,
     "goals_for": 128,
-    "goals_against": 235,
-    "goal_difference": -107,
-    "win_percentage": 24.2,
-    "avg_points": 0.91,
+    "goals_against": 237,
+    "goal_difference": -109,
+    "win_percentage": 24.0,
+    "avg_points": 0.9,
     "best_rank": 146,
     "worst_rank": 179,
-    "avg_rank": 160.96,
+    "avg_rank": 161.1,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Nicaragua",
@@ -25,11 +25,11 @@
       "date": "1999-03-17",
       "flag": "costa_rica.png"
     },
-    "home_matches": 42,
+    "home_matches": 43,
     "away_matches": 43,
     "neutral_matches": 39,
     "first_match_date": "1928-02-19",
-    "last_match_date": "2025-06-04"
+    "last_match_date": "2025-06-07"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Panama",
       "flag1": "belize.png",
       "flag2": "panama.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4280,
-      "rating2": 5117,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4293,
+      "rating2": 5104,
+      "rating_ev": 13,
       "rank": 179,
       "win_prob": 4.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-04",

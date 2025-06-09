@@ -1,14 +1,14 @@
 {
   "team": "Lesotho",
   "stats": {
-    "matches_played": 330,
+    "matches_played": 331,
     "wins": 66,
     "draws": 100,
-    "losses": 164,
+    "losses": 165,
     "goals_for": 262,
-    "goals_against": 531,
-    "goal_difference": -269,
-    "win_percentage": 20.0,
+    "goals_against": 535,
+    "goal_difference": -273,
+    "win_percentage": 19.9,
     "avg_points": 0.9,
     "best_rank": 127,
     "worst_rank": 175,
@@ -27,9 +27,9 @@
     },
     "home_matches": 109,
     "away_matches": 137,
-    "neutral_matches": 84,
+    "neutral_matches": 85,
     "first_match_date": "1970-08-08",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "namibia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4709,
-      "rating2": 4813,
+      "rating1": 4672,
+      "rating2": 4808,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 38.8,
+      "rank": 147,
+      "win_prob": 35.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Angola",
       "flag1": "lesotho.png",
       "flag2": "angola.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4709,
-      "rating2": 4976,
-      "rating_ev": 0,
-      "rank": 143,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4672,
+      "rating2": 5013,
+      "rating_ev": -37,
+      "rank": 147,
       "win_prob": 23.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

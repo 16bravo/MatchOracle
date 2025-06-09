@@ -1,18 +1,18 @@
 {
   "team": "Portugal",
   "stats": {
-    "matches_played": 685,
+    "matches_played": 686,
     "wins": 341,
-    "draws": 156,
+    "draws": 157,
     "losses": 188,
-    "goals_for": 1198,
-    "goals_against": 770,
+    "goals_for": 1200,
+    "goals_against": 772,
     "goal_difference": 428,
-    "win_percentage": 49.8,
+    "win_percentage": 49.7,
     "avg_points": 1.72,
     "best_rank": 1,
     "worst_rank": 34,
-    "avg_rank": 15.09,
+    "avg_rank": 15.07,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Luxembourg",
@@ -27,9 +27,9 @@
     },
     "home_matches": 317,
     "away_matches": 257,
-    "neutral_matches": 111,
+    "neutral_matches": 112,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2025-06-04"
+    "last_match_date": "2025-06-08"
   },
   "matches": [
     {
@@ -44,7 +44,7 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5588,
+      "rating1": 5593,
       "rating2": 4828,
       "rating_ev": 0,
       "rank": 3,
@@ -63,11 +63,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5588,
+      "rating1": 5593,
       "rating2": 5118,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 82.9,
+      "win_prob": 83.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "hungary.png",
       "score1": "",
       "score2": "",
-      "rating1": 5588,
+      "rating1": 5593,
       "rating2": 5160,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 90.8,
+      "win_prob": 90.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5588,
+      "rating1": 5593,
       "rating2": 5118,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 92.1,
+      "win_prob": 92.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "hungary.png",
       "score1": "",
       "score2": "",
-      "rating1": 5588,
+      "rating1": 5593,
       "rating2": 5160,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 80.3,
+      "win_prob": 80.7,
       "type": "fixture"
     },
     {
@@ -139,31 +139,31 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5588,
+      "rating1": 5593,
       "rating2": 4828,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 93.7,
+      "win_prob": 93.8,
       "type": "fixture"
     },
     {
       "date": "2025-06-08",
       "country": "Germany",
-      "tournament": "European League",
+      "tournament": "European Nations League",
       "team1": "Portugal",
       "team2": "Spain",
       "original_team1": "Portugal",
       "original_team2": "Spain",
       "flag1": "portugal.png",
       "flag2": "spain.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5588,
-      "rating2": 5665,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5593,
+      "rating2": 5660,
+      "rating_ev": 5,
       "rank": 3,
       "win_prob": 41.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-04",

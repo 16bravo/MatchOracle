@@ -1,18 +1,18 @@
 {
   "team": "DR Congo",
   "stats": {
-    "matches_played": 525,
-    "wins": 211,
+    "matches_played": 526,
+    "wins": 212,
     "draws": 147,
     "losses": 167,
-    "goals_for": 800,
-    "goals_against": 625,
-    "goal_difference": 175,
-    "win_percentage": 40.2,
+    "goals_for": 803,
+    "goals_against": 626,
+    "goal_difference": 177,
+    "win_percentage": 40.3,
     "avg_points": 1.49,
     "best_rank": 27,
     "worst_rank": 110,
-    "avg_rank": 67.89,
+    "avg_rank": 67.88,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Zambia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 101,
     "away_matches": 215,
-    "neutral_matches": 209,
+    "neutral_matches": 210,
     "first_match_date": "1948-12-31",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
+      "rating1": 5048,
       "rating2": 4811,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 73.2,
+      "rank": 65,
+      "win_prob": 73.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
+      "rating1": 5048,
       "rating2": 5165,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 36.7,
+      "rank": 65,
+      "win_prob": 37.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
+      "rating1": 5048,
       "rating2": 4893,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 65.7,
+      "rank": 65,
+      "win_prob": 66.4,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Madagascar",
       "flag1": "dr_congo.png",
       "flag2": "madagascar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5041,
-      "rating2": 4815,
-      "rating_ev": 0,
-      "rank": 67,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5048,
+      "rating2": 4808,
+      "rating_ev": 7,
+      "rank": 65,
       "win_prob": 72.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",
