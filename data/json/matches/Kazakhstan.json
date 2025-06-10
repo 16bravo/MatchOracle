@@ -1,18 +1,18 @@
 {
   "team": "Kazakhstan",
   "stats": {
-    "matches_played": 259,
+    "matches_played": 260,
     "wins": 66,
     "draws": 55,
-    "losses": 138,
+    "losses": 139,
     "goals_for": 270,
-    "goals_against": 436,
-    "goal_difference": -166,
-    "win_percentage": 25.5,
-    "avg_points": 0.98,
+    "goals_against": 437,
+    "goal_difference": -167,
+    "win_percentage": 25.4,
+    "avg_points": 0.97,
     "best_rank": 72,
     "worst_rank": 117,
-    "avg_rank": 99.11,
+    "avg_rank": 99.12,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Pakistan",
@@ -25,11 +25,11 @@
       "date": "2021-11-13",
       "flag": "france.png"
     },
-    "home_matches": 97,
+    "home_matches": 98,
     "away_matches": 117,
     "neutral_matches": 45,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 4866,
-      "rating2": 5400,
+      "rating1": 4861,
+      "rating2": 5398,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 13.7,
+      "rank": 100,
+      "win_prob": 13.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4866,
-      "rating2": 5105,
+      "rating1": 4861,
+      "rating2": 5110,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 18.5,
+      "rank": 100,
+      "win_prob": 17.8,
       "type": "fixture"
     },
     {
@@ -82,10 +82,10 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 4866,
-      "rating2": 4398,
+      "rating1": 4861,
+      "rating2": 4391,
       "rating_ev": 0,
-      "rank": 99,
+      "rank": 100,
       "win_prob": 92.1,
       "type": "fixture"
     },
@@ -101,11 +101,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 4866,
-      "rating2": 5400,
+      "rating1": 4861,
+      "rating2": 5398,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 6.2,
+      "rank": 100,
+      "win_prob": 6.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 4866,
-      "rating2": 5219,
+      "rating1": 4861,
+      "rating2": 5221,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 25.1,
+      "rank": 100,
+      "win_prob": 24.5,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "North Macedonia",
       "flag1": "kazakhstan.png",
       "flag2": "macedonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4866,
-      "rating2": 5105,
-      "rating_ev": 0,
-      "rank": 99,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4861,
+      "rating2": 5110,
+      "rating_ev": -5,
+      "rank": 100,
       "win_prob": 35.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

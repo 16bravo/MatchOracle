@@ -1,18 +1,18 @@
 {
   "team": "Eswatini",
   "stats": {
-    "matches_played": 300,
+    "matches_played": 301,
     "wins": 62,
-    "draws": 92,
+    "draws": 93,
     "losses": 146,
-    "goals_for": 253,
-    "goals_against": 490,
+    "goals_for": 254,
+    "goals_against": 491,
     "goal_difference": -237,
-    "win_percentage": 20.7,
+    "win_percentage": 20.6,
     "avg_points": 0.93,
     "best_rank": 119,
     "worst_rank": 184,
-    "avg_rank": 149.62,
+    "avg_rank": 149.6,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 12,
     "away_matches": 122,
-    "neutral_matches": 166,
+    "neutral_matches": 167,
     "first_match_date": "1968-07-20",
-    "last_match_date": "2025-03-23"
+    "last_match_date": "2025-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4695,
+      "rating1": 4702,
       "rating2": 4876,
       "rating_ev": 0,
       "rank": 144,
-      "win_prob": 31.1,
+      "win_prob": 31.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Madagascar",
       "flag1": "eswatini.png",
       "flag2": "madagascar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4695,
-      "rating2": 4808,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4702,
+      "rating2": 4801,
+      "rating_ev": 7,
       "rank": 144,
       "win_prob": 37.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-23",

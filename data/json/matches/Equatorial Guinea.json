@@ -1,18 +1,18 @@
 {
   "team": "Equatorial Guinea",
   "stats": {
-    "matches_played": 182,
+    "matches_played": 183,
     "wins": 53,
-    "draws": 41,
+    "draws": 42,
     "losses": 88,
-    "goals_for": 167,
-    "goals_against": 264,
+    "goals_for": 168,
+    "goals_against": 265,
     "goal_difference": -97,
-    "win_percentage": 29.1,
+    "win_percentage": 29.0,
     "avg_points": 1.1,
     "best_rank": 70,
     "worst_rank": 172,
-    "avg_rank": 127.24,
+    "avg_rank": 127.04,
     "biggest_win": {
       "score": "4-0",
       "opponent": "South Sudan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 78,
     "away_matches": 62,
-    "neutral_matches": 42,
+    "neutral_matches": 43,
     "first_match_date": "1975-05-23",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4886,
+      "rating1": 4891,
       "rating2": 5225,
       "rating_ev": 0,
       "rank": 92,
-      "win_prob": 18.6,
+      "win_prob": 19.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4886,
+      "rating1": 4891,
       "rating2": 4856,
       "rating_ev": 0,
       "rank": 92,
-      "win_prob": 53.3,
+      "win_prob": 53.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4886,
+      "rating1": 4891,
       "rating2": 4994,
       "rating_ev": 0,
       "rank": 92,
-      "win_prob": 38.3,
+      "win_prob": 38.9,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Cameroon",
       "flag1": "eq_guinea.png",
       "flag2": "cameroon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4886,
-      "rating2": 5060,
-      "rating_ev": 0,
-      "rank": 92,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4891,
+      "rating2": 5055,
+      "rating_ev": 5,
+      "rank": 91,
       "win_prob": 31.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

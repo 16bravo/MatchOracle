@@ -1,14 +1,14 @@
 {
   "team": "Madagascar",
   "stats": {
-    "matches_played": 333,
+    "matches_played": 334,
     "wins": 125,
-    "draws": 72,
+    "draws": 73,
     "losses": 136,
-    "goals_for": 456,
-    "goals_against": 502,
+    "goals_for": 457,
+    "goals_against": 503,
     "goal_difference": -46,
-    "win_percentage": 37.5,
+    "win_percentage": 37.4,
     "avg_points": 1.34,
     "best_rank": 78,
     "worst_rank": 158,
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 116,
-    "neutral_matches": 101,
+    "neutral_matches": 102,
     "first_match_date": "1947-12-31",
-    "last_match_date": "2025-06-08"
+    "last_match_date": "2025-06-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Eswatini",
       "flag1": "madagascar.png",
       "flag2": "eswatini.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4808,
-      "rating2": 4695,
-      "rating_ev": 0,
-      "rank": 116,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4801,
+      "rating2": 4702,
+      "rating_ev": -7,
+      "rank": 117,
       "win_prob": 62.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-08",
