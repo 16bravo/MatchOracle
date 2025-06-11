@@ -1,15 +1,15 @@
 {
   "team": "Cura\u00e7ao",
   "stats": {
-    "matches_played": 472,
-    "wins": 192,
+    "matches_played": 473,
+    "wins": 193,
     "draws": 115,
     "losses": 165,
-    "goals_for": 834,
-    "goals_against": 729,
-    "goal_difference": 105,
-    "win_percentage": 40.7,
-    "avg_points": 1.46,
+    "goals_for": 839,
+    "goals_against": 730,
+    "goal_difference": 109,
+    "win_percentage": 40.8,
+    "avg_points": 1.47,
     "best_rank": 57,
     "worst_rank": 182,
     "avg_rank": 121.42,
@@ -27,9 +27,9 @@
     },
     "home_matches": 108,
     "away_matches": 166,
-    "neutral_matches": 198,
+    "neutral_matches": 199,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "honduras.png",
       "score1": "",
       "score2": "",
-      "rating1": 4727,
+      "rating1": 4797,
       "rating2": 4947,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 27.6,
+      "rank": 121,
+      "win_prob": 34.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 4727,
+      "rating1": 4797,
       "rating2": 5271,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 9.0,
+      "rank": 121,
+      "win_prob": 11.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 4727,
+      "rating1": 4797,
       "rating2": 4674,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 55.8,
+      "rank": 121,
+      "win_prob": 63.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Haiti",
       "flag1": "curacao.png",
       "flag2": "haiti.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4727,
-      "rating2": 5016,
-      "rating_ev": 0,
-      "rank": 139,
+      "score1": 5,
+      "score2": 1,
+      "rating1": 4797,
+      "rating2": 4946,
+      "rating_ev": 70,
+      "rank": 120,
       "win_prob": 22.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

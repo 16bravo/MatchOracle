@@ -1,18 +1,18 @@
 {
   "team": "Japan",
   "stats": {
-    "matches_played": 817,
-    "wins": 398,
+    "matches_played": 818,
+    "wins": 399,
     "draws": 166,
     "losses": 253,
-    "goals_for": 1477,
+    "goals_for": 1483,
     "goals_against": 966,
-    "goal_difference": 511,
-    "win_percentage": 48.7,
-    "avg_points": 1.66,
+    "goal_difference": 517,
+    "win_percentage": 48.8,
+    "avg_points": 1.67,
     "best_rank": 10,
     "worst_rank": 196,
-    "avg_rank": 60.58,
+    "avg_rank": 60.51,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Philippines",
@@ -25,11 +25,11 @@
       "date": "1917-05-10",
       "flag": "philippines.png"
     },
-    "home_matches": 325,
+    "home_matches": 326,
     "away_matches": 197,
     "neutral_matches": 295,
     "first_match_date": "1917-05-09",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5419,
-      "rating2": 5235,
+      "rating1": 5447,
+      "rating2": 5208,
       "rating_ev": 0,
-      "rank": 13,
-      "win_prob": 59.1,
+      "rank": 11,
+      "win_prob": 64.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5419,
+      "rating1": 5447,
       "rating2": 5289,
       "rating_ev": 0,
-      "rank": 13,
-      "win_prob": 63.9,
+      "rank": 11,
+      "win_prob": 66.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5419,
-      "rating2": 5180,
+      "rating1": 5447,
+      "rating2": 5202,
       "rating_ev": 0,
-      "rank": 13,
-      "win_prob": 64.7,
+      "rank": 11,
+      "win_prob": 65.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "china.png",
       "score1": "",
       "score2": "",
-      "rating1": 5419,
-      "rating2": 4809,
+      "rating1": 5447,
+      "rating2": 4821,
       "rating_ev": 0,
-      "rank": 13,
-      "win_prob": 92.9,
+      "rank": 11,
+      "win_prob": 93.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 5419,
-      "rating2": 4509,
+      "rating1": 5447,
+      "rating2": 4517,
       "rating_ev": 0,
-      "rank": 13,
-      "win_prob": 97.5,
+      "rank": 11,
+      "win_prob": 97.7,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Indonesia",
       "flag1": "japan.png",
       "flag2": "indonesia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5419,
-      "rating2": 4672,
-      "rating_ev": 0,
-      "rank": 13,
+      "score1": 6,
+      "score2": 0,
+      "rating1": 5447,
+      "rating2": 4644,
+      "rating_ev": 28,
+      "rank": 11,
       "win_prob": 97.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

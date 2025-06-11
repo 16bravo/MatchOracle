@@ -1,18 +1,18 @@
 {
   "team": "Dominican Republic",
   "stats": {
-    "matches_played": 177,
-    "wins": 66,
+    "matches_played": 178,
+    "wins": 67,
     "draws": 28,
     "losses": 83,
-    "goals_for": 284,
+    "goals_for": 289,
     "goals_against": 289,
-    "goal_difference": -5,
-    "win_percentage": 37.3,
-    "avg_points": 1.28,
-    "best_rank": 134,
+    "goal_difference": 0,
+    "win_percentage": 37.6,
+    "avg_points": 1.29,
+    "best_rank": 133,
     "worst_rank": 192,
-    "avg_rank": 172.06,
+    "avg_rank": 171.84,
     "biggest_win": {
       "score": "17-0",
       "opponent": "British Virgin Islands",
@@ -25,11 +25,11 @@
       "date": "2008-10-08",
       "flag": "trinidad.png"
     },
-    "home_matches": 81,
+    "home_matches": 82,
     "away_matches": 60,
     "neutral_matches": 36,
     "first_match_date": "1949-05-14",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 4722,
+      "rating1": 4746,
       "rating2": 4797,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 41.8,
+      "rank": 133,
+      "win_prob": 44.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4722,
+      "rating1": 4746,
       "rating2": 5167,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 12.8,
+      "rank": 133,
+      "win_prob": 14.0,
       "type": "fixture"
     },
     {
@@ -82,16 +82,16 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 4722,
+      "rating1": 4746,
       "rating2": 5289,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 8.2,
+      "rank": 133,
+      "win_prob": 9.0,
       "type": "fixture"
     },
     {
       "date": "2025-06-10",
-      "country": "Dominican Rep",
+      "country": "Dominican Republic",
       "tournament": "World Cup qualifier",
       "team1": "Dominican Republic",
       "team2": "Dominica",
@@ -99,14 +99,14 @@
       "original_team2": "Dominica",
       "flag1": "dominican_rep.png",
       "flag2": "dominica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4722,
-      "rating2": 4105,
-      "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 93.1,
-      "type": "fixture"
+      "score1": 5,
+      "score2": 0,
+      "rating1": 4746,
+      "rating2": 4081,
+      "rating_ev": 24,
+      "rank": 133,
+      "win_prob": 95.4,
+      "type": "past"
     },
     {
       "date": "2025-06-06",

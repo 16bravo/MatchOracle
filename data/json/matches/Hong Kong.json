@@ -1,18 +1,18 @@
 {
   "team": "Hong Kong",
   "stats": {
-    "matches_played": 502,
-    "wins": 178,
+    "matches_played": 503,
+    "wins": 179,
     "draws": 98,
     "losses": 226,
-    "goals_for": 793,
+    "goals_for": 794,
     "goals_against": 843,
-    "goal_difference": -50,
-    "win_percentage": 35.5,
+    "goal_difference": -49,
+    "win_percentage": 35.6,
     "avg_points": 1.26,
     "best_rank": 89,
     "worst_rank": 173,
-    "avg_rank": 140.79,
+    "avg_rank": 140.83,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "1948-03-31",
       "flag": "south_vietnam.png"
     },
-    "home_matches": 177,
+    "home_matches": 178,
     "away_matches": 149,
     "neutral_matches": 176,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4509,
-      "rating2": 4506,
+      "rating1": 4517,
+      "rating2": 4498,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 39.5,
+      "win_prob": 41.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4509,
-      "rating2": 4309,
+      "rating1": 4517,
+      "rating2": 4322,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 78.8,
+      "win_prob": 78.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4509,
-      "rating2": 4196,
+      "rating1": 4517,
+      "rating2": 4183,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 85.8,
+      "win_prob": 86.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4509,
-      "rating2": 4196,
+      "rating1": 4517,
+      "rating2": 4183,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 71.6,
+      "win_prob": 73.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "china.png",
       "score1": "",
       "score2": "",
-      "rating1": 4509,
-      "rating2": 4809,
+      "rating1": 4517,
+      "rating2": 4821,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 21.3,
+      "win_prob": 21.0,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4509,
-      "rating2": 5180,
+      "rating1": 4517,
+      "rating2": 5202,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 3.7,
+      "win_prob": 3.5,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4509,
-      "rating2": 5419,
+      "rating1": 4517,
+      "rating2": 5447,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 2.5,
+      "win_prob": 2.3,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "India",
       "flag1": "hong_kong.png",
       "flag2": "india.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4509,
-      "rating2": 4506,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4517,
+      "rating2": 4498,
+      "rating_ev": 8,
       "rank": 161,
       "win_prob": 61.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

@@ -1,18 +1,18 @@
 {
   "team": "Senegal",
   "stats": {
-    "matches_played": 671,
-    "wins": 300,
+    "matches_played": 672,
+    "wins": 301,
     "draws": 189,
     "losses": 182,
-    "goals_for": 908,
-    "goals_against": 635,
-    "goal_difference": 273,
-    "win_percentage": 44.7,
+    "goals_for": 911,
+    "goals_against": 636,
+    "goal_difference": 275,
+    "win_percentage": 44.8,
     "avg_points": 1.62,
     "best_rank": 32,
     "worst_rank": 98,
-    "avg_rank": 62.47,
+    "avg_rank": 62.44,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Mauritania",
@@ -26,10 +26,10 @@
       "flag": "guinea.png"
     },
     "home_matches": 213,
-    "away_matches": 231,
+    "away_matches": 232,
     "neutral_matches": 227,
     "first_match_date": "1959-12-31",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5165,
+      "rating1": 5192,
       "rating2": 4902,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 75.9,
+      "rank": 43,
+      "win_prob": 78.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5165,
+      "rating1": 5192,
       "rating2": 5048,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 62.6,
+      "rank": 43,
+      "win_prob": 65.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5165,
+      "rating1": 5192,
       "rating2": 4815,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 82.1,
+      "rank": 43,
+      "win_prob": 83.7,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "England",
       "flag1": "senegal.png",
       "flag2": "england.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5165,
-      "rating2": 5525,
-      "rating_ev": 0,
-      "rank": 48,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5192,
+      "rating2": 5498,
+      "rating_ev": 27,
+      "rank": 43,
       "win_prob": 11.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

@@ -1,18 +1,18 @@
 {
   "team": "Cuba",
   "stats": {
-    "matches_played": 493,
+    "matches_played": 494,
     "wins": 187,
     "draws": 115,
-    "losses": 191,
-    "goals_for": 678,
-    "goals_against": 687,
-    "goal_difference": -9,
+    "losses": 192,
+    "goals_for": 679,
+    "goals_against": 689,
+    "goal_difference": -10,
     "win_percentage": 37.9,
     "avg_points": 1.37,
     "best_rank": 49,
     "worst_rank": 173,
-    "avg_rank": 112.03,
+    "avg_rank": 112.12,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Turks and Caicos Islands",
@@ -25,11 +25,11 @@
       "date": "1938-06-12",
       "flag": "sweden.png"
     },
-    "home_matches": 112,
+    "home_matches": 113,
     "away_matches": 211,
     "neutral_matches": 170,
     "first_match_date": "1930-03-16",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Bermuda",
       "flag1": "cuba.png",
       "flag2": "bermuda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4568,
-      "rating2": 4418,
-      "rating_ev": 0,
-      "rank": 158,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4539,
+      "rating2": 4447,
+      "rating_ev": -29,
+      "rank": 159,
       "win_prob": 75.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",
