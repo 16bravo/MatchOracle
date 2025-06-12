@@ -1,18 +1,18 @@
 {
   "team": "Eswatini",
   "stats": {
-    "matches_played": 301,
+    "matches_played": 302,
     "wins": 62,
     "draws": 93,
-    "losses": 146,
-    "goals_for": 254,
-    "goals_against": 491,
-    "goal_difference": -237,
-    "win_percentage": 20.6,
-    "avg_points": 0.93,
+    "losses": 147,
+    "goals_for": 255,
+    "goals_against": 493,
+    "goal_difference": -238,
+    "win_percentage": 20.5,
+    "avg_points": 0.92,
     "best_rank": 119,
     "worst_rank": 184,
-    "avg_rank": 149.6,
+    "avg_rank": 149.57,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 12,
     "away_matches": 122,
-    "neutral_matches": 167,
+    "neutral_matches": 168,
     "first_match_date": "1968-07-20",
-    "last_match_date": "2025-06-09"
+    "last_match_date": "2025-06-11"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Tanzania",
       "flag1": "eswatini.png",
       "flag2": "tanzania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4702,
-      "rating2": 4876,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4698,
+      "rating2": 4880,
+      "rating_ev": -4,
       "rank": 142,
       "win_prob": 31.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-09",

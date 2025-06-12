@@ -1,13 +1,13 @@
 {
   "team": "Costa Rica",
   "stats": {
-    "matches_played": 772,
-    "wins": 351,
+    "matches_played": 773,
+    "wins": 352,
     "draws": 183,
     "losses": 238,
-    "goals_for": 1342,
-    "goals_against": 890,
-    "goal_difference": 452,
+    "goals_for": 1344,
+    "goals_against": 891,
+    "goal_difference": 453,
     "win_percentage": 45.5,
     "avg_points": 1.6,
     "best_rank": 8,
@@ -25,11 +25,11 @@
       "date": "1975-08-17",
       "flag": "mexico.png"
     },
-    "home_matches": 255,
+    "home_matches": 256,
     "away_matches": 274,
     "neutral_matches": 243,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5167,
-      "rating2": 5289,
+      "rating1": 5153,
+      "rating2": 5297,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 36.9,
+      "rank": 48,
+      "win_prob": 34.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 5167,
+      "rating1": 5153,
       "rating2": 4746,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 86.0,
+      "rank": 48,
+      "win_prob": 85.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 5167,
-      "rating2": 4797,
+      "rating1": 5153,
+      "rating2": 4795,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 83.3,
+      "rank": 48,
+      "win_prob": 82.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Trinidad and Tobago",
       "flag1": "costa_rica.png",
       "flag2": "trinidad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5167,
-      "rating2": 4788,
-      "rating_ev": 0,
-      "rank": 47,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5153,
+      "rating2": 4802,
+      "rating_ev": -14,
+      "rank": 48,
       "win_prob": 88.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

@@ -1,18 +1,18 @@
 {
   "team": "El Salvador",
   "stats": {
-    "matches_played": 668,
+    "matches_played": 669,
     "wins": 223,
-    "draws": 149,
+    "draws": 150,
     "losses": 296,
-    "goals_for": 850,
-    "goals_against": 995,
+    "goals_for": 851,
+    "goals_against": 996,
     "goal_difference": -145,
-    "win_percentage": 33.4,
+    "win_percentage": 33.3,
     "avg_points": 1.22,
     "best_rank": 66,
     "worst_rank": 147,
-    "avg_rank": 95.96,
+    "avg_rank": 96.04,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "1982-06-15",
       "flag": "hungary.png"
     },
-    "home_matches": 202,
+    "home_matches": 203,
     "away_matches": 203,
     "neutral_matches": 263,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 4674,
-      "rating2": 5271,
+      "rating1": 4676,
+      "rating2": 5253,
       "rating_ev": 0,
       "rank": 146,
-      "win_prob": 7.4,
+      "win_prob": 8.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "honduras.png",
       "score1": "",
       "score2": "",
-      "rating1": 4674,
-      "rating2": 4947,
+      "rating1": 4676,
+      "rating2": 4921,
       "rating_ev": 0,
       "rank": 146,
-      "win_prob": 23.3,
+      "win_prob": 25.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4674,
+      "rating1": 4676,
       "rating2": 4797,
       "rating_ev": 0,
       "rank": 146,
-      "win_prob": 36.8,
+      "win_prob": 37.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Suriname",
       "flag1": "salvador.png",
       "flag2": "suriname.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4674,
-      "rating2": 4797,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4676,
+      "rating2": 4795,
+      "rating_ev": 2,
       "rank": 146,
       "win_prob": 47.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

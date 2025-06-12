@@ -1,18 +1,18 @@
 {
   "team": "Honduras",
   "stats": {
-    "matches_played": 654,
-    "wins": 258,
+    "matches_played": 655,
+    "wins": 259,
     "draws": 169,
     "losses": 227,
-    "goals_for": 950,
+    "goals_for": 952,
     "goals_against": 843,
-    "goal_difference": 107,
-    "win_percentage": 39.4,
+    "goal_difference": 109,
+    "win_percentage": 39.5,
     "avg_points": 1.44,
     "best_rank": 24,
     "worst_rank": 166,
-    "avg_rank": 69.92,
+    "avg_rank": 69.95,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Nicaragua",
@@ -25,11 +25,11 @@
       "date": "1921-09-14",
       "flag": "guatemala.png"
     },
-    "home_matches": 208,
+    "home_matches": 209,
     "away_matches": 214,
     "neutral_matches": 232,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4947,
+      "rating1": 4921,
       "rating2": 4797,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 65.9,
+      "rank": 84,
+      "win_prob": 63.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 4947,
-      "rating2": 4674,
+      "rating1": 4921,
+      "rating2": 4676,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 76.7,
+      "rank": 84,
+      "win_prob": 74.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 4947,
-      "rating2": 5271,
+      "rating1": 4921,
+      "rating2": 5253,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 13.6,
+      "rank": 84,
+      "win_prob": 13.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Antigua and Barbuda",
       "flag1": "honduras.png",
       "flag2": "antigua.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4947,
-      "rating2": 4070,
-      "rating_ev": 0,
-      "rank": 80,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4921,
+      "rating2": 4096,
+      "rating_ev": -26,
+      "rank": 84,
       "win_prob": 98.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",
