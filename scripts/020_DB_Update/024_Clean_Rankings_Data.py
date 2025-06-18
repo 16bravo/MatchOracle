@@ -10,17 +10,22 @@ points_history['date'] = pd.to_datetime(points_history['date'])
 teams['startDate'] = pd.to_datetime(teams['startDate'])
 teams['endDate'] = pd.to_datetime(teams['endDate'])
 
+# Remove rows with NaN in 'points' column
+points_history = points_history.dropna(subset=['points'])
+
 ## DATA CLEANSING
 # Renaming the teams with their old names
 points_history = pd.merge(points_history, teams[['team','reference_team','startDate','endDate']], on='team')
 valid_data = points_history[((points_history['date'] >= points_history['startDate']) | points_history['startDate'].isna()) &
                          ((points_history['date'] <= points_history['endDate']) | points_history['endDate'].isna())]
 
-ranking_df = valid_data[['date', 'team', 'points']]
+ranking_df = valid_data[['date', 'team', 'points', 'points_off', 'points_def']]
 
 ranking_df = ranking_df.drop_duplicates()
 
 ranking_df.loc[:, 'ranking'] = ranking_df.groupby('date')['points'].rank(ascending=False, method='min')
+ranking_df.loc[:, 'ranking_off'] = ranking_df.groupby('date')['points_off'].rank(ascending=False, method='min')
+ranking_df.loc[:, 'ranking_def'] = ranking_df.groupby('date')['points_def'].rank(ascending=False, method='min')
 
 ranking_df.sort_values(by=['date', 'ranking'], inplace=True)
 
@@ -28,11 +33,15 @@ ranking_df['year'] = ranking_df['date'].dt.year
 ranking_df['month'] = ranking_df['date'].dt.month
 ranking_df['day'] = ranking_df['date'].dt.day
 ranking_df['points'] = ranking_df['points'].astype(int)
+ranking_df['points_off'] = ranking_df['points_off'].astype(int)
+ranking_df['points_def'] = ranking_df['points_def'].astype(int)
 ranking_df['ranking'] = ranking_df['ranking'].astype(int)
+ranking_df['ranking_off'] = ranking_df['ranking_off'].astype(int)
+ranking_df['ranking_def'] = ranking_df['ranking_def'].astype(int)
 
 ranking_df = pd.merge(ranking_df, teams[['team','reference_team']], left_on='team', right_on='team')
 
-ranking_df = ranking_df[['date', 'year', 'month', 'day', 'team', 'reference_team', 'points', 'ranking']]
+ranking_df = ranking_df[['date', 'year', 'month', 'day', 'team', 'reference_team', 'points', 'points_off', 'points_def', 'ranking', 'ranking_off', 'ranking_def']]
 ranking_df = ranking_df.drop_duplicates()
 ranking_df['date'] = ranking_df['date'].dt.strftime("%Y-%m-%d %H:%M:%S")
 ranking_df.sort_values(by=['date', 'ranking'], inplace=True)

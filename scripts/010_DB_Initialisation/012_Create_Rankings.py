@@ -16,7 +16,11 @@ cursor.execute('''
         team VARCHAR(50) NOT NULL,
         reference_team VARCHAR(50) NULL,
         points INTEGER NOT NULL,
-        ranking INTEGER NOT NULL
+        points_off INTEGER NOT NULL,
+        points_def INTEGER NOT NULL,
+        ranking INTEGER NOT NULL,
+        ranking_off INTEGER NOT NULL,
+        ranking_def INTEGER NOT NULL
     );
 ''')
 

@@ -20,7 +20,17 @@ cursor.execute('''
         rating2 INTEGER,
         rank1 INTEGER,
         rank2 INTEGER,
+        off_rating1 INTEGER,
+        off_rating2 INTEGER,
+        def_rating1 INTEGER,
+        def_rating2 INTEGER,
+        off_rank1 INTEGER,
+        off_rank2 INTEGER,
+        def_rank1 INTEGER,
+        def_rank2 INTEGER,
         expected_result FLOAT,
+        expected_score_1 FLOAT,
+        expected_score_2 FLOAT,
         neutral BOOLEAN NOT NULL
     );
 ''')

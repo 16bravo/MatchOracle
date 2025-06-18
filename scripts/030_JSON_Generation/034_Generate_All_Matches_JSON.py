@@ -18,16 +18,56 @@ cursor.execute(f'''
            t1.flag as flag1, t2.flag as flag2, m.score1, m.score2, m.rating1, m.rating2, m.rating_ev,
            m.rank1, m.rank2, m.expected_result, m.neutral, "past" as type
     FROM matches m
-    LEFT JOIN Teams t1 ON (m.original_team1 = t1.team)
-    LEFT JOIN Teams t2 ON (m.original_team2 = t2.team)
+    LEFT JOIN Teams t1 ON (
+        m.original_team1 = t1.team
+        AND (t1.startDate IS NULL OR m.date >= DATE(t1.startDate))
+        AND (t1.endDate IS NULL OR m.date <= DATE(t1.endDate))
+        AND t1.priority = (
+            SELECT MIN(priority) FROM Teams
+            WHERE team = m.original_team1
+              AND (startDate IS NULL OR m.date >= DATE(startDate))
+              AND (endDate IS NULL OR m.date <= DATE(endDate))
+        )
+    )
+    LEFT JOIN Teams t2 ON (
+        m.original_team2 = t2.team
+        AND (t2.startDate IS NULL OR m.date >= DATE(t2.startDate))
+        AND (t2.endDate IS NULL OR m.date <= DATE(t2.endDate))
+        AND t2.priority = (
+            SELECT MIN(priority) FROM Teams
+            WHERE team = m.original_team2
+              AND (startDate IS NULL OR m.date >= DATE(startDate))
+              AND (endDate IS NULL OR m.date <= DATE(endDate))
+        )
+    )
     WHERE m.date >= ?
     UNION
     SELECT f.date, f.country, f.tournament, f.team1, f.team2, f.original_team1, f.original_team2,
            t1.flag as flag1, t2.flag as flag2, "" as score1, "" as score2, f.rating1, f.rating2, 0 as rating_ev,
            f.rank1, f.rank2, f.expected_result, f.neutral, "fixture" as type
     FROM fixtures f
-    LEFT JOIN Teams t1 ON (f.original_team1 = t1.team)
-    LEFT JOIN Teams t2 ON (f.original_team2 = t2.team)
+    LEFT JOIN Teams t1 ON (
+        f.original_team1 = t1.team
+        AND (t1.startDate IS NULL OR f.date >= DATE(t1.startDate))
+        AND (t1.endDate IS NULL OR f.date <= DATE(t1.endDate))
+        AND t1.priority = (
+            SELECT MIN(priority) FROM Teams
+            WHERE team = f.original_team1
+              AND (startDate IS NULL OR f.date >= DATE(startDate))
+              AND (endDate IS NULL OR f.date <= DATE(endDate))
+        )
+    )
+    LEFT JOIN Teams t2 ON (
+        f.original_team2 = t2.team
+        AND (t2.startDate IS NULL OR f.date >= DATE(t2.startDate))
+        AND (t2.endDate IS NULL OR f.date <= DATE(t2.endDate))
+        AND t2.priority = (
+            SELECT MIN(priority) FROM Teams
+            WHERE team = f.original_team2
+              AND (startDate IS NULL OR f.date >= DATE(startDate))
+              AND (endDate IS NULL OR f.date <= DATE(endDate))
+        )
+    )
     ORDER BY date DESC
 ''', (one_year_ago,))
 

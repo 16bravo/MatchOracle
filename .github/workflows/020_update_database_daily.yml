@@ -51,9 +51,9 @@ jobs:
         if: steps.check-db.outputs.update_ok == 'true'
         run: python scripts/020_DB_Update/022_Calculate_Matches_Points.py
 
-      - name: Run Annual Ranking Calculation script
+      - name: Run Monthly Ranking Calculation script
         if: steps.check-db.outputs.update_ok == 'true'
-        run: python scripts/020_DB_Update/023_Calculate_Annual_Ranking.py
+        run: python scripts/020_DB_Update/023_Calculate_Monthly_Ranking.py
 
       - name: Run Ranking Dataset Cleaning script
         if: steps.check-db.outputs.update_ok == 'true'

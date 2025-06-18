@@ -41,6 +41,10 @@ valid_matches = teams_matches[(teams_matches['tricode_x'].notna()) & (teams_matc
 matches_filtered = valid_matches[['match_id']]
 matches = pd.merge(matches, matches_filtered, how='inner', on='match_id')
 matches = matches.sort_values(by='match_id', ascending=True)
+# Deduplication of columns identifying a match
+matches = matches.drop_duplicates(subset=[
+    'date', 'home_team', 'away_team', 'home_score', 'away_score', 'tournament', 'country'
+])
 
 ## LOAD DATA IF EXISTS
 matches['home_points_before'] = None
@@ -51,6 +55,20 @@ matches['home_points_after'] = None
 matches['away_points_after'] = None
 matches['home_rank'] = None
 matches['away_rank'] = None
+matches['home_points_off_before'] = None
+matches['away_points_off_before'] = None
+matches['home_points_def_before'] = None
+matches['away_points_def_before'] = None
+matches['expected_score_1'] = None
+matches['expected_score_2'] = None
+matches['home_points_off_after'] = None
+matches['away_points_off_after'] = None
+matches['home_points_def_after'] = None
+matches['away_points_def_after'] = None
+matches['home_rank_off'] = None
+matches['away_rank_off'] = None
+matches['home_rank_def'] = None
+matches['away_rank_def'] = None
 
 # Load last team level from database. If database does not exist then load from the Excel File
 # Check if the Rankings table is empty
@@ -71,8 +89,15 @@ if result[0] == 0:
     teams_last_level['reference_team'] = teams_excel['reference_team'].unique()
 
     # Get the init points (base) for each team
-    teams_last_level = teams_last_level.merge(teams_excel[['reference_team','base']].drop_duplicates(subset = ['reference_team','base']), on='reference_team')
-    teams_last_level = teams_last_level.rename(columns={'base': 'points'})
+    teams_last_level = teams_last_level.merge(
+        teams_excel[['reference_team','base','base_off','base_def']].drop_duplicates(subset = ['reference_team','base','base_off','base_def']),
+        on='reference_team'
+    )
+    teams_last_level = teams_last_level.rename(columns={
+        'base': 'points',
+        'base_off': 'points_off',
+        'base_def': 'points_def'
+    })
 
     # Convert the match date to datetime
     matches['date'] = pd.to_datetime(matches['date'])
@@ -125,6 +150,8 @@ else:
 
     teams_last_level['reference_team'] = teams_sql['reference_team']
     teams_last_level['points'] = teams_sql['points']
+    teams_last_level['points_off'] = teams_sql['points_off']
+    teams_last_level['points_def'] = teams_sql['points_def']
 
 conn.close()
 

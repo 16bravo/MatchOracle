@@ -1,6 +1,8 @@
 document.addEventListener('DOMContentLoaded', function () {
     const yearSelect = document.getElementById('yearSelect');
+    const monthSelect = document.getElementById('monthSelect');
     const currentYear = new Date().getFullYear();
+    const currentMonth = (new Date().getMonth() + 1).toString().padStart(2, '0');
 
     // Add an option for the current year (Latest)
     const latestOption = document.createElement('option');
@@ -9,12 +11,28 @@ document.addEventListener('DOMContentLoaded', function () {
     yearSelect.appendChild(latestOption);
 
     // Add options for years from 1872 to current year
-    for (let year = currentYear-1; year >= 1872; year--) {
+    for (let year = currentYear; year >= 1872; year--) {
         const option = document.createElement('option');
         option.value = year.toString();
         option.textContent = year.toString();
         yearSelect.appendChild(option);
     }
+    yearSelect.value = currentYear;
+
+    // Generate month list
+    const months = [
+        { value: '01', name: 'January' }, { value: '02', name: 'February' }, { value: '03', name: 'March' },
+        { value: '04', name: 'April' }, { value: '05', name: 'May' }, { value: '06', name: 'June' },
+        { value: '07', name: 'July' }, { value: '08', name: 'August' }, { value: '09', name: 'September' },
+        { value: '10', name: 'October' }, { value: '11', name: 'November' }, { value: '12', name: 'December' }
+    ];
+    months.forEach(m => {
+        const opt = document.createElement('option');
+        opt.value = m.value;
+        opt.textContent = m.name;
+        monthSelect.appendChild(opt);
+    });
+    monthSelect.value = currentMonth;
 
     // Default JSON file path
     let jsonFilePath = 'data/json/rankings/LatestRankings.json';
@@ -68,9 +86,47 @@ document.addEventListener('DOMContentLoaded', function () {
             if (selectedYear === 'latest') {
                 jsonFilePath = 'data/json/rankings/LatestRankings.json';
             } else {
-                jsonFilePath = `data/json/rankings/${selectedYear}Rankings.json`;
+                jsonFilePath = `data/json/rankings/${selectedYear}01Rankings.json`;
             };
-            console.log(selectedYear);
+            console.log(selectedYear+selectedMonth);
+
+            // Empty existing table
+            dataTable.clear().draw();
+
+            // Load the new JSON and update the table
+            loadJSON(jsonFilePath).then(newJsonData => {
+                // console.log(newJsonData.year);
+                // console.log(newJsonData.latest_date[0]);
+
+                latestDateSpan.textContent = newJsonData.latest_date[0];
+
+                const rankingArray = newJsonData.rankings || [];
+                rankingArray.forEach(newItem => {
+                    const newRow = dataTable.row.add([
+                        newItem.ranking,
+                        `<a data-toggle="tooltip" title="${newItem.ranking_change >= 0 ? '+' : ''}${newItem.ranking_change}">
+                        ${newItem.ranking_change !== 0 ? `<i class="${newItem.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${newItem.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
+                        </a>`,
+                        `<img src="img/flags/${newItem.flag}" alt="${newItem.team}" class="flag-mini">`,
+                        `<a href="matches.html?team=${newItem.reference_team.replace(/&/g, "%26")}">${newItem.team}</a>`,
+                        newItem.points,
+                        newItem.points_change,
+                        newItem.confederation
+                    ]).draw(false).node();
+                });
+            });
+        });
+
+        // Add an event manager to change the month
+        monthSelect.addEventListener('change', function () {
+            const selectedYear = document.getElementById('yearSelect').value;
+            const selectedMonth = this.value;
+            if (selectedYear === 'latest') {
+                jsonFilePath = 'data/json/rankings/LatestRankings.json';
+            } else {
+                jsonFilePath = `data/json/rankings/${selectedYear}${selectedMonth}Rankings.json`;
+            };
+            console.log(selectedYear+selectedMonth);
 
             // Empty existing table
             dataTable.clear().draw();
