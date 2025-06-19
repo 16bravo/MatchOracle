@@ -1,18 +1,18 @@
 {
   "team": "Mozambique",
   "stats": {
-    "matches_played": 402,
+    "matches_played": 404,
     "wins": 124,
     "draws": 106,
-    "losses": 172,
-    "goals_for": 408,
-    "goals_against": 514,
-    "goal_difference": -106,
-    "win_percentage": 30.8,
-    "avg_points": 1.19,
+    "losses": 174,
+    "goals_for": 409,
+    "goals_against": 519,
+    "goal_difference": -110,
+    "win_percentage": 30.7,
+    "avg_points": 1.18,
     "best_rank": 79,
     "worst_rank": 143,
-    "avg_rank": 112.86,
+    "avg_rank": 112.76,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lesotho",
@@ -26,10 +26,10 @@
       "flag": "rhodesia.png"
     },
     "home_matches": 151,
-    "away_matches": 159,
-    "neutral_matches": 92,
+    "away_matches": 160,
+    "neutral_matches": 93,
     "first_match_date": "1975-06-25",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4905,
-      "rating2": 5059,
+      "rating1": 4867,
+      "rating2": 5054,
       "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 33.7,
+      "rank": 97,
+      "win_prob": 30.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4905,
-      "rating2": 4887,
+      "rating1": 4867,
+      "rating2": 4897,
       "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 52.0,
+      "rank": 97,
+      "win_prob": 46.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4905,
-      "rating2": 5054,
+      "rating1": 4867,
+      "rating2": 5072,
       "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 34.2,
+      "rank": 97,
+      "win_prob": 28.9,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Zimbabwe",
       "flag1": "mozambique.png",
       "flag2": "zimbabwe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4905,
-      "rating2": 4840,
-      "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 57.1,
-      "type": "fixture"
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4867,
+      "rating2": 4872,
+      "rating_ev": -31,
+      "rank": 98,
+      "win_prob": 56.2,
+      "type": "past"
     },
     {
       "date": "2025-06-10",
@@ -118,14 +118,14 @@
       "original_team2": "South Africa",
       "flag1": "mozambique.png",
       "flag2": "south_africa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4905,
-      "rating2": 5024,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4898,
+      "rating2": 5031,
+      "rating_ev": -7,
       "rank": 87,
       "win_prob": 27.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

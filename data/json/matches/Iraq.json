@@ -1,18 +1,18 @@
 {
   "team": "Iraq",
   "stats": {
-    "matches_played": 741,
-    "wins": 348,
+    "matches_played": 742,
+    "wins": 349,
     "draws": 209,
     "losses": 184,
-    "goals_for": 1178,
+    "goals_for": 1179,
     "goals_against": 691,
-    "goal_difference": 487,
+    "goal_difference": 488,
     "win_percentage": 47.0,
     "avg_points": 1.69,
     "best_rank": 34,
     "worst_rank": 101,
-    "avg_rank": 62.56,
+    "avg_rank": 62.58,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Ethiopia",
@@ -26,14 +26,14 @@
       "flag": "brazil.png"
     },
     "home_matches": 137,
-    "away_matches": 226,
+    "away_matches": 227,
     "neutral_matches": 378,
     "first_match_date": "1944-03-05",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
-      "date": "2025-12-09",
+      "date": "2025-12-19",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Iraq",
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4897,
-      "rating2": 5223,
+      "rating1": 4928,
+      "rating2": 5222,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 19.5,
+      "rank": 82,
+      "win_prob": 21.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Jordan",
       "flag1": "iraq.png",
       "flag2": "jordan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4897,
-      "rating2": 5082,
-      "rating_ev": 0,
-      "rank": 88,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4928,
+      "rating2": 5051,
+      "rating_ev": 31,
+      "rank": 83,
       "win_prob": 22.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

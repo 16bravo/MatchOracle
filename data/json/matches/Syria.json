@@ -1,18 +1,18 @@
 {
   "team": "Syria",
   "stats": {
-    "matches_played": 567,
-    "wins": 209,
+    "matches_played": 568,
+    "wins": 210,
     "draws": 138,
     "losses": 220,
-    "goals_for": 810,
+    "goals_for": 811,
     "goals_against": 730,
-    "goal_difference": 80,
-    "win_percentage": 36.9,
+    "goal_difference": 81,
+    "win_percentage": 37.0,
     "avg_points": 1.35,
     "best_rank": 61,
     "worst_rank": 116,
-    "avg_rank": 88.77,
+    "avg_rank": 88.81,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Oman",
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 211,
-    "neutral_matches": 240,
+    "neutral_matches": 241,
     "first_match_date": "1944-03-10",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,15 +44,15 @@
       "flag2": "afghanistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4828,
-      "rating2": 4322,
+      "rating1": 4813,
+      "rating2": 4337,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 89.7,
+      "rank": 113,
+      "win_prob": 88.5,
       "type": "fixture"
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-19",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Syria",
@@ -63,11 +63,11 @@
       "flag2": "south_sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4828,
+      "rating1": 4813,
       "rating2": 4614,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 71.9,
+      "rank": 113,
+      "win_prob": 70.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4828,
-      "rating2": 4127,
+      "rating1": 4813,
+      "rating2": 4132,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 92.3,
+      "rank": 113,
+      "win_prob": 91.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4828,
-      "rating2": 4127,
+      "rating1": 4813,
+      "rating2": 4132,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 94.9,
+      "rank": 113,
+      "win_prob": 94.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Afghanistan",
       "flag1": "syria.png",
       "flag2": "afghanistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4828,
-      "rating2": 4322,
-      "rating_ev": 0,
-      "rank": 108,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4813,
+      "rating2": 4337,
+      "rating_ev": -15,
+      "rank": 113,
       "win_prob": 89.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

@@ -1,18 +1,18 @@
 {
   "team": "Palestine",
   "stats": {
-    "matches_played": 277,
+    "matches_played": 278,
     "wins": 79,
-    "draws": 71,
+    "draws": 72,
     "losses": 127,
-    "goals_for": 355,
-    "goals_against": 437,
+    "goals_for": 356,
+    "goals_against": 438,
     "goal_difference": -82,
-    "win_percentage": 28.5,
+    "win_percentage": 28.4,
     "avg_points": 1.11,
     "best_rank": 64,
     "worst_rank": 159,
-    "avg_rank": 128.94,
+    "avg_rank": 128.82,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Guam",
@@ -27,13 +27,13 @@
     },
     "home_matches": 18,
     "away_matches": 109,
-    "neutral_matches": 150,
+    "neutral_matches": 151,
     "first_match_date": "1934-03-16",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
-      "date": "2025-11-09",
+      "date": "2025-11-19",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Palestine",
@@ -44,11 +44,11 @@
       "flag2": "libya.png",
       "score1": "",
       "score2": "",
-      "rating1": 4870,
+      "rating1": 4869,
       "rating2": 4853,
       "rating_ev": 0,
-      "rank": 96,
-      "win_prob": 51.9,
+      "rank": 95,
+      "win_prob": 51.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Oman",
       "flag1": "palestine.png",
       "flag2": "oman.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4870,
-      "rating2": 4857,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4869,
+      "rating2": 4858,
+      "rating_ev": -1,
       "rank": 96,
       "win_prob": 51.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

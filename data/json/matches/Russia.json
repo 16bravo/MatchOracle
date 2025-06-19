@@ -1,18 +1,18 @@
 {
   "team": "Russia",
   "stats": {
-    "matches_played": 765,
-    "wins": 398,
+    "matches_played": 766,
+    "wins": 399,
     "draws": 199,
     "losses": 168,
-    "goals_for": 1369,
-    "goals_against": 747,
-    "goal_difference": 622,
-    "win_percentage": 52.0,
+    "goals_for": 1373,
+    "goals_against": 748,
+    "goal_difference": 625,
+    "win_percentage": 52.1,
     "avg_points": 1.82,
     "best_rank": 1,
     "worst_rank": 38,
-    "avg_rank": 13.89,
+    "avg_rank": 13.9,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Australia",
@@ -26,10 +26,10 @@
       "flag": "germany_1.png"
     },
     "home_matches": 156,
-    "away_matches": 356,
+    "away_matches": 357,
     "neutral_matches": 253,
     "first_match_date": "1912-06-30",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,8 +44,8 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 5360,
-      "rating2": 5174,
+      "rating1": 5372,
+      "rating2": 5186,
       "rating_ev": 0,
       "rank": 20,
       "win_prob": 59.3,
@@ -61,14 +61,14 @@
       "original_team2": "Belarus",
       "flag1": "russia.png",
       "flag2": "belarus.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5360,
-      "rating2": 4991,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5372,
+      "rating2": 4979,
+      "rating_ev": 12,
       "rank": 20,
       "win_prob": 76.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

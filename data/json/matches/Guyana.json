@@ -1,18 +1,18 @@
 {
   "team": "Guyana",
   "stats": {
-    "matches_played": 446,
-    "wins": 137,
+    "matches_played": 447,
+    "wins": 138,
     "draws": 89,
     "losses": 220,
-    "goals_for": 569,
+    "goals_for": 572,
     "goals_against": 776,
-    "goal_difference": -207,
-    "win_percentage": 30.7,
-    "avg_points": 1.12,
+    "goal_difference": -204,
+    "win_percentage": 30.9,
+    "avg_points": 1.13,
     "best_rank": 15,
     "worst_rank": 184,
-    "avg_rank": 120.98,
+    "avg_rank": 121.05,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "1952-02-17",
       "flag": "netherlands.png"
     },
-    "home_matches": 109,
+    "home_matches": 110,
     "away_matches": 190,
     "neutral_matches": 147,
     "first_match_date": "1905-07-21",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Montserrat",
       "flag1": "guyana.png",
       "flag2": "montserrat.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4616,
-      "rating2": 4223,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4628,
+      "rating2": 4211,
+      "rating_ev": 12,
       "rank": 151,
       "win_prob": 89.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

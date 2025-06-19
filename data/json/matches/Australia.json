@@ -1,18 +1,18 @@
 {
   "team": "Australia",
   "stats": {
-    "matches_played": 620,
-    "wins": 320,
+    "matches_played": 621,
+    "wins": 321,
     "draws": 130,
     "losses": 170,
-    "goals_for": 1265,
-    "goals_against": 680,
-    "goal_difference": 585,
-    "win_percentage": 51.6,
+    "goals_for": 1267,
+    "goals_against": 681,
+    "goal_difference": 586,
+    "win_percentage": 51.7,
     "avg_points": 1.76,
     "best_rank": 15,
     "worst_rank": 73,
-    "avg_rank": 37.9,
+    "avg_rank": 37.89,
     "biggest_win": {
       "score": "31-0",
       "opponent": "Eastern Samoa",
@@ -26,10 +26,10 @@
       "flag": "ussr.png"
     },
     "home_matches": 260,
-    "away_matches": 220,
+    "away_matches": 221,
     "neutral_matches": 140,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Saudi Arabia",
       "flag1": "australia.png",
       "flag2": "saudi_arabia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5232,
-      "rating2": 5012,
-      "rating_ev": 0,
-      "rank": 36,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5239,
+      "rating2": 5005,
+      "rating_ev": 7,
+      "rank": 33,
       "win_prob": 62.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

@@ -1,18 +1,18 @@
 {
   "team": "Ivory Coast",
   "stats": {
-    "matches_played": 658,
+    "matches_played": 659,
     "wins": 333,
-    "draws": 167,
+    "draws": 168,
     "losses": 158,
     "goals_for": 1064,
     "goals_against": 657,
     "goal_difference": 407,
-    "win_percentage": 50.6,
+    "win_percentage": 50.5,
     "avg_points": 1.77,
     "best_rank": 11,
     "worst_rank": 80,
-    "avg_rank": 46.71,
+    "avg_rank": 46.73,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Central African Republic",
@@ -26,10 +26,10 @@
       "flag": "netherlands.png"
     },
     "home_matches": 228,
-    "away_matches": 221,
+    "away_matches": 222,
     "neutral_matches": 209,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5054,
-      "rating2": 4887,
+      "rating1": 5072,
+      "rating2": 4897,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 67.6,
+      "rank": 62,
+      "win_prob": 68.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5054,
-      "rating2": 5059,
+      "rating1": 5072,
+      "rating2": 5054,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 49.4,
+      "rank": 62,
+      "win_prob": 52.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 5054,
-      "rating2": 4905,
+      "rating1": 5072,
+      "rating2": 4867,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 65.8,
+      "rank": 62,
+      "win_prob": 71.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Canada",
       "flag1": "ivory_coast.png",
       "flag2": "canada.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5054,
-      "rating2": 5270,
-      "rating_ev": 0,
-      "rank": 63,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5072,
+      "rating2": 5252,
+      "rating_ev": 18,
+      "rank": 61,
       "win_prob": 20.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

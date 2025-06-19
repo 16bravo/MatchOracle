@@ -1,15 +1,15 @@
 {
   "team": "Iran",
   "stats": {
-    "matches_played": 666,
-    "wins": 380,
+    "matches_played": 667,
+    "wins": 381,
     "draws": 155,
     "losses": 131,
-    "goals_for": 1265,
+    "goals_for": 1268,
     "goals_against": 522,
-    "goal_difference": 743,
+    "goal_difference": 746,
     "win_percentage": 57.1,
-    "avg_points": 1.94,
+    "avg_points": 1.95,
     "best_rank": 12,
     "worst_rank": 104,
     "avg_rank": 42.36,
@@ -25,11 +25,11 @@
       "date": "1950-05-28",
       "flag": "turkey.png"
     },
-    "home_matches": 224,
+    "home_matches": 225,
     "away_matches": 191,
     "neutral_matches": 251,
     "first_match_date": "1941-08-23",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5174,
+      "rating1": 5186,
       "rating2": 5118,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 66.5,
+      "rank": 44,
+      "win_prob": 67.7,
       "type": "fixture"
     },
     {
@@ -63,10 +63,10 @@
       "flag2": "russia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5174,
-      "rating2": 5360,
+      "rating1": 5186,
+      "rating2": 5372,
       "rating_ev": 0,
-      "rank": 45,
+      "rank": 44,
       "win_prob": 40.7,
       "type": "fixture"
     },
@@ -80,14 +80,14 @@
       "original_team2": "North Korea",
       "flag1": "iran.png",
       "flag2": "north_korea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5174,
-      "rating2": 4785,
-      "rating_ev": 0,
-      "rank": 45,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5186,
+      "rating2": 4773,
+      "rating_ev": 12,
+      "rank": 43,
       "win_prob": 89.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

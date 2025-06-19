@@ -1,9 +1,9 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 589,
+    "matches_played": 590,
     "wins": 181,
-    "draws": 154,
+    "draws": 155,
     "losses": 254,
     "goals_for": 712,
     "goals_against": 899,
@@ -12,7 +12,7 @@
     "avg_points": 1.18,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 35.14,
+    "avg_rank": 35.1,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 182,
-    "away_matches": 205,
+    "away_matches": 206,
     "neutral_matches": 202,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5404,
-      "rating2": 5289,
+      "rating1": 5400,
+      "rating2": 5279,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 51.7,
+      "rank": 14,
+      "win_prob": 52.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5404,
-      "rating2": 5630,
+      "rating1": 5400,
+      "rating2": 5614,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 36.6,
+      "rank": 14,
+      "win_prob": 37.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5404,
-      "rating2": 5318,
+      "rating1": 5400,
+      "rating2": 5321,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 48.5,
+      "rank": 14,
+      "win_prob": 47.7,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Peru",
       "flag1": "ecuador.png",
       "flag2": "peru.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5404,
-      "rating2": 5246,
-      "rating_ev": 0,
-      "rank": 12,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5400,
+      "rating2": 5250,
+      "rating_ev": -4,
+      "rank": 14,
       "win_prob": 56.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

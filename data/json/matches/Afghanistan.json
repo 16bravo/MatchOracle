@@ -1,14 +1,14 @@
 {
   "team": "Afghanistan",
   "stats": {
-    "matches_played": 156,
+    "matches_played": 157,
     "wins": 36,
     "draws": 36,
-    "losses": 84,
+    "losses": 85,
     "goals_for": 148,
-    "goals_against": 322,
-    "goal_difference": -174,
-    "win_percentage": 23.1,
+    "goals_against": 323,
+    "goal_difference": -175,
+    "win_percentage": 22.9,
     "avg_points": 0.92,
     "best_rank": 86,
     "worst_rank": 200,
@@ -27,9 +27,9 @@
     },
     "home_matches": 9,
     "away_matches": 61,
-    "neutral_matches": 86,
+    "neutral_matches": 87,
     "first_match_date": "1941-08-24",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4322,
-      "rating2": 4828,
+      "rating1": 4337,
+      "rating2": 4813,
       "rating_ev": 0,
-      "rank": 176,
-      "win_prob": 10.3,
+      "rank": 175,
+      "win_prob": 11.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4322,
-      "rating2": 4127,
+      "rating1": 4337,
+      "rating2": 4132,
       "rating_ev": 0,
-      "rank": 176,
-      "win_prob": 70.2,
+      "rank": 175,
+      "win_prob": 71.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "pakistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4322,
-      "rating2": 4069,
+      "rating1": 4337,
+      "rating2": 4064,
       "rating_ev": 0,
-      "rank": 176,
-      "win_prob": 75.1,
+      "rank": 175,
+      "win_prob": 76.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "pakistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4322,
-      "rating2": 4069,
+      "rating1": 4337,
+      "rating2": 4064,
       "rating_ev": 0,
-      "rank": 176,
-      "win_prob": 66.1,
+      "rank": 175,
+      "win_prob": 68.0,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Syria",
       "flag1": "afghanistan.png",
       "flag2": "syria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4322,
-      "rating2": 4828,
-      "rating_ev": 0,
-      "rank": 176,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4337,
+      "rating2": 4813,
+      "rating_ev": 15,
+      "rank": 175,
       "win_prob": 10.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

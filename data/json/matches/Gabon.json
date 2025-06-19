@@ -1,14 +1,14 @@
 {
   "team": "Gabon",
   "stats": {
-    "matches_played": 441,
-    "wins": 152,
+    "matches_played": 442,
+    "wins": 153,
     "draws": 125,
     "losses": 164,
-    "goals_for": 516,
+    "goals_for": 518,
     "goals_against": 531,
-    "goal_difference": -15,
-    "win_percentage": 34.5,
+    "goal_difference": -13,
+    "win_percentage": 34.6,
     "avg_points": 1.32,
     "best_rank": 63,
     "worst_rank": 116,
@@ -27,9 +27,9 @@
     },
     "home_matches": 177,
     "away_matches": 148,
-    "neutral_matches": 116,
+    "neutral_matches": 117,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4887,
-      "rating2": 5054,
+      "rating1": 4897,
+      "rating2": 5072,
       "rating_ev": 0,
-      "rank": 90,
-      "win_prob": 32.4,
+      "rank": 86,
+      "win_prob": 31.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 4887,
-      "rating2": 4905,
+      "rating1": 4897,
+      "rating2": 4867,
       "rating_ev": 0,
-      "rank": 90,
-      "win_prob": 48.0,
+      "rank": 86,
+      "win_prob": 53.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4887,
-      "rating2": 5059,
+      "rating1": 4897,
+      "rating2": 5054,
       "rating_ev": 0,
-      "rank": 90,
-      "win_prob": 32.0,
+      "rank": 86,
+      "win_prob": 33.4,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Guinea-Bissau",
       "flag1": "gabon.png",
       "flag2": "guinea_bissau.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4887,
-      "rating2": 4765,
-      "rating_ev": 0,
-      "rank": 90,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4897,
+      "rating2": 4755,
+      "rating_ev": 10,
+      "rank": 89,
       "win_prob": 63.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

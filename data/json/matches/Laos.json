@@ -1,18 +1,18 @@
 {
   "team": "Laos",
   "stats": {
-    "matches_played": 229,
-    "wins": 41,
+    "matches_played": 230,
+    "wins": 42,
     "draws": 35,
     "losses": 153,
-    "goals_for": 231,
-    "goals_against": 725,
-    "goal_difference": -494,
-    "win_percentage": 17.9,
-    "avg_points": 0.69,
+    "goals_for": 233,
+    "goals_against": 726,
+    "goal_difference": -493,
+    "win_percentage": 18.3,
+    "avg_points": 0.7,
     "best_rank": 149,
     "worst_rank": 207,
-    "avg_rank": 191.77,
+    "avg_rank": 191.83,
     "biggest_win": {
       "score": "6-1",
       "opponent": "East Timor",
@@ -25,11 +25,11 @@
       "date": "1963-11-15",
       "flag": null
     },
-    "home_matches": 45,
+    "home_matches": 46,
     "away_matches": 67,
     "neutral_matches": 117,
     "first_match_date": "1961-12-12",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "nepal.png",
       "score1": "",
       "score2": "",
-      "rating1": 3912,
-      "rating2": 4156,
+      "rating1": 3935,
+      "rating2": 4133,
       "rating_ev": 0,
       "rank": 204,
-      "win_prob": 18.2,
+      "win_prob": 21.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 3912,
-      "rating2": 4739,
+      "rating1": 3935,
+      "rating2": 4679,
       "rating_ev": 0,
       "rank": 204,
-      "win_prob": 5.0,
+      "win_prob": 6.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "malaysia.png",
       "score1": "",
       "score2": "",
-      "rating1": 3912,
-      "rating2": 4532,
+      "rating1": 3935,
+      "rating2": 4592,
       "rating_ev": 0,
       "rank": 204,
-      "win_prob": 4.5,
+      "win_prob": 3.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "malaysia.png",
       "score1": "",
       "score2": "",
-      "rating1": 3912,
-      "rating2": 4532,
+      "rating1": 3935,
+      "rating2": 4592,
       "rating_ev": 0,
       "rank": 204,
-      "win_prob": 10.2,
+      "win_prob": 9.0,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Nepal",
       "flag1": "laos.png",
       "flag2": "nepal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3912,
-      "rating2": 4156,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 3935,
+      "rating2": 4133,
+      "rating_ev": 23,
       "rank": 204,
       "win_prob": 34.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

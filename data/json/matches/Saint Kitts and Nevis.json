@@ -1,18 +1,18 @@
 {
   "team": "Saint Kitts and Nevis",
   "stats": {
-    "matches_played": 233,
+    "matches_played": 234,
     "wins": 93,
     "draws": 44,
-    "losses": 96,
-    "goals_for": 392,
-    "goals_against": 367,
-    "goal_difference": 25,
-    "win_percentage": 39.9,
-    "avg_points": 1.39,
+    "losses": 97,
+    "goals_for": 394,
+    "goals_against": 370,
+    "goal_difference": 24,
+    "win_percentage": 39.7,
+    "avg_points": 1.38,
     "best_rank": 83,
     "worst_rank": 192,
-    "avg_rank": 160.33,
+    "avg_rank": 160.47,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Montserrat",
@@ -25,16 +25,16 @@
       "date": "2004-11-17",
       "flag": "mexico.png"
     },
-    "home_matches": 113,
+    "home_matches": 114,
     "away_matches": 76,
     "neutral_matches": 44,
     "first_match_date": "1938-08-18",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
       "date": "2025-06-10",
-      "country": "St Kitts and Nevis",
+      "country": "Saint Kitts and Nevis",
       "tournament": "World Cup qualifier",
       "team1": "Saint Kitts and Nevis",
       "team2": "Grenada",
@@ -42,14 +42,14 @@
       "original_team2": "Grenada",
       "flag1": "kitts.png",
       "flag2": "grenada.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4151,
-      "rating2": 4361,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4144,
+      "rating2": 4368,
+      "rating_ev": -7,
       "rank": 192,
-      "win_prob": 28.5,
-      "type": "fixture"
+      "win_prob": 38.2,
+      "type": "past"
     },
     {
       "date": "2025-06-06",

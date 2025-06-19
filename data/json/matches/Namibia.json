@@ -1,18 +1,18 @@
 {
   "team": "Namibia",
   "stats": {
-    "matches_played": 295,
-    "wins": 75,
+    "matches_played": 296,
+    "wins": 76,
     "draws": 91,
     "losses": 129,
-    "goals_for": 287,
+    "goals_for": 290,
     "goals_against": 409,
-    "goal_difference": -122,
-    "win_percentage": 25.4,
-    "avg_points": 1.07,
+    "goal_difference": -119,
+    "win_percentage": 25.7,
+    "avg_points": 1.08,
     "best_rank": 94,
     "worst_rank": 157,
-    "avg_rank": 123.09,
+    "avg_rank": 123.03,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Botswana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 102,
     "away_matches": 114,
-    "neutral_matches": 79,
+    "neutral_matches": 80,
     "first_match_date": "1989-05-16",
-    "last_match_date": "2025-06-08"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Lesotho",
       "flag1": "namibia.png",
       "flag2": "lesotho.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4805,
-      "rating2": 4671,
-      "rating_ev": 0,
-      "rank": 116,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4838,
+      "rating2": 4638,
+      "rating_ev": 33,
+      "rank": 105,
       "win_prob": 64.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-08",

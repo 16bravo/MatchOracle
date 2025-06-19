@@ -1,18 +1,18 @@
 {
   "team": "Myanmar",
   "stats": {
-    "matches_played": 531,
-    "wins": 210,
+    "matches_played": 532,
+    "wins": 211,
     "draws": 98,
     "losses": 223,
-    "goals_for": 858,
+    "goals_for": 859,
     "goals_against": 919,
-    "goal_difference": -61,
-    "win_percentage": 39.5,
+    "goal_difference": -60,
+    "win_percentage": 39.7,
     "avg_points": 1.37,
     "best_rank": 45,
     "worst_rank": 198,
-    "avg_rank": 128.21,
+    "avg_rank": 128.33,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Singapore",
@@ -25,11 +25,11 @@
       "date": "2021-05-28",
       "flag": "japan.png"
     },
-    "home_matches": 65,
+    "home_matches": 66,
     "away_matches": 133,
     "neutral_matches": 333,
     "first_match_date": "1950-02-17",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "pakistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4127,
-      "rating2": 4069,
+      "rating1": 4132,
+      "rating2": 4064,
       "rating_ev": 0,
       "rank": 193,
-      "win_prob": 45.4,
+      "win_prob": 46.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "afghanistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4127,
-      "rating2": 4322,
+      "rating1": 4132,
+      "rating2": 4337,
       "rating_ev": 0,
       "rank": 193,
-      "win_prob": 29.8,
+      "win_prob": 28.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4127,
-      "rating2": 4828,
+      "rating1": 4132,
+      "rating2": 4813,
       "rating_ev": 0,
       "rank": 193,
-      "win_prob": 7.7,
+      "win_prob": 8.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4127,
-      "rating2": 4828,
+      "rating1": 4132,
+      "rating2": 4813,
       "rating_ev": 0,
       "rank": 193,
-      "win_prob": 5.1,
+      "win_prob": 5.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Pakistan",
       "flag1": "myanmar.png",
       "flag2": "pakistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4127,
-      "rating2": 4069,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4132,
+      "rating2": 4064,
+      "rating_ev": 5,
       "rank": 193,
       "win_prob": 66.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

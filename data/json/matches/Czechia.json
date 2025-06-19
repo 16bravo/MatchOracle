@@ -1,18 +1,18 @@
 {
   "team": "Czechia",
   "stats": {
-    "matches_played": 872,
+    "matches_played": 873,
     "wins": 422,
     "draws": 192,
-    "losses": 258,
-    "goals_for": 1609,
-    "goals_against": 1082,
-    "goal_difference": 527,
-    "win_percentage": 48.4,
+    "losses": 259,
+    "goals_for": 1610,
+    "goals_against": 1087,
+    "goal_difference": 523,
+    "win_percentage": 48.3,
     "avg_points": 1.67,
     "best_rank": 1,
     "worst_rank": 41,
-    "avg_rank": 13.05,
+    "avg_rank": 13.07,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Yugoslavia",
@@ -26,10 +26,10 @@
       "flag": "austria.png"
     },
     "home_matches": 143,
-    "away_matches": 413,
+    "away_matches": 414,
     "neutral_matches": 316,
     "first_match_date": "1903-04-05",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5263,
-      "rating2": 4415,
+      "rating1": 5226,
+      "rating2": 4432,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 98.0,
+      "rank": 37,
+      "win_prob": 97.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5263,
-      "rating2": 4842,
+      "rating1": 5226,
+      "rating2": 4825,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 79.9,
+      "rank": 37,
+      "win_prob": 78.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5263,
-      "rating2": 5432,
+      "rating1": 5226,
+      "rating2": 5469,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 42.5,
+      "rank": 37,
+      "win_prob": 34.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 5263,
-      "rating2": 5015,
+      "rating1": 5226,
+      "rating2": 5007,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 65.6,
+      "rank": 37,
+      "win_prob": 62.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Croatia",
       "flag1": "czechia.png",
       "flag2": "croatia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5263,
-      "rating2": 5432,
-      "rating_ev": 0,
-      "rank": 30,
+      "score1": 1,
+      "score2": 5,
+      "rating1": 5226,
+      "rating2": 5469,
+      "rating_ev": -37,
+      "rank": 37,
       "win_prob": 23.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

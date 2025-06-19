@@ -1,18 +1,18 @@
 {
   "team": "Barbados",
   "stats": {
-    "matches_played": 365,
+    "matches_played": 366,
     "wins": 112,
     "draws": 95,
-    "losses": 158,
-    "goals_for": 466,
-    "goals_against": 601,
-    "goal_difference": -135,
-    "win_percentage": 30.7,
+    "losses": 159,
+    "goals_for": 467,
+    "goals_against": 603,
+    "goal_difference": -136,
+    "win_percentage": 30.6,
     "avg_points": 1.18,
     "best_rank": 64,
     "worst_rank": 197,
-    "avg_rank": 144.64,
+    "avg_rank": 144.77,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "gb_guiana.png"
     },
     "home_matches": 165,
-    "away_matches": 130,
+    "away_matches": 131,
     "neutral_matches": 70,
     "first_match_date": "1929-04-20",
-    "last_match_date": "2025-06-04"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Saint Lucia",
       "flag1": "barbados.png",
       "flag2": "st_lucia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4154,
-      "rating2": 4219,
-      "rating_ev": 0,
-      "rank": 191,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4150,
+      "rating2": 4223,
+      "rating_ev": -4,
+      "rank": 192,
       "win_prob": 32.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-04",

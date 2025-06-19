@@ -1,18 +1,18 @@
 {
   "team": "Grenada",
   "stats": {
-    "matches_played": 296,
-    "wins": 99,
+    "matches_played": 297,
+    "wins": 100,
     "draws": 74,
     "losses": 123,
-    "goals_for": 471,
-    "goals_against": 528,
-    "goal_difference": -57,
-    "win_percentage": 33.4,
-    "avg_points": 1.25,
+    "goals_for": 474,
+    "goals_against": 530,
+    "goal_difference": -56,
+    "win_percentage": 33.7,
+    "avg_points": 1.26,
     "best_rank": 57,
     "worst_rank": 185,
-    "avg_rank": 148.93,
+    "avg_rank": 149.01,
     "biggest_win": {
       "score": "14-1",
       "opponent": "Anguilla",
@@ -26,15 +26,15 @@
       "flag": "curacao.png"
     },
     "home_matches": 111,
-    "away_matches": 110,
+    "away_matches": 111,
     "neutral_matches": 75,
     "first_match_date": "1934-10-13",
-    "last_match_date": "2025-06-04"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
       "date": "2025-06-10",
-      "country": "St Kitts and Nevis",
+      "country": "Saint Kitts and Nevis",
       "tournament": "World Cup qualifier",
       "team1": "Grenada",
       "team2": "Saint Kitts and Nevis",
@@ -42,14 +42,14 @@
       "original_team2": "Saint Kitts and Nevis",
       "flag1": "grenada.png",
       "flag2": "kitts.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4361,
-      "rating2": 4151,
-      "rating_ev": 0,
-      "rank": 174,
-      "win_prob": 71.5,
-      "type": "fixture"
+      "score1": 3,
+      "score2": 2,
+      "rating1": 4368,
+      "rating2": 4144,
+      "rating_ev": 7,
+      "rank": 173,
+      "win_prob": 61.8,
+      "type": "past"
     },
     {
       "date": "2025-06-04",

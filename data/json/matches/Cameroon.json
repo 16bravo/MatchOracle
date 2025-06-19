@@ -1,18 +1,18 @@
 {
   "team": "Cameroon",
   "stats": {
-    "matches_played": 643,
+    "matches_played": 644,
     "wins": 280,
-    "draws": 196,
+    "draws": 197,
     "losses": 167,
-    "goals_for": 932,
-    "goals_against": 699,
+    "goals_for": 933,
+    "goals_against": 700,
     "goal_difference": 233,
     "win_percentage": 43.5,
     "avg_points": 1.61,
     "best_rank": 23,
     "worst_rank": 80,
-    "avg_rank": 52.75,
+    "avg_rank": 52.76,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Chad",
@@ -27,9 +27,9 @@
     },
     "home_matches": 182,
     "away_matches": 238,
-    "neutral_matches": 223,
+    "neutral_matches": 224,
     "first_match_date": "1953-09-30",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 5059,
-      "rating2": 4905,
+      "rating1": 5054,
+      "rating2": 4867,
       "rating_ev": 0,
-      "rank": 62,
-      "win_prob": 66.3,
+      "rank": 65,
+      "win_prob": 69.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5059,
-      "rating2": 5054,
+      "rating1": 5054,
+      "rating2": 5072,
       "rating_ev": 0,
-      "rank": 62,
-      "win_prob": 50.6,
+      "rank": 65,
+      "win_prob": 48.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5059,
-      "rating2": 4887,
+      "rating1": 5054,
+      "rating2": 4897,
       "rating_ev": 0,
-      "rank": 62,
-      "win_prob": 68.0,
+      "rank": 65,
+      "win_prob": 66.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Equatorial Guinea",
       "flag1": "cameroon.png",
       "flag2": "eq_guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5059,
-      "rating2": 4885,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5054,
+      "rating2": 4890,
+      "rating_ev": -5,
       "rank": 62,
       "win_prob": 68.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

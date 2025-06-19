@@ -1,18 +1,18 @@
 {
   "team": "Algeria",
   "stats": {
-    "matches_played": 661,
+    "matches_played": 662,
     "wins": 299,
     "draws": 174,
-    "losses": 188,
-    "goals_for": 1011,
-    "goals_against": 675,
-    "goal_difference": 336,
+    "losses": 189,
+    "goals_for": 1014,
+    "goals_against": 679,
+    "goal_difference": 335,
     "win_percentage": 45.2,
     "avg_points": 1.62,
     "best_rank": 16,
     "worst_rank": 106,
-    "avg_rank": 53.74,
+    "avg_rank": 53.72,
     "biggest_win": {
       "score": "15-1",
       "opponent": "South Yemen",
@@ -26,10 +26,10 @@
       "flag": "ussr.png"
     },
     "home_matches": 251,
-    "away_matches": 227,
+    "away_matches": 228,
     "neutral_matches": 183,
     "first_match_date": "1958-05-03",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5223,
-      "rating2": 4885,
+      "rating1": 5222,
+      "rating2": 4890,
       "rating_ev": 0,
-      "rank": 39,
-      "win_prob": 81.3,
+      "rank": 38,
+      "win_prob": 80.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5223,
+      "rating1": 5222,
       "rating2": 4992,
       "rating_ev": 0,
-      "rank": 39,
-      "win_prob": 73.3,
+      "rank": 38,
+      "win_prob": 73.2,
       "type": "fixture"
     },
     {
@@ -82,15 +82,15 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5223,
+      "rating1": 5222,
       "rating2": 4854,
       "rating_ev": 0,
-      "rank": 39,
-      "win_prob": 83.2,
+      "rank": 38,
+      "win_prob": 83.1,
       "type": "fixture"
     },
     {
-      "date": "2025-12-09",
+      "date": "2025-12-19",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Algeria",
@@ -101,11 +101,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 5223,
-      "rating2": 4897,
+      "rating1": 5222,
+      "rating2": 4928,
       "rating_ev": 0,
-      "rank": 39,
-      "win_prob": 80.5,
+      "rank": 38,
+      "win_prob": 78.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Sweden",
       "flag1": "algeria.png",
       "flag2": "sweden.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5223,
-      "rating2": 5338,
-      "rating_ev": 0,
-      "rank": 39,
+      "score1": 3,
+      "score2": 4,
+      "rating1": 5222,
+      "rating2": 5339,
+      "rating_ev": -1,
+      "rank": 37,
       "win_prob": 28.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

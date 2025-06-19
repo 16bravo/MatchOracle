@@ -1,18 +1,18 @@
 {
   "team": "Brunei",
   "stats": {
-    "matches_played": 146,
-    "wins": 26,
+    "matches_played": 147,
+    "wins": 27,
     "draws": 13,
     "losses": 107,
-    "goals_for": 116,
-    "goals_against": 468,
-    "goal_difference": -352,
-    "win_percentage": 17.8,
-    "avg_points": 0.62,
+    "goals_for": 118,
+    "goals_against": 469,
+    "goal_difference": -351,
+    "win_percentage": 18.4,
+    "avg_points": 0.64,
     "best_rank": 168,
     "worst_rank": 212,
-    "avg_rank": 195.66,
+    "avg_rank": 195.76,
     "biggest_win": {
       "score": "4-0",
       "opponent": "East Timor",
@@ -25,11 +25,11 @@
       "date": "2001-04-14",
       "flag": "uae.png"
     },
-    "home_matches": 26,
+    "home_matches": 27,
     "away_matches": 42,
     "neutral_matches": 78,
     "first_match_date": "1971-05-22",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bhutan.png",
       "score1": "",
       "score2": "",
-      "rating1": 3687,
-      "rating2": 3721,
+      "rating1": 3697,
+      "rating2": 3711,
       "rating_ev": 0,
       "rank": 211,
-      "win_prob": 35.7,
+      "win_prob": 37.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 3687,
-      "rating2": 4718,
+      "rating1": 3697,
+      "rating2": 4703,
       "rating_ev": 0,
       "rank": 211,
-      "win_prob": 2.6,
+      "win_prob": 2.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 3687,
-      "rating2": 4472,
+      "rating1": 3697,
+      "rating2": 4487,
       "rating_ev": 0,
       "rank": 211,
-      "win_prob": 3.8,
+      "win_prob": 3.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 3687,
-      "rating2": 4472,
+      "rating1": 3697,
+      "rating2": 4487,
       "rating_ev": 0,
       "rank": 211,
-      "win_prob": 5.8,
+      "win_prob": 5.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Bhutan",
       "flag1": "brunei.png",
       "flag2": "bhutan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3687,
-      "rating2": 3721,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 3697,
+      "rating2": 3711,
+      "rating_ev": 10,
       "rank": 211,
       "win_prob": 57.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

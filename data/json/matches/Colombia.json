@@ -1,18 +1,18 @@
 {
   "team": "Colombia",
   "stats": {
-    "matches_played": 642,
+    "matches_played": 643,
     "wins": 260,
-    "draws": 177,
+    "draws": 178,
     "losses": 205,
-    "goals_for": 824,
-    "goals_against": 738,
+    "goals_for": 825,
+    "goals_against": 739,
     "goal_difference": 86,
-    "win_percentage": 40.5,
+    "win_percentage": 40.4,
     "avg_points": 1.49,
     "best_rank": 3,
     "worst_rank": 77,
-    "avg_rank": 25.33,
+    "avg_rank": 25.31,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guyana",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 183,
-    "away_matches": 228,
+    "away_matches": 229,
     "neutral_matches": 231,
     "first_match_date": "1938-02-10",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5456,
-      "rating2": 5289,
+      "rating1": 5472,
+      "rating2": 5279,
       "rating_ev": 0,
       "rank": 9,
-      "win_prob": 67.6,
+      "win_prob": 70.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "venezuela.png",
       "score1": "",
       "score2": "",
-      "rating1": 5456,
-      "rating2": 5251,
+      "rating1": 5472,
+      "rating2": 5238,
       "rating_ev": 0,
       "rank": 9,
-      "win_prob": 61.3,
+      "win_prob": 64.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "bolivia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5456,
-      "rating2": 5045,
+      "rating1": 5472,
+      "rating2": 5078,
       "rating_ev": 0,
       "rank": 9,
-      "win_prob": 90.2,
+      "win_prob": 89.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Argentina",
       "flag1": "colombia.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5456,
-      "rating2": 5630,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5472,
+      "rating2": 5614,
+      "rating_ev": 16,
       "rank": 9,
       "win_prob": 23.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

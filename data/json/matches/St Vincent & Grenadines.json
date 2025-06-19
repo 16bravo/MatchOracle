@@ -1,18 +1,18 @@
 {
   "team": "St Vincent & Grenadines",
   "stats": {
-    "matches_played": 350,
+    "matches_played": 351,
     "wins": 126,
     "draws": 81,
-    "losses": 143,
-    "goals_for": 546,
-    "goals_against": 630,
-    "goal_difference": -84,
-    "win_percentage": 36.0,
+    "losses": 144,
+    "goals_for": 547,
+    "goals_against": 632,
+    "goal_difference": -85,
+    "win_percentage": 35.9,
     "avg_points": 1.31,
     "best_rank": 65,
     "worst_rank": 187,
-    "avg_rank": 151.81,
+    "avg_rank": 151.86,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Montserrat",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 131,
-    "away_matches": 132,
+    "away_matches": 133,
     "neutral_matches": 87,
     "first_match_date": "1936-09-12",
-    "last_match_date": "2025-06-04"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Puerto Rico",
       "flag1": "st_vincent.png",
       "flag2": "puerto_rico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4402,
-      "rating2": 4477,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4398,
+      "rating2": 4481,
+      "rating_ev": -4,
       "rank": 171,
       "win_prob": 31.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-04",

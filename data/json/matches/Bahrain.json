@@ -1,18 +1,18 @@
 {
   "team": "Bahrain",
   "stats": {
-    "matches_played": 617,
+    "matches_played": 618,
     "wins": 220,
     "draws": 163,
-    "losses": 234,
+    "losses": 235,
     "goals_for": 762,
-    "goals_against": 783,
-    "goal_difference": -21,
-    "win_percentage": 35.7,
+    "goals_against": 784,
+    "goal_difference": -22,
+    "win_percentage": 35.6,
     "avg_points": 1.33,
     "best_rank": 55,
     "worst_rank": 148,
-    "avg_rank": 96.87,
+    "avg_rank": 96.89,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Indonesia",
@@ -26,14 +26,14 @@
       "flag": "iraq_3.png"
     },
     "home_matches": 210,
-    "away_matches": 154,
+    "away_matches": 155,
     "neutral_matches": 253,
     "first_match_date": "1966-04-01",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
-      "date": "2025-11-09",
+      "date": "2025-11-19",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Bahrain",
@@ -44,11 +44,11 @@
       "flag2": "djibouti.png",
       "score1": "",
       "score2": "",
-      "rating1": 4845,
+      "rating1": 4833,
       "rating2": 4298,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 91.1,
+      "rank": 108,
+      "win_prob": 90.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "China",
       "flag1": "bahrain.png",
       "flag2": "china.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4845,
-      "rating2": 4791,
-      "rating_ev": 0,
-      "rank": 104,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4833,
+      "rating2": 4803,
+      "rating_ev": -12,
+      "rank": 107,
       "win_prob": 45.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 470,
+    "matches_played": 471,
     "wins": 125,
     "draws": 105,
-    "losses": 240,
+    "losses": 241,
     "goals_for": 509,
-    "goals_against": 856,
-    "goal_difference": -347,
-    "win_percentage": 26.6,
+    "goals_against": 858,
+    "goal_difference": -349,
+    "win_percentage": 26.5,
     "avg_points": 1.02,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.84,
+    "avg_rank": 63.77,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 175,
-    "away_matches": 176,
+    "away_matches": 177,
     "neutral_matches": 119,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5251,
-      "rating2": 5456,
+      "rating1": 5238,
+      "rating2": 5472,
       "rating_ev": 0,
-      "rank": 31,
-      "win_prob": 38.7,
+      "rank": 34,
+      "win_prob": 35.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5251,
-      "rating2": 5630,
+      "rating1": 5238,
+      "rating2": 5614,
       "rating_ev": 0,
-      "rank": 31,
-      "win_prob": 11.1,
+      "rank": 34,
+      "win_prob": 11.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Uruguay",
       "flag1": "venezuela.png",
       "flag2": "uruguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5251,
-      "rating2": 5394,
-      "rating_ev": 0,
-      "rank": 31,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5238,
+      "rating2": 5407,
+      "rating_ev": -13,
+      "rank": 33,
       "win_prob": 25.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

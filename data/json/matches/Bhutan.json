@@ -1,18 +1,18 @@
 {
   "team": "Bhutan",
   "stats": {
-    "matches_played": 105,
+    "matches_played": 106,
     "wins": 10,
     "draws": 7,
-    "losses": 88,
-    "goals_for": 57,
-    "goals_against": 385,
-    "goal_difference": -328,
-    "win_percentage": 9.5,
+    "losses": 89,
+    "goals_for": 58,
+    "goals_against": 387,
+    "goal_difference": -329,
+    "win_percentage": 9.4,
     "avg_points": 0.35,
     "best_rank": 182,
     "worst_rank": 214,
-    "avg_rank": 207.04,
+    "avg_rank": 207.06,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "kuwait.png"
     },
     "home_matches": 18,
-    "away_matches": 37,
+    "away_matches": 38,
     "neutral_matches": 50,
     "first_match_date": "1982-04-30",
-    "last_match_date": "2025-06-04"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "brunei.png",
       "score1": "",
       "score2": "",
-      "rating1": 3721,
-      "rating2": 3687,
+      "rating1": 3711,
+      "rating2": 3697,
       "rating_ev": 0,
       "rank": 209,
-      "win_prob": 64.3,
+      "win_prob": 62.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 3721,
-      "rating2": 4472,
+      "rating1": 3711,
+      "rating2": 4487,
       "rating_ev": 0,
       "rank": 209,
-      "win_prob": 4.3,
+      "win_prob": 3.9,
       "type": "fixture"
     },
     {
@@ -82,8 +82,8 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 3721,
-      "rating2": 4718,
+      "rating1": 3711,
+      "rating2": 4703,
       "rating_ev": 0,
       "rank": 209,
       "win_prob": 1.9,
@@ -101,8 +101,8 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 3721,
-      "rating2": 4718,
+      "rating1": 3711,
+      "rating2": 4703,
       "rating_ev": 0,
       "rank": 209,
       "win_prob": 2.9,
@@ -118,14 +118,14 @@
       "original_team2": "Brunei",
       "flag1": "bhutan.png",
       "flag2": "brunei.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3721,
-      "rating2": 3687,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 3711,
+      "rating2": 3697,
+      "rating_ev": -10,
       "rank": 209,
       "win_prob": 42.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-04",

@@ -1,18 +1,18 @@
 {
   "team": "China",
   "stats": {
-    "matches_played": 737,
-    "wins": 358,
+    "matches_played": 738,
+    "wins": 359,
     "draws": 157,
     "losses": 222,
-    "goals_for": 1380,
+    "goals_for": 1381,
     "goals_against": 815,
-    "goal_difference": 565,
+    "goal_difference": 566,
     "win_percentage": 48.6,
     "avg_points": 1.67,
     "best_rank": 24,
     "worst_rank": 128,
-    "avg_rank": 60.32,
+    "avg_rank": 60.4,
     "biggest_win": {
       "score": "19-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "2012-09-10",
       "flag": "brazil.png"
     },
-    "home_matches": 269,
+    "home_matches": 270,
     "away_matches": 246,
     "neutral_matches": 222,
     "first_match_date": "1913-02-04",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4791,
-      "rating2": 4494,
+      "rating1": 4803,
+      "rating2": 4503,
       "rating_ev": 0,
-      "rank": 122,
-      "win_prob": 78.5,
+      "rank": 116,
+      "win_prob": 78.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4791,
-      "rating2": 5397,
+      "rating1": 4803,
+      "rating2": 5426,
       "rating_ev": 0,
-      "rank": 122,
-      "win_prob": 7.2,
+      "rank": 116,
+      "win_prob": 6.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4791,
-      "rating2": 5179,
+      "rating1": 4803,
+      "rating2": 5199,
       "rating_ev": 0,
-      "rank": 122,
-      "win_prob": 10.7,
+      "rank": 116,
+      "win_prob": 10.4,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Bahrain",
       "flag1": "china.png",
       "flag2": "bahrain.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4791,
-      "rating2": 4845,
-      "rating_ev": 0,
-      "rank": 122,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4803,
+      "rating2": 4833,
+      "rating_ev": 12,
+      "rank": 116,
       "win_prob": 55.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

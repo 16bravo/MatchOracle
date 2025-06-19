@@ -1,18 +1,18 @@
 {
   "team": "Niger",
   "stats": {
-    "matches_played": 275,
+    "matches_played": 276,
     "wins": 60,
-    "draws": 65,
+    "draws": 66,
     "losses": 150,
-    "goals_for": 271,
-    "goals_against": 482,
+    "goals_for": 272,
+    "goals_against": 483,
     "goal_difference": -211,
-    "win_percentage": 21.8,
+    "win_percentage": 21.7,
     "avg_points": 0.89,
     "best_rank": 77,
     "worst_rank": 147,
-    "avg_rank": 120.21,
+    "avg_rank": 120.11,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 96,
     "away_matches": 112,
-    "neutral_matches": 67,
+    "neutral_matches": 68,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Zimbabwe",
       "flag1": "niger.png",
       "flag2": "zimbabwe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4884,
-      "rating2": 4840,
-      "rating_ev": 0,
-      "rank": 92,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4883,
+      "rating2": 4841,
+      "rating_ev": -1,
+      "rank": 91,
       "win_prob": 54.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

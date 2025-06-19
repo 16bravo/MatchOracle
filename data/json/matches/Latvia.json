@@ -1,18 +1,18 @@
 {
   "team": "Latvia",
   "stats": {
-    "matches_played": 449,
+    "matches_played": 450,
     "wins": 126,
-    "draws": 108,
+    "draws": 109,
     "losses": 215,
-    "goals_for": 527,
-    "goals_against": 741,
+    "goals_for": 528,
+    "goals_against": 742,
     "goal_difference": -214,
-    "win_percentage": 28.1,
+    "win_percentage": 28.0,
     "avg_points": 1.08,
     "best_rank": 40,
     "worst_rank": 143,
-    "avg_rank": 78.36,
+    "avg_rank": 78.45,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lithuania",
@@ -25,11 +25,11 @@
       "date": "1927-05-29",
       "flag": "sweden.png"
     },
-    "home_matches": 186,
+    "home_matches": 187,
     "away_matches": 209,
     "neutral_matches": 54,
     "first_match_date": "1922-09-24",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,10 +44,10 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4780,
-      "rating2": 4415,
+      "rating1": 4797,
+      "rating2": 4432,
       "rating_ev": 0,
-      "rank": 125,
+      "rank": 118,
       "win_prob": 88.3,
       "type": "fixture"
     },
@@ -63,10 +63,10 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4780,
-      "rating2": 4415,
+      "rating1": 4797,
+      "rating2": 4432,
       "rating_ev": 0,
-      "rank": 125,
+      "rank": 118,
       "win_prob": 75.9,
       "type": "fixture"
     },
@@ -82,11 +82,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4780,
-      "rating2": 5347,
+      "rating1": 4797,
+      "rating2": 5343,
       "rating_ev": 0,
-      "rank": 125,
-      "win_prob": 5.5,
+      "rank": 118,
+      "win_prob": 5.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 4780,
-      "rating2": 5525,
+      "rating1": 4797,
+      "rating2": 5498,
       "rating_ev": 0,
-      "rank": 125,
-      "win_prob": 6.6,
+      "rank": 118,
+      "win_prob": 7.7,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4780,
-      "rating2": 4660,
+      "rating1": 4797,
+      "rating2": 4664,
       "rating_ev": 0,
-      "rank": 125,
-      "win_prob": 72.4,
+      "rank": 118,
+      "win_prob": 73.6,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "albania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4780,
-      "rating2": 5168,
+      "rating1": 4797,
+      "rating2": 5151,
       "rating_ev": 0,
-      "rank": 125,
-      "win_prob": 10.7,
+      "rank": 118,
+      "win_prob": 12.2,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4780,
-      "rating2": 5347,
+      "rating1": 4797,
+      "rating2": 5343,
       "rating_ev": 0,
-      "rank": 125,
-      "win_prob": 12.2,
+      "rank": 118,
+      "win_prob": 13.2,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Albania",
       "flag1": "latvia.png",
       "flag2": "albania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4780,
-      "rating2": 5168,
-      "rating_ev": 0,
-      "rank": 125,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4797,
+      "rating2": 5151,
+      "rating_ev": 17,
+      "rank": 117,
       "win_prob": 22.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

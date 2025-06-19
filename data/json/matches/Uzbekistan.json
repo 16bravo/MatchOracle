@@ -1,18 +1,18 @@
 {
   "team": "Uzbekistan",
   "stats": {
-    "matches_played": 351,
-    "wins": 171,
+    "matches_played": 352,
+    "wins": 172,
     "draws": 71,
     "losses": 109,
-    "goals_for": 611,
+    "goals_for": 614,
     "goals_against": 390,
-    "goal_difference": 221,
-    "win_percentage": 48.7,
-    "avg_points": 1.66,
+    "goal_difference": 224,
+    "win_percentage": 48.9,
+    "avg_points": 1.67,
     "best_rank": 38,
     "worst_rank": 98,
-    "avg_rank": 66.08,
+    "avg_rank": 66.05,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Mongolia",
@@ -25,11 +25,11 @@
       "date": "2000-10-17",
       "flag": "japan.png"
     },
-    "home_matches": 121,
+    "home_matches": 122,
     "away_matches": 128,
     "neutral_matches": 102,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Qatar",
       "flag1": "uzbekistan.png",
       "flag2": "qatar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5068,
-      "rating2": 4913,
-      "rating_ev": 0,
-      "rank": 60,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5094,
+      "rating2": 4887,
+      "rating_ev": 26,
+      "rank": 58,
       "win_prob": 75.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

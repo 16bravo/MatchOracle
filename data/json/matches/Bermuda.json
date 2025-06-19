@@ -1,18 +1,18 @@
 {
   "team": "Bermuda",
   "stats": {
-    "matches_played": 221,
-    "wins": 72,
+    "matches_played": 222,
+    "wins": 73,
     "draws": 44,
     "losses": 105,
-    "goals_for": 346,
-    "goals_against": 385,
-    "goal_difference": -39,
-    "win_percentage": 32.6,
+    "goals_for": 348,
+    "goals_against": 386,
+    "goal_difference": -38,
+    "win_percentage": 32.9,
     "avg_points": 1.18,
     "best_rank": 103,
     "worst_rank": 172,
-    "avg_rank": 137.66,
+    "avg_rank": 137.79,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Montserrat",
@@ -26,10 +26,10 @@
       "flag": "denmark.png"
     },
     "home_matches": 100,
-    "away_matches": 76,
+    "away_matches": 77,
     "neutral_matches": 45,
     "first_match_date": "1964-08-10",
-    "last_match_date": "2025-06-04"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Cuba",
       "flag1": "bermuda.png",
       "flag2": "cuba.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4417,
-      "rating2": 4567,
-      "rating_ev": 0,
-      "rank": 168,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4446,
+      "rating2": 4538,
+      "rating_ev": 29,
+      "rank": 166,
       "win_prob": 25.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-04",

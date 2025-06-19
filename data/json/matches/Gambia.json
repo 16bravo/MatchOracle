@@ -1,18 +1,18 @@
 {
   "team": "Gambia",
   "stats": {
-    "matches_played": 280,
+    "matches_played": 281,
     "wins": 77,
-    "draws": 78,
+    "draws": 79,
     "losses": 125,
-    "goals_for": 290,
-    "goals_against": 396,
+    "goals_for": 291,
+    "goals_against": 397,
     "goal_difference": -106,
-    "win_percentage": 27.5,
+    "win_percentage": 27.4,
     "avg_points": 1.1,
     "best_rank": 76,
     "worst_rank": 123,
-    "avg_rank": 100.2,
+    "avg_rank": 100.18,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lesotho",
@@ -27,9 +27,9 @@
     },
     "home_matches": 0,
     "away_matches": 97,
-    "neutral_matches": 183,
+    "neutral_matches": 184,
     "first_match_date": "1953-02-09",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Uganda",
       "flag1": "gambia.png",
       "flag2": "uganda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4878,
-      "rating2": 4808,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4876,
+      "rating2": 4810,
+      "rating_ev": -2,
       "rank": 93,
       "win_prob": 57.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

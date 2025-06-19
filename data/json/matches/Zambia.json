@@ -1,18 +1,18 @@
 {
   "team": "Zambia",
   "stats": {
-    "matches_played": 838,
+    "matches_played": 839,
     "wins": 379,
-    "draws": 214,
+    "draws": 215,
     "losses": 245,
-    "goals_for": 1326,
-    "goals_against": 887,
+    "goals_for": 1329,
+    "goals_against": 890,
     "goal_difference": 439,
     "win_percentage": 45.2,
     "avg_points": 1.61,
     "best_rank": 35,
     "worst_rank": 111,
-    "avg_rank": 66.19,
+    "avg_rank": 66.23,
     "biggest_win": {
       "score": "11-2",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 253,
     "away_matches": 343,
-    "neutral_matches": 242,
+    "neutral_matches": 243,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-11"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4846,
-      "rating2": 5359,
+      "rating1": 4844,
+      "rating2": 5350,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 6.7,
+      "rank": 104,
+      "win_prob": 6.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 4846,
-      "rating2": 4877,
+      "rating1": 4844,
+      "rating2": 4864,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 46.6,
+      "rank": 104,
+      "win_prob": 47.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 4846,
+      "rating1": 4844,
       "rating2": 5105,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 24.4,
+      "rank": 104,
+      "win_prob": 24.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Botswana",
       "flag1": "zambia.png",
       "flag2": "botswana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4846,
-      "rating2": 4809,
-      "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 54.1,
-      "type": "fixture"
+      "score1": 3,
+      "score2": 3,
+      "rating1": 4844,
+      "rating2": 4815,
+      "rating_ev": -2,
+      "rank": 104,
+      "win_prob": 53.6,
+      "type": "past"
     },
     {
       "date": "2025-06-06",

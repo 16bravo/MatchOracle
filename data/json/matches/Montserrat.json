@@ -1,18 +1,18 @@
 {
   "team": "Montserrat",
   "stats": {
-    "matches_played": 73,
+    "matches_played": 74,
     "wins": 18,
     "draws": 8,
-    "losses": 47,
+    "losses": 48,
     "goals_for": 76,
-    "goals_against": 232,
-    "goal_difference": -156,
-    "win_percentage": 24.7,
-    "avg_points": 0.85,
+    "goals_against": 235,
+    "goal_difference": -159,
+    "win_percentage": 24.3,
+    "avg_points": 0.84,
     "best_rank": 112,
     "worst_rank": 213,
-    "avg_rank": 197.42,
+    "avg_rank": 197.23,
     "biggest_win": {
       "score": "7-0",
       "opponent": "British Virgin Islands",
@@ -26,10 +26,10 @@
       "flag": "bermuda.png"
     },
     "home_matches": 16,
-    "away_matches": 24,
+    "away_matches": 25,
     "neutral_matches": 33,
     "first_match_date": "1950-02-01",
-    "last_match_date": "2025-06-04"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Guyana",
       "flag1": "montserrat.png",
       "flag2": "guyana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4223,
-      "rating2": 4616,
-      "rating_ev": 0,
-      "rank": 181,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4211,
+      "rating2": 4628,
+      "rating_ev": -12,
+      "rank": 183,
       "win_prob": 10.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-04",

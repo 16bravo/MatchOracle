@@ -1,18 +1,18 @@
 {
   "team": "Puerto Rico",
   "stats": {
-    "matches_played": 194,
-    "wins": 43,
+    "matches_played": 195,
+    "wins": 44,
     "draws": 31,
     "losses": 120,
-    "goals_for": 220,
-    "goals_against": 484,
-    "goal_difference": -264,
-    "win_percentage": 22.2,
-    "avg_points": 0.82,
+    "goals_for": 222,
+    "goals_against": 485,
+    "goal_difference": -263,
+    "win_percentage": 22.6,
+    "avg_points": 0.84,
     "best_rank": 87,
     "worst_rank": 196,
-    "avg_rank": 167.15,
+    "avg_rank": 167.14,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Saint Martin",
@@ -25,11 +25,11 @@
       "date": "1959-01-07",
       "flag": "netherlands.png"
     },
-    "home_matches": 69,
+    "home_matches": 70,
     "away_matches": 71,
     "neutral_matches": 54,
     "first_match_date": "1940-11-12",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "St Vincent & Grenadines",
       "flag1": "puerto_rico.png",
       "flag2": "st_vincent.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4477,
-      "rating2": 4402,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4481,
+      "rating2": 4398,
+      "rating_ev": 4,
       "rank": 164,
       "win_prob": 68.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

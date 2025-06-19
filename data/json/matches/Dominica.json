@@ -1,18 +1,18 @@
 {
   "team": "Dominica",
   "stats": {
-    "matches_played": 237,
+    "matches_played": 238,
     "wins": 59,
     "draws": 51,
-    "losses": 127,
+    "losses": 128,
     "goals_for": 281,
-    "goals_against": 471,
-    "goal_difference": -190,
-    "win_percentage": 24.9,
+    "goals_against": 476,
+    "goal_difference": -195,
+    "win_percentage": 24.8,
     "avg_points": 0.96,
     "best_rank": 72,
     "worst_rank": 196,
-    "avg_rank": 169.69,
+    "avg_rank": 169.8,
     "biggest_win": {
       "score": "10-0",
       "opponent": "British Virgin Islands",
@@ -26,15 +26,15 @@
       "flag": "mexico.png"
     },
     "home_matches": 69,
-    "away_matches": 95,
+    "away_matches": 96,
     "neutral_matches": 73,
     "first_match_date": "1932-12-31",
-    "last_match_date": "2025-06-04"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
       "date": "2025-06-10",
-      "country": "Dominican Rep",
+      "country": "Dominican Republic",
       "tournament": "World Cup qualifier",
       "team1": "Dominica",
       "team2": "Dominican Republic",
@@ -42,14 +42,14 @@
       "original_team2": "Dominican Republic",
       "flag1": "dominica.png",
       "flag2": "dominican_rep.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4105,
-      "rating2": 4722,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 4081,
+      "rating2": 4746,
+      "rating_ev": -24,
       "rank": 196,
-      "win_prob": 6.9,
-      "type": "fixture"
+      "win_prob": 4.6,
+      "type": "past"
     },
     {
       "date": "2025-06-04",

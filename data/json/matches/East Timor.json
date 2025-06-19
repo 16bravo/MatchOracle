@@ -1,18 +1,18 @@
 {
   "team": "East Timor",
   "stats": {
-    "matches_played": 88,
-    "wins": 10,
+    "matches_played": 89,
+    "wins": 11,
     "draws": 8,
     "losses": 70,
-    "goals_for": 79,
+    "goals_for": 80,
     "goals_against": 284,
-    "goal_difference": -205,
-    "win_percentage": 11.4,
-    "avg_points": 0.43,
+    "goal_difference": -204,
+    "win_percentage": 12.4,
+    "avg_points": 0.46,
     "best_rank": 203,
     "worst_rank": 211,
-    "avg_rank": 206.57,
+    "avg_rank": 206.56,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Cambodia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 6,
     "away_matches": 45,
-    "neutral_matches": 37,
+    "neutral_matches": 38,
     "first_match_date": "2003-03-21",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 3781,
-      "rating2": 4123,
+      "rating1": 3815,
+      "rating2": 4089,
       "rating_ev": 0,
       "rank": 206,
-      "win_prob": 12.7,
+      "win_prob": 16.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 3781,
-      "rating2": 4611,
+      "rating1": 3815,
+      "rating2": 4609,
       "rating_ev": 0,
       "rank": 206,
-      "win_prob": 3.3,
+      "win_prob": 3.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 3781,
-      "rating2": 4486,
+      "rating1": 3815,
+      "rating2": 4488,
       "rating_ev": 0,
       "rank": 206,
-      "win_prob": 3.3,
+      "win_prob": 3.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 3781,
-      "rating2": 4486,
+      "rating1": 3815,
+      "rating2": 4488,
       "rating_ev": 0,
       "rank": 206,
-      "win_prob": 5.0,
+      "win_prob": 5.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Maldives",
       "flag1": "timor.png",
       "flag2": "maldives.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3781,
-      "rating2": 4123,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 3815,
+      "rating2": 4089,
+      "rating_ev": 34,
       "rank": 206,
       "win_prob": 18.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

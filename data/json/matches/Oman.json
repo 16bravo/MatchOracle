@@ -1,18 +1,18 @@
 {
   "team": "Oman",
   "stats": {
-    "matches_played": 576,
+    "matches_played": 577,
     "wins": 219,
-    "draws": 143,
+    "draws": 144,
     "losses": 214,
-    "goals_for": 743,
-    "goals_against": 764,
+    "goals_for": 744,
+    "goals_against": 765,
     "goal_difference": -21,
     "win_percentage": 38.0,
     "avg_points": 1.39,
     "best_rank": 53,
     "worst_rank": 174,
-    "avg_rank": 101.56,
+    "avg_rank": 101.55,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Bhutan",
@@ -27,13 +27,13 @@
     },
     "home_matches": 224,
     "away_matches": 142,
-    "neutral_matches": 210,
+    "neutral_matches": 211,
     "first_match_date": "1965-09-02",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
-      "date": "2025-11-09",
+      "date": "2025-11-19",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Oman",
@@ -44,10 +44,10 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4857,
+      "rating1": 4858,
       "rating2": 4412,
       "rating_ev": 0,
-      "rank": 97,
+      "rank": 99,
       "win_prob": 87.2,
       "type": "fixture"
     },
@@ -61,14 +61,14 @@
       "original_team2": "Palestine",
       "flag1": "oman.png",
       "flag2": "palestine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4857,
-      "rating2": 4870,
-      "rating_ev": 0,
-      "rank": 97,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4858,
+      "rating2": 4869,
+      "rating_ev": 1,
+      "rank": 98,
       "win_prob": 48.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

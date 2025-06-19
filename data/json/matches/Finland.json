@@ -1,18 +1,18 @@
 {
   "team": "Finland",
   "stats": {
-    "matches_played": 814,
-    "wins": 213,
+    "matches_played": 815,
+    "wins": 214,
     "draws": 166,
     "losses": 435,
-    "goals_for": 959,
-    "goals_against": 1681,
-    "goal_difference": -722,
-    "win_percentage": 26.2,
+    "goals_for": 961,
+    "goals_against": 1682,
+    "goal_difference": -721,
+    "win_percentage": 26.3,
     "avg_points": 0.99,
     "best_rank": 19,
     "worst_rank": 97,
-    "avg_rank": 51.06,
+    "avg_rank": 51.07,
     "biggest_win": {
       "score": "10-2",
       "opponent": "Estonia",
@@ -25,11 +25,11 @@
       "date": "1940-09-01",
       "flag": "germany_1.png"
     },
-    "home_matches": 333,
+    "home_matches": 334,
     "away_matches": 424,
     "neutral_matches": 57,
     "first_match_date": "1911-10-22",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
-      "rating2": 4660,
+      "rating1": 5058,
+      "rating2": 4664,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 89.0,
+      "rank": 64,
+      "win_prob": 89.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
-      "rating2": 4747,
+      "rating1": 5058,
+      "rating2": 4703,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 84.8,
+      "rank": 64,
+      "win_prob": 87.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
-      "rating2": 5522,
+      "rating1": 5058,
+      "rating2": 5566,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 7.6,
+      "rank": 64,
+      "win_prob": 6.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "lithuania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
-      "rating2": 4827,
+      "rating1": 5058,
+      "rating2": 4813,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 79.8,
+      "rank": 64,
+      "win_prob": 81.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
-      "rating2": 5186,
+      "rating1": 5058,
+      "rating2": 5169,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 25.4,
+      "rank": 64,
+      "win_prob": 28.4,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
-      "rating2": 5440,
+      "rating1": 5058,
+      "rating2": 5426,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 10.3,
+      "rank": 64,
+      "win_prob": 11.6,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Poland",
       "flag1": "finland.png",
       "flag2": "poland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5041,
-      "rating2": 5186,
-      "rating_ev": 0,
-      "rank": 67,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5058,
+      "rating2": 5169,
+      "rating_ev": 17,
+      "rank": 61,
       "win_prob": 45.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

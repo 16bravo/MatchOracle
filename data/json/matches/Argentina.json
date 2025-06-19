@@ -1,18 +1,18 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1097,
+    "matches_played": 1098,
     "wins": 601,
-    "draws": 267,
+    "draws": 268,
     "losses": 229,
-    "goals_for": 2076,
-    "goals_against": 1126,
+    "goals_for": 2077,
+    "goals_against": 1127,
     "goal_difference": 950,
-    "win_percentage": 54.8,
+    "win_percentage": 54.7,
     "avg_points": 1.89,
     "best_rank": 1,
     "worst_rank": 27,
-    "avg_rank": 6.43,
+    "avg_rank": 6.42,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Ecuador",
@@ -25,11 +25,11 @@
       "date": "1958-06-15",
       "flag": "czechia.png"
     },
-    "home_matches": 377,
+    "home_matches": 378,
     "away_matches": 414,
     "neutral_matches": 306,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5630,
-      "rating2": 5404,
+      "rating1": 5614,
+      "rating2": 5400,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 63.4,
+      "win_prob": 62.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "venezuela.png",
       "score1": "",
       "score2": "",
-      "rating1": 5630,
-      "rating2": 5251,
+      "rating1": 5614,
+      "rating2": 5238,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 88.9,
+      "win_prob": 88.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Colombia",
       "flag1": "argentina.png",
       "flag2": "colombia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5630,
-      "rating2": 5456,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5614,
+      "rating2": 5472,
+      "rating_ev": -16,
       "rank": 2,
       "win_prob": 76.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

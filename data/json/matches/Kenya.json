@@ -1,18 +1,18 @@
 {
   "team": "Kenya",
   "stats": {
-    "matches_played": 721,
-    "wins": 271,
+    "matches_played": 722,
+    "wins": 272,
     "draws": 178,
     "losses": 272,
-    "goals_for": 991,
-    "goals_against": 979,
-    "goal_difference": 12,
-    "win_percentage": 37.6,
-    "avg_points": 1.37,
+    "goals_for": 993,
+    "goals_against": 980,
+    "goal_difference": 13,
+    "win_percentage": 37.7,
+    "avg_points": 1.38,
     "best_rank": 43,
     "worst_rank": 131,
-    "avg_rank": 90.82,
+    "avg_rank": 90.84,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Zanzibar",
@@ -27,9 +27,9 @@
     },
     "home_matches": 262,
     "away_matches": 254,
-    "neutral_matches": 205,
+    "neutral_matches": 206,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Chad",
       "flag1": "kenya.png",
       "flag2": "chad.png",
-      "score1": "",
-      "score2": "",
+      "score1": 2,
+      "score2": 1,
       "rating1": 4846,
       "rating2": 4602,
       "rating_ev": 0,
       "rank": 102,
       "win_prob": 74.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

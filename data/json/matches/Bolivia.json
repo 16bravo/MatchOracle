@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 523,
-    "wins": 117,
+    "matches_played": 524,
+    "wins": 118,
     "draws": 120,
     "losses": 286,
-    "goals_for": 540,
+    "goals_for": 542,
     "goals_against": 1034,
-    "goal_difference": -494,
-    "win_percentage": 22.4,
+    "goal_difference": -492,
+    "win_percentage": 22.5,
     "avg_points": 0.9,
     "best_rank": 23,
     "worst_rank": 78,
-    "avg_rank": 50.66,
+    "avg_rank": 50.67,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -25,11 +25,11 @@
       "date": "1927-11-06",
       "flag": "uruguay.png"
     },
-    "home_matches": 184,
+    "home_matches": 185,
     "away_matches": 200,
     "neutral_matches": 139,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5045,
-      "rating2": 5503,
+      "rating1": 5078,
+      "rating2": 5500,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 17.8,
+      "rank": 59,
+      "win_prob": 20.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5045,
-      "rating2": 5456,
+      "rating1": 5078,
+      "rating2": 5472,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 9.8,
+      "rank": 59,
+      "win_prob": 10.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Chile",
       "flag1": "bolivia.png",
       "flag2": "chile.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5045,
-      "rating2": 5234,
-      "rating_ev": 0,
-      "rank": 65,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5078,
+      "rating2": 5201,
+      "rating_ev": 33,
+      "rank": 59,
       "win_prob": 40.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

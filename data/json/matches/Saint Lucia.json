@@ -1,18 +1,18 @@
 {
   "team": "Saint Lucia",
   "stats": {
-    "matches_played": 247,
-    "wins": 82,
+    "matches_played": 248,
+    "wins": 83,
     "draws": 39,
     "losses": 126,
-    "goals_for": 343,
-    "goals_against": 463,
-    "goal_difference": -120,
-    "win_percentage": 33.2,
-    "avg_points": 1.15,
+    "goals_for": 345,
+    "goals_against": 464,
+    "goal_difference": -119,
+    "win_percentage": 33.5,
+    "avg_points": 1.16,
     "best_rank": 72,
     "worst_rank": 192,
-    "avg_rank": 161.74,
+    "avg_rank": 161.82,
     "biggest_win": {
       "score": "14-1",
       "opponent": "US Virgin Islands",
@@ -25,11 +25,11 @@
       "date": "2006-10-01",
       "flag": "st_vincent.png"
     },
-    "home_matches": 82,
+    "home_matches": 83,
     "away_matches": 102,
     "neutral_matches": 63,
     "first_match_date": "1936-01-31",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Barbados",
       "flag1": "st_lucia.png",
       "flag2": "barbados.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4219,
-      "rating2": 4154,
-      "rating_ev": 0,
-      "rank": 183,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4223,
+      "rating2": 4150,
+      "rating_ev": 4,
+      "rank": 181,
       "win_prob": 67.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

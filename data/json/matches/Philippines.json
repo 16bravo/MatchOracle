@@ -1,18 +1,18 @@
 {
   "team": "Philippines",
   "stats": {
-    "matches_played": 382,
+    "matches_played": 383,
     "wins": 93,
-    "draws": 57,
+    "draws": 58,
     "losses": 232,
-    "goals_for": 401,
-    "goals_against": 987,
+    "goals_for": 403,
+    "goals_against": 989,
     "goal_difference": -586,
     "win_percentage": 24.3,
     "avg_points": 0.88,
     "best_rank": 27,
     "worst_rank": 204,
-    "avg_rank": 164.87,
+    "avg_rank": 164.86,
     "biggest_win": {
       "score": "15-2",
       "opponent": "Japan",
@@ -25,11 +25,11 @@
       "date": "1967-09-27",
       "flag": "japan.png"
     },
-    "home_matches": 101,
+    "home_matches": 102,
     "away_matches": 123,
     "neutral_matches": 158,
     "first_match_date": "1913-02-04",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4486,
-      "rating2": 4611,
+      "rating1": 4488,
+      "rating2": 4609,
       "rating_ev": 0,
       "rank": 163,
-      "win_prob": 27.1,
+      "win_prob": 27.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 4486,
-      "rating2": 4123,
+      "rating1": 4488,
+      "rating2": 4089,
       "rating_ev": 0,
       "rank": 163,
-      "win_prob": 75.7,
+      "win_prob": 78.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4486,
-      "rating2": 3781,
+      "rating1": 4488,
+      "rating2": 3815,
       "rating_ev": 0,
       "rank": 163,
-      "win_prob": 96.7,
+      "win_prob": 96.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4486,
-      "rating2": 3781,
+      "rating1": 4488,
+      "rating2": 3815,
       "rating_ev": 0,
       "rank": 163,
-      "win_prob": 95.0,
+      "win_prob": 94.4,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Tajikistan",
       "flag1": "philippines.png",
       "flag2": "tajikistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4486,
-      "rating2": 4611,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4488,
+      "rating2": 4609,
+      "rating_ev": 2,
       "rank": 163,
       "win_prob": 47.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

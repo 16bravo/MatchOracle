@@ -1,18 +1,18 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1002,
-    "wins": 440,
+    "matches_played": 1003,
+    "wins": 441,
     "draws": 246,
     "losses": 316,
-    "goals_for": 1582,
+    "goals_for": 1584,
     "goals_against": 1225,
-    "goal_difference": 357,
-    "win_percentage": 43.9,
+    "goal_difference": 359,
+    "win_percentage": 44.0,
     "avg_points": 1.56,
     "best_rank": 1,
     "worst_rank": 39,
-    "avg_rank": 13.47,
+    "avg_rank": 13.46,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Bolivia",
@@ -25,11 +25,11 @@
       "date": "1902-07-20",
       "flag": "argentina.png"
     },
-    "home_matches": 330,
+    "home_matches": 331,
     "away_matches": 424,
     "neutral_matches": 248,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "chile.png",
       "score1": "",
       "score2": "",
-      "rating1": 5394,
-      "rating2": 5234,
+      "rating1": 5407,
+      "rating2": 5201,
       "rating_ev": 0,
-      "rank": 16,
-      "win_prob": 56.6,
+      "rank": 13,
+      "win_prob": 61.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "peru.png",
       "score1": "",
       "score2": "",
-      "rating1": 5394,
-      "rating2": 5246,
+      "rating1": 5407,
+      "rating2": 5250,
       "rating_ev": 0,
-      "rank": 16,
-      "win_prob": 74.8,
+      "rank": 13,
+      "win_prob": 75.6,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Venezuela",
       "flag1": "uruguay.png",
       "flag2": "venezuela.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5394,
-      "rating2": 5251,
-      "rating_ev": 0,
-      "rank": 16,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5407,
+      "rating2": 5238,
+      "rating_ev": 13,
+      "rank": 13,
       "win_prob": 74.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

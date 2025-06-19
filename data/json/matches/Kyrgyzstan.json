@@ -1,18 +1,18 @@
 {
   "team": "Kyrgyzstan",
   "stats": {
-    "matches_played": 183,
+    "matches_played": 184,
     "wins": 55,
-    "draws": 28,
+    "draws": 29,
     "losses": 100,
-    "goals_for": 201,
-    "goals_against": 320,
+    "goals_for": 202,
+    "goals_against": 321,
     "goal_difference": -119,
-    "win_percentage": 30.1,
+    "win_percentage": 29.9,
     "avg_points": 1.05,
-    "best_rank": 132,
+    "best_rank": 131,
     "worst_rank": 179,
-    "avg_rank": 159.11,
+    "avg_rank": 158.96,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Myanmar",
@@ -25,11 +25,11 @@
       "date": "1997-06-04",
       "flag": "iran.png"
     },
-    "home_matches": 46,
+    "home_matches": 47,
     "away_matches": 72,
     "neutral_matches": 65,
     "first_match_date": "1992-08-23",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "United Arab Emirates",
       "flag1": "kyrgyzstan.png",
       "flag2": "uae.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4739,
-      "rating2": 4966,
-      "rating_ev": 0,
-      "rank": 132,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4747,
+      "rating2": 4958,
+      "rating_ev": 8,
+      "rank": 131,
       "win_prob": 36.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

@@ -1,18 +1,18 @@
 {
   "team": "New Zealand",
   "stats": {
-    "matches_played": 430,
+    "matches_played": 431,
     "wins": 180,
     "draws": 78,
-    "losses": 172,
-    "goals_for": 759,
-    "goals_against": 630,
-    "goal_difference": 129,
-    "win_percentage": 41.9,
-    "avg_points": 1.44,
+    "losses": 173,
+    "goals_for": 760,
+    "goals_against": 632,
+    "goal_difference": 128,
+    "win_percentage": 41.8,
+    "avg_points": 1.43,
     "best_rank": 38,
     "worst_rank": 117,
-    "avg_rank": 82.39,
+    "avg_rank": 82.33,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Fiji",
@@ -27,9 +27,9 @@
     },
     "home_matches": 132,
     "away_matches": 186,
-    "neutral_matches": 112,
+    "neutral_matches": 113,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5096,
-      "rating2": 5440,
+      "rating1": 5093,
+      "rating2": 5426,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 12.6,
+      "rank": 58,
+      "win_prob": 13.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5096,
-      "rating2": 5186,
+      "rating1": 5093,
+      "rating2": 5169,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 30.3,
+      "rank": 58,
+      "win_prob": 31.6,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Ukraine",
       "flag1": "new_zealand.png",
       "flag2": "ukraine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5096,
-      "rating2": 5277,
-      "rating_ev": 0,
-      "rank": 57,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5093,
+      "rating2": 5280,
+      "rating_ev": -3,
+      "rank": 58,
       "win_prob": 31.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

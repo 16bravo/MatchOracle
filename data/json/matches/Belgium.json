@@ -1,18 +1,18 @@
 {
   "team": "Belgium",
   "stats": {
-    "matches_played": 867,
-    "wins": 384,
+    "matches_played": 868,
+    "wins": 385,
     "draws": 181,
     "losses": 302,
-    "goals_for": 1565,
-    "goals_against": 1350,
-    "goal_difference": 215,
-    "win_percentage": 44.3,
+    "goals_for": 1569,
+    "goals_against": 1353,
+    "goal_difference": 216,
+    "win_percentage": 44.4,
     "avg_points": 1.54,
     "best_rank": 1,
     "worst_rank": 73,
-    "avg_rank": 20.2,
+    "avg_rank": 20.19,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Zambia",
@@ -25,11 +25,11 @@
       "date": "1909-04-19",
       "flag": "england.png"
     },
-    "home_matches": 411,
+    "home_matches": 412,
     "away_matches": 371,
     "neutral_matches": 85,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-09"
   },
   "matches": [
     {
@@ -44,10 +44,10 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 5399,
-      "rating2": 4397,
+      "rating1": 5397,
+      "rating2": 4391,
       "rating_ev": 0,
-      "rank": 14,
+      "rank": 16,
       "win_prob": 98.8,
       "type": "fixture"
     },
@@ -63,11 +63,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5399,
-      "rating2": 4851,
+      "rating1": 5397,
+      "rating2": 4846,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 86.9,
+      "rank": 16,
+      "win_prob": 87.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5399,
-      "rating2": 5218,
+      "rating1": 5397,
+      "rating2": 5220,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 58.8,
+      "rank": 16,
+      "win_prob": 58.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5399,
-      "rating2": 5105,
+      "rating1": 5397,
+      "rating2": 5110,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 84.8,
+      "rank": 16,
+      "win_prob": 84.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5399,
-      "rating2": 4851,
+      "rating1": 5397,
+      "rating2": 4846,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 94.1,
+      "rank": 16,
+      "win_prob": 94.2,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 5399,
-      "rating2": 4397,
+      "rating1": 5397,
+      "rating2": 4391,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 97.1,
+      "rank": 16,
+      "win_prob": 97.2,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Wales",
       "flag1": "belgium.png",
       "flag2": "wales.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5399,
-      "rating2": 5218,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 3,
+      "rating1": 5397,
+      "rating2": 5220,
+      "rating_ev": -2,
       "rank": 14,
       "win_prob": 77.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

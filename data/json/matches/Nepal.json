@@ -1,18 +1,18 @@
 {
   "team": "Nepal",
   "stats": {
-    "matches_played": 289,
+    "matches_played": 290,
     "wins": 65,
     "draws": 52,
-    "losses": 172,
-    "goals_for": 238,
-    "goals_against": 667,
-    "goal_difference": -429,
-    "win_percentage": 22.5,
+    "losses": 173,
+    "goals_for": 239,
+    "goals_against": 669,
+    "goal_difference": -430,
+    "win_percentage": 22.4,
     "avg_points": 0.85,
     "best_rank": 155,
     "worst_rank": 199,
-    "avg_rank": 187.8,
+    "avg_rank": 187.82,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Bhutan",
@@ -26,10 +26,10 @@
       "flag": "south_korea.png"
     },
     "home_matches": 73,
-    "away_matches": 85,
+    "away_matches": 86,
     "neutral_matches": 131,
     "first_match_date": "1972-10-13",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "laos.png",
       "score1": "",
       "score2": "",
-      "rating1": 4156,
-      "rating2": 3912,
+      "rating1": 4133,
+      "rating2": 3935,
       "rating_ev": 0,
-      "rank": 188,
-      "win_prob": 81.8,
+      "rank": 192,
+      "win_prob": 78.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "malaysia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4156,
-      "rating2": 4532,
+      "rating1": 4133,
+      "rating2": 4592,
       "rating_ev": 0,
-      "rank": 188,
-      "win_prob": 23.3,
+      "rank": 192,
+      "win_prob": 17.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 4156,
-      "rating2": 4739,
+      "rating1": 4133,
+      "rating2": 4679,
       "rating_ev": 0,
-      "rank": 188,
-      "win_prob": 11.6,
+      "rank": 192,
+      "win_prob": 13.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 4156,
-      "rating2": 4739,
+      "rating1": 4133,
+      "rating2": 4679,
       "rating_ev": 0,
-      "rank": 188,
-      "win_prob": 5.2,
+      "rank": 192,
+      "win_prob": 5.9,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Laos",
       "flag1": "nepal.png",
       "flag2": "laos.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4156,
-      "rating2": 3912,
-      "rating_ev": 0,
-      "rank": 188,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4133,
+      "rating2": 3935,
+      "rating_ev": -23,
+      "rank": 192,
       "win_prob": 65.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

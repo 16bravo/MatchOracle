@@ -1,18 +1,18 @@
 {
   "team": "Albania",
   "stats": {
-    "matches_played": 397,
+    "matches_played": 398,
     "wins": 110,
-    "draws": 84,
+    "draws": 85,
     "losses": 203,
-    "goals_for": 379,
-    "goals_against": 591,
+    "goals_for": 380,
+    "goals_against": 592,
     "goal_difference": -212,
-    "win_percentage": 27.7,
+    "win_percentage": 27.6,
     "avg_points": 1.04,
     "best_rank": 34,
     "worst_rank": 88,
-    "avg_rank": 60.87,
+    "avg_rank": 60.84,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Vietnam",
@@ -26,10 +26,10 @@
       "flag": "hungary_4.png"
     },
     "home_matches": 186,
-    "away_matches": 179,
+    "away_matches": 180,
     "neutral_matches": 32,
     "first_match_date": "1946-10-07",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5168,
-      "rating2": 5525,
+      "rating1": 5151,
+      "rating2": 5498,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 24.8,
+      "rank": 48,
+      "win_prob": 25.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 5168,
-      "rating2": 4660,
+      "rating1": 5151,
+      "rating2": 4664,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 85.0,
+      "rank": 48,
+      "win_prob": 83.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5168,
-      "rating2": 5347,
+      "rating1": 5151,
+      "rating2": 5343,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 22.7,
+      "rank": 48,
+      "win_prob": 21.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5168,
-      "rating2": 4780,
+      "rating1": 5151,
+      "rating2": 4797,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 89.3,
+      "rank": 48,
+      "win_prob": 87.8,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Latvia",
       "flag1": "albania.png",
       "flag2": "latvia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5168,
-      "rating2": 4780,
-      "rating_ev": 0,
-      "rank": 46,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5151,
+      "rating2": 4797,
+      "rating_ev": -17,
+      "rank": 49,
       "win_prob": 77.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

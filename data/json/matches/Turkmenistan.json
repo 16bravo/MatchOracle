@@ -1,18 +1,18 @@
 {
   "team": "Turkmenistan",
   "stats": {
-    "matches_played": 175,
-    "wins": 64,
+    "matches_played": 176,
+    "wins": 65,
     "draws": 33,
     "losses": 78,
-    "goals_for": 263,
-    "goals_against": 267,
-    "goal_difference": -4,
-    "win_percentage": 36.6,
-    "avg_points": 1.29,
+    "goals_for": 266,
+    "goals_against": 268,
+    "goal_difference": -2,
+    "win_percentage": 36.9,
+    "avg_points": 1.3,
     "best_rank": 70,
     "worst_rank": 160,
-    "avg_rank": 124.36,
+    "avg_rank": 124.55,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Afghanistan",
@@ -25,11 +25,11 @@
       "date": "1997-06-22",
       "flag": "tajikistan.png"
     },
-    "home_matches": 39,
+    "home_matches": 40,
     "away_matches": 71,
     "neutral_matches": 65,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4550,
-      "rating2": 4721,
+      "rating1": 4582,
+      "rating2": 4689,
       "rating_ev": 0,
-      "rank": 159,
-      "win_prob": 23.3,
+      "rank": 158,
+      "win_prob": 28.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4550,
-      "rating2": 4222,
+      "rating1": 4582,
+      "rating2": 4190,
       "rating_ev": 0,
-      "rank": 159,
-      "win_prob": 86.6,
+      "rank": 158,
+      "win_prob": 89.4,
       "type": "fixture"
     },
     {
@@ -82,10 +82,10 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4550,
-      "rating2": 4053,
+      "rating1": 4582,
+      "rating2": 4085,
       "rating_ev": 0,
-      "rank": 159,
+      "rank": 158,
       "win_prob": 92.9,
       "type": "fixture"
     },
@@ -101,10 +101,10 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4550,
-      "rating2": 4053,
+      "rating1": 4582,
+      "rating2": 4085,
       "rating_ev": 0,
-      "rank": 159,
+      "rank": 158,
       "win_prob": 84.4,
       "type": "fixture"
     },
@@ -118,14 +118,14 @@
       "original_team2": "Thailand",
       "flag1": "turkmenistan.png",
       "flag2": "thailand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4550,
-      "rating2": 4721,
-      "rating_ev": 0,
-      "rank": 159,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4582,
+      "rating2": 4689,
+      "rating_ev": 32,
+      "rank": 157,
       "win_prob": 42.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

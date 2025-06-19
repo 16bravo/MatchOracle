@@ -1,14 +1,14 @@
 {
   "team": "Burundi",
   "stats": {
-    "matches_played": 232,
+    "matches_played": 233,
     "wins": 71,
-    "draws": 54,
+    "draws": 55,
     "losses": 107,
     "goals_for": 263,
     "goals_against": 321,
     "goal_difference": -58,
-    "win_percentage": 30.6,
+    "win_percentage": 30.5,
     "avg_points": 1.15,
     "best_rank": 87,
     "worst_rank": 146,
@@ -27,9 +27,9 @@
     },
     "home_matches": 49,
     "away_matches": 85,
-    "neutral_matches": 98,
+    "neutral_matches": 99,
     "first_match_date": "1953-09-19",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Mauritania",
       "flag1": "burundi.png",
       "flag2": "mauritania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4795,
-      "rating2": 4818,
-      "rating_ev": 0,
-      "rank": 120,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4796,
+      "rating2": 4817,
+      "rating_ev": 1,
+      "rank": 122,
       "win_prob": 47.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",
