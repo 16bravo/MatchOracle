@@ -23,8 +23,10 @@ end_date = max(last_eoy, end_date)
 
 # Génère toutes les fins de mois
 EOM_dates = pd.date_range(start=start_date, end=end_date, freq='M')
-if today_date.normalize() > EOM_dates.max():
-    EOM_dates = EOM_dates.append(pd.to_datetime([today_date.normalize()]))
+today_norm = today_date.normalize()
+if len(EOM_dates) == 0 or today_norm > EOM_dates.max() or today_norm not in EOM_dates:
+    EOM_dates = EOM_dates.append(pd.DatetimeIndex([today_norm]))
+EOM_dates = EOM_dates.sort_values()
 
 # Prépare la table (date, team) pour toutes les équipes vivantes à chaque date
 all_teams = teams[['team', 'reference_team', 'startDate', 'endDate']].drop_duplicates()

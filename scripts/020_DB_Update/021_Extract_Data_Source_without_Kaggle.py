@@ -138,7 +138,7 @@ else:
     last_day = last_date.day
     
     # Load DataFrame from database
-    teams_query = f"SELECT DISTINCT r.team, t.reference_team, r.points, t.startDate, t.endDate FROM Rankings r LEFT JOIN Teams t ON (r.team = t.team) WHERE year = {last_year} AND month = {last_month} AND day = {last_day}"
+    teams_query = f"SELECT DISTINCT r.team, t.reference_team, r.points, r.points_off, r.points_def, t.startDate, t.endDate FROM Rankings r LEFT JOIN Teams t ON (r.team = t.team) WHERE year = {last_year} AND month = {last_month} AND day = {last_day}"
     teams_sql = pd.read_sql(teams_query, conn)
 
     teams_last_level['reference_team'] = teams_sql['reference_team']
