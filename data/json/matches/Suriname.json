@@ -1,18 +1,18 @@
 {
   "team": "Suriname",
   "stats": {
-    "matches_played": 521,
+    "matches_played": 522,
     "wins": 228,
     "draws": 121,
-    "losses": 172,
+    "losses": 173,
     "goals_for": 946,
-    "goals_against": 712,
-    "goal_difference": 234,
-    "win_percentage": 43.8,
-    "avg_points": 1.55,
+    "goals_against": 714,
+    "goal_difference": 232,
+    "win_percentage": 43.7,
+    "avg_points": 1.54,
     "best_rank": 28,
     "worst_rank": 168,
-    "avg_rank": 98.61,
+    "avg_rank": 98.65,
     "biggest_win": {
       "score": "9-0",
       "opponent": "French Guiana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 216,
     "away_matches": 219,
-    "neutral_matches": 86,
+    "neutral_matches": 87,
     "first_match_date": "1915-08-17",
-    "last_match_date": "2025-06-15"
+    "last_match_date": "2025-06-18"
   },
   "matches": [
     {
@@ -54,21 +54,21 @@
     {
       "date": "2025-06-18",
       "country": "United States",
-      "tournament": "CONCACAF Champ",
+      "tournament": "CONCACAF Championship",
       "team1": "Suriname",
       "team2": "Mexico",
       "original_team1": "Suriname",
       "original_team2": "Mexico",
       "flag1": "suriname.png",
       "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
+      "score1": 0,
+      "score2": 2,
       "rating1": 4801,
       "rating2": 5279,
       "rating_ev": 0,
       "rank": 117,
       "win_prob": 11.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-15",

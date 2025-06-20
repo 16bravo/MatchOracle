@@ -1,18 +1,18 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1008,
-    "wins": 522,
+    "matches_played": 1009,
+    "wins": 523,
     "draws": 230,
     "losses": 256,
-    "goals_for": 1798,
+    "goals_for": 1800,
     "goals_against": 1042,
-    "goal_difference": 756,
+    "goal_difference": 758,
     "win_percentage": 51.8,
     "avg_points": 1.78,
     "best_rank": 2,
     "worst_rank": 41,
-    "avg_rank": 21.48,
+    "avg_rank": 21.49,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Bahamas",
@@ -27,9 +27,9 @@
     },
     "home_matches": 292,
     "away_matches": 268,
-    "neutral_matches": 448,
+    "neutral_matches": 449,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2025-06-14"
+    "last_match_date": "2025-06-18"
   },
   "matches": [
     {
@@ -130,21 +130,21 @@
     {
       "date": "2025-06-18",
       "country": "United States",
-      "tournament": "CONCACAF Champ",
+      "tournament": "CONCACAF Championship",
       "team1": "Mexico",
       "team2": "Suriname",
       "original_team1": "Mexico",
       "original_team2": "Suriname",
       "flag1": "mexico.png",
       "flag2": "suriname.png",
-      "score1": "",
-      "score2": "",
+      "score1": 2,
+      "score2": 0,
       "rating1": 5279,
       "rating2": 4801,
       "rating_ev": 0,
       "rank": 29,
       "win_prob": 88.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-14",
