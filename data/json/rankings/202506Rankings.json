@@ -2,7 +2,7 @@
   "year": 2025,
   "month": 6,
   "latest_date": [
-    "2025-06-20 00:00:00"
+    "2025-06-21 00:00:00"
   ],
   "rankings": [
     {
@@ -317,33 +317,33 @@
     },
     {
       "ranking": 32,
-      "flag": "usa.png",
-      "team": "United States",
-      "reference_team": "United States",
-      "points": 5242,
-      "confederation": "CONCACAF",
-      "ranking_change": 1,
-      "points_change": 1
-    },
-    {
-      "ranking": 33,
       "flag": "australia.png",
       "team": "Australia",
       "reference_team": "Australia",
       "points": 5239,
       "confederation": "AFC",
-      "ranking_change": 7,
+      "ranking_change": 8,
       "points_change": 28
     },
     {
-      "ranking": 34,
+      "ranking": 33,
       "flag": "venezuela.png",
       "team": "Venezuela",
       "reference_team": "Venezuela",
       "points": 5238,
       "confederation": "CONMEBOL",
-      "ranking_change": 0,
+      "ranking_change": 1,
       "points_change": -2
+    },
+    {
+      "ranking": 34,
+      "flag": "usa.png",
+      "team": "United States",
+      "reference_team": "United States",
+      "points": 5237,
+      "confederation": "CONCACAF",
+      "ranking_change": -1,
+      "points_change": -4
     },
     {
       "ranking": 35,
@@ -700,10 +700,10 @@
       "flag": "saudi_arabia.png",
       "team": "Saudi Arabia",
       "reference_team": "Saudi Arabia",
-      "points": 5015,
+      "points": 5020,
       "confederation": "AFC",
       "ranking_change": 4,
-      "points_change": 30
+      "points_change": 35
     },
     {
       "ranking": 71,
