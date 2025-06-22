@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 583,
-    "wins": 193,
+    "matches_played": 584,
+    "wins": 194,
     "draws": 139,
     "losses": 251,
-    "goals_for": 725,
+    "goals_for": 726,
     "goals_against": 900,
-    "goal_difference": -175,
-    "win_percentage": 33.1,
+    "goal_difference": -174,
+    "win_percentage": 33.2,
     "avg_points": 1.23,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.72,
+    "avg_rank": 85.66,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 198,
     "away_matches": 224,
-    "neutral_matches": 161,
+    "neutral_matches": 162,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-06-16"
+    "last_match_date": "2025-06-20"
   },
   "matches": [
     {
@@ -45,30 +45,30 @@
       "score1": "",
       "score2": "",
       "rating1": 5132,
-      "rating2": 4935,
+      "rating2": 4934,
       "rating_ev": 0,
       "rank": 50,
-      "win_prob": 70.3,
+      "win_prob": 70.4,
       "type": "fixture"
     },
     {
       "date": "2025-06-20",
       "country": "United States",
-      "tournament": "CONCACAF Champ",
+      "tournament": "CONCACAF Championship",
       "team1": "Panama",
       "team2": "Guatemala",
       "original_team1": "Panama",
       "original_team2": "Guatemala",
       "flag1": "panama.png",
       "flag2": "guatemala.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 0,
       "rating1": 5132,
       "rating2": 4895,
       "rating_ev": 0,
       "rank": 50,
       "win_prob": 73.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-16",

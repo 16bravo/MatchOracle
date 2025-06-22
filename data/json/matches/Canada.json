@@ -1,18 +1,18 @@
 {
   "team": "Canada",
   "stats": {
-    "matches_played": 470,
+    "matches_played": 471,
     "wins": 183,
-    "draws": 108,
+    "draws": 109,
     "losses": 179,
-    "goals_for": 607,
-    "goals_against": 602,
+    "goals_for": 608,
+    "goals_against": 603,
     "goal_difference": 5,
     "win_percentage": 38.9,
     "avg_points": 1.4,
     "best_rank": 16,
     "worst_rank": 100,
-    "avg_rank": 62.26,
+    "avg_rank": 62.19,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Cayman Islands",
@@ -27,9 +27,9 @@
     },
     "home_matches": 144,
     "away_matches": 198,
-    "neutral_matches": 128,
+    "neutral_matches": 129,
     "first_match_date": "1924-06-07",
-    "last_match_date": "2025-06-17"
+    "last_match_date": "2025-06-21"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5302,
+      "rating1": 5272,
       "rating2": 5220,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 48.1,
+      "rank": 29,
+      "win_prob": 44.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5302,
+      "rating1": 5272,
       "rating2": 5190,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 51.3,
+      "rank": 29,
+      "win_prob": 48.1,
       "type": "fixture"
     },
     {
@@ -82,31 +82,31 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5302,
+      "rating1": 5272,
       "rating2": 4681,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 93.2,
+      "rank": 29,
+      "win_prob": 92.4,
       "type": "fixture"
     },
     {
       "date": "2025-06-21",
       "country": "United States",
-      "tournament": "CONCACAF Champ",
+      "tournament": "CONCACAF Championship",
       "team1": "Canada",
       "team2": "Cura\u00e7ao",
       "original_team1": "Canada",
       "original_team2": "Cura\u00e7ao",
       "flag1": "canada.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5302,
-      "rating2": 4789,
-      "rating_ev": 0,
-      "rank": 27,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5272,
+      "rating2": 4819,
+      "rating_ev": -30,
+      "rank": 29,
       "win_prob": 90.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-17",
