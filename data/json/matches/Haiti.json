@@ -1,18 +1,18 @@
 {
   "team": "Haiti",
   "stats": {
-    "matches_played": 550,
+    "matches_played": 551,
     "wins": 242,
     "draws": 115,
-    "losses": 193,
-    "goals_for": 938,
-    "goals_against": 747,
-    "goal_difference": 191,
-    "win_percentage": 44.0,
+    "losses": 194,
+    "goals_for": 939,
+    "goals_against": 749,
+    "goal_difference": 190,
+    "win_percentage": 43.9,
     "avg_points": 1.53,
     "best_rank": 53,
     "worst_rank": 144,
-    "avg_rank": 92.66,
+    "avg_rank": 92.64,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Sint Maarten",
@@ -26,30 +26,30 @@
       "flag": "mexico_2.png"
     },
     "home_matches": 181,
-    "away_matches": 189,
+    "away_matches": 190,
     "neutral_matches": 180,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2025-06-19"
+    "last_match_date": "2025-06-22"
   },
   "matches": [
     {
       "date": "2025-06-22",
       "country": "United States",
-      "tournament": "CONCACAF Champ",
+      "tournament": "CONCACAF Championship",
       "team1": "Haiti",
       "team2": "United States",
       "original_team1": "Haiti",
       "original_team2": "United States",
       "flag1": "haiti.png",
       "flag2": "usa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4925,
-      "rating2": 5237,
-      "rating_ev": 0,
-      "rank": 82,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4935,
+      "rating2": 5227,
+      "rating_ev": 10,
+      "rank": 80,
       "win_prob": 14.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-19",

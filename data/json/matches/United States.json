@@ -1,18 +1,18 @@
 {
   "team": "United States",
   "stats": {
-    "matches_played": 809,
-    "wins": 359,
+    "matches_played": 810,
+    "wins": 360,
     "draws": 169,
     "losses": 281,
-    "goals_for": 1222,
-    "goals_against": 1051,
-    "goal_difference": 171,
+    "goals_for": 1224,
+    "goals_against": 1052,
+    "goal_difference": 172,
     "win_percentage": 44.4,
     "avg_points": 1.54,
     "best_rank": 12,
     "worst_rank": 94,
-    "avg_rank": 38.0,
+    "avg_rank": 37.99,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Barbados",
@@ -25,11 +25,11 @@
       "date": "1948-08-06",
       "flag": "norway.png"
     },
-    "home_matches": 473,
+    "home_matches": 474,
     "away_matches": 251,
     "neutral_matches": 85,
     "first_match_date": "1916-08-20",
-    "last_match_date": "2025-06-19"
+    "last_match_date": "2025-06-22"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5237,
+      "rating1": 5227,
       "rating2": 5426,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 40.4,
+      "rank": 36,
+      "win_prob": 39.3,
       "type": "fixture"
     },
     {
@@ -63,31 +63,31 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5237,
+      "rating1": 5227,
       "rating2": 5199,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 64.7,
+      "rank": 36,
+      "win_prob": 63.7,
       "type": "fixture"
     },
     {
       "date": "2025-06-22",
       "country": "United States",
-      "tournament": "CONCACAF Champ",
+      "tournament": "CONCACAF Championship",
       "team1": "United States",
       "team2": "Haiti",
       "original_team1": "United States",
       "original_team2": "Haiti",
       "flag1": "usa.png",
       "flag2": "haiti.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5237,
-      "rating2": 4925,
-      "rating_ev": 0,
-      "rank": 34,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5227,
+      "rating2": 4935,
+      "rating_ev": -10,
+      "rank": 36,
       "win_prob": 85.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-19",
