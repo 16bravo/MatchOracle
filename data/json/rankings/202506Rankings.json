@@ -2,7 +2,7 @@
   "year": 2025,
   "month": 6,
   "latest_date": [
-    "2025-06-25 00:00:00"
+    "2025-06-26 00:00:00"
   ],
   "rankings": [
     {
@@ -277,23 +277,23 @@
     },
     {
       "ranking": 28,
-      "flag": "canada.png",
-      "team": "Canada",
-      "reference_team": "Canada",
-      "points": 5272,
-      "confederation": "CONCACAF",
-      "ranking_change": 4,
-      "points_change": 28
-    },
-    {
-      "ranking": 29,
       "flag": "mexico.png",
       "team": "Mexico",
       "reference_team": "Mexico",
       "points": 5270,
       "confederation": "CONCACAF",
-      "ranking_change": -3,
+      "ranking_change": -2,
       "points_change": -33
+    },
+    {
+      "ranking": 29,
+      "flag": "canada.png",
+      "team": "Canada",
+      "reference_team": "Canada",
+      "points": 5265,
+      "confederation": "CONCACAF",
+      "ranking_change": 3,
+      "points_change": 21
     },
     {
       "ranking": 30,
@@ -877,33 +877,33 @@
     },
     {
       "ranking": 88,
+      "flag": "honduras.png",
+      "team": "Honduras",
+      "reference_team": "Honduras",
+      "points": 4895,
+      "confederation": "CONCACAF",
+      "ranking_change": -14,
+      "points_change": -90
+    },
+    {
+      "ranking": 89,
       "flag": "eq_guinea.png",
       "team": "Equatorial Guinea",
       "reference_team": "Equatorial Guinea",
       "points": 4890,
       "confederation": "CAF",
-      "ranking_change": 2,
+      "ranking_change": 1,
       "points_change": -3
     },
     {
-      "ranking": 89,
+      "ranking": 90,
       "flag": "qatar.png",
       "team": "Qatar",
       "reference_team": "Qatar",
       "points": 4887,
       "confederation": "AFC",
-      "ranking_change": 3,
+      "ranking_change": 2,
       "points_change": 1
-    },
-    {
-      "ranking": 90,
-      "flag": "honduras.png",
-      "team": "Honduras",
-      "reference_team": "Honduras",
-      "points": 4885,
-      "confederation": "CONCACAF",
-      "ranking_change": -16,
-      "points_change": -100
     },
     {
       "ranking": 91,
@@ -1097,16 +1097,6 @@
     },
     {
       "ranking": 110,
-      "flag": "curacao.png",
-      "team": "Cura\u00e7ao",
-      "reference_team": "Cura\u00e7ao",
-      "points": 4819,
-      "confederation": "CONCACAF",
-      "ranking_change": 32,
-      "points_change": 113
-    },
-    {
-      "ranking": 110,
       "flag": "rwanda.png",
       "team": "Rwanda",
       "reference_team": "Rwanda",
@@ -1116,54 +1106,64 @@
       "points_change": 1
     },
     {
-      "ranking": 112,
+      "ranking": 111,
       "flag": "mauritania.png",
       "team": "Mauritania",
       "reference_team": "Mauritania",
       "points": 4817,
       "confederation": "CAF",
-      "ranking_change": -2,
+      "ranking_change": -1,
       "points_change": -10
     },
     {
-      "ranking": 113,
+      "ranking": 112,
       "flag": "botswana.png",
       "team": "Botswana",
       "reference_team": "Botswana",
       "points": 4815,
       "confederation": "CAF",
-      "ranking_change": 1,
+      "ranking_change": 2,
       "points_change": 6
     },
     {
-      "ranking": 114,
+      "ranking": 113,
       "flag": "lithuania.png",
       "team": "Lithuania",
       "reference_team": "Lithuania",
       "points": 4813,
       "confederation": "UEFA",
-      "ranking_change": -3,
+      "ranking_change": -2,
       "points_change": -13
     },
     {
-      "ranking": 114,
+      "ranking": 113,
       "flag": "syria.png",
       "team": "Syria",
       "reference_team": "Syria",
       "points": 4813,
       "confederation": "AFC",
-      "ranking_change": -5,
+      "ranking_change": -4,
       "points_change": -15
     },
     {
-      "ranking": 116,
+      "ranking": 115,
       "flag": "uganda.png",
       "team": "Uganda",
       "reference_team": "Uganda",
       "points": 4810,
       "confederation": "CAF",
-      "ranking_change": -4,
+      "ranking_change": -3,
       "points_change": -12
+    },
+    {
+      "ranking": 116,
+      "flag": "curacao.png",
+      "team": "Cura\u00e7ao",
+      "reference_team": "Cura\u00e7ao",
+      "points": 4809,
+      "confederation": "CONCACAF",
+      "ranking_change": 26,
+      "points_change": 103
     },
     {
       "ranking": 117,
@@ -1460,10 +1460,10 @@
       "flag": "salvador.png",
       "team": "El Salvador",
       "reference_team": "El Salvador",
-      "points": 4665,
+      "points": 4672,
       "confederation": "CONCACAF",
       "ranking_change": 1,
-      "points_change": -18
+      "points_change": -11
     },
     {
       "ranking": 147,
