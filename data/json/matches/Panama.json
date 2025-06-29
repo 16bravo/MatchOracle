@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 585,
+    "matches_played": 586,
     "wins": 195,
-    "draws": 139,
+    "draws": 140,
     "losses": 251,
-    "goals_for": 730,
-    "goals_against": 901,
+    "goals_for": 731,
+    "goals_against": 902,
     "goal_difference": -171,
     "win_percentage": 33.3,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.59,
+    "avg_rank": 85.53,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -27,29 +27,29 @@
     },
     "home_matches": 198,
     "away_matches": 224,
-    "neutral_matches": 163,
+    "neutral_matches": 164,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-06-24"
+    "last_match_date": "2025-06-28"
   },
   "matches": [
     {
       "date": "2025-06-28",
       "country": "United States",
-      "tournament": "CONCACAF Champ",
+      "tournament": "CONCACAF Championship",
       "team1": "Panama",
       "team2": "Honduras",
       "original_team1": "Panama",
       "original_team2": "Honduras",
       "flag1": "panama.png",
       "flag2": "honduras.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5161,
-      "rating2": 4895,
-      "rating_ev": 0,
-      "rank": 47,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5145,
+      "rating2": 4911,
+      "rating_ev": -16,
+      "rank": 49,
       "win_prob": 76.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-24",
