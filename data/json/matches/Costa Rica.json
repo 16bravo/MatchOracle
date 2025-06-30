@@ -1,15 +1,15 @@
 {
   "team": "Costa Rica",
   "stats": {
-    "matches_played": 776,
+    "matches_played": 777,
     "wins": 354,
-    "draws": 184,
+    "draws": 185,
     "losses": 238,
-    "goals_for": 1350,
-    "goals_against": 895,
+    "goals_for": 1352,
+    "goals_against": 897,
     "goal_difference": 455,
     "win_percentage": 45.6,
-    "avg_points": 1.61,
+    "avg_points": 1.6,
     "best_rank": 8,
     "worst_rank": 79,
     "avg_rank": 46.89,
@@ -26,30 +26,30 @@
       "flag": "mexico.png"
     },
     "home_matches": 256,
-    "away_matches": 274,
+    "away_matches": 275,
     "neutral_matches": 246,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-06-22"
+    "last_match_date": "2025-06-29"
   },
   "matches": [
     {
       "date": "2025-06-29",
       "country": "United States",
-      "tournament": "CONCACAF Champ",
+      "tournament": "CONCACAF Championship",
       "team1": "Costa Rica",
       "team2": "United States",
       "original_team1": "Costa Rica",
       "original_team2": "United States",
       "flag1": "costa_rica.png",
       "flag2": "usa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5145,
-      "rating2": 5227,
-      "rating_ev": 0,
-      "rank": 49,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5156,
+      "rating2": 5216,
+      "rating_ev": 11,
+      "rank": 48,
       "win_prob": 31.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-22",
