@@ -1041,7 +1041,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-05",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Algeria",
@@ -1061,7 +1061,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-05",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Egypt",
@@ -1081,7 +1081,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-05",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Egypt",
@@ -1101,7 +1101,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-05",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Jordan",
@@ -1121,7 +1121,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-05",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Morocco",
@@ -1141,7 +1141,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-05",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Qatar",
@@ -2401,7 +2401,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Bahrain",
@@ -2421,7 +2421,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Comoros",
@@ -2441,7 +2441,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Kuwait",
@@ -2461,7 +2461,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
@@ -2481,7 +2481,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Libya",
@@ -2501,7 +2501,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Oman",
@@ -2521,7 +2521,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "South Sudan",
@@ -3558,6 +3558,26 @@
       "rank1": 16,
       "rank2": 55,
       "win_prob": 84.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-10-10",
+      "country": "Canada",
+      "tournament": "Friendly",
+      "team1": "Canada",
+      "team2": "Australia",
+      "original_team1": "Canada",
+      "original_team2": "Australia",
+      "flag1": "canada.png",
+      "flag2": "australia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5243,
+      "rating2": 5239,
+      "rating_ev": 0,
+      "rank1": 31,
+      "rank2": 32,
+      "win_prob": 61.2,
       "type": "fixture"
     },
     {
@@ -5222,6 +5242,66 @@
     },
     {
       "date": "2025-09-05",
+      "country": "Indonesia",
+      "tournament": "Friendly tournament",
+      "team1": "Indonesia",
+      "team2": "Kuwait",
+      "original_team1": "Indonesia",
+      "original_team2": "Kuwait",
+      "flag1": "indonesia.png",
+      "flag2": "kuwait.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4642,
+      "rating2": 4688,
+      "rating_ev": 0,
+      "rank1": 148,
+      "rank2": 142,
+      "win_prob": 55.9,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-09-05",
+      "country": "Indonesia",
+      "tournament": "Friendly tournament",
+      "team1": "Indonesia",
+      "team2": "Lebanon",
+      "original_team1": "Indonesia",
+      "original_team2": "Lebanon",
+      "flag1": "indonesia.png",
+      "flag2": "lebanon.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4642,
+      "rating2": 4703,
+      "rating_ev": 0,
+      "rank1": 148,
+      "rank2": 138,
+      "win_prob": 54.2,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-09-05",
+      "country": "Indonesia",
+      "tournament": "Friendly tournament",
+      "team1": "Kuwait",
+      "team2": "Lebanon",
+      "original_team1": "Kuwait",
+      "original_team2": "Lebanon",
+      "flag1": "kuwait.png",
+      "flag2": "lebanon.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4688,
+      "rating2": 4703,
+      "rating_ev": 0,
+      "rank1": 142,
+      "rank2": 138,
+      "win_prob": 48.3,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-09-05",
       "country": "Italy",
       "tournament": "World Cup qualifier",
       "team1": "Italy",
@@ -5438,66 +5518,6 @@
       "rank1": 169,
       "rank2": 49,
       "win_prob": 7.2,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-09-04",
-      "country": "Indonesia",
-      "tournament": "Friendly tournament",
-      "team1": "Indonesia",
-      "team2": "Kuwait",
-      "original_team1": "Indonesia",
-      "original_team2": "Kuwait",
-      "flag1": "indonesia.png",
-      "flag2": "kuwait.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4642,
-      "rating2": 4688,
-      "rating_ev": 0,
-      "rank1": 148,
-      "rank2": 142,
-      "win_prob": 55.9,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-09-04",
-      "country": "Indonesia",
-      "tournament": "Friendly tournament",
-      "team1": "Indonesia",
-      "team2": "Lebanon",
-      "original_team1": "Indonesia",
-      "original_team2": "Lebanon",
-      "flag1": "indonesia.png",
-      "flag2": "lebanon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4642,
-      "rating2": 4703,
-      "rating_ev": 0,
-      "rank1": 148,
-      "rank2": 138,
-      "win_prob": 54.2,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-09-04",
-      "country": "Indonesia",
-      "tournament": "Friendly tournament",
-      "team1": "Kuwait",
-      "team2": "Lebanon",
-      "original_team1": "Kuwait",
-      "original_team2": "Lebanon",
-      "flag1": "kuwait.png",
-      "flag2": "lebanon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4688,
-      "rating2": 4703,
-      "rating_ev": 0,
-      "rank1": 142,
-      "rank2": 138,
-      "win_prob": 48.3,
       "type": "fixture"
     },
     {
@@ -27658,26 +27678,6 @@
       "rank1": 36,
       "rank2": 21,
       "win_prob": 39.1,
-      "type": "past"
-    },
-    {
-      "date": "2024-07-04",
-      "country": "United States",
-      "tournament": "Copa Am\u00e9rica",
-      "team1": "Argentina",
-      "team2": "Ecuador",
-      "original_team1": "Argentina",
-      "original_team2": "Ecuador",
-      "flag1": "argentina.png",
-      "flag2": "ecuador.png",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 5596,
-      "rating2": 5350,
-      "rating_ev": -17,
-      "rank1": 2,
-      "rank2": 17,
-      "win_prob": 77.2,
       "type": "past"
     }
   ]
