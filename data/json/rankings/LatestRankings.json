@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2025-07-02"
+    "2025-07-06"
   ],
   "rankings": [
     {
@@ -266,23 +266,23 @@
     },
     {
       "ranking": 27,
+      "flag": "mexico.png",
+      "team": "Mexico",
+      "reference_team": "Mexico",
+      "points": 5290,
+      "confederation": "CONCACAF",
+      "ranking_change": -1,
+      "points_change": 16
+    },
+    {
+      "ranking": 28,
       "flag": "ukraine.png",
       "team": "Ukraine",
       "reference_team": "Ukraine",
       "points": 5280,
       "confederation": "UEFA",
-      "ranking_change": -2,
+      "ranking_change": -3,
       "points_change": -21
-    },
-    {
-      "ranking": 28,
-      "flag": "mexico.png",
-      "team": "Mexico",
-      "reference_team": "Mexico",
-      "points": 5274,
-      "confederation": "CONCACAF",
-      "ranking_change": -2,
-      "points_change": 0
     },
     {
       "ranking": 29,
@@ -386,43 +386,43 @@
     },
     {
       "ranking": 39,
-      "flag": "usa.png",
-      "team": "United States",
-      "reference_team": "United States",
-      "points": 5207,
-      "confederation": "CONCACAF",
-      "ranking_change": -12,
-      "points_change": -66
-    },
-    {
-      "ranking": 40,
       "flag": "chile.png",
       "team": "Chile",
       "reference_team": "Chile",
       "points": 5201,
       "confederation": "CONMEBOL",
-      "ranking_change": 3,
+      "ranking_change": 4,
       "points_change": -3
     },
     {
-      "ranking": 41,
+      "ranking": 40,
       "flag": "south_korea.png",
       "team": "South Korea",
       "reference_team": "South Korea",
       "points": 5199,
       "confederation": "AFC",
-      "ranking_change": 3,
+      "ranking_change": 4,
       "points_change": 2
     },
     {
-      "ranking": 42,
+      "ranking": 41,
       "flag": "senegal.png",
       "team": "Senegal",
       "reference_team": "Senegal",
       "points": 5191,
       "confederation": "CAF",
-      "ranking_change": 5,
+      "ranking_change": 6,
       "points_change": 13
+    },
+    {
+      "ranking": 41,
+      "flag": "usa.png",
+      "team": "United States",
+      "reference_team": "United States",
+      "points": 5191,
+      "confederation": "CONCACAF",
+      "ranking_change": -14,
+      "points_change": -82
     },
     {
       "ranking": 43,
