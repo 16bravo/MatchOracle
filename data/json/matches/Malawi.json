@@ -1,18 +1,18 @@
 {
   "team": "Malawi",
   "stats": {
-    "matches_played": 656,
+    "matches_played": 657,
     "wins": 217,
-    "draws": 188,
+    "draws": 189,
     "losses": 251,
-    "goals_for": 763,
-    "goals_against": 849,
+    "goals_for": 764,
+    "goals_against": 850,
     "goal_difference": -86,
-    "win_percentage": 33.1,
+    "win_percentage": 33.0,
     "avg_points": 1.28,
     "best_rank": 53,
     "worst_rank": 144,
-    "avg_rank": 102.93,
+    "avg_rank": 102.98,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Botswana",
@@ -25,13 +25,32 @@
       "date": "1962-10-15",
       "flag": "ghana.png"
     },
-    "home_matches": 283,
+    "home_matches": 284,
     "away_matches": 226,
     "neutral_matches": 147,
     "first_match_date": "1957-12-31",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-07-06"
   },
   "matches": [
+    {
+      "date": "2025-07-06",
+      "country": "Malawi",
+      "tournament": "Independence Cup",
+      "team1": "Malawi",
+      "team2": "Botswana",
+      "original_team1": "Malawi",
+      "original_team2": "Botswana",
+      "flag1": "malawi.png",
+      "flag2": "botswana.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4727,
+      "rating2": 4815,
+      "rating_ev": 0,
+      "rank": 136,
+      "win_prob": 51.3,
+      "type": "past"
+    },
     {
       "date": "2025-06-10",
       "country": "South Africa",

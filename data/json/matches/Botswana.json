@@ -1,18 +1,18 @@
 {
   "team": "Botswana",
   "stats": {
-    "matches_played": 343,
+    "matches_played": 344,
     "wins": 92,
-    "draws": 101,
+    "draws": 102,
     "losses": 150,
-    "goals_for": 278,
-    "goals_against": 436,
+    "goals_for": 279,
+    "goals_against": 437,
     "goal_difference": -158,
-    "win_percentage": 26.8,
+    "win_percentage": 26.7,
     "avg_points": 1.1,
     "best_rank": 102,
     "worst_rank": 175,
-    "avg_rank": 131.46,
+    "avg_rank": 131.4,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Mauritius",
@@ -26,10 +26,10 @@
       "flag": "malawi.png"
     },
     "home_matches": 155,
-    "away_matches": 127,
+    "away_matches": 128,
     "neutral_matches": 61,
     "first_match_date": "1968-07-13",
-    "last_match_date": "2025-06-11"
+    "last_match_date": "2025-07-06"
   },
   "matches": [
     {
@@ -88,6 +88,25 @@
       "rank": 112,
       "win_prob": 16.4,
       "type": "fixture"
+    },
+    {
+      "date": "2025-07-06",
+      "country": "Malawi",
+      "tournament": "Independence Cup",
+      "team1": "Botswana",
+      "team2": "Malawi",
+      "original_team1": "Botswana",
+      "original_team2": "Malawi",
+      "flag1": "botswana.png",
+      "flag2": "malawi.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4815,
+      "rating2": 4727,
+      "rating_ev": 0,
+      "rank": 112,
+      "win_prob": 48.7,
+      "type": "past"
     },
     {
       "date": "2025-06-11",
