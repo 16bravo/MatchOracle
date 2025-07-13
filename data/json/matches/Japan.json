@@ -1,18 +1,18 @@
 {
   "team": "Japan",
   "stats": {
-    "matches_played": 819,
-    "wins": 400,
+    "matches_played": 820,
+    "wins": 401,
     "draws": 166,
     "losses": 253,
-    "goals_for": 1489,
+    "goals_for": 1491,
     "goals_against": 967,
-    "goal_difference": 522,
-    "win_percentage": 48.8,
+    "goal_difference": 524,
+    "win_percentage": 48.9,
     "avg_points": 1.67,
     "best_rank": 10,
     "worst_rank": 122,
-    "avg_rank": 51.2,
+    "avg_rank": 51.15,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Philippines",
@@ -27,9 +27,9 @@
     },
     "home_matches": 326,
     "away_matches": 197,
-    "neutral_matches": 296,
+    "neutral_matches": 297,
     "first_match_date": "1917-05-09",
-    "last_match_date": "2025-07-08"
+    "last_match_date": "2025-07-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5440,
+      "rating1": 5431,
       "rating2": 5321,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 72.4,
+      "win_prob": 71.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5440,
+      "rating1": 5431,
       "rating2": 5191,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 65.7,
+      "win_prob": 64.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5440,
+      "rating1": 5431,
       "rating2": 5290,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 65.9,
+      "win_prob": 65.0,
       "type": "fixture"
     },
     {
@@ -101,31 +101,31 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5440,
-      "rating2": 5211,
+      "rating1": 5431,
+      "rating2": 5192,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 63.7,
+      "win_prob": 64.7,
       "type": "fixture"
     },
     {
       "date": "2025-07-12",
       "country": "South Korea",
-      "tournament": "East Asian Champ",
+      "tournament": "East Asian Championship",
       "team1": "Japan",
       "team2": "China",
       "original_team1": "Japan",
       "original_team2": "China",
       "flag1": "japan.png",
       "flag2": "china.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5440,
-      "rating2": 4791,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5431,
+      "rating2": 4800,
+      "rating_ev": -9,
       "rank": 11,
       "win_prob": 93.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-07-08",
