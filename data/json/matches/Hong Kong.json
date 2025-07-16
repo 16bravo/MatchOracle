@@ -1,18 +1,18 @@
 {
   "team": "Hong Kong",
   "stats": {
-    "matches_played": 505,
+    "matches_played": 506,
     "wins": 179,
     "draws": 98,
-    "losses": 228,
+    "losses": 229,
     "goals_for": 795,
-    "goals_against": 851,
-    "goal_difference": -56,
+    "goals_against": 852,
+    "goal_difference": -57,
     "win_percentage": 35.4,
-    "avg_points": 1.26,
+    "avg_points": 1.25,
     "best_rank": 74,
     "worst_rank": 173,
-    "avg_rank": 129.86,
+    "avg_rank": 129.92,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 178,
     "away_matches": 150,
-    "neutral_matches": 177,
+    "neutral_matches": 178,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2025-07-11"
+    "last_match_date": "2025-07-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4508,
+      "rating1": 4511,
       "rating2": 4496,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 40.5,
+      "win_prob": 40.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4508,
+      "rating1": 4511,
       "rating2": 4320,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 78.0,
+      "win_prob": 78.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4508,
+      "rating1": 4511,
       "rating2": 4182,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 86.5,
+      "win_prob": 86.6,
       "type": "fixture"
     },
     {
@@ -101,31 +101,31 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4508,
+      "rating1": 4511,
       "rating2": 4182,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 72.7,
+      "win_prob": 73.0,
       "type": "fixture"
     },
     {
       "date": "2025-07-15",
       "country": "South Korea",
-      "tournament": "East Asian Champ",
+      "tournament": "East Asian Championship",
       "team1": "Hong Kong",
       "team2": "China",
       "original_team1": "Hong Kong",
       "original_team2": "China",
       "flag1": "hong_kong.png",
       "flag2": "china.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4508,
-      "rating2": 4800,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4511,
+      "rating2": 4797,
+      "rating_ev": 3,
       "rank": 161,
       "win_prob": 21.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-07-11",
