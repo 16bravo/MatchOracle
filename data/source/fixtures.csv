@@ -1,4 +1,5 @@
 date,home_team,away_team,tournament,country,neutral
+2025-08-13,Eritrea,South Sudan,Friendly,Eritrea,False
 2025-08-13,Turks and Caicos Islands,US Virgin Islands,Friendly tournament,United States,True
 2025-08-14,Marshall Islands,US Virgin Islands,Friendly tournament,United States,True
 2025-08-16,Marshall Islands,Turks and Caicos Islands,Friendly tournament,United States,True
@@ -37,12 +38,12 @@ date,home_team,away_team,tournament,country,neutral
 2025-09-05,Romania,Canada,Friendly,Romania,False
 2025-09-05,Australia,New Zealand,Friendly,Australia,False
 2025-09-05,Uzbekistan,Kyrgyzstan,Central Asian Cup,Uzbekistan,False
-2025-09-05,Switzerland,Kosovo,World Cup qualifier,Switzerland,False
-2025-09-05,Montenegro,Czechia,World Cup qualifier,Montenegro,False
 2025-09-05,Oman,Turkmenistan,Central Asian Cup,Uzbekistan,True
+2025-09-05,Montenegro,Czechia,World Cup qualifier,Montenegro,False
+2025-09-05,Switzerland,Kosovo,World Cup qualifier,Switzerland,False
 2025-09-05,Italy,Estonia,World Cup qualifier,Italy,False
-2025-09-05,Iceland,Azerbaijan,World Cup qualifier,Iceland,False
 2025-09-05,Moldova,Israel,World Cup qualifier,Moldova,False
+2025-09-05,Iceland,Azerbaijan,World Cup qualifier,Iceland,False
 2025-09-05,Greece,Belarus,World Cup qualifier,Greece,False
 2025-09-05,France,Ukraine,World Cup qualifier,Poland,True
 2025-09-05,Faroe Islands,Croatia,World Cup qualifier,Faroe Islands,False
@@ -57,10 +58,10 @@ date,home_team,away_team,tournament,country,neutral
 2025-09-06,Armenia,Portugal,World Cup qualifier,Armenia,False
 2025-09-06,Latvia,Serbia,World Cup qualifier,Latvia,False
 2025-09-07,North Macedonia,Liechtenstein,World Cup qualifier,North Macedonia,False
-2025-09-07,Qatar,Russia,Friendly,Qatar,False
-2025-09-07,Poland,Finland,World Cup qualifier,Poland,False
-2025-09-07,Luxembourg,Slovakia,World Cup qualifier,Luxembourg,False
 2025-09-07,Turkey,Spain,World Cup qualifier,Turkey,False
+2025-09-07,Qatar,Russia,Friendly,Qatar,False
+2025-09-07,Luxembourg,Slovakia,World Cup qualifier,Luxembourg,False
+2025-09-07,Poland,Finland,World Cup qualifier,Poland,False
 2025-09-07,Germany,Northern Ireland,World Cup qualifier,Germany,False
 2025-09-07,Georgia,Bulgaria,World Cup qualifier,Georgia,False
 2025-09-07,Belgium,Kazakhstan,World Cup qualifier,Belgium,False
@@ -76,33 +77,32 @@ date,home_team,away_team,tournament,country,neutral
 2025-09-08,Croatia,Montenegro,World Cup qualifier,Croatia,False
 2025-09-08,Belarus,Scotland,World Cup qualifier,Hungary,True
 2025-09-08,Israel,Italy,World Cup qualifier,Hungary,True
-2025-09-09,United States,Japan,Friendly,United States,False
-2025-09-09,Kuwait,Lebanon,Friendly tournament,Indonesia,True
-2025-09-09,Indonesia,Lebanon,Friendly tournament,Indonesia,False
-2025-09-09,Indonesia,Kuwait,Friendly tournament,Indonesia,False
+2025-09-09,Nepal,Bangladesh,Friendly,Nepal,False
 2025-09-09,Venezuela,Colombia,World Cup qualifier,Venezuela,False
 2025-09-09,Peru,Paraguay,World Cup qualifier,Peru,False
 2025-09-09,Ecuador,Argentina,World Cup qualifier,Ecuador,False
 2025-09-09,Chile,Uruguay,World Cup qualifier,Chile,False
 2025-09-09,Bolivia,Brazil,World Cup qualifier,Bolivia,False
 2025-09-09,Wales,Canada,Friendly,Wales,False
+2025-09-09,United States,Japan,Friendly,United States,False
 2025-09-09,New Zealand,Australia,Friendly,New Zealand,False
-2025-09-09,Bosnia and Herzegovinaovina,Austria,World Cup qualifier,Bosnia and Herzegovina,True
 2025-09-09,Mexico,South Korea,Friendly,United States,True
-2025-09-09,Jordan,Dominican Republic,Friendly,Jordan,False
+2025-09-09,Azerbaijan,Ukraine,World Cup qualifier,Azerbaijan,False
 2025-09-09,Estonia,Andorra,Friendly,Estonia,False
 2025-09-09,Serbia,England,World Cup qualifier,Serbia,False
 2025-09-09,Hungary,Portugal,World Cup qualifier,Hungary,False
 2025-09-09,France,Iceland,World Cup qualifier,France,False
 2025-09-09,Cyprus,Romania,World Cup qualifier,Cyprus,False
-2025-09-09,Nepal,Bangladesh,Friendly,Nepal,False
-2025-09-09,Azerbaijan,Ukraine,World Cup qualifier,Azerbaijan,False
+2025-09-09,Bosnia and Herzegovinaovina,Austria,World Cup qualifier,Bosnia and Herzegovina,True
+2025-09-09,Jordan,Dominican Republic,Friendly,Jordan,False
 2025-09-09,Armenia,Ireland,World Cup qualifier,Armenia,False
 2025-09-09,Albania,Latvia,World Cup qualifier,Albania,False
-2025-10-06,Iran,Russia,Friendly,Iran,False
+2025-09-10,Indonesia,Kuwait,Friendly tournament,Indonesia,False
+2025-09-10,Indonesia,Lebanon,Friendly tournament,Indonesia,False
+2025-09-10,Kuwait,Lebanon,Friendly tournament,Indonesia,True
 2025-10-08,Saudi Arabia,Indonesia,World Cup qualifier,Saudi Arabia,False
 2025-10-08,Qatar,Oman,World Cup qualifier,Qatar,False
-2025-10-09,Romania,Moldova,Friendly,Romania,False
+2025-10-09,Poland,New Zealand,Friendly,Poland,False
 2025-10-09,England,Wales,Friendly,England,False
 2025-10-09,Scotland,Greece,World Cup qualifier,Scotland,False
 2025-10-09,Malta,Netherlands,World Cup qualifier,Malta,False
@@ -113,22 +113,23 @@ date,home_team,away_team,tournament,country,neutral
 2025-10-09,Belarus,Denmark,World Cup qualifier,Hungary,True
 2025-10-09,Austria,San Marino,World Cup qualifier,Austria,False
 2025-10-09,Vietnam,Nepal,Asian Cup qualifier,Vietnam,False
-2025-10-09,Poland,New Zealand,Friendly,Poland,False
+2025-10-09,Romania,Moldova,Friendly,Romania,False
 2025-10-09,Sri Lanka,Turkmenistan,Asian Cup qualifier,Sri Lanka,False
-2025-10-09,Singapore,India,Asian Cup qualifier,Singapore,False
-2025-10-09,Pakistan,Afghanistan,Asian Cup qualifier,Pakistan,False
-2025-10-09,Myanmar,Syria,Asian Cup qualifier,,True
-2025-10-09,Maldives,Tajikistan,Asian Cup qualifier,Maldives,False
-2025-10-09,Laos,Malaysia,Asian Cup qualifier,Laos,False
-2025-10-09,East Timor,Philippines,Asian Cup qualifier,,True
-2025-10-09,Brunei,Yemen,Asian Cup qualifier,Brunei,False
-2025-10-09,Bhutan,Lebanon,Asian Cup qualifier,Bhutan,False
-2025-10-09,Bangladesh,Hong Kong,Asian Cup qualifier,Bangladesh,False
 2025-10-09,Taiwan,Thailand,Asian Cup qualifier,Taiwan,False
+2025-10-09,Bangladesh,Hong Kong,Asian Cup qualifier,Bangladesh,False
+2025-10-09,Brunei,Yemen,Asian Cup qualifier,Brunei,False
+2025-10-09,East Timor,Philippines,Asian Cup qualifier,,True
+2025-10-09,Bhutan,Lebanon,Asian Cup qualifier,Bhutan,False
+2025-10-09,Maldives,Tajikistan,Asian Cup qualifier,Maldives,False
+2025-10-09,Myanmar,Syria,Asian Cup qualifier,,True
+2025-10-09,Pakistan,Afghanistan,Asian Cup qualifier,Pakistan,False
+2025-10-09,Singapore,India,Asian Cup qualifier,Singapore,False
+2025-10-09,Laos,Malaysia,Asian Cup qualifier,Laos,False
+2025-10-10,Sweden,Switzerland,World Cup qualifier,Sweden,False
 2025-10-10,United States,Ecuador,Friendly,United States,False
+2025-10-10,Russia,Iran,Friendly,Russia,False
 2025-10-10,Japan,Paraguay,Friendly,Japan,False
 2025-10-10,Canada,Australia,Friendly,Canada,False
-2025-10-10,Sweden,Switzerland,World Cup qualifier,Sweden,False
 2025-10-10,Northern Ireland,Slovakia,World Cup qualifier,Northern Ireland,False
 2025-10-10,Germany,Luxembourg,World Cup qualifier,Germany,False
 2025-10-10,Kazakhstan,Liechtenstein,World Cup qualifier,Kazakhstan,False
@@ -165,18 +166,19 @@ date,home_team,away_team,tournament,country,neutral
 2025-10-13,Northern Ireland,Germany,World Cup qualifier,Northern Ireland,False
 2025-10-13,Iceland,France,World Cup qualifier,Iceland,False
 2025-10-13,Azerbaijan,Ukraine,World Cup qualifier,Poland,True
-2025-10-14,United States,Australia,Friendly,United States,False
-2025-10-14,South Korea,Paraguay,Friendly,South Korea,False
-2025-10-14,Norway,New Zealand,Friendly,Norway,False
-2025-10-14,Mexico,Ecuador,Friendly,Mexico,False
-2025-10-14,Canada,Colombia,Friendly,United States,True
-2025-10-14,Turkey,Georgia,World Cup qualifier,Turkey,False
-2025-10-14,Portugal,Hungary,World Cup qualifier,Portugal,False
-2025-10-14,Latvia,England,World Cup qualifier,Latvia,False
-2025-10-14,Italy,Israel,World Cup qualifier,Italy,False
 2025-10-14,Ireland,Armenia,World Cup qualifier,Ireland,False
+2025-10-14,Italy,Israel,World Cup qualifier,Italy,False
+2025-10-14,Latvia,England,World Cup qualifier,Latvia,False
+2025-10-14,Portugal,Hungary,World Cup qualifier,Portugal,False
+2025-10-14,Turkey,Georgia,World Cup qualifier,Turkey,False
+2025-10-14,Mexico,Ecuador,Friendly,Mexico,False
 2025-10-14,Estonia,Moldova,World Cup qualifier,Estonia,False
-2025-10-14,Andorra,Serbia,World Cup qualifier,Andorra,False
+2025-10-14,Norway,New Zealand,Friendly,Norway,False
+2025-10-14,Russia,Bolivia,Friendly,Russia,False
+2025-10-14,South Korea,Paraguay,Friendly,South Korea,False
+2025-10-14,United States,Australia,Friendly,United States,False
+2025-10-14,Canada,Colombia,Friendly,United States,True
+2025-10-14,Turkmenistan,Sri Lanka,Asian Cup qualifier,Turkmenistan,False
 2025-10-14,Spain,Bulgaria,World Cup qualifier,Spain,False
 2025-10-14,Brunei,Yemen,Asian Cup qualifier,,True
 2025-10-14,Qatar,United Arab Emirates,World Cup qualifier,Qatar,False
@@ -185,20 +187,20 @@ date,home_team,away_team,tournament,country,neutral
 2025-10-14,Bhutan,Lebanon,Asian Cup qualifier,,True
 2025-10-14,Thailand,Taiwan,Asian Cup qualifier,Thailand,False
 2025-10-14,Hong Kong,Bangladesh,Asian Cup qualifier,Hong Kong,False
-2025-10-14,Turkmenistan,Sri Lanka,Asian Cup qualifier,Turkmenistan,False
-2025-10-14,India,Singapore,Asian Cup qualifier,India,False
+2025-10-14,Andorra,Serbia,World Cup qualifier,Andorra,False
 2025-10-14,Malaysia,Laos,Asian Cup qualifier,Malaysia,False
 2025-10-14,Myanmar,Syria,Asian Cup qualifier,Myanmar,False
 2025-10-14,Nepal,Vietnam,Asian Cup qualifier,Nepal,False
 2025-10-14,Philippines,East Timor,Asian Cup qualifier,Philippines,False
 2025-10-14,Tajikistan,Maldives,Asian Cup qualifier,Tajikistan,False
-2025-11-09,Lebanon,Sudan,Arab Cup qualifier,Qatar,True
-2025-11-09,Kuwait,Mauritania,Arab Cup qualifier,Qatar,True
-2025-11-09,Comoros,Yemen,Arab Cup qualifier,Qatar,True
-2025-11-09,Libya,Palestine,Arab Cup qualifier,Qatar,True
-2025-11-09,Bahrain,Djibouti,Arab Cup qualifier,Qatar,True
-2025-11-09,South Sudan,Syria,Arab Cup qualifier,Qatar,True
-2025-11-09,Oman,Somalia,Arab Cup qualifier,Qatar,True
+2025-10-14,India,Singapore,Asian Cup qualifier,India,False
+2025-11-10,Libya,Palestine,Arab Cup qualifier,Qatar,True
+2025-11-10,Lebanon,Sudan,Arab Cup qualifier,Qatar,True
+2025-11-10,Kuwait,Mauritania,Arab Cup qualifier,Qatar,True
+2025-11-10,Comoros,Yemen,Arab Cup qualifier,Qatar,True
+2025-11-10,Bahrain,Djibouti,Arab Cup qualifier,Qatar,True
+2025-11-10,South Sudan,Syria,Arab Cup qualifier,Qatar,True
+2025-11-10,Oman,Somalia,Arab Cup qualifier,Qatar,True
 2025-11-12,Russia,Peru,Friendly,Russia,False
 2025-11-13,Ireland,Portugal,World Cup qualifier,Ireland,False
 2025-11-13,Moldova,Italy,World Cup qualifier,Moldova,False
@@ -267,12 +269,12 @@ date,home_team,away_team,tournament,country,neutral
 2025-11-18,Belarus,Greece,World Cup qualifier,,True
 2025-11-18,Belgium,Liechtenstein,World Cup qualifier,Belgium,False
 2025-11-18,Nepal,Malaysia,Asian Cup qualifier,Nepal,False
-2025-12-09,Qatar,Tunisia,Arab Cup,Qatar,False
-2025-12-09,Morocco,Saudi Arabia,Arab Cup,Qatar,True
-2025-12-09,Jordan,United Arab Emirates,Arab Cup,Qatar,True
-2025-12-09,Egypt,Jordan,Arab Cup,Qatar,True
-2025-12-09,Algeria,Iraq,Arab Cup,Qatar,True
-2025-12-09,Egypt,United Arab Emirates,Arab Cup,Qatar,True
+2025-12-10,Qatar,Tunisia,Arab Cup,Qatar,False
+2025-12-10,Morocco,Saudi Arabia,Arab Cup,Qatar,True
+2025-12-10,Jordan,United Arab Emirates,Arab Cup,Qatar,True
+2025-12-10,Egypt,Jordan,Arab Cup,Qatar,True
+2025-12-10,Algeria,Iraq,Arab Cup,Qatar,True
+2025-12-10,Egypt,United Arab Emirates,Arab Cup,Qatar,True
 2025-12-21,Morocco,Comoros,African Nations Cup,Morocco,False
 2025-12-22,Angola,South Africa,African Nations Cup,Morocco,True
 2025-12-22,Egypt,Zimbabwe,African Nations Cup,Morocco,True
