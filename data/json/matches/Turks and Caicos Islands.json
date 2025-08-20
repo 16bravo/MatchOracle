@@ -1,18 +1,18 @@
 {
   "team": "Turks and Caicos Islands",
   "stats": {
-    "matches_played": 54,
+    "matches_played": 55,
     "wins": 12,
-    "draws": 5,
+    "draws": 6,
     "losses": 37,
-    "goals_for": 50,
-    "goals_against": 191,
+    "goals_for": 51,
+    "goals_against": 192,
     "goal_difference": -141,
-    "win_percentage": 22.2,
+    "win_percentage": 21.8,
     "avg_points": 0.76,
     "best_rank": 206,
     "worst_rank": 215,
-    "avg_rank": 211.37,
+    "avg_rank": 211.44,
     "biggest_win": {
       "score": "5-2",
       "opponent": "Sint Maarten",
@@ -27,9 +27,9 @@
     },
     "home_matches": 16,
     "away_matches": 23,
-    "neutral_matches": 15,
+    "neutral_matches": 16,
     "first_match_date": "1999-02-24",
-    "last_match_date": "2024-10-15"
+    "last_match_date": "2025-08-13"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "US Virgin Islands",
       "flag1": "turks_caicos.png",
       "flag2": "us_virgin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3475,
-      "rating2": 3509,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 3477,
+      "rating2": 3507,
+      "rating_ev": 2,
       "rank": 215,
       "win_prob": 46.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-10-15",
