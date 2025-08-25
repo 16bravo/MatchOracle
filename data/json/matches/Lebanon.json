@@ -1,18 +1,18 @@
 {
   "team": "Lebanon",
   "stats": {
-    "matches_played": 390,
-    "wins": 110,
+    "matches_played": 391,
+    "wins": 111,
     "draws": 104,
     "losses": 176,
-    "goals_for": 464,
+    "goals_for": 465,
     "goals_against": 589,
-    "goal_difference": -125,
-    "win_percentage": 28.2,
-    "avg_points": 1.11,
+    "goal_difference": -124,
+    "win_percentage": 28.4,
+    "avg_points": 1.12,
     "best_rank": 49,
     "worst_rank": 163,
-    "avg_rank": 116.83,
+    "avg_rank": 116.89,
     "biggest_win": {
       "score": "11-1",
       "opponent": "Philippines",
@@ -26,10 +26,10 @@
       "flag": "iraq_2.png"
     },
     "home_matches": 139,
-    "away_matches": 127,
+    "away_matches": 128,
     "neutral_matches": 124,
     "first_match_date": "1940-04-27",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-08-24"
   },
   "matches": [
     {
@@ -44,15 +44,15 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 4703,
+      "rating1": 4718,
       "rating2": 4487,
       "rating_ev": 0,
       "rank": 138,
-      "win_prob": 80.0,
+      "win_prob": 81.0,
       "type": "fixture"
     },
     {
-      "date": "2025-11-24",
+      "date": "2025-11-25",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
@@ -63,11 +63,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4703,
+      "rating1": 4718,
       "rating2": 4854,
       "rating_ev": 0,
       "rank": 138,
-      "win_prob": 34.0,
+      "win_prob": 35.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "brunei.png",
       "score1": "",
       "score2": "",
-      "rating1": 4703,
+      "rating1": 4718,
       "rating2": 3697,
       "rating_ev": 0,
       "rank": 138,
-      "win_prob": 97.2,
+      "win_prob": 97.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "bhutan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4703,
+      "rating1": 4718,
       "rating2": 3711,
       "rating_ev": 0,
       "rank": 138,
-      "win_prob": 98.1,
+      "win_prob": 98.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "bhutan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4703,
+      "rating1": 4718,
       "rating2": 3711,
       "rating_ev": 0,
       "rank": 138,
-      "win_prob": 97.1,
+      "win_prob": 97.2,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "indonesia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4703,
+      "rating1": 4718,
       "rating2": 4642,
       "rating_ev": 0,
       "rank": 138,
-      "win_prob": 45.8,
+      "win_prob": 47.4,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4703,
+      "rating1": 4718,
       "rating2": 4688,
       "rating_ev": 0,
       "rank": 138,
-      "win_prob": 51.7,
+      "win_prob": 53.3,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Qatar",
       "flag1": "lebanon.png",
       "flag2": "qatar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4703,
-      "rating2": 4887,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4718,
+      "rating2": 4872,
+      "rating_ev": 15,
       "rank": 138,
       "win_prob": 22.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
