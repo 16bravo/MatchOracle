@@ -1,18 +1,18 @@
 {
   "team": "India",
   "stats": {
-    "matches_played": 584,
-    "wins": 212,
+    "matches_played": 585,
+    "wins": 213,
     "draws": 121,
     "losses": 251,
-    "goals_for": 811,
-    "goals_against": 955,
-    "goal_difference": -144,
-    "win_percentage": 36.3,
+    "goals_for": 813,
+    "goals_against": 956,
+    "goal_difference": -143,
+    "win_percentage": 36.4,
     "avg_points": 1.3,
     "best_rank": 46,
     "worst_rank": 181,
-    "avg_rank": 135.97,
+    "avg_rank": 136.01,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Ceylon",
@@ -26,10 +26,10 @@
       "flag": "ussr.png"
     },
     "home_matches": 168,
-    "away_matches": 158,
+    "away_matches": 159,
     "neutral_matches": 258,
     "first_match_date": "1938-09-03",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-08-29"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4496,
+      "rating1": 4522,
       "rating2": 4511,
       "rating_ev": 0,
-      "rank": 162,
-      "win_prob": 59.2,
+      "rank": 161,
+      "win_prob": 61.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4496,
+      "rating1": 4522,
       "rating2": 4182,
       "rating_ev": 0,
-      "rank": 162,
-      "win_prob": 71.7,
+      "rank": 161,
+      "win_prob": 73.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4496,
+      "rating1": 4522,
       "rating2": 4320,
       "rating_ev": 0,
-      "rank": 162,
-      "win_prob": 77.1,
+      "rank": 161,
+      "win_prob": 79.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4496,
+      "rating1": 4522,
       "rating2": 4320,
       "rating_ev": 0,
-      "rank": 162,
-      "win_prob": 58.3,
+      "rank": 161,
+      "win_prob": 61.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "afghanistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4496,
-      "rating2": 4337,
+      "rating1": 4522,
+      "rating2": 4356,
       "rating_ev": 0,
-      "rank": 162,
-      "win_prob": 66.8,
+      "rank": 161,
+      "win_prob": 67.5,
       "type": "fixture"
     },
     {
@@ -139,31 +139,31 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 4496,
-      "rating2": 5186,
+      "rating1": 4522,
+      "rating2": 5167,
       "rating_ev": 0,
-      "rank": 162,
-      "win_prob": 5.3,
+      "rank": 161,
+      "win_prob": 6.2,
       "type": "fixture"
     },
     {
       "date": "2025-08-29",
       "country": "Tajikistan",
-      "tournament": "Central Asian Cup",
+      "tournament": "Central Asian Nations Cup",
       "team1": "India",
       "team2": "Tajikistan",
       "original_team1": "India",
       "original_team2": "Tajikistan",
       "flag1": "india.png",
       "flag2": "tajikistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4496,
-      "rating2": 4609,
-      "rating_ev": 0,
-      "rank": 162,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4522,
+      "rating2": 4583,
+      "rating_ev": 26,
+      "rank": 161,
       "win_prob": 28.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
