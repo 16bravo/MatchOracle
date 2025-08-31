@@ -1,18 +1,18 @@
 {
   "team": "Uzbekistan",
   "stats": {
-    "matches_played": 352,
+    "matches_played": 353,
     "wins": 172,
-    "draws": 71,
+    "draws": 72,
     "losses": 109,
-    "goals_for": 614,
-    "goals_against": 390,
+    "goals_for": 615,
+    "goals_against": 391,
     "goal_difference": 224,
-    "win_percentage": 48.9,
+    "win_percentage": 48.7,
     "avg_points": 1.67,
     "best_rank": 38,
     "worst_rank": 98,
-    "avg_rank": 66.05,
+    "avg_rank": 66.04,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Mongolia",
@@ -25,11 +25,11 @@
       "date": "2000-10-17",
       "flag": "japan.png"
     },
-    "home_matches": 122,
+    "home_matches": 123,
     "away_matches": 128,
     "neutral_matches": 102,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-08-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kyrgyzstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5094,
-      "rating2": 4747,
+      "rating1": 5074,
+      "rating2": 4737,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 87.5,
+      "rank": 60,
+      "win_prob": 87.0,
       "type": "fixture"
     },
     {
@@ -63,31 +63,31 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5094,
-      "rating2": 4582,
+      "rating1": 5074,
+      "rating2": 4592,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 93.3,
+      "rank": 60,
+      "win_prob": 92.5,
       "type": "fixture"
     },
     {
       "date": "2025-08-30",
       "country": "Uzbekistan",
-      "tournament": "Central Asian Cup",
+      "tournament": "Central Asian Nations Cup",
       "team1": "Uzbekistan",
       "team2": "Oman",
       "original_team1": "Uzbekistan",
       "original_team2": "Oman",
       "flag1": "uzbekistan.png",
       "flag2": "oman.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5094,
-      "rating2": 4858,
-      "rating_ev": 0,
-      "rank": 57,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5074,
+      "rating2": 4878,
+      "rating_ev": -20,
+      "rank": 60,
       "win_prob": 81.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

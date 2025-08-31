@@ -1,18 +1,18 @@
 {
   "team": "Oman",
   "stats": {
-    "matches_played": 577,
+    "matches_played": 578,
     "wins": 219,
-    "draws": 144,
+    "draws": 145,
     "losses": 214,
-    "goals_for": 744,
-    "goals_against": 765,
+    "goals_for": 745,
+    "goals_against": 766,
     "goal_difference": -21,
-    "win_percentage": 38.0,
+    "win_percentage": 37.9,
     "avg_points": 1.39,
     "best_rank": 53,
     "worst_rank": 174,
-    "avg_rank": 101.55,
+    "avg_rank": 101.53,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Bhutan",
@@ -26,10 +26,10 @@
       "flag": "libya.png"
     },
     "home_matches": 224,
-    "away_matches": 142,
+    "away_matches": 143,
     "neutral_matches": 211,
     "first_match_date": "1965-09-02",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-08-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4858,
+      "rating1": 4878,
       "rating2": 4412,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 87.2,
+      "rank": 91,
+      "win_prob": 88.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 4858,
+      "rating1": 4878,
       "rating2": 4958,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 39.2,
+      "rank": 91,
+      "win_prob": 41.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4858,
+      "rating1": 4878,
       "rating2": 4872,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 37.7,
+      "rank": 91,
+      "win_prob": 39.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4858,
-      "rating2": 4582,
+      "rating1": 4878,
+      "rating2": 4592,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 76.9,
+      "rank": 91,
+      "win_prob": 77.7,
       "type": "fixture"
     },
     {
@@ -120,31 +120,31 @@
       "flag2": "kyrgyzstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4858,
-      "rating2": 4747,
+      "rating1": 4878,
+      "rating2": 4737,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 62.0,
+      "rank": 91,
+      "win_prob": 65.0,
       "type": "fixture"
     },
     {
       "date": "2025-08-30",
       "country": "Uzbekistan",
-      "tournament": "Central Asian Cup",
+      "tournament": "Central Asian Nations Cup",
       "team1": "Oman",
       "team2": "Uzbekistan",
       "original_team1": "Oman",
       "original_team2": "Uzbekistan",
       "flag1": "oman.png",
       "flag2": "uzbekistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4858,
-      "rating2": 5094,
-      "rating_ev": 0,
-      "rank": 98,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4878,
+      "rating2": 5074,
+      "rating_ev": 20,
+      "rank": 91,
       "win_prob": 18.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
