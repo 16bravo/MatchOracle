@@ -1,14 +1,14 @@
 {
   "team": "Afghanistan",
   "stats": {
-    "matches_played": 158,
+    "matches_played": 159,
     "wins": 36,
     "draws": 36,
-    "losses": 86,
+    "losses": 87,
     "goals_for": 149,
-    "goals_against": 326,
-    "goal_difference": -177,
-    "win_percentage": 22.8,
+    "goals_against": 328,
+    "goal_difference": -179,
+    "win_percentage": 22.6,
     "avg_points": 0.91,
     "best_rank": 86,
     "worst_rank": 200,
@@ -26,10 +26,10 @@
       "flag": "turkmenistan.png"
     },
     "home_matches": 9,
-    "away_matches": 61,
+    "away_matches": 62,
     "neutral_matches": 88,
     "first_match_date": "1941-08-24",
-    "last_match_date": "2025-08-29"
+    "last_match_date": "2025-09-01"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4356,
+      "rating1": 4347,
       "rating2": 4813,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 12.3,
+      "win_prob": 11.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4356,
+      "rating1": 4347,
       "rating2": 4132,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 72.7,
+      "win_prob": 72.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "pakistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4356,
+      "rating1": 4347,
       "rating2": 4064,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 78.1,
+      "win_prob": 77.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "pakistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4356,
+      "rating1": 4347,
       "rating2": 4064,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 69.7,
+      "win_prob": 68.9,
       "type": "fixture"
     },
     {
@@ -120,31 +120,31 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4356,
-      "rating2": 4522,
+      "rating1": 4347,
+      "rating2": 4518,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 32.5,
+      "win_prob": 32.1,
       "type": "fixture"
     },
     {
       "date": "2025-09-01",
       "country": "Tajikistan",
-      "tournament": "Central Asian Cup",
+      "tournament": "Central Asian Nations Cup",
       "team1": "Afghanistan",
       "team2": "Tajikistan",
       "original_team1": "Afghanistan",
       "original_team2": "Tajikistan",
       "flag1": "afghanistan.png",
       "flag2": "tajikistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4356,
-      "rating2": 4583,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4347,
+      "rating2": 4592,
+      "rating_ev": -9,
       "rank": 175,
       "win_prob": 19.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-08-29",
