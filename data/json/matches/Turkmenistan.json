@@ -1,18 +1,18 @@
 {
   "team": "Turkmenistan",
   "stats": {
-    "matches_played": 177,
+    "matches_played": 178,
     "wins": 65,
     "draws": 34,
-    "losses": 78,
-    "goals_for": 267,
-    "goals_against": 269,
-    "goal_difference": -2,
-    "win_percentage": 36.7,
+    "losses": 79,
+    "goals_for": 268,
+    "goals_against": 271,
+    "goal_difference": -3,
+    "win_percentage": 36.5,
     "avg_points": 1.29,
     "best_rank": 70,
     "worst_rank": 160,
-    "avg_rank": 124.72,
+    "avg_rank": 124.88,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Afghanistan",
@@ -26,10 +26,10 @@
       "flag": "tajikistan.png"
     },
     "home_matches": 40,
-    "away_matches": 71,
+    "away_matches": 72,
     "neutral_matches": 66,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2025-08-30"
+    "last_match_date": "2025-09-02"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4612,
       "rating2": 4689,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 29.6,
+      "rank": 154,
+      "win_prob": 31.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4612,
       "rating2": 4190,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 89.8,
+      "rank": 154,
+      "win_prob": 90.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4612,
       "rating2": 4085,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 93.1,
+      "rank": 154,
+      "win_prob": 93.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4612,
       "rating2": 4085,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 85.0,
+      "rank": 154,
+      "win_prob": 86.0,
       "type": "fixture"
     },
     {
@@ -120,31 +120,31 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
-      "rating2": 4878,
+      "rating1": 4612,
+      "rating2": 4884,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 22.3,
+      "rank": 154,
+      "win_prob": 23.4,
       "type": "fixture"
     },
     {
       "date": "2025-09-02",
       "country": "Uzbekistan",
-      "tournament": "Central Asian Cup",
+      "tournament": "Central Asian Nations Cup",
       "team1": "Turkmenistan",
       "team2": "Uzbekistan",
       "original_team1": "Turkmenistan",
       "original_team2": "Uzbekistan",
       "flag1": "turkmenistan.png",
       "flag2": "uzbekistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4592,
-      "rating2": 5074,
-      "rating_ev": 0,
-      "rank": 156,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4612,
+      "rating2": 5054,
+      "rating_ev": 20,
+      "rank": 154,
       "win_prob": 7.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-08-30",
