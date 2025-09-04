@@ -1,18 +1,18 @@
 {
   "team": "Gabon",
   "stats": {
-    "matches_played": 442,
-    "wins": 153,
+    "matches_played": 443,
+    "wins": 154,
     "draws": 125,
     "losses": 164,
-    "goals_for": 518,
+    "goals_for": 522,
     "goals_against": 531,
-    "goal_difference": -13,
-    "win_percentage": 34.6,
-    "avg_points": 1.32,
+    "goal_difference": -9,
+    "win_percentage": 34.8,
+    "avg_points": 1.33,
     "best_rank": 63,
     "worst_rank": 116,
-    "avg_rank": 88.62,
+    "avg_rank": 88.61,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Benin",
@@ -27,9 +27,9 @@
     },
     "home_matches": 177,
     "away_matches": 148,
-    "neutral_matches": 117,
+    "neutral_matches": 118,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-06-09"
+    "last_match_date": "2025-09-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4897,
+      "rating1": 4911,
       "rating2": 5072,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 31.7,
+      "rank": 86,
+      "win_prob": 33.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 4897,
+      "rating1": 4911,
       "rating2": 4867,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 53.3,
+      "rank": 86,
+      "win_prob": 54.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4897,
+      "rating1": 4911,
       "rating2": 5054,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 33.4,
+      "rank": 86,
+      "win_prob": 34.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4897,
+      "rating1": 4911,
       "rating2": 5072,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 41.8,
+      "rank": 86,
+      "win_prob": 43.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Seychelles",
       "flag1": "gabon.png",
       "flag2": "seychelles.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4897,
-      "rating2": 4201,
-      "rating_ev": 0,
-      "rank": 88,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4911,
+      "rating2": 4187,
+      "rating_ev": 14,
+      "rank": 86,
       "win_prob": 94.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-09",

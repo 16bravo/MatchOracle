@@ -1,18 +1,18 @@
 {
   "team": "Seychelles",
   "stats": {
-    "matches_played": 178,
+    "matches_played": 179,
     "wins": 23,
     "draws": 32,
-    "losses": 123,
+    "losses": 124,
     "goals_for": 135,
-    "goals_against": 389,
-    "goal_difference": -254,
-    "win_percentage": 12.9,
-    "avg_points": 0.57,
+    "goals_against": 393,
+    "goal_difference": -258,
+    "win_percentage": 12.8,
+    "avg_points": 0.56,
     "best_rank": 132,
     "worst_rank": 190,
-    "avg_rank": 168.03,
+    "avg_rank": 168.12,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Maldives",
@@ -27,9 +27,9 @@
     },
     "home_matches": 48,
     "away_matches": 57,
-    "neutral_matches": 73,
+    "neutral_matches": 74,
     "first_match_date": "1974-03-13",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-09-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kenya.png",
       "score1": "",
       "score2": "",
-      "rating1": 4201,
+      "rating1": 4187,
       "rating2": 4846,
       "rating_ev": 0,
-      "rank": 183,
-      "win_prob": 4.1,
+      "rank": 185,
+      "win_prob": 3.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Gabon",
       "flag1": "seychelles.png",
       "flag2": "gabon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4201,
-      "rating2": 4897,
-      "rating_ev": 0,
-      "rank": 183,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4187,
+      "rating2": 4911,
+      "rating_ev": -14,
+      "rank": 185,
       "win_prob": 5.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

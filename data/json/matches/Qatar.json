@@ -1,18 +1,18 @@
 {
   "team": "Qatar",
   "stats": {
-    "matches_played": 675,
+    "matches_played": 676,
     "wins": 282,
-    "draws": 170,
+    "draws": 171,
     "losses": 223,
-    "goals_for": 969,
-    "goals_against": 794,
+    "goals_for": 971,
+    "goals_against": 796,
     "goal_difference": 175,
-    "win_percentage": 41.8,
-    "avg_points": 1.51,
+    "win_percentage": 41.7,
+    "avg_points": 1.5,
     "best_rank": 34,
     "worst_rank": 147,
-    "avg_rank": 83.46,
+    "avg_rank": 83.48,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Bhutan",
@@ -25,15 +25,15 @@
       "date": "1973-12-31",
       "flag": "kuwait.png"
     },
-    "home_matches": 310,
+    "home_matches": 311,
     "away_matches": 144,
     "neutral_matches": 221,
     "first_match_date": "1970-03-27",
-    "last_match_date": "2025-08-24"
+    "last_match_date": "2025-09-03"
   },
   "matches": [
     {
-      "date": "2025-12-03",
+      "date": "2025-12-04",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Qatar",
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4872,
+      "rating1": 4868,
       "rating2": 5048,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 41.7,
+      "rank": 96,
+      "win_prob": 41.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 4872,
+      "rating1": 4868,
       "rating2": 4958,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 51.5,
+      "rank": 96,
+      "win_prob": 51.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4872,
+      "rating1": 4868,
       "rating2": 4884,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 59.5,
+      "rank": 96,
+      "win_prob": 59.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "russia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4872,
+      "rating1": 4868,
       "rating2": 5372,
       "rating_ev": 0,
-      "rank": 94,
-      "win_prob": 15.4,
+      "rank": 96,
+      "win_prob": 15.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Bahrain",
       "flag1": "qatar.png",
       "flag2": "bahrain.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4872,
-      "rating2": 4833,
-      "rating_ev": 0,
-      "rank": 94,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4868,
+      "rating2": 4837,
+      "rating_ev": -4,
+      "rank": 96,
       "win_prob": 64.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-08-24",

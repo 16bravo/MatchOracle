@@ -1,18 +1,18 @@
 {
   "team": "Bahrain",
   "stats": {
-    "matches_played": 618,
+    "matches_played": 619,
     "wins": 220,
-    "draws": 163,
+    "draws": 164,
     "losses": 235,
-    "goals_for": 762,
-    "goals_against": 784,
+    "goals_for": 764,
+    "goals_against": 786,
     "goal_difference": -22,
-    "win_percentage": 35.6,
+    "win_percentage": 35.5,
     "avg_points": 1.33,
     "best_rank": 55,
     "worst_rank": 148,
-    "avg_rank": 96.89,
+    "avg_rank": 96.9,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Indonesia",
@@ -26,14 +26,14 @@
       "flag": "iraq_3.png"
     },
     "home_matches": 210,
-    "away_matches": 155,
+    "away_matches": 156,
     "neutral_matches": 253,
     "first_match_date": "1966-04-01",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-03"
   },
   "matches": [
     {
-      "date": "2025-11-03",
+      "date": "2025-11-04",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Bahrain",
@@ -44,11 +44,11 @@
       "flag2": "djibouti.png",
       "score1": "",
       "score2": "",
-      "rating1": 4833,
+      "rating1": 4837,
       "rating2": 4298,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 90.7,
+      "rank": 106,
+      "win_prob": 90.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 4833,
+      "rating1": 4837,
       "rating2": 4958,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 27.1,
+      "rank": 106,
+      "win_prob": 27.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Qatar",
       "flag1": "bahrain.png",
       "flag2": "qatar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4833,
-      "rating2": 4872,
-      "rating_ev": 0,
-      "rank": 108,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4837,
+      "rating2": 4868,
+      "rating_ev": 4,
+      "rank": 106,
       "win_prob": 35.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
