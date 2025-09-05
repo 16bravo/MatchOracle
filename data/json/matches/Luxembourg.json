@@ -1,18 +1,18 @@
 {
   "team": "Luxembourg",
   "stats": {
-    "matches_played": 460,
+    "matches_played": 461,
     "wins": 51,
     "draws": 61,
-    "losses": 348,
-    "goals_for": 299,
-    "goals_against": 1200,
-    "goal_difference": -901,
+    "losses": 349,
+    "goals_for": 300,
+    "goals_against": 1203,
+    "goal_difference": -903,
     "win_percentage": 11.1,
-    "avg_points": 0.47,
+    "avg_points": 0.46,
     "best_rank": 23,
     "worst_rank": 166,
-    "avg_rank": 103.37,
+    "avg_rank": 103.34,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Afghanistan",
@@ -25,11 +25,11 @@
       "date": "1936-08-04",
       "flag": "germany_1.png"
     },
-    "home_matches": 250,
+    "home_matches": 251,
     "away_matches": 194,
     "neutral_matches": 16,
     "first_match_date": "1911-10-29",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4919,
-      "rating2": 4703,
+      "rating1": 4895,
+      "rating2": 4715,
       "rating_ev": 0,
-      "rank": 84,
-      "win_prob": 80.0,
+      "rank": 88,
+      "win_prob": 77.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4919,
-      "rating2": 4703,
+      "rating1": 4895,
+      "rating2": 4715,
       "rating_ev": 0,
-      "rank": 84,
-      "win_prob": 62.4,
+      "rank": 88,
+      "win_prob": 58.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "northern_ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4919,
-      "rating2": 5078,
+      "rating1": 4895,
+      "rating2": 5102,
       "rating_ev": 0,
-      "rank": 84,
-      "win_prob": 24.3,
+      "rank": 88,
+      "win_prob": 20.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 4919,
-      "rating2": 5514,
+      "rating1": 4895,
+      "rating2": 5472,
       "rating_ev": 0,
-      "rank": 84,
-      "win_prob": 11.1,
+      "rank": 88,
+      "win_prob": 11.8,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4919,
-      "rating2": 5172,
+      "rating1": 4895,
+      "rating2": 5214,
       "rating_ev": 0,
-      "rank": 84,
-      "win_prob": 17.6,
+      "rank": 88,
+      "win_prob": 13.9,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 4919,
-      "rating2": 5514,
+      "rating1": 4895,
+      "rating2": 5472,
       "rating_ev": 0,
-      "rank": 84,
-      "win_prob": 4.9,
+      "rank": 88,
+      "win_prob": 5.3,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4919,
-      "rating2": 5172,
+      "rating1": 4895,
+      "rating2": 5214,
       "rating_ev": 0,
-      "rank": 84,
-      "win_prob": 33.9,
+      "rank": 88,
+      "win_prob": 27.9,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Northern Ireland",
       "flag1": "luxembourg.png",
       "flag2": "northern_ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4919,
-      "rating2": 5078,
-      "rating_ev": 0,
-      "rank": 84,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4895,
+      "rating2": 5102,
+      "rating_ev": -24,
+      "rank": 88,
       "win_prob": 43.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

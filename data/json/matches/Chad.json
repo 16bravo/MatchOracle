@@ -1,18 +1,18 @@
 {
   "team": "Chad",
   "stats": {
-    "matches_played": 173,
+    "matches_played": 174,
     "wins": 34,
-    "draws": 39,
+    "draws": 40,
     "losses": 100,
-    "goals_for": 153,
-    "goals_against": 317,
+    "goals_for": 154,
+    "goals_against": 318,
     "goal_difference": -164,
-    "win_percentage": 19.7,
+    "win_percentage": 19.5,
     "avg_points": 0.82,
     "best_rank": 104,
     "worst_rank": 155,
-    "avg_rank": 131.17,
+    "avg_rank": 131.29,
     "biggest_win": {
       "score": "5-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -25,11 +25,11 @@
       "date": "1964-03-28",
       "flag": "congo.png"
     },
-    "home_matches": 40,
+    "home_matches": 41,
     "away_matches": 58,
     "neutral_matches": 75,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "madagascar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4602,
-      "rating2": 4761,
+      "rating1": 4620,
+      "rating2": 4788,
       "rating_ev": 0,
-      "rank": 155,
-      "win_prob": 33.2,
+      "rank": 152,
+      "win_prob": 32.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Ghana",
       "flag1": "chad.png",
       "flag2": "ghana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4602,
-      "rating2": 5010,
-      "rating_ev": 0,
-      "rank": 155,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4620,
+      "rating2": 4992,
+      "rating_ev": 18,
+      "rank": 152,
       "win_prob": 21.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

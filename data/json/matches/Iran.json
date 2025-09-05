@@ -1,18 +1,18 @@
 {
   "team": "Iran",
   "stats": {
-    "matches_played": 669,
+    "matches_played": 670,
     "wins": 383,
-    "draws": 155,
+    "draws": 156,
     "losses": 131,
-    "goals_for": 1274,
-    "goals_against": 523,
+    "goals_for": 1276,
+    "goals_against": 525,
     "goal_difference": 751,
     "win_percentage": 57.2,
     "avg_points": 1.95,
     "best_rank": 12,
     "worst_rank": 104,
-    "avg_rank": 42.37,
+    "avg_rank": 42.38,
     "biggest_win": {
       "score": "19-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "turkey.png"
     },
     "home_matches": 225,
-    "away_matches": 191,
+    "away_matches": 192,
     "neutral_matches": 253,
     "first_match_date": "1941-08-23",
-    "last_match_date": "2025-09-01"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,31 +44,31 @@
       "flag2": "russia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5171,
-      "rating2": 5372,
+      "rating1": 5143,
+      "rating2": 5360,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 21.1,
+      "rank": 48,
+      "win_prob": 20.0,
       "type": "fixture"
     },
     {
       "date": "2025-09-04",
       "country": "Tajikistan",
-      "tournament": "Central Asian Cup",
+      "tournament": "Central Asian Nations Cup",
       "team1": "Iran",
       "team2": "Tajikistan",
       "original_team1": "Iran",
       "original_team2": "Tajikistan",
       "flag1": "iran.png",
       "flag2": "tajikistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5171,
-      "rating2": 4592,
-      "rating_ev": 0,
-      "rank": 45,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5143,
+      "rating2": 4620,
+      "rating_ev": -28,
+      "rank": 48,
       "win_prob": 88.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-01",

@@ -1,18 +1,18 @@
 {
   "team": "Gibraltar",
   "stats": {
-    "matches_played": 100,
+    "matches_played": 101,
     "wins": 12,
     "draws": 14,
-    "losses": 74,
+    "losses": 75,
     "goals_for": 43,
-    "goals_against": 315,
-    "goal_difference": -272,
-    "win_percentage": 12.0,
+    "goals_against": 316,
+    "goal_difference": -273,
+    "win_percentage": 11.9,
     "avg_points": 0.5,
     "best_rank": 162,
     "worst_rank": 186,
-    "avg_rank": 174.84,
+    "avg_rank": 174.77,
     "biggest_win": {
       "score": "3-0",
       "opponent": "Faroe Islands",
@@ -25,11 +25,11 @@
       "date": "2023-11-18",
       "flag": "france.png"
     },
-    "home_matches": 32,
+    "home_matches": 33,
     "away_matches": 46,
     "neutral_matches": 22,
     "first_match_date": "2007-07-04",
-    "last_match_date": "2025-06-09"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4432,
+      "rating1": 4442,
       "rating2": 4797,
       "rating_ev": 0,
-      "rank": 169,
-      "win_prob": 11.7,
+      "rank": 168,
+      "win_prob": 12.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4432,
+      "rating1": 4442,
       "rating2": 4797,
       "rating_ev": 0,
-      "rank": 169,
-      "win_prob": 24.1,
+      "rank": 168,
+      "win_prob": 24.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4432,
+      "rating1": 4442,
       "rating2": 5226,
       "rating_ev": 0,
-      "rank": 169,
-      "win_prob": 2.4,
+      "rank": 168,
+      "win_prob": 2.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 4432,
+      "rating1": 4442,
       "rating2": 5007,
       "rating_ev": 0,
-      "rank": 169,
-      "win_prob": 11.9,
+      "rank": 168,
+      "win_prob": 12.3,
       "type": "fixture"
     },
     {
@@ -120,10 +120,10 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4432,
+      "rating1": 4442,
       "rating2": 5469,
       "rating_ev": 0,
-      "rank": 169,
+      "rank": 168,
       "win_prob": 1.1,
       "type": "fixture"
     },
@@ -139,11 +139,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4432,
+      "rating1": 4442,
       "rating2": 4825,
       "rating_ev": 0,
-      "rank": 169,
-      "win_prob": 22.1,
+      "rank": 168,
+      "win_prob": 22.8,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Albania",
       "flag1": "gibraltar.png",
       "flag2": "albania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4432,
-      "rating2": 5151,
-      "rating_ev": 0,
-      "rank": 169,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4442,
+      "rating2": 5141,
+      "rating_ev": 10,
+      "rank": 168,
       "win_prob": 7.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-09",

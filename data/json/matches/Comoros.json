@@ -1,18 +1,18 @@
 {
   "team": "Comoros",
   "stats": {
-    "matches_played": 142,
+    "matches_played": 143,
     "wins": 37,
     "draws": 33,
-    "losses": 72,
+    "losses": 73,
     "goals_for": 130,
-    "goals_against": 225,
-    "goal_difference": -95,
-    "win_percentage": 26.1,
+    "goals_against": 228,
+    "goal_difference": -98,
+    "win_percentage": 25.9,
     "avg_points": 1.01,
     "best_rank": 91,
     "worst_rank": 191,
-    "avg_rank": 148.89,
+    "avg_rank": 148.58,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Seychelles",
@@ -27,9 +27,9 @@
     },
     "home_matches": 27,
     "away_matches": 32,
-    "neutral_matches": 83,
+    "neutral_matches": 84,
     "first_match_date": "1979-08-26",
-    "last_match_date": "2025-06-15"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 4864,
-      "rating2": 5105,
+      "rating1": 4838,
+      "rating2": 5131,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 25.8,
+      "rank": 104,
+      "win_prob": 21.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4864,
+      "rating1": 4838,
       "rating2": 4844,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 52.2,
+      "rank": 104,
+      "win_prob": 49.3,
       "type": "fixture"
     },
     {
@@ -82,15 +82,15 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4864,
+      "rating1": 4838,
       "rating2": 5350,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 7.4,
+      "rank": 104,
+      "win_prob": 6.7,
       "type": "fixture"
     },
     {
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Comoros",
@@ -101,11 +101,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 4864,
+      "rating1": 4838,
       "rating2": 4487,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 83.7,
+      "rank": 104,
+      "win_prob": 82.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "cta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4864,
-      "rating2": 4756,
+      "rating1": 4838,
+      "rating2": 4729,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 61.7,
+      "rank": 104,
+      "win_prob": 61.8,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Mali",
       "flag1": "comoros.png",
       "flag2": "mali.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4864,
-      "rating2": 5105,
-      "rating_ev": 0,
-      "rank": 98,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4838,
+      "rating2": 5131,
+      "rating_ev": -26,
+      "rank": 104,
       "win_prob": 25.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-15",

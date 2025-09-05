@@ -1,18 +1,18 @@
 {
   "team": "Cameroon",
   "stats": {
-    "matches_played": 644,
-    "wins": 280,
+    "matches_played": 645,
+    "wins": 281,
     "draws": 197,
     "losses": 167,
-    "goals_for": 933,
+    "goals_for": 936,
     "goals_against": 700,
-    "goal_difference": 233,
-    "win_percentage": 43.5,
+    "goal_difference": 236,
+    "win_percentage": 43.6,
     "avg_points": 1.61,
     "best_rank": 23,
     "worst_rank": 80,
-    "avg_rank": 52.76,
+    "avg_rank": 52.77,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Chad",
@@ -25,11 +25,11 @@
       "date": "1984-10-04",
       "flag": "south_korea.png"
     },
-    "home_matches": 182,
+    "home_matches": 183,
     "away_matches": 238,
     "neutral_matches": 224,
     "first_match_date": "1953-09-30",
-    "last_match_date": "2025-06-09"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 5054,
+      "rating1": 5068,
       "rating2": 4867,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 69.4,
+      "rank": 60,
+      "win_prob": 70.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5054,
+      "rating1": 5068,
       "rating2": 5072,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 48.0,
+      "rank": 60,
+      "win_prob": 49.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5054,
+      "rating1": 5068,
       "rating2": 4911,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 65.2,
+      "rank": 60,
+      "win_prob": 66.6,
       "type": "fixture"
     },
     {
@@ -101,10 +101,10 @@
       "flag2": "cape_verde.png",
       "score1": "",
       "score2": "",
-      "rating1": 5054,
-      "rating2": 4938,
+      "rating1": 5068,
+      "rating2": 4952,
       "rating_ev": 0,
-      "rank": 64,
+      "rank": 60,
       "win_prob": 51.8,
       "type": "fixture"
     },
@@ -118,14 +118,14 @@
       "original_team2": "Eswatini",
       "flag1": "cameroon.png",
       "flag2": "eswatini.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5054,
-      "rating2": 4697,
-      "rating_ev": 0,
-      "rank": 64,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5068,
+      "rating2": 4683,
+      "rating_ev": 14,
+      "rank": 60,
       "win_prob": 88.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-09",

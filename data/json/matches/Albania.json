@@ -1,18 +1,18 @@
 {
   "team": "Albania",
   "stats": {
-    "matches_played": 398,
-    "wins": 110,
+    "matches_played": 399,
+    "wins": 111,
     "draws": 85,
     "losses": 203,
-    "goals_for": 380,
+    "goals_for": 381,
     "goals_against": 592,
-    "goal_difference": -212,
-    "win_percentage": 27.6,
-    "avg_points": 1.04,
+    "goal_difference": -211,
+    "win_percentage": 27.8,
+    "avg_points": 1.05,
     "best_rank": 34,
     "worst_rank": 88,
-    "avg_rank": 60.84,
+    "avg_rank": 60.81,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Vietnam",
@@ -26,10 +26,10 @@
       "flag": "hungary_4.png"
     },
     "home_matches": 186,
-    "away_matches": 180,
+    "away_matches": 181,
     "neutral_matches": 32,
     "first_match_date": "1946-10-07",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5151,
+      "rating1": 5141,
       "rating2": 5498,
       "rating_ev": 0,
       "rank": 49,
-      "win_prob": 25.6,
+      "win_prob": 24.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 5151,
+      "rating1": 5141,
       "rating2": 4664,
       "rating_ev": 0,
       "rank": 49,
-      "win_prob": 83.9,
+      "win_prob": 83.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5151,
+      "rating1": 5141,
       "rating2": 5343,
       "rating_ev": 0,
       "rank": 49,
-      "win_prob": 21.7,
+      "win_prob": 21.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5151,
+      "rating1": 5141,
       "rating2": 4797,
       "rating_ev": 0,
       "rank": 49,
-      "win_prob": 87.8,
+      "win_prob": 87.4,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Gibraltar",
       "flag1": "albania.png",
       "flag2": "gibraltar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5151,
-      "rating2": 4432,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5141,
+      "rating2": 4442,
+      "rating_ev": -10,
       "rank": 49,
       "win_prob": 92.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

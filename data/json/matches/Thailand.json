@@ -1,18 +1,18 @@
 {
   "team": "Thailand",
   "stats": {
-    "matches_played": 924,
-    "wins": 359,
+    "matches_played": 925,
+    "wins": 360,
     "draws": 211,
     "losses": 354,
-    "goals_for": 1469,
+    "goals_for": 1472,
     "goals_against": 1388,
-    "goal_difference": 81,
+    "goal_difference": 84,
     "win_percentage": 38.9,
-    "avg_points": 1.39,
+    "avg_points": 1.4,
     "best_rank": 69,
     "worst_rank": 145,
-    "avg_rank": 113.13,
+    "avg_rank": 113.16,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Brunei",
@@ -25,11 +25,11 @@
       "date": "2023-10-12",
       "flag": "georgia.png"
     },
-    "home_matches": 384,
+    "home_matches": 385,
     "away_matches": 197,
     "neutral_matches": 343,
     "first_match_date": "1948-08-20",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4703,
       "rating2": 4612,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 68.5,
+      "rank": 140,
+      "win_prob": 69.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4703,
       "rating2": 4085,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 89.2,
+      "rank": 140,
+      "win_prob": 89.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4703,
       "rating2": 4190,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 92.9,
+      "rank": 140,
+      "win_prob": 93.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,30 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4703,
       "rating2": 4190,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 84.5,
+      "rank": 140,
+      "win_prob": 85.3,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-09-07",
+      "country": "Thailand",
+      "tournament": "King's Cup",
+      "team1": "Thailand",
+      "team2": "Iraq",
+      "original_team1": "Thailand",
+      "original_team2": "Iraq",
+      "flag1": "thailand.png",
+      "flag2": "iraq.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4703,
+      "rating2": 4918,
+      "rating_ev": 0,
+      "rank": 140,
+      "win_prob": 37.7,
       "type": "fixture"
     },
     {
@@ -118,14 +137,14 @@
       "original_team2": "Fiji",
       "flag1": "thailand.png",
       "flag2": "fiji.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4689,
-      "rating2": 4330,
-      "rating_ev": 0,
-      "rank": 141,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4703,
+      "rating2": 4316,
+      "rating_ev": 14,
+      "rank": 140,
       "win_prob": 88.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

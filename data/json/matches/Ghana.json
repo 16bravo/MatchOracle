@@ -1,18 +1,18 @@
 {
   "team": "Ghana",
   "stats": {
-    "matches_played": 750,
+    "matches_played": 751,
     "wins": 360,
-    "draws": 187,
+    "draws": 188,
     "losses": 203,
-    "goals_for": 1200,
-    "goals_against": 779,
+    "goals_for": 1201,
+    "goals_against": 780,
     "goal_difference": 421,
-    "win_percentage": 48.0,
+    "win_percentage": 47.9,
     "avg_points": 1.69,
     "best_rank": 14,
     "worst_rank": 89,
-    "avg_rank": 49.57,
+    "avg_rank": 49.6,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Nyasaland",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 232,
-    "away_matches": 277,
+    "away_matches": 278,
     "neutral_matches": 241,
     "first_match_date": "1950-05-28",
-    "last_match_date": "2025-05-31"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5010,
-      "rating2": 5105,
+      "rating1": 4992,
+      "rating2": 5131,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 50.5,
+      "rank": 72,
+      "win_prob": 45.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Chad",
       "flag1": "ghana.png",
       "flag2": "chad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5010,
-      "rating2": 4602,
-      "rating_ev": 0,
-      "rank": 70,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4992,
+      "rating2": 4620,
+      "rating_ev": -18,
+      "rank": 72,
       "win_prob": 79.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-05-31",

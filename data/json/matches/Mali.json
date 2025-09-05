@@ -1,18 +1,18 @@
 {
   "team": "Mali",
   "stats": {
-    "matches_played": 597,
-    "wins": 244,
+    "matches_played": 598,
+    "wins": 245,
     "draws": 157,
     "losses": 196,
-    "goals_for": 794,
+    "goals_for": 797,
     "goals_against": 680,
-    "goal_difference": 114,
-    "win_percentage": 40.9,
+    "goal_difference": 117,
+    "win_percentage": 41.0,
     "avg_points": 1.49,
     "best_rank": 48,
     "worst_rank": 115,
-    "avg_rank": 76.79,
+    "avg_rank": 76.74,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 187,
     "away_matches": 216,
-    "neutral_matches": 194,
+    "neutral_matches": 195,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5105,
-      "rating2": 4864,
+      "rating1": 5131,
+      "rating2": 4838,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 74.2,
+      "rank": 50,
+      "win_prob": 78.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5105,
+      "rating1": 5131,
       "rating2": 5350,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 18.1,
+      "rank": 50,
+      "win_prob": 19.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5105,
+      "rating1": 5131,
       "rating2": 4844,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 75.8,
+      "rank": 50,
+      "win_prob": 77.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5105,
-      "rating2": 5010,
+      "rating1": 5131,
+      "rating2": 4992,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 49.5,
+      "rank": 50,
+      "win_prob": 54.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Comoros",
       "flag1": "mali.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5105,
-      "rating2": 4864,
-      "rating_ev": 0,
-      "rank": 56,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5131,
+      "rating2": 4838,
+      "rating_ev": 26,
+      "rank": 50,
       "win_prob": 74.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

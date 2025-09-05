@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 524,
+    "matches_played": 525,
     "wins": 118,
     "draws": 120,
-    "losses": 286,
+    "losses": 287,
     "goals_for": 542,
-    "goals_against": 1034,
-    "goal_difference": -492,
+    "goals_against": 1037,
+    "goal_difference": -495,
     "win_percentage": 22.5,
     "avg_points": 0.9,
     "best_rank": 23,
     "worst_rank": 78,
-    "avg_rank": 50.67,
+    "avg_rank": 50.69,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -26,10 +26,10 @@
       "flag": "uruguay.png"
     },
     "home_matches": 185,
-    "away_matches": 200,
+    "away_matches": 201,
     "neutral_matches": 139,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,10 +44,10 @@
       "flag2": "russia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5078,
-      "rating2": 5372,
+      "rating1": 5066,
+      "rating2": 5360,
       "rating_ev": 0,
-      "rank": 58,
+      "rank": 61,
       "win_prob": 15.2,
       "type": "fixture"
     },
@@ -63,11 +63,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5078,
+      "rating1": 5066,
       "rating2": 5500,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 20.1,
+      "rank": 61,
+      "win_prob": 19.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Colombia",
       "flag1": "bolivia.png",
       "flag2": "colombia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5078,
-      "rating2": 5472,
-      "rating_ev": 0,
-      "rank": 58,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 5066,
+      "rating2": 5484,
+      "rating_ev": -12,
+      "rank": 60,
       "win_prob": 10.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

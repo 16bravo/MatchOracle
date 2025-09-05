@@ -1,18 +1,18 @@
 {
   "team": "Tajikistan",
   "stats": {
-    "matches_played": 207,
+    "matches_played": 208,
     "wins": 76,
-    "draws": 43,
+    "draws": 44,
     "losses": 88,
-    "goals_for": 288,
-    "goals_against": 305,
+    "goals_for": 290,
+    "goals_against": 307,
     "goal_difference": -17,
-    "win_percentage": 36.7,
+    "win_percentage": 36.5,
     "avg_points": 1.31,
     "best_rank": 83,
     "worst_rank": 165,
-    "avg_rank": 139.58,
+    "avg_rank": 139.64,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "2005-04-10",
       "flag": "iran.png"
     },
-    "home_matches": 52,
+    "home_matches": 53,
     "away_matches": 83,
     "neutral_matches": 72,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2025-09-01"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4620,
       "rating2": 4488,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 71.0,
+      "rank": 152,
+      "win_prob": 73.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4620,
       "rating2": 3815,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 96.1,
+      "rank": 152,
+      "win_prob": 96.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4620,
       "rating2": 4089,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 93.0,
+      "rank": 152,
+      "win_prob": 93.7,
       "type": "fixture"
     },
     {
@@ -101,31 +101,31 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4620,
       "rating2": 4089,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 84.7,
+      "rank": 152,
+      "win_prob": 86.1,
       "type": "fixture"
     },
     {
       "date": "2025-09-04",
       "country": "Tajikistan",
-      "tournament": "Central Asian Cup",
+      "tournament": "Central Asian Nations Cup",
       "team1": "Tajikistan",
       "team2": "Iran",
       "original_team1": "Tajikistan",
       "original_team2": "Iran",
       "flag1": "tajikistan.png",
       "flag2": "iran.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4592,
-      "rating2": 5171,
-      "rating_ev": 0,
-      "rank": 156,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4620,
+      "rating2": 5143,
+      "rating_ev": 28,
+      "rank": 152,
       "win_prob": 11.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-01",

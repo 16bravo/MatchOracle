@@ -1,15 +1,15 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1003,
-    "wins": 441,
+    "matches_played": 1004,
+    "wins": 442,
     "draws": 246,
     "losses": 316,
-    "goals_for": 1584,
+    "goals_for": 1587,
     "goals_against": 1225,
-    "goal_difference": 359,
+    "goal_difference": 362,
     "win_percentage": 44.0,
-    "avg_points": 1.56,
+    "avg_points": 1.57,
     "best_rank": 1,
     "worst_rank": 39,
     "avg_rank": 13.46,
@@ -25,11 +25,11 @@
       "date": "1902-07-20",
       "flag": "argentina.png"
     },
-    "home_matches": 331,
+    "home_matches": 332,
     "away_matches": 424,
     "neutral_matches": 248,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5407,
+      "rating1": 5433,
       "rating2": 5191,
       "rating_ev": 0,
-      "rank": 13,
-      "win_prob": 62.4,
+      "rank": 12,
+      "win_prob": 65.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "chile.png",
       "score1": "",
       "score2": "",
-      "rating1": 5407,
+      "rating1": 5433,
       "rating2": 5201,
       "rating_ev": 0,
-      "rank": 13,
-      "win_prob": 61.4,
+      "rank": 12,
+      "win_prob": 64.0,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Peru",
       "flag1": "uruguay.png",
       "flag2": "peru.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5407,
-      "rating2": 5250,
-      "rating_ev": 0,
-      "rank": 13,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5433,
+      "rating2": 5224,
+      "rating_ev": 26,
+      "rank": 12,
       "win_prob": 75.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

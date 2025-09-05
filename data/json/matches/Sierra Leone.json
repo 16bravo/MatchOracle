@@ -1,18 +1,18 @@
 {
   "team": "Sierra Leone",
   "stats": {
-    "matches_played": 321,
+    "matches_played": 322,
     "wins": 91,
-    "draws": 85,
+    "draws": 86,
     "losses": 145,
-    "goals_for": 303,
-    "goals_against": 451,
+    "goals_for": 304,
+    "goals_against": 452,
     "goal_difference": -148,
     "win_percentage": 28.3,
-    "avg_points": 1.12,
+    "avg_points": 1.11,
     "best_rank": 53,
     "worst_rank": 146,
-    "avg_rank": 98.98,
+    "avg_rank": 99.04,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Niger",
@@ -26,10 +26,10 @@
       "flag": "mali.png"
     },
     "home_matches": 110,
-    "away_matches": 126,
+    "away_matches": 127,
     "neutral_matches": 85,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2025-03-25"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ethiopia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4797,
+      "rating1": 4800,
       "rating2": 4757,
       "rating_ev": 0,
-      "rank": 119,
-      "win_prob": 54.4,
+      "rank": 118,
+      "win_prob": 54.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Guinea-Bissau",
       "flag1": "sierra_leone.png",
       "flag2": "guinea_bissau.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4797,
-      "rating2": 4755,
-      "rating_ev": 0,
-      "rank": 119,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4800,
+      "rating2": 4752,
+      "rating_ev": 3,
+      "rank": 118,
       "win_prob": 43.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-25",

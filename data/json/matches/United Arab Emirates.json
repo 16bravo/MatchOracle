@@ -1,18 +1,18 @@
 {
   "team": "United Arab Emirates",
   "stats": {
-    "matches_played": 645,
-    "wins": 256,
+    "matches_played": 646,
+    "wins": 257,
     "draws": 162,
     "losses": 227,
-    "goals_for": 905,
-    "goals_against": 795,
-    "goal_difference": 110,
-    "win_percentage": 39.7,
+    "goals_for": 908,
+    "goals_against": 796,
+    "goal_difference": 112,
+    "win_percentage": 39.8,
     "avg_points": 1.44,
     "best_rank": 47,
     "worst_rank": 153,
-    "avg_rank": 87.04,
+    "avg_rank": 87.02,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Brunei",
@@ -25,15 +25,15 @@
       "date": "2005-11-12",
       "flag": "brazil.png"
     },
-    "home_matches": 277,
+    "home_matches": 278,
     "away_matches": 138,
     "neutral_matches": 230,
     "first_match_date": "1972-03-17",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
-      "date": "2025-12-04",
+      "date": "2025-12-05",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "United Arab Emirates",
@@ -44,15 +44,15 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 4958,
+      "rating1": 4965,
       "rating2": 5118,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 33.1,
+      "win_prob": 33.8,
       "type": "fixture"
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-05",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "United Arab Emirates",
@@ -63,11 +63,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4958,
-      "rating2": 5051,
+      "rating1": 4965,
+      "rating2": 5063,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 39.9,
+      "win_prob": 39.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4958,
+      "rating1": 4965,
       "rating2": 4868,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 48.9,
+      "win_prob": 49.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4958,
+      "rating1": 4965,
       "rating2": 4884,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 58.1,
+      "win_prob": 58.8,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "bahrain.png",
       "score1": "",
       "score2": "",
-      "rating1": 4958,
+      "rating1": 4965,
       "rating2": 4837,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 72.5,
+      "win_prob": 73.1,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Syria",
       "flag1": "uae.png",
       "flag2": "syria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4958,
-      "rating2": 4813,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4965,
+      "rating2": 4806,
+      "rating_ev": 7,
       "rank": 76,
       "win_prob": 74.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

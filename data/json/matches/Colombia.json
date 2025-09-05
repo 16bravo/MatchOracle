@@ -1,18 +1,18 @@
 {
   "team": "Colombia",
   "stats": {
-    "matches_played": 643,
-    "wins": 260,
+    "matches_played": 644,
+    "wins": 261,
     "draws": 178,
     "losses": 205,
-    "goals_for": 825,
+    "goals_for": 828,
     "goals_against": 739,
-    "goal_difference": 86,
-    "win_percentage": 40.4,
+    "goal_difference": 89,
+    "win_percentage": 40.5,
     "avg_points": 1.49,
     "best_rank": 3,
     "worst_rank": 77,
-    "avg_rank": 25.31,
+    "avg_rank": 25.28,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guyana",
@@ -25,11 +25,11 @@
       "date": "1957-03-24",
       "flag": "brazil.png"
     },
-    "home_matches": 183,
+    "home_matches": 184,
     "away_matches": 229,
     "neutral_matches": 231,
     "first_match_date": "1938-02-10",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
+      "rating1": 5484,
       "rating2": 5045,
       "rating_ev": 0,
-      "rank": 9,
-      "win_prob": 86.3,
+      "rank": 8,
+      "win_prob": 86.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
+      "rating1": 5484,
       "rating2": 5093,
       "rating_ev": 0,
-      "rank": 9,
-      "win_prob": 83.8,
+      "rank": 8,
+      "win_prob": 84.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
+      "rating1": 5484,
       "rating2": 5243,
       "rating_ev": 0,
-      "rank": 9,
-      "win_prob": 73.2,
+      "rank": 8,
+      "win_prob": 74.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
+      "rating1": 5484,
       "rating2": 5290,
       "rating_ev": 0,
-      "rank": 9,
-      "win_prob": 69.0,
+      "rank": 8,
+      "win_prob": 70.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "venezuela.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
-      "rating2": 5238,
+      "rating1": 5484,
+      "rating2": 5225,
       "rating_ev": 0,
-      "rank": 9,
-      "win_prob": 64.2,
+      "rank": 8,
+      "win_prob": 66.7,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Bolivia",
       "flag1": "colombia.png",
       "flag2": "bolivia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5472,
-      "rating2": 5078,
-      "rating_ev": 0,
-      "rank": 9,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5484,
+      "rating2": 5066,
+      "rating_ev": 12,
+      "rank": 8,
       "win_prob": 89.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

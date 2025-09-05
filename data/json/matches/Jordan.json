@@ -1,18 +1,18 @@
 {
   "team": "Jordan",
   "stats": {
-    "matches_played": 545,
+    "matches_played": 546,
     "wins": 193,
-    "draws": 148,
+    "draws": 149,
     "losses": 204,
     "goals_for": 675,
     "goals_against": 654,
     "goal_difference": 21,
-    "win_percentage": 35.4,
+    "win_percentage": 35.3,
     "avg_points": 1.33,
     "best_rank": 53,
     "worst_rank": 141,
-    "avg_rank": 92.18,
+    "avg_rank": 92.12,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Nepal",
@@ -26,14 +26,14 @@
       "flag": "lebanon.png"
     },
     "home_matches": 193,
-    "away_matches": 174,
+    "away_matches": 175,
     "neutral_matches": 178,
     "first_match_date": "1953-08-01",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
-      "date": "2025-12-04",
+      "date": "2025-12-05",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Jordan",
@@ -44,15 +44,15 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5051,
+      "rating1": 5063,
       "rating2": 5118,
       "rating_ev": 0,
-      "rank": 66,
-      "win_prob": 42.7,
+      "rank": 63,
+      "win_prob": 44.0,
       "type": "fixture"
     },
     {
-      "date": "2025-12-04",
+      "date": "2025-12-05",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Jordan",
@@ -63,11 +63,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 5051,
-      "rating2": 4958,
+      "rating1": 5063,
+      "rating2": 4965,
       "rating_ev": 0,
-      "rank": 66,
-      "win_prob": 60.1,
+      "rank": 63,
+      "win_prob": 60.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 5051,
+      "rating1": 5063,
       "rating2": 4774,
       "rating_ev": 0,
-      "rank": 66,
-      "win_prob": 83.9,
+      "rank": 63,
+      "win_prob": 84.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Russia",
       "flag1": "jordan.png",
       "flag2": "russia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5051,
-      "rating2": 5372,
-      "rating_ev": 0,
-      "rank": 66,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5063,
+      "rating2": 5360,
+      "rating_ev": 12,
+      "rank": 62,
       "win_prob": 13.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

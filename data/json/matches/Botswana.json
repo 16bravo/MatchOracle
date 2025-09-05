@@ -1,18 +1,18 @@
 {
   "team": "Botswana",
   "stats": {
-    "matches_played": 344,
+    "matches_played": 345,
     "wins": 92,
     "draws": 102,
-    "losses": 150,
-    "goals_for": 279,
-    "goals_against": 437,
-    "goal_difference": -158,
+    "losses": 151,
+    "goals_for": 280,
+    "goals_against": 440,
+    "goal_difference": -160,
     "win_percentage": 26.7,
     "avg_points": 1.1,
     "best_rank": 102,
     "worst_rank": 175,
-    "avg_rank": 131.4,
+    "avg_rank": 131.34,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Mauritius",
@@ -26,10 +26,10 @@
       "flag": "malawi.png"
     },
     "home_matches": 155,
-    "away_matches": 128,
+    "away_matches": 129,
     "neutral_matches": 61,
     "first_match_date": "1968-07-13",
-    "last_match_date": "2025-07-06"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 4815,
+      "rating1": 4817,
       "rating2": 5032,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 27.9,
+      "rank": 111,
+      "win_prob": 28.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 4815,
+      "rating1": 4817,
       "rating2": 4901,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 40.6,
+      "rank": 111,
+      "win_prob": 40.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4815,
+      "rating1": 4817,
       "rating2": 5191,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 16.4,
+      "rank": 111,
+      "win_prob": 16.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 4815,
+      "rating1": 4817,
       "rating2": 4867,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 33.9,
+      "rank": 111,
+      "win_prob": 34.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Algeria",
       "flag1": "botswana.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4815,
-      "rating2": 5222,
-      "rating_ev": 0,
-      "rank": 112,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4817,
+      "rating2": 5220,
+      "rating_ev": 2,
+      "rank": 111,
       "win_prob": 10.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-07-06",

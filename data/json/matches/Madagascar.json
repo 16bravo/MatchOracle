@@ -1,18 +1,18 @@
 {
   "team": "Madagascar",
   "stats": {
-    "matches_played": 336,
-    "wins": 125,
+    "matches_played": 337,
+    "wins": 126,
     "draws": 73,
     "losses": 138,
-    "goals_for": 458,
+    "goals_for": 460,
     "goals_against": 508,
-    "goal_difference": -50,
-    "win_percentage": 37.2,
-    "avg_points": 1.33,
+    "goal_difference": -48,
+    "win_percentage": 37.4,
+    "avg_points": 1.34,
     "best_rank": 68,
     "worst_rank": 158,
-    "avg_rank": 107.16,
+    "avg_rank": 107.22,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Congo",
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 116,
-    "neutral_matches": 104,
+    "neutral_matches": 105,
     "first_match_date": "1947-12-31",
-    "last_match_date": "2025-06-15"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "chad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4761,
-      "rating2": 4602,
+      "rating1": 4788,
+      "rating2": 4620,
       "rating_ev": 0,
-      "rank": 128,
-      "win_prob": 66.8,
+      "rank": 126,
+      "win_prob": 67.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Central African Republic",
       "flag1": "madagascar.png",
       "flag2": "cta.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4761,
-      "rating2": 4756,
-      "rating_ev": 0,
-      "rank": 128,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4788,
+      "rating2": 4729,
+      "rating_ev": 27,
+      "rank": 126,
       "win_prob": 50.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-15",

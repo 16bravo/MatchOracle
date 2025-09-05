@@ -1,18 +1,18 @@
 {
   "team": "Angola",
   "stats": {
-    "matches_played": 447,
+    "matches_played": 448,
     "wins": 165,
     "draws": 153,
-    "losses": 129,
+    "losses": 130,
     "goals_for": 532,
-    "goals_against": 452,
-    "goal_difference": 80,
-    "win_percentage": 36.9,
+    "goals_against": 453,
+    "goal_difference": 79,
+    "win_percentage": 36.8,
     "avg_points": 1.45,
     "best_rank": 58,
     "worst_rank": 138,
-    "avg_rank": 85.1,
+    "avg_rank": 85.06,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Swaziland",
@@ -25,11 +25,11 @@
       "date": "1989-03-29",
       "flag": "portugal.png"
     },
-    "home_matches": 153,
+    "home_matches": 154,
     "away_matches": 174,
     "neutral_matches": 120,
     "first_match_date": "1976-02-08",
-    "last_match_date": "2025-06-15"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5074,
+      "rating1": 5041,
       "rating2": 5118,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 45.2,
+      "rank": 68,
+      "win_prob": 41.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "zimbabwe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5074,
+      "rating1": 5041,
       "rating2": 4841,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 73.5,
+      "rank": 68,
+      "win_prob": 70.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5074,
+      "rating1": 5041,
       "rating2": 4968,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 61.5,
+      "rank": 68,
+      "win_prob": 58.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "mauritius.png",
       "score1": "",
       "score2": "",
-      "rating1": 5074,
-      "rating2": 4615,
+      "rating1": 5041,
+      "rating2": 4601,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 91.8,
+      "rank": 68,
+      "win_prob": 91.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Libya",
       "flag1": "angola.png",
       "flag2": "libya.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5074,
-      "rating2": 4853,
-      "rating_ev": 0,
-      "rank": 60,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5041,
+      "rating2": 4886,
+      "rating_ev": -33,
+      "rank": 68,
       "win_prob": 80.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-15",

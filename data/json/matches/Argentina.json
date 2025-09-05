@@ -1,14 +1,14 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1098,
-    "wins": 601,
+    "matches_played": 1099,
+    "wins": 602,
     "draws": 268,
     "losses": 229,
-    "goals_for": 2077,
+    "goals_for": 2080,
     "goals_against": 1127,
-    "goal_difference": 950,
-    "win_percentage": 54.7,
+    "goal_difference": 953,
+    "win_percentage": 54.8,
     "avg_points": 1.89,
     "best_rank": 1,
     "worst_rank": 27,
@@ -25,11 +25,11 @@
       "date": "1958-06-15",
       "flag": "czechia.png"
     },
-    "home_matches": 378,
+    "home_matches": 379,
     "away_matches": 414,
     "neutral_matches": 306,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "puerto_rico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5614,
+      "rating1": 5627,
       "rating2": 4481,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 98.7,
+      "win_prob": 98.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "venezuela.png",
       "score1": "",
       "score2": "",
-      "rating1": 5614,
-      "rating2": 5238,
+      "rating1": 5627,
+      "rating2": 5225,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 83.6,
+      "win_prob": 85.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5614,
-      "rating2": 5400,
+      "rating1": 5627,
+      "rating2": 5401,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 62.2,
+      "win_prob": 63.4,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Venezuela",
       "flag1": "argentina.png",
       "flag2": "venezuela.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5614,
-      "rating2": 5238,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5627,
+      "rating2": 5225,
+      "rating_ev": 13,
       "rank": 2,
       "win_prob": 88.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

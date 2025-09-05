@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 590,
+    "matches_played": 591,
     "wins": 181,
-    "draws": 155,
+    "draws": 156,
     "losses": 254,
     "goals_for": 712,
     "goals_against": 899,
     "goal_difference": -187,
-    "win_percentage": 30.7,
+    "win_percentage": 30.6,
     "avg_points": 1.18,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 35.1,
+    "avg_rank": 35.07,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 182,
-    "away_matches": 206,
+    "away_matches": 207,
     "neutral_matches": 202,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5400,
+      "rating1": 5401,
       "rating2": 5243,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 56.2,
+      "rank": 15,
+      "win_prob": 56.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5400,
+      "rating1": 5401,
       "rating2": 5290,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 51.1,
+      "rank": 15,
+      "win_prob": 51.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5400,
+      "rating1": 5401,
       "rating2": 5191,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 61.7,
+      "rank": 15,
+      "win_prob": 61.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5400,
-      "rating2": 5614,
+      "rating1": 5401,
+      "rating2": 5627,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 37.8,
+      "rank": 15,
+      "win_prob": 36.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Paraguay",
       "flag1": "ecuador.png",
       "flag2": "paraguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5400,
-      "rating2": 5321,
-      "rating_ev": 0,
-      "rank": 14,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5401,
+      "rating2": 5320,
+      "rating_ev": 1,
+      "rank": 15,
       "win_prob": 47.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

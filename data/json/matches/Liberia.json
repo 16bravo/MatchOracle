@@ -1,18 +1,18 @@
 {
   "team": "Liberia",
   "stats": {
-    "matches_played": 324,
+    "matches_played": 325,
     "wins": 85,
     "draws": 71,
-    "losses": 168,
+    "losses": 169,
     "goals_for": 299,
-    "goals_against": 491,
-    "goal_difference": -192,
+    "goals_against": 494,
+    "goal_difference": -195,
     "win_percentage": 26.2,
-    "avg_points": 1.01,
+    "avg_points": 1.0,
     "best_rank": 68,
     "worst_rank": 146,
-    "avg_rank": 106.23,
+    "avg_rank": 106.34,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Djibouti",
@@ -26,10 +26,10 @@
       "flag": "ghana.png"
     },
     "home_matches": 137,
-    "away_matches": 134,
+    "away_matches": 135,
     "neutral_matches": 53,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "malawi.png",
       "score1": "",
       "score2": "",
-      "rating1": 4687,
+      "rating1": 4673,
       "rating2": 4727,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 35.1,
+      "rank": 145,
+      "win_prob": 33.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Tunisia",
       "flag1": "liberia.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4687,
-      "rating2": 5048,
-      "rating_ev": 0,
-      "rank": 143,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4673,
+      "rating2": 5062,
+      "rating_ev": -14,
+      "rank": 145,
       "win_prob": 11.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

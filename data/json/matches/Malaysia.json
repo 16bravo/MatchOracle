@@ -1,18 +1,18 @@
 {
   "team": "Malaysia",
   "stats": {
-    "matches_played": 914,
-    "wins": 351,
+    "matches_played": 915,
+    "wins": 352,
     "draws": 208,
     "losses": 355,
-    "goals_for": 1483,
-    "goals_against": 1344,
-    "goal_difference": 139,
-    "win_percentage": 38.4,
+    "goals_for": 1485,
+    "goals_against": 1345,
+    "goal_difference": 140,
+    "win_percentage": 38.5,
     "avg_points": 1.38,
     "best_rank": 60,
     "worst_rank": 183,
-    "avg_rank": 120.81,
+    "avg_rank": 120.85,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Philippines",
@@ -25,11 +25,11 @@
       "date": "2015-09-03",
       "flag": "uae.png"
     },
-    "home_matches": 342,
+    "home_matches": 343,
     "away_matches": 230,
     "neutral_matches": 342,
     "first_match_date": "1948-06-20",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4588,
       "rating2": 4679,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 30.5,
+      "rank": 157,
+      "win_prob": 30.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "nepal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4588,
       "rating2": 4133,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 82.3,
+      "rank": 157,
+      "win_prob": 82.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "laos.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4588,
       "rating2": 3935,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 96.1,
+      "rank": 157,
+      "win_prob": 96.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "laos.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4588,
       "rating2": 3935,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 91.0,
+      "rank": 157,
+      "win_prob": 90.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "palestine.png",
       "score1": "",
       "score2": "",
-      "rating1": 4592,
+      "rating1": 4588,
       "rating2": 4869,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 31.6,
+      "rank": 157,
+      "win_prob": 31.3,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Singapore",
       "flag1": "malaysia.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4592,
-      "rating2": 4320,
-      "rating_ev": 0,
-      "rank": 156,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4588,
+      "rating2": 4324,
+      "rating_ev": -4,
+      "rank": 157,
       "win_prob": 83.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
