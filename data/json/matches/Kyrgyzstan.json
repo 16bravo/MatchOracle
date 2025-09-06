@@ -1,18 +1,18 @@
 {
   "team": "Kyrgyzstan",
   "stats": {
-    "matches_played": 186,
+    "matches_played": 187,
     "wins": 55,
     "draws": 30,
-    "losses": 101,
+    "losses": 102,
     "goals_for": 204,
-    "goals_against": 324,
-    "goal_difference": -120,
-    "win_percentage": 29.6,
-    "avg_points": 1.05,
+    "goals_against": 328,
+    "goal_difference": -124,
+    "win_percentage": 29.4,
+    "avg_points": 1.04,
     "best_rank": 131,
     "worst_rank": 179,
-    "avg_rank": 158.69,
+    "avg_rank": 158.59,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Myanmar",
@@ -26,30 +26,30 @@
       "flag": "iran.png"
     },
     "home_matches": 47,
-    "away_matches": 72,
+    "away_matches": 73,
     "neutral_matches": 67,
     "first_match_date": "1992-08-23",
-    "last_match_date": "2025-09-02"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
       "date": "2025-09-05",
       "country": "Uzbekistan",
-      "tournament": "Central Asian Cup",
+      "tournament": "Central Asian Nations Cup",
       "team1": "Kyrgyzstan",
       "team2": "Uzbekistan",
       "original_team1": "Kyrgyzstan",
       "original_team2": "Uzbekistan",
       "flag1": "kyrgyzstan.png",
       "flag2": "uzbekistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4731,
-      "rating2": 5054,
-      "rating_ev": 0,
-      "rank": 134,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4703,
+      "rating2": 5082,
+      "rating_ev": -28,
+      "rank": 140,
       "win_prob": 13.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-02",

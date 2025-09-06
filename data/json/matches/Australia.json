@@ -1,18 +1,18 @@
 {
   "team": "Australia",
   "stats": {
-    "matches_played": 621,
-    "wins": 321,
+    "matches_played": 622,
+    "wins": 322,
     "draws": 130,
     "losses": 170,
-    "goals_for": 1267,
+    "goals_for": 1268,
     "goals_against": 681,
-    "goal_difference": 586,
-    "win_percentage": 51.7,
+    "goal_difference": 587,
+    "win_percentage": 51.8,
     "avg_points": 1.76,
     "best_rank": 15,
     "worst_rank": 73,
-    "avg_rank": 37.89,
+    "avg_rank": 37.88,
     "biggest_win": {
       "score": "31-0",
       "opponent": "Eastern Samoa",
@@ -25,11 +25,11 @@
       "date": "1956-11-15",
       "flag": "ussr.png"
     },
-    "home_matches": 260,
+    "home_matches": 261,
     "away_matches": 221,
     "neutral_matches": 140,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -47,7 +47,7 @@
       "rating1": 5239,
       "rating2": 5191,
       "rating_ev": 0,
-      "rank": 30,
+      "rank": 32,
       "win_prob": 44.3,
       "type": "fixture"
     },
@@ -64,10 +64,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5239,
-      "rating2": 5243,
+      "rating2": 5265,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 38.8,
+      "rank": 32,
+      "win_prob": 36.5,
       "type": "fixture"
     },
     {
@@ -85,7 +85,7 @@
       "rating1": 5239,
       "rating2": 5093,
       "rating_ev": 0,
-      "rank": 30,
+      "rank": 32,
       "win_prob": 55.1,
       "type": "fixture"
     },
@@ -99,14 +99,14 @@
       "original_team2": "New Zealand",
       "flag1": "australia.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 0,
       "rating1": 5239,
       "rating2": 5093,
       "rating_ev": 0,
-      "rank": 30,
+      "rank": 32,
       "win_prob": 74.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

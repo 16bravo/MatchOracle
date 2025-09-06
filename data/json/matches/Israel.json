@@ -1,14 +1,14 @@
 {
   "team": "Israel",
   "stats": {
-    "matches_played": 515,
-    "wins": 194,
+    "matches_played": 516,
+    "wins": 195,
     "draws": 117,
     "losses": 204,
-    "goals_for": 788,
+    "goals_for": 792,
     "goals_against": 747,
-    "goal_difference": 41,
-    "win_percentage": 37.7,
+    "goal_difference": 45,
+    "win_percentage": 37.8,
     "avg_points": 1.36,
     "best_rank": 15,
     "worst_rank": 71,
@@ -26,10 +26,10 @@
       "flag": "yugoslavia.png"
     },
     "home_matches": 249,
-    "away_matches": 206,
+    "away_matches": 207,
     "neutral_matches": 60,
     "first_match_date": "1949-07-30",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 5122,
-      "rating2": 4792,
+      "rating1": 5161,
+      "rating2": 4753,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 80.8,
+      "rank": 46,
+      "win_prob": 85.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "lithuania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5122,
+      "rating1": 5161,
       "rating2": 4801,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 72.3,
+      "rank": 46,
+      "win_prob": 75.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5122,
-      "rating2": 5389,
+      "rating1": 5161,
+      "rating2": 5418,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 16.7,
+      "rank": 46,
+      "win_prob": 17.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5122,
+      "rating1": 5161,
       "rating2": 5419,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 15.0,
+      "rank": 46,
+      "win_prob": 17.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5122,
-      "rating2": 5389,
+      "rating1": 5161,
+      "rating2": 5418,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 23.7,
+      "rank": 46,
+      "win_prob": 24.5,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Moldova",
       "flag1": "israel.png",
       "flag2": "moldova.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5122,
-      "rating2": 4792,
-      "rating_ev": 0,
-      "rank": 53,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5161,
+      "rating2": 4753,
+      "rating_ev": 39,
+      "rank": 46,
       "win_prob": 73.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

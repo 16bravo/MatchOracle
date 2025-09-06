@@ -1,18 +1,18 @@
 {
   "team": "Morocco",
   "stats": {
-    "matches_played": 704,
-    "wins": 344,
+    "matches_played": 705,
+    "wins": 345,
     "draws": 198,
     "losses": 162,
-    "goals_for": 1056,
+    "goals_for": 1061,
     "goals_against": 604,
-    "goal_difference": 452,
+    "goal_difference": 457,
     "win_percentage": 48.9,
     "avg_points": 1.75,
     "best_rank": 15,
     "worst_rank": 76,
-    "avg_rank": 44.94,
+    "avg_rank": 44.91,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Saudi Arabia",
@@ -25,11 +25,11 @@
       "date": "1961-10-11",
       "flag": "switzerland.png"
     },
-    "home_matches": 305,
+    "home_matches": 306,
     "away_matches": 210,
     "neutral_matches": 189,
     "first_match_date": "1957-10-19",
-    "last_match_date": "2025-06-09"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5350,
+      "rating1": 5382,
       "rating2": 4844,
       "rating_ev": 0,
-      "rank": 21,
-      "win_prob": 93.1,
+      "rank": 19,
+      "win_prob": 93.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5350,
+      "rating1": 5382,
       "rating2": 5131,
       "rating_ev": 0,
-      "rank": 21,
-      "win_prob": 80.2,
+      "rank": 19,
+      "win_prob": 82.3,
       "type": "fixture"
     },
     {
@@ -82,15 +82,15 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5350,
+      "rating1": 5382,
       "rating2": 4838,
       "rating_ev": 0,
-      "rank": 21,
-      "win_prob": 93.3,
+      "rank": 19,
+      "win_prob": 94.0,
       "type": "fixture"
     },
     {
-      "date": "2025-12-05",
+      "date": "2025-12-06",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Morocco",
@@ -101,11 +101,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5350,
+      "rating1": 5382,
       "rating2": 5004,
       "rating_ev": 0,
-      "rank": 21,
-      "win_prob": 81.8,
+      "rank": 19,
+      "win_prob": 83.7,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5350,
+      "rating1": 5382,
       "rating2": 4844,
       "rating_ev": 0,
-      "rank": 21,
-      "win_prob": 84.9,
+      "rank": 19,
+      "win_prob": 86.5,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Niger",
       "flag1": "morocco.png",
       "flag2": "niger.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5350,
-      "rating2": 4883,
-      "rating_ev": 0,
-      "rank": 21,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 5382,
+      "rating2": 4851,
+      "rating_ev": 32,
+      "rank": 19,
       "win_prob": 92.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-09",

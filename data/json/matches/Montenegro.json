@@ -1,18 +1,18 @@
 {
   "team": "Montenegro",
   "stats": {
-    "matches_played": 158,
+    "matches_played": 159,
     "wins": 53,
     "draws": 41,
-    "losses": 64,
+    "losses": 65,
     "goals_for": 186,
-    "goals_against": 206,
-    "goal_difference": -20,
-    "win_percentage": 33.5,
-    "avg_points": 1.27,
+    "goals_against": 208,
+    "goal_difference": -22,
+    "win_percentage": 33.3,
+    "avg_points": 1.26,
     "best_rank": 40,
     "worst_rank": 77,
-    "avg_rank": 58.41,
+    "avg_rank": 58.5,
     "biggest_win": {
       "score": "6-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "2019-11-14",
       "flag": "england.png"
     },
-    "home_matches": 82,
+    "home_matches": 83,
     "away_matches": 71,
     "neutral_matches": 5,
     "first_match_date": "2007-03-24",
-    "last_match_date": "2025-06-09"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5007,
-      "rating2": 5469,
+      "rating1": 4987,
+      "rating2": 5452,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 17.5,
+      "rank": 73,
+      "win_prob": 17.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5007,
+      "rating1": 4987,
       "rating2": 4442,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 87.7,
+      "rank": 73,
+      "win_prob": 86.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 5007,
+      "rating1": 4987,
       "rating2": 4364,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 95.9,
+      "rank": 73,
+      "win_prob": 95.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5007,
-      "rating2": 4825,
+      "rating1": 4987,
+      "rating2": 4842,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 58.9,
+      "rank": 73,
+      "win_prob": 54.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5007,
-      "rating2": 5469,
+      "rating1": 4987,
+      "rating2": 5452,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 8.1,
+      "rank": 73,
+      "win_prob": 8.0,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Czechia",
       "flag1": "montenegro.png",
       "flag2": "czechia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5007,
-      "rating2": 5226,
-      "rating_ev": 0,
-      "rank": 70,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4987,
+      "rating2": 5246,
+      "rating_ev": -20,
+      "rank": 73,
       "win_prob": 37.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-09",

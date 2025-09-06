@@ -1,18 +1,18 @@
 {
   "team": "Malawi",
   "stats": {
-    "matches_played": 657,
-    "wins": 217,
+    "matches_played": 658,
+    "wins": 218,
     "draws": 189,
     "losses": 251,
-    "goals_for": 764,
-    "goals_against": 850,
-    "goal_difference": -86,
-    "win_percentage": 33.0,
+    "goals_for": 766,
+    "goals_against": 851,
+    "goal_difference": -85,
+    "win_percentage": 33.1,
     "avg_points": 1.28,
     "best_rank": 53,
     "worst_rank": 144,
-    "avg_rank": 102.98,
+    "avg_rank": 103.03,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Botswana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 284,
     "away_matches": 226,
-    "neutral_matches": 147,
+    "neutral_matches": 148,
     "first_match_date": "1957-12-31",
-    "last_match_date": "2025-07-06"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "liberia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4727,
+      "rating1": 4748,
       "rating2": 4673,
       "rating_ev": 0,
-      "rank": 136,
-      "win_prob": 66.3,
+      "rank": 132,
+      "win_prob": 68.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Namibia",
       "flag1": "malawi.png",
       "flag2": "namibia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4727,
-      "rating2": 4838,
-      "rating_ev": 0,
-      "rank": 136,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4748,
+      "rating2": 4817,
+      "rating_ev": 21,
+      "rank": 132,
       "win_prob": 38.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-07-06",

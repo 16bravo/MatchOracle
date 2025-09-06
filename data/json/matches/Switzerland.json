@@ -1,18 +1,18 @@
 {
   "team": "Switzerland",
   "stats": {
-    "matches_played": 885,
-    "wins": 314,
+    "matches_played": 886,
+    "wins": 315,
     "draws": 199,
     "losses": 372,
-    "goals_for": 1316,
+    "goals_for": 1320,
     "goals_against": 1475,
-    "goal_difference": -159,
-    "win_percentage": 35.5,
+    "goal_difference": -155,
+    "win_percentage": 35.6,
     "avg_points": 1.29,
     "best_rank": 7,
     "worst_rank": 41,
-    "avg_rank": 24.14,
+    "avg_rank": 24.13,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Lithuania",
@@ -25,11 +25,11 @@
       "date": "1909-05-20",
       "flag": "england.png"
     },
-    "home_matches": 420,
+    "home_matches": 421,
     "away_matches": 387,
     "neutral_matches": 78,
     "first_match_date": "1905-02-12",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kosovo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5348,
-      "rating2": 5123,
+      "rating1": 5382,
+      "rating2": 5089,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 63.3,
+      "rank": 19,
+      "win_prob": 69.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5348,
-      "rating2": 5339,
+      "rating1": 5382,
+      "rating2": 5338,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 61.7,
+      "rank": 19,
+      "win_prob": 65.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5348,
-      "rating2": 5228,
+      "rating1": 5382,
+      "rating2": 5229,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 52.2,
+      "rank": 19,
+      "win_prob": 55.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5348,
-      "rating2": 5339,
+      "rating1": 5382,
+      "rating2": 5338,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 40.2,
+      "rank": 19,
+      "win_prob": 43.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5348,
-      "rating2": 5228,
+      "rating1": 5382,
+      "rating2": 5229,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 72.4,
+      "rank": 19,
+      "win_prob": 75.2,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Kosovo",
       "flag1": "switzerland.png",
       "flag2": "kosovo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5348,
-      "rating2": 5123,
-      "rating_ev": 0,
-      "rank": 22,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5382,
+      "rating2": 5089,
+      "rating_ev": 34,
+      "rank": 19,
       "win_prob": 80.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

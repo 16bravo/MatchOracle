@@ -1,18 +1,18 @@
 {
   "team": "Kenya",
   "stats": {
-    "matches_played": 722,
+    "matches_played": 723,
     "wins": 272,
     "draws": 178,
-    "losses": 272,
-    "goals_for": 993,
-    "goals_against": 980,
-    "goal_difference": 13,
-    "win_percentage": 37.7,
-    "avg_points": 1.38,
+    "losses": 273,
+    "goals_for": 994,
+    "goals_against": 983,
+    "goal_difference": 11,
+    "win_percentage": 37.6,
+    "avg_points": 1.37,
     "best_rank": 43,
     "worst_rank": 131,
-    "avg_rank": 90.84,
+    "avg_rank": 90.87,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Zanzibar",
@@ -25,11 +25,11 @@
       "date": "1932-12-31",
       "flag": "uganda_1.png"
     },
-    "home_matches": 262,
+    "home_matches": 263,
     "away_matches": 254,
     "neutral_matches": 206,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "seychelles.png",
       "score1": "",
       "score2": "",
-      "rating1": 4846,
+      "rating1": 4815,
       "rating2": 4187,
       "rating_ev": 0,
-      "rank": 101,
-      "win_prob": 96.1,
+      "rank": 112,
+      "win_prob": 95.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Gambia",
       "flag1": "kenya.png",
       "flag2": "gambia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4846,
-      "rating2": 4876,
-      "rating_ev": 0,
-      "rank": 101,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4815,
+      "rating2": 4907,
+      "rating_ev": -31,
+      "rank": 112,
       "win_prob": 57.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

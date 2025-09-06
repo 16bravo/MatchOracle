@@ -1,14 +1,14 @@
 {
   "team": "Mozambique",
   "stats": {
-    "matches_played": 404,
+    "matches_played": 405,
     "wins": 124,
     "draws": 106,
-    "losses": 174,
+    "losses": 175,
     "goals_for": 409,
-    "goals_against": 519,
-    "goal_difference": -110,
-    "win_percentage": 30.7,
+    "goals_against": 523,
+    "goal_difference": -114,
+    "win_percentage": 30.6,
     "avg_points": 1.18,
     "best_rank": 79,
     "worst_rank": 143,
@@ -26,10 +26,10 @@
       "flag": "rhodesia.png"
     },
     "home_matches": 151,
-    "away_matches": 160,
+    "away_matches": 161,
     "neutral_matches": 93,
     "first_match_date": "1975-06-25",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4867,
+      "rating1": 4816,
       "rating2": 5068,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 29.3,
+      "rank": 111,
+      "win_prob": 24.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4867,
+      "rating1": 4816,
       "rating2": 4911,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 45.2,
+      "rank": 111,
+      "win_prob": 39.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4867,
-      "rating2": 5072,
+      "rating1": 4816,
+      "rating2": 5064,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 28.9,
+      "rank": 111,
+      "win_prob": 25.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 4867,
+      "rating1": 4816,
       "rating2": 4817,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 65.9,
+      "rank": 111,
+      "win_prob": 60.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Uganda",
       "flag1": "mozambique.png",
       "flag2": "uganda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4867,
-      "rating2": 4810,
-      "rating_ev": 0,
-      "rank": 98,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4816,
+      "rating2": 4861,
+      "rating_ev": -51,
+      "rank": 111,
       "win_prob": 45.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

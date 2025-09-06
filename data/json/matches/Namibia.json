@@ -1,18 +1,18 @@
 {
   "team": "Namibia",
   "stats": {
-    "matches_played": 296,
+    "matches_played": 297,
     "wins": 76,
     "draws": 91,
-    "losses": 129,
-    "goals_for": 290,
-    "goals_against": 409,
-    "goal_difference": -119,
-    "win_percentage": 25.7,
-    "avg_points": 1.08,
+    "losses": 130,
+    "goals_for": 291,
+    "goals_against": 411,
+    "goal_difference": -120,
+    "win_percentage": 25.6,
+    "avg_points": 1.07,
     "best_rank": 94,
     "worst_rank": 157,
-    "avg_rank": 123.03,
+    "avg_rank": 122.99,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Botswana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 102,
     "away_matches": 114,
-    "neutral_matches": 80,
+    "neutral_matches": 81,
     "first_match_date": "1989-05-16",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sao_tome.png",
       "score1": "",
       "score2": "",
-      "rating1": 4838,
+      "rating1": 4817,
       "rating2": 4455,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 84.0,
+      "rank": 109,
+      "win_prob": 82.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Malawi",
       "flag1": "namibia.png",
       "flag2": "malawi.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4838,
-      "rating2": 4727,
-      "rating_ev": 0,
-      "rank": 104,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4817,
+      "rating2": 4748,
+      "rating_ev": -21,
+      "rank": 110,
       "win_prob": 62.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

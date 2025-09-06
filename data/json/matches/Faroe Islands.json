@@ -1,18 +1,18 @@
 {
   "team": "Faroe Islands",
   "stats": {
-    "matches_played": 267,
+    "matches_played": 268,
     "wins": 39,
     "draws": 36,
-    "losses": 192,
+    "losses": 193,
     "goals_for": 181,
-    "goals_against": 628,
-    "goal_difference": -447,
+    "goals_against": 629,
+    "goal_difference": -448,
     "win_percentage": 14.6,
     "avg_points": 0.57,
     "best_rank": 64,
     "worst_rank": 163,
-    "avg_rank": 130.28,
+    "avg_rank": 130.18,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1985-07-10",
       "flag": "iceland.png"
     },
-    "home_matches": 113,
+    "home_matches": 114,
     "away_matches": 135,
     "neutral_matches": 19,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2025-06-09"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
-      "rating2": 5469,
+      "rating1": 4842,
+      "rating2": 5452,
       "rating_ev": 0,
-      "rank": 109,
-      "win_prob": 4.1,
+      "rank": 101,
+      "win_prob": 4.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
-      "rating2": 5226,
+      "rating1": 4842,
+      "rating2": 5246,
       "rating_ev": 0,
-      "rank": 109,
-      "win_prob": 21.5,
+      "rank": 101,
+      "win_prob": 21.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
-      "rating2": 5007,
+      "rating1": 4842,
+      "rating2": 4987,
       "rating_ev": 0,
-      "rank": 109,
-      "win_prob": 41.1,
+      "rank": 101,
+      "win_prob": 45.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
+      "rating1": 4842,
       "rating2": 4442,
       "rating_ev": 0,
-      "rank": 109,
-      "win_prob": 77.2,
+      "rank": 101,
+      "win_prob": 78.4,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Croatia",
       "flag1": "faroe.png",
       "flag2": "croatia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4825,
-      "rating2": 5469,
-      "rating_ev": 0,
-      "rank": 109,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4842,
+      "rating2": 5452,
+      "rating_ev": 17,
+      "rank": 103,
       "win_prob": 9.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-09",

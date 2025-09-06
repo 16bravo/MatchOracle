@@ -1,18 +1,18 @@
 {
   "team": "South Africa",
   "stats": {
-    "matches_played": 507,
-    "wins": 224,
+    "matches_played": 508,
+    "wins": 225,
     "draws": 149,
     "losses": 134,
-    "goals_for": 691,
+    "goals_for": 694,
     "goals_against": 518,
-    "goal_difference": 173,
-    "win_percentage": 44.2,
+    "goal_difference": 176,
+    "win_percentage": 44.3,
     "avg_points": 1.62,
     "best_rank": 13,
     "worst_rank": 98,
-    "avg_rank": 62.87,
+    "avg_rank": 62.89,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1920-07-17",
       "flag": "england.png"
     },
-    "home_matches": 264,
+    "home_matches": 265,
     "away_matches": 158,
     "neutral_matches": 85,
     "first_match_date": "1906-07-09",
-    "last_match_date": "2025-06-15"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "zimbabwe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4968,
-      "rating2": 4841,
+      "rating1": 4984,
+      "rating2": 4831,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 63.6,
+      "rank": 74,
+      "win_prob": 66.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 4968,
-      "rating2": 5118,
+      "rating1": 4984,
+      "rating2": 5119,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 34.1,
+      "rank": 74,
+      "win_prob": 35.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 4968,
+      "rating1": 4984,
       "rating2": 5041,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 42.0,
+      "rank": 74,
+      "win_prob": 43.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4968,
+      "rating1": 4984,
       "rating2": 5045,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 52.5,
+      "rank": 74,
+      "win_prob": 54.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Lesotho",
       "flag1": "south_africa.png",
       "flag2": "lesotho.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4968,
-      "rating2": 4638,
-      "rating_ev": 0,
-      "rank": 75,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4984,
+      "rating2": 4622,
+      "rating_ev": 16,
+      "rank": 74,
       "win_prob": 86.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-15",

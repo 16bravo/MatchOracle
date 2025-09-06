@@ -1,23 +1,23 @@
 {
   "team": "Burkina Faso",
   "stats": {
-    "matches_played": 465,
-    "wins": 160,
+    "matches_played": 466,
+    "wins": 161,
     "draws": 125,
     "losses": 180,
-    "goals_for": 572,
+    "goals_for": 578,
     "goals_against": 633,
-    "goal_difference": -61,
-    "win_percentage": 34.4,
+    "goal_difference": -55,
+    "win_percentage": 34.5,
     "avg_points": 1.3,
     "best_rank": 60,
     "worst_rank": 122,
-    "avg_rank": 91.89,
+    "avg_rank": 91.84,
     "biggest_win": {
-      "score": "5-1",
-      "opponent": "Liberia",
-      "date": "1961-12-27",
-      "flag": "liberia.png"
+      "score": "6-0",
+      "opponent": "Djibouti",
+      "date": "2025-09-05",
+      "flag": "djibouti.png"
     },
     "biggest_loss": {
       "score": "0-7",
@@ -27,9 +27,9 @@
     },
     "home_matches": 123,
     "away_matches": 176,
-    "neutral_matches": 166,
+    "neutral_matches": 167,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4992,
-      "rating2": 4854,
+      "rating1": 5028,
+      "rating2": 4852,
       "rating_ev": 0,
-      "rank": 72,
-      "win_prob": 64.7,
+      "rank": 70,
+      "win_prob": 68.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4992,
+      "rating1": 5028,
       "rating2": 5220,
       "rating_ev": 0,
-      "rank": 72,
-      "win_prob": 26.9,
+      "rank": 70,
+      "win_prob": 30.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4992,
+      "rating1": 5028,
       "rating2": 4878,
       "rating_ev": 0,
-      "rank": 72,
-      "win_prob": 62.3,
+      "rank": 70,
+      "win_prob": 65.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 4992,
-      "rating2": 5118,
+      "rating1": 5028,
+      "rating2": 5119,
       "rating_ev": 0,
-      "rank": 72,
-      "win_prob": 47.1,
+      "rank": 70,
+      "win_prob": 51.0,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Djibouti",
       "flag1": "burkina.png",
       "flag2": "djibouti.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4992,
-      "rating2": 4298,
-      "rating_ev": 0,
-      "rank": 72,
+      "score1": 6,
+      "score2": 0,
+      "rating1": 5028,
+      "rating2": 4262,
+      "rating_ev": 36,
+      "rank": 70,
       "win_prob": 94.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

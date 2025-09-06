@@ -1,18 +1,18 @@
 {
   "team": "Mauritania",
   "stats": {
-    "matches_played": 287,
-    "wins": 53,
+    "matches_played": 288,
+    "wins": 54,
     "draws": 68,
     "losses": 166,
-    "goals_for": 208,
+    "goals_for": 210,
     "goals_against": 509,
-    "goal_difference": -301,
-    "win_percentage": 18.5,
-    "avg_points": 0.79,
+    "goal_difference": -299,
+    "win_percentage": 18.8,
+    "avg_points": 0.8,
     "best_rank": 94,
     "worst_rank": 164,
-    "avg_rank": 131.85,
+    "avg_rank": 131.75,
     "biggest_win": {
       "score": "8-2",
       "opponent": "Somalia",
@@ -25,15 +25,15 @@
       "date": "1972-10-03",
       "flag": "guinea.png"
     },
-    "home_matches": 89,
+    "home_matches": 90,
     "away_matches": 86,
     "neutral_matches": 112,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
-      "date": "2025-11-05",
+      "date": "2025-11-06",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Mauritania",
@@ -44,11 +44,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
+      "rating1": 4840,
       "rating2": 4688,
       "rating_ev": 0,
-      "rank": 111,
-      "win_prob": 63.8,
+      "rank": 103,
+      "win_prob": 66.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
-      "rating2": 4614,
+      "rating1": 4840,
+      "rating2": 4592,
       "rating_ev": 0,
-      "rank": 111,
-      "win_prob": 79.1,
+      "rank": 103,
+      "win_prob": 82.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Togo",
       "flag1": "mauritania.png",
       "flag2": "togo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4817,
-      "rating2": 4837,
-      "rating_ev": 0,
-      "rank": 111,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4840,
+      "rating2": 4814,
+      "rating_ev": 23,
+      "rank": 103,
       "win_prob": 58.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

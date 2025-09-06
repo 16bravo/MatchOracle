@@ -1,14 +1,14 @@
 {
   "team": "Ukraine",
   "stats": {
-    "matches_played": 325,
+    "matches_played": 326,
     "wins": 146,
     "draws": 92,
-    "losses": 87,
+    "losses": 88,
     "goals_for": 453,
-    "goals_against": 337,
-    "goal_difference": 116,
-    "win_percentage": 44.9,
+    "goals_against": 339,
+    "goal_difference": 114,
+    "win_percentage": 44.8,
     "avg_points": 1.63,
     "best_rank": 10,
     "worst_rank": 61,
@@ -27,9 +27,9 @@
     },
     "home_matches": 131,
     "away_matches": 139,
-    "neutral_matches": 55,
+    "neutral_matches": 56,
     "first_match_date": "1992-04-29",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iceland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
-      "rating2": 5061,
+      "rating1": 5269,
+      "rating2": 5104,
       "rating_ev": 0,
       "rank": 28,
-      "win_prob": 72.3,
+      "win_prob": 67.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
-      "rating2": 5568,
+      "rating1": 5269,
+      "rating2": 5579,
       "rating_ev": 0,
       "rank": 28,
-      "win_prob": 15.5,
+      "win_prob": 14.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "azerbaijan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
-      "rating2": 4793,
+      "rating1": 5269,
+      "rating2": 4750,
       "rating_ev": 0,
       "rank": 28,
-      "win_prob": 89.0,
+      "win_prob": 90.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "iceland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
-      "rating2": 5061,
+      "rating1": 5269,
+      "rating2": 5104,
       "rating_ev": 0,
       "rank": 28,
-      "win_prob": 62.7,
+      "win_prob": 57.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "azerbaijan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
-      "rating2": 4793,
+      "rating1": 5269,
+      "rating2": 4750,
       "rating_ev": 0,
       "rank": 28,
-      "win_prob": 83.9,
+      "win_prob": 85.6,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "France",
       "flag1": "ukraine.png",
       "flag2": "france.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5280,
-      "rating2": 5568,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5269,
+      "rating2": 5579,
+      "rating_ev": -11,
       "rank": 28,
       "win_prob": 22.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

@@ -1,18 +1,18 @@
 {
   "team": "Jamaica",
   "stats": {
-    "matches_played": 706,
-    "wins": 272,
+    "matches_played": 707,
+    "wins": 273,
     "draws": 166,
     "losses": 268,
-    "goals_for": 937,
+    "goals_for": 941,
     "goals_against": 932,
-    "goal_difference": 5,
-    "win_percentage": 38.5,
+    "goal_difference": 9,
+    "win_percentage": 38.6,
     "avg_points": 1.39,
     "best_rank": 49,
     "worst_rank": 146,
-    "avg_rank": 86.35,
+    "avg_rank": 86.34,
     "biggest_win": {
       "score": "12-0",
       "opponent": "British Virgin Islands",
@@ -26,10 +26,10 @@
       "flag": "costa_rica.png"
     },
     "home_matches": 267,
-    "away_matches": 265,
+    "away_matches": 266,
     "neutral_matches": 174,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2025-06-24"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4905,
+      "rating1": 4937,
       "rating2": 4809,
       "rating_ev": 0,
-      "rank": 86,
-      "win_prob": 70.3,
+      "rank": 80,
+      "win_prob": 73.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4905,
+      "rating1": 4937,
       "rating2": 4790,
       "rating_ev": 0,
-      "rank": 86,
-      "win_prob": 51.7,
+      "rank": 80,
+      "win_prob": 55.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "bermuda.png",
       "score1": "",
       "score2": "",
-      "rating1": 4905,
-      "rating2": 4446,
+      "rating1": 4937,
+      "rating2": 4414,
       "rating_ev": 0,
-      "rank": 86,
-      "win_prob": 91.8,
+      "rank": 80,
+      "win_prob": 93.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4905,
+      "rating1": 4937,
       "rating2": 4809,
       "rating_ev": 0,
-      "rank": 86,
-      "win_prob": 49.6,
+      "rank": 80,
+      "win_prob": 53.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4905,
+      "rating1": 4937,
       "rating2": 4790,
       "rating_ev": 0,
-      "rank": 86,
-      "win_prob": 72.0,
+      "rank": 80,
+      "win_prob": 74.7,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Bermuda",
       "flag1": "jamaica.png",
       "flag2": "bermuda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4905,
-      "rating2": 4446,
-      "rating_ev": 0,
-      "rank": 86,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4937,
+      "rating2": 4414,
+      "rating_ev": 32,
+      "rank": 80,
       "win_prob": 82.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-24",

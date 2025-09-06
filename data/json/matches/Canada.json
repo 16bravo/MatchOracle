@@ -1,18 +1,18 @@
 {
   "team": "Canada",
   "stats": {
-    "matches_played": 473,
-    "wins": 184,
+    "matches_played": 474,
+    "wins": 185,
     "draws": 110,
     "losses": 179,
-    "goals_for": 611,
+    "goals_for": 614,
     "goals_against": 604,
-    "goal_difference": 7,
-    "win_percentage": 38.9,
+    "goal_difference": 10,
+    "win_percentage": 39.0,
     "avg_points": 1.4,
     "best_rank": 16,
     "worst_rank": 100,
-    "avg_rank": 62.05,
+    "avg_rank": 61.98,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Cayman Islands",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 144,
-    "away_matches": 198,
+    "away_matches": 199,
     "neutral_matches": 131,
     "first_match_date": "1924-06-07",
-    "last_match_date": "2025-06-29"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5243,
+      "rating1": 5265,
       "rating2": 5401,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 43.7,
+      "win_prob": 46.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5243,
+      "rating1": 5265,
       "rating2": 5484,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 25.8,
+      "win_prob": 27.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5243,
+      "rating1": 5265,
       "rating2": 5239,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 61.2,
+      "win_prob": 63.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5243,
+      "rating1": 5265,
       "rating2": 5218,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 41.9,
+      "win_prob": 44.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Romania",
       "flag1": "canada.png",
       "flag2": "romania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5243,
-      "rating2": 5190,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5265,
+      "rating2": 5168,
+      "rating_ev": 22,
       "rank": 29,
       "win_prob": 44.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-29",

@@ -1,14 +1,14 @@
 {
   "team": "DR Congo",
   "stats": {
-    "matches_played": 526,
-    "wins": 212,
+    "matches_played": 527,
+    "wins": 213,
     "draws": 147,
     "losses": 167,
-    "goals_for": 803,
-    "goals_against": 626,
-    "goal_difference": 177,
-    "win_percentage": 40.3,
+    "goals_for": 807,
+    "goals_against": 627,
+    "goal_difference": 180,
+    "win_percentage": 40.4,
     "avg_points": 1.49,
     "best_rank": 26,
     "worst_rank": 109,
@@ -26,10 +26,10 @@
       "flag": "yugoslavia.png"
     },
     "home_matches": 101,
-    "away_matches": 215,
+    "away_matches": 216,
     "neutral_matches": 210,
     "first_match_date": "1948-12-31",
-    "last_match_date": "2025-06-08"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5032,
+      "rating1": 5054,
       "rating2": 4817,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 72.0,
+      "rank": 67,
+      "win_prob": 73.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5032,
-      "rating2": 5191,
+      "rating1": 5054,
+      "rating2": 5193,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 33.2,
+      "rank": 67,
+      "win_prob": 35.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5032,
-      "rating2": 4901,
+      "rating1": 5054,
+      "rating2": 4911,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 64.0,
+      "rank": 67,
+      "win_prob": 65.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5032,
-      "rating2": 5191,
+      "rating1": 5054,
+      "rating2": 5193,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 43.5,
+      "rank": 67,
+      "win_prob": 45.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "South Sudan",
       "flag1": "dr_congo.png",
       "flag2": "south_sudan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5032,
-      "rating2": 4614,
-      "rating_ev": 0,
-      "rank": 69,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5054,
+      "rating2": 4592,
+      "rating_ev": 22,
+      "rank": 66,
       "win_prob": 79.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-08",

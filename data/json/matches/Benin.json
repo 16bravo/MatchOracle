@@ -1,18 +1,18 @@
 {
   "team": "Benin",
   "stats": {
-    "matches_played": 336,
-    "wins": 82,
+    "matches_played": 337,
+    "wins": 83,
     "draws": 83,
     "losses": 171,
-    "goals_for": 351,
+    "goals_for": 352,
     "goals_against": 590,
-    "goal_difference": -239,
-    "win_percentage": 24.4,
-    "avg_points": 0.98,
+    "goal_difference": -238,
+    "win_percentage": 24.6,
+    "avg_points": 0.99,
     "best_rank": 64,
     "worst_rank": 156,
-    "avg_rank": 106.79,
+    "avg_rank": 106.73,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 104,
     "away_matches": 138,
-    "neutral_matches": 94,
+    "neutral_matches": 95,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-06-09"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4901,
-      "rating2": 5191,
+      "rating1": 4911,
+      "rating2": 5193,
       "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 22.0,
+      "rank": 85,
+      "win_prob": 22.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 4901,
+      "rating1": 4911,
       "rating2": 4817,
       "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 59.1,
+      "rank": 85,
+      "win_prob": 60.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 4901,
-      "rating2": 5032,
+      "rating1": 4911,
+      "rating2": 5054,
       "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 36.0,
+      "rank": 85,
+      "win_prob": 34.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "lesotho.png",
       "score1": "",
       "score2": "",
-      "rating1": 4901,
-      "rating2": 4638,
+      "rating1": 4911,
+      "rating2": 4622,
       "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 75.9,
+      "rank": 85,
+      "win_prob": 77.9,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Zimbabwe",
       "flag1": "benin.png",
       "flag2": "zimbabwe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4901,
-      "rating2": 4841,
-      "rating_ev": 0,
-      "rank": 87,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4911,
+      "rating2": 4831,
+      "rating_ev": 10,
+      "rank": 84,
       "win_prob": 56.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-09",

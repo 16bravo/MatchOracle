@@ -1,14 +1,14 @@
 {
   "team": "Brazil",
   "stats": {
-    "matches_played": 1058,
-    "wins": 668,
+    "matches_played": 1059,
+    "wins": 669,
     "draws": 221,
     "losses": 169,
-    "goals_for": 2279,
+    "goals_for": 2282,
     "goals_against": 946,
-    "goal_difference": 1333,
-    "win_percentage": 63.1,
+    "goal_difference": 1336,
+    "win_percentage": 63.2,
     "avg_points": 2.1,
     "best_rank": 1,
     "worst_rank": 14,
@@ -25,11 +25,11 @@
       "date": "1920-09-18",
       "flag": "uruguay.png"
     },
-    "home_matches": 372,
+    "home_matches": 373,
     "away_matches": 343,
     "neutral_matches": 343,
     "first_match_date": "1914-09-20",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5500,
+      "rating1": 5517,
       "rating2": 5436,
       "rating_ev": 0,
       "rank": 6,
-      "win_prob": 46.1,
+      "win_prob": 47.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5500,
+      "rating1": 5517,
       "rating2": 5187,
       "rating_ev": 0,
       "rank": 6,
-      "win_prob": 71.6,
+      "win_prob": 73.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "bolivia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5500,
+      "rating1": 5517,
       "rating2": 5066,
       "rating_ev": 0,
       "rank": 6,
-      "win_prob": 80.7,
+      "win_prob": 81.8,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Chile",
       "flag1": "brazil.png",
       "flag2": "chile.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5500,
-      "rating2": 5201,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5517,
+      "rating2": 5184,
+      "rating_ev": 17,
       "rank": 6,
       "win_prob": 85.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
