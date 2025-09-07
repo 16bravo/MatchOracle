@@ -1,14 +1,14 @@
 {
   "team": "Costa Rica",
   "stats": {
-    "matches_played": 777,
+    "matches_played": 778,
     "wins": 354,
-    "draws": 185,
+    "draws": 186,
     "losses": 238,
-    "goals_for": 1352,
-    "goals_against": 897,
+    "goals_for": 1353,
+    "goals_against": 898,
     "goal_difference": 455,
-    "win_percentage": 45.6,
+    "win_percentage": 45.5,
     "avg_points": 1.6,
     "best_rank": 8,
     "worst_rank": 79,
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 256,
-    "away_matches": 275,
+    "away_matches": 276,
     "neutral_matches": 246,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-06-29"
+    "last_match_date": "2025-09-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "honduras.png",
       "score1": "",
       "score2": "",
-      "rating1": 5156,
-      "rating2": 4919,
+      "rating1": 5136,
+      "rating2": 4920,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 81.4,
+      "rank": 50,
+      "win_prob": 80.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5156,
-      "rating2": 4935,
+      "rating1": 5136,
+      "rating2": 4934,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 62.9,
+      "rank": 50,
+      "win_prob": 61.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "nicaragua.png",
       "score1": "",
       "score2": "",
-      "rating1": 5156,
-      "rating2": 4721,
+      "rating1": 5136,
+      "rating2": 4741,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 91.0,
+      "rank": 50,
+      "win_prob": 89.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "honduras.png",
       "score1": "",
       "score2": "",
-      "rating1": 5156,
-      "rating2": 4919,
+      "rating1": 5136,
+      "rating2": 4920,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 64.5,
+      "rank": 50,
+      "win_prob": 62.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5156,
-      "rating2": 4935,
+      "rating1": 5136,
+      "rating2": 4934,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 80.3,
+      "rank": 50,
+      "win_prob": 79.0,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Nicaragua",
       "flag1": "costa_rica.png",
       "flag2": "nicaragua.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5156,
-      "rating2": 4721,
-      "rating_ev": 0,
-      "rank": 48,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5136,
+      "rating2": 4741,
+      "rating_ev": -20,
+      "rank": 50,
       "win_prob": 80.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-29",

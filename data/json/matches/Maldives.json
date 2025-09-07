@@ -1,18 +1,18 @@
 {
   "team": "Maldives",
   "stats": {
-    "matches_played": 229,
-    "wins": 65,
+    "matches_played": 230,
+    "wins": 66,
     "draws": 38,
     "losses": 126,
-    "goals_for": 281,
+    "goals_for": 284,
     "goals_against": 512,
-    "goal_difference": -231,
-    "win_percentage": 28.4,
-    "avg_points": 1.02,
+    "goal_difference": -228,
+    "win_percentage": 28.7,
+    "avg_points": 1.03,
     "best_rank": 161,
     "worst_rank": 205,
-    "avg_rank": 184.66,
+    "avg_rank": 184.69,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Mongolia",
@@ -26,10 +26,10 @@
       "flag": "iran.png"
     },
     "home_matches": 59,
-    "away_matches": 78,
+    "away_matches": 79,
     "neutral_matches": 92,
     "first_match_date": "1979-08-27",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4089,
+      "rating1": 4135,
       "rating2": 3815,
       "rating_ev": 0,
-      "rank": 196,
-      "win_prob": 83.7,
+      "rank": 192,
+      "win_prob": 86.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 4089,
+      "rating1": 4135,
       "rating2": 4488,
       "rating_ev": 0,
-      "rank": 196,
-      "win_prob": 21.6,
+      "rank": 192,
+      "win_prob": 25.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4089,
+      "rating1": 4135,
       "rating2": 4620,
       "rating_ev": 0,
-      "rank": 196,
-      "win_prob": 6.3,
+      "rank": 192,
+      "win_prob": 7.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4089,
+      "rating1": 4135,
       "rating2": 4620,
       "rating_ev": 0,
-      "rank": 196,
-      "win_prob": 13.9,
+      "rank": 192,
+      "win_prob": 16.2,
       "type": "fixture"
     },
     {
@@ -120,31 +120,31 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4089,
-      "rating2": 4085,
+      "rating1": 4135,
+      "rating2": 4039,
       "rating_ev": 0,
-      "rank": 196,
-      "win_prob": 39.6,
+      "rank": 192,
+      "win_prob": 49.6,
       "type": "fixture"
     },
     {
       "date": "2025-09-06",
       "country": "Sri Lanka",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Maldives",
       "team2": "Sri Lanka",
       "original_team1": "Maldives",
       "original_team2": "Sri Lanka",
       "flag1": "maldives.png",
       "flag2": "sri_lanka.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4089,
-      "rating2": 4085,
-      "rating_ev": 0,
-      "rank": 196,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4135,
+      "rating2": 4039,
+      "rating_ev": 46,
+      "rank": 192,
       "win_prob": 39.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

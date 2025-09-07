@@ -1,18 +1,18 @@
 {
   "team": "Nigeria",
   "stats": {
-    "matches_played": 693,
-    "wins": 316,
+    "matches_played": 694,
+    "wins": 317,
     "draws": 199,
     "losses": 178,
-    "goals_for": 1031,
+    "goals_for": 1032,
     "goals_against": 708,
-    "goal_difference": 323,
-    "win_percentage": 45.6,
+    "goal_difference": 324,
+    "win_percentage": 45.7,
     "avg_points": 1.66,
     "best_rank": 23,
     "worst_rank": 71,
-    "avg_rank": 46.77,
+    "avg_rank": 46.8,
     "biggest_win": {
       "score": "10-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -25,11 +25,11 @@
       "date": "1955-11-30",
       "flag": "gold_coast.png"
     },
-    "home_matches": 233,
+    "home_matches": 234,
     "away_matches": 258,
     "neutral_matches": 202,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2025-06-06"
+    "last_match_date": "2025-09-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5045,
+      "rating1": 5040,
       "rating2": 4861,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 69.2,
+      "rank": 69,
+      "win_prob": 68.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5045,
+      "rating1": 5040,
       "rating2": 5062,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 48.1,
+      "rank": 69,
+      "win_prob": 47.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5045,
+      "rating1": 5040,
       "rating2": 4867,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 68.6,
+      "rank": 69,
+      "win_prob": 68.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5045,
+      "rating1": 5040,
       "rating2": 5484,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 13.1,
+      "rank": 69,
+      "win_prob": 12.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5045,
+      "rating1": 5040,
       "rating2": 4984,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 45.8,
+      "rank": 69,
+      "win_prob": 45.2,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Rwanda",
       "flag1": "nigeria.png",
       "flag2": "rwanda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5045,
-      "rating2": 4819,
-      "rating_ev": 0,
-      "rank": 68,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5040,
+      "rating2": 4824,
+      "rating_ev": -5,
+      "rank": 69,
       "win_prob": 80.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-06",

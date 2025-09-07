@@ -1,18 +1,18 @@
 {
   "team": "Cyprus",
   "stats": {
-    "matches_played": 420,
+    "matches_played": 421,
     "wins": 82,
     "draws": 71,
-    "losses": 267,
+    "losses": 268,
     "goals_for": 372,
-    "goals_against": 917,
-    "goal_difference": -545,
+    "goals_against": 918,
+    "goal_difference": -546,
     "win_percentage": 19.5,
     "avg_points": 0.75,
     "best_rank": 57,
     "worst_rank": 140,
-    "avg_rank": 89.51,
+    "avg_rank": 89.6,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Andorra",
@@ -26,10 +26,10 @@
       "flag": "germany.png"
     },
     "home_matches": 232,
-    "away_matches": 182,
+    "away_matches": 183,
     "neutral_matches": 6,
     "first_match_date": "1949-07-30",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "estonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4735,
+      "rating1": 4764,
       "rating2": 4841,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 49.3,
+      "rank": 127,
+      "win_prob": 52.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4735,
-      "rating2": 5391,
+      "rating1": 4764,
+      "rating2": 5362,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 9.0,
+      "rank": 127,
+      "win_prob": 11.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 4735,
-      "rating2": 4358,
+      "rating1": 4764,
+      "rating2": 4311,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 76.8,
+      "rank": 127,
+      "win_prob": 81.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4735,
+      "rating1": 4764,
       "rating2": 5168,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 19.3,
+      "rank": 127,
+      "win_prob": 21.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Austria",
       "flag1": "cyprus.png",
       "flag2": "austria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4735,
-      "rating2": 5391,
-      "rating_ev": 0,
-      "rank": 134,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4764,
+      "rating2": 5362,
+      "rating_ev": 29,
+      "rank": 127,
       "win_prob": 3.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

@@ -1,18 +1,18 @@
 {
   "team": "Sri Lanka",
   "stats": {
-    "matches_played": 272,
+    "matches_played": 273,
     "wins": 52,
     "draws": 48,
-    "losses": 172,
+    "losses": 173,
     "goals_for": 258,
-    "goals_against": 675,
-    "goal_difference": -417,
-    "win_percentage": 19.1,
+    "goals_against": 678,
+    "goal_difference": -420,
+    "win_percentage": 19.0,
     "avg_points": 0.75,
     "best_rank": 111,
     "worst_rank": 205,
-    "avg_rank": 184.15,
+    "avg_rank": 184.21,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Pakistan",
@@ -25,11 +25,11 @@
       "date": "1964-01-12",
       "flag": "gdr.png"
     },
-    "home_matches": 55,
+    "home_matches": 56,
     "away_matches": 86,
     "neutral_matches": 131,
     "first_match_date": "1952-03-09",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4085,
+      "rating1": 4039,
       "rating2": 4168,
       "rating_ev": 0,
-      "rank": 197,
-      "win_prob": 30.9,
+      "rank": 200,
+      "win_prob": 26.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4085,
+      "rating1": 4039,
       "rating2": 4703,
       "rating_ev": 0,
-      "rank": 197,
-      "win_prob": 10.3,
+      "rank": 200,
+      "win_prob": 8.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4085,
+      "rating1": 4039,
       "rating2": 4614,
       "rating_ev": 0,
-      "rank": 197,
-      "win_prob": 6.3,
+      "rank": 200,
+      "win_prob": 5.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4085,
+      "rating1": 4039,
       "rating2": 4614,
       "rating_ev": 0,
-      "rank": 197,
-      "win_prob": 14.0,
+      "rank": 200,
+      "win_prob": 11.9,
       "type": "fixture"
     },
     {
@@ -120,31 +120,31 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 4085,
-      "rating2": 4089,
+      "rating1": 4039,
+      "rating2": 4135,
       "rating_ev": 0,
-      "rank": 197,
-      "win_prob": 60.4,
+      "rank": 200,
+      "win_prob": 50.4,
       "type": "fixture"
     },
     {
       "date": "2025-09-06",
       "country": "Sri Lanka",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Sri Lanka",
       "team2": "Maldives",
       "original_team1": "Sri Lanka",
       "original_team2": "Maldives",
       "flag1": "sri_lanka.png",
       "flag2": "maldives.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4085,
-      "rating2": 4089,
-      "rating_ev": 0,
-      "rank": 197,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4039,
+      "rating2": 4135,
+      "rating_ev": -46,
+      "rank": 200,
       "win_prob": 60.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

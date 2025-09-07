@@ -1,18 +1,18 @@
 {
   "team": "Bangladesh",
   "stats": {
-    "matches_played": 318,
+    "matches_played": 319,
     "wins": 84,
-    "draws": 70,
+    "draws": 71,
     "losses": 164,
     "goals_for": 283,
     "goals_against": 570,
     "goal_difference": -287,
-    "win_percentage": 26.4,
+    "win_percentage": 26.3,
     "avg_points": 1.01,
     "best_rank": 144,
     "worst_rank": 200,
-    "avg_rank": 178.5,
+    "avg_rank": 178.52,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Maldives",
@@ -26,10 +26,10 @@
       "flag": "south_korea.png"
     },
     "home_matches": 89,
-    "away_matches": 88,
+    "away_matches": 89,
     "neutral_matches": 141,
     "first_match_date": "1973-07-27",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4182,
+      "rating1": 4183,
       "rating2": 4324,
       "rating_ev": 0,
       "rank": 185,
-      "win_prob": 25.7,
+      "win_prob": 25.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4182,
+      "rating1": 4183,
       "rating2": 4508,
       "rating_ev": 0,
       "rank": 185,
-      "win_prob": 27.3,
+      "win_prob": 27.4,
       "type": "fixture"
     },
     {
@@ -82,7 +82,7 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4182,
+      "rating1": 4183,
       "rating2": 4521,
       "rating_ev": 0,
       "rank": 185,
@@ -101,11 +101,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4182,
+      "rating1": 4183,
       "rating2": 4521,
       "rating_ev": 0,
       "rank": 185,
-      "win_prob": 26.2,
+      "win_prob": 26.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "nepal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4182,
-      "rating2": 4133,
+      "rating1": 4183,
+      "rating2": 4132,
       "rating_ev": 0,
       "rank": 185,
-      "win_prob": 44.5,
+      "win_prob": 44.7,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Nepal",
       "flag1": "bangladesh.png",
       "flag2": "nepal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4182,
-      "rating2": 4133,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4183,
+      "rating2": 4132,
+      "rating_ev": 1,
       "rank": 185,
       "win_prob": 44.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
