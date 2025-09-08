@@ -1,18 +1,18 @@
 {
   "team": "Russia",
   "stats": {
-    "matches_played": 767,
-    "wins": 399,
+    "matches_played": 768,
+    "wins": 400,
     "draws": 200,
     "losses": 168,
-    "goals_for": 1373,
-    "goals_against": 748,
-    "goal_difference": 625,
-    "win_percentage": 52.0,
+    "goals_for": 1377,
+    "goals_against": 749,
+    "goal_difference": 628,
+    "win_percentage": 52.1,
     "avg_points": 1.82,
     "best_rank": 1,
     "worst_rank": 38,
-    "avg_rank": 13.9,
+    "avg_rank": 13.91,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Australia",
@@ -26,10 +26,10 @@
       "flag": "germany_1.png"
     },
     "home_matches": 157,
-    "away_matches": 357,
+    "away_matches": 358,
     "neutral_matches": 253,
     "first_match_date": "1912-06-30",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "chile.png",
       "score1": "",
       "score2": "",
-      "rating1": 5360,
+      "rating1": 5369,
       "rating2": 5184,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 77.1,
+      "rank": 20,
+      "win_prob": 77.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "peru.png",
       "score1": "",
       "score2": "",
-      "rating1": 5360,
+      "rating1": 5369,
       "rating2": 5224,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 73.8,
+      "rank": 20,
+      "win_prob": 74.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "bolivia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5360,
+      "rating1": 5369,
       "rating2": 5066,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 84.8,
+      "rank": 20,
+      "win_prob": 85.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 5360,
+      "rating1": 5369,
       "rating2": 5143,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 80.0,
+      "rank": 20,
+      "win_prob": 80.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Qatar",
       "flag1": "russia.png",
       "flag2": "qatar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5360,
-      "rating2": 4868,
-      "rating_ev": 0,
-      "rank": 22,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5369,
+      "rating2": 4859,
+      "rating_ev": 9,
+      "rank": 20,
       "win_prob": 84.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

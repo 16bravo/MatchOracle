@@ -1,18 +1,18 @@
 {
   "team": "Comoros",
   "stats": {
-    "matches_played": 143,
-    "wins": 37,
+    "matches_played": 144,
+    "wins": 38,
     "draws": 33,
     "losses": 73,
-    "goals_for": 130,
+    "goals_for": 132,
     "goals_against": 228,
-    "goal_difference": -98,
-    "win_percentage": 25.9,
-    "avg_points": 1.01,
+    "goal_difference": -96,
+    "win_percentage": 26.4,
+    "avg_points": 1.02,
     "best_rank": 91,
     "worst_rank": 191,
-    "avg_rank": 148.58,
+    "avg_rank": 148.22,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Seychelles",
@@ -27,9 +27,9 @@
     },
     "home_matches": 27,
     "away_matches": 32,
-    "neutral_matches": 84,
+    "neutral_matches": 85,
     "first_match_date": "1979-08-26",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 4838,
+      "rating1": 4859,
       "rating2": 5131,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 21.8,
+      "rank": 96,
+      "win_prob": 23.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4838,
+      "rating1": 4859,
       "rating2": 4844,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 49.3,
+      "rank": 96,
+      "win_prob": 51.7,
       "type": "fixture"
     },
     {
@@ -82,15 +82,15 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4838,
+      "rating1": 4859,
       "rating2": 5382,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 6.0,
+      "rank": 96,
+      "win_prob": 6.5,
       "type": "fixture"
     },
     {
-      "date": "2025-11-07",
+      "date": "2025-11-08",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Comoros",
@@ -101,11 +101,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 4838,
+      "rating1": 4859,
       "rating2": 4487,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 82.1,
+      "rank": 96,
+      "win_prob": 83.4,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Central African Republic",
       "flag1": "comoros.png",
       "flag2": "cta.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4838,
-      "rating2": 4729,
-      "rating_ev": 0,
-      "rank": 104,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4859,
+      "rating2": 4708,
+      "rating_ev": 21,
+      "rank": 97,
       "win_prob": 61.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

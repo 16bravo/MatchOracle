@@ -1,18 +1,18 @@
 {
   "team": "Kazakhstan",
   "stats": {
-    "matches_played": 261,
+    "matches_played": 262,
     "wins": 66,
     "draws": 55,
-    "losses": 140,
+    "losses": 141,
     "goals_for": 270,
-    "goals_against": 438,
-    "goal_difference": -168,
-    "win_percentage": 25.3,
+    "goals_against": 444,
+    "goal_difference": -174,
+    "win_percentage": 25.2,
     "avg_points": 0.97,
     "best_rank": 72,
     "worst_rank": 116,
-    "avg_rank": 98.69,
+    "avg_rank": 98.75,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Pakistan",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 99,
-    "away_matches": 117,
+    "away_matches": 118,
     "neutral_matches": 45,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 4848,
-      "rating2": 5424,
+      "rating1": 4812,
+      "rating2": 5460,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 11.9,
+      "rank": 115,
+      "win_prob": 9.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4848,
-      "rating2": 5100,
+      "rating1": 4812,
+      "rating2": 5118,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 17.6,
+      "rank": 115,
+      "win_prob": 14.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 4848,
-      "rating2": 4364,
+      "rating1": 4812,
+      "rating2": 4346,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 92.5,
+      "rank": 115,
+      "win_prob": 92.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Belgium",
       "flag1": "kazakhstan.png",
       "flag2": "belgium.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4848,
-      "rating2": 5424,
-      "rating_ev": 0,
-      "rank": 99,
+      "score1": 0,
+      "score2": 6,
+      "rating1": 4812,
+      "rating2": 5460,
+      "rating_ev": -36,
+      "rank": 115,
       "win_prob": 5.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

@@ -1,18 +1,18 @@
 {
   "team": "North Macedonia",
   "stats": {
-    "matches_played": 296,
-    "wins": 94,
+    "matches_played": 297,
+    "wins": 95,
     "draws": 74,
     "losses": 128,
-    "goals_for": 357,
+    "goals_for": 362,
     "goals_against": 395,
-    "goal_difference": -38,
-    "win_percentage": 31.8,
-    "avg_points": 1.2,
+    "goal_difference": -33,
+    "win_percentage": 32.0,
+    "avg_points": 1.21,
     "best_rank": 37,
     "worst_rank": 86,
-    "avg_rank": 62.84,
+    "avg_rank": 62.81,
     "biggest_win": {
       "score": "11-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "2023-06-19",
       "flag": "england.png"
     },
-    "home_matches": 32,
+    "home_matches": 33,
     "away_matches": 128,
     "neutral_matches": 136,
     "first_match_date": "1993-10-13",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5100,
+      "rating1": 5118,
       "rating2": 5218,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 27.7,
+      "rank": 54,
+      "win_prob": 29.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5100,
+      "rating1": 5118,
       "rating2": 4809,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 84.7,
+      "rank": 54,
+      "win_prob": 85.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5100,
-      "rating2": 4848,
+      "rating1": 5118,
+      "rating2": 4812,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 82.4,
+      "rank": 54,
+      "win_prob": 85.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5100,
-      "rating2": 5424,
+      "rating1": 5118,
+      "rating2": 5460,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 13.6,
+      "rank": 54,
+      "win_prob": 12.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Liechtenstein",
       "flag1": "macedonia.png",
       "flag2": "liechtenstein.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5100,
-      "rating2": 4364,
-      "rating_ev": 0,
-      "rank": 57,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 5118,
+      "rating2": 4346,
+      "rating_ev": 18,
+      "rank": 54,
       "win_prob": 97.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

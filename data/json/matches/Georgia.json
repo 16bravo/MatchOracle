@@ -1,18 +1,18 @@
 {
   "team": "Georgia",
   "stats": {
-    "matches_played": 308,
-    "wins": 103,
+    "matches_played": 309,
+    "wins": 104,
     "draws": 66,
     "losses": 139,
-    "goals_for": 397,
+    "goals_for": 400,
     "goals_against": 423,
-    "goal_difference": -26,
-    "win_percentage": 33.4,
+    "goal_difference": -23,
+    "win_percentage": 33.7,
     "avg_points": 1.22,
     "best_rank": 29,
     "worst_rank": 90,
-    "avg_rank": 60.0,
+    "avg_rank": 59.9,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Thailand",
@@ -25,11 +25,11 @@
       "date": "2023-09-08",
       "flag": "spain.png"
     },
-    "home_matches": 133,
+    "home_matches": 134,
     "away_matches": 144,
     "neutral_matches": 31,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5236,
-      "rating2": 4920,
+      "rating1": 5252,
+      "rating2": 4904,
       "rating_ev": 0,
-      "rank": 33,
-      "win_prob": 71.9,
+      "rank": 30,
+      "win_prob": 74.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5236,
-      "rating2": 5664,
+      "rating1": 5252,
+      "rating2": 5725,
       "rating_ev": 0,
-      "rank": 33,
-      "win_prob": 19.7,
+      "rank": 30,
+      "win_prob": 16.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5236,
-      "rating2": 5336,
+      "rating1": 5252,
+      "rating2": 5275,
       "rating_ev": 0,
-      "rank": 33,
-      "win_prob": 29.3,
+      "rank": 30,
+      "win_prob": 36.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5236,
-      "rating2": 5664,
+      "rating1": 5252,
+      "rating2": 5725,
       "rating_ev": 0,
-      "rank": 33,
-      "win_prob": 9.2,
+      "rank": 30,
+      "win_prob": 7.8,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Bulgaria",
       "flag1": "georgia.png",
       "flag2": "bulgaria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5236,
-      "rating2": 4920,
-      "rating_ev": 0,
-      "rank": 33,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5252,
+      "rating2": 4904,
+      "rating_ev": 16,
+      "rank": 30,
       "win_prob": 86.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

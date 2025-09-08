@@ -1,18 +1,18 @@
 {
   "team": "Hong Kong",
   "stats": {
-    "matches_played": 507,
-    "wins": 179,
+    "matches_played": 508,
+    "wins": 180,
     "draws": 98,
     "losses": 230,
-    "goals_for": 796,
+    "goals_for": 804,
     "goals_against": 854,
-    "goal_difference": -58,
-    "win_percentage": 35.3,
-    "avg_points": 1.25,
+    "goal_difference": -50,
+    "win_percentage": 35.4,
+    "avg_points": 1.26,
     "best_rank": 74,
     "worst_rank": 173,
-    "avg_rank": 129.98,
+    "avg_rank": 130.03,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 178,
     "away_matches": 150,
-    "neutral_matches": 179,
+    "neutral_matches": 180,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4521,
+      "rating1": 4602,
       "rating2": 4508,
       "rating_ev": 0,
-      "rank": 161,
-      "win_prob": 40.6,
+      "rank": 155,
+      "win_prob": 49.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4521,
+      "rating1": 4602,
       "rating2": 4324,
       "rating_ev": 0,
-      "rank": 161,
-      "win_prob": 78.6,
+      "rank": 155,
+      "win_prob": 83.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4521,
+      "rating1": 4602,
       "rating2": 4183,
       "rating_ev": 0,
-      "rank": 161,
-      "win_prob": 87.1,
+      "rank": 155,
+      "win_prob": 90.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4521,
+      "rating1": 4602,
       "rating2": 4183,
       "rating_ev": 0,
-      "rank": 161,
-      "win_prob": 73.7,
+      "rank": 155,
+      "win_prob": 79.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Fiji",
       "flag1": "hong_kong.png",
       "flag2": "fiji.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4521,
-      "rating2": 4316,
-      "rating_ev": 0,
-      "rank": 161,
+      "score1": 8,
+      "score2": 0,
+      "rating1": 4602,
+      "rating2": 4235,
+      "rating_ev": 81,
+      "rank": 155,
       "win_prob": 71.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",
