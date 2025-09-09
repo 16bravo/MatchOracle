@@ -1,18 +1,18 @@
 {
   "team": "Somalia",
   "stats": {
-    "matches_played": 139,
+    "matches_played": 140,
     "wins": 14,
     "draws": 19,
-    "losses": 106,
+    "losses": 107,
     "goals_for": 73,
-    "goals_against": 355,
-    "goal_difference": -282,
-    "win_percentage": 10.1,
+    "goals_against": 357,
+    "goal_difference": -284,
+    "win_percentage": 10.0,
     "avg_points": 0.44,
     "best_rank": 109,
     "worst_rank": 193,
-    "avg_rank": 161.07,
+    "avg_rank": 161.14,
     "biggest_win": {
       "score": "5-2",
       "opponent": "Mauritania",
@@ -26,14 +26,14 @@
       "flag": "north_korea.png"
     },
     "home_matches": 10,
-    "away_matches": 40,
+    "away_matches": 41,
     "neutral_matches": 89,
     "first_match_date": "1963-11-14",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
-      "date": "2025-11-08",
+      "date": "2025-11-09",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Somalia",
@@ -44,11 +44,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4403,
-      "rating2": 4882,
+      "rating1": 4408,
+      "rating2": 4860,
       "rating_ev": 0,
       "rank": 170,
-      "win_prob": 11.3,
+      "win_prob": 12.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Uganda",
       "flag1": "somalia.png",
       "flag2": "uganda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4403,
-      "rating2": 4861,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4408,
+      "rating2": 4856,
+      "rating_ev": 5,
       "rank": 170,
       "win_prob": 8.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

@@ -1,18 +1,18 @@
 {
   "team": "Chad",
   "stats": {
-    "matches_played": 174,
+    "matches_played": 175,
     "wins": 34,
     "draws": 40,
-    "losses": 100,
-    "goals_for": 154,
-    "goals_against": 318,
-    "goal_difference": -164,
-    "win_percentage": 19.5,
-    "avg_points": 0.82,
+    "losses": 101,
+    "goals_for": 155,
+    "goals_against": 321,
+    "goal_difference": -166,
+    "win_percentage": 19.4,
+    "avg_points": 0.81,
     "best_rank": 104,
     "worst_rank": 155,
-    "avg_rank": 131.29,
+    "avg_rank": 131.42,
     "biggest_win": {
       "score": "5-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 41,
     "away_matches": 58,
-    "neutral_matches": 75,
+    "neutral_matches": 76,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Madagascar",
       "flag1": "chad.png",
       "flag2": "madagascar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4620,
-      "rating2": 4788,
-      "rating_ev": 0,
-      "rank": 152,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4602,
+      "rating2": 4806,
+      "rating_ev": -18,
+      "rank": 154,
       "win_prob": 32.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

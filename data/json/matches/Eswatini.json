@@ -1,14 +1,14 @@
 {
   "team": "Eswatini",
   "stats": {
-    "matches_played": 303,
+    "matches_played": 304,
     "wins": 62,
     "draws": 93,
-    "losses": 148,
+    "losses": 149,
     "goals_for": 255,
-    "goals_against": 496,
-    "goal_difference": -241,
-    "win_percentage": 20.5,
+    "goals_against": 498,
+    "goal_difference": -243,
+    "win_percentage": 20.4,
     "avg_points": 0.92,
     "best_rank": 118,
     "worst_rank": 167,
@@ -26,10 +26,10 @@
       "flag": "egypt.png"
     },
     "home_matches": 12,
-    "away_matches": 123,
+    "away_matches": 124,
     "neutral_matches": 168,
     "first_match_date": "1968-07-20",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Libya",
       "flag1": "eswatini.png",
       "flag2": "libya.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4683,
-      "rating2": 4886,
-      "rating_ev": 0,
-      "rank": 145,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4673,
+      "rating2": 4896,
+      "rating_ev": -10,
+      "rank": 146,
       "win_prob": 20.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

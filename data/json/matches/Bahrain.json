@@ -1,18 +1,18 @@
 {
   "team": "Bahrain",
   "stats": {
-    "matches_played": 619,
+    "matches_played": 620,
     "wins": 220,
     "draws": 164,
-    "losses": 235,
+    "losses": 236,
     "goals_for": 764,
-    "goals_against": 786,
-    "goal_difference": -22,
+    "goals_against": 787,
+    "goal_difference": -23,
     "win_percentage": 35.5,
     "avg_points": 1.33,
     "best_rank": 55,
     "worst_rank": 148,
-    "avg_rank": 96.9,
+    "avg_rank": 96.91,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Indonesia",
@@ -26,14 +26,14 @@
       "flag": "iraq_3.png"
     },
     "home_matches": 210,
-    "away_matches": 156,
+    "away_matches": 157,
     "neutral_matches": 253,
     "first_match_date": "1966-04-01",
-    "last_match_date": "2025-09-03"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
-      "date": "2025-11-08",
+      "date": "2025-11-09",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Bahrain",
@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 4837,
-      "rating2": 4262,
+      "rating2": 4268,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 92.0,
+      "rank": 105,
+      "win_prob": 91.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "United Arab Emirates",
       "flag1": "bahrain.png",
       "flag2": "uae.png",
-      "score1": "",
-      "score2": "",
+      "score1": 0,
+      "score2": 1,
       "rating1": 4837,
       "rating2": 4965,
       "rating_ev": 0,
-      "rank": 104,
+      "rank": 105,
       "win_prob": 26.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-03",

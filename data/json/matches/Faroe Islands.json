@@ -1,18 +1,18 @@
 {
   "team": "Faroe Islands",
   "stats": {
-    "matches_played": 268,
-    "wins": 39,
+    "matches_played": 269,
+    "wins": 40,
     "draws": 36,
     "losses": 193,
-    "goals_for": 181,
+    "goals_for": 182,
     "goals_against": 629,
-    "goal_difference": -448,
-    "win_percentage": 14.6,
-    "avg_points": 0.57,
+    "goal_difference": -447,
+    "win_percentage": 14.9,
+    "avg_points": 0.58,
     "best_rank": 64,
     "worst_rank": 163,
-    "avg_rank": 130.18,
+    "avg_rank": 130.07,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Liechtenstein",
@@ -26,10 +26,10 @@
       "flag": "iceland.png"
     },
     "home_matches": 114,
-    "away_matches": 135,
+    "away_matches": 136,
     "neutral_matches": 19,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4842,
-      "rating2": 5452,
+      "rating1": 4838,
+      "rating2": 5472,
       "rating_ev": 0,
-      "rank": 101,
-      "win_prob": 4.7,
+      "rank": 103,
+      "win_prob": 4.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4842,
-      "rating2": 5246,
+      "rating1": 4838,
+      "rating2": 5236,
       "rating_ev": 0,
-      "rank": 101,
-      "win_prob": 21.3,
+      "rank": 103,
+      "win_prob": 21.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 4842,
-      "rating2": 4987,
+      "rating1": 4838,
+      "rating2": 4967,
       "rating_ev": 0,
-      "rank": 101,
-      "win_prob": 45.1,
+      "rank": 103,
+      "win_prob": 46.8,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Gibraltar",
       "flag1": "faroe.png",
       "flag2": "gibraltar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4842,
-      "rating2": 4442,
-      "rating_ev": 0,
-      "rank": 101,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4838,
+      "rating2": 4446,
+      "rating_ev": -4,
+      "rank": 103,
       "win_prob": 78.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

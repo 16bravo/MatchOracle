@@ -1,18 +1,18 @@
 {
   "team": "Scotland",
   "stats": {
-    "matches_played": 858,
-    "wins": 406,
+    "matches_played": 859,
+    "wins": 407,
     "draws": 187,
     "losses": 265,
-    "goals_for": 1469,
+    "goals_for": 1471,
     "goals_against": 1058,
-    "goal_difference": 411,
-    "win_percentage": 47.3,
+    "goal_difference": 413,
+    "win_percentage": 47.4,
     "avg_points": 1.64,
     "best_rank": 1,
     "worst_rank": 62,
-    "avg_rank": 19.09,
+    "avg_rank": 19.1,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Ireland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 398,
     "away_matches": 411,
-    "neutral_matches": 49,
+    "neutral_matches": 50,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5244,
-      "rating2": 5361,
+      "rating1": 5255,
+      "rating2": 5411,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 48.1,
+      "rank": 30,
+      "win_prob": 43.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5244,
-      "rating2": 5422,
+      "rating1": 5255,
+      "rating2": 5372,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 22.8,
+      "rank": 30,
+      "win_prob": 27.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "belarus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5244,
-      "rating2": 4956,
+      "rating1": 5255,
+      "rating2": 4945,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 84.5,
+      "rank": 30,
+      "win_prob": 85.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5244,
-      "rating2": 5422,
+      "rating1": 5255,
+      "rating2": 5372,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 41.5,
+      "rank": 30,
+      "win_prob": 48.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Belarus",
       "flag1": "scotland.png",
       "flag2": "belarus.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5244,
-      "rating2": 4956,
-      "rating_ev": 0,
-      "rank": 32,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5255,
+      "rating2": 4945,
+      "rating_ev": 11,
+      "rank": 30,
       "win_prob": 77.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

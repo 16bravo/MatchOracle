@@ -1,18 +1,18 @@
 {
   "team": "Ghana",
   "stats": {
-    "matches_played": 751,
-    "wins": 360,
+    "matches_played": 752,
+    "wins": 361,
     "draws": 188,
     "losses": 203,
-    "goals_for": 1201,
+    "goals_for": 1202,
     "goals_against": 780,
-    "goal_difference": 421,
-    "win_percentage": 47.9,
+    "goal_difference": 422,
+    "win_percentage": 48.0,
     "avg_points": 1.69,
     "best_rank": 14,
     "worst_rank": 89,
-    "avg_rank": 49.6,
+    "avg_rank": 49.63,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Nyasaland",
@@ -25,11 +25,11 @@
       "date": "1996-03-27",
       "flag": "brazil.png"
     },
-    "home_matches": 232,
+    "home_matches": 233,
     "away_matches": 278,
     "neutral_matches": 241,
     "first_match_date": "1950-05-28",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Mali",
       "flag1": "ghana.png",
       "flag2": "mali.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4992,
-      "rating2": 5131,
-      "rating_ev": 0,
-      "rank": 73,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5009,
+      "rating2": 5114,
+      "rating_ev": 17,
+      "rank": 71,
       "win_prob": 45.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

@@ -1,9 +1,9 @@
 {
   "team": "Algeria",
   "stats": {
-    "matches_played": 663,
+    "matches_played": 664,
     "wins": 300,
-    "draws": 174,
+    "draws": 175,
     "losses": 189,
     "goals_for": 1017,
     "goals_against": 680,
@@ -12,7 +12,7 @@
     "avg_points": 1.62,
     "best_rank": 16,
     "worst_rank": 106,
-    "avg_rank": 53.69,
+    "avg_rank": 53.67,
     "biggest_win": {
       "score": "15-1",
       "opponent": "South Yemen",
@@ -27,9 +27,9 @@
     },
     "home_matches": 252,
     "away_matches": 228,
-    "neutral_matches": 183,
+    "neutral_matches": 184,
     "first_match_date": "1958-05-03",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5220,
-      "rating2": 4878,
+      "rating1": 5205,
+      "rating2": 4869,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 81.6,
+      "rank": 39,
+      "win_prob": 81.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5220,
+      "rating1": 5205,
       "rating2": 5028,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 69.9,
+      "rank": 39,
+      "win_prob": 68.5,
       "type": "fixture"
     },
     {
@@ -82,15 +82,15 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5220,
+      "rating1": 5205,
       "rating2": 4852,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 83.1,
+      "rank": 39,
+      "win_prob": 82.2,
       "type": "fixture"
     },
     {
-      "date": "2025-12-08",
+      "date": "2025-12-09",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Algeria",
@@ -101,11 +101,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 5220,
+      "rating1": 5205,
       "rating2": 4925,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 78.4,
+      "rank": 39,
+      "win_prob": 77.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Guinea",
       "flag1": "algeria.png",
       "flag2": "guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5220,
-      "rating2": 4964,
-      "rating_ev": 0,
-      "rank": 37,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5205,
+      "rating2": 4979,
+      "rating_ev": -15,
+      "rank": 40,
       "win_prob": 75.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

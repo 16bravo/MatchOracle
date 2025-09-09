@@ -1,18 +1,18 @@
 {
   "team": "Denmark",
   "stats": {
-    "matches_played": 896,
-    "wins": 416,
+    "matches_played": 897,
+    "wins": 417,
     "draws": 184,
     "losses": 296,
-    "goals_for": 1636,
+    "goals_for": 1639,
     "goals_against": 1207,
-    "goal_difference": 429,
-    "win_percentage": 46.4,
+    "goal_difference": 432,
+    "win_percentage": 46.5,
     "avg_points": 1.6,
     "best_rank": 1,
     "worst_rank": 49,
-    "avg_rank": 19.2,
+    "avg_rank": 19.19,
     "biggest_win": {
       "score": "17-1",
       "opponent": "France",
@@ -26,10 +26,10 @@
       "flag": "germany_1.png"
     },
     "home_matches": 409,
-    "away_matches": 392,
+    "away_matches": 393,
     "neutral_matches": 95,
     "first_match_date": "1908-10-19",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5361,
-      "rating2": 5244,
+      "rating1": 5411,
+      "rating2": 5255,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 51.9,
+      "rank": 16,
+      "win_prob": 56.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "belarus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5361,
-      "rating2": 4956,
+      "rating1": 5411,
+      "rating2": 4945,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 89.9,
+      "rank": 16,
+      "win_prob": 92.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5361,
-      "rating2": 5422,
+      "rating1": 5411,
+      "rating2": 5372,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 54.2,
+      "rank": 16,
+      "win_prob": 64.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "belarus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5361,
-      "rating2": 4956,
+      "rating1": 5411,
+      "rating2": 4945,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 85.2,
+      "rank": 16,
+      "win_prob": 88.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Greece",
       "flag1": "denmark.png",
       "flag2": "greece.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5361,
-      "rating2": 5422,
-      "rating_ev": 0,
-      "rank": 22,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5411,
+      "rating2": 5372,
+      "rating_ev": 50,
+      "rank": 16,
       "win_prob": 33.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

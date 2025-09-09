@@ -1,18 +1,18 @@
 {
   "team": "Tunisia",
   "stats": {
-    "matches_played": 742,
-    "wins": 315,
+    "matches_played": 743,
+    "wins": 316,
     "draws": 204,
     "losses": 223,
-    "goals_for": 1044,
+    "goals_for": 1045,
     "goals_against": 800,
-    "goal_difference": 244,
+    "goal_difference": 245,
     "win_percentage": 42.5,
     "avg_points": 1.55,
     "best_rank": 31,
     "worst_rank": 88,
-    "avg_rank": 52.61,
+    "avg_rank": 52.62,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Taiwan",
@@ -26,10 +26,10 @@
       "flag": "hungary.png"
     },
     "home_matches": 324,
-    "away_matches": 242,
+    "away_matches": 243,
     "neutral_matches": 176,
     "first_match_date": "1954-05-31",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5062,
+      "rating1": 5071,
       "rating2": 4867,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 70.2,
+      "rank": 61,
+      "win_prob": 71.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5062,
+      "rating1": 5071,
       "rating2": 5040,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 52.4,
+      "rank": 61,
+      "win_prob": 53.4,
       "type": "fixture"
     },
     {
@@ -82,15 +82,15 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5062,
-      "rating2": 4861,
+      "rating1": 5071,
+      "rating2": 4856,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 70.7,
+      "rank": 61,
+      "win_prob": 72.0,
       "type": "fixture"
     },
     {
-      "date": "2025-12-08",
+      "date": "2025-12-09",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Tunisia",
@@ -101,11 +101,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5062,
+      "rating1": 5071,
       "rating2": 4859,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 61.1,
+      "rank": 61,
+      "win_prob": 62.0,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Equatorial Guinea",
       "flag1": "tunisia.png",
       "flag2": "eq_guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5062,
-      "rating2": 4878,
-      "rating_ev": 0,
-      "rank": 65,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5071,
+      "rating2": 4869,
+      "rating_ev": 9,
+      "rank": 61,
       "win_prob": 59.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

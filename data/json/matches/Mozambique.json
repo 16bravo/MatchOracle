@@ -1,18 +1,18 @@
 {
   "team": "Mozambique",
   "stats": {
-    "matches_played": 405,
-    "wins": 124,
+    "matches_played": 406,
+    "wins": 125,
     "draws": 106,
     "losses": 175,
-    "goals_for": 409,
+    "goals_for": 411,
     "goals_against": 523,
-    "goal_difference": -114,
-    "win_percentage": 30.6,
+    "goal_difference": -112,
+    "win_percentage": 30.8,
     "avg_points": 1.18,
     "best_rank": 79,
     "worst_rank": 143,
-    "avg_rank": 112.76,
+    "avg_rank": 112.73,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lesotho",
@@ -25,11 +25,11 @@
       "date": "1979-05-19",
       "flag": "rhodesia.png"
     },
-    "home_matches": 151,
+    "home_matches": 152,
     "away_matches": 161,
     "neutral_matches": 93,
     "first_match_date": "1975-06-25",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4816,
+      "rating1": 4838,
       "rating2": 5068,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 24.9,
+      "rank": 103,
+      "win_prob": 26.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4816,
+      "rating1": 4838,
       "rating2": 4911,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 39.7,
+      "rank": 103,
+      "win_prob": 42.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4816,
+      "rating1": 4838,
       "rating2": 5064,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 25.3,
+      "rank": 103,
+      "win_prob": 27.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Botswana",
       "flag1": "mozambique.png",
       "flag2": "botswana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4816,
-      "rating2": 4817,
-      "rating_ev": 0,
-      "rank": 110,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4838,
+      "rating2": 4795,
+      "rating_ev": 22,
+      "rank": 103,
       "win_prob": 60.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

@@ -1,18 +1,18 @@
 {
   "team": "Liberia",
   "stats": {
-    "matches_played": 325,
+    "matches_played": 326,
     "wins": 85,
-    "draws": 71,
+    "draws": 72,
     "losses": 169,
-    "goals_for": 299,
-    "goals_against": 494,
+    "goals_for": 301,
+    "goals_against": 496,
     "goal_difference": -195,
-    "win_percentage": 26.2,
+    "win_percentage": 26.1,
     "avg_points": 1.0,
     "best_rank": 68,
     "worst_rank": 146,
-    "avg_rank": 106.34,
+    "avg_rank": 106.46,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Djibouti",
@@ -26,10 +26,10 @@
       "flag": "ghana.png"
     },
     "home_matches": 137,
-    "away_matches": 135,
+    "away_matches": 136,
     "neutral_matches": 53,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Malawi",
       "flag1": "liberia.png",
       "flag2": "malawi.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4673,
-      "rating2": 4748,
-      "rating_ev": 0,
-      "rank": 147,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4683,
+      "rating2": 4738,
+      "rating_ev": 10,
+      "rank": 145,
       "win_prob": 31.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

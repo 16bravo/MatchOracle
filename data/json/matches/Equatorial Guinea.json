@@ -1,18 +1,18 @@
 {
   "team": "Equatorial Guinea",
   "stats": {
-    "matches_played": 184,
+    "matches_played": 185,
     "wins": 54,
     "draws": 42,
-    "losses": 88,
+    "losses": 89,
     "goals_for": 171,
-    "goals_against": 267,
-    "goal_difference": -96,
-    "win_percentage": 29.3,
-    "avg_points": 1.11,
+    "goals_against": 268,
+    "goal_difference": -97,
+    "win_percentage": 29.2,
+    "avg_points": 1.1,
     "best_rank": 69,
     "worst_rank": 168,
-    "avg_rank": 123.71,
+    "avg_rank": 123.54,
     "biggest_win": {
       "score": "4-0",
       "opponent": "South Sudan",
@@ -25,11 +25,11 @@
       "date": "1990-12-13",
       "flag": "congo.png"
     },
-    "home_matches": 78,
+    "home_matches": 79,
     "away_matches": 62,
     "neutral_matches": 44,
     "first_match_date": "1975-05-23",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4878,
-      "rating2": 5220,
+      "rating1": 4869,
+      "rating2": 5205,
       "rating_ev": 0,
-      "rank": 92,
-      "win_prob": 18.4,
+      "rank": 91,
+      "win_prob": 18.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4878,
+      "rating1": 4869,
       "rating2": 4852,
       "rating_ev": 0,
-      "rank": 92,
-      "win_prob": 52.9,
+      "rank": 91,
+      "win_prob": 51.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4878,
+      "rating1": 4869,
       "rating2": 5028,
       "rating_ev": 0,
-      "rank": 92,
-      "win_prob": 34.1,
+      "rank": 91,
+      "win_prob": 33.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Tunisia",
       "flag1": "eq_guinea.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4878,
-      "rating2": 5062,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4869,
+      "rating2": 5071,
+      "rating_ev": -9,
       "rank": 92,
       "win_prob": 40.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

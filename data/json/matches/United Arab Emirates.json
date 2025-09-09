@@ -1,18 +1,18 @@
 {
   "team": "United Arab Emirates",
   "stats": {
-    "matches_played": 646,
-    "wins": 257,
+    "matches_played": 647,
+    "wins": 258,
     "draws": 162,
     "losses": 227,
-    "goals_for": 908,
+    "goals_for": 909,
     "goals_against": 796,
-    "goal_difference": 112,
-    "win_percentage": 39.8,
-    "avg_points": 1.44,
+    "goal_difference": 113,
+    "win_percentage": 39.9,
+    "avg_points": 1.45,
     "best_rank": 47,
     "worst_rank": 153,
-    "avg_rank": 87.02,
+    "avg_rank": 87.01,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Brunei",
@@ -25,15 +25,15 @@
       "date": "2005-11-12",
       "flag": "brazil.png"
     },
-    "home_matches": 278,
+    "home_matches": 279,
     "away_matches": 138,
     "neutral_matches": 230,
     "first_match_date": "1972-03-17",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
-      "date": "2025-12-08",
+      "date": "2025-12-09",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "United Arab Emirates",
@@ -47,12 +47,12 @@
       "rating1": 4965,
       "rating2": 5119,
       "rating_ev": 0,
-      "rank": 76,
+      "rank": 77,
       "win_prob": 33.7,
       "type": "fixture"
     },
     {
-      "date": "2025-12-08",
+      "date": "2025-12-09",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "United Arab Emirates",
@@ -66,7 +66,7 @@
       "rating1": 4965,
       "rating2": 5063,
       "rating_ev": 0,
-      "rank": 76,
+      "rank": 77,
       "win_prob": 39.4,
       "type": "fixture"
     },
@@ -85,7 +85,7 @@
       "rating1": 4965,
       "rating2": 4859,
       "rating_ev": 0,
-      "rank": 76,
+      "rank": 77,
       "win_prob": 50.7,
       "type": "fixture"
     },
@@ -102,10 +102,10 @@
       "score1": "",
       "score2": "",
       "rating1": 4965,
-      "rating2": 4882,
+      "rating2": 4860,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 59.0,
+      "rank": 77,
+      "win_prob": 61.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Bahrain",
       "flag1": "uae.png",
       "flag2": "bahrain.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 0,
       "rating1": 4965,
       "rating2": 4837,
       "rating_ev": 0,
-      "rank": 76,
+      "rank": 77,
       "win_prob": 73.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

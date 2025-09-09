@@ -1,18 +1,18 @@
 {
   "team": "Uzbekistan",
   "stats": {
-    "matches_played": 355,
-    "wins": 174,
+    "matches_played": 356,
+    "wins": 175,
     "draws": 72,
     "losses": 109,
-    "goals_for": 621,
+    "goals_for": 622,
     "goals_against": 392,
-    "goal_difference": 229,
-    "win_percentage": 49.0,
-    "avg_points": 1.67,
+    "goal_difference": 230,
+    "win_percentage": 49.2,
+    "avg_points": 1.68,
     "best_rank": 38,
     "worst_rank": 98,
-    "avg_rank": 66.01,
+    "avg_rank": 65.99,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Mongolia",
@@ -25,11 +25,11 @@
       "date": "2000-10-17",
       "flag": "japan.png"
     },
-    "home_matches": 125,
+    "home_matches": 126,
     "away_matches": 128,
     "neutral_matches": 102,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,31 +44,31 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5082,
+      "rating1": 5094,
       "rating2": 5433,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 12.3,
+      "rank": 59,
+      "win_prob": 12.9,
       "type": "fixture"
     },
     {
       "date": "2025-09-08",
       "country": "Uzbekistan",
-      "tournament": "Central Asian Cup",
+      "tournament": "Central Asian Nations Cup",
       "team1": "Uzbekistan",
       "team2": "Iran",
       "original_team1": "Uzbekistan",
       "original_team2": "Iran",
       "flag1": "uzbekistan.png",
       "flag2": "iran.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5082,
-      "rating2": 5143,
-      "rating_ev": 0,
-      "rank": 60,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5094,
+      "rating2": 5131,
+      "rating_ev": 12,
+      "rank": 59,
       "win_prob": 54.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

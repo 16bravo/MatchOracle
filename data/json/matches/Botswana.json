@@ -1,18 +1,18 @@
 {
   "team": "Botswana",
   "stats": {
-    "matches_played": 345,
+    "matches_played": 346,
     "wins": 92,
     "draws": 102,
-    "losses": 151,
+    "losses": 152,
     "goals_for": 280,
-    "goals_against": 440,
-    "goal_difference": -160,
-    "win_percentage": 26.7,
-    "avg_points": 1.1,
+    "goals_against": 442,
+    "goal_difference": -162,
+    "win_percentage": 26.6,
+    "avg_points": 1.09,
     "best_rank": 102,
     "worst_rank": 175,
-    "avg_rank": 131.34,
+    "avg_rank": 131.32,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Mauritius",
@@ -26,10 +26,10 @@
       "flag": "malawi.png"
     },
     "home_matches": 155,
-    "away_matches": 129,
+    "away_matches": 130,
     "neutral_matches": 61,
     "first_match_date": "1968-07-13",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
+      "rating1": 4795,
       "rating2": 5054,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 26.2,
+      "rank": 123,
+      "win_prob": 24.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
+      "rating1": 4795,
       "rating2": 4911,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 39.8,
+      "rank": 123,
+      "win_prob": 37.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
+      "rating1": 4795,
       "rating2": 5193,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 16.4,
+      "rank": 123,
+      "win_prob": 15.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Mozambique",
       "flag1": "botswana.png",
       "flag2": "mozambique.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4817,
-      "rating2": 4816,
-      "rating_ev": 0,
-      "rank": 108,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4795,
+      "rating2": 4838,
+      "rating_ev": -22,
+      "rank": 122,
       "win_prob": 39.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

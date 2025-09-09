@@ -1,18 +1,18 @@
 {
   "team": "Syria",
   "stats": {
-    "matches_played": 569,
+    "matches_played": 570,
     "wins": 210,
-    "draws": 138,
+    "draws": 139,
     "losses": 221,
-    "goals_for": 812,
-    "goals_against": 733,
+    "goals_for": 814,
+    "goals_against": 735,
     "goal_difference": 79,
-    "win_percentage": 36.9,
+    "win_percentage": 36.8,
     "avg_points": 1.35,
     "best_rank": 61,
-    "worst_rank": 116,
-    "avg_rank": 88.86,
+    "worst_rank": 118,
+    "avg_rank": 88.91,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Oman",
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 212,
-    "neutral_matches": 241,
+    "neutral_matches": 242,
     "first_match_date": "1944-03-10",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "afghanistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4806,
+      "rating1": 4802,
       "rating2": 4357,
       "rating_ev": 0,
-      "rank": 118,
-      "win_prob": 87.4,
+      "rank": 119,
+      "win_prob": 87.2,
       "type": "fixture"
     },
     {
@@ -63,15 +63,15 @@
       "flag2": "pakistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4806,
+      "rating1": 4802,
       "rating2": 4064,
       "rating_ev": 0,
-      "rank": 118,
-      "win_prob": 93.3,
+      "rank": 119,
+      "win_prob": 93.2,
       "type": "fixture"
     },
     {
-      "date": "2025-11-08",
+      "date": "2025-11-09",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Syria",
@@ -82,11 +82,11 @@
       "flag2": "south_sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4806,
+      "rating1": 4802,
       "rating2": 4592,
       "rating_ev": 0,
-      "rank": 118,
-      "win_prob": 71.9,
+      "rank": 119,
+      "win_prob": 71.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4806,
+      "rating1": 4802,
       "rating2": 4132,
       "rating_ev": 0,
-      "rank": 118,
-      "win_prob": 91.6,
+      "rank": 119,
+      "win_prob": 91.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4806,
+      "rating1": 4802,
       "rating2": 4132,
       "rating_ev": 0,
-      "rank": 118,
-      "win_prob": 94.4,
+      "rank": 119,
+      "win_prob": 94.3,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Kuwait",
       "flag1": "syria.png",
       "flag2": "kuwait.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4806,
-      "rating2": 4688,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4802,
+      "rating2": 4692,
+      "rating_ev": -4,
       "rank": 118,
       "win_prob": 62.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

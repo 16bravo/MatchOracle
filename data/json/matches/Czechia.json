@@ -1,18 +1,18 @@
 {
   "team": "Czechia",
   "stats": {
-    "matches_played": 874,
+    "matches_played": 875,
     "wins": 423,
-    "draws": 192,
+    "draws": 193,
     "losses": 259,
-    "goals_for": 1612,
-    "goals_against": 1087,
+    "goals_for": 1613,
+    "goals_against": 1088,
     "goal_difference": 525,
-    "win_percentage": 48.4,
+    "win_percentage": 48.3,
     "avg_points": 1.67,
     "best_rank": 1,
     "worst_rank": 41,
-    "avg_rank": 13.09,
+    "avg_rank": 13.12,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Yugoslavia",
@@ -25,11 +25,11 @@
       "date": "1939-05-21",
       "flag": "austria.png"
     },
-    "home_matches": 143,
+    "home_matches": 144,
     "away_matches": 415,
     "neutral_matches": 316,
     "first_match_date": "1903-04-05",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5246,
-      "rating2": 4442,
+      "rating1": 5236,
+      "rating2": 4446,
       "rating_ev": 0,
-      "rank": 31,
-      "win_prob": 97.7,
+      "rank": 33,
+      "win_prob": 97.6,
       "type": "fixture"
     },
     {
@@ -63,10 +63,10 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 5246,
+      "rating1": 5236,
       "rating2": 4311,
       "rating_ev": 0,
-      "rank": 31,
+      "rank": 33,
       "win_prob": 98.5,
       "type": "fixture"
     },
@@ -82,11 +82,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5246,
-      "rating2": 4842,
+      "rating1": 5236,
+      "rating2": 4838,
       "rating_ev": 0,
-      "rank": 31,
-      "win_prob": 78.7,
+      "rank": 33,
+      "win_prob": 78.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5246,
-      "rating2": 5452,
+      "rating1": 5236,
+      "rating2": 5472,
       "rating_ev": 0,
-      "rank": 31,
-      "win_prob": 38.6,
+      "rank": 33,
+      "win_prob": 35.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Saudi Arabia",
       "flag1": "czechia.png",
       "flag2": "saudi_arabia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5246,
-      "rating2": 5004,
-      "rating_ev": 0,
-      "rank": 31,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5236,
+      "rating2": 5014,
+      "rating_ev": -10,
+      "rank": 33,
       "win_prob": 81.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

@@ -1,18 +1,18 @@
 {
   "team": "Guinea-Bissau",
   "stats": {
-    "matches_played": 203,
-    "wins": 56,
+    "matches_played": 204,
+    "wins": 57,
     "draws": 49,
     "losses": 98,
-    "goals_for": 203,
+    "goals_for": 205,
     "goals_against": 300,
-    "goal_difference": -97,
-    "win_percentage": 27.6,
-    "avg_points": 1.07,
+    "goal_difference": -95,
+    "win_percentage": 27.9,
+    "avg_points": 1.08,
     "best_rank": 70,
     "worst_rank": 149,
-    "avg_rank": 115.58,
+    "avg_rank": 115.66,
     "biggest_win": {
       "score": "7-2",
       "opponent": "Benin",
@@ -25,11 +25,11 @@
       "date": "1997-12-01",
       "flag": "mali.png"
     },
-    "home_matches": 60,
+    "home_matches": 61,
     "away_matches": 54,
     "neutral_matches": 89,
     "first_match_date": "1953-06-02",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Djibouti",
       "flag1": "guinea_bissau.png",
       "flag2": "djibouti.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4752,
-      "rating2": 4262,
-      "rating_ev": 0,
-      "rank": 131,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4746,
+      "rating2": 4268,
+      "rating_ev": -6,
+      "rank": 133,
       "win_prob": 92.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",
