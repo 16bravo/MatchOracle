@@ -1,18 +1,18 @@
 {
   "team": "Togo",
   "stats": {
-    "matches_played": 481,
-    "wins": 149,
+    "matches_played": 482,
+    "wins": 150,
     "draws": 125,
     "losses": 207,
-    "goals_for": 520,
+    "goals_for": 521,
     "goals_against": 665,
-    "goal_difference": -145,
-    "win_percentage": 31.0,
+    "goal_difference": -144,
+    "win_percentage": 31.1,
     "avg_points": 1.19,
     "best_rank": 49,
     "worst_rank": 130,
-    "avg_rank": 90.48,
+    "avg_rank": 90.52,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Swaziland",
@@ -25,11 +25,11 @@
       "date": "1979-06-24",
       "flag": "morocco.png"
     },
-    "home_matches": 170,
+    "home_matches": 171,
     "away_matches": 192,
     "neutral_matches": 119,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Sudan",
       "flag1": "togo.png",
       "flag2": "sudan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4814,
-      "rating2": 4852,
-      "rating_ev": 0,
-      "rank": 112,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4825,
+      "rating2": 4841,
+      "rating_ev": 11,
+      "rank": 110,
       "win_prob": 56.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

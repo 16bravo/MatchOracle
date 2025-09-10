@@ -1,18 +1,18 @@
 {
   "team": "Singapore",
   "stats": {
-    "matches_played": 752,
+    "matches_played": 753,
     "wins": 233,
-    "draws": 154,
+    "draws": 155,
     "losses": 365,
-    "goals_for": 1002,
-    "goals_against": 1360,
+    "goals_for": 1003,
+    "goals_against": 1361,
     "goal_difference": -358,
-    "win_percentage": 31.0,
+    "win_percentage": 30.9,
     "avg_points": 1.13,
     "best_rank": 80,
     "worst_rank": 180,
-    "avg_rank": 137.58,
+    "avg_rank": 137.63,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Laos",
@@ -25,11 +25,11 @@
       "date": "1969-11-09",
       "flag": "burma_1.png"
     },
-    "home_matches": 310,
+    "home_matches": 311,
     "away_matches": 176,
     "neutral_matches": 266,
     "first_match_date": "1948-05-22",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4324,
+      "rating1": 4315,
       "rating2": 4183,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 74.2,
+      "win_prob": 73.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4324,
+      "rating1": 4315,
       "rating2": 4602,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 16.1,
+      "win_prob": 15.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4324,
+      "rating1": 4315,
       "rating2": 4530,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 20.7,
+      "win_prob": 20.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4324,
+      "rating1": 4315,
       "rating2": 4530,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 38.6,
+      "win_prob": 37.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Myanmar",
       "flag1": "singapore.png",
       "flag2": "myanmar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4324,
-      "rating2": 4132,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4315,
+      "rating2": 4141,
+      "rating_ev": -9,
       "rank": 175,
       "win_prob": 78.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

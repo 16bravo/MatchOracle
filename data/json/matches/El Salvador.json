@@ -1,18 +1,18 @@
 {
   "team": "El Salvador",
   "stats": {
-    "matches_played": 673,
+    "matches_played": 674,
     "wins": 224,
     "draws": 151,
-    "losses": 298,
-    "goals_for": 852,
-    "goals_against": 1000,
-    "goal_difference": -148,
-    "win_percentage": 33.3,
+    "losses": 299,
+    "goals_for": 853,
+    "goals_against": 1002,
+    "goal_difference": -149,
+    "win_percentage": 33.2,
     "avg_points": 1.22,
     "best_rank": 37,
     "worst_rank": 147,
-    "avg_rank": 87.06,
+    "avg_rank": 87.14,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "1982-06-15",
       "flag": "hungary.png"
     },
-    "home_matches": 203,
+    "home_matches": 204,
     "away_matches": 204,
     "neutral_matches": 266,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 4707,
-      "rating2": 5130,
+      "rating1": 4694,
+      "rating2": 5110,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 9.4,
+      "rank": 141,
+      "win_prob": 9.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 4707,
-      "rating2": 4814,
+      "rating1": 4694,
+      "rating2": 4827,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 28.7,
+      "rank": 141,
+      "win_prob": 26.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "guatemala.png",
       "score1": "",
       "score2": "",
-      "rating1": 4707,
-      "rating2": 4893,
+      "rating1": 4694,
+      "rating2": 4913,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 40.7,
+      "rank": 141,
+      "win_prob": 37.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 4707,
-      "rating2": 5130,
+      "rating1": 4694,
+      "rating2": 5110,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 20.0,
+      "rank": 141,
+      "win_prob": 20.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Suriname",
       "flag1": "salvador.png",
       "flag2": "suriname.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4707,
-      "rating2": 4814,
-      "rating_ev": 0,
-      "rank": 139,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4694,
+      "rating2": 4827,
+      "rating_ev": -13,
+      "rank": 141,
       "win_prob": 49.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

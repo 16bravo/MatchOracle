@@ -1,14 +1,14 @@
 {
   "team": "Austria",
   "stats": {
-    "matches_played": 856,
-    "wins": 365,
+    "matches_played": 857,
+    "wins": 366,
     "draws": 182,
     "losses": 309,
-    "goals_for": 1534,
-    "goals_against": 1312,
-    "goal_difference": 222,
-    "win_percentage": 42.6,
+    "goals_for": 1536,
+    "goals_against": 1313,
+    "goal_difference": 223,
+    "win_percentage": 42.7,
     "avg_points": 1.49,
     "best_rank": 3,
     "worst_rank": 63,
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 426,
-    "away_matches": 379,
+    "away_matches": 380,
     "neutral_matches": 51,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5362,
-      "rating2": 4764,
+      "rating1": 5360,
+      "rating2": 4782,
       "rating_ev": 0,
       "rank": 22,
-      "win_prob": 89.0,
+      "win_prob": 88.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5362,
-      "rating2": 5168,
+      "rating1": 5360,
+      "rating2": 5150,
       "rating_ev": 0,
       "rank": 22,
-      "win_prob": 60.2,
+      "win_prob": 61.8,
       "type": "fixture"
     },
     {
@@ -82,12 +82,31 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 5362,
-      "rating2": 4311,
+      "rating1": 5360,
+      "rating2": 4312,
       "rating_ev": 0,
       "rank": 22,
       "win_prob": 99.0,
       "type": "fixture"
+    },
+    {
+      "date": "2025-09-09",
+      "country": "Bosnia and Herzegovina",
+      "tournament": "World Cup qualifier",
+      "team1": "Austria",
+      "team2": "Bosnia and Herzegovina",
+      "original_team1": "Austria",
+      "original_team2": "Bosnia and Herzegovina",
+      "flag1": "austria.png",
+      "flag2": "bosnia.png",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5360,
+      "rating2": 5003,
+      "rating_ev": -2,
+      "rank": 22,
+      "win_prob": 75.5,
+      "type": "past"
     },
     {
       "date": "2025-09-06",

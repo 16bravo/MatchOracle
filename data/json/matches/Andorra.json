@@ -1,9 +1,9 @@
 {
   "team": "Andorra",
   "stats": {
-    "matches_played": 221,
+    "matches_played": 222,
     "wins": 14,
-    "draws": 29,
+    "draws": 30,
     "losses": 178,
     "goals_for": 72,
     "goals_against": 527,
@@ -12,7 +12,7 @@
     "avg_points": 0.32,
     "best_rank": 127,
     "worst_rank": 166,
-    "avg_rank": 150.7,
+    "avg_rank": 150.65,
     "biggest_win": {
       "score": "3-0",
       "opponent": "San Marino",
@@ -26,10 +26,10 @@
       "flag": "czechia.png"
     },
     "home_matches": 89,
-    "away_matches": 100,
+    "away_matches": 101,
     "neutral_matches": 32,
     "first_match_date": "1996-11-13",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4688,
+      "rating1": 4695,
       "rating2": 5051,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 11.8,
+      "rank": 140,
+      "win_prob": 12.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "albania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4688,
-      "rating2": 5141,
+      "rating1": 4695,
+      "rating2": 5130,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 18.1,
+      "rank": 140,
+      "win_prob": 19.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4688,
-      "rating2": 5331,
+      "rating1": 4695,
+      "rating2": 5269,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 9.4,
+      "rank": 140,
+      "win_prob": 11.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4688,
-      "rating2": 4809,
+      "rating1": 4695,
+      "rating2": 4820,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 27.5,
+      "rank": 140,
+      "win_prob": 27.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Estonia",
       "flag1": "andorra.png",
       "flag2": "estonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4688,
-      "rating2": 4841,
-      "rating_ev": 0,
-      "rank": 143,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4695,
+      "rating2": 4834,
+      "rating_ev": 7,
+      "rank": 140,
       "win_prob": 24.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-06",

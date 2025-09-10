@@ -1,18 +1,18 @@
 {
   "team": "Gambia",
   "stats": {
-    "matches_played": 282,
-    "wins": 78,
+    "matches_played": 283,
+    "wins": 79,
     "draws": 79,
     "losses": 125,
-    "goals_for": 294,
+    "goals_for": 296,
     "goals_against": 398,
-    "goal_difference": -104,
-    "win_percentage": 27.7,
-    "avg_points": 1.11,
+    "goal_difference": -102,
+    "win_percentage": 27.9,
+    "avg_points": 1.12,
     "best_rank": 76,
     "worst_rank": 123,
-    "avg_rank": 100.13,
+    "avg_rank": 100.07,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lesotho",
@@ -27,9 +27,9 @@
     },
     "home_matches": 0,
     "away_matches": 98,
-    "neutral_matches": 184,
+    "neutral_matches": 185,
     "first_match_date": "1953-02-09",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Burundi",
       "flag1": "gambia.png",
       "flag2": "burundi.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4907,
-      "rating2": 4804,
-      "rating_ev": 0,
-      "rank": 86,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4928,
+      "rating2": 4783,
+      "rating_ev": 21,
+      "rank": 83,
       "win_prob": 61.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

@@ -1,18 +1,18 @@
 {
   "team": "Cape Verde",
   "stats": {
-    "matches_played": 237,
-    "wins": 88,
+    "matches_played": 238,
+    "wins": 89,
     "draws": 55,
     "losses": 94,
-    "goals_for": 250,
+    "goals_for": 251,
     "goals_against": 265,
-    "goal_difference": -15,
-    "win_percentage": 37.1,
+    "goal_difference": -14,
+    "win_percentage": 37.4,
     "avg_points": 1.35,
     "best_rank": 66,
     "worst_rank": 132,
-    "avg_rank": 99.85,
+    "avg_rank": 99.75,
     "biggest_win": {
       "score": "7-1",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -25,11 +25,11 @@
       "date": "1981-02-12",
       "flag": "senegal.png"
     },
-    "home_matches": 74,
+    "home_matches": 75,
     "away_matches": 83,
     "neutral_matches": 80,
     "first_match_date": "1959-12-20",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Cameroon",
       "flag1": "cape_verde.png",
       "flag2": "cameroon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4952,
-      "rating2": 5068,
-      "rating_ev": 0,
-      "rank": 78,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4967,
+      "rating2": 5053,
+      "rating_ev": 15,
+      "rank": 76,
       "win_prob": 48.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

@@ -1,18 +1,18 @@
 {
   "team": "Sri Lanka",
   "stats": {
-    "matches_played": 273,
+    "matches_played": 274,
     "wins": 52,
-    "draws": 48,
+    "draws": 49,
     "losses": 173,
-    "goals_for": 258,
-    "goals_against": 678,
+    "goals_for": 259,
+    "goals_against": 679,
     "goal_difference": -420,
     "win_percentage": 19.0,
     "avg_points": 0.75,
     "best_rank": 111,
     "worst_rank": 205,
-    "avg_rank": 184.21,
+    "avg_rank": 184.27,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Pakistan",
@@ -25,11 +25,11 @@
       "date": "1964-01-12",
       "flag": "gdr.png"
     },
-    "home_matches": 56,
+    "home_matches": 57,
     "away_matches": 86,
     "neutral_matches": 131,
     "first_match_date": "1952-03-09",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -118,14 +118,14 @@
       "original_team2": "Maldives",
       "flag1": "sri_lanka.png",
       "flag2": "maldives.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 1,
       "rating1": 4039,
       "rating2": 4135,
       "rating_ev": 0,
       "rank": 200,
       "win_prob": 50.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-06",

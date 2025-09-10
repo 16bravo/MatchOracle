@@ -1,18 +1,18 @@
 {
   "team": "Lesotho",
   "stats": {
-    "matches_played": 333,
+    "matches_played": 334,
     "wins": 66,
     "draws": 100,
-    "losses": 167,
+    "losses": 168,
     "goals_for": 262,
-    "goals_against": 541,
-    "goal_difference": -279,
+    "goals_against": 545,
+    "goal_difference": -283,
     "win_percentage": 19.8,
     "avg_points": 0.89,
     "best_rank": 112,
     "worst_rank": 167,
-    "avg_rank": 144.76,
+    "avg_rank": 144.8,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 109,
     "away_matches": 138,
-    "neutral_matches": 86,
+    "neutral_matches": 87,
     "first_match_date": "1970-08-08",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Benin",
       "flag1": "lesotho.png",
       "flag2": "benin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4622,
-      "rating2": 4911,
-      "rating_ev": 0,
-      "rank": 151,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4586,
+      "rating2": 4947,
+      "rating_ev": -36,
+      "rank": 158,
       "win_prob": 22.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

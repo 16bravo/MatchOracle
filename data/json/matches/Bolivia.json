@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 525,
-    "wins": 118,
+    "matches_played": 526,
+    "wins": 119,
     "draws": 120,
     "losses": 287,
-    "goals_for": 542,
+    "goals_for": 543,
     "goals_against": 1037,
-    "goal_difference": -495,
-    "win_percentage": 22.5,
-    "avg_points": 0.9,
+    "goal_difference": -494,
+    "win_percentage": 22.6,
+    "avg_points": 0.91,
     "best_rank": 23,
     "worst_rank": 78,
-    "avg_rank": 50.69,
+    "avg_rank": 50.71,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -25,11 +25,11 @@
       "date": "1927-11-06",
       "flag": "uruguay.png"
     },
-    "home_matches": 185,
+    "home_matches": 186,
     "away_matches": 201,
     "neutral_matches": 139,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "russia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5066,
+      "rating1": 5101,
       "rating2": 5369,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 14.7,
+      "rank": 58,
+      "win_prob": 16.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Brazil",
       "flag1": "bolivia.png",
       "flag2": "brazil.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5066,
-      "rating2": 5517,
-      "rating_ev": 0,
-      "rank": 63,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5101,
+      "rating2": 5482,
+      "rating_ev": 35,
+      "rank": 58,
       "win_prob": 18.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

@@ -1,18 +1,18 @@
 {
   "team": "Namibia",
   "stats": {
-    "matches_played": 297,
-    "wins": 76,
+    "matches_played": 298,
+    "wins": 77,
     "draws": 91,
     "losses": 130,
-    "goals_for": 291,
+    "goals_for": 294,
     "goals_against": 411,
-    "goal_difference": -120,
-    "win_percentage": 25.6,
-    "avg_points": 1.07,
+    "goal_difference": -117,
+    "win_percentage": 25.8,
+    "avg_points": 1.08,
     "best_rank": 94,
     "worst_rank": 157,
-    "avg_rank": 122.99,
+    "avg_rank": 122.93,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Botswana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 102,
     "away_matches": 114,
-    "neutral_matches": 81,
+    "neutral_matches": 82,
     "first_match_date": "1989-05-16",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "flag1": "namibia.png",
       "flag2": "sao_tome.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4817,
-      "rating2": 4455,
-      "rating_ev": 0,
-      "rank": 109,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4836,
+      "rating2": 4436,
+      "rating_ev": 19,
+      "rank": 106,
       "win_prob": 82.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

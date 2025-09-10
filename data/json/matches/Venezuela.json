@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 472,
+    "matches_played": 473,
     "wins": 125,
     "draws": 105,
-    "losses": 242,
-    "goals_for": 509,
-    "goals_against": 861,
-    "goal_difference": -352,
-    "win_percentage": 26.5,
-    "avg_points": 1.02,
+    "losses": 243,
+    "goals_for": 512,
+    "goals_against": 867,
+    "goal_difference": -355,
+    "win_percentage": 26.4,
+    "avg_points": 1.01,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.71,
+    "avg_rank": 63.67,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -25,11 +25,11 @@
       "date": "1975-08-10",
       "flag": "argentina.png"
     },
-    "home_matches": 175,
+    "home_matches": 176,
     "away_matches": 178,
     "neutral_matches": 119,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5225,
-      "rating2": 5627,
+      "rating1": 5194,
+      "rating2": 5605,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 15.0,
+      "rank": 42,
+      "win_prob": 14.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Colombia",
       "flag1": "venezuela.png",
       "flag2": "colombia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5225,
-      "rating2": 5484,
-      "rating_ev": 0,
-      "rank": 34,
+      "score1": 3,
+      "score2": 6,
+      "rating1": 5194,
+      "rating2": 5515,
+      "rating_ev": -31,
+      "rank": 41,
       "win_prob": 33.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

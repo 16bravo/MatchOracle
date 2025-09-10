@@ -1,18 +1,18 @@
 {
   "team": "Dominican Republic",
   "stats": {
-    "matches_played": 181,
+    "matches_played": 182,
     "wins": 67,
     "draws": 29,
-    "losses": 85,
+    "losses": 86,
     "goals_for": 292,
-    "goals_against": 294,
-    "goal_difference": -2,
-    "win_percentage": 37.0,
-    "avg_points": 1.27,
+    "goals_against": 297,
+    "goal_difference": -5,
+    "win_percentage": 36.8,
+    "avg_points": 1.26,
     "best_rank": 100,
     "worst_rank": 187,
-    "avg_rank": 164.16,
+    "avg_rank": 163.96,
     "biggest_win": {
       "score": "17-0",
       "opponent": "British Virgin Islands",
@@ -26,10 +26,10 @@
       "flag": "trinidad.png"
     },
     "home_matches": 82,
-    "away_matches": 60,
+    "away_matches": 61,
     "neutral_matches": 39,
     "first_match_date": "1949-05-14",
-    "last_match_date": "2025-06-22"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4774,
-      "rating2": 5484,
+      "rating1": 4765,
+      "rating2": 5515,
       "rating_ev": 0,
-      "rank": 125,
-      "win_prob": 3.2,
+      "rank": 128,
+      "win_prob": 2.8,
       "type": "fixture"
     },
     {
@@ -63,10 +63,10 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 4774,
-      "rating2": 5433,
+      "rating1": 4765,
+      "rating2": 5424,
       "rating_ev": 0,
-      "rank": 125,
+      "rank": 128,
       "win_prob": 3.9,
       "type": "fixture"
     },
@@ -80,14 +80,14 @@
       "original_team2": "Jordan",
       "flag1": "dominican_rep.png",
       "flag2": "jordan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4774,
-      "rating2": 5063,
-      "rating_ev": 0,
-      "rank": 125,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4765,
+      "rating2": 5072,
+      "rating_ev": -9,
+      "rank": 128,
       "win_prob": 15.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-22",

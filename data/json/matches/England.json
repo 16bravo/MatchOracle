@@ -1,13 +1,13 @@
 {
   "team": "England",
   "stats": {
-    "matches_played": 1146,
-    "wins": 670,
+    "matches_played": 1147,
+    "wins": 671,
     "draws": 261,
     "losses": 215,
-    "goals_for": 2664,
+    "goals_for": 2669,
     "goals_against": 1113,
-    "goal_difference": 1551,
+    "goal_difference": 1556,
     "win_percentage": 58.5,
     "avg_points": 1.98,
     "best_rank": 1,
@@ -26,10 +26,10 @@
       "flag": "hungary_4.png"
     },
     "home_matches": 506,
-    "away_matches": 512,
+    "away_matches": 513,
     "neutral_matches": 128,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "albania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
-      "rating2": 5141,
+      "rating1": 5536,
+      "rating2": 5130,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 73.3,
+      "rank": 5,
+      "win_prob": 78.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
-      "rating2": 5331,
+      "rating1": 5536,
+      "rating2": 5269,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 74.4,
+      "rank": 5,
+      "win_prob": 83.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
-      "rating2": 4809,
+      "rating1": 5536,
+      "rating2": 4820,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 91.3,
+      "rank": 5,
+      "win_prob": 92.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
-      "rating2": 5218,
+      "rating1": 5536,
+      "rating2": 5210,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 82.6,
+      "rank": 5,
+      "win_prob": 86.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Serbia",
       "flag1": "england.png",
       "flag2": "serbia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5474,
-      "rating2": 5331,
-      "rating_ev": 0,
-      "rank": 8,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 5536,
+      "rating2": 5269,
+      "rating_ev": 62,
+      "rank": 5,
       "win_prob": 54.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-06",

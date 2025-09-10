@@ -1,18 +1,18 @@
 {
   "team": "Malta",
   "stats": {
-    "matches_played": 447,
-    "wins": 62,
+    "matches_played": 448,
+    "wins": 63,
     "draws": 77,
     "losses": 308,
-    "goals_for": 284,
-    "goals_against": 1001,
-    "goal_difference": -717,
-    "win_percentage": 13.9,
+    "goals_for": 287,
+    "goals_against": 1002,
+    "goal_difference": -715,
+    "win_percentage": 14.1,
     "avg_points": 0.59,
     "best_rank": 64,
     "worst_rank": 146,
-    "avg_rank": 112.32,
+    "avg_rank": 112.37,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1983-12-21",
       "flag": "spain.png"
     },
-    "home_matches": 241,
+    "home_matches": 242,
     "away_matches": 180,
     "neutral_matches": 26,
     "first_match_date": "1957-02-24",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4715,
+      "rating1": 4714,
       "rating2": 4894,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 22.7,
+      "rank": 136,
+      "win_prob": 22.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4715,
+      "rating1": 4714,
       "rating2": 4894,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 41.4,
+      "rank": 136,
+      "win_prob": 41.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4715,
+      "rating1": 4714,
       "rating2": 5212,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 15.6,
+      "rank": 136,
+      "win_prob": 15.5,
       "type": "fixture"
     },
     {
@@ -101,10 +101,10 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4715,
+      "rating1": 4714,
       "rating2": 5051,
       "rating_ev": 0,
-      "rank": 137,
+      "rank": 136,
       "win_prob": 13.0,
       "type": "fixture"
     },
@@ -120,10 +120,10 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 4715,
+      "rating1": 4714,
       "rating2": 5515,
       "rating_ev": 0,
-      "rank": 137,
+      "rank": 136,
       "win_prob": 5.5,
       "type": "fixture"
     },
@@ -137,14 +137,14 @@
       "original_team2": "San Marino",
       "flag1": "malta.png",
       "flag2": "san_marino.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4715,
-      "rating2": 4311,
-      "rating_ev": 0,
-      "rank": 137,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4714,
+      "rating2": 4312,
+      "rating_ev": -1,
+      "rank": 136,
       "win_prob": 89.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

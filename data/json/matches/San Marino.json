@@ -1,18 +1,18 @@
 {
   "team": "San Marino",
   "stats": {
-    "matches_played": 219,
+    "matches_played": 220,
     "wins": 3,
     "draws": 11,
-    "losses": 205,
-    "goals_for": 39,
-    "goals_against": 864,
-    "goal_difference": -825,
+    "losses": 206,
+    "goals_for": 40,
+    "goals_against": 867,
+    "goal_difference": -827,
     "win_percentage": 1.4,
     "avg_points": 0.09,
     "best_rank": 156,
     "worst_rank": 196,
-    "avg_rank": 182.74,
+    "avg_rank": 182.7,
     "biggest_win": {
       "score": "3-1",
       "opponent": "Liechtenstein",
@@ -26,10 +26,10 @@
       "flag": "germany.png"
     },
     "home_matches": 106,
-    "away_matches": 106,
+    "away_matches": 107,
     "neutral_matches": 7,
     "first_match_date": "1987-09-16",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4311,
-      "rating2": 5168,
+      "rating1": 4312,
+      "rating2": 5150,
       "rating_ev": 0,
       "rank": 176,
-      "win_prob": 1.9,
+      "win_prob": 2.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4311,
+      "rating1": 4312,
       "rating2": 5236,
       "rating_ev": 0,
       "rank": 176,
-      "win_prob": 1.5,
+      "win_prob": 1.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 4311,
-      "rating2": 4764,
+      "rating1": 4312,
+      "rating2": 4782,
       "rating_ev": 0,
       "rank": 176,
-      "win_prob": 18.1,
+      "win_prob": 17.1,
       "type": "fixture"
     },
     {
@@ -101,8 +101,8 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4311,
-      "rating2": 5362,
+      "rating1": 4312,
+      "rating2": 5360,
       "rating_ev": 0,
       "rank": 176,
       "win_prob": 1.0,
@@ -118,14 +118,14 @@
       "original_team2": "Malta",
       "flag1": "san_marino.png",
       "flag2": "malta.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4311,
-      "rating2": 4715,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4312,
+      "rating2": 4714,
+      "rating_ev": 1,
       "rank": 176,
       "win_prob": 10.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-06",

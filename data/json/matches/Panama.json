@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 587,
+    "matches_played": 588,
     "wins": 195,
-    "draws": 141,
+    "draws": 142,
     "losses": 251,
-    "goals_for": 731,
-    "goals_against": 902,
+    "goals_for": 732,
+    "goals_against": 903,
     "goal_difference": -171,
     "win_percentage": 33.2,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.47,
+    "avg_rank": 85.42,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "1938-02-16",
       "flag": "costa_rica.png"
     },
-    "home_matches": 198,
+    "home_matches": 199,
     "away_matches": 225,
     "neutral_matches": 164,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5130,
-      "rating2": 4707,
+      "rating1": 5110,
+      "rating2": 4694,
       "rating_ev": 0,
-      "rank": 51,
-      "win_prob": 90.6,
+      "rank": 56,
+      "win_prob": 90.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "guatemala.png",
       "score1": "",
       "score2": "",
-      "rating1": 5130,
-      "rating2": 4893,
+      "rating1": 5110,
+      "rating2": 4913,
       "rating_ev": 0,
-      "rank": 51,
-      "win_prob": 64.5,
+      "rank": 56,
+      "win_prob": 60.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 5130,
-      "rating2": 4814,
+      "rating1": 5110,
+      "rating2": 4827,
       "rating_ev": 0,
-      "rank": 51,
-      "win_prob": 86.0,
+      "rank": 56,
+      "win_prob": 84.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5130,
-      "rating2": 4707,
+      "rating1": 5110,
+      "rating2": 4694,
       "rating_ev": 0,
-      "rank": 51,
-      "win_prob": 80.0,
+      "rank": 56,
+      "win_prob": 79.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Guatemala",
       "flag1": "panama.png",
       "flag2": "guatemala.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5130,
-      "rating2": 4893,
-      "rating_ev": 0,
-      "rank": 51,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5110,
+      "rating2": 4913,
+      "rating_ev": -20,
+      "rank": 55,
       "win_prob": 81.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

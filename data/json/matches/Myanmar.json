@@ -1,18 +1,18 @@
 {
   "team": "Myanmar",
   "stats": {
-    "matches_played": 532,
+    "matches_played": 533,
     "wins": 211,
-    "draws": 98,
+    "draws": 99,
     "losses": 223,
-    "goals_for": 859,
-    "goals_against": 919,
+    "goals_for": 860,
+    "goals_against": 920,
     "goal_difference": -60,
-    "win_percentage": 39.7,
+    "win_percentage": 39.6,
     "avg_points": 1.37,
     "best_rank": 45,
     "worst_rank": 198,
-    "avg_rank": 128.33,
+    "avg_rank": 128.45,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Singapore",
@@ -26,10 +26,10 @@
       "flag": "japan.png"
     },
     "home_matches": 66,
-    "away_matches": 133,
+    "away_matches": 134,
     "neutral_matches": 333,
     "first_match_date": "1950-02-17",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "pakistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4132,
+      "rating1": 4141,
       "rating2": 4064,
       "rating_ev": 0,
-      "rank": 193,
-      "win_prob": 46.5,
+      "rank": 192,
+      "win_prob": 47.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "afghanistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4132,
+      "rating1": 4141,
       "rating2": 4357,
       "rating_ev": 0,
-      "rank": 193,
-      "win_prob": 27.2,
+      "rank": 192,
+      "win_prob": 28.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4132,
+      "rating1": 4141,
       "rating2": 4802,
       "rating_ev": 0,
-      "rank": 193,
-      "win_prob": 8.6,
+      "rank": 192,
+      "win_prob": 8.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4132,
+      "rating1": 4141,
       "rating2": 4802,
       "rating_ev": 0,
-      "rank": 193,
-      "win_prob": 5.7,
+      "rank": 192,
+      "win_prob": 5.9,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Singapore",
       "flag1": "myanmar.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4132,
-      "rating2": 4324,
-      "rating_ev": 0,
-      "rank": 193,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4141,
+      "rating2": 4315,
+      "rating_ev": 9,
+      "rank": 192,
       "win_prob": 21.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

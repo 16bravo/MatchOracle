@@ -1,18 +1,18 @@
 {
   "team": "Albania",
   "stats": {
-    "matches_played": 399,
-    "wins": 111,
+    "matches_played": 400,
+    "wins": 112,
     "draws": 85,
     "losses": 203,
-    "goals_for": 381,
+    "goals_for": 382,
     "goals_against": 592,
-    "goal_difference": -211,
-    "win_percentage": 27.8,
+    "goal_difference": -210,
+    "win_percentage": 28.0,
     "avg_points": 1.05,
     "best_rank": 34,
     "worst_rank": 88,
-    "avg_rank": 60.81,
+    "avg_rank": 60.79,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Vietnam",
@@ -25,11 +25,11 @@
       "date": "1950-09-24",
       "flag": "hungary_4.png"
     },
-    "home_matches": 186,
+    "home_matches": 187,
     "away_matches": 181,
     "neutral_matches": 32,
     "first_match_date": "1946-10-07",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5141,
-      "rating2": 5474,
+      "rating1": 5130,
+      "rating2": 5536,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 26.7,
+      "rank": 50,
+      "win_prob": 21.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 5141,
-      "rating2": 4688,
+      "rating1": 5130,
+      "rating2": 4695,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 81.9,
+      "rank": 50,
+      "win_prob": 80.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5141,
-      "rating2": 5331,
+      "rating1": 5130,
+      "rating2": 5269,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 21.9,
+      "rank": 50,
+      "win_prob": 25.9,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Latvia",
       "flag1": "albania.png",
       "flag2": "latvia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5141,
-      "rating2": 4809,
-      "rating_ev": 0,
-      "rank": 48,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5130,
+      "rating2": 4820,
+      "rating_ev": -11,
+      "rank": 50,
       "win_prob": 86.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

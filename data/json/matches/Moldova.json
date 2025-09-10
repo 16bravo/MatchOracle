@@ -1,18 +1,18 @@
 {
   "team": "Moldova",
   "stats": {
-    "matches_played": 292,
+    "matches_played": 293,
     "wins": 59,
     "draws": 67,
-    "losses": 166,
-    "goals_for": 236,
-    "goals_against": 495,
-    "goal_difference": -259,
-    "win_percentage": 20.2,
-    "avg_points": 0.84,
+    "losses": 167,
+    "goals_for": 237,
+    "goals_against": 506,
+    "goal_difference": -269,
+    "win_percentage": 20.1,
+    "avg_points": 0.83,
     "best_rank": 74,
     "worst_rank": 144,
-    "avg_rank": 102.21,
+    "avg_rank": 102.35,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Pakistan",
@@ -20,16 +20,16 @@
       "flag": "pakistan.png"
     },
     "biggest_loss": {
-      "score": "0-8",
-      "opponent": "Denmark",
-      "date": "2021-03-28",
-      "flag": "denmark.png"
+      "score": "1-11",
+      "opponent": "Norway",
+      "date": "2025-09-09",
+      "flag": "norway.png"
     },
     "home_matches": 110,
-    "away_matches": 141,
+    "away_matches": 142,
     "neutral_matches": 41,
     "first_match_date": "1991-07-02",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "israel.png",
       "score1": "",
       "score2": "",
-      "rating1": 4753,
+      "rating1": 4690,
       "rating2": 5162,
       "rating_ev": 0,
-      "rank": 130,
-      "win_prob": 14.6,
+      "rank": 143,
+      "win_prob": 11.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 4753,
+      "rating1": 4690,
       "rating2": 5417,
       "rating_ev": 0,
-      "rank": 130,
-      "win_prob": 8.7,
+      "rank": 143,
+      "win_prob": 7.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "estonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4753,
-      "rating2": 4841,
+      "rating1": 4690,
+      "rating2": 4834,
       "rating_ev": 0,
-      "rank": 130,
-      "win_prob": 30.5,
+      "rank": 143,
+      "win_prob": 25.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4753,
-      "rating2": 5168,
+      "rating1": 4690,
+      "rating2": 5150,
       "rating_ev": 0,
-      "rank": 130,
-      "win_prob": 9.7,
+      "rank": 143,
+      "win_prob": 8.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Norway",
       "flag1": "moldova.png",
       "flag2": "norway.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4753,
-      "rating2": 5419,
-      "rating_ev": 0,
-      "rank": 130,
+      "score1": 1,
+      "score2": 11,
+      "rating1": 4690,
+      "rating2": 5482,
+      "rating_ev": -63,
+      "rank": 142,
       "win_prob": 3.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

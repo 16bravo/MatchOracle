@@ -1,18 +1,18 @@
 {
   "team": "Jamaica",
   "stats": {
-    "matches_played": 707,
-    "wins": 273,
+    "matches_played": 708,
+    "wins": 274,
     "draws": 166,
     "losses": 268,
-    "goals_for": 941,
+    "goals_for": 943,
     "goals_against": 932,
-    "goal_difference": 9,
-    "win_percentage": 38.6,
-    "avg_points": 1.39,
+    "goal_difference": 11,
+    "win_percentage": 38.7,
+    "avg_points": 1.4,
     "best_rank": 49,
     "worst_rank": 146,
-    "avg_rank": 86.34,
+    "avg_rank": 86.33,
     "biggest_win": {
       "score": "12-0",
       "opponent": "British Virgin Islands",
@@ -25,11 +25,11 @@
       "date": "1999-02-24",
       "flag": "costa_rica.png"
     },
-    "home_matches": 267,
+    "home_matches": 268,
     "away_matches": 266,
     "neutral_matches": 174,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4937,
-      "rating2": 4814,
+      "rating1": 4950,
+      "rating2": 4799,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 72.7,
+      "rank": 79,
+      "win_prob": 75.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4937,
-      "rating2": 4785,
+      "rating1": 4950,
+      "rating2": 4772,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 55.7,
+      "rank": 79,
+      "win_prob": 58.5,
       "type": "fixture"
     },
     {
@@ -82,10 +82,10 @@
       "flag2": "bermuda.png",
       "score1": "",
       "score2": "",
-      "rating1": 4937,
-      "rating2": 4414,
+      "rating1": 4950,
+      "rating2": 4429,
       "rating_ev": 0,
-      "rank": 80,
+      "rank": 79,
       "win_prob": 93.5,
       "type": "fixture"
     },
@@ -101,11 +101,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4937,
-      "rating2": 4814,
+      "rating1": 4950,
+      "rating2": 4799,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 52.6,
+      "rank": 79,
+      "win_prob": 55.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Trinidad and Tobago",
       "flag1": "jamaica.png",
       "flag2": "trinidad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4937,
-      "rating2": 4785,
-      "rating_ev": 0,
-      "rank": 80,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4950,
+      "rating2": 4772,
+      "rating_ev": 13,
+      "rank": 79,
       "win_prob": 75.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

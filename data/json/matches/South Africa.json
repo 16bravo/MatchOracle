@@ -1,18 +1,18 @@
 {
   "team": "South Africa",
   "stats": {
-    "matches_played": 508,
+    "matches_played": 509,
     "wins": 225,
-    "draws": 149,
+    "draws": 150,
     "losses": 134,
-    "goals_for": 694,
-    "goals_against": 518,
+    "goals_for": 695,
+    "goals_against": 519,
     "goal_difference": 176,
-    "win_percentage": 44.3,
+    "win_percentage": 44.2,
     "avg_points": 1.62,
     "best_rank": 13,
     "worst_rank": 98,
-    "avg_rank": 62.89,
+    "avg_rank": 62.91,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1920-07-17",
       "flag": "england.png"
     },
-    "home_matches": 265,
+    "home_matches": 266,
     "away_matches": 158,
     "neutral_matches": 85,
     "first_match_date": "1906-07-09",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "zimbabwe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4984,
-      "rating2": 4831,
+      "rating1": 4982,
+      "rating2": 4817,
       "rating_ev": 0,
       "rank": 74,
-      "win_prob": 66.2,
+      "win_prob": 67.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 4984,
+      "rating1": 4982,
       "rating2": 5119,
       "rating_ev": 0,
       "rank": 74,
-      "win_prob": 35.6,
+      "win_prob": 35.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 4984,
-      "rating2": 5041,
+      "rating1": 4982,
+      "rating2": 5037,
       "rating_ev": 0,
       "rank": 74,
-      "win_prob": 43.8,
+      "win_prob": 44.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Nigeria",
       "flag1": "south_africa.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4984,
-      "rating2": 5040,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4982,
+      "rating2": 5042,
+      "rating_ev": -2,
       "rank": 74,
       "win_prob": 54.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

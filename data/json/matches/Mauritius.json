@@ -1,18 +1,18 @@
 {
   "team": "Mauritius",
   "stats": {
-    "matches_played": 335,
+    "matches_played": 336,
     "wins": 94,
     "draws": 76,
-    "losses": 165,
-    "goals_for": 425,
-    "goals_against": 539,
-    "goal_difference": -114,
-    "win_percentage": 28.1,
+    "losses": 166,
+    "goals_for": 426,
+    "goals_against": 542,
+    "goal_difference": -116,
+    "win_percentage": 28.0,
     "avg_points": 1.07,
     "best_rank": 16,
     "worst_rank": 177,
-    "avg_rank": 123.6,
+    "avg_rank": 123.69,
     "biggest_win": {
       "score": "15-2",
       "opponent": "Reunion",
@@ -26,10 +26,10 @@
       "flag": "egypt.png"
     },
     "home_matches": 111,
-    "away_matches": 147,
+    "away_matches": 148,
     "neutral_matches": 77,
     "first_match_date": "1932-01-17",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Angola",
       "flag1": "mauritius.png",
       "flag2": "angola.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4601,
-      "rating2": 5041,
-      "rating_ev": 0,
-      "rank": 156,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4605,
+      "rating2": 5037,
+      "rating_ev": 4,
+      "rank": 154,
       "win_prob": 8.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

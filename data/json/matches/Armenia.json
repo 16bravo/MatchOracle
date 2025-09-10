@@ -1,18 +1,18 @@
 {
   "team": "Armenia",
   "stats": {
-    "matches_played": 274,
-    "wins": 65,
+    "matches_played": 275,
+    "wins": 66,
     "draws": 56,
     "losses": 153,
-    "goals_for": 275,
-    "goals_against": 519,
-    "goal_difference": -244,
-    "win_percentage": 23.7,
+    "goals_for": 277,
+    "goals_against": 520,
+    "goal_difference": -243,
+    "win_percentage": 24.0,
     "avg_points": 0.92,
     "best_rank": 53,
     "worst_rank": 157,
-    "avg_rank": 86.25,
+    "avg_rank": 86.33,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guatemala",
@@ -25,11 +25,11 @@
       "date": "2022-03-29",
       "flag": "norway.png"
     },
-    "home_matches": 109,
+    "home_matches": 110,
     "away_matches": 129,
     "neutral_matches": 36,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4808,
-      "rating2": 5621,
+      "rating1": 4834,
+      "rating2": 5614,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 2.3,
+      "rank": 107,
+      "win_prob": 2.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "hungary.png",
       "score1": "",
       "score2": "",
-      "rating1": 4808,
-      "rating2": 5161,
+      "rating1": 4834,
+      "rating2": 5168,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 25.1,
+      "rank": 107,
+      "win_prob": 26.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4808,
-      "rating2": 5110,
+      "rating1": 4834,
+      "rating2": 5084,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 14.7,
+      "rank": 107,
+      "win_prob": 17.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "hungary.png",
       "score1": "",
       "score2": "",
-      "rating1": 4808,
-      "rating2": 5161,
+      "rating1": 4834,
+      "rating2": 5168,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 12.2,
+      "rank": 107,
+      "win_prob": 13.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Ireland",
       "flag1": "armenia.png",
       "flag2": "ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4808,
-      "rating2": 5110,
-      "rating_ev": 0,
-      "rank": 116,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4834,
+      "rating2": 5084,
+      "rating_ev": 26,
+      "rank": 106,
       "win_prob": 29.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-06",

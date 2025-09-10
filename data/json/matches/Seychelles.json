@@ -1,18 +1,18 @@
 {
   "team": "Seychelles",
   "stats": {
-    "matches_played": 179,
+    "matches_played": 180,
     "wins": 23,
     "draws": 32,
-    "losses": 124,
+    "losses": 125,
     "goals_for": 135,
-    "goals_against": 393,
-    "goal_difference": -258,
+    "goals_against": 398,
+    "goal_difference": -263,
     "win_percentage": 12.8,
     "avg_points": 0.56,
     "best_rank": 132,
     "worst_rank": 190,
-    "avg_rank": 168.12,
+    "avg_rank": 168.23,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Maldives",
@@ -26,10 +26,10 @@
       "flag": "ivory_coast.png"
     },
     "home_matches": 48,
-    "away_matches": 57,
+    "away_matches": 58,
     "neutral_matches": 74,
     "first_match_date": "1974-03-13",
-    "last_match_date": "2025-09-03"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Kenya",
       "flag1": "seychelles.png",
       "flag2": "kenya.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4187,
-      "rating2": 4815,
-      "rating_ev": 0,
-      "rank": 184,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 4164,
+      "rating2": 4838,
+      "rating_ev": -23,
+      "rank": 187,
       "win_prob": 4.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-03",

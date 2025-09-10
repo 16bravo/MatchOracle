@@ -1,18 +1,18 @@
 {
   "team": "Sudan",
   "stats": {
-    "matches_played": 530,
+    "matches_played": 531,
     "wins": 182,
     "draws": 134,
-    "losses": 214,
+    "losses": 215,
     "goals_for": 616,
-    "goals_against": 696,
-    "goal_difference": -80,
+    "goals_against": 697,
+    "goal_difference": -81,
     "win_percentage": 34.3,
     "avg_points": 1.28,
     "best_rank": 36,
     "worst_rank": 138,
-    "avg_rank": 95.02,
+    "avg_rank": 95.03,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Oman",
@@ -26,10 +26,10 @@
       "flag": "south_korea.png"
     },
     "home_matches": 151,
-    "away_matches": 197,
+    "away_matches": 198,
     "neutral_matches": 182,
     "first_match_date": "1956-05-13",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4852,
+      "rating1": 4841,
       "rating2": 5028,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 31.6,
+      "rank": 100,
+      "win_prob": 30.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4852,
+      "rating1": 4841,
       "rating2": 4869,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 48.1,
+      "rank": 100,
+      "win_prob": 46.9,
       "type": "fixture"
     },
     {
@@ -82,15 +82,15 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4852,
+      "rating1": 4841,
       "rating2": 5205,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 17.8,
+      "rank": 100,
+      "win_prob": 17.1,
       "type": "fixture"
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-10",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Sudan",
@@ -101,11 +101,11 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4852,
+      "rating1": 4841,
       "rating2": 4719,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 64.2,
+      "rank": 100,
+      "win_prob": 63.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Togo",
       "flag1": "sudan.png",
       "flag2": "togo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4852,
-      "rating2": 4814,
-      "rating_ev": 0,
-      "rank": 98,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4841,
+      "rating2": 4825,
+      "rating_ev": -11,
+      "rank": 100,
       "win_prob": 43.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

@@ -1,18 +1,18 @@
 {
   "team": "Cyprus",
   "stats": {
-    "matches_played": 421,
+    "matches_played": 422,
     "wins": 82,
-    "draws": 71,
+    "draws": 72,
     "losses": 268,
-    "goals_for": 372,
-    "goals_against": 918,
+    "goals_for": 374,
+    "goals_against": 920,
     "goal_difference": -546,
-    "win_percentage": 19.5,
+    "win_percentage": 19.4,
     "avg_points": 0.75,
     "best_rank": 57,
     "worst_rank": 140,
-    "avg_rank": 89.6,
+    "avg_rank": 89.68,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Andorra",
@@ -25,11 +25,11 @@
       "date": "1969-05-21",
       "flag": "germany.png"
     },
-    "home_matches": 232,
+    "home_matches": 233,
     "away_matches": 183,
     "neutral_matches": 6,
     "first_match_date": "1949-07-30",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "estonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4764,
-      "rating2": 4841,
+      "rating1": 4782,
+      "rating2": 4834,
       "rating_ev": 0,
-      "rank": 127,
-      "win_prob": 52.5,
+      "rank": 124,
+      "win_prob": 55.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4764,
-      "rating2": 5362,
+      "rating1": 4782,
+      "rating2": 5360,
       "rating_ev": 0,
-      "rank": 127,
-      "win_prob": 11.0,
+      "rank": 124,
+      "win_prob": 11.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 4764,
-      "rating2": 4311,
+      "rating1": 4782,
+      "rating2": 4312,
       "rating_ev": 0,
-      "rank": 127,
-      "win_prob": 81.9,
+      "rank": 124,
+      "win_prob": 82.9,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Romania",
       "flag1": "cyprus.png",
       "flag2": "romania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4764,
-      "rating2": 5168,
-      "rating_ev": 0,
-      "rank": 127,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4782,
+      "rating2": 5150,
+      "rating_ev": 18,
+      "rank": 125,
       "win_prob": 21.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-06",

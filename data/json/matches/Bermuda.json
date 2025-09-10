@@ -1,18 +1,18 @@
 {
   "team": "Bermuda",
   "stats": {
-    "matches_played": 223,
+    "matches_played": 224,
     "wins": 73,
     "draws": 44,
-    "losses": 106,
-    "goals_for": 348,
-    "goals_against": 390,
-    "goal_difference": -42,
-    "win_percentage": 32.7,
-    "avg_points": 1.18,
+    "losses": 107,
+    "goals_for": 350,
+    "goals_against": 393,
+    "goal_difference": -43,
+    "win_percentage": 32.6,
+    "avg_points": 1.17,
     "best_rank": 103,
     "worst_rank": 172,
-    "avg_rank": 137.93,
+    "avg_rank": 138.07,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Montserrat",
@@ -26,10 +26,10 @@
       "flag": "denmark.png"
     },
     "home_matches": 101,
-    "away_matches": 77,
+    "away_matches": 78,
     "neutral_matches": 45,
     "first_match_date": "1964-08-10",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4414,
-      "rating2": 4785,
+      "rating1": 4429,
+      "rating2": 4772,
       "rating_ev": 0,
       "rank": 169,
-      "win_prob": 11.4,
+      "win_prob": 12.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4414,
-      "rating2": 4814,
+      "rating1": 4429,
+      "rating2": 4799,
       "rating_ev": 0,
       "rank": 169,
-      "win_prob": 21.6,
+      "win_prob": 23.8,
       "type": "fixture"
     },
     {
@@ -82,8 +82,8 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4414,
-      "rating2": 4937,
+      "rating1": 4429,
+      "rating2": 4950,
       "rating_ev": 0,
       "rank": 169,
       "win_prob": 6.5,
@@ -101,11 +101,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4414,
-      "rating2": 4785,
+      "rating1": 4429,
+      "rating2": 4772,
       "rating_ev": 0,
       "rank": 169,
-      "win_prob": 23.7,
+      "win_prob": 25.9,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Cura\u00e7ao",
       "flag1": "bermuda.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4414,
-      "rating2": 4814,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4429,
+      "rating2": 4799,
+      "rating_ev": 15,
       "rank": 169,
       "win_prob": 10.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

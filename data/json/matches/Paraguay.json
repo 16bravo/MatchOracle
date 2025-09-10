@@ -1,14 +1,14 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 782,
-    "wins": 274,
+    "matches_played": 783,
+    "wins": 275,
     "draws": 208,
     "losses": 300,
-    "goals_for": 995,
+    "goals_for": 996,
     "goals_against": 1106,
-    "goal_difference": -111,
-    "win_percentage": 35.0,
+    "goal_difference": -110,
+    "win_percentage": 35.1,
     "avg_points": 1.32,
     "best_rank": 6,
     "worst_rank": 47,
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 214,
-    "away_matches": 361,
+    "away_matches": 362,
     "neutral_matches": 207,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5320,
-      "rating2": 5174,
+      "rating1": 5334,
+      "rating2": 5193,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 55.1,
+      "rank": 23,
+      "win_prob": 54.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5320,
+      "rating1": 5334,
       "rating2": 5204,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 51.8,
+      "rank": 23,
+      "win_prob": 53.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5320,
-      "rating2": 5432,
+      "rating1": 5334,
+      "rating2": 5413,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 28.3,
+      "rank": 23,
+      "win_prob": 31.3,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Peru",
       "flag1": "paraguay.png",
       "flag2": "peru.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5320,
-      "rating2": 5224,
-      "rating_ev": 0,
-      "rank": 24,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5334,
+      "rating2": 5210,
+      "rating_ev": 14,
+      "rank": 23,
       "win_prob": 49.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

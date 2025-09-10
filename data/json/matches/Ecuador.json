@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 591,
-    "wins": 181,
+    "matches_played": 592,
+    "wins": 182,
     "draws": 156,
     "losses": 254,
-    "goals_for": 712,
+    "goals_for": 713,
     "goals_against": 899,
-    "goal_difference": -187,
-    "win_percentage": 30.6,
-    "avg_points": 1.18,
+    "goal_difference": -186,
+    "win_percentage": 30.7,
+    "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 35.07,
+    "avg_rank": 35.03,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -25,11 +25,11 @@
       "date": "1942-01-22",
       "flag": "argentina.png"
     },
-    "home_matches": 182,
+    "home_matches": 183,
     "away_matches": 207,
     "neutral_matches": 202,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5401,
-      "rating2": 5265,
+      "rating1": 5423,
+      "rating2": 5273,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 54.0,
+      "rank": 14,
+      "win_prob": 55.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5401,
+      "rating1": 5423,
       "rating2": 5294,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 50.8,
+      "rank": 14,
+      "win_prob": 53.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5401,
-      "rating2": 5174,
+      "rating1": 5423,
+      "rating2": 5193,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 63.5,
+      "rank": 14,
+      "win_prob": 63.8,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Argentina",
       "flag1": "ecuador.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5401,
-      "rating2": 5627,
-      "rating_ev": 0,
-      "rank": 18,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5423,
+      "rating2": 5605,
+      "rating_ev": 22,
+      "rank": 15,
       "win_prob": 36.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",

@@ -1,18 +1,18 @@
 {
   "team": "Rwanda",
   "stats": {
-    "matches_played": 283,
-    "wins": 86,
+    "matches_played": 284,
+    "wins": 87,
     "draws": 74,
     "losses": 123,
-    "goals_for": 287,
+    "goals_for": 288,
     "goals_against": 357,
-    "goal_difference": -70,
-    "win_percentage": 30.4,
-    "avg_points": 1.17,
+    "goal_difference": -69,
+    "win_percentage": 30.6,
+    "avg_points": 1.18,
     "best_rank": 92,
     "worst_rank": 160,
-    "avg_rank": 120.75,
+    "avg_rank": 120.69,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 102,
     "away_matches": 99,
-    "neutral_matches": 82,
+    "neutral_matches": 83,
     "first_match_date": "1976-06-29",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Zimbabwe",
       "flag1": "rwanda.png",
       "flag2": "zimbabwe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4824,
-      "rating2": 4831,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4838,
+      "rating2": 4817,
+      "rating_ev": 14,
+      "rank": 103,
       "win_prob": 49.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-06",

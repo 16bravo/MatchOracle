@@ -1,18 +1,18 @@
 {
   "team": "New Zealand",
   "stats": {
-    "matches_played": 432,
+    "matches_played": 433,
     "wins": 180,
     "draws": 78,
-    "losses": 174,
-    "goals_for": 760,
-    "goals_against": 633,
-    "goal_difference": 127,
-    "win_percentage": 41.7,
+    "losses": 175,
+    "goals_for": 761,
+    "goals_against": 636,
+    "goal_difference": 125,
+    "win_percentage": 41.6,
     "avg_points": 1.43,
     "best_rank": 38,
     "worst_rank": 117,
-    "avg_rank": 82.28,
+    "avg_rank": 82.22,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Fiji",
@@ -25,11 +25,11 @@
       "date": "1936-07-11",
       "flag": "australia.png"
     },
-    "home_matches": 132,
+    "home_matches": 133,
     "away_matches": 187,
     "neutral_matches": 113,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5093,
-      "rating2": 5484,
+      "rating1": 5081,
+      "rating2": 5515,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 15.5,
+      "rank": 61,
+      "win_prob": 13.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5093,
-      "rating2": 5419,
+      "rating1": 5081,
+      "rating2": 5482,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 13.5,
+      "rank": 61,
+      "win_prob": 10.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5093,
+      "rating1": 5081,
       "rating2": 5212,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 27.6,
+      "rank": 61,
+      "win_prob": 26.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Australia",
       "flag1": "new_zealand.png",
       "flag2": "australia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5093,
-      "rating2": 5239,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 5081,
+      "rating2": 5251,
+      "rating_ev": -12,
       "rank": 60,
       "win_prob": 44.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

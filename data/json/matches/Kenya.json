@@ -1,18 +1,18 @@
 {
   "team": "Kenya",
   "stats": {
-    "matches_played": 723,
-    "wins": 272,
+    "matches_played": 724,
+    "wins": 273,
     "draws": 178,
     "losses": 273,
-    "goals_for": 994,
+    "goals_for": 999,
     "goals_against": 983,
-    "goal_difference": 11,
-    "win_percentage": 37.6,
-    "avg_points": 1.37,
+    "goal_difference": 16,
+    "win_percentage": 37.7,
+    "avg_points": 1.38,
     "best_rank": 43,
     "worst_rank": 131,
-    "avg_rank": 90.87,
+    "avg_rank": 90.88,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Zanzibar",
@@ -25,11 +25,11 @@
       "date": "1932-12-31",
       "flag": "uganda_1.png"
     },
-    "home_matches": 263,
+    "home_matches": 264,
     "away_matches": 254,
     "neutral_matches": 206,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Seychelles",
       "flag1": "kenya.png",
       "flag2": "seychelles.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4815,
-      "rating2": 4187,
-      "rating_ev": 0,
-      "rank": 110,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 4838,
+      "rating2": 4164,
+      "rating_ev": 23,
+      "rank": 102,
       "win_prob": 95.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",
