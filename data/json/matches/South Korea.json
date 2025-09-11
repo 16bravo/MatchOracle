@@ -1,18 +1,18 @@
 {
   "team": "South Korea",
   "stats": {
-    "matches_played": 1043,
+    "matches_played": 1044,
     "wins": 571,
-    "draws": 256,
+    "draws": 257,
     "losses": 216,
-    "goals_for": 1902,
-    "goals_against": 946,
+    "goals_for": 1904,
+    "goals_against": 948,
     "goal_difference": 956,
     "win_percentage": 54.7,
     "avg_points": 1.89,
     "best_rank": 19,
     "worst_rank": 100,
-    "avg_rank": 47.24,
+    "avg_rank": 47.23,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Nepal",
@@ -27,9 +27,9 @@
     },
     "home_matches": 349,
     "away_matches": 249,
-    "neutral_matches": 445,
+    "neutral_matches": 446,
     "first_match_date": "1942-08-16",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
+      "rating1": 5207,
       "rating2": 5334,
       "rating_ev": 0,
-      "rank": 39,
-      "win_prob": 46.7,
+      "rank": 38,
+      "win_prob": 47.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
+      "rating1": 5207,
       "rating2": 5482,
       "rating_ev": 0,
-      "rank": 39,
-      "win_prob": 31.5,
+      "rank": 38,
+      "win_prob": 31.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Mexico",
       "flag1": "south_korea.png",
       "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5204,
-      "rating2": 5294,
-      "rating_ev": 0,
-      "rank": 39,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5207,
+      "rating2": 5291,
+      "rating_ev": 3,
+      "rank": 38,
       "win_prob": 40.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-06",

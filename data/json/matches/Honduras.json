@@ -1,18 +1,18 @@
 {
   "team": "Honduras",
   "stats": {
-    "matches_played": 661,
-    "wins": 261,
+    "matches_played": 662,
+    "wins": 262,
     "draws": 171,
     "losses": 229,
-    "goals_for": 957,
+    "goals_for": 959,
     "goals_against": 852,
-    "goal_difference": 105,
-    "win_percentage": 39.5,
-    "avg_points": 1.44,
+    "goal_difference": 107,
+    "win_percentage": 39.6,
+    "avg_points": 1.45,
     "best_rank": 24,
     "worst_rank": 109,
-    "avg_rank": 62.77,
+    "avg_rank": 62.8,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Nicaragua",
@@ -25,11 +25,11 @@
       "date": "1921-09-14",
       "flag": "guatemala.png"
     },
-    "home_matches": 209,
+    "home_matches": 210,
     "away_matches": 215,
     "neutral_matches": 237,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4920,
-      "rating2": 5136,
+      "rating1": 4931,
+      "rating2": 5118,
       "rating_ev": 0,
-      "rank": 85,
-      "win_prob": 20.0,
+      "rank": 83,
+      "win_prob": 22.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "nicaragua.png",
       "score1": "",
       "score2": "",
-      "rating1": 4920,
-      "rating2": 4741,
+      "rating1": 4931,
+      "rating2": 4730,
       "rating_ev": 0,
-      "rank": 85,
-      "win_prob": 58.6,
+      "rank": 83,
+      "win_prob": 60.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 4920,
-      "rating2": 4934,
+      "rating1": 4931,
+      "rating2": 4952,
       "rating_ev": 0,
-      "rank": 85,
-      "win_prob": 59.3,
+      "rank": 83,
+      "win_prob": 58.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4920,
-      "rating2": 5136,
+      "rating1": 4931,
+      "rating2": 5118,
       "rating_ev": 0,
-      "rank": 85,
-      "win_prob": 37.6,
+      "rank": 83,
+      "win_prob": 40.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Nicaragua",
       "flag1": "honduras.png",
       "flag2": "nicaragua.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4920,
-      "rating2": 4741,
-      "rating_ev": 0,
-      "rank": 85,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4931,
+      "rating2": 4730,
+      "rating_ev": 11,
+      "rank": 83,
       "win_prob": 77.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",

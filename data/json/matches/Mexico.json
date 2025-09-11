@@ -1,15 +1,15 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1014,
+    "matches_played": 1015,
     "wins": 526,
-    "draws": 232,
+    "draws": 233,
     "losses": 256,
-    "goals_for": 1805,
-    "goals_against": 1043,
+    "goals_for": 1807,
+    "goals_against": 1045,
     "goal_difference": 762,
-    "win_percentage": 51.9,
-    "avg_points": 1.79,
+    "win_percentage": 51.8,
+    "avg_points": 1.78,
     "best_rank": 2,
     "worst_rank": 41,
     "avg_rank": 21.52,
@@ -27,9 +27,9 @@
     },
     "home_matches": 292,
     "away_matches": 269,
-    "neutral_matches": 453,
+    "neutral_matches": 454,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-09-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5294,
+      "rating1": 5291,
       "rating2": 5424,
       "rating_ev": 0,
       "rank": 25,
-      "win_prob": 36.1,
+      "win_prob": 35.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5294,
+      "rating1": 5291,
       "rating2": 5423,
       "rating_ev": 0,
       "rank": 25,
-      "win_prob": 46.8,
+      "win_prob": 46.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5294,
+      "rating1": 5291,
       "rating2": 5515,
       "rating_ev": 0,
       "rank": 25,
-      "win_prob": 27.5,
+      "win_prob": 27.3,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "South Korea",
       "flag1": "mexico.png",
       "flag2": "south_korea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5294,
-      "rating2": 5204,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5291,
+      "rating2": 5207,
+      "rating_ev": -3,
       "rank": 25,
       "win_prob": 59.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-06",
