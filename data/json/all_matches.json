@@ -1041,7 +1041,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-12",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Algeria",
@@ -1061,7 +1061,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-12",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Egypt",
@@ -1081,7 +1081,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-12",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Egypt",
@@ -1101,7 +1101,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-12",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Jordan",
@@ -1121,7 +1121,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-12",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Morocco",
@@ -1141,7 +1141,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-11",
+      "date": "2025-12-12",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Qatar",
@@ -1764,6 +1764,26 @@
       "date": "2025-11-18",
       "country": "United States",
       "tournament": "Friendly",
+      "team1": "Ecuador",
+      "team2": "New Zealand",
+      "original_team1": "Ecuador",
+      "original_team2": "New Zealand",
+      "flag1": "ecuador.png",
+      "flag2": "new_zealand.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5423,
+      "rating2": 5081,
+      "rating_ev": 0,
+      "rank1": 14,
+      "rank2": 61,
+      "win_prob": 81.6,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-11-18",
+      "country": "United States",
+      "tournament": "Friendly",
       "team1": "United States",
       "team2": "Uruguay",
       "original_team1": "United States",
@@ -2222,6 +2242,26 @@
     },
     {
       "date": "2025-11-15",
+      "country": "Mexico",
+      "tournament": "Friendly",
+      "team1": "Mexico",
+      "team2": "Uruguay",
+      "original_team1": "Mexico",
+      "original_team2": "Uruguay",
+      "flag1": "mexico.png",
+      "flag2": "uruguay.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5291,
+      "rating2": 5424,
+      "rating_ev": 0,
+      "rank1": 25,
+      "rank2": 13,
+      "win_prob": 46.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-11-15",
       "country": "Russia",
       "tournament": "Friendly",
       "team1": "Russia",
@@ -2342,26 +2382,6 @@
     },
     {
       "date": "2025-11-14",
-      "country": null,
-      "tournament": "Friendly",
-      "team1": "Mexico",
-      "team2": "Uruguay",
-      "original_team1": "Mexico",
-      "original_team2": "Uruguay",
-      "flag1": "mexico.png",
-      "flag2": "uruguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5291,
-      "rating2": 5424,
-      "rating_ev": 0,
-      "rank1": 25,
-      "rank2": 13,
-      "win_prob": 35.8,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-11-14",
       "country": "Croatia",
       "tournament": "World Cup qualifier",
       "team1": "Croatia",
@@ -2478,6 +2498,26 @@
       "rank1": 34,
       "rank2": 57,
       "win_prob": 71.8,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-11-14",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Nigeria",
+      "team2": "Venezuela",
+      "original_team1": "Nigeria",
+      "original_team2": "Venezuela",
+      "flag1": "nigeria.png",
+      "flag2": "venezuela.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5042,
+      "rating2": 5194,
+      "rating_ev": 0,
+      "rank1": 68,
+      "rank2": 42,
+      "win_prob": 33.9,
       "type": "fixture"
     },
     {
@@ -2862,26 +2902,6 @@
     },
     {
       "date": "2025-11-12",
-      "country": "Russia",
-      "tournament": "Friendly",
-      "team1": "Russia",
-      "team2": "Peru",
-      "original_team1": "Russia",
-      "original_team2": "Peru",
-      "flag1": "russia.png",
-      "flag2": "peru.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5369,
-      "rating2": 5210,
-      "rating_ev": 0,
-      "rank1": 21,
-      "rank2": 36,
-      "win_prob": 75.7,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-11-11",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Bahrain",
@@ -2901,7 +2921,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-12",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Comoros",
@@ -2921,7 +2941,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-12",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Kuwait",
@@ -2941,7 +2961,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-12",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
@@ -2961,7 +2981,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-12",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Libya",
@@ -2981,7 +3001,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-12",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Oman",
@@ -3001,7 +3021,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-11",
+      "date": "2025-11-12",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "South Sudan",
@@ -3018,6 +3038,26 @@
       "rank1": 153,
       "rank2": 118,
       "win_prob": 30.3,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-11-12",
+      "country": "Russia",
+      "tournament": "Friendly",
+      "team1": "Russia",
+      "team2": "Peru",
+      "original_team1": "Russia",
+      "original_team2": "Peru",
+      "flag1": "russia.png",
+      "flag2": "peru.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5369,
+      "rating2": 5210,
+      "rating_ev": 0,
+      "rank1": 21,
+      "rank2": 36,
+      "win_prob": 75.7,
       "type": "fixture"
     },
     {
@@ -3762,6 +3802,26 @@
     },
     {
       "date": "2025-10-13",
+      "country": "Malaysia",
+      "tournament": "Friendly",
+      "team1": "Uruguay",
+      "team2": "Uzbekistan",
+      "original_team1": "Uruguay",
+      "original_team2": "Uzbekistan",
+      "flag1": "uruguay.png",
+      "flag2": "uzbekistan.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5424,
+      "rating2": 5094,
+      "rating_ev": 0,
+      "rank1": 13,
+      "rank2": 59,
+      "win_prob": 80.8,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-10-13",
       "country": "Montenegro",
       "tournament": "Friendly",
       "team1": "Montenegro",
@@ -3918,26 +3978,6 @@
       "rank1": 3,
       "rank2": 165,
       "win_prob": 98.7,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-10-13",
-      "country": "Uruguay",
-      "tournament": "Friendly",
-      "team1": "Uruguay",
-      "team2": "Uzbekistan",
-      "original_team1": "Uruguay",
-      "original_team2": "Uzbekistan",
-      "flag1": "uruguay.png",
-      "flag2": "uzbekistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5424,
-      "rating2": 5094,
-      "rating_ev": 0,
-      "rank1": 13,
-      "rank2": 59,
-      "win_prob": 86.7,
       "type": "fixture"
     },
     {
@@ -4582,6 +4622,26 @@
     },
     {
       "date": "2025-10-10",
+      "country": "Malaysia",
+      "tournament": "Friendly",
+      "team1": "Dominican Republic",
+      "team2": "Uruguay",
+      "original_team1": "Dominican Republic",
+      "original_team2": "Uruguay",
+      "flag1": "dominican_rep.png",
+      "flag2": "uruguay.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4765,
+      "rating2": 5424,
+      "rating_ev": 0,
+      "rank1": 128,
+      "rank2": 13,
+      "win_prob": 5.9,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-10-10",
       "country": "Northern Ireland",
       "tournament": "World Cup qualifier",
       "team1": "Northern Ireland",
@@ -4718,26 +4778,6 @@
       "rank1": 43,
       "rank2": 14,
       "win_prob": 36.2,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-10-10",
-      "country": "Uruguay",
-      "tournament": "Friendly",
-      "team1": "Uruguay",
-      "team2": "Dominican Republic",
-      "original_team1": "Uruguay",
-      "original_team2": "Dominican Republic",
-      "flag1": "uruguay.png",
-      "flag2": "dominican_rep.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5424,
-      "rating2": 4765,
-      "rating_ev": 0,
-      "rank1": 13,
-      "rank2": 128,
-      "win_prob": 96.1,
       "type": "fixture"
     },
     {
