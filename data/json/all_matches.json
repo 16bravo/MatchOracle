@@ -321,7 +321,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Uruguay",
       "tournament": "Intercont Champ",
       "team1": "Argentina",
@@ -821,7 +821,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-25",
+      "date": "2025-12-26",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Algeria",
@@ -841,7 +841,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-25",
+      "date": "2025-12-26",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Egypt",
@@ -861,7 +861,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-25",
+      "date": "2025-12-26",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Egypt",
@@ -881,7 +881,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-25",
+      "date": "2025-12-26",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Jordan",
@@ -901,7 +901,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-25",
+      "date": "2025-12-26",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Morocco",
@@ -921,7 +921,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-12-25",
+      "date": "2025-12-26",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Qatar",
@@ -1181,7 +1181,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-26",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Bahrain",
@@ -1201,7 +1201,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-26",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Comoros",
@@ -1221,7 +1221,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-26",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Kuwait",
@@ -1241,7 +1241,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-26",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Lebanon",
@@ -1261,7 +1261,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-26",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Libya",
@@ -1281,7 +1281,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-26",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Oman",
@@ -1301,7 +1301,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-25",
+      "date": "2025-11-26",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "South Sudan",
@@ -3142,26 +3142,6 @@
     },
     {
       "date": "2025-11-12",
-      "country": "Colombia",
-      "tournament": "Friendly",
-      "team1": "Colombia",
-      "team2": "Dominican Republic",
-      "original_team1": "Colombia",
-      "original_team2": "Dominican Republic",
-      "flag1": "colombia.png",
-      "flag2": "dominican_rep.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5515,
-      "rating2": 4765,
-      "rating_ev": 0,
-      "rank1": 6,
-      "rank2": 128,
-      "win_prob": 97.2,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-11-12",
       "country": "Russia",
       "tournament": "Friendly",
       "team1": "Russia",
@@ -3338,26 +3318,6 @@
       "rank1": 162,
       "rank2": 175,
       "win_prob": 79.9,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-10-14",
-      "country": "Iran",
-      "tournament": "Friendly",
-      "team1": "Iran",
-      "team2": "Tanzania",
-      "original_team1": "Iran",
-      "original_team2": "Tanzania",
-      "flag1": "iran.png",
-      "flag2": "tanzania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5131,
-      "rating2": 4846,
-      "rating_ev": 0,
-      "rank1": 48,
-      "rank2": 98,
-      "win_prob": 84.3,
       "type": "fixture"
     },
     {
@@ -3818,6 +3778,46 @@
       "rank1": 152,
       "rank2": 200,
       "win_prob": 94.7,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-10-14",
+      "country": "United Arab Emirates",
+      "tournament": "Friendly",
+      "team1": "Iran",
+      "team2": "Tanzania",
+      "original_team1": "Iran",
+      "original_team2": "Tanzania",
+      "flag1": "iran.png",
+      "flag2": "tanzania.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5131,
+      "rating2": 4846,
+      "rating_ev": 0,
+      "rank1": 48,
+      "rank2": 98,
+      "win_prob": 77.6,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-10-14",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Belize",
+      "team2": "Venezuela",
+      "original_team1": "Belize",
+      "original_team2": "Venezuela",
+      "flag1": "belize.png",
+      "flag2": "venezuela.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4275,
+      "rating2": 5194,
+      "rating_ev": 0,
+      "rank1": 177,
+      "rank2": 42,
+      "win_prob": 2.4,
       "type": "fixture"
     },
     {
@@ -5541,6 +5541,26 @@
       "type": "fixture"
     },
     {
+      "date": "2025-10-08",
+      "country": "St Vincent & Grenadines",
+      "tournament": "Friendly",
+      "team1": "St Vincent & Grenadines",
+      "team2": "Cuba",
+      "original_team1": "St Vincent & Grenadines",
+      "original_team2": "Cuba",
+      "flag1": "st_vincent.png",
+      "flag2": "cuba.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4398,
+      "rating2": 4538,
+      "rating_ev": 0,
+      "rank1": 171,
+      "rank2": 161,
+      "win_prob": 45.6,
+      "type": "fixture"
+    },
+    {
       "date": "2025-10-06",
       "country": "Morocco",
       "tournament": "World Cup qualifier",
@@ -5558,6 +5578,26 @@
       "rank1": 178,
       "rank2": 52,
       "win_prob": 3.0,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-10-05",
+      "country": "St Vincent & Grenadines",
+      "tournament": "Friendly",
+      "team1": "St Vincent & Grenadines",
+      "team2": "Cuba",
+      "original_team1": "St Vincent & Grenadines",
+      "original_team2": "Cuba",
+      "flag1": "st_vincent.png",
+      "flag2": "cuba.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4398,
+      "rating2": 4538,
+      "rating_ev": 0,
+      "rank1": 171,
+      "rank2": 161,
+      "win_prob": 45.6,
       "type": "fixture"
     },
     {
