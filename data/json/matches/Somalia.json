@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2025-11-27",
+      "date": "2025-11-28",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Somalia",
@@ -49,6 +49,44 @@
       "rating_ev": 0,
       "rank": 170,
       "win_prob": 12.5,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-10-14",
+      "country": "Algeria",
+      "tournament": "World Cup qualifier",
+      "team1": "Somalia",
+      "team2": "Mozambique",
+      "original_team1": "Somalia",
+      "original_team2": "Mozambique",
+      "flag1": "somalia.png",
+      "flag2": "mozambique.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4408,
+      "rating2": 4838,
+      "rating_ev": 0,
+      "rank": 170,
+      "win_prob": 13.5,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-10-09",
+      "country": "Algeria",
+      "tournament": "World Cup qualifier",
+      "team1": "Somalia",
+      "team2": "Algeria",
+      "original_team1": "Somalia",
+      "original_team2": "Algeria",
+      "flag1": "somalia.png",
+      "flag2": "algeria.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4408,
+      "rating2": 5205,
+      "rating_ev": 0,
+      "rank": 170,
+      "win_prob": 2.4,
       "type": "fixture"
     },
     {
