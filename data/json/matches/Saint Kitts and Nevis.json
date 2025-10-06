@@ -1,18 +1,18 @@
 {
   "team": "Saint Kitts and Nevis",
   "stats": {
-    "matches_played": 235,
-    "wins": 94,
+    "matches_played": 236,
+    "wins": 95,
     "draws": 44,
     "losses": 97,
-    "goals_for": 399,
-    "goals_against": 370,
-    "goal_difference": 29,
-    "win_percentage": 40.0,
+    "goals_for": 401,
+    "goals_against": 371,
+    "goal_difference": 30,
+    "win_percentage": 40.3,
     "avg_points": 1.39,
     "best_rank": 83,
     "worst_rank": 192,
-    "avg_rank": 160.57,
+    "avg_rank": 160.67,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Montserrat",
@@ -25,17 +25,17 @@
       "date": "2004-11-17",
       "flag": "mexico.png"
     },
-    "home_matches": 115,
+    "home_matches": 116,
     "away_matches": 76,
     "neutral_matches": 44,
     "first_match_date": "1938-08-18",
-    "last_match_date": "2025-10-03"
+    "last_match_date": "2025-10-04"
   },
   "matches": [
     {
       "date": "2025-11-18",
       "country": "St Kitts and Nevis",
-      "tournament": "Friendly",
+      "tournament": "Friendly tournament",
       "team1": "Saint Kitts and Nevis",
       "team2": "Belize",
       "original_team1": "Saint Kitts and Nevis",
@@ -44,16 +44,16 @@
       "flag2": "belize.png",
       "score1": "",
       "score2": "",
-      "rating1": 4174,
+      "rating1": 4177,
       "rating2": 4275,
       "rating_ev": 0,
       "rank": 185,
-      "win_prob": 39.1,
+      "win_prob": 39.4,
       "type": "fixture"
     },
     {
       "date": "2025-10-04",
-      "country": "St Kitts and Nevis",
+      "country": "Saint Kitts and Nevis",
       "tournament": "Friendly",
       "team1": "Saint Kitts and Nevis",
       "team2": "Saint Martin",
@@ -61,14 +61,14 @@
       "original_team2": "Saint Martin",
       "flag1": "kitts.png",
       "flag2": "france.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4174,
-      "rating2": 4125,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4177,
+      "rating2": 4122,
+      "rating_ev": 3,
       "rank": 185,
-      "win_prob": 55.4,
-      "type": "fixture"
+      "win_prob": 65.8,
+      "type": "past"
     },
     {
       "date": "2025-10-03",

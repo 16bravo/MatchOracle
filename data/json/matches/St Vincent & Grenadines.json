@@ -1,18 +1,18 @@
 {
   "team": "St Vincent & Grenadines",
   "stats": {
-    "matches_played": 351,
-    "wins": 126,
+    "matches_played": 352,
+    "wins": 127,
     "draws": 81,
     "losses": 144,
-    "goals_for": 547,
+    "goals_for": 554,
     "goals_against": 632,
-    "goal_difference": -85,
-    "win_percentage": 35.9,
+    "goal_difference": -78,
+    "win_percentage": 36.1,
     "avg_points": 1.31,
     "best_rank": 65,
     "worst_rank": 187,
-    "avg_rank": 151.86,
+    "avg_rank": 151.91,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Montserrat",
@@ -25,13 +25,32 @@
       "date": "1992-12-06",
       "flag": "mexico.png"
     },
-    "home_matches": 131,
+    "home_matches": 132,
     "away_matches": 133,
     "neutral_matches": 87,
     "first_match_date": "1936-09-12",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-10-05"
   },
   "matches": [
+    {
+      "date": "2025-11-12",
+      "country": "Dominican Rep",
+      "tournament": "Friendly tournament",
+      "team1": "St Vincent & Grenadines",
+      "team2": "Dominican Republic",
+      "original_team1": "St Vincent & Grenadines",
+      "original_team2": "Dominican Republic",
+      "flag1": "st_vincent.png",
+      "flag2": "dominican_rep.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4442,
+      "rating2": 4765,
+      "rating_ev": 0,
+      "rank": 167,
+      "win_prob": 19.7,
+      "type": "fixture"
+    },
     {
       "date": "2025-10-08",
       "country": "St Vincent & Grenadines",
@@ -44,11 +63,11 @@
       "flag2": "cuba.png",
       "score1": "",
       "score2": "",
-      "rating1": 4398,
-      "rating2": 4538,
+      "rating1": 4442,
+      "rating2": 4494,
       "rating_ev": 0,
-      "rank": 171,
-      "win_prob": 45.6,
+      "rank": 167,
+      "win_prob": 55.2,
       "type": "fixture"
     },
     {
@@ -61,14 +80,14 @@
       "original_team2": "Cuba",
       "flag1": "st_vincent.png",
       "flag2": "cuba.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4398,
-      "rating2": 4538,
-      "rating_ev": 0,
-      "rank": 171,
+      "score1": 7,
+      "score2": 0,
+      "rating1": 4442,
+      "rating2": 4494,
+      "rating_ev": 44,
+      "rank": 167,
       "win_prob": 45.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
