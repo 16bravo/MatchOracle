@@ -1,18 +1,18 @@
 {
   "team": "British Virgin Islands",
   "stats": {
-    "matches_played": 132,
+    "matches_played": 133,
     "wins": 19,
     "draws": 23,
-    "losses": 90,
-    "goals_for": 109,
-    "goals_against": 390,
-    "goal_difference": -281,
-    "win_percentage": 14.4,
-    "avg_points": 0.61,
+    "losses": 91,
+    "goals_for": 110,
+    "goals_against": 394,
+    "goal_difference": -284,
+    "win_percentage": 14.3,
+    "avg_points": 0.6,
     "best_rank": 180,
     "worst_rank": 214,
-    "avg_rank": 204.67,
+    "avg_rank": 204.71,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "dominican_rep.png"
     },
     "home_matches": 36,
-    "away_matches": 58,
+    "away_matches": 59,
     "neutral_matches": 38,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Grenada",
       "flag1": "gb_virgin.png",
       "flag2": "grenada.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3699,
-      "rating2": 4368,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 3700,
+      "rating2": 4367,
+      "rating_ev": 1,
       "rank": 210,
       "win_prob": 3.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

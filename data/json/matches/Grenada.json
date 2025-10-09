@@ -1,18 +1,18 @@
 {
   "team": "Grenada",
   "stats": {
-    "matches_played": 297,
-    "wins": 100,
+    "matches_played": 298,
+    "wins": 101,
     "draws": 74,
     "losses": 123,
-    "goals_for": 474,
-    "goals_against": 530,
-    "goal_difference": -56,
-    "win_percentage": 33.7,
-    "avg_points": 1.26,
+    "goals_for": 478,
+    "goals_against": 531,
+    "goal_difference": -53,
+    "win_percentage": 33.9,
+    "avg_points": 1.27,
     "best_rank": 57,
     "worst_rank": 185,
-    "avg_rank": 149.01,
+    "avg_rank": 149.09,
     "biggest_win": {
       "score": "14-1",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "2018-09-10",
       "flag": "curacao.png"
     },
-    "home_matches": 111,
+    "home_matches": 112,
     "away_matches": 111,
     "neutral_matches": 75,
     "first_match_date": "1934-10-13",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cuba.png",
       "score1": "",
       "score2": "",
-      "rating1": 4368,
-      "rating2": 4494,
+      "rating1": 4367,
+      "rating2": 4488,
       "rating_ev": 0,
       "rank": 172,
-      "win_prob": 47.1,
+      "win_prob": 47.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "British Virgin Islands",
       "flag1": "grenada.png",
       "flag2": "gb_virgin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4368,
-      "rating2": 3699,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 4367,
+      "rating2": 3700,
+      "rating_ev": -1,
       "rank": 172,
       "win_prob": 96.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",

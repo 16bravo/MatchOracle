@@ -1,18 +1,18 @@
 {
   "team": "Djibouti",
   "stats": {
-    "matches_played": 115,
+    "matches_played": 116,
     "wins": 10,
     "draws": 11,
-    "losses": 94,
+    "losses": 95,
     "goals_for": 79,
-    "goals_against": 410,
-    "goal_difference": -331,
-    "win_percentage": 8.7,
-    "avg_points": 0.36,
+    "goals_against": 413,
+    "goal_difference": -334,
+    "win_percentage": 8.6,
+    "avg_points": 0.35,
     "best_rank": 96,
     "worst_rank": 201,
-    "avg_rank": 186.0,
+    "avg_rank": 185.93,
     "biggest_win": {
       "score": "4-1",
       "opponent": "South Yemen",
@@ -27,13 +27,13 @@
     },
     "home_matches": 24,
     "away_matches": 36,
-    "neutral_matches": 55,
+    "neutral_matches": 56,
     "first_match_date": "1947-12-05",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
-      "date": "2025-11-08",
+      "date": "2025-11-09",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Djibouti",
@@ -44,11 +44,11 @@
       "flag2": "bahrain.png",
       "score1": "",
       "score2": "",
-      "rating1": 4268,
+      "rating1": 4274,
       "rating2": 4837,
       "rating_ev": 0,
       "rank": 178,
-      "win_prob": 8.2,
+      "win_prob": 8.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "sierra_leone.png",
       "score1": "",
       "score2": "",
-      "rating1": 4268,
-      "rating2": 4825,
+      "rating1": 4274,
+      "rating2": 4823,
       "rating_ev": 0,
       "rank": 178,
-      "win_prob": 8.6,
+      "win_prob": 8.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Egypt",
       "flag1": "djibouti.png",
       "flag2": "egypt.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4268,
-      "rating2": 5119,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4274,
+      "rating2": 5113,
+      "rating_ev": 6,
       "rank": 178,
       "win_prob": 3.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

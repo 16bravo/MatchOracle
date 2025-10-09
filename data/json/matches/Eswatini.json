@@ -1,18 +1,18 @@
 {
   "team": "Eswatini",
   "stats": {
-    "matches_played": 304,
+    "matches_played": 305,
     "wins": 62,
-    "draws": 93,
+    "draws": 94,
     "losses": 149,
-    "goals_for": 255,
-    "goals_against": 498,
+    "goals_for": 257,
+    "goals_against": 500,
     "goal_difference": -243,
-    "win_percentage": 20.4,
+    "win_percentage": 20.3,
     "avg_points": 0.92,
     "best_rank": 118,
     "worst_rank": 167,
-    "avg_rank": 145.97,
+    "avg_rank": 145.96,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -25,11 +25,11 @@
       "date": "2013-03-22",
       "flag": "egypt.png"
     },
-    "home_matches": 12,
+    "home_matches": 13,
     "away_matches": 124,
     "neutral_matches": 168,
     "first_match_date": "1968-07-20",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cape_verde.png",
       "score1": "",
       "score2": "",
-      "rating1": 4673,
-      "rating2": 4967,
+      "rating1": 4689,
+      "rating2": 4968,
       "rating_ev": 0,
-      "rank": 147,
-      "win_prob": 15.2,
+      "rank": 143,
+      "win_prob": 16.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Angola",
       "flag1": "eswatini.png",
       "flag2": "angola.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4673,
-      "rating2": 5037,
-      "rating_ev": 0,
-      "rank": 147,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4689,
+      "rating2": 5021,
+      "rating_ev": 16,
+      "rank": 144,
       "win_prob": 24.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

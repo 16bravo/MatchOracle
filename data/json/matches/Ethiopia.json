@@ -1,18 +1,18 @@
 {
   "team": "Ethiopia",
   "stats": {
-    "matches_played": 456,
-    "wins": 160,
+    "matches_played": 457,
+    "wins": 161,
     "draws": 101,
     "losses": 195,
-    "goals_for": 628,
+    "goals_for": 629,
     "goals_against": 676,
-    "goal_difference": -48,
-    "win_percentage": 35.1,
-    "avg_points": 1.27,
+    "goal_difference": -47,
+    "win_percentage": 35.2,
+    "avg_points": 1.28,
     "best_rank": 41,
     "worst_rank": 147,
-    "avg_rank": 98.19,
+    "avg_rank": 98.26,
     "biggest_win": {
       "score": "10-2",
       "opponent": "French Somaliland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 206,
     "away_matches": 156,
-    "neutral_matches": 94,
+    "neutral_matches": 95,
     "first_match_date": "1947-12-05",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4731,
-      "rating2": 5028,
+      "rating1": 4746,
+      "rating2": 5030,
       "rating_ev": 0,
-      "rank": 133,
-      "win_prob": 15.0,
+      "rank": 130,
+      "win_prob": 15.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Guinea-Bissau",
       "flag1": "ethiopia.png",
       "flag2": "guinea_bissau.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4731,
-      "rating2": 4746,
-      "rating_ev": 0,
-      "rank": 133,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4746,
+      "rating2": 4731,
+      "rating_ev": 15,
+      "rank": 130,
       "win_prob": 48.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

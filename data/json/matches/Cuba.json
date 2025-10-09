@@ -1,18 +1,18 @@
 {
   "team": "Cuba",
   "stats": {
-    "matches_played": 495,
+    "matches_played": 496,
     "wins": 187,
     "draws": 115,
-    "losses": 193,
+    "losses": 194,
     "goals_for": 679,
-    "goals_against": 696,
-    "goal_difference": -17,
-    "win_percentage": 37.8,
-    "avg_points": 1.37,
+    "goals_against": 697,
+    "goal_difference": -18,
+    "win_percentage": 37.7,
+    "avg_points": 1.36,
     "best_rank": 33,
     "worst_rank": 163,
-    "avg_rank": 102.31,
+    "avg_rank": 102.43,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Turks and Caicos Islands",
@@ -26,14 +26,14 @@
       "flag": "sweden.png"
     },
     "home_matches": 113,
-    "away_matches": 212,
+    "away_matches": 213,
     "neutral_matches": 170,
     "first_match_date": "1930-03-16",
-    "last_match_date": "2025-10-05"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Cuba",
@@ -44,15 +44,15 @@
       "flag2": "st_vincent.png",
       "score1": "",
       "score2": "",
-      "rating1": 4494,
-      "rating2": 4442,
+      "rating1": 4488,
+      "rating2": 4448,
       "rating_ev": 0,
       "rank": 162,
-      "win_prob": 55.7,
+      "win_prob": 54.4,
       "type": "fixture"
     },
     {
-      "date": "2026-03-08",
+      "date": "2026-03-09",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Cuba",
@@ -63,11 +63,11 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 4494,
+      "rating1": 4488,
       "rating2": 4765,
       "rating_ev": 0,
       "rank": 162,
-      "win_prob": 23.4,
+      "win_prob": 23.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "martinique.png",
       "score1": "",
       "score2": "",
-      "rating1": 4494,
+      "rating1": 4488,
       "rating2": 4737,
       "rating_ev": 0,
       "rank": 162,
-      "win_prob": 25.7,
+      "win_prob": 25.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "st_lucia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4494,
+      "rating1": 4488,
       "rating2": 4223,
       "rating_ev": 0,
       "rank": 162,
-      "win_prob": 76.6,
+      "win_prob": 76.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "grenada.png",
       "score1": "",
       "score2": "",
-      "rating1": 4494,
-      "rating2": 4368,
+      "rating1": 4488,
+      "rating2": 4367,
       "rating_ev": 0,
       "rank": 162,
-      "win_prob": 52.9,
+      "win_prob": 52.3,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "St Vincent & Grenadines",
       "flag1": "cuba.png",
       "flag2": "st_vincent.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4494,
-      "rating2": 4442,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4488,
+      "rating2": 4448,
+      "rating_ev": -6,
       "rank": 162,
       "win_prob": 44.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-05",

@@ -1,18 +1,18 @@
 {
   "team": "Central African Republic",
   "stats": {
-    "matches_played": 159,
+    "matches_played": 160,
     "wins": 35,
     "draws": 32,
-    "losses": 92,
+    "losses": 93,
     "goals_for": 176,
-    "goals_against": 313,
-    "goal_difference": -137,
-    "win_percentage": 22.0,
+    "goals_against": 318,
+    "goal_difference": -142,
+    "win_percentage": 21.9,
     "avg_points": 0.86,
     "best_rank": 88,
-    "worst_rank": 147,
-    "avg_rank": 124.41,
+    "worst_rank": 148,
+    "avg_rank": 124.56,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 30,
     "away_matches": 65,
-    "neutral_matches": 64,
+    "neutral_matches": 65,
     "first_match_date": "1956-12-31",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "chad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4708,
-      "rating2": 4602,
+      "rating1": 4661,
+      "rating2": 4598,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 50.7,
+      "rank": 148,
+      "win_prob": 46.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Ghana",
       "flag1": "cta.png",
       "flag2": "ghana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4708,
-      "rating2": 5009,
-      "rating_ev": 0,
-      "rank": 137,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 4661,
+      "rating2": 5056,
+      "rating_ev": -47,
+      "rank": 148,
       "win_prob": 21.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",

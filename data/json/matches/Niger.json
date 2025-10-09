@@ -1,18 +1,18 @@
 {
   "team": "Niger",
   "stats": {
-    "matches_played": 278,
-    "wins": 61,
+    "matches_played": 279,
+    "wins": 62,
     "draws": 66,
     "losses": 151,
-    "goals_for": 273,
-    "goals_against": 488,
-    "goal_difference": -215,
-    "win_percentage": 21.9,
+    "goals_for": 276,
+    "goals_against": 489,
+    "goal_difference": -213,
+    "win_percentage": 22.2,
     "avg_points": 0.9,
     "best_rank": 77,
     "worst_rank": 147,
-    "avg_rank": 119.92,
+    "avg_rank": 119.82,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 96,
     "away_matches": 114,
-    "neutral_matches": 68,
+    "neutral_matches": 69,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4872,
-      "rating2": 4842,
+      "rating1": 4886,
+      "rating2": 4862,
       "rating_ev": 0,
       "rank": 91,
-      "win_prob": 42.4,
+      "win_prob": 41.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Congo",
       "flag1": "niger.png",
       "flag2": "congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4872,
-      "rating2": 4638,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4886,
+      "rating2": 4624,
+      "rating_ev": 14,
       "rank": 91,
       "win_prob": 73.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

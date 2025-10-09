@@ -1,18 +1,18 @@
 {
   "team": "Ghana",
   "stats": {
-    "matches_played": 752,
-    "wins": 361,
+    "matches_played": 753,
+    "wins": 362,
     "draws": 188,
     "losses": 203,
-    "goals_for": 1202,
+    "goals_for": 1207,
     "goals_against": 780,
-    "goal_difference": 422,
-    "win_percentage": 48.0,
+    "goal_difference": 427,
+    "win_percentage": 48.1,
     "avg_points": 1.69,
     "best_rank": 14,
     "worst_rank": 89,
-    "avg_rank": 49.63,
+    "avg_rank": 49.65,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Nyasaland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 233,
     "away_matches": 278,
-    "neutral_matches": 241,
+    "neutral_matches": 242,
     "first_match_date": "1950-05-28",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5009,
-      "rating2": 4859,
+      "rating1": 5056,
+      "rating2": 4842,
       "rating_ev": 0,
-      "rank": 72,
-      "win_prob": 75.0,
+      "rank": 66,
+      "win_prob": 79.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Central African Republic",
       "flag1": "ghana.png",
       "flag2": "cta.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5009,
-      "rating2": 4708,
-      "rating_ev": 0,
-      "rank": 72,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 5056,
+      "rating2": 4661,
+      "rating_ev": 47,
+      "rank": 65,
       "win_prob": 78.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

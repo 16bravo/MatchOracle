@@ -1,18 +1,18 @@
 {
   "team": "Burkina Faso",
   "stats": {
-    "matches_played": 467,
-    "wins": 161,
+    "matches_played": 468,
+    "wins": 162,
     "draws": 126,
     "losses": 180,
-    "goals_for": 578,
+    "goals_for": 579,
     "goals_against": 633,
-    "goal_difference": -55,
-    "win_percentage": 34.5,
-    "avg_points": 1.3,
+    "goal_difference": -54,
+    "win_percentage": 34.6,
+    "avg_points": 1.31,
     "best_rank": 60,
     "worst_rank": 122,
-    "avg_rank": 91.79,
+    "avg_rank": 91.75,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 124,
     "away_matches": 176,
-    "neutral_matches": 167,
+    "neutral_matches": 168,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5028,
+      "rating1": 5030,
       "rating2": 4841,
       "rating_ev": 0,
       "rank": 70,
-      "win_prob": 69.4,
+      "win_prob": 69.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5028,
+      "rating1": 5030,
       "rating2": 5205,
       "rating_ev": 0,
       "rank": 70,
-      "win_prob": 31.5,
+      "win_prob": 31.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5028,
+      "rating1": 5030,
       "rating2": 4869,
       "rating_ev": 0,
       "rank": 70,
-      "win_prob": 66.8,
+      "win_prob": 67.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "ethiopia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5028,
-      "rating2": 4731,
+      "rating1": 5030,
+      "rating2": 4746,
       "rating_ev": 0,
       "rank": 70,
-      "win_prob": 85.0,
+      "win_prob": 84.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Sierra Leone",
       "flag1": "burkina.png",
       "flag2": "sierra_leone.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5028,
-      "rating2": 4825,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5030,
+      "rating2": 4823,
+      "rating_ev": 2,
       "rank": 70,
       "win_prob": 70.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

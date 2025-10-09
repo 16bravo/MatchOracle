@@ -1,18 +1,18 @@
 {
   "team": "Mali",
   "stats": {
-    "matches_played": 599,
-    "wins": 245,
+    "matches_played": 600,
+    "wins": 246,
     "draws": 157,
     "losses": 197,
-    "goals_for": 797,
+    "goals_for": 799,
     "goals_against": 681,
-    "goal_difference": 116,
-    "win_percentage": 40.9,
+    "goal_difference": 118,
+    "win_percentage": 41.0,
     "avg_points": 1.49,
     "best_rank": 48,
     "worst_rank": 115,
-    "avg_rank": 76.7,
+    "avg_rank": 76.67,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Mauritania",
@@ -26,10 +26,10 @@
       "flag": "algeria.png"
     },
     "home_matches": 187,
-    "away_matches": 217,
+    "away_matches": 218,
     "neutral_matches": 195,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
-      "rating2": 4859,
+      "rating1": 5118,
+      "rating2": 4842,
       "rating_ev": 0,
-      "rank": 55,
-      "win_prob": 75.3,
+      "rank": 53,
+      "win_prob": 76.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
+      "rating1": 5118,
       "rating2": 5384,
       "rating_ev": 0,
-      "rank": 55,
-      "win_prob": 16.5,
+      "rank": 53,
+      "win_prob": 16.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
-      "rating2": 4842,
+      "rating1": 5118,
+      "rating2": 4862,
       "rating_ev": 0,
-      "rank": 55,
-      "win_prob": 76.6,
+      "rank": 53,
+      "win_prob": 75.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "madagascar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
-      "rating2": 4806,
+      "rating1": 5118,
+      "rating2": 4823,
       "rating_ev": 0,
-      "rank": 55,
-      "win_prob": 85.6,
+      "rank": 53,
+      "win_prob": 84.9,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Chad",
       "flag1": "mali.png",
       "flag2": "chad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5114,
-      "rating2": 4602,
-      "rating_ev": 0,
-      "rank": 55,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5118,
+      "rating2": 4598,
+      "rating_ev": 4,
+      "rank": 54,
       "win_prob": 85.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

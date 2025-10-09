@@ -1,13 +1,13 @@
 {
   "team": "Tanzania",
   "stats": {
-    "matches_played": 615,
+    "matches_played": 616,
     "wins": 179,
     "draws": 171,
-    "losses": 265,
+    "losses": 266,
     "goals_for": 692,
-    "goals_against": 897,
-    "goal_difference": -205,
+    "goals_against": 898,
+    "goal_difference": -206,
     "win_percentage": 29.1,
     "avg_points": 1.15,
     "best_rank": 67,
@@ -25,11 +25,11 @@
       "date": "1956-11-27",
       "flag": "kenya_1.png"
     },
-    "home_matches": 203,
+    "home_matches": 204,
     "away_matches": 220,
     "neutral_matches": 192,
     "first_match_date": "1945-12-31",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4846,
+      "rating1": 4826,
       "rating2": 5071,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 27.2,
+      "rank": 109,
+      "win_prob": 25.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 4846,
+      "rating1": 4826,
       "rating2": 4856,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 48.9,
+      "rank": 109,
+      "win_prob": 46.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4846,
+      "rating1": 4826,
       "rating2": 5042,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 29.7,
+      "rank": 109,
+      "win_prob": 28.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4846,
+      "rating1": 4826,
       "rating2": 4692,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 66.3,
+      "rank": 109,
+      "win_prob": 64.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 4846,
+      "rating1": 4826,
       "rating2": 5131,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 22.4,
+      "rank": 109,
+      "win_prob": 20.9,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Zambia",
       "flag1": "tanzania.png",
       "flag2": "zambia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4846,
-      "rating2": 4842,
-      "rating_ev": 0,
-      "rank": 98,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4826,
+      "rating2": 4862,
+      "rating_ev": -20,
+      "rank": 109,
       "win_prob": 61.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

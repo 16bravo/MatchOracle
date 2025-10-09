@@ -1,18 +1,18 @@
 {
   "team": "New Caledonia",
   "stats": {
-    "matches_played": 272,
-    "wins": 132,
+    "matches_played": 273,
+    "wins": 133,
     "draws": 33,
     "losses": 107,
-    "goals_for": 671,
+    "goals_for": 673,
     "goals_against": 405,
-    "goal_difference": 266,
-    "win_percentage": 48.5,
+    "goal_difference": 268,
+    "win_percentage": 48.7,
     "avg_points": 1.58,
     "best_rank": 51,
     "worst_rank": 184,
-    "avg_rank": 138.12,
+    "avg_rank": 138.22,
     "biggest_win": {
       "score": "18-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "australia.png"
     },
     "home_matches": 85,
-    "away_matches": 67,
+    "away_matches": 68,
     "neutral_matches": 120,
     "first_match_date": "1933-08-15",
-    "last_match_date": "2025-03-24"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Gibraltar",
       "flag1": "caledonia.png",
       "flag2": "gibraltar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4442,
-      "rating2": 4446,
-      "rating_ev": 0,
-      "rank": 167,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4459,
+      "rating2": 4429,
+      "rating_ev": 17,
+      "rank": 166,
       "win_prob": 38.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-03-24",

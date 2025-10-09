@@ -1,18 +1,18 @@
 {
   "team": "Cameroon",
   "stats": {
-    "matches_played": 646,
-    "wins": 281,
+    "matches_played": 647,
+    "wins": 282,
     "draws": 197,
     "losses": 168,
-    "goals_for": 936,
+    "goals_for": 938,
     "goals_against": 701,
-    "goal_difference": 235,
-    "win_percentage": 43.5,
+    "goal_difference": 237,
+    "win_percentage": 43.6,
     "avg_points": 1.61,
     "best_rank": 23,
     "worst_rank": 80,
-    "avg_rank": 52.79,
+    "avg_rank": 52.81,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Chad",
@@ -26,10 +26,10 @@
       "flag": "south_korea.png"
     },
     "home_matches": 183,
-    "away_matches": 239,
+    "away_matches": 240,
     "neutral_matches": 224,
     "first_match_date": "1953-09-30",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 5053,
+      "rating1": 5060,
       "rating2": 4838,
       "rating_ev": 0,
       "rank": 65,
-      "win_prob": 72.0,
+      "win_prob": 72.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5053,
+      "rating1": 5060,
       "rating2": 5061,
       "rating_ev": 0,
       "rank": 65,
-      "win_prob": 49.1,
+      "win_prob": 49.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5053,
+      "rating1": 5060,
       "rating2": 4914,
       "rating_ev": 0,
       "rank": 65,
-      "win_prob": 64.8,
+      "win_prob": 65.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 5053,
-      "rating2": 5037,
+      "rating1": 5060,
+      "rating2": 5021,
       "rating_ev": 0,
       "rank": 65,
-      "win_prob": 62.5,
+      "win_prob": 64.8,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Mauritius",
       "flag1": "cameroon.png",
       "flag2": "mauritius.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5053,
-      "rating2": 4605,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5060,
+      "rating2": 4598,
+      "rating_ev": 7,
       "rank": 65,
       "win_prob": 81.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

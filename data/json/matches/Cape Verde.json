@@ -1,18 +1,18 @@
 {
   "team": "Cape Verde",
   "stats": {
-    "matches_played": 238,
+    "matches_played": 239,
     "wins": 89,
-    "draws": 55,
+    "draws": 56,
     "losses": 94,
-    "goals_for": 251,
-    "goals_against": 265,
+    "goals_for": 254,
+    "goals_against": 268,
     "goal_difference": -14,
-    "win_percentage": 37.4,
+    "win_percentage": 37.2,
     "avg_points": 1.35,
     "best_rank": 66,
     "worst_rank": 132,
-    "avg_rank": 99.75,
+    "avg_rank": 99.65,
     "biggest_win": {
       "score": "7-1",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -26,10 +26,10 @@
       "flag": "senegal.png"
     },
     "home_matches": 75,
-    "away_matches": 83,
+    "away_matches": 84,
     "neutral_matches": 80,
     "first_match_date": "1959-12-20",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "eswatini.png",
       "score1": "",
       "score2": "",
-      "rating1": 4967,
-      "rating2": 4673,
+      "rating1": 4968,
+      "rating2": 4689,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 84.8,
+      "win_prob": 84.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Libya",
       "flag1": "cape_verde.png",
       "flag2": "libya.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4967,
-      "rating2": 4896,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 3,
+      "rating1": 4968,
+      "rating2": 4895,
+      "rating_ev": 1,
       "rank": 76,
       "win_prob": 46.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

@@ -1,18 +1,18 @@
 {
   "team": "Zambia",
   "stats": {
-    "matches_played": 840,
-    "wins": 379,
+    "matches_played": 841,
+    "wins": 380,
     "draws": 215,
     "losses": 246,
-    "goals_for": 1329,
+    "goals_for": 1330,
     "goals_against": 892,
-    "goal_difference": 437,
-    "win_percentage": 45.1,
+    "goal_difference": 438,
+    "win_percentage": 45.2,
     "avg_points": 1.61,
     "best_rank": 35,
     "worst_rank": 111,
-    "avg_rank": 66.27,
+    "avg_rank": 66.3,
     "biggest_win": {
       "score": "11-2",
       "opponent": "Swaziland",
@@ -26,10 +26,10 @@
       "flag": "dr_congo_1.png"
     },
     "home_matches": 254,
-    "away_matches": 343,
+    "away_matches": 344,
     "neutral_matches": 243,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4842,
+      "rating1": 4862,
       "rating2": 5384,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 6.0,
+      "rank": 94,
+      "win_prob": 6.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 4842,
-      "rating2": 4859,
+      "rating1": 4862,
+      "rating2": 4842,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 48.1,
+      "rank": 94,
+      "win_prob": 52.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 4842,
-      "rating2": 5114,
+      "rating1": 4862,
+      "rating2": 5118,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 23.4,
+      "rank": 94,
+      "win_prob": 24.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "niger.png",
       "score1": "",
       "score2": "",
-      "rating1": 4842,
-      "rating2": 4872,
+      "rating1": 4862,
+      "rating2": 4886,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 57.6,
+      "rank": 94,
+      "win_prob": 58.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Tanzania",
       "flag1": "zambia.png",
       "flag2": "tanzania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4842,
-      "rating2": 4846,
-      "rating_ev": 0,
-      "rank": 99,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4862,
+      "rating2": 4826,
+      "rating_ev": 20,
+      "rank": 93,
       "win_prob": 38.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

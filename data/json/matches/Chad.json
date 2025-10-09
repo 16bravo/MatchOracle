@@ -1,18 +1,18 @@
 {
   "team": "Chad",
   "stats": {
-    "matches_played": 175,
+    "matches_played": 176,
     "wins": 34,
     "draws": 40,
-    "losses": 101,
+    "losses": 102,
     "goals_for": 155,
-    "goals_against": 321,
-    "goal_difference": -166,
-    "win_percentage": 19.4,
+    "goals_against": 323,
+    "goal_difference": -168,
+    "win_percentage": 19.3,
     "avg_points": 0.81,
     "best_rank": 104,
-    "worst_rank": 155,
-    "avg_rank": 131.42,
+    "worst_rank": 157,
+    "avg_rank": 131.57,
     "biggest_win": {
       "score": "5-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -25,11 +25,11 @@
       "date": "1964-03-28",
       "flag": "congo.png"
     },
-    "home_matches": 41,
+    "home_matches": 42,
     "away_matches": 58,
     "neutral_matches": 76,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4602,
-      "rating2": 4708,
+      "rating1": 4598,
+      "rating2": 4661,
       "rating_ev": 0,
-      "rank": 155,
-      "win_prob": 49.3,
+      "rank": 156,
+      "win_prob": 54.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Mali",
       "flag1": "chad.png",
       "flag2": "mali.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4602,
-      "rating2": 5114,
-      "rating_ev": 0,
-      "rank": 155,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4598,
+      "rating2": 5118,
+      "rating_ev": -4,
+      "rank": 157,
       "win_prob": 14.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

@@ -1,18 +1,18 @@
 {
   "team": "Indonesia",
   "stats": {
-    "matches_played": 778,
+    "matches_played": 779,
     "wins": 296,
     "draws": 152,
-    "losses": 330,
-    "goals_for": 1303,
-    "goals_against": 1269,
-    "goal_difference": 34,
+    "losses": 331,
+    "goals_for": 1305,
+    "goals_against": 1272,
+    "goal_difference": 33,
     "win_percentage": 38.0,
     "avg_points": 1.34,
     "best_rank": 44,
     "worst_rank": 175,
-    "avg_rank": 117.1,
+    "avg_rank": 117.13,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Philippines",
@@ -26,10 +26,10 @@
       "flag": "bahrain.png"
     },
     "home_matches": 246,
-    "away_matches": 190,
+    "away_matches": 191,
     "neutral_matches": 342,
     "first_match_date": "1928-08-19",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 4663,
+      "rating1": 4675,
       "rating2": 4925,
       "rating_ev": 0,
-      "rank": 148,
-      "win_prob": 24.1,
+      "rank": 147,
+      "win_prob": 25.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Saudi Arabia",
       "flag1": "indonesia.png",
       "flag2": "saudi_arabia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4663,
-      "rating2": 5014,
-      "rating_ev": 0,
-      "rank": 148,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4675,
+      "rating2": 5002,
+      "rating_ev": 12,
+      "rank": 147,
       "win_prob": 12.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",
