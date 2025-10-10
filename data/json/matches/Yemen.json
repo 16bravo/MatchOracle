@@ -1,18 +1,18 @@
 {
   "team": "Yemen",
   "stats": {
-    "matches_played": 285,
-    "wins": 61,
+    "matches_played": 286,
+    "wins": 62,
     "draws": 55,
     "losses": 169,
-    "goals_for": 274,
+    "goals_for": 276,
     "goals_against": 571,
-    "goal_difference": -297,
-    "win_percentage": 21.4,
+    "goal_difference": -295,
+    "win_percentage": 21.7,
     "avg_points": 0.84,
     "best_rank": 113,
     "worst_rank": 168,
-    "avg_rank": 147.54,
+    "avg_rank": 147.6,
     "biggest_win": {
       "score": "11-2",
       "opponent": "Bhutan",
@@ -26,10 +26,10 @@
       "flag": null
     },
     "home_matches": 49,
-    "away_matches": 84,
+    "away_matches": 85,
     "neutral_matches": 152,
     "first_match_date": "1965-09-02",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,15 +44,15 @@
       "flag2": "bhutan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4487,
-      "rating2": 3711,
+      "rating1": 4476,
+      "rating2": 3737,
       "rating_ev": 0,
-      "rank": 164,
-      "win_prob": 96.1,
+      "rank": 165,
+      "win_prob": 95.5,
       "type": "fixture"
     },
     {
-      "date": "2025-11-09",
+      "date": "2025-11-10",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Yemen",
@@ -63,11 +63,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 4487,
+      "rating1": 4476,
       "rating2": 4842,
       "rating_ev": 0,
-      "rank": 164,
-      "win_prob": 17.6,
+      "rank": 165,
+      "win_prob": 17.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "brunei.png",
       "score1": "",
       "score2": "",
-      "rating1": 4487,
-      "rating2": 3697,
+      "rating1": 4476,
+      "rating2": 3708,
       "rating_ev": 0,
-      "rank": 164,
-      "win_prob": 96.3,
+      "rank": 165,
+      "win_prob": 96.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Brunei",
       "flag1": "yemen.png",
       "flag2": "brunei.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4487,
-      "rating2": 3697,
-      "rating_ev": 0,
-      "rank": 164,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4476,
+      "rating2": 3708,
+      "rating_ev": -11,
+      "rank": 165,
       "win_prob": 94.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
@@ -139,11 +139,11 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4487,
-      "rating2": 4719,
+      "rating1": 4476,
+      "rating2": 4693,
       "rating_ev": 0,
-      "rank": 164,
-      "win_prob": 18.9,
+      "rank": 165,
+      "win_prob": 20.0,
       "type": "fixture"
     },
     {

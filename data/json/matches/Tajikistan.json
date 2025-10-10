@@ -1,18 +1,18 @@
 {
   "team": "Tajikistan",
   "stats": {
-    "matches_played": 208,
-    "wins": 76,
+    "matches_played": 209,
+    "wins": 77,
     "draws": 44,
     "losses": 88,
-    "goals_for": 290,
+    "goals_for": 292,
     "goals_against": 307,
-    "goal_difference": -17,
-    "win_percentage": 36.5,
-    "avg_points": 1.31,
+    "goal_difference": -15,
+    "win_percentage": 36.8,
+    "avg_points": 1.32,
     "best_rank": 83,
     "worst_rank": 165,
-    "avg_rank": 139.64,
+    "avg_rank": 139.7,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "2005-04-10",
       "flag": "iran.png"
     },
-    "home_matches": 53,
+    "home_matches": 54,
     "away_matches": 83,
     "neutral_matches": 72,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2025-09-04"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4620,
-      "rating2": 3815,
+      "rating1": 4614,
+      "rating2": 3812,
       "rating_ev": 0,
       "rank": 151,
-      "win_prob": 96.5,
+      "win_prob": 96.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 4620,
-      "rating2": 4135,
+      "rating1": 4614,
+      "rating2": 4141,
       "rating_ev": 0,
       "rank": 151,
-      "win_prob": 83.8,
+      "win_prob": 83.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Maldives",
       "flag1": "tajikistan.png",
       "flag2": "maldives.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4620,
-      "rating2": 4135,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4614,
+      "rating2": 4141,
+      "rating_ev": -6,
       "rank": 151,
       "win_prob": 92.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-04",
@@ -196,11 +196,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 4620,
-      "rating2": 4488,
+      "rating1": 4614,
+      "rating2": 4491,
       "rating_ev": 0,
       "rank": 151,
-      "win_prob": 73.5,
+      "win_prob": 72.7,
       "type": "fixture"
     },
     {

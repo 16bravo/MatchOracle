@@ -1,18 +1,18 @@
 {
   "team": "Sri Lanka",
   "stats": {
-    "matches_played": 275,
-    "wins": 52,
+    "matches_played": 276,
+    "wins": 53,
     "draws": 50,
     "losses": 173,
-    "goals_for": 260,
+    "goals_for": 261,
     "goals_against": 680,
-    "goal_difference": -420,
-    "win_percentage": 18.9,
-    "avg_points": 0.75,
+    "goal_difference": -419,
+    "win_percentage": 19.2,
+    "avg_points": 0.76,
     "best_rank": 111,
     "worst_rank": 205,
-    "avg_rank": 184.32,
+    "avg_rank": 184.37,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Pakistan",
@@ -25,11 +25,11 @@
       "date": "1964-01-12",
       "flag": "gdr.png"
     },
-    "home_matches": 58,
+    "home_matches": 59,
     "away_matches": 86,
     "neutral_matches": 131,
     "first_match_date": "1952-03-09",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4039,
-      "rating2": 4696,
+      "rating1": 4080,
+      "rating2": 4687,
       "rating_ev": 0,
-      "rank": 200,
-      "win_prob": 9.0,
+      "rank": 198,
+      "win_prob": 10.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4039,
-      "rating2": 4614,
+      "rating1": 4080,
+      "rating2": 4573,
       "rating_ev": 0,
-      "rank": 200,
-      "win_prob": 5.3,
+      "rank": 198,
+      "win_prob": 7.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Turkmenistan",
       "flag1": "sri_lanka.png",
       "flag2": "turkmenistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4039,
-      "rating2": 4614,
-      "rating_ev": 0,
-      "rank": 200,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4080,
+      "rating2": 4573,
+      "rating_ev": 41,
+      "rank": 198,
       "win_prob": 11.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",
@@ -196,11 +196,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4039,
-      "rating2": 4168,
+      "rating1": 4080,
+      "rating2": 4177,
       "rating_ev": 0,
-      "rank": 200,
-      "win_prob": 26.8,
+      "rank": 198,
+      "win_prob": 29.6,
       "type": "fixture"
     },
     {

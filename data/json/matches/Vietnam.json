@@ -1,18 +1,18 @@
 {
   "team": "Vietnam",
   "stats": {
-    "matches_played": 514,
-    "wins": 213,
+    "matches_played": 515,
+    "wins": 214,
     "draws": 102,
     "losses": 199,
-    "goals_for": 899,
-    "goals_against": 767,
-    "goal_difference": 132,
-    "win_percentage": 41.4,
+    "goals_for": 902,
+    "goals_against": 768,
+    "goal_difference": 134,
+    "win_percentage": 41.6,
     "avg_points": 1.44,
     "best_rank": 62,
     "worst_rank": 172,
-    "avg_rank": 121.94,
+    "avg_rank": 121.99,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "1971-05-02",
       "flag": "indonesia.png"
     },
-    "home_matches": 118,
+    "home_matches": 119,
     "away_matches": 126,
     "neutral_matches": 270,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "laos.png",
       "score1": "",
       "score2": "",
-      "rating1": 4679,
-      "rating2": 3935,
+      "rating1": 4669,
+      "rating2": 3926,
       "rating_ev": 0,
-      "rank": 146,
-      "win_prob": 93.4,
+      "rank": 147,
+      "win_prob": 93.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "nepal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4679,
-      "rating2": 4132,
+      "rating1": 4669,
+      "rating2": 4142,
       "rating_ev": 0,
-      "rank": 146,
-      "win_prob": 94.1,
+      "rank": 147,
+      "win_prob": 93.6,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Nepal",
       "flag1": "vietnam.png",
       "flag2": "nepal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4679,
-      "rating2": 4132,
-      "rating_ev": 0,
-      "rank": 146,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4669,
+      "rating2": 4142,
+      "rating_ev": -10,
+      "rank": 147,
       "win_prob": 94.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
@@ -120,11 +120,11 @@
       "flag2": "malaysia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4679,
-      "rating2": 4600,
+      "rating1": 4669,
+      "rating2": 4609,
       "rating_ev": 0,
-      "rank": 146,
-      "win_prob": 68.7,
+      "rank": 147,
+      "win_prob": 66.9,
       "type": "fixture"
     },
     {

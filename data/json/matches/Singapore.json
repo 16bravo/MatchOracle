@@ -1,18 +1,18 @@
 {
   "team": "Singapore",
   "stats": {
-    "matches_played": 753,
+    "matches_played": 754,
     "wins": 233,
-    "draws": 155,
+    "draws": 156,
     "losses": 365,
-    "goals_for": 1003,
-    "goals_against": 1361,
+    "goals_for": 1004,
+    "goals_against": 1362,
     "goal_difference": -358,
     "win_percentage": 30.9,
     "avg_points": 1.13,
     "best_rank": 80,
     "worst_rank": 180,
-    "avg_rank": 137.63,
+    "avg_rank": 137.68,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Laos",
@@ -25,11 +25,11 @@
       "date": "1969-11-09",
       "flag": "burma_1.png"
     },
-    "home_matches": 311,
+    "home_matches": 312,
     "away_matches": 176,
     "neutral_matches": 266,
     "first_match_date": "1948-05-22",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4315,
-      "rating2": 4602,
+      "rating1": 4322,
+      "rating2": 4597,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 15.6,
+      "win_prob": 16.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4315,
-      "rating2": 4530,
+      "rating1": 4322,
+      "rating2": 4523,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 20.1,
+      "win_prob": 21.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "India",
       "flag1": "singapore.png",
       "flag2": "india.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4315,
-      "rating2": 4530,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4322,
+      "rating2": 4523,
+      "rating_ev": 7,
       "rank": 175,
       "win_prob": 37.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",
@@ -177,11 +177,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4315,
-      "rating2": 4183,
+      "rating1": 4322,
+      "rating2": 4188,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 73.5,
+      "win_prob": 73.6,
       "type": "fixture"
     },
     {

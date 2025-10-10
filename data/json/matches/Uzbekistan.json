@@ -1,18 +1,18 @@
 {
   "team": "Uzbekistan",
   "stats": {
-    "matches_played": 356,
-    "wins": 175,
+    "matches_played": 357,
+    "wins": 176,
     "draws": 72,
     "losses": 109,
-    "goals_for": 622,
+    "goals_for": 624,
     "goals_against": 392,
-    "goal_difference": 230,
-    "win_percentage": 49.2,
+    "goal_difference": 232,
+    "win_percentage": 49.3,
     "avg_points": 1.68,
     "best_rank": 38,
     "worst_rank": 98,
-    "avg_rank": 65.99,
+    "avg_rank": 65.97,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Mongolia",
@@ -25,11 +25,11 @@
       "date": "2000-10-17",
       "flag": "japan.png"
     },
-    "home_matches": 126,
+    "home_matches": 127,
     "away_matches": 128,
     "neutral_matches": 102,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,7 +44,7 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5094,
+      "rating1": 5093,
       "rating2": 5424,
       "rating_ev": 0,
       "rank": 59,
@@ -61,14 +61,14 @@
       "original_team2": "Kuwait",
       "flag1": "uzbekistan.png",
       "flag2": "kuwait.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5094,
-      "rating2": 4692,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5093,
+      "rating2": 4693,
+      "rating_ev": -1,
       "rank": 59,
       "win_prob": 89.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

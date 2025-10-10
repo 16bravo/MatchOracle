@@ -1,14 +1,14 @@
 {
   "team": "East Timor",
   "stats": {
-    "matches_played": 89,
+    "matches_played": 90,
     "wins": 11,
     "draws": 8,
-    "losses": 70,
-    "goals_for": 80,
-    "goals_against": 284,
-    "goal_difference": -204,
-    "win_percentage": 12.4,
+    "losses": 71,
+    "goals_for": 81,
+    "goals_against": 288,
+    "goal_difference": -207,
+    "win_percentage": 12.2,
     "avg_points": 0.46,
     "best_rank": 203,
     "worst_rank": 211,
@@ -27,9 +27,9 @@
     },
     "home_matches": 6,
     "away_matches": 45,
-    "neutral_matches": 38,
+    "neutral_matches": 39,
     "first_match_date": "2003-03-21",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 3815,
-      "rating2": 4620,
+      "rating1": 3812,
+      "rating2": 4614,
       "rating_ev": 0,
       "rank": 206,
-      "win_prob": 3.5,
+      "win_prob": 3.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 3815,
-      "rating2": 4488,
+      "rating1": 3812,
+      "rating2": 4491,
       "rating_ev": 0,
       "rank": 206,
-      "win_prob": 3.7,
+      "win_prob": 3.6,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Philippines",
       "flag1": "timor.png",
       "flag2": "philippines.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3815,
-      "rating2": 4488,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 3812,
+      "rating2": 4491,
+      "rating_ev": -3,
       "rank": 206,
       "win_prob": 5.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
@@ -120,11 +120,11 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 3815,
-      "rating2": 4135,
+      "rating1": 3812,
+      "rating2": 4141,
       "rating_ev": 0,
       "rank": 206,
-      "win_prob": 13.8,
+      "win_prob": 13.4,
       "type": "fixture"
     },
     {

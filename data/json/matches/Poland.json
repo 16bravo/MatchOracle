@@ -1,18 +1,18 @@
 {
   "team": "Poland",
   "stats": {
-    "matches_played": 911,
-    "wins": 395,
+    "matches_played": 912,
+    "wins": 396,
     "draws": 223,
     "losses": 293,
-    "goals_for": 1547,
+    "goals_for": 1548,
     "goals_against": 1228,
-    "goal_difference": 319,
+    "goal_difference": 320,
     "win_percentage": 43.4,
     "avg_points": 1.55,
     "best_rank": 1,
     "worst_rank": 48,
-    "avg_rank": 24.15,
+    "avg_rank": 24.16,
     "biggest_win": {
       "score": "10-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "1948-06-26",
       "flag": "denmark.png"
     },
-    "home_matches": 392,
+    "home_matches": 393,
     "away_matches": 404,
     "neutral_matches": 115,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5212,
-      "rating2": 4714,
+      "rating2": 4700,
       "rating_ev": 0,
       "rank": 35,
-      "win_prob": 84.5,
+      "win_prob": 85.2,
       "type": "fixture"
     },
     {
@@ -64,10 +64,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5212,
-      "rating2": 5515,
+      "rating2": 5529,
       "rating_ev": 0,
       "rank": 35,
-      "win_prob": 29.3,
+      "win_prob": 28.1,
       "type": "fixture"
     },
     {
@@ -83,10 +83,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5212,
-      "rating2": 4823,
+      "rating2": 4828,
       "rating_ev": 0,
       "rank": 35,
-      "win_prob": 77.7,
+      "win_prob": 77.3,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "New Zealand",
       "flag1": "poland.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 0,
       "rating1": 5212,
       "rating2": 5081,
       "rating_ev": 0,
       "rank": 35,
       "win_prob": 73.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",

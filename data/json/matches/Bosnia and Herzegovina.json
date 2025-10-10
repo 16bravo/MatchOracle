@@ -1,18 +1,18 @@
 {
   "team": "Bosnia and Herzegovina",
   "stats": {
-    "matches_played": 272,
+    "matches_played": 273,
     "wins": 101,
-    "draws": 60,
+    "draws": 61,
     "losses": 111,
-    "goals_for": 375,
-    "goals_against": 377,
+    "goals_for": 377,
+    "goals_against": 379,
     "goal_difference": -2,
-    "win_percentage": 37.1,
+    "win_percentage": 37.0,
     "avg_points": 1.33,
     "best_rank": 8,
     "worst_rank": 87,
-    "avg_rank": 49.62,
+    "avg_rank": 49.7,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -26,12 +26,31 @@
       "flag": "germany.png"
     },
     "home_matches": 114,
-    "away_matches": 132,
+    "away_matches": 133,
     "neutral_matches": 26,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
+    {
+      "date": "2025-10-09",
+      "country": "Cyprus",
+      "tournament": "World Cup qualifier",
+      "team1": "Bosnia and Herzegovina",
+      "team2": "Cyprus",
+      "original_team1": "Bosnia and Herzegovina",
+      "original_team2": "Cyprus",
+      "flag1": "bosnia.png",
+      "flag2": "cyprus.png",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4996,
+      "rating2": 4789,
+      "rating_ev": -7,
+      "rank": 73,
+      "win_prob": 62.9,
+      "type": "past"
+    },
     {
       "date": "2025-09-09",
       "country": "Bosnia and Herzegovina",

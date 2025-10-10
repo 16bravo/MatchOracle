@@ -1,23 +1,23 @@
 {
   "team": "Austria",
   "stats": {
-    "matches_played": 857,
-    "wins": 366,
+    "matches_played": 858,
+    "wins": 367,
     "draws": 182,
     "losses": 309,
-    "goals_for": 1536,
+    "goals_for": 1546,
     "goals_against": 1313,
-    "goal_difference": 223,
-    "win_percentage": 42.7,
-    "avg_points": 1.49,
+    "goal_difference": 233,
+    "win_percentage": 42.8,
+    "avg_points": 1.5,
     "best_rank": 3,
     "worst_rank": 63,
-    "avg_rank": 21.61,
+    "avg_rank": 21.6,
     "biggest_win": {
-      "score": "9-0",
-      "opponent": "Malta",
-      "date": "1977-04-30",
-      "flag": "malta.png"
+      "score": "10-0",
+      "opponent": "San Marino",
+      "date": "2025-10-09",
+      "flag": "san_marino.png"
     },
     "biggest_loss": {
       "score": "1-11",
@@ -25,11 +25,11 @@
       "date": "1908-06-08",
       "flag": "england.png"
     },
-    "home_matches": 426,
+    "home_matches": 427,
     "away_matches": 380,
     "neutral_matches": 51,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5360,
-      "rating2": 4782,
+      "rating1": 5405,
+      "rating2": 4789,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 88.2,
+      "rank": 19,
+      "win_prob": 89.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5360,
-      "rating2": 5150,
+      "rating1": 5405,
+      "rating2": 5141,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 61.8,
+      "rank": 19,
+      "win_prob": 67.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "San Marino",
       "flag1": "austria.png",
       "flag2": "san_marino.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5360,
-      "rating2": 4312,
-      "rating_ev": 0,
-      "rank": 22,
+      "score1": 10,
+      "score2": 0,
+      "rating1": 5405,
+      "rating2": 4267,
+      "rating_ev": 45,
+      "rank": 19,
       "win_prob": 99.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

@@ -1,18 +1,18 @@
 {
   "team": "Thailand",
   "stats": {
-    "matches_played": 926,
-    "wins": 360,
+    "matches_played": 927,
+    "wins": 361,
     "draws": 211,
     "losses": 355,
-    "goals_for": 1472,
+    "goals_for": 1474,
     "goals_against": 1389,
-    "goal_difference": 83,
+    "goal_difference": 85,
     "win_percentage": 38.9,
-    "avg_points": 1.39,
+    "avg_points": 1.4,
     "best_rank": 69,
     "worst_rank": 145,
-    "avg_rank": 113.19,
+    "avg_rank": 113.22,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Brunei",
@@ -25,11 +25,11 @@
       "date": "2023-10-12",
       "flag": "georgia.png"
     },
-    "home_matches": 386,
+    "home_matches": 387,
     "away_matches": 197,
     "neutral_matches": 343,
     "first_match_date": "1948-08-20",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4696,
-      "rating2": 4039,
+      "rating1": 4687,
+      "rating2": 4080,
       "rating_ev": 0,
-      "rank": 138,
-      "win_prob": 91.0,
+      "rank": 144,
+      "win_prob": 89.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4696,
-      "rating2": 4168,
+      "rating1": 4687,
+      "rating2": 4177,
       "rating_ev": 0,
-      "rank": 138,
-      "win_prob": 86.0,
+      "rank": 144,
+      "win_prob": 85.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Taiwan",
       "flag1": "thailand.png",
       "flag2": "taiwan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4696,
-      "rating2": 4168,
-      "rating_ev": 0,
-      "rank": 138,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4687,
+      "rating2": 4177,
+      "rating_ev": -9,
+      "rank": 144,
       "win_prob": 93.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",
@@ -177,11 +177,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4696,
-      "rating2": 4614,
+      "rating1": 4687,
+      "rating2": 4573,
       "rating_ev": 0,
-      "rank": 138,
-      "win_prob": 69.0,
+      "rank": 144,
+      "win_prob": 71.9,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Turkmenistan",
   "stats": {
-    "matches_played": 179,
+    "matches_played": 180,
     "wins": 65,
     "draws": 34,
-    "losses": 80,
+    "losses": 81,
     "goals_for": 269,
-    "goals_against": 273,
-    "goal_difference": -4,
-    "win_percentage": 36.3,
-    "avg_points": 1.28,
+    "goals_against": 274,
+    "goal_difference": -5,
+    "win_percentage": 36.1,
+    "avg_points": 1.27,
     "best_rank": 70,
     "worst_rank": 160,
-    "avg_rank": 125.04,
+    "avg_rank": 125.24,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Afghanistan",
@@ -26,10 +26,10 @@
       "flag": "tajikistan.png"
     },
     "home_matches": 40,
-    "away_matches": 72,
+    "away_matches": 73,
     "neutral_matches": 67,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "taiwan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4614,
-      "rating2": 4168,
+      "rating1": 4573,
+      "rating2": 4177,
       "rating_ev": 0,
-      "rank": 152,
-      "win_prob": 91.4,
+      "rank": 160,
+      "win_prob": 89.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4614,
-      "rating2": 4039,
+      "rating1": 4573,
+      "rating2": 4080,
       "rating_ev": 0,
-      "rank": 152,
-      "win_prob": 94.7,
+      "rank": 160,
+      "win_prob": 92.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Sri Lanka",
       "flag1": "turkmenistan.png",
       "flag2": "sri_lanka.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4614,
-      "rating2": 4039,
-      "rating_ev": 0,
-      "rank": 152,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4573,
+      "rating2": 4080,
+      "rating_ev": -41,
+      "rank": 160,
       "win_prob": 88.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",
@@ -177,11 +177,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4614,
-      "rating2": 4696,
+      "rating1": 4573,
+      "rating2": 4687,
       "rating_ev": 0,
-      "rank": 152,
-      "win_prob": 31.0,
+      "rank": 160,
+      "win_prob": 28.1,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Bangladesh",
   "stats": {
-    "matches_played": 319,
+    "matches_played": 320,
     "wins": 84,
     "draws": 71,
-    "losses": 164,
-    "goals_for": 283,
-    "goals_against": 570,
-    "goal_difference": -287,
-    "win_percentage": 26.3,
+    "losses": 165,
+    "goals_for": 286,
+    "goals_against": 574,
+    "goal_difference": -288,
+    "win_percentage": 26.2,
     "avg_points": 1.01,
     "best_rank": 144,
     "worst_rank": 200,
-    "avg_rank": 178.52,
+    "avg_rank": 178.53,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Maldives",
@@ -25,11 +25,11 @@
       "date": "1979-09-16",
       "flag": "south_korea.png"
     },
-    "home_matches": 89,
+    "home_matches": 90,
     "away_matches": 89,
     "neutral_matches": 141,
     "first_match_date": "1973-07-27",
-    "last_match_date": "2025-09-06"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4183,
-      "rating2": 4530,
+      "rating1": 4188,
+      "rating2": 4523,
       "rating_ev": 0,
       "rank": 184,
-      "win_prob": 25.6,
+      "win_prob": 26.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4183,
-      "rating2": 4602,
+      "rating1": 4188,
+      "rating2": 4597,
       "rating_ev": 0,
       "rank": 184,
-      "win_prob": 9.6,
+      "win_prob": 9.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Hong Kong",
       "flag1": "bangladesh.png",
       "flag2": "hong_kong.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4183,
-      "rating2": 4602,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 4,
+      "rating1": 4188,
+      "rating2": 4597,
+      "rating_ev": 5,
       "rank": 184,
       "win_prob": 20.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-06",
@@ -158,11 +158,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4183,
-      "rating2": 4315,
+      "rating1": 4188,
+      "rating2": 4322,
       "rating_ev": 0,
       "rank": 184,
-      "win_prob": 26.5,
+      "win_prob": 26.4,
       "type": "fixture"
     },
     {

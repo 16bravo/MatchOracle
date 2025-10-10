@@ -1,18 +1,18 @@
 {
   "team": "Kenya",
   "stats": {
-    "matches_played": 724,
-    "wins": 273,
+    "matches_played": 725,
+    "wins": 274,
     "draws": 178,
     "losses": 273,
-    "goals_for": 999,
+    "goals_for": 1000,
     "goals_against": 983,
-    "goal_difference": 16,
-    "win_percentage": 37.7,
+    "goal_difference": 17,
+    "win_percentage": 37.8,
     "avg_points": 1.38,
     "best_rank": 43,
     "worst_rank": 131,
-    "avg_rank": 90.88,
+    "avg_rank": 90.89,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Zanzibar",
@@ -26,10 +26,10 @@
       "flag": "uganda_1.png"
     },
     "home_matches": 264,
-    "away_matches": 254,
+    "away_matches": 255,
     "neutral_matches": 206,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4838,
+      "rating1": 4854,
       "rating2": 5061,
       "rating_ev": 0,
-      "rank": 101,
-      "win_prob": 19.5,
+      "rank": 98,
+      "win_prob": 20.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Burundi",
       "flag1": "kenya.png",
       "flag2": "burundi.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4838,
-      "rating2": 4783,
-      "rating_ev": 0,
-      "rank": 101,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4854,
+      "rating2": 4767,
+      "rating_ev": 16,
+      "rank": 97,
       "win_prob": 45.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

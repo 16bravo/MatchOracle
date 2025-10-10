@@ -1,18 +1,18 @@
 {
   "team": "Moldova",
   "stats": {
-    "matches_played": 293,
+    "matches_played": 294,
     "wins": 59,
     "draws": 67,
-    "losses": 167,
-    "goals_for": 237,
-    "goals_against": 506,
-    "goal_difference": -269,
+    "losses": 168,
+    "goals_for": 238,
+    "goals_against": 508,
+    "goal_difference": -270,
     "win_percentage": 20.1,
     "avg_points": 0.83,
     "best_rank": 74,
     "worst_rank": 144,
-    "avg_rank": 102.35,
+    "avg_rank": 102.47,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Pakistan",
@@ -26,10 +26,10 @@
       "flag": "norway.png"
     },
     "home_matches": 110,
-    "away_matches": 142,
+    "away_matches": 143,
     "neutral_matches": 41,
     "first_match_date": "1991-07-02",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "israel.png",
       "score1": "",
       "score2": "",
-      "rating1": 4690,
+      "rating1": 4699,
       "rating2": 5162,
       "rating_ev": 0,
-      "rank": 142,
-      "win_prob": 11.6,
+      "rank": 138,
+      "win_prob": 12.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 4690,
+      "rating1": 4699,
       "rating2": 5417,
       "rating_ev": 0,
-      "rank": 142,
-      "win_prob": 7.0,
+      "rank": 138,
+      "win_prob": 7.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "estonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4690,
+      "rating1": 4699,
       "rating2": 4834,
       "rating_ev": 0,
-      "rank": 142,
-      "win_prob": 25.5,
+      "rank": 138,
+      "win_prob": 26.3,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Romania",
       "flag1": "moldova.png",
       "flag2": "romania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4690,
-      "rating2": 5150,
-      "rating_ev": 0,
-      "rank": 142,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4699,
+      "rating2": 5141,
+      "rating_ev": 9,
+      "rank": 138,
       "win_prob": 8.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

@@ -1,18 +1,18 @@
 {
   "team": "Faroe Islands",
   "stats": {
-    "matches_played": 269,
-    "wins": 40,
+    "matches_played": 270,
+    "wins": 41,
     "draws": 36,
     "losses": 193,
-    "goals_for": 182,
+    "goals_for": 186,
     "goals_against": 629,
-    "goal_difference": -447,
-    "win_percentage": 14.9,
-    "avg_points": 0.58,
+    "goal_difference": -443,
+    "win_percentage": 15.2,
+    "avg_points": 0.59,
     "best_rank": 64,
     "worst_rank": 163,
-    "avg_rank": 130.07,
+    "avg_rank": 129.93,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1985-07-10",
       "flag": "iceland.png"
     },
-    "home_matches": 114,
+    "home_matches": 115,
     "away_matches": 136,
     "neutral_matches": 19,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4838,
-      "rating2": 5472,
+      "rating1": 4893,
+      "rating2": 5464,
       "rating_ev": 0,
-      "rank": 101,
-      "win_prob": 4.3,
+      "rank": 91,
+      "win_prob": 5.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4838,
-      "rating2": 5236,
+      "rating1": 4893,
+      "rating2": 5244,
       "rating_ev": 0,
-      "rank": 101,
-      "win_prob": 21.7,
+      "rank": 91,
+      "win_prob": 25.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Montenegro",
       "flag1": "faroe.png",
       "flag2": "montenegro.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4838,
-      "rating2": 4967,
-      "rating_ev": 0,
-      "rank": 101,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4893,
+      "rating2": 4912,
+      "rating_ev": 55,
+      "rank": 91,
       "win_prob": 46.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

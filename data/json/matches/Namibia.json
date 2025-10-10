@@ -1,18 +1,18 @@
 {
   "team": "Namibia",
   "stats": {
-    "matches_played": 298,
+    "matches_played": 299,
     "wins": 77,
     "draws": 91,
-    "losses": 130,
-    "goals_for": 294,
-    "goals_against": 411,
-    "goal_difference": -117,
+    "losses": 131,
+    "goals_for": 295,
+    "goals_against": 414,
+    "goal_difference": -119,
     "win_percentage": 25.8,
     "avg_points": 1.08,
     "best_rank": 94,
     "worst_rank": 157,
-    "avg_rank": 122.93,
+    "avg_rank": 122.91,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Botswana",
@@ -26,10 +26,10 @@
       "flag": "egypt.png"
     },
     "home_matches": 102,
-    "away_matches": 114,
+    "away_matches": 115,
     "neutral_matches": 82,
     "first_match_date": "1989-05-16",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4836,
+      "rating1": 4805,
       "rating2": 5071,
       "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 18.7,
+      "rank": 118,
+      "win_prob": 16.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Liberia",
       "flag1": "namibia.png",
       "flag2": "liberia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4836,
-      "rating2": 4683,
-      "rating_ev": 0,
-      "rank": 105,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4805,
+      "rating2": 4714,
+      "rating_ev": -31,
+      "rank": 117,
       "win_prob": 55.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

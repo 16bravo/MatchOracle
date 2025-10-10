@@ -1,18 +1,18 @@
 {
   "team": "Guinea",
   "stats": {
-    "matches_played": 592,
-    "wins": 222,
+    "matches_played": 593,
+    "wins": 223,
     "draws": 172,
     "losses": 198,
-    "goals_for": 836,
-    "goals_against": 729,
-    "goal_difference": 107,
-    "win_percentage": 37.5,
+    "goals_for": 838,
+    "goals_against": 730,
+    "goal_difference": 108,
+    "win_percentage": 37.6,
     "avg_points": 1.42,
     "best_rank": 30,
     "worst_rank": 115,
-    "avg_rank": 73.06,
+    "avg_rank": 73.07,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Mauritania",
@@ -26,10 +26,10 @@
       "flag": "zaire.png"
     },
     "home_matches": 148,
-    "away_matches": 232,
+    "away_matches": 233,
     "neutral_matches": 212,
     "first_match_date": "1958-12-07",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 4979,
-      "rating2": 4795,
+      "rating1": 4990,
+      "rating2": 4779,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 69.2,
+      "rank": 74,
+      "win_prob": 71.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Mozambique",
       "flag1": "guinea.png",
       "flag2": "mozambique.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4979,
-      "rating2": 4838,
-      "rating_ev": 0,
-      "rank": 75,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4990,
+      "rating2": 4827,
+      "rating_ev": 11,
+      "rank": 74,
       "win_prob": 54.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

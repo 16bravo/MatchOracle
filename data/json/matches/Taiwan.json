@@ -1,18 +1,18 @@
 {
   "team": "Taiwan",
   "stats": {
-    "matches_played": 333,
+    "matches_played": 334,
     "wins": 95,
     "draws": 51,
-    "losses": 187,
+    "losses": 188,
     "goals_for": 459,
-    "goals_against": 773,
-    "goal_difference": -314,
-    "win_percentage": 28.5,
+    "goals_against": 775,
+    "goal_difference": -316,
+    "win_percentage": 28.4,
     "avg_points": 1.01,
     "best_rank": 49,
     "worst_rank": 202,
-    "avg_rank": 153.75,
+    "avg_rank": 153.84,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "kuwait.png"
     },
     "home_matches": 92,
-    "away_matches": 106,
+    "away_matches": 107,
     "neutral_matches": 135,
     "first_match_date": "1954-05-01",
-    "last_match_date": "2025-09-05"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4168,
-      "rating2": 4614,
+      "rating1": 4177,
+      "rating2": 4573,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 8.6,
+      "rank": 185,
+      "win_prob": 10.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4168,
-      "rating2": 4696,
+      "rating1": 4177,
+      "rating2": 4687,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 14.0,
+      "rank": 185,
+      "win_prob": 14.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Thailand",
       "flag1": "taiwan.png",
       "flag2": "thailand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4168,
-      "rating2": 4696,
-      "rating_ev": 0,
-      "rank": 186,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4177,
+      "rating2": 4687,
+      "rating_ev": 9,
+      "rank": 185,
       "win_prob": 6.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-05",
@@ -158,11 +158,11 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4168,
-      "rating2": 4039,
+      "rating1": 4177,
+      "rating2": 4080,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 73.2,
+      "rank": 185,
+      "win_prob": 70.4,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Cyprus",
   "stats": {
-    "matches_played": 422,
+    "matches_played": 423,
     "wins": 82,
-    "draws": 72,
+    "draws": 73,
     "losses": 268,
-    "goals_for": 374,
-    "goals_against": 920,
+    "goals_for": 376,
+    "goals_against": 922,
     "goal_difference": -546,
     "win_percentage": 19.4,
     "avg_points": 0.75,
     "best_rank": 57,
     "worst_rank": 140,
-    "avg_rank": 89.68,
+    "avg_rank": 89.76,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Andorra",
@@ -25,11 +25,11 @@
       "date": "1969-05-21",
       "flag": "germany.png"
     },
-    "home_matches": 233,
+    "home_matches": 234,
     "away_matches": 183,
     "neutral_matches": 6,
     "first_match_date": "1949-07-30",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "estonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4782,
+      "rating1": 4789,
       "rating2": 4834,
       "rating_ev": 0,
-      "rank": 124,
-      "win_prob": 55.2,
+      "rank": 122,
+      "win_prob": 56.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4782,
-      "rating2": 5360,
+      "rating1": 4789,
+      "rating2": 5405,
       "rating_ev": 0,
-      "rank": 124,
-      "win_prob": 11.8,
+      "rank": 122,
+      "win_prob": 10.3,
       "type": "fixture"
     },
     {
@@ -82,12 +82,31 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 4782,
-      "rating2": 4312,
+      "rating1": 4789,
+      "rating2": 4267,
       "rating_ev": 0,
-      "rank": 124,
-      "win_prob": 82.9,
+      "rank": 122,
+      "win_prob": 85.7,
       "type": "fixture"
+    },
+    {
+      "date": "2025-10-09",
+      "country": "Cyprus",
+      "tournament": "World Cup qualifier",
+      "team1": "Cyprus",
+      "team2": "Bosnia and Herzegovina",
+      "original_team1": "Cyprus",
+      "original_team2": "Bosnia and Herzegovina",
+      "flag1": "cyprus.png",
+      "flag2": "bosnia.png",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4789,
+      "rating2": 4996,
+      "rating_ev": 7,
+      "rank": 122,
+      "win_prob": 37.1,
+      "type": "past"
     },
     {
       "date": "2025-09-09",

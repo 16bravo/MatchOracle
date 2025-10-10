@@ -1,18 +1,18 @@
 {
   "team": "Hong Kong",
   "stats": {
-    "matches_played": 508,
-    "wins": 180,
+    "matches_played": 509,
+    "wins": 181,
     "draws": 98,
     "losses": 230,
-    "goals_for": 804,
-    "goals_against": 854,
-    "goal_difference": -50,
-    "win_percentage": 35.4,
+    "goals_for": 808,
+    "goals_against": 857,
+    "goal_difference": -49,
+    "win_percentage": 35.6,
     "avg_points": 1.26,
     "best_rank": 74,
     "worst_rank": 173,
-    "avg_rank": 130.03,
+    "avg_rank": 130.08,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "south_vietnam.png"
     },
     "home_matches": 178,
-    "away_matches": 150,
+    "away_matches": 151,
     "neutral_matches": 180,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4602,
-      "rating2": 4315,
+      "rating1": 4597,
+      "rating2": 4322,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 84.4,
+      "rank": 156,
+      "win_prob": 83.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4602,
-      "rating2": 4183,
+      "rating1": 4597,
+      "rating2": 4188,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 90.4,
+      "rank": 156,
+      "win_prob": 90.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Bangladesh",
       "flag1": "hong_kong.png",
       "flag2": "bangladesh.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4602,
-      "rating2": 4183,
-      "rating_ev": 0,
-      "rank": 154,
+      "score1": 4,
+      "score2": 3,
+      "rating1": 4597,
+      "rating2": 4188,
+      "rating_ev": -5,
+      "rank": 157,
       "win_prob": 79.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",
@@ -234,11 +234,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4602,
-      "rating2": 4530,
+      "rating1": 4597,
+      "rating2": 4523,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 47.0,
+      "rank": 156,
+      "win_prob": 47.2,
       "type": "fixture"
     },
     {

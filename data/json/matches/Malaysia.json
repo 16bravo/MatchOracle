@@ -1,18 +1,18 @@
 {
   "team": "Malaysia",
   "stats": {
-    "matches_played": 916,
-    "wins": 353,
+    "matches_played": 917,
+    "wins": 354,
     "draws": 208,
     "losses": 355,
-    "goals_for": 1486,
+    "goals_for": 1489,
     "goals_against": 1345,
-    "goal_difference": 141,
-    "win_percentage": 38.5,
+    "goal_difference": 144,
+    "win_percentage": 38.6,
     "avg_points": 1.38,
     "best_rank": 60,
     "worst_rank": 183,
-    "avg_rank": 120.89,
+    "avg_rank": 120.92,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Philippines",
@@ -26,10 +26,10 @@
       "flag": "uae.png"
     },
     "home_matches": 344,
-    "away_matches": 230,
+    "away_matches": 231,
     "neutral_matches": 342,
     "first_match_date": "1948-06-20",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,10 +44,10 @@
       "flag2": "nepal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4600,
-      "rating2": 4132,
+      "rating1": 4609,
+      "rating2": 4142,
       "rating_ev": 0,
-      "rank": 155,
+      "rank": 153,
       "win_prob": 82.8,
       "type": "fixture"
     },
@@ -63,11 +63,11 @@
       "flag2": "laos.png",
       "score1": "",
       "score2": "",
-      "rating1": 4600,
-      "rating2": 3935,
+      "rating1": 4609,
+      "rating2": 3926,
       "rating_ev": 0,
-      "rank": 155,
-      "win_prob": 96.2,
+      "rank": 153,
+      "win_prob": 96.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Laos",
       "flag1": "malaysia.png",
       "flag2": "laos.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4600,
-      "rating2": 3935,
-      "rating_ev": 0,
-      "rank": 155,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4609,
+      "rating2": 3926,
+      "rating_ev": 9,
+      "rank": 153,
       "win_prob": 91.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",
@@ -196,11 +196,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 4600,
-      "rating2": 4679,
+      "rating1": 4609,
+      "rating2": 4669,
       "rating_ev": 0,
-      "rank": 155,
-      "win_prob": 31.3,
+      "rank": 153,
+      "win_prob": 33.1,
       "type": "fixture"
     },
     {

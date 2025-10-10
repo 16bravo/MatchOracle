@@ -1,13 +1,13 @@
 {
   "team": "Denmark",
   "stats": {
-    "matches_played": 897,
-    "wins": 417,
+    "matches_played": 898,
+    "wins": 418,
     "draws": 184,
     "losses": 296,
-    "goals_for": 1639,
+    "goals_for": 1645,
     "goals_against": 1207,
-    "goal_difference": 432,
+    "goal_difference": 438,
     "win_percentage": 46.5,
     "avg_points": 1.6,
     "best_rank": 1,
@@ -27,9 +27,9 @@
     },
     "home_matches": 409,
     "away_matches": 393,
-    "neutral_matches": 95,
+    "neutral_matches": 96,
     "first_match_date": "1908-10-19",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5411,
-      "rating2": 5255,
+      "rating1": 5459,
+      "rating2": 5284,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 56.1,
+      "rank": 13,
+      "win_prob": 58.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "belarus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5411,
-      "rating2": 4945,
+      "rating1": 5459,
+      "rating2": 4897,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 92.0,
+      "rank": 13,
+      "win_prob": 94.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5411,
-      "rating2": 5372,
+      "rating1": 5459,
+      "rating2": 5343,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 64.8,
+      "rank": 13,
+      "win_prob": 72.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Belarus",
       "flag1": "denmark.png",
       "flag2": "belarus.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5411,
-      "rating2": 4945,
-      "rating_ev": 0,
-      "rank": 17,
+      "score1": 6,
+      "score2": 0,
+      "rating1": 5459,
+      "rating2": 4897,
+      "rating_ev": 48,
+      "rank": 13,
       "win_prob": 88.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

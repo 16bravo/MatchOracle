@@ -1,18 +1,18 @@
 {
   "team": "Romania",
   "stats": {
-    "matches_played": 787,
-    "wins": 349,
+    "matches_played": 788,
+    "wins": 350,
     "draws": 197,
     "losses": 241,
-    "goals_for": 1279,
-    "goals_against": 995,
-    "goal_difference": 284,
-    "win_percentage": 44.3,
+    "goals_for": 1281,
+    "goals_against": 996,
+    "goal_difference": 285,
+    "win_percentage": 44.4,
     "avg_points": 1.58,
     "best_rank": 6,
     "worst_rank": 64,
-    "avg_rank": 23.57,
+    "avg_rank": 23.6,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Finland",
@@ -25,11 +25,11 @@
       "date": "1948-06-06",
       "flag": "hungary_3.png"
     },
-    "home_matches": 328,
+    "home_matches": 329,
     "away_matches": 369,
     "neutral_matches": 90,
     "first_match_date": "1922-06-08",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 5150,
-      "rating2": 4312,
+      "rating1": 5141,
+      "rating2": 4267,
       "rating_ev": 0,
       "rank": 47,
-      "win_prob": 97.9,
+      "win_prob": 98.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5150,
-      "rating2": 5360,
+      "rating1": 5141,
+      "rating2": 5405,
       "rating_ev": 0,
       "rank": 47,
-      "win_prob": 38.2,
+      "win_prob": 32.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Moldova",
       "flag1": "romania.png",
       "flag2": "moldova.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5150,
-      "rating2": 4690,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5141,
+      "rating2": 4699,
+      "rating_ev": -9,
       "rank": 47,
       "win_prob": 91.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

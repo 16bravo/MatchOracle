@@ -1,18 +1,18 @@
 {
   "team": "India",
   "stats": {
-    "matches_played": 588,
+    "matches_played": 589,
     "wins": 213,
-    "draws": 123,
+    "draws": 124,
     "losses": 252,
-    "goals_for": 814,
-    "goals_against": 960,
+    "goals_for": 815,
+    "goals_against": 961,
     "goal_difference": -146,
     "win_percentage": 36.2,
     "avg_points": 1.3,
     "best_rank": 46,
     "worst_rank": 181,
-    "avg_rank": 136.14,
+    "avg_rank": 136.18,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Ceylon",
@@ -26,10 +26,10 @@
       "flag": "ussr.png"
     },
     "home_matches": 168,
-    "away_matches": 159,
+    "away_matches": 160,
     "neutral_matches": 261,
     "first_match_date": "1938-09-03",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4530,
-      "rating2": 4183,
+      "rating1": 4523,
+      "rating2": 4188,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 74.4,
+      "win_prob": 73.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4530,
-      "rating2": 4315,
+      "rating1": 4523,
+      "rating2": 4322,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 79.9,
+      "win_prob": 78.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Singapore",
       "flag1": "india.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4530,
-      "rating2": 4315,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4523,
+      "rating2": 4322,
+      "rating_ev": -7,
       "rank": 161,
       "win_prob": 62.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",
@@ -215,11 +215,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4530,
-      "rating2": 4602,
+      "rating1": 4523,
+      "rating2": 4597,
       "rating_ev": 0,
       "rank": 161,
-      "win_prob": 53.0,
+      "win_prob": 52.8,
       "type": "fixture"
     },
     {

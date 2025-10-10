@@ -1,18 +1,18 @@
 {
   "team": "Scotland",
   "stats": {
-    "matches_played": 859,
-    "wins": 407,
+    "matches_played": 860,
+    "wins": 408,
     "draws": 187,
     "losses": 265,
-    "goals_for": 1471,
-    "goals_against": 1058,
-    "goal_difference": 413,
+    "goals_for": 1474,
+    "goals_against": 1059,
+    "goal_difference": 415,
     "win_percentage": 47.4,
     "avg_points": 1.64,
     "best_rank": 1,
     "worst_rank": 62,
-    "avg_rank": 19.1,
+    "avg_rank": 19.11,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Ireland",
@@ -25,11 +25,11 @@
       "date": "1954-06-19",
       "flag": "uruguay.png"
     },
-    "home_matches": 398,
+    "home_matches": 399,
     "away_matches": 411,
     "neutral_matches": 50,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5255,
-      "rating2": 5411,
+      "rating1": 5284,
+      "rating2": 5459,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 43.9,
+      "rank": 26,
+      "win_prob": 41.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5255,
-      "rating2": 5372,
+      "rating1": 5284,
+      "rating2": 5343,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 27.8,
+      "rank": 26,
+      "win_prob": 33.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "belarus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5255,
-      "rating2": 4945,
+      "rating1": 5284,
+      "rating2": 4897,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 85.7,
+      "rank": 26,
+      "win_prob": 89.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Greece",
       "flag1": "scotland.png",
       "flag2": "greece.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5255,
-      "rating2": 5372,
-      "rating_ev": 0,
-      "rank": 29,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5284,
+      "rating2": 5343,
+      "rating_ev": 29,
+      "rank": 26,
       "win_prob": 48.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

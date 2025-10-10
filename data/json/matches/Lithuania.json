@@ -1,18 +1,18 @@
 {
   "team": "Lithuania",
   "stats": {
-    "matches_played": 410,
+    "matches_played": 411,
     "wins": 104,
     "draws": 80,
-    "losses": 226,
-    "goals_for": 404,
-    "goals_against": 747,
-    "goal_difference": -343,
-    "win_percentage": 25.4,
-    "avg_points": 0.96,
+    "losses": 227,
+    "goals_for": 405,
+    "goals_against": 749,
+    "goal_difference": -344,
+    "win_percentage": 25.3,
+    "avg_points": 0.95,
     "best_rank": 39,
     "worst_rank": 140,
-    "avg_rank": 84.55,
+    "avg_rank": 84.61,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -26,10 +26,10 @@
       "flag": "egypt_2.png"
     },
     "home_matches": 163,
-    "away_matches": 204,
+    "away_matches": 205,
     "neutral_matches": 43,
     "first_match_date": "1923-06-24",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 4823,
-      "rating2": 5515,
+      "rating1": 4828,
+      "rating2": 5529,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 3.5,
+      "rank": 106,
+      "win_prob": 3.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "israel.png",
       "score1": "",
       "score2": "",
-      "rating1": 4823,
+      "rating1": 4828,
       "rating2": 5162,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 26.2,
+      "rank": 106,
+      "win_prob": 26.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4823,
+      "rating1": 4828,
       "rating2": 5212,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 22.3,
+      "rank": 106,
+      "win_prob": 22.7,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Finland",
       "flag1": "lithuania.png",
       "flag2": "finland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4823,
-      "rating2": 5051,
-      "rating_ev": 0,
-      "rank": 112,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4828,
+      "rating2": 5046,
+      "rating_ev": 5,
+      "rank": 106,
       "win_prob": 19.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",

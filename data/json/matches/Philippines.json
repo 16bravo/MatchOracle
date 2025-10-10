@@ -1,18 +1,18 @@
 {
   "team": "Philippines",
   "stats": {
-    "matches_played": 383,
-    "wins": 93,
+    "matches_played": 384,
+    "wins": 94,
     "draws": 58,
     "losses": 232,
-    "goals_for": 403,
-    "goals_against": 989,
-    "goal_difference": -586,
-    "win_percentage": 24.3,
-    "avg_points": 0.88,
+    "goals_for": 407,
+    "goals_against": 990,
+    "goal_difference": -583,
+    "win_percentage": 24.5,
+    "avg_points": 0.89,
     "best_rank": 27,
     "worst_rank": 204,
-    "avg_rank": 164.86,
+    "avg_rank": 164.85,
     "biggest_win": {
       "score": "15-2",
       "opponent": "Japan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 102,
     "away_matches": 123,
-    "neutral_matches": 158,
+    "neutral_matches": 159,
     "first_match_date": "1913-02-04",
-    "last_match_date": "2025-06-10"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 4488,
-      "rating2": 4135,
+      "rating1": 4491,
+      "rating2": 4141,
       "rating_ev": 0,
       "rank": 162,
-      "win_prob": 74.9,
+      "win_prob": 74.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4488,
-      "rating2": 3815,
+      "rating1": 4491,
+      "rating2": 3812,
       "rating_ev": 0,
       "rank": 162,
-      "win_prob": 96.3,
+      "win_prob": 96.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "East Timor",
       "flag1": "philippines.png",
       "flag2": "timor.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4488,
-      "rating2": 3815,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 4491,
+      "rating2": 3812,
+      "rating_ev": 3,
       "rank": 162,
       "win_prob": 94.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-10",
@@ -120,11 +120,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4488,
-      "rating2": 4620,
+      "rating1": 4491,
+      "rating2": 4614,
       "rating_ev": 0,
       "rank": 162,
-      "win_prob": 26.5,
+      "win_prob": 27.3,
       "type": "fixture"
     },
     {

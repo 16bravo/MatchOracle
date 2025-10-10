@@ -1,18 +1,18 @@
 {
   "team": "Maldives",
   "stats": {
-    "matches_played": 232,
+    "matches_played": 233,
     "wins": 66,
     "draws": 40,
-    "losses": 126,
+    "losses": 127,
     "goals_for": 286,
-    "goals_against": 514,
-    "goal_difference": -228,
-    "win_percentage": 28.4,
-    "avg_points": 1.03,
+    "goals_against": 516,
+    "goal_difference": -230,
+    "win_percentage": 28.3,
+    "avg_points": 1.02,
     "best_rank": 161,
     "worst_rank": 205,
-    "avg_rank": 184.75,
+    "avg_rank": 184.78,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Mongolia",
@@ -26,10 +26,10 @@
       "flag": "iran.png"
     },
     "home_matches": 59,
-    "away_matches": 81,
+    "away_matches": 82,
     "neutral_matches": 92,
     "first_match_date": "1979-08-27",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 4135,
-      "rating2": 4488,
+      "rating1": 4141,
+      "rating2": 4491,
       "rating_ev": 0,
       "rank": 192,
-      "win_prob": 25.1,
+      "win_prob": 25.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4135,
-      "rating2": 4620,
+      "rating1": 4141,
+      "rating2": 4614,
       "rating_ev": 0,
       "rank": 192,
-      "win_prob": 16.2,
+      "win_prob": 16.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Tajikistan",
       "flag1": "maldives.png",
       "flag2": "tajikistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4135,
-      "rating2": 4620,
-      "rating_ev": 0,
-      "rank": 192,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4141,
+      "rating2": 4614,
+      "rating_ev": 6,
+      "rank": 191,
       "win_prob": 7.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",
@@ -196,11 +196,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4135,
-      "rating2": 3815,
+      "rating1": 4141,
+      "rating2": 3812,
       "rating_ev": 0,
       "rank": 192,
-      "win_prob": 86.2,
+      "win_prob": 86.6,
       "type": "fixture"
     },
     {
