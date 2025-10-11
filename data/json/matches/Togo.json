@@ -1,18 +1,18 @@
 {
   "team": "Togo",
   "stats": {
-    "matches_played": 482,
+    "matches_played": 483,
     "wins": 150,
     "draws": 125,
-    "losses": 207,
+    "losses": 208,
     "goals_for": 521,
-    "goals_against": 665,
-    "goal_difference": -144,
+    "goals_against": 666,
+    "goal_difference": -145,
     "win_percentage": 31.1,
     "avg_points": 1.19,
     "best_rank": 49,
     "worst_rank": 130,
-    "avg_rank": 90.52,
+    "avg_rank": 90.58,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Swaziland",
@@ -25,11 +25,11 @@
       "date": "1979-06-24",
       "flag": "morocco.png"
     },
-    "home_matches": 171,
+    "home_matches": 172,
     "away_matches": 192,
     "neutral_matches": 119,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "south_sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
-      "rating2": 4612,
+      "rating1": 4818,
+      "rating2": 4576,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 62.1,
+      "rank": 117,
+      "win_prob": 65.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "DR Congo",
       "flag1": "togo.png",
       "flag2": "dr_congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4825,
-      "rating2": 5043,
-      "rating_ev": 0,
-      "rank": 110,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4818,
+      "rating2": 5050,
+      "rating_ev": -7,
+      "rank": 117,
       "win_prob": 37.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

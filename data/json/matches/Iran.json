@@ -1,18 +1,18 @@
 {
   "team": "Iran",
   "stats": {
-    "matches_played": 671,
+    "matches_played": 672,
     "wins": 383,
     "draws": 156,
-    "losses": 132,
-    "goals_for": 1276,
-    "goals_against": 526,
-    "goal_difference": 750,
-    "win_percentage": 57.1,
+    "losses": 133,
+    "goals_for": 1277,
+    "goals_against": 528,
+    "goal_difference": 749,
+    "win_percentage": 57.0,
     "avg_points": 1.94,
     "best_rank": 12,
     "worst_rank": 104,
-    "avg_rank": 42.39,
+    "avg_rank": 42.4,
     "biggest_win": {
       "score": "19-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "turkey.png"
     },
     "home_matches": 225,
-    "away_matches": 193,
+    "away_matches": 194,
     "neutral_matches": 253,
     "first_match_date": "1941-08-23",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5131,
+      "rating1": 5134,
       "rating2": 4826,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 79.1,
+      "rank": 49,
+      "win_prob": 79.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Russia",
       "flag1": "iran.png",
       "flag2": "russia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5131,
-      "rating2": 5369,
-      "rating_ev": 0,
-      "rank": 48,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5134,
+      "rating2": 5366,
+      "rating_ev": 3,
+      "rank": 49,
       "win_prob": 18.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

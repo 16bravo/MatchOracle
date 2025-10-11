@@ -1,18 +1,18 @@
 {
   "team": "Bermuda",
   "stats": {
-    "matches_played": 224,
+    "matches_played": 225,
     "wins": 73,
     "draws": 44,
-    "losses": 107,
+    "losses": 108,
     "goals_for": 350,
-    "goals_against": 393,
-    "goal_difference": -43,
-    "win_percentage": 32.6,
+    "goals_against": 396,
+    "goal_difference": -46,
+    "win_percentage": 32.4,
     "avg_points": 1.17,
     "best_rank": 103,
     "worst_rank": 172,
-    "avg_rank": 138.07,
+    "avg_rank": 138.21,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Montserrat",
@@ -25,11 +25,11 @@
       "date": "1969-07-01",
       "flag": "denmark.png"
     },
-    "home_matches": 101,
+    "home_matches": 102,
     "away_matches": 78,
     "neutral_matches": 45,
     "first_match_date": "1964-08-10",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4429,
-      "rating2": 4772,
+      "rating1": 4403,
+      "rating2": 4798,
       "rating_ev": 0,
-      "rank": 169,
-      "win_prob": 12.7,
+      "rank": 170,
+      "win_prob": 10.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4429,
-      "rating2": 4799,
+      "rating1": 4403,
+      "rating2": 4830,
       "rating_ev": 0,
-      "rank": 169,
-      "win_prob": 23.8,
+      "rank": 170,
+      "win_prob": 19.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4429,
-      "rating2": 4950,
+      "rating1": 4403,
+      "rating2": 4919,
       "rating_ev": 0,
-      "rank": 169,
-      "win_prob": 6.5,
+      "rank": 170,
+      "win_prob": 6.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Trinidad and Tobago",
       "flag1": "bermuda.png",
       "flag2": "trinidad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4429,
-      "rating2": 4772,
-      "rating_ev": 0,
-      "rank": 169,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4403,
+      "rating2": 4798,
+      "rating_ev": -26,
+      "rank": 170,
       "win_prob": 25.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

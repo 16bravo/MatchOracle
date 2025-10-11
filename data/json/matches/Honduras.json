@@ -1,18 +1,18 @@
 {
   "team": "Honduras",
   "stats": {
-    "matches_played": 662,
+    "matches_played": 663,
     "wins": 262,
-    "draws": 171,
+    "draws": 172,
     "losses": 229,
     "goals_for": 959,
     "goals_against": 852,
     "goal_difference": 107,
-    "win_percentage": 39.6,
-    "avg_points": 1.45,
+    "win_percentage": 39.5,
+    "avg_points": 1.44,
     "best_rank": 24,
     "worst_rank": 109,
-    "avg_rank": 62.8,
+    "avg_rank": 62.83,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Nicaragua",
@@ -25,11 +25,11 @@
       "date": "1921-09-14",
       "flag": "guatemala.png"
     },
-    "home_matches": 210,
+    "home_matches": 211,
     "away_matches": 215,
     "neutral_matches": 237,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4931,
-      "rating2": 5118,
+      "rating1": 4936,
+      "rating2": 5113,
       "rating_ev": 0,
-      "rank": 81,
-      "win_prob": 22.1,
+      "rank": 80,
+      "win_prob": 22.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "nicaragua.png",
       "score1": "",
       "score2": "",
-      "rating1": 4931,
-      "rating2": 4730,
+      "rating1": 4936,
+      "rating2": 4697,
       "rating_ev": 0,
-      "rank": 81,
-      "win_prob": 60.9,
+      "rank": 80,
+      "win_prob": 64.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 4931,
-      "rating2": 4952,
+      "rating1": 4936,
+      "rating2": 4985,
       "rating_ev": 0,
-      "rank": 81,
-      "win_prob": 58.6,
+      "rank": 80,
+      "win_prob": 55.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Costa Rica",
       "flag1": "honduras.png",
       "flag2": "costa_rica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4931,
-      "rating2": 5118,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4936,
+      "rating2": 5113,
+      "rating_ev": 5,
       "rank": 81,
       "win_prob": 40.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

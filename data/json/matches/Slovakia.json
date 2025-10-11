@@ -1,18 +1,18 @@
 {
   "team": "Slovakia",
   "stats": {
-    "matches_played": 365,
+    "matches_played": 366,
     "wins": 148,
     "draws": 86,
-    "losses": 131,
+    "losses": 132,
     "goals_for": 516,
-    "goals_against": 455,
-    "goal_difference": 61,
-    "win_percentage": 40.5,
+    "goals_against": 457,
+    "goal_difference": 59,
+    "win_percentage": 40.4,
     "avg_points": 1.45,
     "best_rank": 17,
     "worst_rank": 65,
-    "avg_rank": 39.65,
+    "avg_rank": 39.66,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Liechtenstein",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 152,
-    "away_matches": 169,
+    "away_matches": 170,
     "neutral_matches": 44,
     "first_match_date": "1939-08-27",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5215,
-      "rating2": 5472,
+      "rating1": 5186,
+      "rating2": 5486,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 17.3,
+      "rank": 43,
+      "win_prob": 14.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "northern_ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5215,
-      "rating2": 5102,
+      "rating1": 5186,
+      "rating2": 5131,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 71.8,
+      "rank": 43,
+      "win_prob": 66.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 5215,
-      "rating2": 4894,
+      "rating1": 5186,
+      "rating2": 4880,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 86.2,
+      "rank": 43,
+      "win_prob": 85.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Northern Ireland",
       "flag1": "slovakia.png",
       "flag2": "northern_ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5215,
-      "rating2": 5102,
-      "rating_ev": 0,
-      "rank": 34,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5186,
+      "rating2": 5131,
+      "rating_ev": -29,
+      "rank": 44,
       "win_prob": 51.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",

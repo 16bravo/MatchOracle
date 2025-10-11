@@ -1,18 +1,18 @@
 {
   "team": "Sudan",
   "stats": {
-    "matches_played": 531,
+    "matches_played": 532,
     "wins": 182,
-    "draws": 134,
+    "draws": 135,
     "losses": 215,
     "goals_for": 616,
     "goals_against": 697,
     "goal_difference": -81,
-    "win_percentage": 34.3,
+    "win_percentage": 34.2,
     "avg_points": 1.28,
     "best_rank": 36,
     "worst_rank": 138,
-    "avg_rank": 95.03,
+    "avg_rank": 95.04,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Oman",
@@ -27,9 +27,9 @@
     },
     "home_matches": 151,
     "away_matches": 198,
-    "neutral_matches": 182,
+    "neutral_matches": 183,
     "first_match_date": "1956-05-13",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4841,
+      "rating1": 4840,
       "rating2": 5030,
       "rating_ev": 0,
       "rank": 102,
-      "win_prob": 30.4,
+      "win_prob": 30.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4841,
+      "rating1": 4840,
       "rating2": 4869,
       "rating_ev": 0,
       "rank": 102,
-      "win_prob": 46.9,
+      "win_prob": 46.8,
       "type": "fixture"
     },
     {
@@ -82,7 +82,7 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4841,
+      "rating1": 4840,
       "rating2": 5196,
       "rating_ev": 0,
       "rank": 102,
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2025-11-10",
+      "date": "2025-11-11",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Sudan",
@@ -101,11 +101,11 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4841,
+      "rating1": 4840,
       "rating2": 4693,
       "rating_ev": 0,
       "rank": 102,
-      "win_prob": 65.7,
+      "win_prob": 65.6,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 4841,
-      "rating2": 5043,
+      "rating1": 4840,
+      "rating2": 5050,
       "rating_ev": 0,
       "rank": 102,
-      "win_prob": 21.0,
+      "win_prob": 20.4,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Mauritania",
       "flag1": "sudan.png",
       "flag2": "mauritania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4841,
-      "rating2": 4820,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4840,
+      "rating2": 4821,
+      "rating_ev": -1,
       "rank": 102,
       "win_prob": 52.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

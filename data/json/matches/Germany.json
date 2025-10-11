@@ -1,13 +1,13 @@
 {
   "team": "Germany",
   "stats": {
-    "matches_played": 1034,
-    "wins": 593,
+    "matches_played": 1035,
+    "wins": 594,
     "draws": 217,
     "losses": 224,
-    "goals_for": 2312,
+    "goals_for": 2316,
     "goals_against": 1222,
-    "goal_difference": 1090,
+    "goal_difference": 1094,
     "win_percentage": 57.4,
     "avg_points": 1.93,
     "best_rank": 1,
@@ -25,11 +25,11 @@
       "date": "1909-03-13",
       "flag": "england.png"
     },
-    "home_matches": 307,
+    "home_matches": 308,
     "away_matches": 410,
     "neutral_matches": 317,
     "first_match_date": "1908-04-05",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
-      "rating2": 5215,
+      "rating1": 5486,
+      "rating2": 5186,
       "rating_ev": 0,
-      "rank": 10,
-      "win_prob": 82.7,
+      "rank": 9,
+      "win_prob": 85.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
-      "rating2": 4894,
+      "rating1": 5486,
+      "rating2": 4880,
       "rating_ev": 0,
-      "rank": 10,
-      "win_prob": 88.2,
+      "rank": 9,
+      "win_prob": 89.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "northern_ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
-      "rating2": 5102,
+      "rating1": 5486,
+      "rating2": 5131,
       "rating_ev": 0,
-      "rank": 10,
-      "win_prob": 76.2,
+      "rank": 9,
+      "win_prob": 75.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Luxembourg",
       "flag1": "germany.png",
       "flag2": "luxembourg.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5472,
-      "rating2": 4894,
-      "rating_ev": 0,
-      "rank": 10,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5486,
+      "rating2": 4880,
+      "rating_ev": 14,
+      "rank": 8,
       "win_prob": 94.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",

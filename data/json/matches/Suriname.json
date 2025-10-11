@@ -1,18 +1,18 @@
 {
   "team": "Suriname",
   "stats": {
-    "matches_played": 525,
+    "matches_played": 526,
     "wins": 229,
-    "draws": 123,
+    "draws": 124,
     "losses": 173,
-    "goals_for": 948,
-    "goals_against": 715,
+    "goals_for": 949,
+    "goals_against": 716,
     "goal_difference": 233,
-    "win_percentage": 43.6,
+    "win_percentage": 43.5,
     "avg_points": 1.54,
     "best_rank": 28,
     "worst_rank": 168,
-    "avg_rank": 98.73,
+    "avg_rank": 98.75,
     "biggest_win": {
       "score": "9-0",
       "opponent": "French Guiana",
@@ -25,11 +25,11 @@
       "date": "1946-06-05",
       "flag": "netherlands.png"
     },
-    "home_matches": 217,
+    "home_matches": 218,
     "away_matches": 220,
     "neutral_matches": 88,
     "first_match_date": "1915-08-17",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "guatemala.png",
       "score1": "",
       "score2": "",
-      "rating1": 4827,
-      "rating2": 4913,
+      "rating1": 4826,
+      "rating2": 4914,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 30.6,
+      "rank": 110,
+      "win_prob": 30.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 4827,
+      "rating1": 4826,
       "rating2": 4694,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 73.6,
+      "rank": 110,
+      "win_prob": 73.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 4827,
+      "rating1": 4826,
       "rating2": 5110,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 15.8,
+      "rank": 110,
+      "win_prob": 15.7,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Guatemala",
       "flag1": "suriname.png",
       "flag2": "guatemala.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4827,
-      "rating2": 4913,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4826,
+      "rating2": 4914,
+      "rating_ev": -1,
+      "rank": 109,
       "win_prob": 51.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

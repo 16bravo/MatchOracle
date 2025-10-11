@@ -1,18 +1,18 @@
 {
   "team": "Kosovo",
   "stats": {
-    "matches_played": 99,
+    "matches_played": 100,
     "wins": 38,
-    "draws": 21,
+    "draws": 22,
     "losses": 40,
     "goals_for": 137,
     "goals_against": 138,
     "goal_difference": -1,
-    "win_percentage": 38.4,
+    "win_percentage": 38.0,
     "avg_points": 1.36,
     "best_rank": 50,
     "worst_rank": 104,
-    "avg_rank": 72.92,
+    "avg_rank": 72.7,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Malta",
@@ -25,11 +25,11 @@
       "date": "2016-10-06",
       "flag": "croatia.png"
     },
-    "home_matches": 45,
+    "home_matches": 46,
     "away_matches": 35,
     "neutral_matches": 19,
     "first_match_date": "1993-02-14",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5126,
-      "rating2": 5408,
+      "rating1": 5125,
+      "rating2": 5435,
       "rating_ev": 0,
-      "rank": 50,
-      "win_prob": 31.2,
+      "rank": 52,
+      "win_prob": 28.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5126,
-      "rating2": 5203,
+      "rating1": 5125,
+      "rating2": 5204,
       "rating_ev": 0,
-      "rank": 50,
-      "win_prob": 31.5,
+      "rank": 52,
+      "win_prob": 31.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5126,
-      "rating2": 5301,
+      "rating1": 5125,
+      "rating2": 5274,
       "rating_ev": 0,
-      "rank": 50,
-      "win_prob": 23.0,
+      "rank": 52,
+      "win_prob": 25.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Slovenia",
       "flag1": "kosovo.png",
       "flag2": "slovenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5126,
-      "rating2": 5203,
-      "rating_ev": 0,
-      "rank": 50,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5125,
+      "rating2": 5204,
+      "rating_ev": -1,
+      "rank": 51,
       "win_prob": 52.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

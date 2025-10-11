@@ -1,18 +1,18 @@
 {
   "team": "Senegal",
   "stats": {
-    "matches_played": 674,
-    "wins": 303,
+    "matches_played": 675,
+    "wins": 304,
     "draws": 189,
     "losses": 182,
-    "goals_for": 916,
+    "goals_for": 921,
     "goals_against": 638,
-    "goal_difference": 278,
+    "goal_difference": 283,
     "win_percentage": 45.0,
     "avg_points": 1.63,
     "best_rank": 32,
     "worst_rank": 97,
-    "avg_rank": 58.99,
+    "avg_rank": 58.95,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Mauritania",
@@ -26,10 +26,10 @@
       "flag": "guinea.png"
     },
     "home_matches": 214,
-    "away_matches": 233,
+    "away_matches": 234,
     "neutral_matches": 227,
     "first_match_date": "1959-12-31",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
-      "rating2": 4947,
+      "rating1": 5240,
+      "rating2": 4960,
       "rating_ev": 0,
-      "rank": 38,
-      "win_prob": 75.5,
+      "rank": 34,
+      "win_prob": 77.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
-      "rating2": 5043,
+      "rating1": 5240,
+      "rating2": 5050,
       "rating_ev": 0,
-      "rank": 38,
-      "win_prob": 67.0,
+      "rank": 34,
+      "win_prob": 69.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
+      "rating1": 5240,
       "rating2": 4779,
       "rating_ev": 0,
-      "rank": 38,
-      "win_prob": 86.2,
+      "rank": 34,
+      "win_prob": 87.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
-      "rating2": 5482,
+      "rating1": 5240,
+      "rating2": 5509,
       "rating_ev": 0,
-      "rank": 38,
-      "win_prob": 22.9,
+      "rank": 34,
+      "win_prob": 23.6,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "mauritania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
-      "rating2": 4820,
+      "rating1": 5240,
+      "rating2": 4821,
       "rating_ev": 0,
-      "rank": 38,
-      "win_prob": 89.1,
+      "rank": 34,
+      "win_prob": 90.4,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "South Sudan",
       "flag1": "senegal.png",
       "flag2": "south_sudan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5204,
-      "rating2": 4612,
-      "rating_ev": 0,
-      "rank": 38,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 5240,
+      "rating2": 4576,
+      "rating_ev": 36,
+      "rank": 34,
       "win_prob": 88.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

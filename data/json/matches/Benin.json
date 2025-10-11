@@ -1,18 +1,18 @@
 {
   "team": "Benin",
   "stats": {
-    "matches_played": 338,
-    "wins": 84,
+    "matches_played": 339,
+    "wins": 85,
     "draws": 83,
     "losses": 171,
-    "goals_for": 356,
+    "goals_for": 357,
     "goals_against": 590,
-    "goal_difference": -234,
-    "win_percentage": 24.9,
-    "avg_points": 0.99,
+    "goal_difference": -233,
+    "win_percentage": 25.1,
+    "avg_points": 1.0,
     "best_rank": 64,
     "worst_rank": 156,
-    "avg_rank": 106.65,
+    "avg_rank": 106.57,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Mauritania",
@@ -26,10 +26,10 @@
       "flag": "nigeria_1.png"
     },
     "home_matches": 104,
-    "away_matches": 138,
+    "away_matches": 139,
     "neutral_matches": 96,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4947,
-      "rating2": 5204,
+      "rating1": 4960,
+      "rating2": 5240,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 24.5,
+      "rank": 79,
+      "win_prob": 22.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 4947,
+      "rating1": 4960,
       "rating2": 4779,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 67.6,
+      "rank": 79,
+      "win_prob": 68.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 4947,
-      "rating2": 5043,
+      "rating1": 4960,
+      "rating2": 5050,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 39.6,
+      "rank": 79,
+      "win_prob": 40.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4947,
-      "rating2": 5042,
+      "rating1": 4960,
+      "rating2": 5029,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 29.8,
+      "rank": 79,
+      "win_prob": 32.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Rwanda",
       "flag1": "benin.png",
       "flag2": "rwanda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4947,
-      "rating2": 4838,
-      "rating_ev": 0,
-      "rank": 80,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4960,
+      "rating2": 4825,
+      "rating_ev": 13,
+      "rank": 79,
       "win_prob": 51.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

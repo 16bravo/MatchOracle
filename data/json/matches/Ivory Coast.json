@@ -1,18 +1,18 @@
 {
   "team": "Ivory Coast",
   "stats": {
-    "matches_played": 661,
-    "wins": 334,
+    "matches_played": 662,
+    "wins": 335,
     "draws": 169,
     "losses": 158,
-    "goals_for": 1065,
+    "goals_for": 1072,
     "goals_against": 657,
-    "goal_difference": 408,
-    "win_percentage": 50.5,
+    "goal_difference": 415,
+    "win_percentage": 50.6,
     "avg_points": 1.77,
     "best_rank": 11,
     "worst_rank": 80,
-    "avg_rank": 46.79,
+    "avg_rank": 46.8,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Central African Republic",
@@ -27,9 +27,9 @@
     },
     "home_matches": 229,
     "away_matches": 223,
-    "neutral_matches": 209,
+    "neutral_matches": 210,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5061,
-      "rating2": 4914,
+      "rating1": 5097,
+      "rating2": 4929,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 65.6,
+      "rank": 59,
+      "win_prob": 67.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5061,
+      "rating1": 5097,
       "rating2": 5060,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 50.1,
+      "rank": 59,
+      "win_prob": 54.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 5061,
+      "rating1": 5097,
       "rating2": 4827,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 73.6,
+      "rank": 59,
+      "win_prob": 76.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "kenya.png",
       "score1": "",
       "score2": "",
-      "rating1": 5061,
+      "rating1": 5097,
       "rating2": 4854,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 79.3,
+      "rank": 59,
+      "win_prob": 81.8,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Seychelles",
       "flag1": "ivory_coast.png",
       "flag2": "seychelles.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5061,
-      "rating2": 4164,
-      "rating_ev": 0,
-      "rank": 64,
+      "score1": 7,
+      "score2": 0,
+      "rating1": 5097,
+      "rating2": 4128,
+      "rating_ev": 36,
+      "rank": 58,
       "win_prob": 97.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

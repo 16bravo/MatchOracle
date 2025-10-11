@@ -1,18 +1,18 @@
 {
   "team": "Nicaragua",
   "stats": {
-    "matches_played": 246,
+    "matches_played": 247,
     "wins": 53,
     "draws": 31,
-    "losses": 162,
+    "losses": 163,
     "goals_for": 254,
-    "goals_against": 605,
-    "goal_difference": -351,
+    "goals_against": 608,
+    "goal_difference": -354,
     "win_percentage": 21.5,
     "avg_points": 0.77,
     "best_rank": 67,
     "worst_rank": 187,
-    "avg_rank": 147.04,
+    "avg_rank": 147.01,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Turks and Caicos Islands",
@@ -25,11 +25,11 @@
       "date": "1946-03-13",
       "flag": "honduras.png"
     },
-    "home_matches": 61,
+    "home_matches": 62,
     "away_matches": 96,
     "neutral_matches": 89,
     "first_match_date": "1929-05-01",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 4730,
-      "rating2": 4952,
+      "rating1": 4697,
+      "rating2": 4985,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 27.4,
+      "rank": 138,
+      "win_prob": 22.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "honduras.png",
       "score1": "",
       "score2": "",
-      "rating1": 4730,
-      "rating2": 4931,
+      "rating1": 4697,
+      "rating2": 4936,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 39.1,
+      "rank": 138,
+      "win_prob": 35.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4730,
-      "rating2": 5118,
+      "rating1": 4697,
+      "rating2": 5113,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 10.7,
+      "rank": 138,
+      "win_prob": 9.7,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Haiti",
       "flag1": "nicaragua.png",
       "flag2": "haiti.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4730,
-      "rating2": 4952,
-      "rating_ev": 0,
-      "rank": 134,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4697,
+      "rating2": 4985,
+      "rating_ev": -33,
+      "rank": 138,
       "win_prob": 37.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

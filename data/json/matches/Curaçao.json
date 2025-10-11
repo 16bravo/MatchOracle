@@ -1,15 +1,15 @@
 {
   "team": "Cura\u00e7ao",
   "stats": {
-    "matches_played": 478,
-    "wins": 194,
+    "matches_played": 479,
+    "wins": 195,
     "draws": 118,
     "losses": 166,
-    "goals_for": 844,
+    "goals_for": 846,
     "goals_against": 735,
-    "goal_difference": 109,
-    "win_percentage": 40.6,
-    "avg_points": 1.46,
+    "goal_difference": 111,
+    "win_percentage": 40.7,
+    "avg_points": 1.47,
     "best_rank": 37,
     "worst_rank": 182,
     "avg_rank": 105.86,
@@ -25,11 +25,11 @@
       "date": "1962-09-05",
       "flag": "netherlands.png"
     },
-    "home_matches": 109,
+    "home_matches": 110,
     "away_matches": 167,
     "neutral_matches": 202,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4799,
-      "rating2": 4950,
+      "rating1": 4830,
+      "rating2": 4919,
       "rating_ev": 0,
-      "rank": 119,
-      "win_prob": 24.9,
+      "rank": 107,
+      "win_prob": 30.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "bermuda.png",
       "score1": "",
       "score2": "",
-      "rating1": 4799,
-      "rating2": 4429,
+      "rating1": 4830,
+      "rating2": 4403,
       "rating_ev": 0,
-      "rank": 119,
-      "win_prob": 76.2,
+      "rank": 107,
+      "win_prob": 80.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4799,
-      "rating2": 4772,
+      "rating1": 4830,
+      "rating2": 4798,
       "rating_ev": 0,
-      "rank": 119,
-      "win_prob": 63.6,
+      "rank": 107,
+      "win_prob": 64.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Jamaica",
       "flag1": "curacao.png",
       "flag2": "jamaica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4799,
-      "rating2": 4950,
-      "rating_ev": 0,
-      "rank": 119,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4830,
+      "rating2": 4919,
+      "rating_ev": 31,
+      "rank": 107,
       "win_prob": 44.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

@@ -1,18 +1,18 @@
 {
   "team": "Belgium",
   "stats": {
-    "matches_played": 870,
+    "matches_played": 871,
     "wins": 387,
-    "draws": 181,
+    "draws": 182,
     "losses": 302,
     "goals_for": 1581,
     "goals_against": 1353,
     "goal_difference": 228,
-    "win_percentage": 44.5,
+    "win_percentage": 44.4,
     "avg_points": 1.54,
     "best_rank": 1,
     "worst_rank": 73,
-    "avg_rank": 20.17,
+    "avg_rank": 20.16,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Zambia",
@@ -25,11 +25,11 @@
       "date": "1909-04-19",
       "flag": "england.png"
     },
-    "home_matches": 413,
+    "home_matches": 414,
     "away_matches": 372,
     "neutral_matches": 85,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,10 +44,10 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
-      "rating2": 4346,
+      "rating1": 5434,
+      "rating2": 4326,
       "rating_ev": 0,
-      "rank": 12,
+      "rank": 14,
       "win_prob": 99.1,
       "type": "fixture"
     },
@@ -63,11 +63,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
-      "rating2": 4812,
+      "rating1": 5434,
+      "rating2": 4832,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 90.8,
+      "rank": 14,
+      "win_prob": 89.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
+      "rating1": 5434,
       "rating2": 5202,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 66.6,
+      "rank": 14,
+      "win_prob": 64.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "North Macedonia",
       "flag1": "belgium.png",
       "flag2": "macedonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5460,
-      "rating2": 5118,
-      "rating_ev": 0,
-      "rank": 12,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5434,
+      "rating2": 5144,
+      "rating_ev": -26,
+      "rank": 14,
       "win_prob": 87.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",

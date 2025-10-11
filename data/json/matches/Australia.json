@@ -1,18 +1,18 @@
 {
   "team": "Australia",
   "stats": {
-    "matches_played": 623,
-    "wins": 323,
+    "matches_played": 624,
+    "wins": 324,
     "draws": 130,
     "losses": 170,
-    "goals_for": 1271,
+    "goals_for": 1272,
     "goals_against": 682,
-    "goal_difference": 589,
-    "win_percentage": 51.8,
-    "avg_points": 1.76,
+    "goal_difference": 590,
+    "win_percentage": 51.9,
+    "avg_points": 1.77,
     "best_rank": 15,
     "worst_rank": 73,
-    "avg_rank": 37.87,
+    "avg_rank": 37.86,
     "biggest_win": {
       "score": "31-0",
       "opponent": "Eastern Samoa",
@@ -26,10 +26,10 @@
       "flag": "ussr.png"
     },
     "home_matches": 261,
-    "away_matches": 222,
+    "away_matches": 223,
     "neutral_matches": 140,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5251,
+      "rating1": 5261,
       "rating2": 5605,
       "rating_ev": 0,
       "rank": 31,
-      "win_prob": 17.7,
+      "win_prob": 18.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5251,
+      "rating1": 5261,
       "rating2": 5193,
       "rating_ev": 0,
       "rank": 31,
-      "win_prob": 45.4,
+      "win_prob": 46.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Canada",
       "flag1": "australia.png",
       "flag2": "canada.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5251,
-      "rating2": 5273,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5261,
+      "rating2": 5263,
+      "rating_ev": 10,
       "rank": 31,
       "win_prob": 36.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

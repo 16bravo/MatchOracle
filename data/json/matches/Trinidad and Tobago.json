@@ -1,18 +1,18 @@
 {
   "team": "Trinidad and Tobago",
   "stats": {
-    "matches_played": 860,
-    "wins": 374,
+    "matches_played": 861,
+    "wins": 375,
     "draws": 188,
     "losses": 298,
-    "goals_for": 1440,
+    "goals_for": 1443,
     "goals_against": 1093,
-    "goal_difference": 347,
-    "win_percentage": 43.5,
+    "goal_difference": 350,
+    "win_percentage": 43.6,
     "avg_points": 1.52,
     "best_rank": 14,
     "worst_rank": 142,
-    "avg_rank": 87.27,
+    "avg_rank": 87.31,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 342,
-    "away_matches": 358,
+    "away_matches": 359,
     "neutral_matches": 160,
     "first_match_date": "1905-07-21",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bermuda.png",
       "score1": "",
       "score2": "",
-      "rating1": 4772,
-      "rating2": 4429,
+      "rating1": 4798,
+      "rating2": 4403,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 87.3,
+      "rank": 120,
+      "win_prob": 89.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4772,
-      "rating2": 4950,
+      "rating1": 4798,
+      "rating2": 4919,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 41.5,
+      "rank": 120,
+      "win_prob": 47.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4772,
-      "rating2": 4799,
+      "rating1": 4798,
+      "rating2": 4830,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 36.4,
+      "rank": 120,
+      "win_prob": 35.9,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Bermuda",
       "flag1": "trinidad.png",
       "flag2": "bermuda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4772,
-      "rating2": 4429,
-      "rating_ev": 0,
-      "rank": 126,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4798,
+      "rating2": 4403,
+      "rating_ev": 26,
+      "rank": 120,
       "win_prob": 74.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

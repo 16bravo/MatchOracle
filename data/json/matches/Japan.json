@@ -1,18 +1,18 @@
 {
   "team": "Japan",
   "stats": {
-    "matches_played": 823,
+    "matches_played": 824,
     "wins": 402,
-    "draws": 167,
+    "draws": 168,
     "losses": 254,
-    "goals_for": 1492,
-    "goals_against": 969,
+    "goals_for": 1494,
+    "goals_against": 971,
     "goal_difference": 523,
     "win_percentage": 48.8,
     "avg_points": 1.67,
     "best_rank": 10,
     "worst_rank": 122,
-    "avg_rank": 51.02,
+    "avg_rank": 50.98,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Philippines",
@@ -25,11 +25,11 @@
       "date": "1917-05-10",
       "flag": "usa_1912.png"
     },
-    "home_matches": 326,
+    "home_matches": 327,
     "away_matches": 199,
     "neutral_matches": 298,
     "first_match_date": "1917-05-09",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bolivia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5413,
-      "rating2": 5101,
+      "rating1": 5408,
+      "rating2": 5107,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 85.8,
+      "rank": 18,
+      "win_prob": 85.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5413,
-      "rating2": 5482,
+      "rating1": 5408,
+      "rating2": 5509,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 53.4,
+      "rank": 18,
+      "win_prob": 49.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Paraguay",
       "flag1": "japan.png",
       "flag2": "paraguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5413,
-      "rating2": 5334,
-      "rating_ev": 0,
-      "rank": 17,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5408,
+      "rating2": 5339,
+      "rating_ev": -5,
+      "rank": 18,
       "win_prob": 68.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

@@ -1,9 +1,9 @@
 {
   "team": "Zimbabwe",
   "stats": {
-    "matches_played": 515,
+    "matches_played": 516,
     "wins": 198,
-    "draws": 149,
+    "draws": 150,
     "losses": 168,
     "goals_for": 689,
     "goals_against": 599,
@@ -12,7 +12,7 @@
     "avg_points": 1.44,
     "best_rank": 43,
     "worst_rank": 130,
-    "avg_rank": 84.97,
+    "avg_rank": 85.01,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Botswana",
@@ -26,10 +26,10 @@
       "flag": "south_africa_2.png"
     },
     "home_matches": 165,
-    "away_matches": 202,
+    "away_matches": 203,
     "neutral_matches": 148,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
-      "rating2": 4982,
+      "rating1": 4832,
+      "rating2": 4967,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 32.6,
+      "rank": 105,
+      "win_prob": 35.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
+      "rating1": 4832,
       "rating2": 5021,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 29.0,
+      "rank": 105,
+      "win_prob": 30.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
+      "rating1": 4832,
       "rating2": 5113,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 21.6,
+      "rank": 105,
+      "win_prob": 22.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "lesotho.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
-      "rating2": 4586,
+      "rating1": 4832,
+      "rating2": 4599,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 73.3,
+      "rank": 105,
+      "win_prob": 73.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "South Africa",
       "flag1": "zimbabwe.png",
       "flag2": "south_africa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4817,
-      "rating2": 4982,
-      "rating_ev": 0,
-      "rank": 116,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4832,
+      "rating2": 4967,
+      "rating_ev": 15,
+      "rank": 105,
       "win_prob": 23.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

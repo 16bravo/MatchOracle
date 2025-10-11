@@ -1,18 +1,18 @@
 {
   "team": "Seychelles",
   "stats": {
-    "matches_played": 180,
+    "matches_played": 181,
     "wins": 23,
     "draws": 32,
-    "losses": 125,
+    "losses": 126,
     "goals_for": 135,
-    "goals_against": 398,
-    "goal_difference": -263,
-    "win_percentage": 12.8,
+    "goals_against": 405,
+    "goal_difference": -270,
+    "win_percentage": 12.7,
     "avg_points": 0.56,
     "best_rank": 132,
-    "worst_rank": 190,
-    "avg_rank": 168.23,
+    "worst_rank": 192,
+    "avg_rank": 168.36,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Maldives",
@@ -27,9 +27,9 @@
     },
     "home_matches": 48,
     "away_matches": 58,
-    "neutral_matches": 74,
+    "neutral_matches": 75,
     "first_match_date": "1974-03-13",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4164,
-      "rating2": 4928,
+      "rating1": 4128,
+      "rating2": 4913,
       "rating_ev": 0,
-      "rank": 188,
-      "win_prob": 4.1,
+      "rank": 192,
+      "win_prob": 3.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Ivory Coast",
       "flag1": "seychelles.png",
       "flag2": "ivory_coast.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4164,
-      "rating2": 5061,
-      "rating_ev": 0,
-      "rank": 188,
+      "score1": 0,
+      "score2": 7,
+      "rating1": 4128,
+      "rating2": 5097,
+      "rating_ev": -36,
+      "rank": 192,
       "win_prob": 2.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

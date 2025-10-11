@@ -1,18 +1,18 @@
 {
   "team": "Kazakhstan",
   "stats": {
-    "matches_played": 262,
-    "wins": 66,
+    "matches_played": 263,
+    "wins": 67,
     "draws": 55,
     "losses": 141,
-    "goals_for": 270,
+    "goals_for": 274,
     "goals_against": 444,
-    "goal_difference": -174,
-    "win_percentage": 25.2,
+    "goal_difference": -170,
+    "win_percentage": 25.5,
     "avg_points": 0.97,
     "best_rank": 72,
     "worst_rank": 116,
-    "avg_rank": 98.75,
+    "avg_rank": 98.78,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Pakistan",
@@ -25,11 +25,11 @@
       "date": "2021-11-13",
       "flag": "france.png"
     },
-    "home_matches": 99,
+    "home_matches": 100,
     "away_matches": 118,
     "neutral_matches": 45,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 4812,
-      "rating2": 5460,
+      "rating1": 4832,
+      "rating2": 5434,
       "rating_ev": 0,
-      "rank": 117,
-      "win_prob": 9.2,
+      "rank": 105,
+      "win_prob": 10.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4812,
-      "rating2": 5118,
+      "rating1": 4832,
+      "rating2": 5144,
       "rating_ev": 0,
-      "rank": 117,
-      "win_prob": 14.5,
+      "rank": 105,
+      "win_prob": 14.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Liechtenstein",
       "flag1": "kazakhstan.png",
       "flag2": "liechtenstein.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4812,
-      "rating2": 4346,
-      "rating_ev": 0,
-      "rank": 117,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4832,
+      "rating2": 4326,
+      "rating_ev": 20,
+      "rank": 106,
       "win_prob": 92.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",

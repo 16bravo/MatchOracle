@@ -1,18 +1,18 @@
 {
   "team": "Gambia",
   "stats": {
-    "matches_played": 283,
+    "matches_played": 284,
     "wins": 79,
     "draws": 79,
-    "losses": 125,
-    "goals_for": 296,
-    "goals_against": 398,
-    "goal_difference": -102,
-    "win_percentage": 27.9,
-    "avg_points": 1.12,
+    "losses": 126,
+    "goals_for": 299,
+    "goals_against": 402,
+    "goal_difference": -103,
+    "win_percentage": 27.8,
+    "avg_points": 1.11,
     "best_rank": 76,
     "worst_rank": 123,
-    "avg_rank": 100.07,
+    "avg_rank": 100.01,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lesotho",
@@ -27,9 +27,9 @@
     },
     "home_matches": 0,
     "away_matches": 98,
-    "neutral_matches": 185,
+    "neutral_matches": 186,
     "first_match_date": "1953-02-09",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4928,
+      "rating1": 4913,
       "rating2": 4693,
       "rating_ev": 0,
-      "rank": 82,
-      "win_prob": 73.7,
+      "rank": 85,
+      "win_prob": 72.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "seychelles.png",
       "score1": "",
       "score2": "",
-      "rating1": 4928,
-      "rating2": 4164,
+      "rating1": 4913,
+      "rating2": 4128,
       "rating_ev": 0,
-      "rank": 82,
-      "win_prob": 95.9,
+      "rank": 85,
+      "win_prob": 96.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Gabon",
       "flag1": "gambia.png",
       "flag2": "gabon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4928,
-      "rating2": 4914,
-      "rating_ev": 0,
-      "rank": 82,
+      "score1": 3,
+      "score2": 4,
+      "rating1": 4913,
+      "rating2": 4929,
+      "rating_ev": -15,
+      "rank": 85,
       "win_prob": 51.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

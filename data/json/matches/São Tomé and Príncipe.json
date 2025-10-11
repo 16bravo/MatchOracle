@@ -1,18 +1,18 @@
 {
   "team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
   "stats": {
-    "matches_played": 76,
+    "matches_played": 77,
     "wins": 10,
     "draws": 10,
-    "losses": 56,
+    "losses": 57,
     "goals_for": 56,
-    "goals_against": 197,
-    "goal_difference": -141,
-    "win_percentage": 13.2,
-    "avg_points": 0.53,
+    "goals_against": 203,
+    "goal_difference": -147,
+    "win_percentage": 13.0,
+    "avg_points": 0.52,
     "best_rank": 148,
     "worst_rank": 179,
-    "avg_rank": 165.79,
+    "avg_rank": 165.86,
     "biggest_win": {
       "score": "2-0",
       "opponent": "Equatorial Guinea",
@@ -26,10 +26,10 @@
       "flag": "congo.png"
     },
     "home_matches": 24,
-    "away_matches": 32,
+    "away_matches": 33,
     "neutral_matches": 20,
     "first_match_date": "1976-05-02",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "malawi.png",
       "score1": "",
       "score2": "",
-      "rating1": 4436,
+      "rating1": 4403,
       "rating2": 4738,
       "rating_ev": 0,
-      "rank": 168,
-      "win_prob": 21.1,
+      "rank": 170,
+      "win_prob": 18.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Tunisia",
       "flag1": "sao_tome.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4436,
-      "rating2": 5071,
-      "rating_ev": 0,
-      "rank": 168,
+      "score1": 0,
+      "score2": 6,
+      "rating1": 4403,
+      "rating2": 5104,
+      "rating_ev": -33,
+      "rank": 171,
       "win_prob": 4.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

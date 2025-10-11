@@ -1,18 +1,18 @@
 {
   "team": "Nigeria",
   "stats": {
-    "matches_played": 695,
-    "wins": 317,
+    "matches_played": 696,
+    "wins": 318,
     "draws": 200,
     "losses": 178,
-    "goals_for": 1033,
-    "goals_against": 709,
-    "goal_difference": 324,
-    "win_percentage": 45.6,
+    "goals_for": 1035,
+    "goals_against": 710,
+    "goal_difference": 325,
+    "win_percentage": 45.7,
     "avg_points": 1.66,
     "best_rank": 23,
     "worst_rank": 71,
-    "avg_rank": 46.83,
+    "avg_rank": 46.87,
     "biggest_win": {
       "score": "10-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 234,
     "away_matches": 259,
-    "neutral_matches": 202,
+    "neutral_matches": 203,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5042,
+      "rating1": 5029,
       "rating2": 4872,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 67.8,
+      "rank": 70,
+      "win_prob": 66.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5042,
-      "rating2": 5071,
+      "rating1": 5029,
+      "rating2": 5104,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 46.8,
+      "rank": 70,
+      "win_prob": 41.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5042,
+      "rating1": 5029,
       "rating2": 4826,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 72.0,
+      "rank": 70,
+      "win_prob": 70.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5042,
+      "rating1": 5029,
       "rating2": 5515,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 11.6,
+      "rank": 70,
+      "win_prob": 11.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "venezuela.png",
       "score1": "",
       "score2": "",
-      "rating1": 5042,
+      "rating1": 5029,
       "rating2": 5194,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 33.9,
+      "rank": 70,
+      "win_prob": 32.6,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5042,
-      "rating2": 4947,
+      "rating1": 5029,
+      "rating2": 4960,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 70.2,
+      "rank": 70,
+      "win_prob": 67.8,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Lesotho",
       "flag1": "nigeria.png",
       "flag2": "lesotho.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5042,
-      "rating2": 4586,
-      "rating_ev": 0,
-      "rank": 69,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5029,
+      "rating2": 4599,
+      "rating_ev": -13,
+      "rank": 70,
       "win_prob": 87.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

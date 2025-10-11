@@ -1,15 +1,15 @@
 {
   "team": "Ukraine",
   "stats": {
-    "matches_played": 327,
-    "wins": 146,
+    "matches_played": 328,
+    "wins": 147,
     "draws": 93,
     "losses": 88,
-    "goals_for": 454,
-    "goals_against": 340,
-    "goal_difference": 114,
-    "win_percentage": 44.6,
-    "avg_points": 1.62,
+    "goals_for": 459,
+    "goals_against": 343,
+    "goal_difference": 116,
+    "win_percentage": 44.8,
+    "avg_points": 1.63,
     "best_rank": 10,
     "worst_rank": 61,
     "avg_rank": 29.2,
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 131,
-    "away_matches": 140,
+    "away_matches": 141,
     "neutral_matches": 56,
     "first_match_date": "1992-04-29",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iceland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5245,
-      "rating2": 5123,
+      "rating1": 5271,
+      "rating2": 5097,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 63.1,
+      "rank": 28,
+      "win_prob": 68.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5245,
-      "rating2": 5560,
+      "rating1": 5271,
+      "rating2": 5551,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 14.1,
+      "rank": 28,
+      "win_prob": 16.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "azerbaijan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5245,
-      "rating2": 4774,
+      "rating1": 5271,
+      "rating2": 4783,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 88.3,
+      "rank": 28,
+      "win_prob": 89.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Iceland",
       "flag1": "ukraine.png",
       "flag2": "iceland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5245,
-      "rating2": 5123,
-      "rating_ev": 0,
-      "rank": 32,
+      "score1": 5,
+      "score2": 3,
+      "rating1": 5271,
+      "rating2": 5097,
+      "rating_ev": 26,
+      "rank": 29,
       "win_prob": 52.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

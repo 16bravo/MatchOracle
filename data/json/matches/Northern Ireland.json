@@ -1,18 +1,18 @@
 {
   "team": "Northern Ireland",
   "stats": {
-    "matches_played": 605,
-    "wins": 169,
+    "matches_played": 606,
+    "wins": 170,
     "draws": 148,
     "losses": 288,
-    "goals_for": 634,
+    "goals_for": 636,
     "goals_against": 918,
-    "goal_difference": -284,
-    "win_percentage": 27.9,
-    "avg_points": 1.08,
+    "goal_difference": -282,
+    "win_percentage": 28.1,
+    "avg_points": 1.09,
     "best_rank": 13,
     "worst_rank": 96,
-    "avg_rank": 39.41,
+    "avg_rank": 39.42,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Wales",
@@ -25,11 +25,11 @@
       "date": "1938-11-16",
       "flag": "england.png"
     },
-    "home_matches": 274,
+    "home_matches": 275,
     "away_matches": 295,
     "neutral_matches": 36,
     "first_match_date": "1921-02-26",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 5102,
-      "rating2": 4894,
+      "rating1": 5131,
+      "rating2": 4880,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 79.4,
+      "rank": 50,
+      "win_prob": 82.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5102,
-      "rating2": 5215,
+      "rating1": 5131,
+      "rating2": 5186,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 28.2,
+      "rank": 50,
+      "win_prob": 33.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5102,
-      "rating2": 5472,
+      "rating1": 5131,
+      "rating2": 5486,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 23.8,
+      "rank": 50,
+      "win_prob": 24.9,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Slovakia",
       "flag1": "northern_ireland.png",
       "flag2": "slovakia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5102,
-      "rating2": 5215,
-      "rating_ev": 0,
-      "rank": 57,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5131,
+      "rating2": 5186,
+      "rating_ev": 29,
+      "rank": 48,
       "win_prob": 48.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",

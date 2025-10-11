@@ -1,18 +1,18 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1005,
-    "wins": 442,
+    "matches_played": 1006,
+    "wins": 443,
     "draws": 247,
     "losses": 316,
-    "goals_for": 1587,
+    "goals_for": 1588,
     "goals_against": 1225,
-    "goal_difference": 362,
+    "goal_difference": 363,
     "win_percentage": 44.0,
     "avg_points": 1.57,
     "best_rank": 1,
     "worst_rank": 39,
-    "avg_rank": 13.46,
+    "avg_rank": 13.47,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Bolivia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 332,
     "away_matches": 425,
-    "neutral_matches": 248,
+    "neutral_matches": 249,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5424,
+      "rating1": 5412,
       "rating2": 5193,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 63.9,
+      "rank": 17,
+      "win_prob": 62.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5424,
+      "rating1": 5412,
       "rating2": 5291,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 53.6,
+      "rank": 17,
+      "win_prob": 52.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5424,
+      "rating1": 5412,
       "rating2": 5093,
       "rating_ev": 0,
-      "rank": 14,
-      "win_prob": 80.8,
+      "rank": 17,
+      "win_prob": 80.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Dominican Republic",
       "flag1": "uruguay.png",
       "flag2": "dominican_rep.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5424,
-      "rating2": 4765,
-      "rating_ev": 0,
-      "rank": 14,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5412,
+      "rating2": 4777,
+      "rating_ev": -12,
+      "rank": 17,
       "win_prob": 94.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

@@ -1,18 +1,18 @@
 {
   "team": "Peru",
   "stats": {
-    "matches_played": 705,
+    "matches_played": 706,
     "wins": 229,
     "draws": 174,
-    "losses": 302,
-    "goals_for": 856,
-    "goals_against": 983,
-    "goal_difference": -127,
-    "win_percentage": 32.5,
+    "losses": 303,
+    "goals_for": 857,
+    "goals_against": 985,
+    "goal_difference": -128,
+    "win_percentage": 32.4,
     "avg_points": 1.22,
     "best_rank": 13,
     "worst_rank": 76,
-    "avg_rank": 32.01,
+    "avg_rank": 32.02,
     "biggest_win": {
       "score": "9-1",
       "opponent": "Ecuador",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 268,
-    "away_matches": 251,
+    "away_matches": 252,
     "neutral_matches": 186,
     "first_match_date": "1927-11-01",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "chile.png",
       "score1": "",
       "score2": "",
-      "rating1": 5210,
-      "rating2": 5193,
+      "rating1": 5205,
+      "rating2": 5198,
       "rating_ev": 0,
       "rank": 36,
-      "win_prob": 51.9,
+      "win_prob": 50.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "russia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5210,
-      "rating2": 5369,
+      "rating1": 5205,
+      "rating2": 5366,
       "rating_ev": 0,
       "rank": 36,
-      "win_prob": 24.3,
+      "win_prob": 24.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Chile",
       "flag1": "peru.png",
       "flag2": "chile.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5210,
-      "rating2": 5193,
-      "rating_ev": 0,
-      "rank": 36,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5205,
+      "rating2": 5198,
+      "rating_ev": -5,
+      "rank": 37,
       "win_prob": 41.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",
