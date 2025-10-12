@@ -1,18 +1,18 @@
 {
   "team": "Latvia",
   "stats": {
-    "matches_played": 452,
+    "matches_played": 453,
     "wins": 126,
-    "draws": 109,
+    "draws": 110,
     "losses": 217,
-    "goals_for": 528,
-    "goals_against": 744,
+    "goals_for": 530,
+    "goals_against": 746,
     "goal_difference": -216,
-    "win_percentage": 27.9,
+    "win_percentage": 27.8,
     "avg_points": 1.08,
     "best_rank": 40,
     "worst_rank": 143,
-    "avg_rank": 78.61,
+    "avg_rank": 78.7,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lithuania",
@@ -25,11 +25,11 @@
       "date": "1927-05-29",
       "flag": "sweden.png"
     },
-    "home_matches": 188,
+    "home_matches": 189,
     "away_matches": 210,
     "neutral_matches": 54,
     "first_match_date": "1922-09-24",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-11"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4820,
-      "rating2": 5269,
+      "rating1": 4807,
+      "rating2": 5241,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 8.5,
+      "rank": 118,
+      "win_prob": 9.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4820,
+      "rating1": 4807,
       "rating2": 5144,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 13.6,
+      "rank": 118,
+      "win_prob": 13.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 4820,
+      "rating1": 4807,
       "rating2": 5544,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 7.1,
+      "rank": 118,
+      "win_prob": 6.8,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Andorra",
       "flag1": "latvia.png",
       "flag2": "andorra.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4820,
-      "rating2": 4695,
-      "rating_ev": 0,
-      "rank": 116,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4807,
+      "rating2": 4708,
+      "rating_ev": -13,
+      "rank": 118,
       "win_prob": 72.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",
@@ -196,11 +196,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4820,
+      "rating1": 4807,
       "rating2": 4429,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 89.4,
+      "rank": 118,
+      "win_prob": 88.9,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4820,
+      "rating1": 4807,
       "rating2": 4429,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 77.8,
+      "rank": 118,
+      "win_prob": 76.8,
       "type": "fixture"
     },
     {

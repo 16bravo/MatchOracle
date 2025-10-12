@@ -1,18 +1,18 @@
 {
   "team": "Oman",
   "stats": {
-    "matches_played": 582,
+    "matches_played": 583,
     "wins": 221,
     "draws": 147,
-    "losses": 214,
-    "goals_for": 750,
-    "goals_against": 769,
-    "goal_difference": -19,
-    "win_percentage": 38.0,
+    "losses": 215,
+    "goals_for": 751,
+    "goals_against": 771,
+    "goal_difference": -20,
+    "win_percentage": 37.9,
     "avg_points": 1.39,
     "best_rank": 53,
     "worst_rank": 174,
-    "avg_rank": 101.47,
+    "avg_rank": 101.46,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Bhutan",
@@ -27,13 +27,13 @@
     },
     "home_matches": 224,
     "away_matches": 144,
-    "neutral_matches": 214,
+    "neutral_matches": 215,
     "first_match_date": "1965-09-02",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-11"
   },
   "matches": [
     {
-      "date": "2025-11-11",
+      "date": "2025-11-12",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Oman",
@@ -44,11 +44,11 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4866,
+      "rating1": 4858,
       "rating2": 4417,
       "rating_ev": 0,
       "rank": 95,
-      "win_prob": 87.4,
+      "win_prob": 87.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "United Arab Emirates",
       "flag1": "oman.png",
       "flag2": "uae.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4866,
-      "rating2": 4965,
-      "rating_ev": 0,
-      "rank": 95,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4858,
+      "rating2": 4973,
+      "rating_ev": -8,
+      "rank": 96,
       "win_prob": 39.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

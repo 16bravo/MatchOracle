@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 473,
+    "matches_played": 474,
     "wins": 125,
     "draws": 105,
-    "losses": 243,
+    "losses": 244,
     "goals_for": 512,
-    "goals_against": 867,
-    "goal_difference": -355,
+    "goals_against": 868,
+    "goal_difference": -356,
     "win_percentage": 26.4,
     "avg_points": 1.01,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.67,
+    "avg_rank": 63.61,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -27,9 +27,9 @@
     },
     "home_matches": 176,
     "away_matches": 178,
-    "neutral_matches": 119,
+    "neutral_matches": 120,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5194,
+      "rating1": 5199,
       "rating2": 5263,
       "rating_ev": 0,
-      "rank": 41,
-      "win_prob": 42.5,
+      "rank": 39,
+      "win_prob": 43.0,
       "type": "fixture"
     },
     {
@@ -63,30 +63,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5194,
+      "rating1": 5199,
       "rating2": 5029,
       "rating_ev": 0,
-      "rank": 41,
-      "win_prob": 67.4,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-10-14",
-      "country": "United States",
-      "tournament": "Friendly",
-      "team1": "Venezuela",
-      "team2": "Belize",
-      "original_team1": "Venezuela",
-      "original_team2": "Belize",
-      "flag1": "venezuela.png",
-      "flag2": "belize.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5194,
-      "rating2": 4275,
-      "rating_ev": 0,
-      "rank": 41,
-      "win_prob": 97.6,
+      "rank": 39,
+      "win_prob": 67.8,
       "type": "fixture"
     },
     {
@@ -99,14 +80,14 @@
       "original_team2": "Argentina",
       "flag1": "venezuela.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5194,
-      "rating2": 5605,
-      "rating_ev": 0,
-      "rank": 41,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5199,
+      "rating2": 5600,
+      "rating_ev": 5,
+      "rank": 39,
       "win_prob": 14.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

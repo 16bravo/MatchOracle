@@ -1,14 +1,14 @@
 {
   "team": "Spain",
   "stats": {
-    "matches_played": 774,
-    "wins": 457,
+    "matches_played": 775,
+    "wins": 458,
     "draws": 179,
     "losses": 138,
-    "goals_for": 1576,
+    "goals_for": 1578,
     "goals_against": 695,
-    "goal_difference": 881,
-    "win_percentage": 59.0,
+    "goal_difference": 883,
+    "win_percentage": 59.1,
     "avg_points": 2.0,
     "best_rank": 1,
     "worst_rank": 18,
@@ -25,15 +25,15 @@
       "date": "1928-06-04",
       "flag": "italy_1.png"
     },
-    "home_matches": 335,
+    "home_matches": 336,
     "away_matches": 301,
     "neutral_matches": 138,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-09-07"
+    "last_match_date": "2025-10-11"
   },
   "matches": [
     {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "country": "Uruguay",
       "tournament": "Intercont Champ",
       "team1": "Spain",
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5725,
-      "rating2": 5605,
+      "rating1": 5719,
+      "rating2": 5600,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 62.9,
+      "win_prob": 62.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5725,
-      "rating2": 5275,
+      "rating1": 5719,
+      "rating2": 5324,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 91.5,
+      "win_prob": 89.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "georgia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5725,
-      "rating2": 5252,
+      "rating1": 5719,
+      "rating2": 5258,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 83.1,
+      "win_prob": 82.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5725,
-      "rating2": 4904,
+      "rating1": 5719,
+      "rating2": 4855,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 97.8,
+      "win_prob": 98.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Georgia",
       "flag1": "spain.png",
       "flag2": "georgia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5725,
-      "rating2": 5252,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5719,
+      "rating2": 5258,
+      "rating_ev": -6,
       "rank": 1,
       "win_prob": 92.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-07",

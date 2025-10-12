@@ -1,18 +1,18 @@
 {
   "team": "Portugal",
   "stats": {
-    "matches_played": 688,
-    "wins": 343,
+    "matches_played": 689,
+    "wins": 344,
     "draws": 157,
     "losses": 188,
-    "goals_for": 1208,
+    "goals_for": 1209,
     "goals_against": 774,
-    "goal_difference": 434,
+    "goal_difference": 435,
     "win_percentage": 49.9,
-    "avg_points": 1.72,
+    "avg_points": 1.73,
     "best_rank": 1,
     "worst_rank": 33,
-    "avg_rank": 14.51,
+    "avg_rank": 14.5,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Luxembourg",
@@ -25,11 +25,11 @@
       "date": "1947-05-25",
       "flag": "england.png"
     },
-    "home_matches": 317,
+    "home_matches": 318,
     "away_matches": 259,
     "neutral_matches": 112,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-11"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5614,
-      "rating2": 4834,
+      "rating1": 5592,
+      "rating2": 4832,
       "rating_ev": 0,
-      "rank": 2,
-      "win_prob": 97.5,
+      "rank": 3,
+      "win_prob": 97.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5614,
-      "rating2": 5084,
+      "rating1": 5592,
+      "rating2": 5106,
       "rating_ev": 0,
-      "rank": 2,
-      "win_prob": 86.1,
+      "rank": 3,
+      "win_prob": 83.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "hungary.png",
       "score1": "",
       "score2": "",
-      "rating1": 5614,
-      "rating2": 5168,
+      "rating1": 5592,
+      "rating2": 5170,
       "rating_ev": 0,
-      "rank": 2,
-      "win_prob": 91.4,
+      "rank": 3,
+      "win_prob": 90.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Ireland",
       "flag1": "portugal.png",
       "flag2": "ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5614,
-      "rating2": 5084,
-      "rating_ev": 0,
-      "rank": 2,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5592,
+      "rating2": 5106,
+      "rating_ev": -22,
+      "rank": 3,
       "win_prob": 93.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

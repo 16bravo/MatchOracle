@@ -1,18 +1,18 @@
 {
   "team": "Israel",
   "stats": {
-    "matches_played": 517,
+    "matches_played": 518,
     "wins": 195,
     "draws": 117,
-    "losses": 205,
+    "losses": 206,
     "goals_for": 796,
-    "goals_against": 752,
-    "goal_difference": 44,
-    "win_percentage": 37.7,
+    "goals_against": 757,
+    "goal_difference": 39,
+    "win_percentage": 37.6,
     "avg_points": 1.36,
     "best_rank": 15,
     "worst_rank": 71,
-    "avg_rank": 44.09,
+    "avg_rank": 44.1,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Taiwan",
@@ -26,10 +26,10 @@
       "flag": "yugoslavia.png"
     },
     "home_matches": 249,
-    "away_matches": 207,
+    "away_matches": 208,
     "neutral_matches": 61,
     "first_match_date": "1949-07-30",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-11"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 5162,
+      "rating1": 5122,
       "rating2": 4699,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 88.0,
+      "rank": 52,
+      "win_prob": 86.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "lithuania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5162,
+      "rating1": 5122,
       "rating2": 4828,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 73.4,
+      "rank": 52,
+      "win_prob": 69.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5162,
+      "rating1": 5122,
       "rating2": 5417,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 17.5,
+      "rank": 52,
+      "win_prob": 15.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Norway",
       "flag1": "israel.png",
       "flag2": "norway.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5162,
-      "rating2": 5482,
-      "rating_ev": 0,
-      "rank": 46,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 5122,
+      "rating2": 5522,
+      "rating_ev": -40,
+      "rank": 52,
       "win_prob": 13.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

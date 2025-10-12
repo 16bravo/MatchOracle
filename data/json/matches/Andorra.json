@@ -1,18 +1,18 @@
 {
   "team": "Andorra",
   "stats": {
-    "matches_played": 222,
+    "matches_played": 223,
     "wins": 14,
-    "draws": 30,
+    "draws": 31,
     "losses": 178,
-    "goals_for": 72,
-    "goals_against": 527,
+    "goals_for": 74,
+    "goals_against": 529,
     "goal_difference": -455,
     "win_percentage": 6.3,
-    "avg_points": 0.32,
+    "avg_points": 0.33,
     "best_rank": 127,
     "worst_rank": 166,
-    "avg_rank": 150.65,
+    "avg_rank": 150.58,
     "biggest_win": {
       "score": "3-0",
       "opponent": "San Marino",
@@ -26,10 +26,10 @@
       "flag": "czechia.png"
     },
     "home_matches": 89,
-    "away_matches": 101,
+    "away_matches": 102,
     "neutral_matches": 32,
     "first_match_date": "1996-11-13",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-11"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4695,
+      "rating1": 4708,
       "rating2": 5046,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 12.3,
+      "rank": 135,
+      "win_prob": 12.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "albania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4695,
-      "rating2": 5130,
+      "rating1": 4708,
+      "rating2": 5158,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 19.2,
+      "rank": 135,
+      "win_prob": 18.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4695,
-      "rating2": 5269,
+      "rating1": 4708,
+      "rating2": 5241,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 11.9,
+      "rank": 135,
+      "win_prob": 13.8,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Latvia",
       "flag1": "andorra.png",
       "flag2": "latvia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4695,
-      "rating2": 4820,
-      "rating_ev": 0,
-      "rank": 139,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4708,
+      "rating2": 4807,
+      "rating_ev": 13,
+      "rank": 135,
       "win_prob": 27.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

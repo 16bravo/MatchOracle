@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 588,
-    "wins": 195,
+    "matches_played": 589,
+    "wins": 196,
     "draws": 142,
     "losses": 251,
-    "goals_for": 732,
+    "goals_for": 733,
     "goals_against": 903,
-    "goal_difference": -171,
-    "win_percentage": 33.2,
+    "goal_difference": -170,
+    "win_percentage": 33.3,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.42,
+    "avg_rank": 85.37,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "costa_rica.png"
     },
     "home_matches": 199,
-    "away_matches": 225,
+    "away_matches": 226,
     "neutral_matches": 164,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
-      "rating2": 4694,
+      "rating1": 5105,
+      "rating2": 4699,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 90.3,
+      "rank": 58,
+      "win_prob": 90.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "guatemala.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
+      "rating1": 5105,
       "rating2": 4914,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 60.4,
+      "rank": 58,
+      "win_prob": 59.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
+      "rating1": 5105,
       "rating2": 4826,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 84.3,
+      "rank": 58,
+      "win_prob": 84.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "El Salvador",
       "flag1": "panama.png",
       "flag2": "salvador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5110,
-      "rating2": 4694,
-      "rating_ev": 0,
-      "rank": 56,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5105,
+      "rating2": 4699,
+      "rating_ev": -5,
+      "rank": 57,
       "win_prob": 79.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",

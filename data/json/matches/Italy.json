@@ -1,18 +1,18 @@
 {
   "team": "Italy",
   "stats": {
-    "matches_played": 896,
-    "wins": 476,
+    "matches_played": 897,
+    "wins": 477,
     "draws": 244,
     "losses": 176,
-    "goals_for": 1569,
-    "goals_against": 888,
-    "goal_difference": 681,
-    "win_percentage": 53.1,
+    "goals_for": 1572,
+    "goals_against": 889,
+    "goal_difference": 683,
+    "win_percentage": 53.2,
     "avg_points": 1.87,
     "best_rank": 1,
     "worst_rank": 26,
-    "avg_rank": 9.6,
+    "avg_rank": 9.61,
     "biggest_win": {
       "score": "10-0",
       "opponent": "United States",
@@ -26,10 +26,10 @@
       "flag": "hungary_2.png"
     },
     "home_matches": 404,
-    "away_matches": 321,
+    "away_matches": 322,
     "neutral_matches": 171,
     "first_match_date": "1910-05-15",
-    "last_match_date": "2025-09-08"
+    "last_match_date": "2025-10-11"
   },
   "matches": [
     {
@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5417,
-      "rating2": 5482,
+      "rating2": 5522,
       "rating_ev": 0,
       "rank": 16,
-      "win_prob": 53.8,
+      "win_prob": 49.4,
       "type": "fixture"
     },
     {
@@ -83,10 +83,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5417,
-      "rating2": 5162,
+      "rating2": 5122,
       "rating_ev": 0,
       "rank": 16,
-      "win_prob": 82.5,
+      "win_prob": 84.9,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Estonia",
       "flag1": "italy.png",
       "flag2": "estonia.png",
-      "score1": "",
-      "score2": "",
+      "score1": 3,
+      "score2": 1,
       "rating1": 5417,
       "rating2": 4834,
       "rating_ev": 0,
       "rank": 16,
       "win_prob": 88.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-08",
