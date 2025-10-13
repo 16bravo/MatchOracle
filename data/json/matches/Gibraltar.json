@@ -1,18 +1,18 @@
 {
   "team": "Gibraltar",
   "stats": {
-    "matches_played": 103,
+    "matches_played": 104,
     "wins": 12,
     "draws": 14,
-    "losses": 77,
+    "losses": 78,
     "goals_for": 43,
-    "goals_against": 319,
-    "goal_difference": -276,
-    "win_percentage": 11.7,
-    "avg_points": 0.49,
+    "goals_against": 322,
+    "goal_difference": -279,
+    "win_percentage": 11.5,
+    "avg_points": 0.48,
     "best_rank": 162,
     "worst_rank": 186,
-    "avg_rank": 174.64,
+    "avg_rank": 174.57,
     "biggest_win": {
       "score": "3-0",
       "opponent": "Faroe Islands",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 35,
-    "away_matches": 46,
+    "away_matches": 47,
     "neutral_matches": 22,
     "first_match_date": "2007-07-04",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4429,
-      "rating2": 5244,
+      "rating1": 4449,
+      "rating2": 5215,
       "rating_ev": 0,
-      "rank": 168,
-      "win_prob": 2.2,
+      "rank": 167,
+      "win_prob": 2.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 4429,
+      "rating1": 4449,
       "rating2": 4912,
       "rating_ev": 0,
-      "rank": 168,
-      "win_prob": 16.3,
+      "rank": 167,
+      "win_prob": 17.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Croatia",
       "flag1": "gibraltar.png",
       "flag2": "croatia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4429,
-      "rating2": 5464,
-      "rating_ev": 0,
-      "rank": 168,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4449,
+      "rating2": 5444,
+      "rating_ev": 20,
+      "rank": 167,
       "win_prob": 1.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",
@@ -196,11 +196,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4429,
+      "rating1": 4449,
       "rating2": 4807,
       "rating_ev": 0,
-      "rank": 168,
-      "win_prob": 11.1,
+      "rank": 167,
+      "win_prob": 12.0,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4429,
+      "rating1": 4449,
       "rating2": 4807,
       "rating_ev": 0,
-      "rank": 168,
-      "win_prob": 23.2,
+      "rank": 167,
+      "win_prob": 24.7,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Djibouti",
   "stats": {
-    "matches_played": 116,
+    "matches_played": 117,
     "wins": 10,
     "draws": 11,
-    "losses": 95,
-    "goals_for": 79,
-    "goals_against": 413,
-    "goal_difference": -334,
-    "win_percentage": 8.6,
+    "losses": 96,
+    "goals_for": 80,
+    "goals_against": 415,
+    "goal_difference": -335,
+    "win_percentage": 8.5,
     "avg_points": 0.35,
     "best_rank": 96,
     "worst_rank": 201,
-    "avg_rank": 185.93,
+    "avg_rank": 185.85,
     "biggest_win": {
       "score": "4-1",
       "opponent": "South Yemen",
@@ -27,13 +27,13 @@
     },
     "home_matches": 24,
     "away_matches": 36,
-    "neutral_matches": 56,
+    "neutral_matches": 57,
     "first_match_date": "1947-12-05",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
-      "date": "2025-11-12",
+      "date": "2025-11-13",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Djibouti",
@@ -44,11 +44,11 @@
       "flag2": "bahrain.png",
       "score1": "",
       "score2": "",
-      "rating1": 4274,
+      "rating1": 4292,
       "rating2": 4849,
       "rating_ev": 0,
-      "rank": 177,
-      "win_prob": 8.0,
+      "rank": 176,
+      "win_prob": 8.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Sierra Leone",
       "flag1": "djibouti.png",
       "flag2": "sierra_leone.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4274,
-      "rating2": 4823,
-      "rating_ev": 0,
-      "rank": 177,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4292,
+      "rating2": 4805,
+      "rating_ev": 18,
+      "rank": 176,
       "win_prob": 8.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

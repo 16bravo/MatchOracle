@@ -1,18 +1,18 @@
 {
   "team": "Czechia",
   "stats": {
-    "matches_played": 876,
+    "matches_played": 877,
     "wins": 423,
     "draws": 194,
-    "losses": 259,
-    "goals_for": 1613,
-    "goals_against": 1088,
-    "goal_difference": 525,
-    "win_percentage": 48.3,
+    "losses": 260,
+    "goals_for": 1614,
+    "goals_against": 1090,
+    "goal_difference": 524,
+    "win_percentage": 48.2,
     "avg_points": 1.67,
     "best_rank": 1,
     "worst_rank": 41,
-    "avg_rank": 13.14,
+    "avg_rank": 13.16,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Yugoslavia",
@@ -26,10 +26,10 @@
       "flag": "austria.png"
     },
     "home_matches": 145,
-    "away_matches": 415,
+    "away_matches": 416,
     "neutral_matches": 316,
     "first_match_date": "1903-04-05",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5244,
-      "rating2": 4429,
+      "rating1": 5215,
+      "rating2": 4449,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 97.8,
+      "rank": 35,
+      "win_prob": 97.3,
       "type": "fixture"
     },
     {
@@ -63,10 +63,10 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 5244,
-      "rating2": 4267,
+      "rating1": 5215,
+      "rating2": 4238,
       "rating_ev": 0,
-      "rank": 32,
+      "rank": 35,
       "win_prob": 98.7,
       "type": "fixture"
     },
@@ -80,14 +80,14 @@
       "original_team2": "Faroe Islands",
       "flag1": "czechia.png",
       "flag2": "faroe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5244,
-      "rating2": 4893,
-      "rating_ev": 0,
-      "rank": 32,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5215,
+      "rating2": 4922,
+      "rating_ev": -29,
+      "rank": 34,
       "win_prob": 74.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

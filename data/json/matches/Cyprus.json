@@ -1,18 +1,18 @@
 {
   "team": "Cyprus",
   "stats": {
-    "matches_played": 423,
-    "wins": 82,
+    "matches_played": 424,
+    "wins": 83,
     "draws": 73,
     "losses": 268,
-    "goals_for": 376,
+    "goals_for": 380,
     "goals_against": 922,
-    "goal_difference": -546,
-    "win_percentage": 19.4,
-    "avg_points": 0.75,
+    "goal_difference": -542,
+    "win_percentage": 19.6,
+    "avg_points": 0.76,
     "best_rank": 57,
     "worst_rank": 140,
-    "avg_rank": 89.76,
+    "avg_rank": 89.82,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Andorra",
@@ -26,10 +26,10 @@
       "flag": "germany.png"
     },
     "home_matches": 234,
-    "away_matches": 183,
+    "away_matches": 184,
     "neutral_matches": 6,
     "first_match_date": "1949-07-30",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "estonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4789,
+      "rating1": 4818,
       "rating2": 4834,
       "rating_ev": 0,
-      "rank": 123,
-      "win_prob": 56.0,
+      "rank": 114,
+      "win_prob": 59.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4789,
-      "rating2": 5405,
+      "rating1": 4818,
+      "rating2": 5381,
       "rating_ev": 0,
-      "rank": 123,
-      "win_prob": 10.3,
+      "rank": 114,
+      "win_prob": 12.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "San Marino",
       "flag1": "cyprus.png",
       "flag2": "san_marino.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4789,
-      "rating2": 4267,
-      "rating_ev": 0,
-      "rank": 123,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4818,
+      "rating2": 4238,
+      "rating_ev": 29,
+      "rank": 116,
       "win_prob": 85.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

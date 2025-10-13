@@ -1,18 +1,18 @@
 {
   "team": "Poland",
   "stats": {
-    "matches_played": 912,
-    "wins": 396,
+    "matches_played": 913,
+    "wins": 397,
     "draws": 223,
     "losses": 293,
-    "goals_for": 1548,
+    "goals_for": 1550,
     "goals_against": 1228,
-    "goal_difference": 320,
-    "win_percentage": 43.4,
+    "goal_difference": 322,
+    "win_percentage": 43.5,
     "avg_points": 1.55,
     "best_rank": 1,
     "worst_rank": 48,
-    "avg_rank": 24.16,
+    "avg_rank": 24.17,
     "biggest_win": {
       "score": "10-0",
       "opponent": "San Marino",
@@ -26,10 +26,10 @@
       "flag": "denmark.png"
     },
     "home_matches": 393,
-    "away_matches": 404,
+    "away_matches": 405,
     "neutral_matches": 115,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 5212,
-      "rating2": 4700,
+      "rating1": 5223,
+      "rating2": 4686,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 85.2,
+      "rank": 34,
+      "win_prob": 86.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5212,
-      "rating2": 5529,
+      "rating1": 5223,
+      "rating2": 5548,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 28.1,
+      "rank": 34,
+      "win_prob": 27.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Lithuania",
       "flag1": "poland.png",
       "flag2": "lithuania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5212,
-      "rating2": 4828,
-      "rating_ev": 0,
-      "rank": 35,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5223,
+      "rating2": 4817,
+      "rating_ev": 11,
+      "rank": 34,
       "win_prob": 77.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

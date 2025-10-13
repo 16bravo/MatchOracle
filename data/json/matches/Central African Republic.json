@@ -1,18 +1,18 @@
 {
   "team": "Central African Republic",
   "stats": {
-    "matches_played": 160,
-    "wins": 35,
+    "matches_played": 161,
+    "wins": 36,
     "draws": 32,
     "losses": 93,
-    "goals_for": 176,
-    "goals_against": 318,
-    "goal_difference": -142,
-    "win_percentage": 21.9,
-    "avg_points": 0.86,
+    "goals_for": 179,
+    "goals_against": 320,
+    "goal_difference": -141,
+    "win_percentage": 22.4,
+    "avg_points": 0.87,
     "best_rank": 88,
     "worst_rank": 148,
-    "avg_rank": 124.56,
+    "avg_rank": 124.69,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Bhutan",
@@ -26,10 +26,10 @@
       "flag": "ivory_coast.png"
     },
     "home_matches": 30,
-    "away_matches": 65,
+    "away_matches": 66,
     "neutral_matches": 65,
     "first_match_date": "1956-12-31",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Chad",
       "flag1": "cta.png",
       "flag2": "chad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4661,
-      "rating2": 4598,
-      "rating_ev": 0,
-      "rank": 148,
+      "score1": 3,
+      "score2": 2,
+      "rating1": 4677,
+      "rating2": 4582,
+      "rating_ev": 16,
+      "rank": 146,
       "win_prob": 46.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

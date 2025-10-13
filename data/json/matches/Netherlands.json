@@ -1,14 +1,14 @@
 {
   "team": "Netherlands",
   "stats": {
-    "matches_played": 890,
-    "wins": 457,
+    "matches_played": 891,
+    "wins": 458,
     "draws": 194,
     "losses": 239,
-    "goals_for": 1860,
+    "goals_for": 1864,
     "goals_against": 1131,
-    "goal_difference": 729,
-    "win_percentage": 51.3,
+    "goal_difference": 733,
+    "win_percentage": 51.4,
     "avg_points": 1.76,
     "best_rank": 1,
     "worst_rank": 35,
@@ -25,11 +25,11 @@
       "date": "1907-12-21",
       "flag": "england.png"
     },
-    "home_matches": 420,
+    "home_matches": 421,
     "away_matches": 356,
     "neutral_matches": 114,
     "first_match_date": "1905-04-30",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "lithuania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5529,
-      "rating2": 4828,
+      "rating1": 5548,
+      "rating2": 4817,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 96.7,
+      "rank": 5,
+      "win_prob": 97.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5529,
-      "rating2": 5212,
+      "rating1": 5548,
+      "rating2": 5223,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 71.9,
+      "rank": 5,
+      "win_prob": 72.6,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Finland",
       "flag1": "netherlands.png",
       "flag2": "finland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5529,
-      "rating2": 5046,
-      "rating_ev": 0,
-      "rank": 6,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5548,
+      "rating2": 5027,
+      "rating_ev": 19,
+      "rank": 5,
       "win_prob": 92.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

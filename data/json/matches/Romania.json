@@ -1,18 +1,18 @@
 {
   "team": "Romania",
   "stats": {
-    "matches_played": 788,
-    "wins": 350,
+    "matches_played": 789,
+    "wins": 351,
     "draws": 197,
     "losses": 241,
-    "goals_for": 1281,
+    "goals_for": 1282,
     "goals_against": 996,
-    "goal_difference": 285,
-    "win_percentage": 44.4,
+    "goal_difference": 286,
+    "win_percentage": 44.5,
     "avg_points": 1.58,
     "best_rank": 6,
     "worst_rank": 64,
-    "avg_rank": 23.6,
+    "avg_rank": 23.63,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Finland",
@@ -25,11 +25,11 @@
       "date": "1948-06-06",
       "flag": "hungary_3.png"
     },
-    "home_matches": 329,
+    "home_matches": 330,
     "away_matches": 369,
     "neutral_matches": 90,
     "first_match_date": "1922-06-08",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 5141,
-      "rating2": 4267,
+      "rating1": 5165,
+      "rating2": 4238,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 98.2,
+      "rank": 46,
+      "win_prob": 98.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Austria",
       "flag1": "romania.png",
       "flag2": "austria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5141,
-      "rating2": 5405,
-      "rating_ev": 0,
-      "rank": 48,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5165,
+      "rating2": 5381,
+      "rating_ev": 24,
+      "rank": 46,
       "win_prob": 32.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

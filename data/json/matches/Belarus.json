@@ -1,18 +1,18 @@
 {
   "team": "Belarus",
   "stats": {
-    "matches_played": 296,
+    "matches_played": 297,
     "wins": 88,
     "draws": 74,
-    "losses": 134,
-    "goals_for": 331,
-    "goals_against": 430,
-    "goal_difference": -99,
-    "win_percentage": 29.7,
+    "losses": 135,
+    "goals_for": 332,
+    "goals_against": 432,
+    "goal_difference": -100,
+    "win_percentage": 29.6,
     "avg_points": 1.14,
     "best_rank": 33,
     "worst_rank": 99,
-    "avg_rank": 65.76,
+    "avg_rank": 65.84,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "belgium.png"
     },
     "home_matches": 100,
-    "away_matches": 152,
+    "away_matches": 153,
     "neutral_matches": 44,
     "first_match_date": "1992-10-28",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 4897,
-      "rating2": 5343,
+      "rating1": 4911,
+      "rating2": 5328,
       "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 12.8,
+      "rank": 88,
+      "win_prob": 14.2,
       "type": "fixture"
     },
     {
@@ -63,10 +63,10 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 4897,
-      "rating2": 5459,
+      "rating1": 4911,
+      "rating2": 5474,
       "rating_ev": 0,
-      "rank": 87,
+      "rank": 88,
       "win_prob": 5.6,
       "type": "fixture"
     },
@@ -80,14 +80,14 @@
       "original_team2": "Scotland",
       "flag1": "belarus.png",
       "flag2": "scotland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4897,
-      "rating2": 5284,
-      "rating_ev": 0,
-      "rank": 87,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4911,
+      "rating2": 5270,
+      "rating_ev": 14,
+      "rank": 88,
       "win_prob": 10.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

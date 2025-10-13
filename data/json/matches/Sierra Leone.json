@@ -1,18 +1,18 @@
 {
   "team": "Sierra Leone",
   "stats": {
-    "matches_played": 324,
-    "wins": 92,
+    "matches_played": 325,
+    "wins": 93,
     "draws": 86,
     "losses": 146,
-    "goals_for": 306,
-    "goals_against": 453,
-    "goal_difference": -147,
-    "win_percentage": 28.4,
+    "goals_for": 308,
+    "goals_against": 454,
+    "goal_difference": -146,
+    "win_percentage": 28.6,
     "avg_points": 1.12,
     "best_rank": 53,
     "worst_rank": 146,
-    "avg_rank": 99.11,
+    "avg_rank": 99.18,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Niger",
@@ -27,9 +27,9 @@
     },
     "home_matches": 110,
     "away_matches": 127,
-    "neutral_matches": 87,
+    "neutral_matches": 88,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Djibouti",
       "flag1": "sierra_leone.png",
       "flag2": "djibouti.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4823,
-      "rating2": 4274,
-      "rating_ev": 0,
-      "rank": 113,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4805,
+      "rating2": 4292,
+      "rating_ev": -18,
+      "rank": 119,
       "win_prob": 91.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

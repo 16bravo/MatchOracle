@@ -1,18 +1,18 @@
 {
   "team": "Scotland",
   "stats": {
-    "matches_played": 860,
-    "wins": 408,
+    "matches_played": 861,
+    "wins": 409,
     "draws": 187,
     "losses": 265,
-    "goals_for": 1474,
-    "goals_against": 1059,
-    "goal_difference": 415,
-    "win_percentage": 47.4,
+    "goals_for": 1476,
+    "goals_against": 1060,
+    "goal_difference": 416,
+    "win_percentage": 47.5,
     "avg_points": 1.64,
     "best_rank": 1,
     "worst_rank": 62,
-    "avg_rank": 19.11,
+    "avg_rank": 19.12,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Ireland",
@@ -25,11 +25,11 @@
       "date": "1954-06-19",
       "flag": "uruguay.png"
     },
-    "home_matches": 399,
+    "home_matches": 400,
     "away_matches": 411,
     "neutral_matches": 50,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5284,
-      "rating2": 5459,
+      "rating1": 5270,
+      "rating2": 5474,
       "rating_ev": 0,
-      "rank": 26,
-      "win_prob": 41.8,
+      "rank": 28,
+      "win_prob": 38.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5284,
-      "rating2": 5343,
+      "rating1": 5270,
+      "rating2": 5328,
       "rating_ev": 0,
-      "rank": 26,
-      "win_prob": 33.2,
+      "rank": 28,
+      "win_prob": 33.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Belarus",
       "flag1": "scotland.png",
       "flag2": "belarus.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5284,
-      "rating2": 4897,
-      "rating_ev": 0,
-      "rank": 26,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5270,
+      "rating2": 4911,
+      "rating_ev": -14,
+      "rank": 28,
       "win_prob": 89.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

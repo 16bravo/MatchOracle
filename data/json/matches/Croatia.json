@@ -1,18 +1,18 @@
 {
   "team": "Croatia",
   "stats": {
-    "matches_played": 393,
-    "wins": 205,
+    "matches_played": 394,
+    "wins": 206,
     "draws": 106,
     "losses": 82,
-    "goals_for": 682,
+    "goals_for": 685,
     "goals_against": 394,
-    "goal_difference": 288,
-    "win_percentage": 52.2,
-    "avg_points": 1.83,
+    "goal_difference": 291,
+    "win_percentage": 52.3,
+    "avg_points": 1.84,
     "best_rank": 5,
     "worst_rank": 31,
-    "avg_rank": 14.67,
+    "avg_rank": 14.66,
     "biggest_win": {
       "score": "10-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "2018-09-11",
       "flag": "spain.png"
     },
-    "home_matches": 154,
+    "home_matches": 155,
     "away_matches": 166,
     "neutral_matches": 73,
     "first_match_date": "1940-04-02",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 5464,
+      "rating1": 5444,
       "rating2": 4912,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 87.1,
+      "rank": 12,
+      "win_prob": 86.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5464,
-      "rating2": 4893,
+      "rating1": 5444,
+      "rating2": 4922,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 94.6,
+      "rank": 12,
+      "win_prob": 93.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Gibraltar",
       "flag1": "croatia.png",
       "flag2": "gibraltar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5464,
-      "rating2": 4429,
-      "rating_ev": 0,
-      "rank": 11,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5444,
+      "rating2": 4449,
+      "rating_ev": -20,
+      "rank": 12,
       "win_prob": 98.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

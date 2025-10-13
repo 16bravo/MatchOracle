@@ -1,18 +1,18 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1015,
+    "matches_played": 1016,
     "wins": 526,
     "draws": 233,
-    "losses": 256,
+    "losses": 257,
     "goals_for": 1807,
-    "goals_against": 1045,
-    "goal_difference": 762,
+    "goals_against": 1049,
+    "goal_difference": 758,
     "win_percentage": 51.8,
     "avg_points": 1.78,
     "best_rank": 2,
     "worst_rank": 41,
-    "avg_rank": 21.52,
+    "avg_rank": 21.53,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Bahamas",
@@ -27,9 +27,9 @@
     },
     "home_matches": 292,
     "away_matches": 269,
-    "neutral_matches": 454,
+    "neutral_matches": 455,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2025-09-09"
+    "last_match_date": "2025-10-11"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5291,
+      "rating1": 5271,
       "rating2": 5339,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 44.7,
+      "rank": 26,
+      "win_prob": 42.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5291,
+      "rating1": 5271,
       "rating2": 5412,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 47.7,
+      "rank": 26,
+      "win_prob": 45.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5291,
+      "rating1": 5271,
       "rating2": 5419,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 46.9,
+      "rank": 26,
+      "win_prob": 44.7,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Colombia",
       "flag1": "mexico.png",
       "flag2": "colombia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5291,
-      "rating2": 5515,
-      "rating_ev": 0,
-      "rank": 25,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 5271,
+      "rating2": 5535,
+      "rating_ev": -20,
+      "rank": 27,
       "win_prob": 27.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-09-09",

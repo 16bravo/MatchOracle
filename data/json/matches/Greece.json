@@ -1,18 +1,18 @@
 {
   "team": "Greece",
   "stats": {
-    "matches_played": 650,
+    "matches_played": 651,
     "wins": 250,
     "draws": 154,
-    "losses": 246,
-    "goals_for": 829,
-    "goals_against": 892,
-    "goal_difference": -63,
-    "win_percentage": 38.5,
+    "losses": 247,
+    "goals_for": 830,
+    "goals_against": 895,
+    "goal_difference": -65,
+    "win_percentage": 38.4,
     "avg_points": 1.39,
     "best_rank": 12,
     "worst_rank": 74,
-    "avg_rank": 35.57,
+    "avg_rank": 35.55,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Syria",
@@ -26,10 +26,10 @@
       "flag": "hungary_2.png"
     },
     "home_matches": 296,
-    "away_matches": 293,
+    "away_matches": 294,
     "neutral_matches": 61,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "belarus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5343,
-      "rating2": 4897,
+      "rating1": 5328,
+      "rating2": 4911,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 87.2,
+      "rank": 23,
+      "win_prob": 85.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5343,
-      "rating2": 5284,
+      "rating1": 5328,
+      "rating2": 5270,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 66.8,
+      "rank": 23,
+      "win_prob": 66.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Denmark",
       "flag1": "greece.png",
       "flag2": "denmark.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5343,
-      "rating2": 5459,
-      "rating_ev": 0,
-      "rank": 22,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 5328,
+      "rating2": 5474,
+      "rating_ev": -15,
+      "rank": 23,
       "win_prob": 27.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

@@ -1,18 +1,18 @@
 {
   "team": "Ghana",
   "stats": {
-    "matches_played": 753,
-    "wins": 362,
+    "matches_played": 754,
+    "wins": 363,
     "draws": 188,
     "losses": 203,
-    "goals_for": 1207,
+    "goals_for": 1208,
     "goals_against": 780,
-    "goal_difference": 427,
+    "goal_difference": 428,
     "win_percentage": 48.1,
     "avg_points": 1.69,
     "best_rank": 14,
     "worst_rank": 89,
-    "avg_rank": 49.65,
+    "avg_rank": 49.68,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Nyasaland",
@@ -25,11 +25,11 @@
       "date": "1996-03-27",
       "flag": "brazil.png"
     },
-    "home_matches": 233,
+    "home_matches": 234,
     "away_matches": 278,
     "neutral_matches": 242,
     "first_match_date": "1950-05-28",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Comoros",
       "flag1": "ghana.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5056,
-      "rating2": 4842,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5052,
+      "rating2": 4846,
+      "rating_ev": -4,
       "rank": 66,
       "win_prob": 79.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

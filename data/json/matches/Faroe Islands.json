@@ -1,18 +1,18 @@
 {
   "team": "Faroe Islands",
   "stats": {
-    "matches_played": 270,
-    "wins": 41,
+    "matches_played": 271,
+    "wins": 42,
     "draws": 36,
     "losses": 193,
-    "goals_for": 186,
-    "goals_against": 629,
-    "goal_difference": -443,
-    "win_percentage": 15.2,
-    "avg_points": 0.59,
+    "goals_for": 188,
+    "goals_against": 630,
+    "goal_difference": -442,
+    "win_percentage": 15.5,
+    "avg_points": 0.6,
     "best_rank": 64,
     "worst_rank": 163,
-    "avg_rank": 129.93,
+    "avg_rank": 129.76,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1985-07-10",
       "flag": "iceland.png"
     },
-    "home_matches": 115,
+    "home_matches": 116,
     "away_matches": 136,
     "neutral_matches": 19,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4893,
-      "rating2": 5464,
+      "rating1": 4922,
+      "rating2": 5444,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 5.4,
+      "rank": 83,
+      "win_prob": 6.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Czechia",
       "flag1": "faroe.png",
       "flag2": "czechia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4893,
-      "rating2": 5244,
-      "rating_ev": 0,
-      "rank": 89,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4922,
+      "rating2": 5215,
+      "rating_ev": 29,
+      "rank": 83,
       "win_prob": 25.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

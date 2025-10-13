@@ -1,18 +1,18 @@
 {
   "team": "Madagascar",
   "stats": {
-    "matches_played": 339,
+    "matches_played": 340,
     "wins": 128,
     "draws": 73,
-    "losses": 138,
-    "goals_for": 465,
-    "goals_against": 510,
-    "goal_difference": -45,
-    "win_percentage": 37.8,
-    "avg_points": 1.35,
+    "losses": 139,
+    "goals_for": 466,
+    "goals_against": 514,
+    "goal_difference": -48,
+    "win_percentage": 37.6,
+    "avg_points": 1.34,
     "best_rank": 68,
     "worst_rank": 158,
-    "avg_rank": 107.26,
+    "avg_rank": 107.29,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Congo",
@@ -26,10 +26,10 @@
       "flag": "mauritius_1.png"
     },
     "home_matches": 116,
-    "away_matches": 116,
+    "away_matches": 117,
     "neutral_matches": 107,
     "first_match_date": "1947-12-31",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Mali",
       "flag1": "madagascar.png",
       "flag2": "mali.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4823,
-      "rating2": 5118,
-      "rating_ev": 0,
-      "rank": 113,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4805,
+      "rating2": 5136,
+      "rating_ev": -18,
+      "rank": 119,
       "win_prob": 15.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

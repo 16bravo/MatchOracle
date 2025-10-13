@@ -1,18 +1,18 @@
 {
   "team": "Malta",
   "stats": {
-    "matches_played": 449,
+    "matches_played": 450,
     "wins": 63,
     "draws": 77,
-    "losses": 309,
-    "goals_for": 287,
-    "goals_against": 1006,
-    "goal_difference": -719,
+    "losses": 310,
+    "goals_for": 288,
+    "goals_against": 1010,
+    "goal_difference": -722,
     "win_percentage": 14.0,
     "avg_points": 0.59,
     "best_rank": 64,
     "worst_rank": 146,
-    "avg_rank": 112.43,
+    "avg_rank": 112.5,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1983-12-21",
       "flag": "spain.png"
     },
-    "home_matches": 243,
+    "home_matches": 244,
     "away_matches": 180,
     "neutral_matches": 26,
     "first_match_date": "1957-02-24",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4700,
-      "rating2": 5212,
+      "rating1": 4686,
+      "rating2": 5223,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 14.8,
+      "rank": 144,
+      "win_prob": 13.6,
       "type": "fixture"
     },
     {
@@ -63,12 +63,31 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4700,
-      "rating2": 5046,
+      "rating1": 4686,
+      "rating2": 5027,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 12.5,
+      "rank": 144,
+      "win_prob": 12.8,
       "type": "fixture"
+    },
+    {
+      "date": "2025-10-12",
+      "country": "Malta",
+      "tournament": "Friendly",
+      "team1": "Malta",
+      "team2": "Bosnia and Herzegovina",
+      "original_team1": "Malta",
+      "original_team2": "Bosnia and Herzegovina",
+      "flag1": "malta.png",
+      "flag2": "bosnia.png",
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4686,
+      "rating2": 5010,
+      "rating_ev": -14,
+      "rank": 144,
+      "win_prob": 29.9,
+      "type": "past"
     },
     {
       "date": "2025-10-09",
@@ -177,11 +196,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4700,
+      "rating1": 4686,
       "rating2": 4880,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 22.6,
+      "rank": 144,
+      "win_prob": 21.6,
       "type": "fixture"
     },
     {
@@ -196,11 +215,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4700,
+      "rating1": 4686,
       "rating2": 4880,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 41.3,
+      "rank": 144,
+      "win_prob": 39.8,
       "type": "fixture"
     },
     {

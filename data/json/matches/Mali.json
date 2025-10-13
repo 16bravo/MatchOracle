@@ -1,18 +1,18 @@
 {
   "team": "Mali",
   "stats": {
-    "matches_played": 600,
-    "wins": 246,
+    "matches_played": 601,
+    "wins": 247,
     "draws": 157,
     "losses": 197,
-    "goals_for": 799,
-    "goals_against": 681,
-    "goal_difference": 118,
-    "win_percentage": 41.0,
+    "goals_for": 803,
+    "goals_against": 682,
+    "goal_difference": 121,
+    "win_percentage": 41.1,
     "avg_points": 1.49,
     "best_rank": 48,
     "worst_rank": 115,
-    "avg_rank": 76.67,
+    "avg_rank": 76.62,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Mauritania",
@@ -25,11 +25,11 @@
       "date": "1988-11-13",
       "flag": "algeria.png"
     },
-    "home_matches": 187,
+    "home_matches": 188,
     "away_matches": 218,
     "neutral_matches": 195,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5118,
-      "rating2": 4842,
+      "rating1": 5136,
+      "rating2": 4846,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 76.9,
+      "rank": 49,
+      "win_prob": 78.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5118,
+      "rating1": 5136,
       "rating2": 5372,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 17.5,
+      "rank": 49,
+      "win_prob": 18.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5118,
-      "rating2": 4862,
+      "rating1": 5136,
+      "rating2": 4844,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 75.4,
+      "rank": 49,
+      "win_prob": 78.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Madagascar",
       "flag1": "mali.png",
       "flag2": "madagascar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5118,
-      "rating2": 4823,
-      "rating_ev": 0,
-      "rank": 53,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5136,
+      "rating2": 4805,
+      "rating_ev": 18,
+      "rank": 49,
       "win_prob": 84.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

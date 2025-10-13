@@ -1,18 +1,18 @@
 {
   "team": "Chad",
   "stats": {
-    "matches_played": 176,
+    "matches_played": 177,
     "wins": 34,
     "draws": 40,
-    "losses": 102,
-    "goals_for": 155,
-    "goals_against": 323,
-    "goal_difference": -168,
-    "win_percentage": 19.3,
-    "avg_points": 0.81,
+    "losses": 103,
+    "goals_for": 157,
+    "goals_against": 326,
+    "goal_difference": -169,
+    "win_percentage": 19.2,
+    "avg_points": 0.8,
     "best_rank": 104,
     "worst_rank": 157,
-    "avg_rank": 131.57,
+    "avg_rank": 131.71,
     "biggest_win": {
       "score": "5-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -25,11 +25,11 @@
       "date": "1964-03-28",
       "flag": "congo.png"
     },
-    "home_matches": 42,
+    "home_matches": 43,
     "away_matches": 58,
     "neutral_matches": 76,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-12"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Central African Republic",
       "flag1": "chad.png",
       "flag2": "cta.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4598,
-      "rating2": 4661,
-      "rating_ev": 0,
-      "rank": 154,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4582,
+      "rating2": 4677,
+      "rating_ev": -16,
+      "rank": 157,
       "win_prob": 54.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

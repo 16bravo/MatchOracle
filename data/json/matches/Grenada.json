@@ -1,18 +1,18 @@
 {
   "team": "Grenada",
   "stats": {
-    "matches_played": 298,
-    "wins": 101,
+    "matches_played": 299,
+    "wins": 102,
     "draws": 74,
     "losses": 123,
-    "goals_for": 478,
+    "goals_for": 480,
     "goals_against": 531,
-    "goal_difference": -53,
-    "win_percentage": 33.9,
+    "goal_difference": -51,
+    "win_percentage": 34.1,
     "avg_points": 1.27,
     "best_rank": 57,
     "worst_rank": 185,
-    "avg_rank": 149.09,
+    "avg_rank": 149.17,
     "biggest_win": {
       "score": "14-1",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "2018-09-10",
       "flag": "curacao.png"
     },
-    "home_matches": 112,
+    "home_matches": 113,
     "away_matches": 111,
     "neutral_matches": 75,
     "first_match_date": "1934-10-13",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-11"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Cuba",
       "flag1": "grenada.png",
       "flag2": "cuba.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4367,
-      "rating2": 4488,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4382,
+      "rating2": 4473,
+      "rating_ev": 15,
       "rank": 172,
       "win_prob": 47.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",
