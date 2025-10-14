@@ -1,14 +1,14 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1006,
-    "wins": 443,
+    "matches_played": 1007,
+    "wins": 444,
     "draws": 247,
     "losses": 316,
-    "goals_for": 1588,
-    "goals_against": 1225,
-    "goal_difference": 363,
-    "win_percentage": 44.0,
+    "goals_for": 1590,
+    "goals_against": 1226,
+    "goal_difference": 364,
+    "win_percentage": 44.1,
     "avg_points": 1.57,
     "best_rank": 1,
     "worst_rank": 39,
@@ -27,9 +27,9 @@
     },
     "home_matches": 332,
     "away_matches": 425,
-    "neutral_matches": 249,
+    "neutral_matches": 250,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5412,
+      "rating1": 5410,
       "rating2": 5197,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 62.3,
+      "win_prob": 62.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5412,
+      "rating1": 5410,
       "rating2": 5271,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 54.5,
+      "win_prob": 54.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Uzbekistan",
       "flag1": "uruguay.png",
       "flag2": "uzbekistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5412,
-      "rating2": 5093,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5410,
+      "rating2": 5095,
+      "rating_ev": -2,
       "rank": 17,
       "win_prob": 80.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

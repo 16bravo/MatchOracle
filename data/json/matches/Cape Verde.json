@@ -1,18 +1,18 @@
 {
   "team": "Cape Verde",
   "stats": {
-    "matches_played": 239,
-    "wins": 89,
+    "matches_played": 240,
+    "wins": 90,
     "draws": 56,
     "losses": 94,
-    "goals_for": 254,
+    "goals_for": 257,
     "goals_against": 268,
-    "goal_difference": -14,
-    "win_percentage": 37.2,
-    "avg_points": 1.35,
+    "goal_difference": -11,
+    "win_percentage": 37.5,
+    "avg_points": 1.36,
     "best_rank": 66,
     "worst_rank": 132,
-    "avg_rank": 99.65,
+    "avg_rank": 99.55,
     "biggest_win": {
       "score": "7-1",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -25,11 +25,11 @@
       "date": "1981-02-12",
       "flag": "senegal.png"
     },
-    "home_matches": 75,
+    "home_matches": 76,
     "away_matches": 84,
     "neutral_matches": 80,
     "first_match_date": "1959-12-20",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 4968,
+      "rating1": 4987,
       "rating2": 5134,
       "rating_ev": 0,
-      "rank": 77,
-      "win_prob": 32.5,
+      "rank": 75,
+      "win_prob": 34.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Eswatini",
       "flag1": "cape_verde.png",
       "flag2": "eswatini.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4968,
-      "rating2": 4689,
-      "rating_ev": 0,
-      "rank": 77,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4987,
+      "rating2": 4670,
+      "rating_ev": 19,
+      "rank": 75,
       "win_prob": 84.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

@@ -1,18 +1,18 @@
 {
   "team": "Montenegro",
   "stats": {
-    "matches_played": 161,
-    "wins": 53,
+    "matches_played": 162,
+    "wins": 54,
     "draws": 41,
     "losses": 67,
-    "goals_for": 186,
-    "goals_against": 216,
-    "goal_difference": -30,
-    "win_percentage": 32.9,
-    "avg_points": 1.24,
+    "goals_for": 188,
+    "goals_against": 217,
+    "goal_difference": -29,
+    "win_percentage": 33.3,
+    "avg_points": 1.25,
     "best_rank": 40,
-    "worst_rank": 87,
-    "avg_rank": 58.78,
+    "worst_rank": 89,
+    "avg_rank": 58.97,
     "biggest_win": {
       "score": "6-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "2019-11-14",
       "flag": "england.png"
     },
-    "home_matches": 83,
+    "home_matches": 84,
     "away_matches": 73,
     "neutral_matches": 5,
     "first_match_date": "2007-03-24",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4912,
+      "rating1": 4899,
       "rating2": 5444,
       "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 13.8,
+      "rank": 89,
+      "win_prob": 13.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4912,
+      "rating1": 4899,
       "rating2": 4449,
       "rating_ev": 0,
-      "rank": 87,
-      "win_prob": 82.5,
+      "rank": 89,
+      "win_prob": 81.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Liechtenstein",
       "flag1": "montenegro.png",
       "flag2": "liechtenstein.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4912,
-      "rating2": 4326,
-      "rating_ev": 0,
-      "rank": 87,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4899,
+      "rating2": 4339,
+      "rating_ev": -13,
+      "rank": 89,
       "win_prob": 94.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

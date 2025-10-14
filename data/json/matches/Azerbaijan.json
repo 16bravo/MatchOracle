@@ -1,18 +1,18 @@
 {
   "team": "Azerbaijan",
   "stats": {
-    "matches_played": 317,
+    "matches_played": 318,
     "wins": 65,
     "draws": 80,
-    "losses": 172,
-    "goals_for": 254,
-    "goals_against": 533,
-    "goal_difference": -279,
-    "win_percentage": 20.5,
-    "avg_points": 0.87,
+    "losses": 173,
+    "goals_for": 255,
+    "goals_against": 535,
+    "goal_difference": -280,
+    "win_percentage": 20.4,
+    "avg_points": 0.86,
     "best_rank": 36,
     "worst_rank": 131,
-    "avg_rank": 99.88,
+    "avg_rank": 99.95,
     "biggest_win": {
       "score": "4-0",
       "opponent": "Armenia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 112,
     "away_matches": 152,
-    "neutral_matches": 53,
+    "neutral_matches": 54,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 4783,
-      "rating2": 5551,
+      "rating1": 4797,
+      "rating2": 5530,
       "rating_ev": 0,
-      "rank": 124,
-      "win_prob": 6.1,
+      "rank": 121,
+      "win_prob": 6.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "iceland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4783,
-      "rating2": 5097,
+      "rating1": 4797,
+      "rating2": 5118,
       "rating_ev": 0,
-      "rank": 124,
-      "win_prob": 28.3,
+      "rank": 121,
+      "win_prob": 27.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Ukraine",
       "flag1": "azerbaijan.png",
       "flag2": "ukraine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4783,
-      "rating2": 5271,
-      "rating_ev": 0,
-      "rank": 124,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4797,
+      "rating2": 5257,
+      "rating_ev": 14,
+      "rank": 122,
       "win_prob": 11.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

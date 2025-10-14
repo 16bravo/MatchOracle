@@ -1,18 +1,18 @@
 {
   "team": "North Macedonia",
   "stats": {
-    "matches_played": 298,
+    "matches_played": 299,
     "wins": 95,
-    "draws": 75,
+    "draws": 76,
     "losses": 128,
-    "goals_for": 362,
-    "goals_against": 395,
+    "goals_for": 363,
+    "goals_against": 396,
     "goal_difference": -33,
-    "win_percentage": 31.9,
+    "win_percentage": 31.8,
     "avg_points": 1.21,
     "best_rank": 37,
     "worst_rank": 86,
-    "avg_rank": 62.76,
+    "avg_rank": 62.72,
     "biggest_win": {
       "score": "11-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "2023-06-19",
       "flag": "england.png"
     },
-    "home_matches": 33,
+    "home_matches": 34,
     "away_matches": 129,
     "neutral_matches": 136,
     "first_match_date": "1993-10-13",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5144,
-      "rating2": 5202,
+      "rating1": 5120,
+      "rating2": 5182,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 33.3,
+      "rank": 54,
+      "win_prob": 32.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5144,
+      "rating1": 5120,
       "rating2": 4807,
       "rating_ev": 0,
-      "rank": 48,
-      "win_prob": 87.0,
+      "rank": 54,
+      "win_prob": 85.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Kazakhstan",
       "flag1": "macedonia.png",
       "flag2": "kazakhstan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5144,
-      "rating2": 4832,
-      "rating_ev": 0,
-      "rank": 48,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5120,
+      "rating2": 4856,
+      "rating_ev": -24,
+      "rank": 53,
       "win_prob": 85.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

@@ -1,13 +1,13 @@
 {
   "team": "Germany",
   "stats": {
-    "matches_played": 1035,
-    "wins": 594,
+    "matches_played": 1036,
+    "wins": 595,
     "draws": 217,
     "losses": 224,
-    "goals_for": 2316,
+    "goals_for": 2317,
     "goals_against": 1222,
-    "goal_difference": 1094,
+    "goal_difference": 1095,
     "win_percentage": 57.4,
     "avg_points": 1.93,
     "best_rank": 1,
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 308,
-    "away_matches": 410,
+    "away_matches": 411,
     "neutral_matches": 317,
     "first_match_date": "1908-04-05",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5486,
-      "rating2": 5186,
+      "rating1": 5485,
+      "rating2": 5190,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 85.2,
+      "win_prob": 84.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 5486,
-      "rating2": 4880,
+      "rating1": 5485,
+      "rating2": 4876,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 89.3,
+      "win_prob": 89.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Northern Ireland",
       "flag1": "germany.png",
       "flag2": "northern_ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5486,
-      "rating2": 5131,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5485,
+      "rating2": 5132,
+      "rating_ev": -1,
       "rank": 10,
       "win_prob": 75.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

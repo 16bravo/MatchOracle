@@ -1,18 +1,18 @@
 {
   "team": "Liechtenstein",
   "stats": {
-    "matches_played": 252,
+    "matches_played": 253,
     "wins": 18,
     "draws": 32,
-    "losses": 202,
-    "goals_for": 101,
-    "goals_against": 708,
-    "goal_difference": -607,
+    "losses": 203,
+    "goals_for": 102,
+    "goals_against": 710,
+    "goal_difference": -608,
     "win_percentage": 7.1,
     "avg_points": 0.34,
     "best_rank": 117,
     "worst_rank": 184,
-    "avg_rank": 153.18,
+    "avg_rank": 153.26,
     "biggest_win": {
       "score": "4-0",
       "opponent": "Luxembourg",
@@ -26,10 +26,10 @@
       "flag": "macedonia.png"
     },
     "home_matches": 113,
-    "away_matches": 122,
+    "away_matches": 123,
     "neutral_matches": 17,
     "first_match_date": "1981-06-14",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,8 +44,8 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 4326,
-      "rating2": 5434,
+      "rating1": 4339,
+      "rating2": 5454,
       "rating_ev": 0,
       "rank": 174,
       "win_prob": 0.9,
@@ -63,11 +63,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 4326,
-      "rating2": 5202,
+      "rating1": 4339,
+      "rating2": 5182,
       "rating_ev": 0,
       "rank": 174,
-      "win_prob": 4.3,
+      "win_prob": 4.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Montenegro",
       "flag1": "liechtenstein.png",
       "flag2": "montenegro.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4326,
-      "rating2": 4912,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4339,
+      "rating2": 4899,
+      "rating_ev": 13,
       "rank": 174,
       "win_prob": 5.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

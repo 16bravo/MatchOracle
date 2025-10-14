@@ -1,18 +1,18 @@
 {
   "team": "Libya",
   "stats": {
-    "matches_played": 440,
+    "matches_played": 441,
     "wins": 161,
-    "draws": 102,
+    "draws": 103,
     "losses": 177,
     "goals_for": 599,
     "goals_against": 583,
     "goal_difference": 16,
-    "win_percentage": 36.6,
+    "win_percentage": 36.5,
     "avg_points": 1.33,
     "best_rank": 45,
     "worst_rank": 118,
-    "avg_rank": 82.18,
+    "avg_rank": 82.2,
     "biggest_win": {
       "score": "21-0",
       "opponent": "Oman",
@@ -26,14 +26,14 @@
       "flag": "egypt_3.png"
     },
     "home_matches": 159,
-    "away_matches": 159,
+    "away_matches": 160,
     "neutral_matches": 122,
     "first_match_date": "1953-08-03",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
-      "date": "2025-11-13",
+      "date": "2025-11-14",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Libya",
@@ -44,11 +44,11 @@
       "flag2": "palestine.png",
       "score1": "",
       "score2": "",
-      "rating1": 4895,
+      "rating1": 4883,
       "rating2": 4857,
       "rating_ev": 0,
       "rank": 90,
-      "win_prob": 54.2,
+      "win_prob": 52.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Mauritius",
       "flag1": "libya.png",
       "flag2": "mauritius.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4895,
-      "rating2": 4598,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4883,
+      "rating2": 4610,
+      "rating_ev": -12,
       "rank": 90,
       "win_prob": 70.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

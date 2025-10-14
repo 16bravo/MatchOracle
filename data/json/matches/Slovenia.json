@@ -1,18 +1,18 @@
 {
   "team": "Slovenia",
   "stats": {
-    "matches_played": 311,
+    "matches_played": 312,
     "wins": 114,
-    "draws": 83,
+    "draws": 84,
     "losses": 114,
     "goals_for": 388,
     "goals_against": 363,
     "goal_difference": 25,
-    "win_percentage": 36.7,
+    "win_percentage": 36.5,
     "avg_points": 1.37,
     "best_rank": 24,
     "worst_rank": 69,
-    "avg_rank": 46.18,
+    "avg_rank": 46.15,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Oman",
@@ -25,11 +25,11 @@
       "date": "2002-10-12",
       "flag": "france.png"
     },
-    "home_matches": 140,
+    "home_matches": 141,
     "away_matches": 141,
     "neutral_matches": 30,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
-      "rating2": 5274,
+      "rating1": 5212,
+      "rating2": 5246,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 32.2,
+      "rank": 36,
+      "win_prob": 35.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "kosovo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
-      "rating2": 5125,
+      "rating1": 5212,
+      "rating2": 5153,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 68.7,
+      "rank": 36,
+      "win_prob": 66.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Switzerland",
       "flag1": "slovenia.png",
       "flag2": "switzerland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5204,
-      "rating2": 5435,
-      "rating_ev": 0,
-      "rank": 37,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5212,
+      "rating2": 5427,
+      "rating_ev": 8,
+      "rank": 36,
       "win_prob": 36.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

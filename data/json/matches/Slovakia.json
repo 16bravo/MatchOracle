@@ -1,18 +1,18 @@
 {
   "team": "Slovakia",
   "stats": {
-    "matches_played": 366,
-    "wins": 148,
+    "matches_played": 367,
+    "wins": 149,
     "draws": 86,
     "losses": 132,
-    "goals_for": 516,
+    "goals_for": 518,
     "goals_against": 457,
-    "goal_difference": 59,
-    "win_percentage": 40.4,
+    "goal_difference": 61,
+    "win_percentage": 40.6,
     "avg_points": 1.45,
     "best_rank": 17,
     "worst_rank": 65,
-    "avg_rank": 39.66,
+    "avg_rank": 39.67,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1995-06-22",
       "flag": "argentina.png"
     },
-    "home_matches": 152,
+    "home_matches": 153,
     "away_matches": 170,
     "neutral_matches": 44,
     "first_match_date": "1939-08-27",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5186,
-      "rating2": 5486,
+      "rating1": 5190,
+      "rating2": 5485,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 14.8,
+      "rank": 42,
+      "win_prob": 15.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "northern_ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5186,
-      "rating2": 5131,
+      "rating1": 5190,
+      "rating2": 5132,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 66.4,
+      "rank": 42,
+      "win_prob": 66.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Luxembourg",
       "flag1": "slovakia.png",
       "flag2": "luxembourg.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5186,
-      "rating2": 4880,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5190,
+      "rating2": 4876,
+      "rating_ev": 4,
       "rank": 43,
       "win_prob": 85.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

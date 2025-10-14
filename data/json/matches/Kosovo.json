@@ -1,18 +1,18 @@
 {
   "team": "Kosovo",
   "stats": {
-    "matches_played": 100,
-    "wins": 38,
+    "matches_played": 101,
+    "wins": 39,
     "draws": 22,
     "losses": 40,
-    "goals_for": 137,
+    "goals_for": 138,
     "goals_against": 138,
-    "goal_difference": -1,
-    "win_percentage": 38.0,
-    "avg_points": 1.36,
-    "best_rank": 50,
+    "goal_difference": 0,
+    "win_percentage": 38.6,
+    "avg_points": 1.38,
+    "best_rank": 48,
     "worst_rank": 104,
-    "avg_rank": 72.7,
+    "avg_rank": 72.46,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Malta",
@@ -26,10 +26,10 @@
       "flag": "croatia.png"
     },
     "home_matches": 46,
-    "away_matches": 35,
+    "away_matches": 36,
     "neutral_matches": 19,
     "first_match_date": "1993-02-14",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5125,
-      "rating2": 5435,
+      "rating1": 5153,
+      "rating2": 5427,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 28.7,
+      "rank": 48,
+      "win_prob": 31.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5125,
-      "rating2": 5204,
+      "rating1": 5153,
+      "rating2": 5212,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 31.3,
+      "rank": 48,
+      "win_prob": 33.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Sweden",
       "flag1": "kosovo.png",
       "flag2": "sweden.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5125,
-      "rating2": 5274,
-      "rating_ev": 0,
-      "rank": 52,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5153,
+      "rating2": 5246,
+      "rating_ev": 28,
+      "rank": 48,
       "win_prob": 25.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

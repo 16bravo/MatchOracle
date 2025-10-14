@@ -1,18 +1,18 @@
 {
   "team": "Lesotho",
   "stats": {
-    "matches_played": 335,
-    "wins": 66,
+    "matches_played": 336,
+    "wins": 67,
     "draws": 100,
     "losses": 169,
-    "goals_for": 263,
+    "goals_for": 264,
     "goals_against": 547,
-    "goal_difference": -284,
-    "win_percentage": 19.7,
-    "avg_points": 0.89,
+    "goal_difference": -283,
+    "win_percentage": 19.9,
+    "avg_points": 0.9,
     "best_rank": 112,
     "worst_rank": 167,
-    "avg_rank": 144.83,
+    "avg_rank": 144.84,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 109,
     "away_matches": 138,
-    "neutral_matches": 88,
+    "neutral_matches": 89,
     "first_match_date": "1970-08-08",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Zimbabwe",
       "flag1": "lesotho.png",
       "flag2": "zimbabwe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4599,
-      "rating2": 4832,
-      "rating_ev": 0,
-      "rank": 153,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4627,
+      "rating2": 4804,
+      "rating_ev": 28,
+      "rank": 150,
       "win_prob": 26.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

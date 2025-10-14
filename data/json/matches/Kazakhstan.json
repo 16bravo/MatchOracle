@@ -1,18 +1,18 @@
 {
   "team": "Kazakhstan",
   "stats": {
-    "matches_played": 263,
+    "matches_played": 264,
     "wins": 67,
-    "draws": 55,
+    "draws": 56,
     "losses": 141,
-    "goals_for": 274,
-    "goals_against": 444,
+    "goals_for": 275,
+    "goals_against": 445,
     "goal_difference": -170,
-    "win_percentage": 25.5,
+    "win_percentage": 25.4,
     "avg_points": 0.97,
     "best_rank": 72,
     "worst_rank": 116,
-    "avg_rank": 98.78,
+    "avg_rank": 98.77,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Pakistan",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 100,
-    "away_matches": 118,
+    "away_matches": 119,
     "neutral_matches": 45,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 4832,
-      "rating2": 5434,
+      "rating1": 4856,
+      "rating2": 5454,
       "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 10.8,
+      "rank": 95,
+      "win_prob": 11.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "North Macedonia",
       "flag1": "kazakhstan.png",
       "flag2": "macedonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4832,
-      "rating2": 5144,
-      "rating_ev": 0,
-      "rank": 105,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4856,
+      "rating2": 5120,
+      "rating_ev": 24,
+      "rank": 96,
       "win_prob": 14.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

@@ -1,18 +1,18 @@
 {
   "team": "Northern Ireland",
   "stats": {
-    "matches_played": 606,
+    "matches_played": 607,
     "wins": 170,
     "draws": 148,
-    "losses": 288,
+    "losses": 289,
     "goals_for": 636,
-    "goals_against": 918,
-    "goal_difference": -282,
-    "win_percentage": 28.1,
-    "avg_points": 1.09,
+    "goals_against": 919,
+    "goal_difference": -283,
+    "win_percentage": 28.0,
+    "avg_points": 1.08,
     "best_rank": 13,
     "worst_rank": 96,
-    "avg_rank": 39.42,
+    "avg_rank": 39.44,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Wales",
@@ -25,11 +25,11 @@
       "date": "1938-11-16",
       "flag": "england.png"
     },
-    "home_matches": 275,
+    "home_matches": 276,
     "away_matches": 295,
     "neutral_matches": 36,
     "first_match_date": "1921-02-26",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 5131,
-      "rating2": 4880,
+      "rating1": 5132,
+      "rating2": 4876,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 82.3,
+      "win_prob": 82.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5131,
-      "rating2": 5186,
+      "rating1": 5132,
+      "rating2": 5190,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 33.6,
+      "win_prob": 33.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Germany",
       "flag1": "northern_ireland.png",
       "flag2": "germany.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5131,
-      "rating2": 5486,
-      "rating_ev": 0,
-      "rank": 51,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5132,
+      "rating2": 5485,
+      "rating_ev": 1,
+      "rank": 50,
       "win_prob": 24.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

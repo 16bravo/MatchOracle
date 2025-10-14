@@ -1,18 +1,18 @@
 {
   "team": "Mauritius",
   "stats": {
-    "matches_played": 337,
+    "matches_played": 338,
     "wins": 94,
-    "draws": 76,
+    "draws": 77,
     "losses": 167,
     "goals_for": 426,
     "goals_against": 544,
     "goal_difference": -118,
-    "win_percentage": 27.9,
+    "win_percentage": 27.8,
     "avg_points": 1.06,
     "best_rank": 16,
     "worst_rank": 177,
-    "avg_rank": 123.79,
+    "avg_rank": 123.87,
     "biggest_win": {
       "score": "15-2",
       "opponent": "Reunion",
@@ -25,11 +25,11 @@
       "date": "2003-06-08",
       "flag": "egypt.png"
     },
-    "home_matches": 112,
+    "home_matches": 113,
     "away_matches": 148,
     "neutral_matches": 77,
     "first_match_date": "1932-01-17",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Libya",
       "flag1": "mauritius.png",
       "flag2": "libya.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4598,
-      "rating2": 4895,
-      "rating_ev": 0,
-      "rank": 154,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4610,
+      "rating2": 4883,
+      "rating_ev": 12,
+      "rank": 152,
       "win_prob": 29.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",
