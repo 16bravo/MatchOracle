@@ -1,18 +1,18 @@
 {
   "team": "Brazil",
   "stats": {
-    "matches_played": 1061,
+    "matches_played": 1062,
     "wins": 670,
     "draws": 221,
-    "losses": 170,
-    "goals_for": 2287,
-    "goals_against": 947,
-    "goal_difference": 1340,
+    "losses": 171,
+    "goals_for": 2289,
+    "goals_against": 950,
+    "goal_difference": 1339,
     "win_percentage": 63.1,
     "avg_points": 2.1,
     "best_rank": 1,
     "worst_rank": 14,
-    "avg_rank": 3.12,
+    "avg_rank": 3.13,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Bolivia",
@@ -26,10 +26,10 @@
       "flag": "uruguay.png"
     },
     "home_matches": 373,
-    "away_matches": 345,
+    "away_matches": 346,
     "neutral_matches": 343,
     "first_match_date": "1914-09-20",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5509,
+      "rating1": 5502,
       "rating2": 5121,
       "rating_ev": 0,
       "rank": 9,
-      "win_prob": 84.3,
+      "win_prob": 83.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5509,
-      "rating2": 5240,
+      "rating1": 5502,
+      "rating2": 5263,
       "rating_ev": 0,
       "rank": 9,
-      "win_prob": 76.4,
+      "win_prob": 74.0,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Japan",
       "flag1": "brazil.png",
       "flag2": "japan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5509,
-      "rating2": 5408,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 5502,
+      "rating2": 5415,
+      "rating_ev": -7,
       "rank": 9,
       "win_prob": 50.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

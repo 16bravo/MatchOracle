@@ -1,18 +1,18 @@
 {
   "team": "Laos",
   "stats": {
-    "matches_played": 231,
+    "matches_played": 232,
     "wins": 42,
     "draws": 35,
-    "losses": 154,
-    "goals_for": 233,
-    "goals_against": 729,
-    "goal_difference": -496,
-    "win_percentage": 18.2,
-    "avg_points": 0.7,
+    "losses": 155,
+    "goals_for": 234,
+    "goals_against": 734,
+    "goal_difference": -500,
+    "win_percentage": 18.1,
+    "avg_points": 0.69,
     "best_rank": 149,
     "worst_rank": 207,
-    "avg_rank": 191.88,
+    "avg_rank": 191.93,
     "biggest_win": {
       "score": "6-1",
       "opponent": "East Timor",
@@ -26,10 +26,10 @@
       "flag": null
     },
     "home_matches": 47,
-    "away_matches": 67,
+    "away_matches": 68,
     "neutral_matches": 117,
     "first_match_date": "1961-12-12",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 3926,
-      "rating2": 4669,
+      "rating1": 3917,
+      "rating2": 4647,
       "rating_ev": 0,
       "rank": 204,
-      "win_prob": 6.7,
+      "win_prob": 7.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Malaysia",
       "flag1": "laos.png",
       "flag2": "malaysia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3926,
-      "rating2": 4609,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 5,
+      "rating1": 3917,
+      "rating2": 4618,
+      "rating_ev": -9,
       "rank": 204,
       "win_prob": 3.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",
@@ -120,11 +120,11 @@
       "flag2": "nepal.png",
       "score1": "",
       "score2": "",
-      "rating1": 3926,
-      "rating2": 4142,
+      "rating1": 3917,
+      "rating2": 4164,
       "rating_ev": 0,
       "rank": 204,
-      "win_prob": 20.0,
+      "win_prob": 18.0,
       "type": "fixture"
     },
     {

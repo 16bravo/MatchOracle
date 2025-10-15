@@ -1,14 +1,14 @@
 {
   "team": "Cura\u00e7ao",
   "stats": {
-    "matches_played": 479,
+    "matches_played": 480,
     "wins": 195,
-    "draws": 118,
+    "draws": 119,
     "losses": 166,
-    "goals_for": 846,
-    "goals_against": 735,
+    "goals_for": 847,
+    "goals_against": 736,
     "goal_difference": 111,
-    "win_percentage": 40.7,
+    "win_percentage": 40.6,
     "avg_points": 1.47,
     "best_rank": 37,
     "worst_rank": 182,
@@ -25,11 +25,11 @@
       "date": "1962-09-05",
       "flag": "netherlands.png"
     },
-    "home_matches": 110,
+    "home_matches": 111,
     "away_matches": 167,
     "neutral_matches": 202,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4830,
+      "rating1": 4822,
       "rating2": 4919,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 30.4,
+      "rank": 107,
+      "win_prob": 29.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "bermuda.png",
       "score1": "",
       "score2": "",
-      "rating1": 4830,
+      "rating1": 4822,
       "rating2": 4403,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 80.3,
+      "rank": 107,
+      "win_prob": 79.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Trinidad and Tobago",
       "flag1": "curacao.png",
       "flag2": "trinidad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4830,
-      "rating2": 4798,
-      "rating_ev": 0,
-      "rank": 106,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4822,
+      "rating2": 4806,
+      "rating_ev": -8,
+      "rank": 107,
       "win_prob": 64.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

@@ -1,18 +1,18 @@
 {
   "team": "Georgia",
   "stats": {
-    "matches_played": 310,
+    "matches_played": 311,
     "wins": 104,
     "draws": 66,
-    "losses": 140,
-    "goals_for": 400,
-    "goals_against": 425,
-    "goal_difference": -25,
-    "win_percentage": 33.5,
+    "losses": 141,
+    "goals_for": 401,
+    "goals_against": 429,
+    "goal_difference": -28,
+    "win_percentage": 33.4,
     "avg_points": 1.22,
     "best_rank": 29,
     "worst_rank": 90,
-    "avg_rank": 59.81,
+    "avg_rank": 59.72,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Thailand",
@@ -26,10 +26,10 @@
       "flag": "spain.png"
     },
     "home_matches": 134,
-    "away_matches": 145,
+    "away_matches": 146,
     "neutral_matches": 31,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5258,
+      "rating1": 5227,
       "rating2": 4855,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 78.7,
+      "rank": 33,
+      "win_prob": 76.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5258,
+      "rating1": 5227,
       "rating2": 5719,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 17.6,
+      "rank": 33,
+      "win_prob": 15.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Turkey",
       "flag1": "georgia.png",
       "flag2": "turkey.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5258,
-      "rating2": 5324,
-      "rating_ev": 0,
-      "rank": 29,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 5227,
+      "rating2": 5355,
+      "rating_ev": -31,
+      "rank": 33,
       "win_prob": 32.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

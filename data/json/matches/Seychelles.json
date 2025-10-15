@@ -1,18 +1,18 @@
 {
   "team": "Seychelles",
   "stats": {
-    "matches_played": 181,
+    "matches_played": 182,
     "wins": 23,
     "draws": 32,
-    "losses": 126,
+    "losses": 127,
     "goals_for": 135,
-    "goals_against": 405,
-    "goal_difference": -270,
-    "win_percentage": 12.7,
-    "avg_points": 0.56,
+    "goals_against": 412,
+    "goal_difference": -277,
+    "win_percentage": 12.6,
+    "avg_points": 0.55,
     "best_rank": 132,
-    "worst_rank": 192,
-    "avg_rank": 168.36,
+    "worst_rank": 196,
+    "avg_rank": 168.51,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Maldives",
@@ -27,9 +27,9 @@
     },
     "home_matches": 48,
     "away_matches": 58,
-    "neutral_matches": 75,
+    "neutral_matches": 76,
     "first_match_date": "1974-03-13",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Gambia",
       "flag1": "seychelles.png",
       "flag2": "gambia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4128,
-      "rating2": 4913,
-      "rating_ev": 0,
-      "rank": 192,
+      "score1": 0,
+      "score2": 7,
+      "rating1": 4087,
+      "rating2": 4954,
+      "rating_ev": -41,
+      "rank": 196,
       "win_prob": 3.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

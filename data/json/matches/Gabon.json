@@ -1,18 +1,18 @@
 {
   "team": "Gabon",
   "stats": {
-    "matches_played": 445,
-    "wins": 155,
+    "matches_played": 446,
+    "wins": 156,
     "draws": 126,
     "losses": 164,
-    "goals_for": 526,
+    "goals_for": 528,
     "goals_against": 534,
-    "goal_difference": -8,
-    "win_percentage": 34.8,
+    "goal_difference": -6,
+    "win_percentage": 35.0,
     "avg_points": 1.33,
     "best_rank": 63,
     "worst_rank": 116,
-    "avg_rank": 88.59,
+    "avg_rank": 88.57,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Benin",
@@ -25,11 +25,11 @@
       "date": "1961-12-26",
       "flag": "cameroon_2.png"
     },
-    "home_matches": 178,
+    "home_matches": 179,
     "away_matches": 148,
     "neutral_matches": 119,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4929,
-      "rating2": 5097,
+      "rating1": 4941,
+      "rating2": 5118,
       "rating_ev": 0,
       "rank": 81,
-      "win_prob": 32.4,
+      "win_prob": 31.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 4929,
-      "rating2": 4827,
+      "rating1": 4941,
+      "rating2": 4817,
       "rating_ev": 0,
       "rank": 81,
-      "win_prob": 61.0,
+      "win_prob": 63.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4929,
+      "rating1": 4941,
       "rating2": 5052,
       "rating_ev": 0,
       "rank": 81,
-      "win_prob": 36.8,
+      "win_prob": 38.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Burundi",
       "flag1": "gabon.png",
       "flag2": "burundi.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4929,
-      "rating2": 4767,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4941,
+      "rating2": 4755,
+      "rating_ev": 12,
       "rank": 81,
       "win_prob": 76.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

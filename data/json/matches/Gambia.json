@@ -1,23 +1,23 @@
 {
   "team": "Gambia",
   "stats": {
-    "matches_played": 284,
-    "wins": 79,
+    "matches_played": 285,
+    "wins": 80,
     "draws": 79,
     "losses": 126,
-    "goals_for": 299,
+    "goals_for": 306,
     "goals_against": 402,
-    "goal_difference": -103,
-    "win_percentage": 27.8,
-    "avg_points": 1.11,
+    "goal_difference": -96,
+    "win_percentage": 28.1,
+    "avg_points": 1.12,
     "best_rank": 76,
     "worst_rank": 123,
-    "avg_rank": 100.01,
+    "avg_rank": 99.94,
     "biggest_win": {
-      "score": "6-0",
-      "opponent": "Lesotho",
-      "date": "2002-10-13",
-      "flag": "lesotho_2.png"
+      "score": "7-0",
+      "opponent": "Seychelles",
+      "date": "2025-10-14",
+      "flag": "seychelles.png"
     },
     "biggest_loss": {
       "score": "0-8",
@@ -27,9 +27,9 @@
     },
     "home_matches": 0,
     "away_matches": 98,
-    "neutral_matches": 186,
+    "neutral_matches": 187,
     "first_match_date": "1953-02-09",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4913,
+      "rating1": 4954,
       "rating2": 4693,
       "rating_ev": 0,
-      "rank": 86,
-      "win_prob": 72.4,
+      "rank": 79,
+      "win_prob": 75.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Seychelles",
       "flag1": "gambia.png",
       "flag2": "seychelles.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4913,
-      "rating2": 4128,
-      "rating_ev": 0,
-      "rank": 86,
+      "score1": 7,
+      "score2": 0,
+      "rating1": 4954,
+      "rating2": 4087,
+      "rating_ev": 41,
+      "rank": 79,
       "win_prob": 96.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

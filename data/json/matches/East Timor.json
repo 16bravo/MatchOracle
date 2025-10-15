@@ -1,18 +1,18 @@
 {
   "team": "East Timor",
   "stats": {
-    "matches_played": 90,
+    "matches_played": 91,
     "wins": 11,
     "draws": 8,
-    "losses": 71,
-    "goals_for": 81,
-    "goals_against": 288,
-    "goal_difference": -207,
-    "win_percentage": 12.2,
-    "avg_points": 0.46,
+    "losses": 72,
+    "goals_for": 82,
+    "goals_against": 291,
+    "goal_difference": -209,
+    "win_percentage": 12.1,
+    "avg_points": 0.45,
     "best_rank": 203,
     "worst_rank": 211,
-    "avg_rank": 206.56,
+    "avg_rank": 206.55,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Cambodia",
@@ -26,10 +26,10 @@
       "flag": "saudi_arabia.png"
     },
     "home_matches": 6,
-    "away_matches": 45,
+    "away_matches": 46,
     "neutral_matches": 39,
     "first_match_date": "2003-03-21",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,8 +44,8 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 3812,
-      "rating2": 4614,
+      "rating1": 3829,
+      "rating2": 4633,
       "rating_ev": 0,
       "rank": 206,
       "win_prob": 3.6,
@@ -61,14 +61,14 @@
       "original_team2": "Philippines",
       "flag1": "timor.png",
       "flag2": "philippines.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3812,
-      "rating2": 4491,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 3829,
+      "rating2": 4474,
+      "rating_ev": 17,
       "rank": 206,
       "win_prob": 3.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",
@@ -120,11 +120,11 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 3812,
-      "rating2": 4141,
+      "rating1": 3829,
+      "rating2": 4122,
       "rating_ev": 0,
       "rank": 206,
-      "win_prob": 13.4,
+      "win_prob": 15.2,
       "type": "fixture"
     },
     {

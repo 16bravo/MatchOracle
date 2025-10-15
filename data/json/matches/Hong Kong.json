@@ -1,18 +1,18 @@
 {
   "team": "Hong Kong",
   "stats": {
-    "matches_played": 509,
+    "matches_played": 510,
     "wins": 181,
-    "draws": 98,
+    "draws": 99,
     "losses": 230,
-    "goals_for": 808,
-    "goals_against": 857,
+    "goals_for": 809,
+    "goals_against": 858,
     "goal_difference": -49,
-    "win_percentage": 35.6,
+    "win_percentage": 35.5,
     "avg_points": 1.26,
     "best_rank": 74,
     "worst_rank": 173,
-    "avg_rank": 130.08,
+    "avg_rank": 130.14,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "1948-03-31",
       "flag": "south_vietnam.png"
     },
-    "home_matches": 178,
+    "home_matches": 179,
     "away_matches": 151,
     "neutral_matches": 180,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4597,
-      "rating2": 4322,
+      "rating1": 4567,
+      "rating2": 4354,
       "rating_ev": 0,
-      "rank": 155,
-      "win_prob": 83.7,
+      "rank": 159,
+      "win_prob": 79.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bangladesh",
       "flag1": "hong_kong.png",
       "flag2": "bangladesh.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4597,
-      "rating2": 4188,
-      "rating_ev": 0,
-      "rank": 155,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4567,
+      "rating2": 4218,
+      "rating_ev": -30,
+      "rank": 159,
       "win_prob": 90.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",
@@ -234,11 +234,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4597,
-      "rating2": 4523,
+      "rating1": 4567,
+      "rating2": 4491,
       "rating_ev": 0,
-      "rank": 155,
-      "win_prob": 47.2,
+      "rank": 159,
+      "win_prob": 47.4,
       "type": "fixture"
     },
     {

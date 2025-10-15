@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 527,
+    "matches_played": 528,
     "wins": 120,
     "draws": 120,
-    "losses": 287,
+    "losses": 288,
     "goals_for": 544,
-    "goals_against": 1037,
-    "goal_difference": -493,
-    "win_percentage": 22.8,
+    "goals_against": 1040,
+    "goal_difference": -496,
+    "win_percentage": 22.7,
     "avg_points": 0.91,
     "best_rank": 23,
     "worst_rank": 78,
-    "avg_rank": 50.72,
+    "avg_rank": 50.74,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -26,10 +26,10 @@
       "flag": "uruguay.png"
     },
     "home_matches": 186,
-    "away_matches": 201,
+    "away_matches": 202,
     "neutral_matches": 140,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5107,
-      "rating2": 5408,
+      "rating1": 5097,
+      "rating2": 5415,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 14.8,
+      "rank": 61,
+      "win_prob": 13.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5107,
-      "rating2": 5180,
+      "rating1": 5097,
+      "rating2": 5196,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 31.9,
+      "rank": 61,
+      "win_prob": 29.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Russia",
       "flag1": "bolivia.png",
       "flag2": "russia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5107,
-      "rating2": 5366,
-      "rating_ev": 0,
-      "rank": 57,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 5097,
+      "rating2": 5376,
+      "rating_ev": -10,
+      "rank": 61,
       "win_prob": 17.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",
@@ -234,11 +234,11 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 5107,
+      "rating1": 5097,
       "rating2": 4777,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 86.7,
+      "rank": 61,
+      "win_prob": 86.2,
       "type": "fixture"
     },
     {

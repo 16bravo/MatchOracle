@@ -1,18 +1,18 @@
 {
   "team": "Morocco",
   "stats": {
-    "matches_played": 707,
-    "wins": 347,
+    "matches_played": 708,
+    "wins": 348,
     "draws": 198,
     "losses": 162,
-    "goals_for": 1064,
+    "goals_for": 1065,
     "goals_against": 604,
-    "goal_difference": 460,
-    "win_percentage": 49.1,
+    "goal_difference": 461,
+    "win_percentage": 49.2,
     "avg_points": 1.75,
     "best_rank": 15,
     "worst_rank": 76,
-    "avg_rank": 44.83,
+    "avg_rank": 44.8,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Saudi Arabia",
@@ -25,11 +25,11 @@
       "date": "1961-10-11",
       "flag": "switzerland.png"
     },
-    "home_matches": 307,
+    "home_matches": 308,
     "away_matches": 211,
     "neutral_matches": 189,
     "first_match_date": "1957-10-19",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5372,
+      "rating1": 5338,
       "rating2": 4844,
       "rating_ev": 0,
-      "rank": 20,
-      "win_prob": 93.7,
+      "rank": 22,
+      "win_prob": 92.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5372,
+      "rating1": 5338,
       "rating2": 5136,
       "rating_ev": 0,
-      "rank": 20,
-      "win_prob": 81.3,
+      "rank": 22,
+      "win_prob": 79.0,
       "type": "fixture"
     },
     {
@@ -82,15 +82,15 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5372,
+      "rating1": 5338,
       "rating2": 4846,
       "rating_ev": 0,
-      "rank": 20,
-      "win_prob": 93.6,
+      "rank": 22,
+      "win_prob": 92.7,
       "type": "fixture"
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-15",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Morocco",
@@ -101,11 +101,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5372,
-      "rating2": 5002,
+      "rating1": 5338,
+      "rating2": 4992,
       "rating_ev": 0,
-      "rank": 20,
-      "win_prob": 83.3,
+      "rank": 22,
+      "win_prob": 81.8,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Congo",
       "flag1": "morocco.png",
       "flag2": "congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5372,
-      "rating2": 4624,
-      "rating_ev": 0,
-      "rank": 20,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5338,
+      "rating2": 4658,
+      "rating_ev": -34,
+      "rank": 22,
       "win_prob": 97.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

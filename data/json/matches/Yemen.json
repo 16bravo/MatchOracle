@@ -1,18 +1,18 @@
 {
   "team": "Yemen",
   "stats": {
-    "matches_played": 286,
-    "wins": 62,
+    "matches_played": 287,
+    "wins": 63,
     "draws": 55,
     "losses": 169,
-    "goals_for": 276,
+    "goals_for": 285,
     "goals_against": 571,
-    "goal_difference": -295,
-    "win_percentage": 21.7,
-    "avg_points": 0.84,
+    "goal_difference": -286,
+    "win_percentage": 22.0,
+    "avg_points": 0.85,
     "best_rank": 113,
     "worst_rank": 168,
-    "avg_rank": 147.6,
+    "avg_rank": 147.65,
     "biggest_win": {
       "score": "11-2",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 49,
     "away_matches": 85,
-    "neutral_matches": 152,
+    "neutral_matches": 153,
     "first_match_date": "1965-09-02",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,15 +44,15 @@
       "flag2": "bhutan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4476,
-      "rating2": 3737,
+      "rating1": 4533,
+      "rating2": 3736,
       "rating_ev": 0,
-      "rank": 164,
-      "win_prob": 95.5,
+      "rank": 161,
+      "win_prob": 96.4,
       "type": "fixture"
     },
     {
-      "date": "2025-11-14",
+      "date": "2025-11-15",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Yemen",
@@ -63,11 +63,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 4476,
+      "rating1": 4533,
       "rating2": 4846,
       "rating_ev": 0,
-      "rank": 164,
-      "win_prob": 16.7,
+      "rank": 161,
+      "win_prob": 20.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Brunei",
       "flag1": "yemen.png",
       "flag2": "brunei.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4476,
-      "rating2": 3708,
-      "rating_ev": 0,
-      "rank": 164,
+      "score1": 9,
+      "score2": 0,
+      "rating1": 4533,
+      "rating2": 3651,
+      "rating_ev": 57,
+      "rank": 161,
       "win_prob": 96.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",
@@ -139,11 +139,11 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4476,
-      "rating2": 4693,
+      "rating1": 4533,
+      "rating2": 4694,
       "rating_ev": 0,
-      "rank": 164,
-      "win_prob": 20.0,
+      "rank": 161,
+      "win_prob": 24.1,
       "type": "fixture"
     },
     {

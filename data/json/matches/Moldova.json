@@ -1,18 +1,18 @@
 {
   "team": "Moldova",
   "stats": {
-    "matches_played": 294,
+    "matches_played": 295,
     "wins": 59,
-    "draws": 67,
+    "draws": 68,
     "losses": 168,
-    "goals_for": 238,
-    "goals_against": 508,
+    "goals_for": 239,
+    "goals_against": 509,
     "goal_difference": -270,
-    "win_percentage": 20.1,
+    "win_percentage": 20.0,
     "avg_points": 0.83,
     "best_rank": 74,
     "worst_rank": 144,
-    "avg_rank": 102.47,
+    "avg_rank": 102.58,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Pakistan",
@@ -26,10 +26,10 @@
       "flag": "norway.png"
     },
     "home_matches": 110,
-    "away_matches": 143,
+    "away_matches": 144,
     "neutral_matches": 41,
     "first_match_date": "1991-07-02",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "israel.png",
       "score1": "",
       "score2": "",
-      "rating1": 4699,
-      "rating2": 5122,
+      "rating1": 4713,
+      "rating2": 5104,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 13.9,
+      "rank": 135,
+      "win_prob": 15.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 4699,
-      "rating2": 5417,
+      "rating1": 4713,
+      "rating2": 5435,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 7.3,
+      "rank": 135,
+      "win_prob": 7.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Estonia",
       "flag1": "moldova.png",
       "flag2": "estonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4699,
-      "rating2": 4834,
-      "rating_ev": 0,
-      "rank": 137,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4713,
+      "rating2": 4820,
+      "rating_ev": 14,
+      "rank": 134,
       "win_prob": 26.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

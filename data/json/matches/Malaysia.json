@@ -1,18 +1,18 @@
 {
   "team": "Malaysia",
   "stats": {
-    "matches_played": 917,
-    "wins": 354,
+    "matches_played": 918,
+    "wins": 355,
     "draws": 208,
     "losses": 355,
-    "goals_for": 1489,
-    "goals_against": 1345,
-    "goal_difference": 144,
-    "win_percentage": 38.6,
-    "avg_points": 1.38,
+    "goals_for": 1494,
+    "goals_against": 1346,
+    "goal_difference": 148,
+    "win_percentage": 38.7,
+    "avg_points": 1.39,
     "best_rank": 60,
     "worst_rank": 183,
-    "avg_rank": 120.92,
+    "avg_rank": 120.96,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Philippines",
@@ -25,11 +25,11 @@
       "date": "2015-09-03",
       "flag": "uae.png"
     },
-    "home_matches": 344,
+    "home_matches": 345,
     "away_matches": 231,
     "neutral_matches": 342,
     "first_match_date": "1948-06-20",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "nepal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4609,
-      "rating2": 4142,
+      "rating1": 4618,
+      "rating2": 4164,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 82.8,
+      "rank": 153,
+      "win_prob": 82.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Laos",
       "flag1": "malaysia.png",
       "flag2": "laos.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4609,
-      "rating2": 3926,
-      "rating_ev": 0,
-      "rank": 154,
+      "score1": 5,
+      "score2": 1,
+      "rating1": 4618,
+      "rating2": 3917,
+      "rating_ev": 9,
+      "rank": 153,
       "win_prob": 96.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",
@@ -196,11 +196,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 4609,
-      "rating2": 4669,
+      "rating1": 4618,
+      "rating2": 4647,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 33.1,
+      "rank": 153,
+      "win_prob": 36.2,
       "type": "fixture"
     },
     {

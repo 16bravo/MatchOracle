@@ -1,18 +1,18 @@
 {
   "team": "Portugal",
   "stats": {
-    "matches_played": 689,
+    "matches_played": 690,
     "wins": 344,
-    "draws": 157,
+    "draws": 158,
     "losses": 188,
-    "goals_for": 1209,
-    "goals_against": 774,
+    "goals_for": 1211,
+    "goals_against": 776,
     "goal_difference": 435,
     "win_percentage": 49.9,
-    "avg_points": 1.73,
+    "avg_points": 1.72,
     "best_rank": 1,
     "worst_rank": 33,
-    "avg_rank": 14.5,
+    "avg_rank": 14.48,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Luxembourg",
@@ -25,11 +25,11 @@
       "date": "1947-05-25",
       "flag": "england.png"
     },
-    "home_matches": 318,
+    "home_matches": 319,
     "away_matches": 259,
     "neutral_matches": 112,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5592,
-      "rating2": 4832,
+      "rating1": 5562,
+      "rating2": 4840,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 97.3,
+      "rank": 4,
+      "win_prob": 96.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5592,
-      "rating2": 5106,
+      "rating1": 5562,
+      "rating2": 5098,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 83.8,
+      "rank": 4,
+      "win_prob": 82.6,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Hungary",
       "flag1": "portugal.png",
       "flag2": "hungary.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5592,
-      "rating2": 5170,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5562,
+      "rating2": 5200,
+      "rating_ev": -30,
       "rank": 3,
       "win_prob": 90.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

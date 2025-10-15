@@ -1,18 +1,18 @@
 {
   "team": "Uganda",
   "stats": {
-    "matches_played": 708,
+    "matches_played": 709,
     "wins": 298,
     "draws": 185,
-    "losses": 225,
-    "goals_for": 1068,
-    "goals_against": 840,
-    "goal_difference": 228,
-    "win_percentage": 42.1,
+    "losses": 226,
+    "goals_for": 1069,
+    "goals_against": 842,
+    "goal_difference": 227,
+    "win_percentage": 42.0,
     "avg_points": 1.52,
     "best_rank": 25,
     "worst_rank": 127,
-    "avg_rank": 82.54,
+    "avg_rank": 82.55,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Kenya",
@@ -26,10 +26,10 @@
       "flag": "ethiopia_1.png"
     },
     "home_matches": 242,
-    "away_matches": 238,
+    "away_matches": 239,
     "neutral_matches": 228,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4872,
-      "rating2": 5029,
+      "rating1": 4883,
+      "rating2": 5072,
       "rating_ev": 0,
-      "rank": 92,
-      "win_prob": 33.4,
+      "rank": 90,
+      "win_prob": 30.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4872,
-      "rating2": 4826,
+      "rating1": 4883,
+      "rating2": 4821,
       "rating_ev": 0,
-      "rank": 92,
-      "win_prob": 55.0,
+      "rank": 90,
+      "win_prob": 56.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4872,
+      "rating1": 4883,
       "rating2": 5121,
       "rating_ev": 0,
-      "rank": 92,
-      "win_prob": 25.2,
+      "rank": 90,
+      "win_prob": 26.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Algeria",
       "flag1": "uganda.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4872,
-      "rating2": 5196,
-      "rating_ev": 0,
-      "rank": 92,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4883,
+      "rating2": 5185,
+      "rating_ev": 11,
+      "rank": 90,
       "win_prob": 13.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

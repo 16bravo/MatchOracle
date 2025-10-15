@@ -1,18 +1,18 @@
 {
   "team": "Albania",
   "stats": {
-    "matches_played": 401,
-    "wins": 113,
+    "matches_played": 402,
+    "wins": 114,
     "draws": 85,
     "losses": 203,
-    "goals_for": 383,
-    "goals_against": 592,
-    "goal_difference": -209,
-    "win_percentage": 28.2,
+    "goals_for": 387,
+    "goals_against": 594,
+    "goal_difference": -207,
+    "win_percentage": 28.4,
     "avg_points": 1.06,
     "best_rank": 34,
     "worst_rank": 88,
-    "avg_rank": 60.75,
+    "avg_rank": 60.71,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Vietnam",
@@ -25,11 +25,11 @@
       "date": "1950-09-24",
       "flag": "hungary_4.png"
     },
-    "home_matches": 187,
+    "home_matches": 188,
     "away_matches": 182,
     "neutral_matches": 32,
     "first_match_date": "1946-10-07",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5158,
-      "rating2": 5544,
+      "rating1": 5166,
+      "rating2": 5573,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 22.6,
+      "rank": 46,
+      "win_prob": 21.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 5158,
-      "rating2": 4708,
+      "rating1": 5166,
+      "rating2": 4706,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 81.7,
+      "rank": 46,
+      "win_prob": 82.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Jordan",
       "flag1": "albania.png",
       "flag2": "jordan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5158,
-      "rating2": 5066,
-      "rating_ev": 0,
-      "rank": 47,
+      "score1": 4,
+      "score2": 2,
+      "rating1": 5166,
+      "rating2": 5058,
+      "rating_ev": 8,
+      "rank": 46,
       "win_prob": 69.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

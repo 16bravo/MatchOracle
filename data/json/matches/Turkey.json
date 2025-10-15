@@ -1,18 +1,18 @@
 {
   "team": "Turkey",
   "stats": {
-    "matches_played": 656,
-    "wins": 257,
+    "matches_played": 657,
+    "wins": 258,
     "draws": 153,
     "losses": 246,
-    "goals_for": 919,
-    "goals_against": 953,
-    "goal_difference": -34,
-    "win_percentage": 39.2,
+    "goals_for": 923,
+    "goals_against": 954,
+    "goal_difference": -31,
+    "win_percentage": 39.3,
     "avg_points": 1.41,
     "best_rank": 10,
     "worst_rank": 63,
-    "avg_rank": 32.46,
+    "avg_rank": 32.45,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Syria",
@@ -25,11 +25,11 @@
       "date": "1968-04-24",
       "flag": "poland.png"
     },
-    "home_matches": 284,
+    "home_matches": 285,
     "away_matches": 294,
     "neutral_matches": 78,
     "first_match_date": "1923-10-26",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5324,
+      "rating1": 5355,
       "rating2": 5719,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 10.5,
+      "rank": 21,
+      "win_prob": 11.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5324,
+      "rating1": 5355,
       "rating2": 4855,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 92.1,
+      "rank": 21,
+      "win_prob": 93.0,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Georgia",
       "flag1": "turkey.png",
       "flag2": "georgia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5324,
-      "rating2": 5258,
-      "rating_ev": 0,
-      "rank": 24,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5355,
+      "rating2": 5227,
+      "rating_ev": 31,
+      "rank": 21,
       "win_prob": 67.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

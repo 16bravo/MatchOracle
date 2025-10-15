@@ -1,18 +1,18 @@
 {
   "team": "Norway",
   "stats": {
-    "matches_played": 877,
+    "matches_played": 878,
     "wins": 330,
-    "draws": 194,
+    "draws": 195,
     "losses": 353,
-    "goals_for": 1355,
-    "goals_against": 1433,
+    "goals_for": 1356,
+    "goals_against": 1434,
     "goal_difference": -78,
     "win_percentage": 37.6,
     "avg_points": 1.35,
     "best_rank": 7,
     "worst_rank": 72,
-    "avg_rank": 31.65,
+    "avg_rank": 31.63,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Finland",
@@ -25,11 +25,11 @@
       "date": "1917-10-07",
       "flag": "denmark.png"
     },
-    "home_matches": 420,
+    "home_matches": 421,
     "away_matches": 405,
     "neutral_matches": 52,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5522,
-      "rating2": 5417,
+      "rating1": 5506,
+      "rating2": 5435,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 50.6,
+      "win_prob": 46.9,
       "type": "fixture"
     },
     {
@@ -63,8 +63,8 @@
       "flag2": "estonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5522,
-      "rating2": 4834,
+      "rating1": 5506,
+      "rating2": 4820,
       "rating_ev": 0,
       "rank": 8,
       "win_prob": 96.5,
@@ -80,14 +80,14 @@
       "original_team2": "New Zealand",
       "flag1": "norway.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5522,
-      "rating2": 5081,
-      "rating_ev": 0,
-      "rank": 8,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5506,
+      "rating2": 5097,
+      "rating_ev": -16,
+      "rank": 9,
       "win_prob": 91.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

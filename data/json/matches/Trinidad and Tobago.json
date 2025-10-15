@@ -1,18 +1,18 @@
 {
   "team": "Trinidad and Tobago",
   "stats": {
-    "matches_played": 861,
+    "matches_played": 862,
     "wins": 375,
-    "draws": 188,
+    "draws": 189,
     "losses": 298,
-    "goals_for": 1443,
-    "goals_against": 1093,
+    "goals_for": 1444,
+    "goals_against": 1094,
     "goal_difference": 350,
-    "win_percentage": 43.6,
+    "win_percentage": 43.5,
     "avg_points": 1.52,
     "best_rank": 14,
     "worst_rank": 142,
-    "avg_rank": 87.31,
+    "avg_rank": 87.34,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 342,
-    "away_matches": 359,
+    "away_matches": 360,
     "neutral_matches": 160,
     "first_match_date": "1905-07-21",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bermuda.png",
       "score1": "",
       "score2": "",
-      "rating1": 4798,
+      "rating1": 4806,
       "rating2": 4403,
       "rating_ev": 0,
-      "rank": 120,
-      "win_prob": 89.5,
+      "rank": 114,
+      "win_prob": 89.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4798,
+      "rating1": 4806,
       "rating2": 4919,
       "rating_ev": 0,
-      "rank": 120,
-      "win_prob": 47.7,
+      "rank": 114,
+      "win_prob": 48.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Cura\u00e7ao",
       "flag1": "trinidad.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4798,
-      "rating2": 4830,
-      "rating_ev": 0,
-      "rank": 120,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4806,
+      "rating2": 4822,
+      "rating_ev": 8,
+      "rank": 114,
       "win_prob": 35.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

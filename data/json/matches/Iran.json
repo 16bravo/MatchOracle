@@ -1,18 +1,18 @@
 {
   "team": "Iran",
   "stats": {
-    "matches_played": 672,
-    "wins": 383,
+    "matches_played": 673,
+    "wins": 384,
     "draws": 156,
     "losses": 133,
-    "goals_for": 1277,
+    "goals_for": 1279,
     "goals_against": 528,
-    "goal_difference": 749,
-    "win_percentage": 57.0,
+    "goal_difference": 751,
+    "win_percentage": 57.1,
     "avg_points": 1.94,
     "best_rank": 12,
     "worst_rank": 104,
-    "avg_rank": 42.4,
+    "avg_rank": 42.41,
     "biggest_win": {
       "score": "19-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 225,
     "away_matches": 194,
-    "neutral_matches": 253,
+    "neutral_matches": 254,
     "first_match_date": "1941-08-23",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cape_verde.png",
       "score1": "",
       "score2": "",
-      "rating1": 5134,
+      "rating1": 5139,
       "rating2": 4987,
       "rating_ev": 0,
-      "rank": 50,
-      "win_prob": 65.6,
+      "rank": 49,
+      "win_prob": 66.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Tanzania",
       "flag1": "iran.png",
       "flag2": "tanzania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5134,
-      "rating2": 4826,
-      "rating_ev": 0,
-      "rank": 50,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5139,
+      "rating2": 4821,
+      "rating_ev": 5,
+      "rank": 49,
       "win_prob": 79.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

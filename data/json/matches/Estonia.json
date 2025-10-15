@@ -1,18 +1,18 @@
 {
   "team": "Estonia",
   "stats": {
-    "matches_played": 534,
+    "matches_played": 535,
     "wins": 131,
-    "draws": 118,
+    "draws": 119,
     "losses": 285,
-    "goals_for": 524,
-    "goals_against": 950,
+    "goals_for": 525,
+    "goals_against": 951,
     "goal_difference": -426,
     "win_percentage": 24.5,
     "avg_points": 0.96,
     "best_rank": 32,
     "worst_rank": 154,
-    "avg_rank": 92.2,
+    "avg_rank": 92.23,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lithuania",
@@ -25,11 +25,11 @@
       "date": "1922-08-11",
       "flag": "finland.png"
     },
-    "home_matches": 229,
+    "home_matches": 230,
     "away_matches": 252,
     "neutral_matches": 53,
     "first_match_date": "1920-10-17",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 4834,
+      "rating1": 4820,
       "rating2": 4818,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 40.9,
+      "rank": 109,
+      "win_prob": 39.4,
       "type": "fixture"
     },
     {
@@ -63,10 +63,10 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 4834,
-      "rating2": 5522,
+      "rating1": 4820,
+      "rating2": 5506,
       "rating_ev": 0,
-      "rank": 104,
+      "rank": 109,
       "win_prob": 3.5,
       "type": "fixture"
     },
@@ -80,14 +80,14 @@
       "original_team2": "Moldova",
       "flag1": "estonia.png",
       "flag2": "moldova.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4834,
-      "rating2": 4699,
-      "rating_ev": 0,
-      "rank": 104,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4820,
+      "rating2": 4713,
+      "rating_ev": -14,
+      "rank": 109,
       "win_prob": 73.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

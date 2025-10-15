@@ -1,18 +1,18 @@
 {
   "team": "Jordan",
   "stats": {
-    "matches_played": 548,
+    "matches_played": 549,
     "wins": 194,
     "draws": 149,
-    "losses": 205,
-    "goals_for": 678,
-    "goals_against": 655,
-    "goal_difference": 23,
-    "win_percentage": 35.4,
+    "losses": 206,
+    "goals_for": 680,
+    "goals_against": 659,
+    "goal_difference": 21,
+    "win_percentage": 35.3,
     "avg_points": 1.33,
     "best_rank": 53,
     "worst_rank": 141,
-    "avg_rank": 92.01,
+    "avg_rank": 91.97,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Nepal",
@@ -26,14 +26,14 @@
       "flag": "lebanon.png"
     },
     "home_matches": 194,
-    "away_matches": 175,
+    "away_matches": 176,
     "neutral_matches": 179,
     "first_match_date": "1953-08-01",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
-      "date": "2025-12-14",
+      "date": "2025-12-15",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Jordan",
@@ -44,15 +44,15 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5066,
+      "rating1": 5058,
       "rating2": 5099,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 46.4,
+      "rank": 65,
+      "win_prob": 45.5,
       "type": "fixture"
     },
     {
-      "date": "2025-12-14",
+      "date": "2025-12-15",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Jordan",
@@ -63,11 +63,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 5066,
-      "rating2": 4973,
+      "rating1": 5058,
+      "rating2": 4958,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 60.1,
+      "rank": 65,
+      "win_prob": 60.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Albania",
       "flag1": "jordan.png",
       "flag2": "albania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5066,
-      "rating2": 5158,
-      "rating_ev": 0,
-      "rank": 64,
+      "score1": 2,
+      "score2": 4,
+      "rating1": 5058,
+      "rating2": 5166,
+      "rating_ev": -8,
+      "rank": 65,
       "win_prob": 30.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

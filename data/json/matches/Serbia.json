@@ -1,18 +1,18 @@
 {
   "team": "Serbia",
   "stats": {
-    "matches_played": 856,
-    "wins": 399,
+    "matches_played": 857,
+    "wins": 400,
     "draws": 192,
     "losses": 265,
-    "goals_for": 1605,
-    "goals_against": 1169,
-    "goal_difference": 436,
-    "win_percentage": 46.6,
+    "goals_for": 1608,
+    "goals_against": 1170,
+    "goal_difference": 438,
+    "win_percentage": 46.7,
     "avg_points": 1.62,
     "best_rank": 2,
     "worst_rank": 36,
-    "avg_rank": 16.48,
+    "avg_rank": 16.5,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Venezuela",
@@ -26,10 +26,10 @@
       "flag": "czechia.png"
     },
     "home_matches": 72,
-    "away_matches": 420,
+    "away_matches": 421,
     "neutral_matches": 364,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
-      "rating2": 4807,
+      "rating1": 5243,
+      "rating2": 4778,
       "rating_ev": 0,
       "rank": 32,
-      "win_prob": 91.0,
+      "win_prob": 92.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
-      "rating2": 5544,
+      "rating1": 5243,
+      "rating2": 5573,
       "rating_ev": 0,
       "rank": 32,
-      "win_prob": 14.7,
+      "win_prob": 13.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Andorra",
       "flag1": "serbia.png",
       "flag2": "andorra.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5241,
-      "rating2": 4708,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5243,
+      "rating2": 4706,
+      "rating_ev": 2,
       "rank": 32,
       "win_prob": 86.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

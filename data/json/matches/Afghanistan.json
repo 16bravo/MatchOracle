@@ -1,14 +1,14 @@
 {
   "team": "Afghanistan",
   "stats": {
-    "matches_played": 161,
+    "matches_played": 162,
     "wins": 36,
-    "draws": 38,
+    "draws": 39,
     "losses": 87,
-    "goals_for": 149,
-    "goals_against": 328,
+    "goals_for": 150,
+    "goals_against": 329,
     "goal_difference": -179,
-    "win_percentage": 22.4,
+    "win_percentage": 22.2,
     "avg_points": 0.91,
     "best_rank": 86,
     "worst_rank": 200,
@@ -27,9 +27,9 @@
     },
     "home_matches": 9,
     "away_matches": 63,
-    "neutral_matches": 89,
+    "neutral_matches": 90,
     "first_match_date": "1941-08-24",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4345,
-      "rating2": 4125,
+      "rating1": 4329,
+      "rating2": 4118,
       "rating_ev": 0,
-      "rank": 173,
-      "win_prob": 72.4,
+      "rank": 175,
+      "win_prob": 71.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Pakistan",
       "flag1": "afghanistan.png",
       "flag2": "pakistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4345,
-      "rating2": 4076,
-      "rating_ev": 0,
-      "rank": 173,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4329,
+      "rating2": 4092,
+      "rating_ev": -16,
+      "rank": 175,
       "win_prob": 76.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",
@@ -177,11 +177,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4345,
-      "rating2": 4818,
+      "rating1": 4329,
+      "rating2": 4825,
       "rating_ev": 0,
-      "rank": 173,
-      "win_prob": 11.6,
+      "rank": 175,
+      "win_prob": 10.7,
       "type": "fixture"
     },
     {

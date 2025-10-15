@@ -1,15 +1,15 @@
 {
   "team": "Mozambique",
   "stats": {
-    "matches_played": 407,
-    "wins": 125,
+    "matches_played": 408,
+    "wins": 126,
     "draws": 106,
     "losses": 176,
-    "goals_for": 412,
+    "goals_for": 413,
     "goals_against": 525,
-    "goal_difference": -113,
-    "win_percentage": 30.7,
-    "avg_points": 1.18,
+    "goal_difference": -112,
+    "win_percentage": 30.9,
+    "avg_points": 1.19,
     "best_rank": 79,
     "worst_rank": 143,
     "avg_rank": 112.72,
@@ -27,9 +27,9 @@
     },
     "home_matches": 153,
     "away_matches": 161,
-    "neutral_matches": 93,
+    "neutral_matches": 94,
     "first_match_date": "1975-06-25",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4827,
+      "rating1": 4817,
       "rating2": 5052,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 27.2,
+      "rank": 111,
+      "win_prob": 26.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4827,
-      "rating2": 4929,
+      "rating1": 4817,
+      "rating2": 4941,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 39.0,
+      "rank": 111,
+      "win_prob": 36.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4827,
-      "rating2": 5097,
+      "rating1": 4817,
+      "rating2": 5118,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 23.5,
+      "rank": 111,
+      "win_prob": 21.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Somalia",
       "flag1": "mozambique.png",
       "flag2": "somalia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4827,
-      "rating2": 4417,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4817,
+      "rating2": 4427,
+      "rating_ev": -10,
+      "rank": 113,
       "win_prob": 85.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

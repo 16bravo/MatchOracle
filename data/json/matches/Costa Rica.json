@@ -1,14 +1,14 @@
 {
   "team": "Costa Rica",
   "stats": {
-    "matches_played": 780,
-    "wins": 354,
+    "matches_played": 781,
+    "wins": 355,
     "draws": 188,
     "losses": 238,
-    "goals_for": 1356,
-    "goals_against": 901,
-    "goal_difference": 455,
-    "win_percentage": 45.4,
+    "goals_for": 1360,
+    "goals_against": 902,
+    "goal_difference": 458,
+    "win_percentage": 45.5,
     "avg_points": 1.6,
     "best_rank": 8,
     "worst_rank": 79,
@@ -25,11 +25,11 @@
       "date": "1975-08-17",
       "flag": "mexico.png"
     },
-    "home_matches": 257,
+    "home_matches": 258,
     "away_matches": 277,
     "neutral_matches": 246,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "honduras.png",
       "score1": "",
       "score2": "",
-      "rating1": 5113,
-      "rating2": 4936,
+      "rating1": 5124,
+      "rating2": 4974,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 77.1,
+      "rank": 52,
+      "win_prob": 75.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5113,
-      "rating2": 4985,
+      "rating1": 5124,
+      "rating2": 4947,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 63.7,
+      "rank": 52,
+      "win_prob": 68.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Nicaragua",
       "flag1": "costa_rica.png",
       "flag2": "nicaragua.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5113,
-      "rating2": 4697,
-      "rating_ev": 0,
-      "rank": 56,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5124,
+      "rating2": 4686,
+      "rating_ev": 11,
+      "rank": 52,
       "win_prob": 90.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

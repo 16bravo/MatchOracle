@@ -1,18 +1,18 @@
 {
   "team": "Qatar",
   "stats": {
-    "matches_played": 678,
-    "wins": 282,
+    "matches_played": 679,
+    "wins": 283,
     "draws": 172,
     "losses": 224,
-    "goals_for": 972,
-    "goals_against": 800,
-    "goal_difference": 172,
-    "win_percentage": 41.6,
+    "goals_for": 974,
+    "goals_against": 801,
+    "goal_difference": 173,
+    "win_percentage": 41.7,
     "avg_points": 1.5,
     "best_rank": 34,
     "worst_rank": 147,
-    "avg_rank": 83.52,
+    "avg_rank": 83.53,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Bhutan",
@@ -25,15 +25,15 @@
       "date": "1973-12-31",
       "flag": "kuwait.png"
     },
-    "home_matches": 313,
+    "home_matches": 314,
     "away_matches": 144,
     "neutral_matches": 221,
     "first_match_date": "1970-03-27",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
-      "date": "2025-12-14",
+      "date": "2025-12-15",
       "country": "Qatar",
       "tournament": "Arab Cup",
       "team1": "Qatar",
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4853,
+      "rating1": 4868,
       "rating2": 5121,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 32.5,
+      "rank": 93,
+      "win_prob": 33.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "United Arab Emirates",
       "flag1": "qatar.png",
       "flag2": "uae.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4853,
-      "rating2": 4973,
-      "rating_ev": 0,
-      "rank": 99,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4868,
+      "rating2": 4958,
+      "rating_ev": 15,
+      "rank": 93,
       "win_prob": 47.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

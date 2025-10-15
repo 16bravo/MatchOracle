@@ -1,18 +1,18 @@
 {
   "team": "Spain",
   "stats": {
-    "matches_played": 775,
-    "wins": 458,
+    "matches_played": 776,
+    "wins": 459,
     "draws": 179,
     "losses": 138,
-    "goals_for": 1578,
+    "goals_for": 1582,
     "goals_against": 695,
-    "goal_difference": 883,
+    "goal_difference": 887,
     "win_percentage": 59.1,
-    "avg_points": 2.0,
+    "avg_points": 2.01,
     "best_rank": 1,
     "worst_rank": 18,
-    "avg_rank": 6.26,
+    "avg_rank": 6.25,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Bulgaria",
@@ -25,15 +25,15 @@
       "date": "1928-06-04",
       "flag": "italy_1.png"
     },
-    "home_matches": 336,
+    "home_matches": 337,
     "away_matches": 301,
     "neutral_matches": 138,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "country": "Uruguay",
       "tournament": "Intercont Champ",
       "team1": "Spain",
@@ -64,10 +64,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5719,
-      "rating2": 5324,
+      "rating2": 5355,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 89.5,
+      "win_prob": 88.3,
       "type": "fixture"
     },
     {
@@ -83,10 +83,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5719,
-      "rating2": 5258,
+      "rating2": 5227,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 82.4,
+      "win_prob": 84.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Bulgaria",
       "flag1": "spain.png",
       "flag2": "bulgaria.png",
-      "score1": "",
-      "score2": "",
+      "score1": 4,
+      "score2": 0,
       "rating1": 5719,
       "rating2": 4855,
       "rating_ev": 0,
       "rank": 1,
       "win_prob": 98.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

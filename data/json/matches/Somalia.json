@@ -1,18 +1,18 @@
 {
   "team": "Somalia",
   "stats": {
-    "matches_played": 141,
+    "matches_played": 142,
     "wins": 14,
     "draws": 19,
-    "losses": 108,
+    "losses": 109,
     "goals_for": 73,
-    "goals_against": 360,
-    "goal_difference": -287,
+    "goals_against": 361,
+    "goal_difference": -288,
     "win_percentage": 9.9,
     "avg_points": 0.43,
     "best_rank": 109,
     "worst_rank": 193,
-    "avg_rank": 161.21,
+    "avg_rank": 161.27,
     "biggest_win": {
       "score": "5-2",
       "opponent": "Mauritania",
@@ -27,13 +27,13 @@
     },
     "home_matches": 10,
     "away_matches": 42,
-    "neutral_matches": 89,
+    "neutral_matches": 90,
     "first_match_date": "1963-11-14",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
-      "date": "2025-11-14",
+      "date": "2025-11-15",
       "country": "Qatar",
       "tournament": "Arab Cup qualifier",
       "team1": "Somalia",
@@ -44,11 +44,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4417,
+      "rating1": 4427,
       "rating2": 4858,
       "rating_ev": 0,
       "rank": 170,
-      "win_prob": 13.0,
+      "win_prob": 13.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Mozambique",
       "flag1": "somalia.png",
       "flag2": "mozambique.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4417,
-      "rating2": 4827,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4427,
+      "rating2": 4817,
+      "rating_ev": 10,
       "rank": 170,
       "win_prob": 14.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

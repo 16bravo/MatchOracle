@@ -1,18 +1,18 @@
 {
   "team": "Latvia",
   "stats": {
-    "matches_played": 453,
+    "matches_played": 454,
     "wins": 126,
     "draws": 110,
-    "losses": 217,
+    "losses": 218,
     "goals_for": 530,
-    "goals_against": 746,
-    "goal_difference": -216,
+    "goals_against": 751,
+    "goal_difference": -221,
     "win_percentage": 27.8,
-    "avg_points": 1.08,
+    "avg_points": 1.07,
     "best_rank": 40,
     "worst_rank": 143,
-    "avg_rank": 78.7,
+    "avg_rank": 78.8,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lithuania",
@@ -25,11 +25,11 @@
       "date": "1927-05-29",
       "flag": "sweden.png"
     },
-    "home_matches": 189,
+    "home_matches": 190,
     "away_matches": 210,
     "neutral_matches": 54,
     "first_match_date": "1922-09-24",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
-      "rating2": 5241,
+      "rating1": 4778,
+      "rating2": 5243,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 9.0,
+      "rank": 125,
+      "win_prob": 8.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4778,
       "rating2": 5120,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 14.2,
+      "rank": 125,
+      "win_prob": 12.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "England",
       "flag1": "latvia.png",
       "flag2": "england.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4807,
-      "rating2": 5544,
-      "rating_ev": 0,
-      "rank": 116,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 4778,
+      "rating2": 5573,
+      "rating_ev": -29,
+      "rank": 125,
       "win_prob": 6.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",
@@ -196,11 +196,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4778,
       "rating2": 4449,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 88.0,
+      "rank": 125,
+      "win_prob": 86.6,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4778,
       "rating2": 4449,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 75.3,
+      "rank": 125,
+      "win_prob": 73.0,
       "type": "fixture"
     },
     {

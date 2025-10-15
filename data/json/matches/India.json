@@ -1,18 +1,18 @@
 {
   "team": "India",
   "stats": {
-    "matches_played": 589,
+    "matches_played": 590,
     "wins": 213,
     "draws": 124,
-    "losses": 252,
-    "goals_for": 815,
-    "goals_against": 961,
-    "goal_difference": -146,
-    "win_percentage": 36.2,
-    "avg_points": 1.3,
+    "losses": 253,
+    "goals_for": 816,
+    "goals_against": 963,
+    "goal_difference": -147,
+    "win_percentage": 36.1,
+    "avg_points": 1.29,
     "best_rank": 46,
     "worst_rank": 181,
-    "avg_rank": 136.18,
+    "avg_rank": 136.22,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Ceylon",
@@ -25,11 +25,11 @@
       "date": "1955-09-16",
       "flag": "ussr.png"
     },
-    "home_matches": 168,
+    "home_matches": 169,
     "away_matches": 160,
     "neutral_matches": 261,
     "first_match_date": "1938-09-03",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4523,
-      "rating2": 4188,
+      "rating1": 4491,
+      "rating2": 4218,
       "rating_ev": 0,
-      "rank": 161,
-      "win_prob": 73.5,
+      "rank": 162,
+      "win_prob": 68.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Singapore",
       "flag1": "india.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4523,
-      "rating2": 4322,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4491,
+      "rating2": 4354,
+      "rating_ev": -32,
       "rank": 161,
       "win_prob": 78.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",
@@ -215,11 +215,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4523,
-      "rating2": 4597,
+      "rating1": 4491,
+      "rating2": 4567,
       "rating_ev": 0,
-      "rank": 161,
-      "win_prob": 52.8,
+      "rank": 162,
+      "win_prob": 52.6,
       "type": "fixture"
     },
     {

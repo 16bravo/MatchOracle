@@ -1,18 +1,18 @@
 {
   "team": "Ireland",
   "stats": {
-    "matches_played": 732,
-    "wins": 256,
+    "matches_played": 733,
+    "wins": 257,
     "draws": 191,
     "losses": 285,
-    "goals_for": 961,
+    "goals_for": 962,
     "goals_against": 1151,
-    "goal_difference": -190,
-    "win_percentage": 35.0,
+    "goal_difference": -189,
+    "win_percentage": 35.1,
     "avg_points": 1.31,
     "best_rank": 4,
-    "worst_rank": 60,
-    "avg_rank": 22.48,
+    "worst_rank": 61,
+    "avg_rank": 22.53,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Malta",
@@ -25,11 +25,11 @@
       "date": "1882-02-18",
       "flag": "england.png"
     },
-    "home_matches": 373,
+    "home_matches": 374,
     "away_matches": 300,
     "neutral_matches": 59,
     "first_match_date": "1882-02-18",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "hungary.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
-      "rating2": 5170,
+      "rating1": 5098,
+      "rating2": 5200,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 32.7,
+      "rank": 60,
+      "win_prob": 29.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
-      "rating2": 5592,
+      "rating1": 5098,
+      "rating2": 5562,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 16.2,
+      "rank": 60,
+      "win_prob": 17.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Armenia",
       "flag1": "ireland.png",
       "flag2": "armenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5106,
-      "rating2": 4832,
-      "rating_ev": 0,
-      "rank": 58,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5098,
+      "rating2": 4840,
+      "rating_ev": -8,
+      "rank": 61,
       "win_prob": 83.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

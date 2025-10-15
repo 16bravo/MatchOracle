@@ -1,18 +1,18 @@
 {
   "team": "Bangladesh",
   "stats": {
-    "matches_played": 320,
+    "matches_played": 321,
     "wins": 84,
-    "draws": 71,
+    "draws": 72,
     "losses": 165,
-    "goals_for": 286,
-    "goals_against": 574,
+    "goals_for": 287,
+    "goals_against": 575,
     "goal_difference": -288,
     "win_percentage": 26.2,
     "avg_points": 1.01,
     "best_rank": 144,
     "worst_rank": 200,
-    "avg_rank": 178.53,
+    "avg_rank": 178.55,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Maldives",
@@ -26,10 +26,10 @@
       "flag": "south_korea.png"
     },
     "home_matches": 90,
-    "away_matches": 89,
+    "away_matches": 90,
     "neutral_matches": 141,
     "first_match_date": "1973-07-27",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4188,
-      "rating2": 4523,
+      "rating1": 4218,
+      "rating2": 4491,
       "rating_ev": 0,
-      "rank": 184,
-      "win_prob": 26.5,
+      "rank": 182,
+      "win_prob": 32.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Hong Kong",
       "flag1": "bangladesh.png",
       "flag2": "hong_kong.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4188,
-      "rating2": 4597,
-      "rating_ev": 0,
-      "rank": 184,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4218,
+      "rating2": 4567,
+      "rating_ev": 30,
+      "rank": 182,
       "win_prob": 9.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",
@@ -158,11 +158,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4188,
-      "rating2": 4322,
+      "rating1": 4218,
+      "rating2": 4354,
       "rating_ev": 0,
-      "rank": 184,
-      "win_prob": 26.4,
+      "rank": 182,
+      "win_prob": 26.2,
       "type": "fixture"
     },
     {

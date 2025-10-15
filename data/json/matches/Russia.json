@@ -1,18 +1,18 @@
 {
   "team": "Russia",
   "stats": {
-    "matches_played": 769,
-    "wins": 401,
+    "matches_played": 770,
+    "wins": 402,
     "draws": 200,
     "losses": 168,
-    "goals_for": 1379,
+    "goals_for": 1382,
     "goals_against": 750,
-    "goal_difference": 629,
-    "win_percentage": 52.1,
-    "avg_points": 1.82,
+    "goal_difference": 632,
+    "win_percentage": 52.2,
+    "avg_points": 1.83,
     "best_rank": 1,
     "worst_rank": 38,
-    "avg_rank": 13.92,
+    "avg_rank": 13.93,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1912-07-01",
       "flag": "germany_1.png"
     },
-    "home_matches": 158,
+    "home_matches": 159,
     "away_matches": 358,
     "neutral_matches": 253,
     "first_match_date": "1912-06-30",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "chile.png",
       "score1": "",
       "score2": "",
-      "rating1": 5366,
+      "rating1": 5376,
       "rating2": 5198,
       "rating_ev": 0,
-      "rank": 21,
-      "win_prob": 76.4,
+      "rank": 20,
+      "win_prob": 77.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "peru.png",
       "score1": "",
       "score2": "",
-      "rating1": 5366,
+      "rating1": 5376,
       "rating2": 5205,
       "rating_ev": 0,
-      "rank": 21,
-      "win_prob": 75.9,
+      "rank": 20,
+      "win_prob": 76.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Bolivia",
       "flag1": "russia.png",
       "flag2": "bolivia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5366,
-      "rating2": 5107,
-      "rating_ev": 0,
-      "rank": 21,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5376,
+      "rating2": 5097,
+      "rating_ev": 10,
+      "rank": 20,
       "win_prob": 82.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

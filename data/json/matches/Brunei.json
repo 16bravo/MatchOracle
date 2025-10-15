@@ -1,18 +1,18 @@
 {
   "team": "Brunei",
   "stats": {
-    "matches_played": 148,
+    "matches_played": 149,
     "wins": 27,
     "draws": 13,
-    "losses": 108,
+    "losses": 109,
     "goals_for": 118,
-    "goals_against": 471,
-    "goal_difference": -353,
-    "win_percentage": 18.2,
-    "avg_points": 0.64,
+    "goals_against": 480,
+    "goal_difference": -362,
+    "win_percentage": 18.1,
+    "avg_points": 0.63,
     "best_rank": 168,
     "worst_rank": 212,
-    "avg_rank": 195.86,
+    "avg_rank": 195.97,
     "biggest_win": {
       "score": "4-0",
       "opponent": "East Timor",
@@ -27,9 +27,9 @@
     },
     "home_matches": 28,
     "away_matches": 42,
-    "neutral_matches": 78,
+    "neutral_matches": 79,
     "first_match_date": "1971-05-22",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 3708,
-      "rating2": 4693,
+      "rating1": 3651,
+      "rating2": 4694,
       "rating_ev": 0,
-      "rank": 210,
-      "win_prob": 3.0,
+      "rank": 212,
+      "win_prob": 2.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Yemen",
       "flag1": "brunei.png",
       "flag2": "yemen.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3708,
-      "rating2": 4476,
-      "rating_ev": 0,
-      "rank": 210,
+      "score1": 0,
+      "score2": 9,
+      "rating1": 3651,
+      "rating2": 4533,
+      "rating_ev": -57,
+      "rank": 212,
       "win_prob": 4.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",
@@ -139,11 +139,11 @@
       "flag2": "bhutan.png",
       "score1": "",
       "score2": "",
-      "rating1": 3708,
-      "rating2": 3737,
+      "rating1": 3651,
+      "rating2": 3736,
       "rating_ev": 0,
-      "rank": 210,
-      "win_prob": 36.2,
+      "rank": 212,
+      "win_prob": 30.7,
       "type": "fixture"
     },
     {

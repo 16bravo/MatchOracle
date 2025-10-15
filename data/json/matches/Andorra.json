@@ -1,18 +1,18 @@
 {
   "team": "Andorra",
   "stats": {
-    "matches_played": 223,
+    "matches_played": 224,
     "wins": 14,
     "draws": 31,
-    "losses": 178,
-    "goals_for": 74,
-    "goals_against": 529,
-    "goal_difference": -455,
-    "win_percentage": 6.3,
+    "losses": 179,
+    "goals_for": 75,
+    "goals_against": 532,
+    "goal_difference": -457,
+    "win_percentage": 6.2,
     "avg_points": 0.33,
     "best_rank": 127,
     "worst_rank": 166,
-    "avg_rank": 150.58,
+    "avg_rank": 150.51,
     "biggest_win": {
       "score": "3-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "2005-06-04",
       "flag": "czechia.png"
     },
-    "home_matches": 89,
+    "home_matches": 90,
     "away_matches": 102,
     "neutral_matches": 32,
     "first_match_date": "1996-11-13",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4708,
+      "rating1": 4706,
       "rating2": 5027,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 13.9,
+      "rank": 136,
+      "win_prob": 13.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "albania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4708,
-      "rating2": 5158,
+      "rating1": 4706,
+      "rating2": 5166,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 18.3,
+      "rank": 136,
+      "win_prob": 17.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Serbia",
       "flag1": "andorra.png",
       "flag2": "serbia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4708,
-      "rating2": 5241,
-      "rating_ev": 0,
-      "rank": 134,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4706,
+      "rating2": 5243,
+      "rating_ev": -2,
+      "rank": 135,
       "win_prob": 13.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",
