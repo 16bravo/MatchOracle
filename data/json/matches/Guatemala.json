@@ -1,18 +1,18 @@
 {
   "team": "Guatemala",
   "stats": {
-    "matches_played": 619,
-    "wins": 223,
+    "matches_played": 620,
+    "wins": 224,
     "draws": 166,
     "losses": 230,
-    "goals_for": 870,
+    "goals_for": 871,
     "goals_against": 833,
-    "goal_difference": 37,
-    "win_percentage": 36.0,
+    "goal_difference": 38,
+    "win_percentage": 36.1,
     "avg_points": 1.35,
     "best_rank": 31,
     "worst_rank": 113,
-    "avg_rank": 76.83,
+    "avg_rank": 76.85,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "costa_rica.png"
     },
     "home_matches": 203,
-    "away_matches": 179,
+    "away_matches": 180,
     "neutral_matches": 237,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 4914,
-      "rating2": 4826,
+      "rating1": 4921,
+      "rating2": 4848,
       "rating_ev": 0,
-      "rank": 86,
-      "win_prob": 69.5,
+      "rank": 85,
+      "win_prob": 68.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 4914,
-      "rating2": 5105,
+      "rating1": 4921,
+      "rating2": 5083,
       "rating_ev": 0,
-      "rank": 86,
-      "win_prob": 40.2,
+      "rank": 85,
+      "win_prob": 43.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "El Salvador",
       "flag1": "guatemala.png",
       "flag2": "salvador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4914,
-      "rating2": 4699,
-      "rating_ev": 0,
-      "rank": 86,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4921,
+      "rating2": 4692,
+      "rating_ev": 7,
+      "rank": 85,
       "win_prob": 62.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

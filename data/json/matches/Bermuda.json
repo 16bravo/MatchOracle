@@ -1,18 +1,18 @@
 {
   "team": "Bermuda",
   "stats": {
-    "matches_played": 225,
+    "matches_played": 226,
     "wins": 73,
     "draws": 44,
-    "losses": 108,
+    "losses": 109,
     "goals_for": 350,
-    "goals_against": 396,
-    "goal_difference": -46,
-    "win_percentage": 32.4,
-    "avg_points": 1.17,
+    "goals_against": 400,
+    "goal_difference": -50,
+    "win_percentage": 32.3,
+    "avg_points": 1.16,
     "best_rank": 103,
     "worst_rank": 172,
-    "avg_rank": 138.21,
+    "avg_rank": 138.35,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Montserrat",
@@ -26,10 +26,10 @@
       "flag": "denmark.png"
     },
     "home_matches": 102,
-    "away_matches": 78,
+    "away_matches": 79,
     "neutral_matches": 45,
     "first_match_date": "1964-08-10",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4403,
+      "rating1": 4385,
       "rating2": 4806,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 10.1,
+      "win_prob": 9.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4403,
+      "rating1": 4385,
       "rating2": 4822,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 20.3,
+      "win_prob": 19.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Jamaica",
       "flag1": "bermuda.png",
       "flag2": "jamaica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4403,
-      "rating2": 4919,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4385,
+      "rating2": 4937,
+      "rating_ev": -18,
       "rank": 171,
       "win_prob": 6.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

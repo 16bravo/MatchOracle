@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 593,
+    "matches_played": 594,
     "wins": 182,
-    "draws": 157,
+    "draws": 158,
     "losses": 254,
-    "goals_for": 714,
-    "goals_against": 900,
+    "goals_for": 715,
+    "goals_against": 901,
     "goal_difference": -186,
-    "win_percentage": 30.7,
+    "win_percentage": 30.6,
     "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 35.0,
+    "avg_rank": 34.97,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 183,
-    "away_matches": 208,
+    "away_matches": 209,
     "neutral_matches": 202,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5419,
+      "rating1": 5417,
       "rating2": 5097,
       "rating_ev": 0,
       "rank": 16,
-      "win_prob": 80.2,
+      "win_prob": 80.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5419,
-      "rating2": 5263,
+      "rating1": 5417,
+      "rating2": 5271,
       "rating_ev": 0,
       "rank": 16,
-      "win_prob": 56.1,
+      "win_prob": 55.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Mexico",
       "flag1": "ecuador.png",
       "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5419,
-      "rating2": 5271,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5417,
+      "rating2": 5273,
+      "rating_ev": -2,
       "rank": 16,
       "win_prob": 55.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 589,
+    "matches_played": 590,
     "wins": 196,
-    "draws": 142,
+    "draws": 143,
     "losses": 251,
-    "goals_for": 733,
-    "goals_against": 903,
+    "goals_for": 734,
+    "goals_against": 904,
     "goal_difference": -170,
-    "win_percentage": 33.3,
+    "win_percentage": 33.2,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.37,
+    "avg_rank": 85.33,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "1938-02-16",
       "flag": "costa_rica.png"
     },
-    "home_matches": 199,
+    "home_matches": 200,
     "away_matches": 226,
     "neutral_matches": 164,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5105,
-      "rating2": 4699,
+      "rating1": 5083,
+      "rating2": 4692,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 90.0,
+      "rank": 63,
+      "win_prob": 89.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "guatemala.png",
       "score1": "",
       "score2": "",
-      "rating1": 5105,
-      "rating2": 4914,
+      "rating1": 5083,
+      "rating2": 4921,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 59.8,
+      "rank": 63,
+      "win_prob": 56.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Suriname",
       "flag1": "panama.png",
       "flag2": "suriname.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5105,
-      "rating2": 4826,
-      "rating_ev": 0,
-      "rank": 57,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5083,
+      "rating2": 4848,
+      "rating_ev": -22,
+      "rank": 63,
       "win_prob": 84.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

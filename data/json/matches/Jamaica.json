@@ -1,18 +1,18 @@
 {
   "team": "Jamaica",
   "stats": {
-    "matches_played": 709,
-    "wins": 274,
+    "matches_played": 710,
+    "wins": 275,
     "draws": 166,
     "losses": 269,
-    "goals_for": 943,
+    "goals_for": 947,
     "goals_against": 934,
-    "goal_difference": 9,
-    "win_percentage": 38.6,
-    "avg_points": 1.39,
+    "goal_difference": 13,
+    "win_percentage": 38.7,
+    "avg_points": 1.4,
     "best_rank": 49,
     "worst_rank": 146,
-    "avg_rank": 86.33,
+    "avg_rank": 86.32,
     "biggest_win": {
       "score": "12-0",
       "opponent": "British Virgin Islands",
@@ -25,11 +25,11 @@
       "date": "1999-02-24",
       "flag": "costa_rica.png"
     },
-    "home_matches": 268,
+    "home_matches": 269,
     "away_matches": 267,
     "neutral_matches": 174,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 4919,
+      "rating1": 4937,
       "rating2": 4822,
       "rating_ev": 0,
-      "rank": 84,
-      "win_prob": 70.4,
+      "rank": 82,
+      "win_prob": 72.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4919,
+      "rating1": 4937,
       "rating2": 4806,
       "rating_ev": 0,
-      "rank": 84,
-      "win_prob": 51.5,
+      "rank": 82,
+      "win_prob": 53.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Bermuda",
       "flag1": "jamaica.png",
       "flag2": "bermuda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4919,
-      "rating2": 4403,
-      "rating_ev": 0,
-      "rank": 84,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4937,
+      "rating2": 4385,
+      "rating_ev": 18,
+      "rank": 82,
       "win_prob": 93.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

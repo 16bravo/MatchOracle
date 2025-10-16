@@ -1,12 +1,12 @@
 {
   "team": "Suriname",
   "stats": {
-    "matches_played": 526,
+    "matches_played": 527,
     "wins": 229,
-    "draws": 124,
+    "draws": 125,
     "losses": 173,
-    "goals_for": 949,
-    "goals_against": 716,
+    "goals_for": 950,
+    "goals_against": 717,
     "goal_difference": 233,
     "win_percentage": 43.5,
     "avg_points": 1.54,
@@ -26,10 +26,10 @@
       "flag": "netherlands.png"
     },
     "home_matches": 218,
-    "away_matches": 220,
+    "away_matches": 221,
     "neutral_matches": 88,
     "first_match_date": "1915-08-17",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "guatemala.png",
       "score1": "",
       "score2": "",
-      "rating1": 4826,
-      "rating2": 4914,
+      "rating1": 4848,
+      "rating2": 4921,
       "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 30.5,
+      "rank": 100,
+      "win_prob": 31.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 4826,
-      "rating2": 4699,
+      "rating1": 4848,
+      "rating2": 4692,
       "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 73.0,
+      "rank": 100,
+      "win_prob": 75.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Panama",
       "flag1": "suriname.png",
       "flag2": "panama.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4826,
-      "rating2": 5105,
-      "rating_ev": 0,
-      "rank": 105,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4848,
+      "rating2": 5083,
+      "rating_ev": 22,
+      "rank": 100,
       "win_prob": 16.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

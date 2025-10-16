@@ -1,18 +1,18 @@
 {
   "team": "Australia",
   "stats": {
-    "matches_played": 624,
+    "matches_played": 625,
     "wins": 324,
     "draws": 130,
-    "losses": 170,
-    "goals_for": 1272,
-    "goals_against": 682,
-    "goal_difference": 590,
-    "win_percentage": 51.9,
-    "avg_points": 1.77,
+    "losses": 171,
+    "goals_for": 1273,
+    "goals_against": 684,
+    "goal_difference": 589,
+    "win_percentage": 51.8,
+    "avg_points": 1.76,
     "best_rank": 15,
     "worst_rank": 73,
-    "avg_rank": 37.86,
+    "avg_rank": 37.84,
     "biggest_win": {
       "score": "31-0",
       "opponent": "Eastern Samoa",
@@ -26,10 +26,10 @@
       "flag": "ussr.png"
     },
     "home_matches": 261,
-    "away_matches": 223,
+    "away_matches": 224,
     "neutral_matches": 140,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5261,
-      "rating2": 5600,
+      "rating1": 5255,
+      "rating2": 5608,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 18.6,
+      "rank": 30,
+      "win_prob": 17.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "United States",
       "flag1": "australia.png",
       "flag2": "usa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5261,
-      "rating2": 5197,
-      "rating_ev": 0,
-      "rank": 29,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5255,
+      "rating2": 5203,
+      "rating_ev": -6,
+      "rank": 30,
       "win_prob": 46.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

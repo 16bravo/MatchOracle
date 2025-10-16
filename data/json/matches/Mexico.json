@@ -1,14 +1,14 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1016,
+    "matches_played": 1017,
     "wins": 526,
-    "draws": 233,
+    "draws": 234,
     "losses": 257,
-    "goals_for": 1807,
-    "goals_against": 1049,
+    "goals_for": 1808,
+    "goals_against": 1050,
     "goal_difference": 758,
-    "win_percentage": 51.8,
+    "win_percentage": 51.7,
     "avg_points": 1.78,
     "best_rank": 2,
     "worst_rank": 41,
@@ -25,11 +25,11 @@
       "date": "1961-05-10",
       "flag": "england.png"
     },
-    "home_matches": 292,
+    "home_matches": 293,
     "away_matches": 269,
     "neutral_matches": 455,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-10-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5271,
+      "rating1": 5273,
       "rating2": 5323,
       "rating_ev": 0,
       "rank": 25,
-      "win_prob": 44.3,
+      "win_prob": 44.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5271,
+      "rating1": 5273,
       "rating2": 5410,
       "rating_ev": 0,
       "rank": 25,
-      "win_prob": 45.7,
+      "win_prob": 45.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Ecuador",
       "flag1": "mexico.png",
       "flag2": "ecuador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5271,
-      "rating2": 5419,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5273,
+      "rating2": 5417,
+      "rating_ev": 2,
       "rank": 25,
       "win_prob": 44.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",
