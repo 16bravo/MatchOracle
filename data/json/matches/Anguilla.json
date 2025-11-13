@@ -1,18 +1,18 @@
 {
   "team": "Anguilla",
   "stats": {
-    "matches_played": 112,
-    "wins": 14,
+    "matches_played": 113,
+    "wins": 15,
     "draws": 14,
     "losses": 84,
-    "goals_for": 69,
-    "goals_against": 400,
-    "goal_difference": -331,
-    "win_percentage": 12.5,
-    "avg_points": 0.5,
+    "goals_for": 71,
+    "goals_against": 401,
+    "goal_difference": -330,
+    "win_percentage": 13.3,
+    "avg_points": 0.52,
     "best_rank": 185,
     "worst_rank": 215,
-    "avg_rank": 210.46,
+    "avg_rank": 210.49,
     "biggest_win": {
       "score": "4-1",
       "opponent": "Montserrat",
@@ -27,13 +27,13 @@
     },
     "home_matches": 31,
     "away_matches": 48,
-    "neutral_matches": 33,
+    "neutral_matches": 34,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2025-11-09"
+    "last_match_date": "2025-11-12"
   },
   "matches": [
     {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "country": "Cayman Islands",
       "tournament": "Friendly tournament",
       "team1": "Anguilla",
@@ -44,11 +44,11 @@
       "flag2": "gb_virgin.png",
       "score1": "",
       "score2": "",
-      "rating1": 3628,
-      "rating2": 3700,
+      "rating1": 3649,
+      "rating2": 3731,
       "rating_ev": 0,
       "rank": 213,
-      "win_prob": 42.1,
+      "win_prob": 41.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "cayman.png",
       "score1": "",
       "score2": "",
-      "rating1": 3628,
-      "rating2": 3884,
+      "rating1": 3649,
+      "rating2": 3853,
       "rating_ev": 0,
       "rank": 213,
-      "win_prob": 17.4,
+      "win_prob": 20.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Bahamas",
       "flag1": "anguilla.png",
       "flag2": "bahamas.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3628,
-      "rating2": 3743,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 3649,
+      "rating2": 3722,
+      "rating_ev": 21,
       "rank": 213,
       "win_prob": 37.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-09",

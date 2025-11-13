@@ -1,18 +1,18 @@
 {
   "team": "British Virgin Islands",
   "stats": {
-    "matches_played": 133,
-    "wins": 19,
+    "matches_played": 134,
+    "wins": 20,
     "draws": 23,
     "losses": 91,
-    "goals_for": 110,
-    "goals_against": 394,
-    "goal_difference": -284,
-    "win_percentage": 14.3,
-    "avg_points": 0.6,
+    "goals_for": 112,
+    "goals_against": 395,
+    "goal_difference": -283,
+    "win_percentage": 14.9,
+    "avg_points": 0.62,
     "best_rank": 180,
     "worst_rank": 214,
-    "avg_rank": 204.71,
+    "avg_rank": 204.75,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Anguilla",
@@ -26,14 +26,14 @@
       "flag": "dominican_rep.png"
     },
     "home_matches": 36,
-    "away_matches": 59,
+    "away_matches": 60,
     "neutral_matches": 38,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2025-11-12"
   },
   "matches": [
     {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "country": "Cayman Islands",
       "tournament": "Friendly tournament",
       "team1": "British Virgin Islands",
@@ -44,11 +44,11 @@
       "flag2": "anguilla.png",
       "score1": "",
       "score2": "",
-      "rating1": 3700,
-      "rating2": 3628,
+      "rating1": 3731,
+      "rating2": 3649,
       "rating_ev": 0,
-      "rank": 210,
-      "win_prob": 57.9,
+      "rank": 209,
+      "win_prob": 58.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "bahamas.png",
       "score1": "",
       "score2": "",
-      "rating1": 3700,
-      "rating2": 3743,
+      "rating1": 3731,
+      "rating2": 3722,
       "rating_ev": 0,
-      "rank": 210,
-      "win_prob": 45.3,
+      "rank": 209,
+      "win_prob": 51.0,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Cayman Islands",
       "flag1": "gb_virgin.png",
       "flag2": "cayman.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3700,
-      "rating2": 3884,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 3731,
+      "rating2": 3853,
+      "rating_ev": 31,
       "rank": 210,
       "win_prob": 22.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

@@ -1,18 +1,18 @@
 {
   "team": "Tunisia",
   "stats": {
-    "matches_played": 745,
+    "matches_played": 746,
     "wins": 318,
-    "draws": 204,
+    "draws": 205,
     "losses": 223,
-    "goals_for": 1054,
-    "goals_against": 800,
+    "goals_for": 1055,
+    "goals_against": 801,
     "goal_difference": 254,
-    "win_percentage": 42.7,
+    "win_percentage": 42.6,
     "avg_points": 1.55,
     "best_rank": 31,
     "worst_rank": 88,
-    "avg_rank": 52.63,
+    "avg_rank": 52.64,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Taiwan",
@@ -25,11 +25,11 @@
       "date": "1960-07-20",
       "flag": "hungary.png"
     },
-    "home_matches": 326,
+    "home_matches": 327,
     "away_matches": 243,
     "neutral_matches": 176,
     "first_match_date": "1954-05-31",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5121,
+      "rating1": 5109,
       "rating2": 4821,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 78.7,
+      "rank": 56,
+      "win_prob": 77.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5121,
+      "rating1": 5109,
       "rating2": 5072,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 55.4,
+      "rank": 56,
+      "win_prob": 54.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5121,
+      "rating1": 5109,
       "rating2": 4883,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 73.9,
+      "rank": 56,
+      "win_prob": 72.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5121,
+      "rating1": 5109,
       "rating2": 4868,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 66.1,
+      "rank": 56,
+      "win_prob": 64.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5121,
+      "rating1": 5109,
       "rating2": 5502,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 16.1,
+      "rank": 56,
+      "win_prob": 15.4,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5121,
+      "rating1": 5109,
       "rating2": 5058,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 67.2,
+      "rank": 56,
+      "win_prob": 66.0,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Mauritania",
       "flag1": "tunisia.png",
       "flag2": "mauritania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5121,
-      "rating2": 4798,
-      "rating_ev": 0,
-      "rank": 53,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5109,
+      "rating2": 4810,
+      "rating_ev": -12,
+      "rank": 56,
       "win_prob": 86.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

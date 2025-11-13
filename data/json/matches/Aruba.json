@@ -1,18 +1,18 @@
 {
   "team": "Aruba",
   "stats": {
-    "matches_played": 201,
+    "matches_played": 202,
     "wins": 49,
-    "draws": 43,
+    "draws": 44,
     "losses": 109,
     "goals_for": 286,
     "goals_against": 460,
     "goal_difference": -174,
-    "win_percentage": 24.4,
+    "win_percentage": 24.3,
     "avg_points": 0.95,
     "best_rank": 49,
     "worst_rank": 197,
-    "avg_rank": 135.47,
+    "avg_rank": 135.75,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Suriname",
@@ -26,14 +26,14 @@
       "flag": "trinidad.png"
     },
     "home_matches": 83,
-    "away_matches": 77,
+    "away_matches": 78,
     "neutral_matches": 41,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2025-06-07"
+    "last_match_date": "2025-11-12"
   },
   "matches": [
     {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Aruba",
@@ -44,15 +44,15 @@
       "flag2": "bonaire.png",
       "score1": "",
       "score2": "",
-      "rating1": 4115,
-      "rating2": 3948,
+      "rating1": 4119,
+      "rating2": 3946,
       "rating_ev": 0,
-      "rank": 193,
-      "win_prob": 67.6,
+      "rank": 192,
+      "win_prob": 68.1,
       "type": "fixture"
     },
     {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Aruba",
@@ -63,11 +63,11 @@
       "flag2": "guyana.png",
       "score1": "",
       "score2": "",
-      "rating1": 4115,
+      "rating1": 4119,
       "rating2": 4628,
       "rating_ev": 0,
-      "rank": 193,
-      "win_prob": 10.0,
+      "rank": 192,
+      "win_prob": 10.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "barbados.png",
       "score1": "",
       "score2": "",
-      "rating1": 4115,
-      "rating2": 4150,
+      "rating1": 4119,
+      "rating2": 4152,
       "rating_ev": 0,
-      "rank": 193,
-      "win_prob": 46.2,
+      "rank": 192,
+      "win_prob": 46.4,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Antigua and Barbuda",
       "flag1": "aruba.png",
       "flag2": "antigua.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4115,
-      "rating2": 4095,
-      "rating_ev": 0,
-      "rank": 193,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4119,
+      "rating2": 4091,
+      "rating_ev": 4,
+      "rank": 192,
       "win_prob": 41.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-07",

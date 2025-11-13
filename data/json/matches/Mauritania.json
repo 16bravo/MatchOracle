@@ -1,18 +1,18 @@
 {
   "team": "Mauritania",
   "stats": {
-    "matches_played": 291,
+    "matches_played": 292,
     "wins": 54,
-    "draws": 70,
+    "draws": 71,
     "losses": 167,
-    "goals_for": 210,
-    "goals_against": 513,
+    "goals_for": 211,
+    "goals_against": 514,
     "goal_difference": -303,
-    "win_percentage": 18.6,
+    "win_percentage": 18.5,
     "avg_points": 0.8,
     "best_rank": 94,
     "worst_rank": 164,
-    "avg_rank": 131.58,
+    "avg_rank": 131.51,
     "biggest_win": {
       "score": "8-2",
       "opponent": "Somalia",
@@ -26,10 +26,10 @@
       "flag": "guinea.png"
     },
     "home_matches": 91,
-    "away_matches": 87,
+    "away_matches": 88,
     "neutral_matches": 113,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4798,
+      "rating1": 4810,
       "rating2": 4693,
       "rating_ev": 0,
-      "rank": 118,
-      "win_prob": 61.3,
+      "rank": 113,
+      "win_prob": 62.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "libya.png",
       "score1": "",
       "score2": "",
-      "rating1": 4798,
+      "rating1": 4810,
       "rating2": 4883,
       "rating_ev": 0,
-      "rank": 118,
-      "win_prob": 30.7,
+      "rank": 113,
+      "win_prob": 31.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Tunisia",
       "flag1": "mauritania.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4798,
-      "rating2": 5121,
-      "rating_ev": 0,
-      "rank": 118,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4810,
+      "rating2": 5109,
+      "rating_ev": 12,
+      "rank": 113,
       "win_prob": 13.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

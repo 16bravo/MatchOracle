@@ -1,18 +1,18 @@
 {
   "team": "Sint Maarten",
   "stats": {
-    "matches_played": 67,
+    "matches_played": 68,
     "wins": 21,
-    "draws": 9,
+    "draws": 10,
     "losses": 37,
     "goals_for": 94,
     "goals_against": 177,
     "goal_difference": -83,
-    "win_percentage": 31.3,
+    "win_percentage": 30.9,
     "avg_points": 1.07,
     "best_rank": 158,
     "worst_rank": 209,
-    "avg_rank": 196.4,
+    "avg_rank": 196.49,
     "biggest_win": {
       "score": "8-2",
       "opponent": "Turks and Caicos Islands",
@@ -26,14 +26,14 @@
       "flag": "haiti.png"
     },
     "home_matches": 14,
-    "away_matches": 22,
+    "away_matches": 23,
     "neutral_matches": 31,
     "first_match_date": "1968-10-27",
-    "last_match_date": "2024-11-18"
+    "last_match_date": "2025-11-12"
   },
   "matches": [
     {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Sint Maarten",
@@ -44,15 +44,15 @@
       "flag2": "belize.png",
       "score1": "",
       "score2": "",
-      "rating1": 3958,
+      "rating1": 3977,
       "rating2": 4275,
       "rating_ev": 0,
       "rank": 202,
-      "win_prob": 20.1,
+      "win_prob": 21.4,
       "type": "fixture"
     },
     {
-      "date": "2026-03-12",
+      "date": "2026-03-13",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Sint Maarten",
@@ -63,11 +63,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 3958,
-      "rating2": 4097,
+      "rating1": 3977,
+      "rating2": 4110,
       "rating_ev": 0,
       "rank": 202,
-      "win_prob": 35.2,
+      "win_prob": 35.8,
       "type": "fixture"
     },
     {
@@ -82,16 +82,16 @@
       "flag2": "dominica.png",
       "score1": "",
       "score2": "",
-      "rating1": 3958,
-      "rating2": 4081,
+      "rating1": 3977,
+      "rating2": 4068,
       "rating_ev": 0,
       "rank": 202,
-      "win_prob": 36.8,
+      "win_prob": 40.1,
       "type": "fixture"
     },
     {
       "date": "2025-11-12",
-      "country": "St Kitts and Nevis",
+      "country": "Saint Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Sint Maarten",
       "team2": "Saint Kitts and Nevis",
@@ -99,14 +99,14 @@
       "original_team2": "Saint Kitts and Nevis",
       "flag1": "st_maarten.png",
       "flag2": "kitts.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3958,
-      "rating2": 4177,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 3977,
+      "rating2": 4158,
+      "rating_ev": 19,
       "rank": 202,
-      "win_prob": 27.7,
-      "type": "fixture"
+      "win_prob": 19.8,
+      "type": "past"
     },
     {
       "date": "2024-11-18",
