@@ -1,18 +1,18 @@
 {
   "team": "Czechia",
   "stats": {
-    "matches_played": 877,
-    "wins": 423,
+    "matches_played": 878,
+    "wins": 424,
     "draws": 194,
     "losses": 260,
-    "goals_for": 1614,
+    "goals_for": 1615,
     "goals_against": 1090,
-    "goal_difference": 524,
-    "win_percentage": 48.2,
+    "goal_difference": 525,
+    "win_percentage": 48.3,
     "avg_points": 1.67,
     "best_rank": 1,
-    "worst_rank": 41,
-    "avg_rank": 13.16,
+    "worst_rank": 42,
+    "avg_rank": 13.19,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Yugoslavia",
@@ -25,11 +25,11 @@
       "date": "1939-05-21",
       "flag": "austria.png"
     },
-    "home_matches": 145,
+    "home_matches": 146,
     "away_matches": 416,
     "neutral_matches": 316,
     "first_match_date": "1903-04-05",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5215,
+      "rating1": 5193,
       "rating2": 4449,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 97.3,
+      "rank": 42,
+      "win_prob": 97.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "San Marino",
       "flag1": "czechia.png",
       "flag2": "san_marino.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5215,
-      "rating2": 4238,
-      "rating_ev": 0,
-      "rank": 35,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5193,
+      "rating2": 4260,
+      "rating_ev": -22,
+      "rank": 42,
       "win_prob": 98.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

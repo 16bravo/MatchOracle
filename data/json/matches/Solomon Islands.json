@@ -1,18 +1,18 @@
 {
   "team": "Solomon Islands",
   "stats": {
-    "matches_played": 215,
+    "matches_played": 216,
     "wins": 91,
     "draws": 36,
-    "losses": 88,
+    "losses": 89,
     "goals_for": 451,
-    "goals_against": 409,
-    "goal_difference": 42,
-    "win_percentage": 42.3,
-    "avg_points": 1.44,
+    "goals_against": 410,
+    "goal_difference": 41,
+    "win_percentage": 42.1,
+    "avg_points": 1.43,
     "best_rank": 147,
     "worst_rank": 187,
-    "avg_rank": 172.69,
+    "avg_rank": 172.71,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Cook Islands",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 59,
-    "away_matches": 61,
+    "away_matches": 62,
     "neutral_matches": 95,
     "first_match_date": "1963-08-30",
-    "last_match_date": "2024-12-21"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Papua New Guinea",
       "flag1": "solomon.png",
       "flag2": "papua.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4260,
-      "rating2": 4166,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4246,
+      "rating2": 4180,
+      "rating_ev": -14,
       "rank": 178,
       "win_prob": 49.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-12-21",

@@ -1,18 +1,18 @@
 {
   "team": "Cape Verde",
   "stats": {
-    "matches_played": 240,
+    "matches_played": 241,
     "wins": 90,
-    "draws": 56,
+    "draws": 57,
     "losses": 94,
     "goals_for": 257,
     "goals_against": 268,
     "goal_difference": -11,
-    "win_percentage": 37.5,
+    "win_percentage": 37.3,
     "avg_points": 1.36,
     "best_rank": 66,
     "worst_rank": 132,
-    "avg_rank": 99.55,
+    "avg_rank": 99.44,
     "biggest_win": {
       "score": "7-1",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 76,
     "away_matches": 84,
-    "neutral_matches": 80,
+    "neutral_matches": 81,
     "first_match_date": "1959-12-20",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Iran",
       "flag1": "cape_verde.png",
       "flag2": "iran.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4987,
-      "rating2": 5139,
-      "rating_ev": 0,
-      "rank": 75,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4996,
+      "rating2": 5130,
+      "rating_ev": 9,
+      "rank": 73,
       "win_prob": 33.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

@@ -1,18 +1,18 @@
 {
   "team": "Papua New Guinea",
   "stats": {
-    "matches_played": 156,
-    "wins": 48,
+    "matches_played": 157,
+    "wins": 49,
     "draws": 30,
     "losses": 78,
-    "goals_for": 319,
+    "goals_for": 320,
     "goals_against": 343,
-    "goal_difference": -24,
-    "win_percentage": 30.8,
-    "avg_points": 1.12,
+    "goal_difference": -23,
+    "win_percentage": 31.2,
+    "avg_points": 1.13,
     "best_rank": 148,
     "worst_rank": 197,
-    "avg_rank": 177.24,
+    "avg_rank": 177.29,
     "biggest_win": {
       "score": "20-0",
       "opponent": "Eastern Samoa",
@@ -25,11 +25,11 @@
       "date": "2023-06-20",
       "flag": "malaysia.png"
     },
-    "home_matches": 25,
+    "home_matches": 26,
     "away_matches": 42,
     "neutral_matches": 89,
     "first_match_date": "1963-08-29",
-    "last_match_date": "2024-12-21"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Solomon Islands",
       "flag1": "papua.png",
       "flag2": "solomon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4166,
-      "rating2": 4260,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4180,
+      "rating2": 4246,
+      "rating_ev": 14,
       "rank": 185,
       "win_prob": 50.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2024-12-21",

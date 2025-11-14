@@ -1,18 +1,18 @@
 {
   "team": "France",
   "stats": {
-    "matches_played": 931,
-    "wins": 467,
+    "matches_played": 932,
+    "wins": 468,
     "draws": 195,
     "losses": 269,
-    "goals_for": 1678,
+    "goals_for": 1682,
     "goals_against": 1276,
-    "goal_difference": 402,
+    "goal_difference": 406,
     "win_percentage": 50.2,
-    "avg_points": 1.71,
+    "avg_points": 1.72,
     "best_rank": 1,
     "worst_rank": 36,
-    "avg_rank": 12.25,
+    "avg_rank": 12.24,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Gibraltar",
@@ -25,11 +25,11 @@
       "date": "1908-10-22",
       "flag": "denmark.png"
     },
-    "home_matches": 470,
+    "home_matches": 471,
     "away_matches": 339,
     "neutral_matches": 122,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "azerbaijan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5530,
-      "rating2": 4797,
+      "rating1": 5561,
+      "rating2": 4783,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 93.1,
+      "rank": 4,
+      "win_prob": 94.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Ukraine",
       "flag1": "france.png",
       "flag2": "ukraine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5530,
-      "rating2": 5257,
-      "rating_ev": 0,
-      "rank": 6,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5561,
+      "rating2": 5226,
+      "rating_ev": 31,
+      "rank": 5,
       "win_prob": 83.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

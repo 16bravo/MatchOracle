@@ -1,18 +1,18 @@
 {
   "team": "Albania",
   "stats": {
-    "matches_played": 402,
-    "wins": 114,
+    "matches_played": 403,
+    "wins": 115,
     "draws": 85,
     "losses": 203,
-    "goals_for": 387,
+    "goals_for": 388,
     "goals_against": 594,
-    "goal_difference": -207,
-    "win_percentage": 28.4,
-    "avg_points": 1.06,
+    "goal_difference": -206,
+    "win_percentage": 28.5,
+    "avg_points": 1.07,
     "best_rank": 34,
     "worst_rank": 88,
-    "avg_rank": 60.71,
+    "avg_rank": 60.68,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Vietnam",
@@ -26,10 +26,10 @@
       "flag": "hungary_4.png"
     },
     "home_matches": 188,
-    "away_matches": 182,
+    "away_matches": 183,
     "neutral_matches": 32,
     "first_match_date": "1946-10-07",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5166,
-      "rating2": 5573,
+      "rating1": 5159,
+      "rating2": 5576,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 21.1,
+      "rank": 47,
+      "win_prob": 20.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Andorra",
       "flag1": "albania.png",
       "flag2": "andorra.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5166,
-      "rating2": 4706,
-      "rating_ev": 0,
-      "rank": 46,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5159,
+      "rating2": 4713,
+      "rating_ev": -7,
+      "rank": 47,
       "win_prob": 82.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

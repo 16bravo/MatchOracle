@@ -1,18 +1,18 @@
 {
   "team": "Italy",
   "stats": {
-    "matches_played": 898,
-    "wins": 478,
+    "matches_played": 899,
+    "wins": 479,
     "draws": 244,
     "losses": 176,
-    "goals_for": 1575,
+    "goals_for": 1577,
     "goals_against": 889,
-    "goal_difference": 686,
-    "win_percentage": 53.2,
+    "goal_difference": 688,
+    "win_percentage": 53.3,
     "avg_points": 1.87,
     "best_rank": 1,
     "worst_rank": 26,
-    "avg_rank": 9.61,
+    "avg_rank": 9.62,
     "biggest_win": {
       "score": "10-0",
       "opponent": "United States",
@@ -26,10 +26,10 @@
       "flag": "hungary_2.png"
     },
     "home_matches": 405,
-    "away_matches": 322,
+    "away_matches": 323,
     "neutral_matches": 171,
     "first_match_date": "1910-05-15",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5435,
-      "rating2": 5506,
+      "rating1": 5428,
+      "rating2": 5502,
       "rating_ev": 0,
       "rank": 14,
-      "win_prob": 53.1,
+      "win_prob": 52.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Moldova",
       "flag1": "italy.png",
       "flag2": "moldova.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5435,
-      "rating2": 4713,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5428,
+      "rating2": 4720,
+      "rating_ev": -7,
       "rank": 14,
       "win_prob": 92.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

@@ -1,18 +1,18 @@
 {
   "team": "Iceland",
   "stats": {
-    "matches_played": 518,
-    "wins": 157,
+    "matches_played": 519,
+    "wins": 158,
     "draws": 102,
     "losses": 259,
-    "goals_for": 625,
+    "goals_for": 627,
     "goals_against": 871,
-    "goal_difference": -246,
-    "win_percentage": 30.3,
+    "goal_difference": -244,
+    "win_percentage": 30.4,
     "avg_points": 1.11,
     "best_rank": 18,
     "worst_rank": 105,
-    "avg_rank": 60.7,
+    "avg_rank": 60.68,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Faroe Islands",
@@ -26,10 +26,10 @@
       "flag": "denmark.png"
     },
     "home_matches": 215,
-    "away_matches": 247,
+    "away_matches": 248,
     "neutral_matches": 56,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ukraine.png",
       "score1": "",
       "score2": "",
-      "rating1": 5118,
-      "rating2": 5257,
+      "rating1": 5132,
+      "rating2": 5226,
       "rating_ev": 0,
-      "rank": 54,
-      "win_prob": 35.2,
+      "rank": 51,
+      "win_prob": 39.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Azerbaijan",
       "flag1": "iceland.png",
       "flag2": "azerbaijan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5118,
-      "rating2": 4797,
-      "rating_ev": 0,
-      "rank": 54,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5132,
+      "rating2": 4783,
+      "rating_ev": 14,
+      "rank": 51,
       "win_prob": 72.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

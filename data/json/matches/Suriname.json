@@ -1,18 +1,18 @@
 {
   "team": "Suriname",
   "stats": {
-    "matches_played": 527,
-    "wins": 229,
+    "matches_played": 528,
+    "wins": 230,
     "draws": 125,
     "losses": 173,
-    "goals_for": 950,
+    "goals_for": 954,
     "goals_against": 717,
-    "goal_difference": 233,
-    "win_percentage": 43.5,
+    "goal_difference": 237,
+    "win_percentage": 43.6,
     "avg_points": 1.54,
     "best_rank": 28,
     "worst_rank": 168,
-    "avg_rank": 98.75,
+    "avg_rank": 98.73,
     "biggest_win": {
       "score": "9-0",
       "opponent": "French Guiana",
@@ -25,11 +25,11 @@
       "date": "1946-06-05",
       "flag": "netherlands.png"
     },
-    "home_matches": 218,
+    "home_matches": 219,
     "away_matches": 221,
     "neutral_matches": 88,
     "first_match_date": "1915-08-17",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "guatemala.png",
       "score1": "",
       "score2": "",
-      "rating1": 4848,
+      "rating1": 4886,
       "rating2": 4921,
       "rating_ev": 0,
-      "rank": 100,
-      "win_prob": 31.9,
+      "rank": 90,
+      "win_prob": 35.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "El Salvador",
       "flag1": "suriname.png",
       "flag2": "salvador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4848,
-      "rating2": 4692,
-      "rating_ev": 0,
-      "rank": 100,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4886,
+      "rating2": 4654,
+      "rating_ev": 38,
+      "rank": 90,
       "win_prob": 75.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

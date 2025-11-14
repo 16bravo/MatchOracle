@@ -1,18 +1,18 @@
 {
   "team": "Zimbabwe",
   "stats": {
-    "matches_played": 517,
+    "matches_played": 518,
     "wins": 198,
     "draws": 150,
-    "losses": 169,
-    "goals_for": 689,
-    "goals_against": 600,
-    "goal_difference": 89,
-    "win_percentage": 38.3,
+    "losses": 170,
+    "goals_for": 690,
+    "goals_against": 603,
+    "goal_difference": 87,
+    "win_percentage": 38.2,
     "avg_points": 1.44,
     "best_rank": 43,
     "worst_rank": 130,
-    "avg_rank": 85.08,
+    "avg_rank": 85.14,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Botswana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 165,
     "away_matches": 203,
-    "neutral_matches": 149,
+    "neutral_matches": 150,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4804,
+      "rating1": 4801,
       "rating2": 4994,
       "rating_ev": 0,
       "rank": 118,
-      "win_prob": 30.3,
+      "win_prob": 30.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 4804,
+      "rating1": 4801,
       "rating2": 5029,
       "rating_ev": 0,
       "rank": 118,
-      "win_prob": 27.2,
+      "win_prob": 26.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 4804,
+      "rating1": 4801,
       "rating2": 5099,
       "rating_ev": 0,
       "rank": 118,
-      "win_prob": 21.6,
+      "win_prob": 21.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4804,
+      "rating1": 4801,
       "rating2": 4868,
       "rating_ev": 0,
       "rank": 118,
-      "win_prob": 32.7,
+      "win_prob": 32.4,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Algeria",
       "flag1": "zimbabwe.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4804,
-      "rating2": 5185,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4801,
+      "rating2": 5188,
+      "rating_ev": -3,
       "rank": 118,
       "win_prob": 16.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

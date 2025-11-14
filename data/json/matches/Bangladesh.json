@@ -1,14 +1,14 @@
 {
   "team": "Bangladesh",
   "stats": {
-    "matches_played": 321,
+    "matches_played": 322,
     "wins": 84,
-    "draws": 72,
+    "draws": 73,
     "losses": 165,
-    "goals_for": 287,
-    "goals_against": 575,
+    "goals_for": 289,
+    "goals_against": 577,
     "goal_difference": -288,
-    "win_percentage": 26.2,
+    "win_percentage": 26.1,
     "avg_points": 1.01,
     "best_rank": 144,
     "worst_rank": 200,
@@ -25,11 +25,11 @@
       "date": "1979-09-16",
       "flag": "south_korea.png"
     },
-    "home_matches": 90,
+    "home_matches": 91,
     "away_matches": 90,
     "neutral_matches": 141,
     "first_match_date": "1973-07-27",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4218,
-      "rating2": 4491,
+      "rating1": 4214,
+      "rating2": 4499,
       "rating_ev": 0,
       "rank": 181,
-      "win_prob": 32.0,
+      "win_prob": 30.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Nepal",
       "flag1": "bangladesh.png",
       "flag2": "nepal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4218,
-      "rating2": 4164,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4214,
+      "rating2": 4168,
+      "rating_ev": -4,
       "rank": 181,
       "win_prob": 66.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -177,11 +177,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4218,
-      "rating2": 4354,
+      "rating1": 4214,
+      "rating2": 4361,
       "rating_ev": 0,
       "rank": 181,
-      "win_prob": 26.2,
+      "win_prob": 25.3,
       "type": "fixture"
     },
     {

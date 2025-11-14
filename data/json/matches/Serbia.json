@@ -1,18 +1,18 @@
 {
   "team": "Serbia",
   "stats": {
-    "matches_played": 857,
+    "matches_played": 858,
     "wins": 400,
     "draws": 192,
-    "losses": 265,
+    "losses": 266,
     "goals_for": 1608,
-    "goals_against": 1170,
-    "goal_difference": 438,
-    "win_percentage": 46.7,
+    "goals_against": 1172,
+    "goal_difference": 436,
+    "win_percentage": 46.6,
     "avg_points": 1.62,
     "best_rank": 2,
     "worst_rank": 36,
-    "avg_rank": 16.5,
+    "avg_rank": 16.52,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Venezuela",
@@ -26,10 +26,10 @@
       "flag": "czechia.png"
     },
     "home_matches": 72,
-    "away_matches": 421,
+    "away_matches": 422,
     "neutral_matches": 364,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5243,
-      "rating2": 4778,
+      "rating1": 5240,
+      "rating2": 4791,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 92.0,
+      "rank": 31,
+      "win_prob": 91.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "England",
       "flag1": "serbia.png",
       "flag2": "england.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5243,
-      "rating2": 5573,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5240,
+      "rating2": 5576,
+      "rating_ev": -3,
       "rank": 32,
       "win_prob": 13.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

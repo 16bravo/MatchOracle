@@ -1,18 +1,18 @@
 {
   "team": "Thailand",
   "stats": {
-    "matches_played": 928,
-    "wins": 362,
+    "matches_played": 929,
+    "wins": 363,
     "draws": 211,
     "losses": 355,
-    "goals_for": 1480,
-    "goals_against": 1390,
-    "goal_difference": 90,
-    "win_percentage": 39.0,
+    "goals_for": 1483,
+    "goals_against": 1392,
+    "goal_difference": 91,
+    "win_percentage": 39.1,
     "avg_points": 1.4,
     "best_rank": 69,
     "worst_rank": 145,
-    "avg_rank": 113.24,
+    "avg_rank": 113.26,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Brunei",
@@ -25,11 +25,11 @@
       "date": "2023-10-12",
       "flag": "georgia.png"
     },
-    "home_matches": 387,
+    "home_matches": 388,
     "away_matches": 198,
     "neutral_matches": 343,
     "first_match_date": "1948-08-20",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4728,
+      "rating1": 4721,
       "rating2": 4100,
       "rating_ev": 0,
       "rank": 134,
-      "win_prob": 90.1,
+      "win_prob": 89.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Singapore",
       "flag1": "thailand.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4728,
-      "rating2": 4354,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 2,
+      "rating1": 4721,
+      "rating2": 4361,
+      "rating_ev": -7,
       "rank": 134,
       "win_prob": 88.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -196,11 +196,11 @@
       "flag2": "turkmenistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4728,
+      "rating1": 4721,
       "rating2": 4553,
       "rating_ev": 0,
       "rank": 134,
-      "win_prob": 77.0,
+      "win_prob": 76.4,
       "type": "fixture"
     },
     {

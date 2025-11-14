@@ -1,9 +1,9 @@
 {
   "team": "Lithuania",
   "stats": {
-    "matches_played": 412,
+    "matches_played": 413,
     "wins": 104,
-    "draws": 80,
+    "draws": 81,
     "losses": 228,
     "goals_for": 405,
     "goals_against": 751,
@@ -12,7 +12,7 @@
     "avg_points": 0.95,
     "best_rank": 39,
     "worst_rank": 140,
-    "avg_rank": 84.69,
+    "avg_rank": 84.74,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -25,11 +25,11 @@
       "date": "1924-05-27",
       "flag": "egypt_2.png"
     },
-    "home_matches": 164,
+    "home_matches": 165,
     "away_matches": 205,
     "neutral_matches": 43,
     "first_match_date": "1923-06-24",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
+      "rating1": 4823,
       "rating2": 5548,
       "rating_ev": 0,
-      "rank": 111,
-      "win_prob": 3.0,
+      "rank": 108,
+      "win_prob": 3.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Israel",
       "flag1": "lithuania.png",
       "flag2": "israel.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4817,
-      "rating2": 5104,
-      "rating_ev": 0,
-      "rank": 111,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4823,
+      "rating2": 5098,
+      "rating_ev": 6,
+      "rank": 108,
       "win_prob": 30.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

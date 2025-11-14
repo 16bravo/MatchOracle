@@ -1,15 +1,15 @@
 {
   "team": "England",
   "stats": {
-    "matches_played": 1149,
-    "wins": 673,
+    "matches_played": 1150,
+    "wins": 674,
     "draws": 261,
     "losses": 215,
-    "goals_for": 2677,
+    "goals_for": 2679,
     "goals_against": 1113,
-    "goal_difference": 1564,
+    "goal_difference": 1566,
     "win_percentage": 58.6,
-    "avg_points": 1.98,
+    "avg_points": 1.99,
     "best_rank": 1,
     "worst_rank": 14,
     "avg_rank": 4.24,
@@ -25,11 +25,11 @@
       "date": "1954-05-23",
       "flag": "hungary_4.png"
     },
-    "home_matches": 507,
+    "home_matches": 508,
     "away_matches": 514,
     "neutral_matches": 128,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "albania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5573,
-      "rating2": 5166,
+      "rating1": 5576,
+      "rating2": 5159,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 78.9,
+      "win_prob": 79.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Serbia",
       "flag1": "england.png",
       "flag2": "serbia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5573,
-      "rating2": 5243,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5576,
+      "rating2": 5240,
+      "rating_ev": 3,
       "rank": 3,
       "win_prob": 86.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

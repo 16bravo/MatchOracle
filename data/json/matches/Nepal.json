@@ -1,14 +1,14 @@
 {
   "team": "Nepal",
   "stats": {
-    "matches_played": 293,
+    "matches_played": 294,
     "wins": 65,
-    "draws": 53,
+    "draws": 54,
     "losses": 175,
-    "goals_for": 240,
-    "goals_against": 673,
+    "goals_for": 242,
+    "goals_against": 675,
     "goal_difference": -433,
-    "win_percentage": 22.2,
+    "win_percentage": 22.1,
     "avg_points": 0.85,
     "best_rank": 155,
     "worst_rank": 199,
@@ -26,10 +26,10 @@
       "flag": "south_korea.png"
     },
     "home_matches": 74,
-    "away_matches": 88,
+    "away_matches": 89,
     "neutral_matches": 131,
     "first_match_date": "1972-10-13",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "malaysia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4164,
+      "rating1": 4168,
       "rating2": 4618,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 8.4,
+      "rank": 187,
+      "win_prob": 8.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bangladesh",
       "flag1": "nepal.png",
       "flag2": "bangladesh.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4164,
-      "rating2": 4218,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4168,
+      "rating2": 4214,
+      "rating_ev": 4,
       "rank": 186,
       "win_prob": 33.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -177,11 +177,11 @@
       "flag2": "laos.png",
       "score1": "",
       "score2": "",
-      "rating1": 4164,
+      "rating1": 4168,
       "rating2": 3917,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 82.0,
+      "rank": 187,
+      "win_prob": 82.3,
       "type": "fixture"
     },
     {

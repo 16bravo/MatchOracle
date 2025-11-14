@@ -1,18 +1,18 @@
 {
   "team": "Israel",
   "stats": {
-    "matches_played": 519,
+    "matches_played": 520,
     "wins": 195,
-    "draws": 117,
+    "draws": 118,
     "losses": 207,
     "goals_for": 796,
     "goals_against": 760,
     "goal_difference": 36,
-    "win_percentage": 37.6,
+    "win_percentage": 37.5,
     "avg_points": 1.35,
     "best_rank": 15,
     "worst_rank": 71,
-    "avg_rank": 44.13,
+    "avg_rank": 44.16,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Taiwan",
@@ -26,10 +26,10 @@
       "flag": "yugoslavia.png"
     },
     "home_matches": 249,
-    "away_matches": 209,
+    "away_matches": 210,
     "neutral_matches": 61,
     "first_match_date": "1949-07-30",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 5104,
-      "rating2": 4713,
+      "rating1": 5098,
+      "rating2": 4720,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 77.8,
+      "rank": 60,
+      "win_prob": 76.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Lithuania",
       "flag1": "israel.png",
       "flag2": "lithuania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5104,
-      "rating2": 4817,
-      "rating_ev": 0,
-      "rank": 57,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5098,
+      "rating2": 4823,
+      "rating_ev": -6,
+      "rank": 60,
       "win_prob": 69.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

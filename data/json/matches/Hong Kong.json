@@ -1,18 +1,18 @@
 {
   "team": "Hong Kong",
   "stats": {
-    "matches_played": 510,
+    "matches_played": 511,
     "wins": 181,
-    "draws": 99,
+    "draws": 100,
     "losses": 230,
-    "goals_for": 809,
-    "goals_against": 858,
+    "goals_for": 810,
+    "goals_against": 859,
     "goal_difference": -49,
-    "win_percentage": 35.5,
+    "win_percentage": 35.4,
     "avg_points": 1.26,
     "best_rank": 74,
     "worst_rank": 173,
-    "avg_rank": 130.14,
+    "avg_rank": 130.2,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "1948-03-31",
       "flag": "south_vietnam.png"
     },
-    "home_matches": 179,
+    "home_matches": 180,
     "away_matches": 151,
     "neutral_matches": 180,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4567,
-      "rating2": 4354,
+      "rating1": 4552,
+      "rating2": 4361,
       "rating_ev": 0,
-      "rank": 159,
-      "win_prob": 79.8,
+      "rank": 160,
+      "win_prob": 78.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Cambodia",
       "flag1": "hong_kong.png",
       "flag2": "cambodia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4567,
-      "rating2": 4155,
-      "rating_ev": 0,
-      "rank": 159,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4552,
+      "rating2": 4170,
+      "rating_ev": -15,
+      "rank": 160,
       "win_prob": 90.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -253,11 +253,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4567,
-      "rating2": 4491,
+      "rating1": 4552,
+      "rating2": 4499,
       "rating_ev": 0,
-      "rank": 159,
-      "win_prob": 47.4,
+      "rank": 160,
+      "win_prob": 44.9,
       "type": "fixture"
     },
     {

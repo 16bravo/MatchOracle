@@ -1,18 +1,18 @@
 {
   "team": "Singapore",
   "stats": {
-    "matches_played": 755,
+    "matches_played": 756,
     "wins": 234,
     "draws": 156,
-    "losses": 365,
-    "goals_for": 1006,
-    "goals_against": 1363,
-    "goal_difference": -357,
+    "losses": 366,
+    "goals_for": 1008,
+    "goals_against": 1366,
+    "goal_difference": -358,
     "win_percentage": 31.0,
-    "avg_points": 1.14,
+    "avg_points": 1.13,
     "best_rank": 80,
     "worst_rank": 180,
-    "avg_rank": 137.72,
+    "avg_rank": 137.77,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Laos",
@@ -26,10 +26,10 @@
       "flag": "burma_1.png"
     },
     "home_matches": 312,
-    "away_matches": 177,
+    "away_matches": 178,
     "neutral_matches": 266,
     "first_match_date": "1948-05-22",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4354,
-      "rating2": 4567,
+      "rating1": 4361,
+      "rating2": 4552,
       "rating_ev": 0,
       "rank": 173,
-      "win_prob": 20.2,
+      "win_prob": 21.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Thailand",
       "flag1": "singapore.png",
       "flag2": "thailand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4354,
-      "rating2": 4728,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4361,
+      "rating2": 4721,
+      "rating_ev": 7,
       "rank": 173,
       "win_prob": 11.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -196,11 +196,11 @@
       "flag2": "bangladesh.png",
       "score1": "",
       "score2": "",
-      "rating1": 4354,
-      "rating2": 4218,
+      "rating1": 4361,
+      "rating2": 4214,
       "rating_ev": 0,
       "rank": 173,
-      "win_prob": 73.8,
+      "win_prob": 74.7,
       "type": "fixture"
     },
     {

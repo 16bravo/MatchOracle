@@ -1,18 +1,18 @@
 {
   "team": "Cambodia",
   "stats": {
-    "matches_played": 307,
+    "matches_played": 308,
     "wins": 68,
-    "draws": 43,
+    "draws": 44,
     "losses": 196,
-    "goals_for": 348,
-    "goals_against": 793,
+    "goals_for": 349,
+    "goals_against": 794,
     "goal_difference": -445,
     "win_percentage": 22.1,
-    "avg_points": 0.8,
+    "avg_points": 0.81,
     "best_rank": 102,
     "worst_rank": 206,
-    "avg_rank": 173.07,
+    "avg_rank": 173.12,
     "biggest_win": {
       "score": "8-0",
       "opponent": "North Yemen",
@@ -26,10 +26,10 @@
       "flag": "iran.png"
     },
     "home_matches": 76,
-    "away_matches": 88,
+    "away_matches": 89,
     "neutral_matches": 143,
     "first_match_date": "1956-03-17",
-    "last_match_date": "2025-06-05"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Hong Kong",
       "flag1": "cambodia.png",
       "flag2": "hong_kong.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4155,
-      "rating2": 4567,
-      "rating_ev": 0,
-      "rank": 188,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4170,
+      "rating2": 4552,
+      "rating_ev": 15,
+      "rank": 186,
       "win_prob": 9.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-06-05",

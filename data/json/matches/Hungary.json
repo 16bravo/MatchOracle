@@ -1,18 +1,18 @@
 {
   "team": "Hungary",
   "stats": {
-    "matches_played": 1032,
-    "wins": 487,
+    "matches_played": 1033,
+    "wins": 488,
     "draws": 221,
     "losses": 324,
-    "goals_for": 2082,
+    "goals_for": 2083,
     "goals_against": 1526,
-    "goal_difference": 556,
+    "goal_difference": 557,
     "win_percentage": 47.2,
     "avg_points": 1.63,
     "best_rank": 1,
     "worst_rank": 71,
-    "avg_rank": 22.32,
+    "avg_rank": 22.34,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Russia",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 464,
-    "away_matches": 494,
+    "away_matches": 495,
     "neutral_matches": 74,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5200,
-      "rating2": 5098,
+      "rating1": 5198,
+      "rating2": 5147,
       "rating_ev": 0,
       "rank": 39,
-      "win_prob": 70.8,
+      "win_prob": 66.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Armenia",
       "flag1": "hungary.png",
       "flag2": "armenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5200,
-      "rating2": 4840,
-      "rating_ev": 0,
-      "rank": 39,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5198,
+      "rating2": 4842,
+      "rating_ev": -2,
+      "rank": 40,
       "win_prob": 75.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

@@ -1,18 +1,18 @@
 {
   "team": "Azerbaijan",
   "stats": {
-    "matches_played": 318,
+    "matches_played": 319,
     "wins": 65,
     "draws": 80,
-    "losses": 173,
+    "losses": 174,
     "goals_for": 255,
-    "goals_against": 535,
-    "goal_difference": -280,
+    "goals_against": 537,
+    "goal_difference": -282,
     "win_percentage": 20.4,
     "avg_points": 0.86,
     "best_rank": 36,
     "worst_rank": 131,
-    "avg_rank": 99.95,
+    "avg_rank": 100.02,
     "biggest_win": {
       "score": "4-0",
       "opponent": "Armenia",
@@ -25,11 +25,11 @@
       "date": "1995-09-06",
       "flag": "france.png"
     },
-    "home_matches": 112,
+    "home_matches": 113,
     "away_matches": 152,
     "neutral_matches": 54,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 4797,
-      "rating2": 5530,
+      "rating1": 4783,
+      "rating2": 5561,
       "rating_ev": 0,
-      "rank": 120,
-      "win_prob": 6.9,
+      "rank": 125,
+      "win_prob": 5.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Iceland",
       "flag1": "azerbaijan.png",
       "flag2": "iceland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4797,
-      "rating2": 5118,
-      "rating_ev": 0,
-      "rank": 120,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4783,
+      "rating2": 5132,
+      "rating_ev": -14,
+      "rank": 124,
       "win_prob": 27.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

@@ -1,18 +1,18 @@
 {
   "team": "Iraq",
   "stats": {
-    "matches_played": 746,
+    "matches_played": 747,
     "wins": 352,
-    "draws": 210,
+    "draws": 211,
     "losses": 184,
-    "goals_for": 1183,
-    "goals_against": 692,
+    "goals_for": 1184,
+    "goals_against": 693,
     "goal_difference": 491,
-    "win_percentage": 47.2,
+    "win_percentage": 47.1,
     "avg_points": 1.7,
     "best_rank": 34,
     "worst_rank": 101,
-    "avg_rank": 62.69,
+    "avg_rank": 62.71,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Ethiopia",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 137,
-    "away_matches": 229,
+    "away_matches": 230,
     "neutral_matches": 380,
     "first_match_date": "1944-03-05",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4934,
-      "rating2": 5185,
+      "rating1": 4941,
+      "rating2": 5188,
       "rating_ev": 0,
-      "rank": 83,
-      "win_prob": 25.0,
+      "rank": 81,
+      "win_prob": 25.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 4934,
-      "rating2": 4958,
+      "rating1": 4941,
+      "rating2": 4951,
       "rating_ev": 0,
-      "rank": 83,
-      "win_prob": 58.2,
+      "rank": 81,
+      "win_prob": 59.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "United Arab Emirates",
       "flag1": "iraq.png",
       "flag2": "uae.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4934,
-      "rating2": 4958,
-      "rating_ev": 0,
-      "rank": 83,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4941,
+      "rating2": 4951,
+      "rating_ev": 7,
+      "rank": 81,
       "win_prob": 36.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

@@ -1,18 +1,18 @@
 {
   "team": "Ireland",
   "stats": {
-    "matches_played": 733,
-    "wins": 257,
+    "matches_played": 734,
+    "wins": 258,
     "draws": 191,
     "losses": 285,
-    "goals_for": 962,
+    "goals_for": 964,
     "goals_against": 1151,
-    "goal_difference": -189,
+    "goal_difference": -187,
     "win_percentage": 35.1,
     "avg_points": 1.31,
     "best_rank": 4,
     "worst_rank": 61,
-    "avg_rank": 22.53,
+    "avg_rank": 22.56,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Malta",
@@ -25,11 +25,11 @@
       "date": "1882-02-18",
       "flag": "england.png"
     },
-    "home_matches": 374,
+    "home_matches": 375,
     "away_matches": 300,
     "neutral_matches": 59,
     "first_match_date": "1882-02-18",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "hungary.png",
       "score1": "",
       "score2": "",
-      "rating1": 5098,
-      "rating2": 5200,
+      "rating1": 5147,
+      "rating2": 5198,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 29.2,
+      "rank": 49,
+      "win_prob": 34.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Portugal",
       "flag1": "ireland.png",
       "flag2": "portugal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5098,
-      "rating2": 5562,
-      "rating_ev": 0,
-      "rank": 59,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5147,
+      "rating2": 5513,
+      "rating_ev": 49,
+      "rank": 49,
       "win_prob": 17.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

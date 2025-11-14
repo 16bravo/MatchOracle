@@ -1,18 +1,18 @@
 {
   "team": "Nigeria",
   "stats": {
-    "matches_played": 697,
-    "wins": 319,
+    "matches_played": 698,
+    "wins": 320,
     "draws": 200,
     "losses": 178,
-    "goals_for": 1039,
-    "goals_against": 710,
-    "goal_difference": 329,
+    "goals_for": 1043,
+    "goals_against": 711,
+    "goal_difference": 332,
     "win_percentage": 45.8,
     "avg_points": 1.66,
     "best_rank": 23,
     "worst_rank": 71,
-    "avg_rank": 46.89,
+    "avg_rank": 46.91,
     "biggest_win": {
       "score": "10-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 235,
     "away_matches": 259,
-    "neutral_matches": 203,
+    "neutral_matches": 204,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5072,
+      "rating1": 5105,
       "rating2": 4883,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 69.6,
+      "rank": 58,
+      "win_prob": 72.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5072,
+      "rating1": 5105,
       "rating2": 5109,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 45.9,
+      "rank": 58,
+      "win_prob": 49.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5072,
+      "rating1": 5105,
       "rating2": 4821,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 75.0,
+      "rank": 58,
+      "win_prob": 77.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,30 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5072,
+      "rating1": 5105,
       "rating2": 5099,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 36.4,
+      "rank": 58,
+      "win_prob": 39.8,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-11-16",
+      "country": "Morocco",
+      "tournament": "World Cup qualifier",
+      "team1": "Nigeria",
+      "team2": "DR Congo",
+      "original_team1": "Nigeria",
+      "original_team2": "DR Congo",
+      "flag1": "nigeria.png",
+      "flag2": "dr_congo.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5105,
+      "rating2": 5060,
+      "rating_ev": 0,
+      "rank": 58,
+      "win_prob": 54.9,
       "type": "fixture"
     },
     {
@@ -118,14 +137,14 @@
       "original_team2": "Gabon",
       "flag1": "nigeria.png",
       "flag2": "gabon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5072,
-      "rating2": 4941,
-      "rating_ev": 0,
-      "rank": 64,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5105,
+      "rating2": 4908,
+      "rating_ev": 33,
+      "rank": 58,
       "win_prob": 64.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

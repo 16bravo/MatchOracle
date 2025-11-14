@@ -1,18 +1,18 @@
 {
   "team": "Bhutan",
   "stats": {
-    "matches_played": 108,
+    "matches_played": 109,
     "wins": 10,
     "draws": 7,
-    "losses": 91,
-    "goals_for": 58,
-    "goals_against": 393,
-    "goal_difference": -335,
-    "win_percentage": 9.3,
+    "losses": 92,
+    "goals_for": 59,
+    "goals_against": 399,
+    "goal_difference": -340,
+    "win_percentage": 9.2,
     "avg_points": 0.34,
     "best_rank": 182,
     "worst_rank": 214,
-    "avg_rank": 207.09,
+    "avg_rank": 207.11,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "kuwait.png"
     },
     "home_matches": 18,
-    "away_matches": 38,
+    "away_matches": 39,
     "neutral_matches": 52,
     "first_match_date": "1982-04-30",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,12 +44,31 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 3736,
+      "rating1": 3728,
       "rating2": 4533,
       "rating_ev": 0,
-      "rank": 208,
-      "win_prob": 3.6,
+      "rank": 209,
+      "win_prob": 3.5,
       "type": "fixture"
+    },
+    {
+      "date": "2025-11-13",
+      "country": "India",
+      "tournament": "Friendly",
+      "team1": "Bhutan",
+      "team2": "India",
+      "original_team1": "Bhutan",
+      "original_team2": "India",
+      "flag1": "bhutan.png",
+      "flag2": "india.png",
+      "score1": 1,
+      "score2": 6,
+      "rating1": 3728,
+      "rating2": 4499,
+      "rating_ev": -8,
+      "rank": 209,
+      "win_prob": 2.8,
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -139,11 +158,11 @@
       "flag2": "brunei.png",
       "score1": "",
       "score2": "",
-      "rating1": 3736,
+      "rating1": 3728,
       "rating2": 3651,
       "rating_ev": 0,
-      "rank": 208,
-      "win_prob": 69.3,
+      "rank": 209,
+      "win_prob": 68.5,
       "type": "fixture"
     },
     {

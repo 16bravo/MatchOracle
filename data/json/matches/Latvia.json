@@ -1,18 +1,18 @@
 {
   "team": "Latvia",
   "stats": {
-    "matches_played": 454,
+    "matches_played": 455,
     "wins": 126,
-    "draws": 110,
+    "draws": 111,
     "losses": 218,
     "goals_for": 530,
     "goals_against": 751,
     "goal_difference": -221,
-    "win_percentage": 27.8,
+    "win_percentage": 27.7,
     "avg_points": 1.07,
     "best_rank": 40,
     "worst_rank": 143,
-    "avg_rank": 78.8,
+    "avg_rank": 78.9,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "sweden.png"
     },
     "home_matches": 190,
-    "away_matches": 210,
+    "away_matches": 211,
     "neutral_matches": 54,
     "first_match_date": "1922-09-24",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4778,
-      "rating2": 5243,
+      "rating1": 4791,
+      "rating2": 5240,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 8.0,
+      "rank": 123,
+      "win_prob": 8.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "North Macedonia",
       "flag1": "latvia.png",
       "flag2": "macedonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4778,
-      "rating2": 5120,
-      "rating_ev": 0,
-      "rank": 126,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4791,
+      "rating2": 5107,
+      "rating_ev": 13,
+      "rank": 123,
       "win_prob": 12.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -196,11 +196,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4778,
+      "rating1": 4791,
       "rating2": 4449,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 86.6,
+      "rank": 123,
+      "win_prob": 87.3,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4778,
+      "rating1": 4791,
       "rating2": 4449,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 73.0,
+      "rank": 123,
+      "win_prob": 74.0,
       "type": "fixture"
     },
     {

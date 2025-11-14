@@ -1,18 +1,18 @@
 {
   "team": "Estonia",
   "stats": {
-    "matches_played": 535,
+    "matches_played": 536,
     "wins": 131,
     "draws": 119,
-    "losses": 285,
-    "goals_for": 525,
-    "goals_against": 951,
-    "goal_difference": -426,
-    "win_percentage": 24.5,
+    "losses": 286,
+    "goals_for": 526,
+    "goals_against": 955,
+    "goal_difference": -429,
+    "win_percentage": 24.4,
     "avg_points": 0.96,
     "best_rank": 32,
     "worst_rank": 154,
-    "avg_rank": 92.23,
+    "avg_rank": 92.26,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "finland.png"
     },
     "home_matches": 230,
-    "away_matches": 252,
+    "away_matches": 253,
     "neutral_matches": 53,
     "first_match_date": "1920-10-17",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 4820,
+      "rating1": 4824,
       "rating2": 4818,
       "rating_ev": 0,
-      "rank": 109,
-      "win_prob": 39.4,
+      "rank": 107,
+      "win_prob": 39.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Norway",
       "flag1": "estonia.png",
       "flag2": "norway.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4820,
-      "rating2": 5506,
-      "rating_ev": 0,
-      "rank": 109,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4824,
+      "rating2": 5502,
+      "rating_ev": 4,
+      "rank": 107,
       "win_prob": 3.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
