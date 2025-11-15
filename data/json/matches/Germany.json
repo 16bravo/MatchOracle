@@ -1,14 +1,14 @@
 {
   "team": "Germany",
   "stats": {
-    "matches_played": 1036,
-    "wins": 595,
+    "matches_played": 1037,
+    "wins": 596,
     "draws": 217,
     "losses": 224,
-    "goals_for": 2317,
+    "goals_for": 2319,
     "goals_against": 1222,
-    "goal_difference": 1095,
-    "win_percentage": 57.4,
+    "goal_difference": 1097,
+    "win_percentage": 57.5,
     "avg_points": 1.93,
     "best_rank": 1,
     "worst_rank": 20,
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 308,
-    "away_matches": 411,
+    "away_matches": 412,
     "neutral_matches": 317,
     "first_match_date": "1908-04-05",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5485,
-      "rating2": 5027,
+      "rating1": 5483,
+      "rating2": 4987,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 91.7,
+      "win_prob": 92.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5485,
-      "rating2": 5190,
+      "rating1": 5483,
+      "rating2": 5195,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 84.9,
+      "win_prob": 84.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Luxembourg",
       "flag1": "germany.png",
       "flag2": "luxembourg.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5485,
-      "rating2": 4876,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5483,
+      "rating2": 4878,
+      "rating_ev": -2,
       "rank": 10,
       "win_prob": 89.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",
@@ -215,11 +215,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5485,
-      "rating2": 5118,
+      "rating1": 5483,
+      "rating2": 5110,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 88.4,
+      "win_prob": 88.7,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Montenegro",
   "stats": {
-    "matches_played": 162,
-    "wins": 54,
+    "matches_played": 163,
+    "wins": 55,
     "draws": 41,
     "losses": 67,
-    "goals_for": 188,
-    "goals_against": 217,
-    "goal_difference": -29,
-    "win_percentage": 33.3,
-    "avg_points": 1.25,
+    "goals_for": 190,
+    "goals_against": 218,
+    "goal_difference": -28,
+    "win_percentage": 33.7,
+    "avg_points": 1.26,
     "best_rank": 40,
     "worst_rank": 89,
-    "avg_rank": 58.97,
+    "avg_rank": 59.15,
     "biggest_win": {
       "score": "6-0",
       "opponent": "San Marino",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 84,
-    "away_matches": 73,
+    "away_matches": 74,
     "neutral_matches": 5,
     "first_match_date": "2007-03-24",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,8 +44,8 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4899,
-      "rating2": 5444,
+      "rating1": 4892,
+      "rating2": 5436,
       "rating_ev": 0,
       "rank": 89,
       "win_prob": 13.2,
@@ -61,14 +61,14 @@
       "original_team2": "Gibraltar",
       "flag1": "montenegro.png",
       "flag2": "gibraltar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4899,
-      "rating2": 4449,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4892,
+      "rating2": 4456,
+      "rating_ev": -7,
       "rank": 89,
       "win_prob": 81.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

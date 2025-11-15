@@ -1,18 +1,18 @@
 {
   "team": "Oman",
   "stats": {
-    "matches_played": 583,
-    "wins": 221,
+    "matches_played": 584,
+    "wins": 222,
     "draws": 147,
     "losses": 215,
-    "goals_for": 751,
+    "goals_for": 753,
     "goals_against": 771,
-    "goal_difference": -20,
-    "win_percentage": 37.9,
+    "goal_difference": -18,
+    "win_percentage": 38.0,
     "avg_points": 1.39,
     "best_rank": 53,
     "worst_rank": 174,
-    "avg_rank": 101.46,
+    "avg_rank": 101.45,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Bhutan",
@@ -25,11 +25,11 @@
       "date": "1966-04-01",
       "flag": "libya.png"
     },
-    "home_matches": 224,
+    "home_matches": 225,
     "away_matches": 144,
     "neutral_matches": 215,
     "first_match_date": "1965-09-02",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4858,
+      "rating1": 4869,
       "rating2": 4427,
       "rating_ev": 0,
       "rank": 95,
-      "win_prob": 86.5,
+      "win_prob": 87.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4858,
-      "rating2": 5118,
+      "rating1": 4869,
+      "rating2": 5110,
       "rating_ev": 0,
       "rank": 95,
-      "win_prob": 33.2,
+      "win_prob": 35.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Sudan",
       "flag1": "oman.png",
       "flag2": "sudan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4858,
-      "rating2": 4844,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4869,
+      "rating2": 4833,
+      "rating_ev": 11,
       "rank": 95,
       "win_prob": 62.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

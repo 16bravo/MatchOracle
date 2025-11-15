@@ -1,18 +1,18 @@
 {
   "team": "Gibraltar",
   "stats": {
-    "matches_played": 104,
+    "matches_played": 105,
     "wins": 12,
     "draws": 14,
-    "losses": 78,
-    "goals_for": 43,
-    "goals_against": 322,
-    "goal_difference": -279,
-    "win_percentage": 11.5,
+    "losses": 79,
+    "goals_for": 44,
+    "goals_against": 324,
+    "goal_difference": -280,
+    "win_percentage": 11.4,
     "avg_points": 0.48,
     "best_rank": 162,
     "worst_rank": 186,
-    "avg_rank": 174.57,
+    "avg_rank": 174.5,
     "biggest_win": {
       "score": "3-0",
       "opponent": "Faroe Islands",
@@ -25,11 +25,11 @@
       "date": "2023-11-18",
       "flag": "france.png"
     },
-    "home_matches": 35,
+    "home_matches": 36,
     "away_matches": 47,
     "neutral_matches": 22,
     "first_match_date": "2007-07-04",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,7 +44,7 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4449,
+      "rating1": 4456,
       "rating2": 5193,
       "rating_ev": 0,
       "rank": 167,
@@ -61,14 +61,14 @@
       "original_team2": "Montenegro",
       "flag1": "gibraltar.png",
       "flag2": "montenegro.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4449,
-      "rating2": 4899,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4456,
+      "rating2": 4892,
+      "rating_ev": 7,
       "rank": 167,
       "win_prob": 18.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",
@@ -196,11 +196,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4449,
+      "rating1": 4456,
       "rating2": 4791,
       "rating_ev": 0,
       "rank": 167,
-      "win_prob": 12.7,
+      "win_prob": 13.1,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4449,
+      "rating1": 4456,
       "rating2": 4791,
       "rating_ev": 0,
       "rank": 167,
-      "win_prob": 26.0,
+      "win_prob": 26.5,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Mozambique",
   "stats": {
-    "matches_played": 408,
+    "matches_played": 409,
     "wins": 126,
     "draws": 106,
-    "losses": 176,
+    "losses": 177,
     "goals_for": 413,
-    "goals_against": 525,
-    "goal_difference": -112,
-    "win_percentage": 30.9,
-    "avg_points": 1.19,
+    "goals_against": 526,
+    "goal_difference": -113,
+    "win_percentage": 30.8,
+    "avg_points": 1.18,
     "best_rank": 79,
     "worst_rank": 143,
-    "avg_rank": 112.72,
+    "avg_rank": 112.7,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lesotho",
@@ -26,10 +26,10 @@
       "flag": "rhodesia.png"
     },
     "home_matches": 153,
-    "away_matches": 161,
+    "away_matches": 162,
     "neutral_matches": 94,
     "first_match_date": "1975-06-25",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
+      "rating1": 4828,
       "rating2": 5038,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 27.5,
+      "rank": 106,
+      "win_prob": 28.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
+      "rating1": 4828,
       "rating2": 4908,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 40.1,
+      "rank": 106,
+      "win_prob": 41.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
-      "rating2": 5118,
+      "rating1": 4828,
+      "rating2": 5110,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 21.2,
+      "rank": 106,
+      "win_prob": 22.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "chad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4817,
-      "rating2": 4582,
+      "rating1": 4828,
+      "rating2": 4584,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 73.7,
+      "rank": 106,
+      "win_prob": 74.4,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Morocco",
       "flag1": "mozambique.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4817,
-      "rating2": 5338,
-      "rating_ev": 0,
-      "rank": 112,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4828,
+      "rating2": 5327,
+      "rating_ev": 11,
+      "rank": 107,
       "win_prob": 6.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

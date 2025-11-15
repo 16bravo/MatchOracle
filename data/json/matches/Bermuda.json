@@ -1,18 +1,18 @@
 {
   "team": "Bermuda",
   "stats": {
-    "matches_played": 226,
+    "matches_played": 227,
     "wins": 73,
     "draws": 44,
-    "losses": 109,
+    "losses": 110,
     "goals_for": 350,
-    "goals_against": 400,
-    "goal_difference": -50,
-    "win_percentage": 32.3,
+    "goals_against": 407,
+    "goal_difference": -57,
+    "win_percentage": 32.2,
     "avg_points": 1.16,
     "best_rank": 103,
-    "worst_rank": 172,
-    "avg_rank": 138.35,
+    "worst_rank": 175,
+    "avg_rank": 138.52,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Montserrat",
@@ -20,16 +20,16 @@
       "flag": "montserrat.png"
     },
     "biggest_loss": {
-      "score": "0-6",
-      "opponent": "Denmark",
-      "date": "1969-07-01",
-      "flag": "denmark.png"
+      "score": "0-7",
+      "opponent": "Cura\u00e7ao",
+      "date": "2025-11-13",
+      "flag": "curacao.png"
     },
-    "home_matches": 102,
+    "home_matches": 103,
     "away_matches": 79,
     "neutral_matches": 45,
     "first_match_date": "1964-08-10",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4385,
-      "rating2": 4806,
+      "rating1": 4320,
+      "rating2": 4808,
       "rating_ev": 0,
-      "rank": 171,
-      "win_prob": 9.5,
+      "rank": 175,
+      "win_prob": 7.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Cura\u00e7ao",
       "flag1": "bermuda.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4385,
-      "rating2": 4822,
-      "rating_ev": 0,
-      "rank": 171,
+      "score1": 0,
+      "score2": 7,
+      "rating1": 4320,
+      "rating2": 4887,
+      "rating_ev": -65,
+      "rank": 175,
       "win_prob": 19.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

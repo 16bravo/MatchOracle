@@ -1,18 +1,18 @@
 {
   "team": "Honduras",
   "stats": {
-    "matches_played": 664,
+    "matches_played": 665,
     "wins": 263,
     "draws": 172,
-    "losses": 229,
+    "losses": 230,
     "goals_for": 962,
-    "goals_against": 852,
-    "goal_difference": 110,
-    "win_percentage": 39.6,
+    "goals_against": 854,
+    "goal_difference": 108,
+    "win_percentage": 39.5,
     "avg_points": 1.45,
     "best_rank": 24,
     "worst_rank": 109,
-    "avg_rank": 62.85,
+    "avg_rank": 62.88,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Nicaragua",
@@ -26,14 +26,14 @@
       "flag": "guatemala.png"
     },
     "home_matches": 212,
-    "away_matches": 215,
+    "away_matches": 216,
     "neutral_matches": 237,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "United States",
       "tournament": "Friendly",
       "team1": "Honduras",
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4974,
+      "rating1": 4935,
       "rating2": 5608,
       "rating_ev": 0,
-      "rank": 77,
-      "win_prob": 6.5,
+      "rank": 81,
+      "win_prob": 5.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4974,
-      "rating2": 5124,
+      "rating1": 4935,
+      "rating2": 5100,
       "rating_ev": 0,
-      "rank": 77,
-      "win_prob": 25.0,
+      "rank": 81,
+      "win_prob": 23.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Nicaragua",
       "flag1": "honduras.png",
       "flag2": "nicaragua.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4974,
-      "rating2": 4686,
-      "rating_ev": 0,
-      "rank": 77,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4935,
+      "rating2": 4725,
+      "rating_ev": -39,
+      "rank": 81,
       "win_prob": 69.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

@@ -1,18 +1,18 @@
 {
   "team": "Malta",
   "stats": {
-    "matches_played": 450,
-    "wins": 63,
+    "matches_played": 451,
+    "wins": 64,
     "draws": 77,
     "losses": 310,
-    "goals_for": 288,
+    "goals_for": 289,
     "goals_against": 1010,
-    "goal_difference": -722,
-    "win_percentage": 14.0,
-    "avg_points": 0.59,
+    "goal_difference": -721,
+    "win_percentage": 14.2,
+    "avg_points": 0.6,
     "best_rank": 64,
     "worst_rank": 146,
-    "avg_rank": 112.5,
+    "avg_rank": 112.54,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Liechtenstein",
@@ -26,10 +26,10 @@
       "flag": "spain.png"
     },
     "home_matches": 244,
-    "away_matches": 180,
+    "away_matches": 181,
     "neutral_matches": 26,
     "first_match_date": "1957-02-24",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4686,
-      "rating2": 5223,
+      "rating1": 4726,
+      "rating2": 5237,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 13.6,
+      "rank": 134,
+      "win_prob": 14.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Finland",
       "flag1": "malta.png",
       "flag2": "finland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4686,
-      "rating2": 5027,
-      "rating_ev": 0,
-      "rank": 141,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4726,
+      "rating2": 4987,
+      "rating_ev": 40,
+      "rank": 134,
       "win_prob": 12.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",
@@ -196,11 +196,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4686,
-      "rating2": 4876,
+      "rating1": 4726,
+      "rating2": 4878,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 21.9,
+      "rank": 134,
+      "win_prob": 24.9,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4686,
-      "rating2": 4876,
+      "rating1": 4726,
+      "rating2": 4878,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 40.3,
+      "rank": 134,
+      "win_prob": 44.3,
       "type": "fixture"
     },
     {

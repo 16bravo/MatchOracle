@@ -1,18 +1,18 @@
 {
   "team": "Equatorial Guinea",
   "stats": {
-    "matches_played": 186,
-    "wins": 54,
+    "matches_played": 187,
+    "wins": 55,
     "draws": 43,
     "losses": 89,
-    "goals_for": 172,
+    "goals_for": 173,
     "goals_against": 269,
-    "goal_difference": -97,
-    "win_percentage": 29.0,
-    "avg_points": 1.1,
+    "goal_difference": -96,
+    "win_percentage": 29.4,
+    "avg_points": 1.11,
     "best_rank": 69,
     "worst_rank": 168,
-    "avg_rank": 123.39,
+    "avg_rank": 123.25,
     "biggest_win": {
       "score": "4-0",
       "opponent": "South Sudan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 80,
     "away_matches": 62,
-    "neutral_matches": 44,
+    "neutral_matches": 45,
     "first_match_date": "1975-05-23",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4854,
+      "rating1": 4860,
       "rating2": 5188,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 19.0,
+      "rank": 97,
+      "win_prob": 19.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4854,
-      "rating2": 4844,
+      "rating1": 4860,
+      "rating2": 4833,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 51.1,
+      "rank": 97,
+      "win_prob": 53.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4854,
-      "rating2": 5035,
+      "rating1": 4860,
+      "rating2": 5038,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 31.1,
+      "rank": 97,
+      "win_prob": 31.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "madagascar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4854,
+      "rating1": 4860,
       "rating2": 4805,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 55.4,
+      "rank": 97,
+      "win_prob": 56.0,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Kenya",
       "flag1": "eq_guinea.png",
       "flag2": "kenya.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4854,
-      "rating2": 4833,
-      "rating_ev": 0,
-      "rank": 99,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4860,
+      "rating2": 4827,
+      "rating_ev": 6,
+      "rank": 97,
       "win_prob": 52.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

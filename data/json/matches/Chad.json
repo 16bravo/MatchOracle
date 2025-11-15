@@ -1,18 +1,18 @@
 {
   "team": "Chad",
   "stats": {
-    "matches_played": 177,
+    "matches_played": 178,
     "wins": 34,
     "draws": 40,
-    "losses": 103,
-    "goals_for": 157,
-    "goals_against": 326,
-    "goal_difference": -169,
-    "win_percentage": 19.2,
+    "losses": 104,
+    "goals_for": 158,
+    "goals_against": 328,
+    "goal_difference": -170,
+    "win_percentage": 19.1,
     "avg_points": 0.8,
     "best_rank": 104,
     "worst_rank": 157,
-    "avg_rank": 131.71,
+    "avg_rank": 131.85,
     "biggest_win": {
       "score": "5-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 43,
     "away_matches": 58,
-    "neutral_matches": 76,
+    "neutral_matches": 77,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 4582,
-      "rating2": 4817,
+      "rating1": 4584,
+      "rating2": 4828,
       "rating_ev": 0,
-      "rank": 157,
-      "win_prob": 26.3,
+      "rank": 156,
+      "win_prob": 25.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Uganda",
       "flag1": "chad.png",
       "flag2": "uganda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4582,
-      "rating2": 4883,
-      "rating_ev": 0,
-      "rank": 157,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4584,
+      "rating2": 4881,
+      "rating_ev": 2,
+      "rank": 156,
       "win_prob": 21.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

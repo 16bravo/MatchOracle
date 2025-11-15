@@ -1,18 +1,18 @@
 {
   "team": "Haiti",
   "stats": {
-    "matches_played": 555,
-    "wins": 243,
+    "matches_played": 556,
+    "wins": 244,
     "draws": 117,
     "losses": 195,
-    "goals_for": 945,
+    "goals_for": 946,
     "goals_against": 755,
-    "goal_difference": 190,
-    "win_percentage": 43.8,
-    "avg_points": 1.52,
+    "goal_difference": 191,
+    "win_percentage": 43.9,
+    "avg_points": 1.53,
     "best_rank": 53,
     "worst_rank": 144,
-    "avg_rank": 92.54,
+    "avg_rank": 92.51,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Sint Maarten",
@@ -27,9 +27,9 @@
     },
     "home_matches": 181,
     "away_matches": 193,
-    "neutral_matches": 181,
+    "neutral_matches": 182,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "nicaragua.png",
       "score1": "",
       "score2": "",
-      "rating1": 4947,
-      "rating2": 4686,
+      "rating1": 4971,
+      "rating2": 4725,
       "rating_ev": 0,
-      "rank": 80,
-      "win_prob": 75.8,
+      "rank": 77,
+      "win_prob": 74.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Costa Rica",
       "flag1": "haiti.png",
       "flag2": "costa_rica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4947,
-      "rating2": 5124,
-      "rating_ev": 0,
-      "rank": 80,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4971,
+      "rating2": 5100,
+      "rating_ev": 24,
+      "rank": 77,
       "win_prob": 31.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

@@ -1,18 +1,18 @@
 {
   "team": "South Korea",
   "stats": {
-    "matches_played": 1046,
-    "wins": 572,
+    "matches_played": 1047,
+    "wins": 573,
     "draws": 257,
     "losses": 217,
-    "goals_for": 1906,
+    "goals_for": 1908,
     "goals_against": 953,
-    "goal_difference": 953,
+    "goal_difference": 955,
     "win_percentage": 54.7,
     "avg_points": 1.89,
     "best_rank": 19,
     "worst_rank": 100,
-    "avg_rank": 47.22,
+    "avg_rank": 47.21,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Nepal",
@@ -25,11 +25,11 @@
       "date": "1948-08-05",
       "flag": "sweden.png"
     },
-    "home_matches": 351,
+    "home_matches": 352,
     "away_matches": 249,
     "neutral_matches": 446,
     "first_match_date": "1942-08-16",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5196,
+      "rating1": 5204,
       "rating2": 5052,
       "rating_ev": 0,
-      "rank": 41,
-      "win_prob": 74.5,
+      "rank": 37,
+      "win_prob": 75.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bolivia",
       "flag1": "south_korea.png",
       "flag2": "bolivia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5196,
-      "rating2": 5097,
-      "rating_ev": 0,
-      "rank": 41,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5204,
+      "rating2": 5089,
+      "rating_ev": 8,
+      "rank": 37,
       "win_prob": 70.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

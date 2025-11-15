@@ -1,18 +1,18 @@
 {
   "team": "Grenada",
   "stats": {
-    "matches_played": 299,
-    "wins": 102,
+    "matches_played": 300,
+    "wins": 103,
     "draws": 74,
     "losses": 123,
-    "goals_for": 480,
-    "goals_against": 531,
-    "goal_difference": -51,
-    "win_percentage": 34.1,
-    "avg_points": 1.27,
+    "goals_for": 484,
+    "goals_against": 532,
+    "goal_difference": -48,
+    "win_percentage": 34.3,
+    "avg_points": 1.28,
     "best_rank": 57,
     "worst_rank": 185,
-    "avg_rank": 149.17,
+    "avg_rank": 149.24,
     "biggest_win": {
       "score": "14-1",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "2018-09-10",
       "flag": "curacao.png"
     },
-    "home_matches": 113,
+    "home_matches": 114,
     "away_matches": 111,
     "neutral_matches": 75,
     "first_match_date": "1934-10-13",
-    "last_match_date": "2025-10-11"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "US Virgin Islands",
       "flag1": "grenada.png",
       "flag2": "us_virgin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4382,
-      "rating2": 3507,
-      "rating_ev": 0,
-      "rank": 172,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 4376,
+      "rating2": 3513,
+      "rating_ev": -6,
+      "rank": 171,
       "win_prob": 98.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-11",

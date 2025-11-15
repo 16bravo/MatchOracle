@@ -1,18 +1,18 @@
 {
   "team": "Ghana",
   "stats": {
-    "matches_played": 754,
+    "matches_played": 755,
     "wins": 363,
     "draws": 188,
-    "losses": 203,
+    "losses": 204,
     "goals_for": 1208,
-    "goals_against": 780,
-    "goal_difference": 428,
+    "goals_against": 782,
+    "goal_difference": 426,
     "win_percentage": 48.1,
     "avg_points": 1.69,
     "best_rank": 14,
     "worst_rank": 89,
-    "avg_rank": 49.68,
+    "avg_rank": 49.7,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Nyasaland",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 234,
-    "away_matches": 278,
+    "away_matches": 279,
     "neutral_matches": 242,
     "first_match_date": "1950-05-28",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5052,
-      "rating2": 5196,
+      "rating2": 5204,
       "rating_ev": 0,
       "rank": 67,
-      "win_prob": 25.5,
+      "win_prob": 24.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Japan",
       "flag1": "ghana.png",
       "flag2": "japan.png",
-      "score1": "",
-      "score2": "",
+      "score1": 0,
+      "score2": 2,
       "rating1": 5052,
       "rating2": 5415,
       "rating_ev": 0,
       "rank": 67,
       "win_prob": 11.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

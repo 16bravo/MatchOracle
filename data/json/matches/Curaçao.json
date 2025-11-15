@@ -1,18 +1,18 @@
 {
   "team": "Cura\u00e7ao",
   "stats": {
-    "matches_played": 480,
-    "wins": 195,
+    "matches_played": 481,
+    "wins": 196,
     "draws": 119,
     "losses": 166,
-    "goals_for": 847,
+    "goals_for": 854,
     "goals_against": 736,
-    "goal_difference": 111,
-    "win_percentage": 40.6,
+    "goal_difference": 118,
+    "win_percentage": 40.7,
     "avg_points": 1.47,
     "best_rank": 37,
     "worst_rank": 182,
-    "avg_rank": 105.86,
+    "avg_rank": 105.83,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Puerto Rico",
@@ -26,10 +26,10 @@
       "flag": "netherlands.png"
     },
     "home_matches": 111,
-    "away_matches": 167,
+    "away_matches": 168,
     "neutral_matches": 202,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "jamaica.png",
       "score1": "",
       "score2": "",
-      "rating1": 4822,
-      "rating2": 4937,
+      "rating1": 4887,
+      "rating2": 4935,
       "rating_ev": 0,
-      "rank": 109,
-      "win_prob": 28.0,
+      "rank": 90,
+      "win_prob": 34.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bermuda",
       "flag1": "curacao.png",
       "flag2": "bermuda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4822,
-      "rating2": 4385,
-      "rating_ev": 0,
-      "rank": 109,
+      "score1": 7,
+      "score2": 0,
+      "rating1": 4887,
+      "rating2": 4320,
+      "rating_ev": 65,
+      "rank": 90,
       "win_prob": 80.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

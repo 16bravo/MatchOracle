@@ -1,14 +1,14 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1102,
-    "wins": 604,
+    "matches_played": 1103,
+    "wins": 605,
     "draws": 268,
     "losses": 230,
-    "goals_for": 2087,
+    "goals_for": 2089,
     "goals_against": 1128,
-    "goal_difference": 959,
-    "win_percentage": 54.8,
+    "goal_difference": 961,
+    "win_percentage": 54.9,
     "avg_points": 1.89,
     "best_rank": 1,
     "worst_rank": 27,
@@ -26,14 +26,14 @@
       "flag": "czechia.png"
     },
     "home_matches": 379,
-    "away_matches": 415,
+    "away_matches": 416,
     "neutral_matches": 308,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "United States",
       "tournament": "Friendly",
       "team1": "Argentina",
@@ -45,14 +45,14 @@
       "score1": "",
       "score2": "",
       "rating1": 5608,
-      "rating2": 4974,
+      "rating2": 4935,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 93.5,
+      "win_prob": 94.4,
       "type": "fixture"
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "United States",
       "tournament": "Friendly",
       "team1": "Argentina",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "country": "Uruguay",
       "tournament": "Intercont Champ",
       "team1": "Argentina",
@@ -99,14 +99,14 @@
       "original_team2": "Angola",
       "flag1": "argentina.png",
       "flag2": "angola.png",
-      "score1": "",
-      "score2": "",
+      "score1": 2,
+      "score2": 0,
       "rating1": 5608,
       "rating2": 5029,
       "rating_ev": 0,
       "rank": 2,
       "win_prob": 88.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

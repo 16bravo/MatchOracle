@@ -1,18 +1,18 @@
 {
   "team": "Guatemala",
   "stats": {
-    "matches_played": 620,
+    "matches_played": 621,
     "wins": 224,
     "draws": 166,
-    "losses": 230,
-    "goals_for": 871,
-    "goals_against": 833,
-    "goal_difference": 38,
+    "losses": 231,
+    "goals_for": 873,
+    "goals_against": 836,
+    "goal_difference": 37,
     "win_percentage": 36.1,
     "avg_points": 1.35,
     "best_rank": 31,
     "worst_rank": 113,
-    "avg_rank": 76.85,
+    "avg_rank": 76.86,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "1955-07-24",
       "flag": "costa_rica.png"
     },
-    "home_matches": 203,
+    "home_matches": 204,
     "away_matches": 180,
     "neutral_matches": 237,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 4921,
+      "rating1": 4911,
       "rating2": 4886,
       "rating_ev": 0,
-      "rank": 84,
-      "win_prob": 64.4,
+      "rank": 85,
+      "win_prob": 63.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Panama",
       "flag1": "guatemala.png",
       "flag2": "panama.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4921,
-      "rating2": 5083,
-      "rating_ev": 0,
-      "rank": 84,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4911,
+      "rating2": 5093,
+      "rating_ev": -10,
+      "rank": 85,
       "win_prob": 43.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

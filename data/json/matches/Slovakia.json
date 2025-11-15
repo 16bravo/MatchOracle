@@ -1,18 +1,18 @@
 {
   "team": "Slovakia",
   "stats": {
-    "matches_played": 367,
-    "wins": 149,
+    "matches_played": 368,
+    "wins": 150,
     "draws": 86,
     "losses": 132,
-    "goals_for": 518,
+    "goals_for": 519,
     "goals_against": 457,
-    "goal_difference": 61,
-    "win_percentage": 40.6,
-    "avg_points": 1.45,
+    "goal_difference": 62,
+    "win_percentage": 40.8,
+    "avg_points": 1.46,
     "best_rank": 17,
     "worst_rank": 65,
-    "avg_rank": 39.67,
+    "avg_rank": 39.68,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1995-06-22",
       "flag": "argentina.png"
     },
-    "home_matches": 153,
+    "home_matches": 154,
     "away_matches": 170,
     "neutral_matches": 44,
     "first_match_date": "1939-08-27",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5190,
-      "rating2": 5485,
+      "rating1": 5195,
+      "rating2": 5483,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 15.1,
+      "rank": 42,
+      "win_prob": 15.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Northern Ireland",
       "flag1": "slovakia.png",
       "flag2": "northern_ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5190,
-      "rating2": 5132,
-      "rating_ev": 0,
-      "rank": 43,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5195,
+      "rating2": 5127,
+      "rating_ev": 5,
+      "rank": 42,
       "win_prob": 66.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

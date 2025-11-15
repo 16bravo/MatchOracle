@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 590,
-    "wins": 196,
+    "matches_played": 591,
+    "wins": 197,
     "draws": 143,
     "losses": 251,
-    "goals_for": 734,
-    "goals_against": 904,
-    "goal_difference": -170,
-    "win_percentage": 33.2,
+    "goals_for": 737,
+    "goals_against": 906,
+    "goal_difference": -169,
+    "win_percentage": 33.3,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.33,
+    "avg_rank": 85.3,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "costa_rica.png"
     },
     "home_matches": 200,
-    "away_matches": 226,
+    "away_matches": 227,
     "neutral_matches": 164,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5083,
+      "rating1": 5093,
       "rating2": 4654,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 90.8,
+      "rank": 62,
+      "win_prob": 91.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Guatemala",
       "flag1": "panama.png",
       "flag2": "guatemala.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5083,
-      "rating2": 4921,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 2,
+      "rating1": 5093,
+      "rating2": 4911,
+      "rating_ev": 10,
       "rank": 64,
       "win_prob": 56.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -329,11 +329,11 @@
       "flag2": "bolivia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5083,
-      "rating2": 5097,
+      "rating1": 5093,
+      "rating2": 5089,
       "rating_ev": 0,
-      "rank": 64,
-      "win_prob": 37.7,
+      "rank": 62,
+      "win_prob": 39.6,
       "type": "fixture"
     },
     {

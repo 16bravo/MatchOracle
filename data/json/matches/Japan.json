@@ -1,18 +1,18 @@
 {
   "team": "Japan",
   "stats": {
-    "matches_played": 825,
-    "wins": 403,
+    "matches_played": 826,
+    "wins": 404,
     "draws": 168,
     "losses": 254,
-    "goals_for": 1497,
+    "goals_for": 1499,
     "goals_against": 973,
-    "goal_difference": 524,
-    "win_percentage": 48.8,
+    "goal_difference": 526,
+    "win_percentage": 48.9,
     "avg_points": 1.67,
     "best_rank": 10,
     "worst_rank": 122,
-    "avg_rank": 50.93,
+    "avg_rank": 50.89,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Philippines",
@@ -25,11 +25,11 @@
       "date": "1917-05-10",
       "flag": "usa_1912.png"
     },
-    "home_matches": 328,
+    "home_matches": 329,
     "away_matches": 199,
     "neutral_matches": 298,
     "first_match_date": "1917-05-09",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5415,
-      "rating2": 5097,
+      "rating2": 5089,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 86.1,
+      "rank": 16,
+      "win_prob": 86.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Ghana",
       "flag1": "japan.png",
       "flag2": "ghana.png",
-      "score1": "",
-      "score2": "",
+      "score1": 2,
+      "score2": 0,
       "rating1": 5415,
       "rating2": 5052,
       "rating_ev": 0,
-      "rank": 17,
+      "rank": 16,
       "win_prob": 88.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

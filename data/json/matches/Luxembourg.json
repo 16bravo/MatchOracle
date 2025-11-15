@@ -1,18 +1,18 @@
 {
   "team": "Luxembourg",
   "stats": {
-    "matches_played": 464,
+    "matches_played": 465,
     "wins": 51,
     "draws": 61,
-    "losses": 352,
+    "losses": 353,
     "goals_for": 300,
-    "goals_against": 1210,
-    "goal_difference": -910,
+    "goals_against": 1212,
+    "goal_difference": -912,
     "win_percentage": 11.0,
     "avg_points": 0.46,
     "best_rank": 23,
     "worst_rank": 166,
-    "avg_rank": 103.25,
+    "avg_rank": 103.23,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Afghanistan",
@@ -25,11 +25,11 @@
       "date": "1936-08-04",
       "flag": "germany_1.png"
     },
-    "home_matches": 252,
+    "home_matches": 253,
     "away_matches": 196,
     "neutral_matches": 16,
     "first_match_date": "1911-10-29",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "northern_ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4876,
-      "rating2": 5132,
+      "rating1": 4878,
+      "rating2": 5127,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 17.4,
+      "rank": 94,
+      "win_prob": 17.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Germany",
       "flag1": "luxembourg.png",
       "flag2": "germany.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4876,
-      "rating2": 5485,
-      "rating_ev": 0,
-      "rank": 93,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4878,
+      "rating2": 5483,
+      "rating_ev": 2,
+      "rank": 94,
       "win_prob": 10.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",
@@ -196,11 +196,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4876,
-      "rating2": 4686,
+      "rating1": 4878,
+      "rating2": 4726,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 78.1,
+      "rank": 94,
+      "win_prob": 75.1,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4876,
-      "rating2": 4686,
+      "rating1": 4878,
+      "rating2": 4726,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 59.7,
+      "rank": 94,
+      "win_prob": 55.7,
       "type": "fixture"
     },
     {

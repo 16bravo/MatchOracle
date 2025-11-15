@@ -1,18 +1,18 @@
 {
   "team": "Uganda",
   "stats": {
-    "matches_played": 709,
-    "wins": 298,
+    "matches_played": 710,
+    "wins": 299,
     "draws": 185,
     "losses": 226,
-    "goals_for": 1069,
-    "goals_against": 842,
-    "goal_difference": 227,
-    "win_percentage": 42.0,
+    "goals_for": 1071,
+    "goals_against": 843,
+    "goal_difference": 228,
+    "win_percentage": 42.1,
     "avg_points": 1.52,
     "best_rank": 25,
     "worst_rank": 127,
-    "avg_rank": 82.55,
+    "avg_rank": 82.57,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Kenya",
@@ -27,9 +27,9 @@
     },
     "home_matches": 242,
     "away_matches": 239,
-    "neutral_matches": 228,
+    "neutral_matches": 229,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
+      "rating1": 4881,
       "rating2": 5105,
       "rating_ev": 0,
-      "rank": 91,
-      "win_prob": 27.4,
+      "rank": 93,
+      "win_prob": 27.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
+      "rating1": 4881,
       "rating2": 4821,
       "rating_ev": 0,
-      "rank": 91,
-      "win_prob": 56.8,
+      "rank": 93,
+      "win_prob": 56.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
-      "rating2": 5109,
+      "rating1": 4881,
+      "rating2": 5112,
       "rating_ev": 0,
-      "rank": 91,
-      "win_prob": 27.1,
+      "rank": 93,
+      "win_prob": 26.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
-      "rating2": 5338,
+      "rating1": 4881,
+      "rating2": 5327,
       "rating_ev": 0,
-      "rank": 91,
-      "win_prob": 8.3,
+      "rank": 93,
+      "win_prob": 8.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Chad",
       "flag1": "uganda.png",
       "flag2": "chad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4883,
-      "rating2": 4582,
-      "rating_ev": 0,
-      "rank": 91,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4881,
+      "rating2": 4584,
+      "rating_ev": -2,
+      "rank": 93,
       "win_prob": 78.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

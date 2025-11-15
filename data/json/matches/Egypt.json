@@ -1,18 +1,18 @@
 {
   "team": "Egypt",
   "stats": {
-    "matches_played": 847,
+    "matches_played": 848,
     "wins": 434,
     "draws": 204,
-    "losses": 209,
+    "losses": 210,
     "goals_for": 1482,
-    "goals_against": 880,
-    "goal_difference": 602,
+    "goals_against": 882,
+    "goal_difference": 600,
     "win_percentage": 51.2,
     "avg_points": 1.78,
     "best_rank": 13,
-    "worst_rank": 61,
-    "avg_rank": 41.67,
+    "worst_rank": 64,
+    "avg_rank": 41.69,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Laos",
@@ -27,9 +27,9 @@
     },
     "home_matches": 334,
     "away_matches": 270,
-    "neutral_matches": 243,
+    "neutral_matches": 244,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
+      "rating1": 5071,
       "rating2": 5029,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 57.6,
+      "rank": 64,
+      "win_prob": 54.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
+      "rating1": 5071,
       "rating2": 4994,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 61.3,
+      "rank": 64,
+      "win_prob": 58.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "zimbabwe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
+      "rating1": 5071,
       "rating2": 4801,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 78.6,
+      "rank": 64,
+      "win_prob": 76.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
+      "rating1": 5071,
       "rating2": 5105,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 60.2,
+      "rank": 64,
+      "win_prob": 57.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
-      "rating2": 5058,
+      "rating1": 5071,
+      "rating2": 5055,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 54.5,
+      "rank": 64,
+      "win_prob": 51.8,
       "type": "fixture"
     },
     {
@@ -139,11 +139,30 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
+      "rating1": 5071,
       "rating2": 4951,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 65.7,
+      "rank": 64,
+      "win_prob": 62.9,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-11-17",
+      "country": "United Arab Emirates",
+      "tournament": "Friendly tournament",
+      "team1": "Egypt",
+      "team2": "Cape Verde",
+      "original_team1": "Egypt",
+      "original_team2": "Cape Verde",
+      "flag1": "egypt.png",
+      "flag2": "cape_verde.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5071,
+      "rating2": 4996,
+      "rating_ev": 0,
+      "rank": 64,
+      "win_prob": 58.2,
       "type": "fixture"
     },
     {
@@ -156,14 +175,14 @@
       "original_team2": "Uzbekistan",
       "flag1": "egypt.png",
       "flag2": "uzbekistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5099,
-      "rating2": 5095,
-      "rating_ev": 0,
-      "rank": 59,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5071,
+      "rating2": 5123,
+      "rating_ev": -28,
+      "rank": 64,
       "win_prob": 50.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

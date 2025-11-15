@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 528,
+    "matches_played": 529,
     "wins": 120,
     "draws": 120,
-    "losses": 288,
+    "losses": 289,
     "goals_for": 544,
-    "goals_against": 1040,
-    "goal_difference": -496,
+    "goals_against": 1042,
+    "goal_difference": -498,
     "win_percentage": 22.7,
     "avg_points": 0.91,
     "best_rank": 23,
     "worst_rank": 78,
-    "avg_rank": 50.74,
+    "avg_rank": 50.76,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -26,10 +26,10 @@
       "flag": "uruguay.png"
     },
     "home_matches": 186,
-    "away_matches": 202,
+    "away_matches": 203,
     "neutral_matches": 140,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "peru.png",
       "score1": "",
       "score2": "",
-      "rating1": 5097,
+      "rating1": 5089,
       "rating2": 5213,
       "rating_ev": 0,
-      "rank": 61,
-      "win_prob": 27.9,
+      "rank": 63,
+      "win_prob": 27.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5097,
+      "rating1": 5089,
       "rating2": 5415,
       "rating_ev": 0,
-      "rank": 61,
-      "win_prob": 13.9,
+      "rank": 63,
+      "win_prob": 13.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "South Korea",
       "flag1": "bolivia.png",
       "flag2": "south_korea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5097,
-      "rating2": 5196,
-      "rating_ev": 0,
-      "rank": 61,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5089,
+      "rating2": 5204,
+      "rating_ev": -8,
+      "rank": 64,
       "win_prob": 29.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -253,11 +253,11 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 5097,
+      "rating1": 5089,
       "rating2": 4780,
       "rating_ev": 0,
-      "rank": 61,
-      "win_prob": 86.0,
+      "rank": 63,
+      "win_prob": 85.6,
       "type": "fixture"
     },
     {
@@ -272,11 +272,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5097,
+      "rating1": 5089,
       "rating2": 4821,
       "rating_ev": 0,
-      "rank": 61,
-      "win_prob": 83.8,
+      "rank": 63,
+      "win_prob": 83.3,
       "type": "fixture"
     },
     {
@@ -291,11 +291,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 5097,
-      "rating2": 5083,
+      "rating1": 5089,
+      "rating2": 5093,
       "rating_ev": 0,
-      "rank": 61,
-      "win_prob": 62.3,
+      "rank": 63,
+      "win_prob": 60.4,
       "type": "fixture"
     },
     {

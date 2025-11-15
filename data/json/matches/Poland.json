@@ -1,18 +1,18 @@
 {
   "team": "Poland",
   "stats": {
-    "matches_played": 913,
+    "matches_played": 914,
     "wins": 397,
-    "draws": 223,
+    "draws": 224,
     "losses": 293,
-    "goals_for": 1550,
-    "goals_against": 1228,
+    "goals_for": 1551,
+    "goals_against": 1229,
     "goal_difference": 322,
-    "win_percentage": 43.5,
+    "win_percentage": 43.4,
     "avg_points": 1.55,
     "best_rank": 1,
     "worst_rank": 48,
-    "avg_rank": 24.17,
+    "avg_rank": 24.18,
     "biggest_win": {
       "score": "10-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "1948-06-26",
       "flag": "denmark.png"
     },
-    "home_matches": 393,
+    "home_matches": 394,
     "away_matches": 405,
     "neutral_matches": 115,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 5223,
-      "rating2": 4686,
+      "rating1": 5237,
+      "rating2": 4726,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 86.4,
+      "rank": 32,
+      "win_prob": 85.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Netherlands",
       "flag1": "poland.png",
       "flag2": "netherlands.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5223,
-      "rating2": 5548,
-      "rating_ev": 0,
-      "rank": 34,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5237,
+      "rating2": 5534,
+      "rating_ev": 14,
+      "rank": 32,
       "win_prob": 27.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

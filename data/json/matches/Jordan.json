@@ -1,18 +1,18 @@
 {
   "team": "Jordan",
   "stats": {
-    "matches_played": 549,
+    "matches_played": 550,
     "wins": 194,
     "draws": 149,
-    "losses": 206,
-    "goals_for": 680,
-    "goals_against": 659,
-    "goal_difference": 21,
+    "losses": 207,
+    "goals_for": 682,
+    "goals_against": 662,
+    "goal_difference": 20,
     "win_percentage": 35.3,
     "avg_points": 1.33,
     "best_rank": 53,
     "worst_rank": 141,
-    "avg_rank": 91.97,
+    "avg_rank": 91.92,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Nepal",
@@ -26,10 +26,10 @@
       "flag": "lebanon.png"
     },
     "home_matches": 194,
-    "away_matches": 176,
+    "away_matches": 177,
     "neutral_matches": 179,
     "first_match_date": "1953-08-01",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5058,
-      "rating2": 5099,
+      "rating1": 5055,
+      "rating2": 5071,
       "rating_ev": 0,
       "rank": 66,
-      "win_prob": 45.5,
+      "win_prob": 48.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 5058,
+      "rating1": 5055,
       "rating2": 4951,
       "rating_ev": 0,
       "rank": 66,
-      "win_prob": 61.6,
+      "win_prob": 61.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5058,
+      "rating1": 5055,
       "rating2": 5136,
       "rating_ev": 0,
       "rank": 66,
-      "win_prob": 41.5,
+      "win_prob": 41.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Tunisia",
       "flag1": "jordan.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5058,
-      "rating2": 5109,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 5055,
+      "rating2": 5112,
+      "rating_ev": -3,
       "rank": 66,
       "win_prob": 34.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

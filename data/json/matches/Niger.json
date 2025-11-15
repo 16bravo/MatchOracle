@@ -1,18 +1,18 @@
 {
   "team": "Niger",
   "stats": {
-    "matches_played": 280,
+    "matches_played": 281,
     "wins": 63,
     "draws": 66,
-    "losses": 151,
-    "goals_for": 277,
-    "goals_against": 489,
-    "goal_difference": -212,
-    "win_percentage": 22.5,
+    "losses": 152,
+    "goals_for": 279,
+    "goals_against": 492,
+    "goal_difference": -213,
+    "win_percentage": 22.4,
     "avg_points": 0.91,
     "best_rank": 77,
     "worst_rank": 147,
-    "avg_rank": 119.71,
+    "avg_rank": 119.6,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 96,
     "away_matches": 115,
-    "neutral_matches": 69,
+    "neutral_matches": 70,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4904,
+      "rating1": 4901,
       "rating2": 4977,
       "rating_ev": 0,
       "rank": 88,
-      "win_prob": 42.0,
+      "win_prob": 41.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Burkina Faso",
       "flag1": "niger.png",
       "flag2": "burkina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4904,
-      "rating2": 5035,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4901,
+      "rating2": 5038,
+      "rating_ev": -3,
       "rank": 88,
       "win_prob": 36.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

@@ -1,18 +1,18 @@
 {
   "team": "Netherlands",
   "stats": {
-    "matches_played": 891,
+    "matches_played": 892,
     "wins": 458,
-    "draws": 194,
+    "draws": 195,
     "losses": 239,
-    "goals_for": 1864,
-    "goals_against": 1131,
+    "goals_for": 1865,
+    "goals_against": 1132,
     "goal_difference": 733,
-    "win_percentage": 51.4,
+    "win_percentage": 51.3,
     "avg_points": 1.76,
     "best_rank": 1,
     "worst_rank": 35,
-    "avg_rank": 10.32,
+    "avg_rank": 10.31,
     "biggest_win": {
       "score": "11-0",
       "opponent": "San Marino",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 421,
-    "away_matches": 356,
+    "away_matches": 357,
     "neutral_matches": 114,
     "first_match_date": "1905-04-30",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "lithuania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5548,
+      "rating1": 5534,
       "rating2": 4823,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 96.9,
+      "win_prob": 96.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Poland",
       "flag1": "netherlands.png",
       "flag2": "poland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5548,
-      "rating2": 5223,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5534,
+      "rating2": 5237,
+      "rating_ev": -14,
       "rank": 5,
       "win_prob": 72.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

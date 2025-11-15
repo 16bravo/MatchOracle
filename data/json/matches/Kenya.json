@@ -1,18 +1,18 @@
 {
   "team": "Kenya",
   "stats": {
-    "matches_played": 726,
+    "matches_played": 727,
     "wins": 274,
     "draws": 178,
-    "losses": 274,
+    "losses": 275,
     "goals_for": 1000,
-    "goals_against": 986,
-    "goal_difference": 14,
+    "goals_against": 987,
+    "goal_difference": 13,
     "win_percentage": 37.7,
     "avg_points": 1.38,
     "best_rank": 43,
     "worst_rank": 131,
-    "avg_rank": 90.91,
+    "avg_rank": 90.93,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Zanzibar",
@@ -27,9 +27,9 @@
     },
     "home_matches": 264,
     "away_matches": 256,
-    "neutral_matches": 206,
+    "neutral_matches": 207,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4833,
+      "rating1": 4827,
       "rating2": 5263,
       "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 13.5,
+      "rank": 107,
+      "win_prob": 13.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Equatorial Guinea",
       "flag1": "kenya.png",
       "flag2": "eq_guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4833,
-      "rating2": 4854,
-      "rating_ev": 0,
-      "rank": 105,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4827,
+      "rating2": 4860,
+      "rating_ev": -6,
+      "rank": 107,
       "win_prob": 47.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

@@ -1,18 +1,18 @@
 {
   "team": "Faroe Islands",
   "stats": {
-    "matches_played": 271,
+    "matches_played": 272,
     "wins": 42,
     "draws": 36,
-    "losses": 193,
-    "goals_for": 188,
-    "goals_against": 630,
-    "goal_difference": -442,
-    "win_percentage": 15.5,
+    "losses": 194,
+    "goals_for": 189,
+    "goals_against": 633,
+    "goal_difference": -444,
+    "win_percentage": 15.4,
     "avg_points": 0.6,
     "best_rank": 64,
     "worst_rank": 163,
-    "avg_rank": 129.76,
+    "avg_rank": 129.58,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Liechtenstein",
@@ -26,10 +26,10 @@
       "flag": "iceland.png"
     },
     "home_matches": 116,
-    "away_matches": 136,
+    "away_matches": 137,
     "neutral_matches": 19,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4922,
+      "rating1": 4930,
       "rating2": 4856,
       "rating_ev": 0,
       "rank": 83,
-      "win_prob": 57.2,
+      "win_prob": 58.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Croatia",
       "flag1": "faroe.png",
       "flag2": "croatia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4922,
-      "rating2": 5444,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4930,
+      "rating2": 5436,
+      "rating_ev": 8,
       "rank": 83,
       "win_prob": 6.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",
