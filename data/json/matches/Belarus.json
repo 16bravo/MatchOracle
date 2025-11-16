@@ -1,18 +1,18 @@
 {
   "team": "Belarus",
   "stats": {
-    "matches_played": 297,
+    "matches_played": 298,
     "wins": 88,
-    "draws": 74,
+    "draws": 75,
     "losses": 135,
-    "goals_for": 332,
-    "goals_against": 432,
+    "goals_for": 334,
+    "goals_against": 434,
     "goal_difference": -100,
-    "win_percentage": 29.6,
+    "win_percentage": 29.5,
     "avg_points": 1.14,
     "best_rank": 33,
     "worst_rank": 99,
-    "avg_rank": 65.84,
+    "avg_rank": 65.88,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "belgium.png"
     },
     "home_matches": 100,
-    "away_matches": 153,
+    "away_matches": 154,
     "neutral_matches": 44,
     "first_match_date": "1992-10-28",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 4911,
-      "rating2": 5328,
+      "rating1": 4949,
+      "rating2": 5333,
       "rating_ev": 0,
-      "rank": 85,
-      "win_prob": 14.2,
+      "rank": 80,
+      "win_prob": 15.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Denmark",
       "flag1": "belarus.png",
       "flag2": "denmark.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4911,
-      "rating2": 5474,
-      "rating_ev": 0,
-      "rank": 85,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4949,
+      "rating2": 5436,
+      "rating_ev": 38,
+      "rank": 80,
       "win_prob": 5.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

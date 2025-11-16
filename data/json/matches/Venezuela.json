@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 474,
-    "wins": 125,
+    "matches_played": 475,
+    "wins": 126,
     "draws": 105,
     "losses": 244,
-    "goals_for": 512,
+    "goals_for": 513,
     "goals_against": 868,
-    "goal_difference": -356,
-    "win_percentage": 26.4,
-    "avg_points": 1.01,
+    "goal_difference": -355,
+    "win_percentage": 26.5,
+    "avg_points": 1.02,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.61,
+    "avg_rank": 63.56,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -27,9 +27,9 @@
     },
     "home_matches": 176,
     "away_matches": 178,
-    "neutral_matches": 120,
+    "neutral_matches": 121,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-11-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5199,
+      "rating1": 5208,
       "rating2": 5273,
       "rating_ev": 0,
-      "rank": 39,
-      "win_prob": 41.9,
+      "rank": 37,
+      "win_prob": 42.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Australia",
       "flag1": "venezuela.png",
       "flag2": "australia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5199,
-      "rating2": 5255,
-      "rating_ev": 0,
-      "rank": 39,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5208,
+      "rating2": 5246,
+      "rating_ev": 9,
+      "rank": 37,
       "win_prob": 43.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

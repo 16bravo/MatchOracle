@@ -1,18 +1,18 @@
 {
   "team": "Wales",
   "stats": {
-    "matches_played": 729,
-    "wins": 234,
+    "matches_played": 730,
+    "wins": 235,
     "draws": 164,
     "losses": 331,
-    "goals_for": 907,
+    "goals_for": 908,
     "goals_against": 1170,
-    "goal_difference": -263,
-    "win_percentage": 32.1,
+    "goal_difference": -262,
+    "win_percentage": 32.2,
     "avg_points": 1.19,
     "best_rank": 3,
     "worst_rank": 76,
-    "avg_rank": 24.63,
+    "avg_rank": 24.66,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Ireland",
@@ -26,10 +26,10 @@
       "flag": "scotland.png"
     },
     "home_matches": 342,
-    "away_matches": 355,
+    "away_matches": 356,
     "neutral_matches": 32,
     "first_match_date": "1876-03-25",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5182,
+      "rating1": 5155,
       "rating2": 5107,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 68.3,
+      "rank": 47,
+      "win_prob": 65.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Liechtenstein",
       "flag1": "wales.png",
       "flag2": "liechtenstein.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5182,
-      "rating2": 4339,
-      "rating_ev": 0,
-      "rank": 45,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5155,
+      "rating2": 4366,
+      "rating_ev": -27,
+      "rank": 48,
       "win_prob": 95.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

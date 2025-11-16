@@ -1,18 +1,18 @@
 {
   "team": "Spain",
   "stats": {
-    "matches_played": 776,
-    "wins": 459,
+    "matches_played": 777,
+    "wins": 460,
     "draws": 179,
     "losses": 138,
-    "goals_for": 1582,
+    "goals_for": 1586,
     "goals_against": 695,
-    "goal_difference": 887,
-    "win_percentage": 59.1,
+    "goal_difference": 891,
+    "win_percentage": 59.2,
     "avg_points": 2.01,
     "best_rank": 1,
     "worst_rank": 18,
-    "avg_rank": 6.25,
+    "avg_rank": 6.24,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Bulgaria",
@@ -26,14 +26,14 @@
       "flag": "italy_1.png"
     },
     "home_matches": 337,
-    "away_matches": 301,
+    "away_matches": 302,
     "neutral_matches": 138,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
-      "date": "2026-03-15",
+      "date": "2026-03-16",
       "country": "Uruguay",
       "tournament": "Intercont Champ",
       "team1": "Spain",
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5719,
+      "rating1": 5749,
       "rating2": 5608,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 62.0,
+      "win_prob": 65.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5719,
-      "rating2": 5355,
+      "rating1": 5749,
+      "rating2": 5348,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 88.3,
+      "win_prob": 89.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Georgia",
       "flag1": "spain.png",
       "flag2": "georgia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5719,
-      "rating2": 5227,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5749,
+      "rating2": 5197,
+      "rating_ev": 30,
       "rank": 1,
       "win_prob": 84.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

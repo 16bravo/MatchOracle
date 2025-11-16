@@ -1,18 +1,18 @@
 {
   "team": "Kuwait",
   "stats": {
-    "matches_played": 731,
-    "wins": 304,
+    "matches_played": 732,
+    "wins": 305,
     "draws": 190,
     "losses": 237,
-    "goals_for": 1136,
-    "goals_against": 832,
-    "goal_difference": 304,
-    "win_percentage": 41.6,
+    "goals_for": 1140,
+    "goals_against": 835,
+    "goal_difference": 305,
+    "win_percentage": 41.7,
     "avg_points": 1.51,
     "best_rank": 21,
     "worst_rank": 144,
-    "avg_rank": 78.34,
+    "avg_rank": 78.42,
     "biggest_win": {
       "score": "20-0",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 258,
     "away_matches": 172,
-    "neutral_matches": 301,
+    "neutral_matches": 302,
     "first_match_date": "1961-09-03",
-    "last_match_date": "2025-10-09"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mauritania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4693,
-      "rating2": 4810,
+      "rating1": 4704,
+      "rating2": 4808,
       "rating_ev": 0,
-      "rank": 142,
-      "win_prob": 37.4,
+      "rank": 139,
+      "win_prob": 38.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "gambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4693,
+      "rating1": 4704,
       "rating2": 4954,
       "rating_ev": 0,
-      "rank": 142,
-      "win_prob": 24.2,
+      "rank": 139,
+      "win_prob": 25.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Tanzania",
       "flag1": "kuwait.png",
       "flag2": "tanzania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4693,
-      "rating2": 4821,
-      "rating_ev": 0,
-      "rank": 142,
+      "score1": 4,
+      "score2": 3,
+      "rating1": 4704,
+      "rating2": 4810,
+      "rating_ev": 11,
+      "rank": 139,
       "win_prob": 36.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-09",

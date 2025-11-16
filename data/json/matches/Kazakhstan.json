@@ -1,18 +1,18 @@
 {
   "team": "Kazakhstan",
   "stats": {
-    "matches_played": 264,
+    "matches_played": 265,
     "wins": 67,
-    "draws": 56,
+    "draws": 57,
     "losses": 141,
-    "goals_for": 275,
-    "goals_against": 445,
+    "goals_for": 276,
+    "goals_against": 446,
     "goal_difference": -170,
-    "win_percentage": 25.4,
+    "win_percentage": 25.3,
     "avg_points": 0.97,
     "best_rank": 72,
     "worst_rank": 116,
-    "avg_rank": 98.77,
+    "avg_rank": 98.74,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Pakistan",
@@ -25,11 +25,11 @@
       "date": "2021-11-13",
       "flag": "france.png"
     },
-    "home_matches": 100,
+    "home_matches": 101,
     "away_matches": 119,
     "neutral_matches": 45,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4856,
+      "rating1": 4885,
       "rating2": 4930,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 41.9,
+      "rank": 92,
+      "win_prob": 45.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Belgium",
       "flag1": "kazakhstan.png",
       "flag2": "belgium.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4856,
-      "rating2": 5454,
-      "rating_ev": 0,
-      "rank": 99,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4885,
+      "rating2": 5425,
+      "rating_ev": 29,
+      "rank": 92,
       "win_prob": 11.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

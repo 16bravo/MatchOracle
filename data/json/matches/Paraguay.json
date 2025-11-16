@@ -1,13 +1,13 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 785,
+    "matches_played": 786,
     "wins": 275,
     "draws": 209,
-    "losses": 301,
-    "goals_for": 998,
-    "goals_against": 1110,
-    "goal_difference": -112,
+    "losses": 302,
+    "goals_for": 999,
+    "goals_against": 1112,
+    "goal_difference": -113,
     "win_percentage": 35.0,
     "avg_points": 1.32,
     "best_rank": 6,
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 214,
-    "away_matches": 364,
+    "away_matches": 365,
     "neutral_matches": 207,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5323,
+      "rating1": 5315,
       "rating2": 5273,
       "rating_ev": 0,
       "rank": 24,
-      "win_prob": 55.5,
+      "win_prob": 54.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "United States",
       "flag1": "paraguay.png",
       "flag2": "usa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5323,
-      "rating2": 5203,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5315,
+      "rating2": 5211,
+      "rating_ev": -8,
       "rank": 24,
       "win_prob": 52.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

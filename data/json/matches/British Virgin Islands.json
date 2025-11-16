@@ -1,18 +1,18 @@
 {
   "team": "British Virgin Islands",
   "stats": {
-    "matches_played": 134,
-    "wins": 20,
+    "matches_played": 135,
+    "wins": 21,
     "draws": 23,
     "losses": 91,
-    "goals_for": 112,
+    "goals_for": 118,
     "goals_against": 395,
-    "goal_difference": -283,
-    "win_percentage": 14.9,
-    "avg_points": 0.62,
+    "goal_difference": -277,
+    "win_percentage": 15.6,
+    "avg_points": 0.64,
     "best_rank": 180,
     "worst_rank": 214,
-    "avg_rank": 204.75,
+    "avg_rank": 204.77,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Anguilla",
@@ -27,13 +27,13 @@
     },
     "home_matches": 36,
     "away_matches": 60,
-    "neutral_matches": 38,
+    "neutral_matches": 39,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2025-11-12"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
-      "date": "2026-03-15",
+      "date": "2026-03-16",
       "country": "Cayman Islands",
       "tournament": "Friendly tournament",
       "team1": "British Virgin Islands",
@@ -44,11 +44,11 @@
       "flag2": "anguilla.png",
       "score1": "",
       "score2": "",
-      "rating1": 3731,
+      "rating1": 3806,
       "rating2": 3649,
       "rating_ev": 0,
-      "rank": 208,
-      "win_prob": 58.9,
+      "rank": 207,
+      "win_prob": 66.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bahamas",
       "flag1": "gb_virgin.png",
       "flag2": "bahamas.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3731,
-      "rating2": 3722,
-      "rating_ev": 0,
-      "rank": 208,
+      "score1": 6,
+      "score2": 0,
+      "rating1": 3806,
+      "rating2": 3647,
+      "rating_ev": 75,
+      "rank": 207,
       "win_prob": 51.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-12",

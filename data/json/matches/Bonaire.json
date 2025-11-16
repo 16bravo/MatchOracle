@@ -1,18 +1,18 @@
 {
   "team": "Bonaire",
   "stats": {
-    "matches_played": 100,
+    "matches_played": 101,
     "wins": 23,
     "draws": 12,
-    "losses": 65,
-    "goals_for": 112,
-    "goals_against": 249,
-    "goal_difference": -137,
-    "win_percentage": 23.0,
-    "avg_points": 0.81,
+    "losses": 66,
+    "goals_for": 113,
+    "goals_against": 251,
+    "goal_difference": -138,
+    "win_percentage": 22.8,
+    "avg_points": 0.8,
     "best_rank": 75,
     "worst_rank": 205,
-    "avg_rank": 173.36,
+    "avg_rank": 173.65,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Aruba",
@@ -27,13 +27,13 @@
     },
     "home_matches": 17,
     "away_matches": 52,
-    "neutral_matches": 31,
+    "neutral_matches": 32,
     "first_match_date": "1934-02-04",
-    "last_match_date": "2025-11-12"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
-      "date": "2026-03-15",
+      "date": "2026-03-16",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Bonaire",
@@ -44,15 +44,15 @@
       "flag2": "antigua.png",
       "score1": "",
       "score2": "",
-      "rating1": 3946,
+      "rating1": 3971,
       "rating2": 4091,
       "rating_ev": 0,
       "rank": 203,
-      "win_prob": 25.4,
+      "win_prob": 27.6,
       "type": "fixture"
     },
     {
-      "date": "2026-03-15",
+      "date": "2026-03-16",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Bonaire",
@@ -63,11 +63,11 @@
       "flag2": "aruba.png",
       "score1": "",
       "score2": "",
-      "rating1": 3946,
-      "rating2": 4119,
+      "rating1": 3971,
+      "rating2": 4162,
       "rating_ev": 0,
       "rank": 203,
-      "win_prob": 31.9,
+      "win_prob": 30.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Guyana",
       "flag1": "bonaire.png",
       "flag2": "guyana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3946,
-      "rating2": 4628,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 3971,
+      "rating2": 4603,
+      "rating_ev": 25,
       "rank": 203,
       "win_prob": 5.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-12",

@@ -1,14 +1,14 @@
 {
   "team": "Belgium",
   "stats": {
-    "matches_played": 872,
+    "matches_played": 873,
     "wins": 388,
-    "draws": 182,
+    "draws": 183,
     "losses": 302,
-    "goals_for": 1585,
-    "goals_against": 1355,
+    "goals_for": 1586,
+    "goals_against": 1356,
     "goal_difference": 230,
-    "win_percentage": 44.5,
+    "win_percentage": 44.4,
     "avg_points": 1.54,
     "best_rank": 1,
     "worst_rank": 73,
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 414,
-    "away_matches": 373,
+    "away_matches": 374,
     "neutral_matches": 85,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 5454,
-      "rating2": 4339,
+      "rating1": 5425,
+      "rating2": 4366,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 99.1,
+      "rank": 15,
+      "win_prob": 99.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Kazakhstan",
       "flag1": "belgium.png",
       "flag2": "kazakhstan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5454,
-      "rating2": 4856,
-      "rating_ev": 0,
-      "rank": 12,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5425,
+      "rating2": 4885,
+      "rating_ev": -29,
+      "rank": 15,
       "win_prob": 89.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

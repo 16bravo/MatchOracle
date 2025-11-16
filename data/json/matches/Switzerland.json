@@ -1,18 +1,18 @@
 {
   "team": "Switzerland",
   "stats": {
-    "matches_played": 889,
-    "wins": 317,
+    "matches_played": 890,
+    "wins": 318,
     "draws": 200,
     "losses": 372,
-    "goals_for": 1325,
-    "goals_against": 1475,
-    "goal_difference": -150,
+    "goals_for": 1329,
+    "goals_against": 1476,
+    "goal_difference": -147,
     "win_percentage": 35.7,
-    "avg_points": 1.29,
+    "avg_points": 1.3,
     "best_rank": 7,
     "worst_rank": 41,
-    "avg_rank": 24.1,
+    "avg_rank": 24.09,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Lithuania",
@@ -25,11 +25,11 @@
       "date": "1909-05-20",
       "flag": "england.png"
     },
-    "home_matches": 422,
+    "home_matches": 423,
     "away_matches": 389,
     "neutral_matches": 78,
     "first_match_date": "1905-02-12",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kosovo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5427,
-      "rating2": 5153,
+      "rating1": 5451,
+      "rating2": 5190,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 68.1,
+      "rank": 11,
+      "win_prob": 66.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Sweden",
       "flag1": "switzerland.png",
       "flag2": "sweden.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5427,
-      "rating2": 5246,
-      "rating_ev": 0,
-      "rank": 15,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5451,
+      "rating2": 5222,
+      "rating_ev": 24,
+      "rank": 13,
       "win_prob": 77.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

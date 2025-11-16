@@ -1,18 +1,18 @@
 {
   "team": "Chile",
   "stats": {
-    "matches_played": 849,
-    "wins": 316,
+    "matches_played": 850,
+    "wins": 317,
     "draws": 188,
     "losses": 345,
-    "goals_for": 1189,
+    "goals_for": 1191,
     "goals_against": 1210,
-    "goal_difference": -21,
-    "win_percentage": 37.2,
+    "goal_difference": -19,
+    "win_percentage": 37.3,
     "avg_points": 1.34,
     "best_rank": 2,
     "worst_rank": 52,
-    "avg_rank": 22.88,
+    "avg_rank": 22.9,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Tahiti",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 327,
-    "away_matches": 307,
+    "away_matches": 308,
     "neutral_matches": 215,
     "first_match_date": "1910-05-27",
-    "last_match_date": "2025-10-10"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "peru.png",
       "score1": "",
       "score2": "",
-      "rating1": 5198,
+      "rating1": 5220,
       "rating2": 5213,
       "rating_ev": 0,
-      "rank": 40,
-      "win_prob": 48.3,
+      "rank": 34,
+      "win_prob": 50.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Russia",
       "flag1": "chile.png",
       "flag2": "russia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5198,
-      "rating2": 5368,
-      "rating_ev": 0,
-      "rank": 40,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5220,
+      "rating2": 5346,
+      "rating_ev": 22,
+      "rank": 34,
       "win_prob": 23.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-10",

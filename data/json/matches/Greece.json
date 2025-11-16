@@ -1,18 +1,18 @@
 {
   "team": "Greece",
   "stats": {
-    "matches_played": 651,
-    "wins": 250,
+    "matches_played": 652,
+    "wins": 251,
     "draws": 154,
     "losses": 247,
-    "goals_for": 830,
-    "goals_against": 895,
-    "goal_difference": -65,
-    "win_percentage": 38.4,
+    "goals_for": 833,
+    "goals_against": 897,
+    "goal_difference": -64,
+    "win_percentage": 38.5,
     "avg_points": 1.39,
     "best_rank": 12,
     "worst_rank": 74,
-    "avg_rank": 35.55,
+    "avg_rank": 35.53,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Syria",
@@ -25,11 +25,11 @@
       "date": "1938-03-25",
       "flag": "hungary_2.png"
     },
-    "home_matches": 296,
+    "home_matches": 297,
     "away_matches": 294,
     "neutral_matches": 61,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "belarus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5328,
-      "rating2": 4911,
+      "rating1": 5333,
+      "rating2": 4949,
       "rating_ev": 0,
       "rank": 22,
-      "win_prob": 85.8,
+      "win_prob": 84.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Scotland",
       "flag1": "greece.png",
       "flag2": "scotland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5328,
-      "rating2": 5270,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 2,
+      "rating1": 5333,
+      "rating2": 5265,
+      "rating_ev": 5,
       "rank": 22,
       "win_prob": 66.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

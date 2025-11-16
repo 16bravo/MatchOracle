@@ -1,18 +1,18 @@
 {
   "team": "Turkey",
   "stats": {
-    "matches_played": 657,
-    "wins": 258,
+    "matches_played": 658,
+    "wins": 259,
     "draws": 153,
     "losses": 246,
-    "goals_for": 923,
+    "goals_for": 925,
     "goals_against": 954,
-    "goal_difference": -31,
-    "win_percentage": 39.3,
+    "goal_difference": -29,
+    "win_percentage": 39.4,
     "avg_points": 1.41,
     "best_rank": 10,
     "worst_rank": 63,
-    "avg_rank": 32.45,
+    "avg_rank": 32.43,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Syria",
@@ -25,11 +25,11 @@
       "date": "1968-04-24",
       "flag": "poland.png"
     },
-    "home_matches": 285,
+    "home_matches": 286,
     "away_matches": 294,
     "neutral_matches": 78,
     "first_match_date": "1923-10-26",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5355,
-      "rating2": 5719,
+      "rating1": 5348,
+      "rating2": 5749,
       "rating_ev": 0,
-      "rank": 21,
-      "win_prob": 11.7,
+      "rank": 20,
+      "win_prob": 10.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bulgaria",
       "flag1": "turkey.png",
       "flag2": "bulgaria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5355,
-      "rating2": 4855,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5348,
+      "rating2": 4862,
+      "rating_ev": -7,
       "rank": 21,
       "win_prob": 93.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

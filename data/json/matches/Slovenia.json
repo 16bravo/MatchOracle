@@ -1,15 +1,15 @@
 {
   "team": "Slovenia",
   "stats": {
-    "matches_played": 312,
+    "matches_played": 313,
     "wins": 114,
     "draws": 84,
-    "losses": 114,
+    "losses": 115,
     "goals_for": 388,
-    "goals_against": 363,
-    "goal_difference": 25,
-    "win_percentage": 36.5,
-    "avg_points": 1.37,
+    "goals_against": 365,
+    "goal_difference": 23,
+    "win_percentage": 36.4,
+    "avg_points": 1.36,
     "best_rank": 24,
     "worst_rank": 69,
     "avg_rank": 46.15,
@@ -25,11 +25,11 @@
       "date": "2002-10-12",
       "flag": "france.png"
     },
-    "home_matches": 141,
+    "home_matches": 142,
     "away_matches": 141,
     "neutral_matches": 30,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5212,
-      "rating2": 5246,
+      "rating1": 5175,
+      "rating2": 5222,
       "rating_ev": 0,
-      "rank": 36,
-      "win_prob": 35.7,
+      "rank": 45,
+      "win_prob": 34.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Kosovo",
       "flag1": "slovenia.png",
       "flag2": "kosovo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5212,
-      "rating2": 5153,
-      "rating_ev": 0,
-      "rank": 36,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5175,
+      "rating2": 5190,
+      "rating_ev": -37,
+      "rank": 46,
       "win_prob": 66.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

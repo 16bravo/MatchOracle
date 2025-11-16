@@ -1,13 +1,13 @@
 {
   "team": "Brazil",
   "stats": {
-    "matches_played": 1062,
-    "wins": 670,
+    "matches_played": 1063,
+    "wins": 671,
     "draws": 221,
     "losses": 171,
-    "goals_for": 2289,
+    "goals_for": 2291,
     "goals_against": 950,
-    "goal_difference": 1339,
+    "goal_difference": 1341,
     "win_percentage": 63.1,
     "avg_points": 2.1,
     "best_rank": 1,
@@ -27,9 +27,9 @@
     },
     "home_matches": 373,
     "away_matches": 346,
-    "neutral_matches": 343,
+    "neutral_matches": 344,
     "first_match_date": "1914-09-20",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5502,
+      "rating1": 5509,
       "rating2": 5112,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 84.4,
+      "win_prob": 84.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Senegal",
       "flag1": "brazil.png",
       "flag2": "senegal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5502,
-      "rating2": 5263,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5509,
+      "rating2": 5256,
+      "rating_ev": 7,
       "rank": 8,
       "win_prob": 74.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

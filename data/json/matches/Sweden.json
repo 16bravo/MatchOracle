@@ -1,18 +1,18 @@
 {
   "team": "Sweden",
   "stats": {
-    "matches_played": 1116,
+    "matches_played": 1117,
     "wins": 549,
     "draws": 234,
-    "losses": 333,
-    "goals_for": 2222,
-    "goals_against": 1470,
-    "goal_difference": 752,
-    "win_percentage": 49.2,
-    "avg_points": 1.69,
+    "losses": 334,
+    "goals_for": 2223,
+    "goals_against": 1474,
+    "goal_difference": 749,
+    "win_percentage": 49.1,
+    "avg_points": 1.68,
     "best_rank": 3,
     "worst_rank": 37,
-    "avg_rank": 16.72,
+    "avg_rank": 16.74,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Latvia",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 486,
-    "away_matches": 500,
+    "away_matches": 501,
     "neutral_matches": 130,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5246,
-      "rating2": 5212,
+      "rating1": 5222,
+      "rating2": 5175,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 64.3,
+      "rank": 33,
+      "win_prob": 65.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Switzerland",
       "flag1": "sweden.png",
       "flag2": "switzerland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5246,
-      "rating2": 5427,
-      "rating_ev": 0,
-      "rank": 30,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 5222,
+      "rating2": 5451,
+      "rating_ev": -24,
+      "rank": 34,
       "win_prob": 22.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

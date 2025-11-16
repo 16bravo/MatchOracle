@@ -1,14 +1,14 @@
 {
   "team": "Guinea",
   "stats": {
-    "matches_played": 594,
-    "wins": 223,
+    "matches_played": 595,
+    "wins": 224,
     "draws": 173,
     "losses": 198,
-    "goals_for": 840,
+    "goals_for": 842,
     "goals_against": 732,
-    "goal_difference": 108,
-    "win_percentage": 37.5,
+    "goal_difference": 110,
+    "win_percentage": 37.6,
     "avg_points": 1.42,
     "best_rank": 30,
     "worst_rank": 115,
@@ -27,9 +27,9 @@
     },
     "home_matches": 148,
     "away_matches": 233,
-    "neutral_matches": 213,
+    "neutral_matches": 214,
     "first_match_date": "1958-12-07",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "niger.png",
       "score1": "",
       "score2": "",
-      "rating1": 4977,
+      "rating1": 4983,
       "rating2": 4901,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 58.3,
+      "win_prob": 58.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Liberia",
       "flag1": "guinea.png",
       "flag2": "liberia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4977,
-      "rating2": 4729,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4983,
+      "rating2": 4723,
+      "rating_ev": 6,
       "rank": 76,
       "win_prob": 74.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

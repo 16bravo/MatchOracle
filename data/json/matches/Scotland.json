@@ -1,18 +1,18 @@
 {
   "team": "Scotland",
   "stats": {
-    "matches_played": 861,
+    "matches_played": 862,
     "wins": 409,
     "draws": 187,
-    "losses": 265,
-    "goals_for": 1476,
-    "goals_against": 1060,
-    "goal_difference": 416,
-    "win_percentage": 47.5,
+    "losses": 266,
+    "goals_for": 1478,
+    "goals_against": 1063,
+    "goal_difference": 415,
+    "win_percentage": 47.4,
     "avg_points": 1.64,
     "best_rank": 1,
     "worst_rank": 62,
-    "avg_rank": 19.12,
+    "avg_rank": 19.13,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Ireland",
@@ -26,10 +26,10 @@
       "flag": "uruguay.png"
     },
     "home_matches": 400,
-    "away_matches": 411,
+    "away_matches": 412,
     "neutral_matches": 50,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5270,
-      "rating2": 5474,
+      "rating1": 5265,
+      "rating2": 5436,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 38.8,
+      "win_prob": 42.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Greece",
       "flag1": "scotland.png",
       "flag2": "greece.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5270,
-      "rating2": 5328,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 5265,
+      "rating2": 5333,
+      "rating_ev": -5,
       "rank": 27,
       "win_prob": 33.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

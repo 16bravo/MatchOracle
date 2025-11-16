@@ -1,18 +1,18 @@
 {
   "team": "Liberia",
   "stats": {
-    "matches_played": 328,
+    "matches_played": 329,
     "wins": 86,
     "draws": 73,
-    "losses": 169,
+    "losses": 170,
     "goals_for": 305,
-    "goals_against": 498,
-    "goal_difference": -193,
-    "win_percentage": 26.2,
+    "goals_against": 500,
+    "goal_difference": -195,
+    "win_percentage": 26.1,
     "avg_points": 1.01,
     "best_rank": 68,
     "worst_rank": 146,
-    "avg_rank": 106.64,
+    "avg_rank": 106.72,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 138,
     "away_matches": 137,
-    "neutral_matches": 53,
+    "neutral_matches": 54,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Guinea",
       "flag1": "liberia.png",
       "flag2": "guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4729,
-      "rating2": 4977,
-      "rating_ev": 0,
-      "rank": 133,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4723,
+      "rating2": 4983,
+      "rating_ev": -6,
+      "rank": 135,
       "win_prob": 25.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",
