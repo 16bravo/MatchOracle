@@ -1,18 +1,18 @@
 {
   "team": "New Zealand",
   "stats": {
-    "matches_played": 435,
+    "matches_played": 436,
     "wins": 180,
     "draws": 79,
-    "losses": 176,
-    "goals_for": 762,
-    "goals_against": 638,
-    "goal_difference": 124,
-    "win_percentage": 41.4,
+    "losses": 177,
+    "goals_for": 763,
+    "goals_against": 640,
+    "goal_difference": 123,
+    "win_percentage": 41.3,
     "avg_points": 1.42,
     "best_rank": 38,
     "worst_rank": 117,
-    "avg_rank": 82.13,
+    "avg_rank": 82.07,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Fiji",
@@ -27,9 +27,9 @@
     },
     "home_matches": 133,
     "away_matches": 189,
-    "neutral_matches": 113,
+    "neutral_matches": 114,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5097,
+      "rating1": 5103,
       "rating2": 5415,
       "rating_ev": 0,
-      "rank": 61,
-      "win_prob": 20.0,
+      "rank": 59,
+      "win_prob": 20.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Colombia",
       "flag1": "new_zealand.png",
       "flag2": "colombia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5097,
-      "rating2": 5527,
-      "rating_ev": 0,
-      "rank": 61,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5103,
+      "rating2": 5521,
+      "rating_ev": 6,
+      "rank": 59,
       "win_prob": 13.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

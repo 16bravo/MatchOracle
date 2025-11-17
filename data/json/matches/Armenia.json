@@ -1,18 +1,18 @@
 {
   "team": "Armenia",
   "stats": {
-    "matches_played": 278,
+    "matches_played": 279,
     "wins": 66,
     "draws": 56,
-    "losses": 156,
-    "goals_for": 277,
-    "goals_against": 524,
-    "goal_difference": -247,
+    "losses": 157,
+    "goals_for": 278,
+    "goals_against": 533,
+    "goal_difference": -255,
     "win_percentage": 23.7,
     "avg_points": 0.91,
     "best_rank": 53,
     "worst_rank": 157,
-    "avg_rank": 86.52,
+    "avg_rank": 86.65,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guatemala",
@@ -26,10 +26,10 @@
       "flag": "norway.png"
     },
     "home_matches": 111,
-    "away_matches": 131,
+    "away_matches": 132,
     "neutral_matches": 36,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Portugal",
       "flag1": "armenia.png",
       "flag2": "portugal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4842,
-      "rating2": 5513,
-      "rating_ev": 0,
-      "rank": 103,
+      "score1": 1,
+      "score2": 9,
+      "rating1": 4793,
+      "rating2": 5562,
+      "rating_ev": -49,
+      "rank": 122,
       "win_prob": 3.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

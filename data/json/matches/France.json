@@ -1,18 +1,18 @@
 {
   "team": "France",
   "stats": {
-    "matches_played": 932,
-    "wins": 468,
+    "matches_played": 933,
+    "wins": 469,
     "draws": 195,
     "losses": 269,
-    "goals_for": 1682,
-    "goals_against": 1276,
-    "goal_difference": 406,
-    "win_percentage": 50.2,
+    "goals_for": 1685,
+    "goals_against": 1277,
+    "goal_difference": 408,
+    "win_percentage": 50.3,
     "avg_points": 1.72,
     "best_rank": 1,
     "worst_rank": 36,
-    "avg_rank": 12.24,
+    "avg_rank": 12.23,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Gibraltar",
@@ -26,10 +26,10 @@
       "flag": "denmark.png"
     },
     "home_matches": 471,
-    "away_matches": 339,
+    "away_matches": 340,
     "neutral_matches": 122,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Azerbaijan",
       "flag1": "france.png",
       "flag2": "azerbaijan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5561,
-      "rating2": 4783,
-      "rating_ev": 0,
-      "rank": 4,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5551,
+      "rating2": 4793,
+      "rating_ev": -10,
+      "rank": 5,
       "win_prob": 94.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

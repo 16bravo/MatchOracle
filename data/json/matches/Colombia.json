@@ -1,18 +1,18 @@
 {
   "team": "Colombia",
   "stats": {
-    "matches_played": 647,
-    "wins": 263,
+    "matches_played": 648,
+    "wins": 264,
     "draws": 179,
     "losses": 205,
-    "goals_for": 838,
-    "goals_against": 742,
-    "goal_difference": 96,
-    "win_percentage": 40.6,
+    "goals_for": 840,
+    "goals_against": 743,
+    "goal_difference": 97,
+    "win_percentage": 40.7,
     "avg_points": 1.5,
     "best_rank": 3,
     "worst_rank": 77,
-    "avg_rank": 25.2,
+    "avg_rank": 25.17,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guyana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 184,
     "away_matches": 230,
-    "neutral_matches": 233,
+    "neutral_matches": 234,
     "first_match_date": "1938-02-10",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5527,
+      "rating1": 5521,
       "rating2": 5246,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 77.3,
+      "rank": 8,
+      "win_prob": 76.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "New Zealand",
       "flag1": "colombia.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5527,
-      "rating2": 5097,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5521,
+      "rating2": 5103,
+      "rating_ev": -6,
       "rank": 6,
       "win_prob": 86.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

@@ -1,18 +1,18 @@
 {
   "team": "Moldova",
   "stats": {
-    "matches_played": 296,
+    "matches_played": 297,
     "wins": 59,
     "draws": 68,
-    "losses": 169,
-    "goals_for": 239,
-    "goals_against": 511,
-    "goal_difference": -272,
+    "losses": 170,
+    "goals_for": 240,
+    "goals_against": 515,
+    "goal_difference": -275,
     "win_percentage": 19.9,
-    "avg_points": 0.83,
+    "avg_points": 0.82,
     "best_rank": 74,
     "worst_rank": 144,
-    "avg_rank": 102.69,
+    "avg_rank": 102.81,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Pakistan",
@@ -25,11 +25,11 @@
       "date": "2025-09-09",
       "flag": "norway.png"
     },
-    "home_matches": 111,
+    "home_matches": 112,
     "away_matches": 144,
     "neutral_matches": 41,
     "first_match_date": "1991-07-02",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Israel",
       "flag1": "moldova.png",
       "flag2": "israel.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4720,
-      "rating2": 5098,
-      "rating_ev": 0,
-      "rank": 137,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4696,
+      "rating2": 5122,
+      "rating_ev": -24,
+      "rank": 140,
       "win_prob": 23.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

@@ -1,18 +1,18 @@
 {
   "team": "Norway",
   "stats": {
-    "matches_played": 879,
-    "wins": 331,
+    "matches_played": 880,
+    "wins": 332,
     "draws": 195,
     "losses": 353,
-    "goals_for": 1360,
-    "goals_against": 1435,
-    "goal_difference": -75,
+    "goals_for": 1364,
+    "goals_against": 1436,
+    "goal_difference": -72,
     "win_percentage": 37.7,
     "avg_points": 1.35,
-    "best_rank": 7,
+    "best_rank": 6,
     "worst_rank": 72,
-    "avg_rank": 31.6,
+    "avg_rank": 31.57,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Finland",
@@ -26,10 +26,10 @@
       "flag": "denmark.png"
     },
     "home_matches": 422,
-    "away_matches": 405,
+    "away_matches": 406,
     "neutral_matches": 52,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Italy",
       "flag1": "norway.png",
       "flag2": "italy.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5502,
-      "rating2": 5428,
-      "rating_ev": 0,
-      "rank": 9,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5544,
+      "rating2": 5386,
+      "rating_ev": 42,
+      "rank": 6,
       "win_prob": 47.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

@@ -1,18 +1,18 @@
 {
   "team": "Azerbaijan",
   "stats": {
-    "matches_played": 319,
+    "matches_played": 320,
     "wins": 65,
     "draws": 80,
-    "losses": 174,
-    "goals_for": 255,
-    "goals_against": 537,
-    "goal_difference": -282,
-    "win_percentage": 20.4,
+    "losses": 175,
+    "goals_for": 256,
+    "goals_against": 540,
+    "goal_difference": -284,
+    "win_percentage": 20.3,
     "avg_points": 0.86,
     "best_rank": 36,
     "worst_rank": 131,
-    "avg_rank": 100.02,
+    "avg_rank": 100.09,
     "biggest_win": {
       "score": "4-0",
       "opponent": "Armenia",
@@ -25,11 +25,11 @@
       "date": "1995-09-06",
       "flag": "france.png"
     },
-    "home_matches": 113,
+    "home_matches": 114,
     "away_matches": 152,
     "neutral_matches": 54,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "France",
       "flag1": "azerbaijan.png",
       "flag2": "france.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4783,
-      "rating2": 5561,
-      "rating_ev": 0,
-      "rank": 125,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4793,
+      "rating2": 5551,
+      "rating_ev": 10,
+      "rank": 122,
       "win_prob": 5.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

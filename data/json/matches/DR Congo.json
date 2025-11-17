@@ -1,14 +1,14 @@
 {
   "team": "DR Congo",
   "stats": {
-    "matches_played": 531,
+    "matches_played": 532,
     "wins": 216,
-    "draws": 147,
+    "draws": 148,
     "losses": 168,
-    "goals_for": 812,
-    "goals_against": 630,
+    "goals_for": 813,
+    "goals_against": 631,
     "goal_difference": 182,
-    "win_percentage": 40.7,
+    "win_percentage": 40.6,
     "avg_points": 1.5,
     "best_rank": 26,
     "worst_rank": 109,
@@ -27,9 +27,9 @@
     },
     "home_matches": 103,
     "away_matches": 217,
-    "neutral_matches": 211,
+    "neutral_matches": 212,
     "first_match_date": "1948-12-31",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5060,
+      "rating1": 5063,
       "rating2": 4792,
       "rating_ev": 0,
       "rank": 65,
-      "win_prob": 76.3,
+      "win_prob": 76.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5060,
+      "rating1": 5063,
       "rating2": 5256,
       "rating_ev": 0,
       "rank": 65,
-      "win_prob": 29.7,
+      "win_prob": 30.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5060,
+      "rating1": 5063,
       "rating2": 4917,
       "rating_ev": 0,
       "rank": 65,
-      "win_prob": 65.2,
+      "win_prob": 65.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Nigeria",
       "flag1": "dr_congo.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5060,
-      "rating2": 5105,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5063,
+      "rating2": 5102,
+      "rating_ev": 3,
       "rank": 65,
       "win_prob": 45.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

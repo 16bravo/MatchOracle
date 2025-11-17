@@ -1,18 +1,18 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1007,
+    "matches_played": 1008,
     "wins": 444,
-    "draws": 247,
+    "draws": 248,
     "losses": 316,
     "goals_for": 1590,
     "goals_against": 1226,
     "goal_difference": 364,
-    "win_percentage": 44.1,
+    "win_percentage": 44.0,
     "avg_points": 1.57,
     "best_rank": 1,
     "worst_rank": 39,
-    "avg_rank": 13.47,
+    "avg_rank": 13.48,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Bolivia",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 332,
-    "away_matches": 425,
+    "away_matches": 426,
     "neutral_matches": 250,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5410,
+      "rating1": 5409,
       "rating2": 5211,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 60.7,
+      "rank": 17,
+      "win_prob": 60.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Mexico",
       "flag1": "uruguay.png",
       "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5410,
-      "rating2": 5273,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5409,
+      "rating2": 5274,
+      "rating_ev": -1,
       "rank": 18,
       "win_prob": 54.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

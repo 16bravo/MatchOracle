@@ -1,9 +1,9 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1017,
+    "matches_played": 1018,
     "wins": 526,
-    "draws": 234,
+    "draws": 235,
     "losses": 257,
     "goals_for": 1808,
     "goals_against": 1050,
@@ -25,15 +25,15 @@
       "date": "1961-05-10",
       "flag": "england.png"
     },
-    "home_matches": 293,
+    "home_matches": 294,
     "away_matches": 269,
     "neutral_matches": 455,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "country": "United States",
       "tournament": "Friendly",
       "team1": "Mexico",
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5273,
+      "rating1": 5274,
       "rating2": 5608,
       "rating_ev": 0,
       "rank": 25,
-      "win_prob": 18.9,
+      "win_prob": 19.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5273,
+      "rating1": 5274,
       "rating2": 5315,
       "rating_ev": 0,
       "rank": 25,
-      "win_prob": 45.4,
+      "win_prob": 45.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Uruguay",
       "flag1": "mexico.png",
       "flag2": "uruguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5273,
-      "rating2": 5410,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5274,
+      "rating2": 5409,
+      "rating_ev": 1,
       "rank": 25,
       "win_prob": 45.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

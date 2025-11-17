@@ -1,18 +1,18 @@
 {
   "team": "Ukraine",
   "stats": {
-    "matches_played": 330,
-    "wins": 148,
+    "matches_played": 331,
+    "wins": 149,
     "draws": 93,
     "losses": 89,
-    "goals_for": 461,
+    "goals_for": 463,
     "goals_against": 348,
-    "goal_difference": 113,
-    "win_percentage": 44.8,
+    "goal_difference": 115,
+    "win_percentage": 45.0,
     "avg_points": 1.63,
     "best_rank": 10,
     "worst_rank": 61,
-    "avg_rank": 29.22,
+    "avg_rank": 29.21,
     "biggest_win": {
       "score": "9-0",
       "opponent": "San Marino",
@@ -27,9 +27,9 @@
     },
     "home_matches": 131,
     "away_matches": 142,
-    "neutral_matches": 57,
+    "neutral_matches": 58,
     "first_match_date": "1992-04-29",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Iceland",
       "flag1": "ukraine.png",
       "flag2": "iceland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5226,
-      "rating2": 5132,
-      "rating_ev": 0,
-      "rank": 32,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5248,
+      "rating2": 5110,
+      "rating_ev": 22,
+      "rank": 29,
       "win_prob": 60.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

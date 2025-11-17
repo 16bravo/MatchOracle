@@ -1,18 +1,18 @@
 {
   "team": "Ireland",
   "stats": {
-    "matches_played": 734,
-    "wins": 258,
+    "matches_played": 735,
+    "wins": 259,
     "draws": 191,
     "losses": 285,
-    "goals_for": 964,
-    "goals_against": 1151,
-    "goal_difference": -187,
-    "win_percentage": 35.1,
-    "avg_points": 1.31,
+    "goals_for": 967,
+    "goals_against": 1153,
+    "goal_difference": -186,
+    "win_percentage": 35.2,
+    "avg_points": 1.32,
     "best_rank": 4,
     "worst_rank": 61,
-    "avg_rank": 22.56,
+    "avg_rank": 22.6,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Malta",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 375,
-    "away_matches": 300,
+    "away_matches": 301,
     "neutral_matches": 59,
     "first_match_date": "1882-02-18",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Hungary",
       "flag1": "ireland.png",
       "flag2": "hungary.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5147,
-      "rating2": 5198,
-      "rating_ev": 0,
-      "rank": 48,
+      "score1": 3,
+      "score2": 2,
+      "rating1": 5170,
+      "rating2": 5175,
+      "rating_ev": 23,
+      "rank": 46,
       "win_prob": 34.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

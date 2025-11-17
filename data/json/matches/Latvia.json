@@ -1,18 +1,18 @@
 {
   "team": "Latvia",
   "stats": {
-    "matches_played": 455,
+    "matches_played": 456,
     "wins": 126,
     "draws": 111,
-    "losses": 218,
-    "goals_for": 530,
-    "goals_against": 751,
-    "goal_difference": -221,
-    "win_percentage": 27.7,
+    "losses": 219,
+    "goals_for": 531,
+    "goals_against": 753,
+    "goal_difference": -222,
+    "win_percentage": 27.6,
     "avg_points": 1.07,
     "best_rank": 40,
     "worst_rank": 143,
-    "avg_rank": 78.9,
+    "avg_rank": 78.98,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "sweden.png"
     },
     "home_matches": 190,
-    "away_matches": 211,
+    "away_matches": 212,
     "neutral_matches": 54,
     "first_match_date": "1922-09-24",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Serbia",
       "flag1": "latvia.png",
       "flag2": "serbia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4791,
-      "rating2": 5240,
-      "rating_ev": 0,
-      "rank": 123,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4809,
+      "rating2": 5222,
+      "rating_ev": 18,
+      "rank": 113,
       "win_prob": 8.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",
@@ -196,11 +196,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4791,
+      "rating1": 4809,
       "rating2": 4456,
       "rating_ev": 0,
-      "rank": 123,
-      "win_prob": 86.9,
+      "rank": 112,
+      "win_prob": 87.8,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4791,
+      "rating1": 4809,
       "rating2": 4456,
       "rating_ev": 0,
-      "rank": 123,
-      "win_prob": 73.5,
+      "rank": 112,
+      "win_prob": 74.9,
       "type": "fixture"
     },
     {

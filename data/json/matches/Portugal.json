@@ -1,18 +1,18 @@
 {
   "team": "Portugal",
   "stats": {
-    "matches_played": 691,
-    "wins": 344,
+    "matches_played": 692,
+    "wins": 345,
     "draws": 158,
     "losses": 189,
-    "goals_for": 1211,
-    "goals_against": 778,
-    "goal_difference": 433,
-    "win_percentage": 49.8,
+    "goals_for": 1220,
+    "goals_against": 779,
+    "goal_difference": 441,
+    "win_percentage": 49.9,
     "avg_points": 1.72,
     "best_rank": 1,
     "worst_rank": 33,
-    "avg_rank": 14.47,
+    "avg_rank": 14.45,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Luxembourg",
@@ -25,11 +25,11 @@
       "date": "1947-05-25",
       "flag": "england.png"
     },
-    "home_matches": 319,
+    "home_matches": 320,
     "away_matches": 260,
     "neutral_matches": 112,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Armenia",
       "flag1": "portugal.png",
       "flag2": "armenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5513,
-      "rating2": 4842,
-      "rating_ev": 0,
-      "rank": 7,
+      "score1": 9,
+      "score2": 1,
+      "rating1": 5562,
+      "rating2": 4793,
+      "rating_ev": 49,
+      "rank": 4,
       "win_prob": 96.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

@@ -1,18 +1,18 @@
 {
   "team": "Cayman Islands",
   "stats": {
-    "matches_played": 126,
-    "wins": 25,
+    "matches_played": 127,
+    "wins": 26,
     "draws": 24,
     "losses": 77,
-    "goals_for": 119,
+    "goals_for": 123,
     "goals_against": 308,
-    "goal_difference": -189,
-    "win_percentage": 19.8,
-    "avg_points": 0.79,
+    "goal_difference": -185,
+    "win_percentage": 20.5,
+    "avg_points": 0.8,
     "best_rank": 166,
     "worst_rank": 205,
-    "avg_rank": 188.59,
+    "avg_rank": 188.72,
     "biggest_win": {
       "score": "5-0",
       "opponent": "British Virgin Islands",
@@ -25,15 +25,15 @@
       "date": "2021-03-29",
       "flag": "canada.png"
     },
-    "home_matches": 57,
+    "home_matches": 58,
     "away_matches": 39,
     "neutral_matches": 30,
     "first_match_date": "1985-03-03",
-    "last_match_date": "2025-11-12"
+    "last_match_date": "2025-11-15"
   },
   "matches": [
     {
-      "date": "2026-03-16",
+      "date": "2026-03-17",
       "country": "Cayman Islands",
       "tournament": "Friendly tournament",
       "team1": "Cayman Islands",
@@ -44,11 +44,11 @@
       "flag2": "bahamas.png",
       "score1": "",
       "score2": "",
-      "rating1": 3853,
+      "rating1": 3888,
       "rating2": 3647,
       "rating_ev": 0,
       "rank": 205,
-      "win_prob": 79.3,
+      "win_prob": 81.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Anguilla",
       "flag1": "cayman.png",
       "flag2": "anguilla.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3853,
-      "rating2": 3649,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 3888,
+      "rating2": 3614,
+      "rating_ev": 35,
       "rank": 205,
       "win_prob": 79.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-12",

@@ -1,18 +1,18 @@
 {
   "team": "Hungary",
   "stats": {
-    "matches_played": 1033,
+    "matches_played": 1034,
     "wins": 488,
     "draws": 221,
-    "losses": 324,
-    "goals_for": 2083,
-    "goals_against": 1526,
-    "goal_difference": 557,
+    "losses": 325,
+    "goals_for": 2085,
+    "goals_against": 1529,
+    "goal_difference": 556,
     "win_percentage": 47.2,
     "avg_points": 1.63,
     "best_rank": 1,
     "worst_rank": 71,
-    "avg_rank": 22.34,
+    "avg_rank": 22.36,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Russia",
@@ -25,11 +25,11 @@
       "date": "1908-06-10",
       "flag": "england.png"
     },
-    "home_matches": 464,
+    "home_matches": 465,
     "away_matches": 495,
     "neutral_matches": 74,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Ireland",
       "flag1": "hungary.png",
       "flag2": "ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5198,
-      "rating2": 5147,
-      "rating_ev": 0,
-      "rank": 39,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 5175,
+      "rating2": 5170,
+      "rating_ev": -23,
+      "rank": 44,
       "win_prob": 66.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

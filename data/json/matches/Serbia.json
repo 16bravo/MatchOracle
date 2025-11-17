@@ -1,18 +1,18 @@
 {
   "team": "Serbia",
   "stats": {
-    "matches_played": 858,
-    "wins": 400,
+    "matches_played": 859,
+    "wins": 401,
     "draws": 192,
     "losses": 266,
-    "goals_for": 1608,
-    "goals_against": 1172,
-    "goal_difference": 436,
-    "win_percentage": 46.6,
+    "goals_for": 1610,
+    "goals_against": 1173,
+    "goal_difference": 437,
+    "win_percentage": 46.7,
     "avg_points": 1.62,
     "best_rank": 2,
     "worst_rank": 36,
-    "avg_rank": 16.52,
+    "avg_rank": 16.54,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Venezuela",
@@ -25,11 +25,11 @@
       "date": "1920-08-28",
       "flag": "czechia.png"
     },
-    "home_matches": 72,
+    "home_matches": 73,
     "away_matches": 422,
     "neutral_matches": 364,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Latvia",
       "flag1": "serbia.png",
       "flag2": "latvia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5240,
-      "rating2": 4791,
-      "rating_ev": 0,
-      "rank": 30,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5222,
+      "rating2": 4809,
+      "rating_ev": -18,
+      "rank": 32,
       "win_prob": 91.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

@@ -1,18 +1,18 @@
 {
   "team": "Nigeria",
   "stats": {
-    "matches_played": 698,
+    "matches_played": 699,
     "wins": 320,
-    "draws": 200,
+    "draws": 201,
     "losses": 178,
-    "goals_for": 1043,
-    "goals_against": 711,
+    "goals_for": 1044,
+    "goals_against": 712,
     "goal_difference": 332,
     "win_percentage": 45.8,
     "avg_points": 1.66,
     "best_rank": 23,
     "worst_rank": 71,
-    "avg_rank": 46.91,
+    "avg_rank": 46.92,
     "biggest_win": {
       "score": "10-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 235,
     "away_matches": 259,
-    "neutral_matches": 204,
+    "neutral_matches": 205,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-16"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5105,
+      "rating1": 5102,
       "rating2": 4881,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 72.7,
+      "rank": 60,
+      "win_prob": 72.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5105,
+      "rating1": 5102,
       "rating2": 5112,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 49.2,
+      "rank": 60,
+      "win_prob": 48.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5105,
+      "rating1": 5102,
       "rating2": 4810,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 78.4,
+      "rank": 60,
+      "win_prob": 78.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5105,
+      "rating1": 5102,
       "rating2": 5071,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 42.8,
+      "rank": 60,
+      "win_prob": 42.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "DR Congo",
       "flag1": "nigeria.png",
       "flag2": "dr_congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5105,
-      "rating2": 5060,
-      "rating_ev": 0,
-      "rank": 58,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5102,
+      "rating2": 5063,
+      "rating_ev": -3,
+      "rank": 59,
       "win_prob": 54.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",
