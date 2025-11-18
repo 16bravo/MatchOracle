@@ -1,14 +1,14 @@
 {
   "team": "Netherlands",
   "stats": {
-    "matches_played": 892,
-    "wins": 458,
+    "matches_played": 893,
+    "wins": 459,
     "draws": 195,
     "losses": 239,
-    "goals_for": 1865,
+    "goals_for": 1869,
     "goals_against": 1132,
-    "goal_difference": 733,
-    "win_percentage": 51.3,
+    "goal_difference": 737,
+    "win_percentage": 51.4,
     "avg_points": 1.76,
     "best_rank": 1,
     "worst_rank": 35,
@@ -25,11 +25,11 @@
       "date": "1907-12-21",
       "flag": "england.png"
     },
-    "home_matches": 421,
+    "home_matches": 422,
     "away_matches": 357,
     "neutral_matches": 114,
     "first_match_date": "1905-04-30",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Lithuania",
       "flag1": "netherlands.png",
       "flag2": "lithuania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5534,
-      "rating2": 4823,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5541,
+      "rating2": 4816,
+      "rating_ev": 7,
       "rank": 7,
       "win_prob": 96.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

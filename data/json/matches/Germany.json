@@ -1,18 +1,18 @@
 {
   "team": "Germany",
   "stats": {
-    "matches_played": 1037,
-    "wins": 596,
+    "matches_played": 1038,
+    "wins": 597,
     "draws": 217,
     "losses": 224,
-    "goals_for": 2319,
+    "goals_for": 2325,
     "goals_against": 1222,
-    "goal_difference": 1097,
+    "goal_difference": 1103,
     "win_percentage": 57.5,
     "avg_points": 1.93,
     "best_rank": 1,
     "worst_rank": 20,
-    "avg_rank": 6.49,
+    "avg_rank": 6.5,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Russia",
@@ -25,11 +25,11 @@
       "date": "1909-03-13",
       "flag": "england.png"
     },
-    "home_matches": 308,
+    "home_matches": 309,
     "away_matches": 412,
     "neutral_matches": 317,
     "first_match_date": "1908-04-05",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5483,
-      "rating2": 4987,
+      "rating1": 5536,
+      "rating2": 5003,
       "rating_ev": 0,
-      "rank": 10,
-      "win_prob": 92.8,
+      "rank": 8,
+      "win_prob": 93.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Slovakia",
       "flag1": "germany.png",
       "flag2": "slovakia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5483,
-      "rating2": 5195,
-      "rating_ev": 0,
-      "rank": 10,
+      "score1": 6,
+      "score2": 0,
+      "rating1": 5536,
+      "rating2": 5142,
+      "rating_ev": 53,
+      "rank": 7,
       "win_prob": 84.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",
@@ -215,11 +215,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5483,
+      "rating1": 5536,
       "rating2": 5110,
       "rating_ev": 0,
-      "rank": 10,
-      "win_prob": 88.7,
+      "rank": 8,
+      "win_prob": 90.7,
       "type": "fixture"
     },
     {

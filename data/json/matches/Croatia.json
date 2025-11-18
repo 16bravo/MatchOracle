@@ -1,14 +1,14 @@
 {
   "team": "Croatia",
   "stats": {
-    "matches_played": 395,
-    "wins": 207,
+    "matches_played": 396,
+    "wins": 208,
     "draws": 106,
     "losses": 82,
-    "goals_for": 688,
-    "goals_against": 395,
-    "goal_difference": 293,
-    "win_percentage": 52.4,
+    "goals_for": 691,
+    "goals_against": 397,
+    "goal_difference": 294,
+    "win_percentage": 52.5,
     "avg_points": 1.84,
     "best_rank": 5,
     "worst_rank": 31,
@@ -26,10 +26,10 @@
       "flag": "spain.png"
     },
     "home_matches": 156,
-    "away_matches": 166,
+    "away_matches": 167,
     "neutral_matches": 73,
     "first_match_date": "1940-04-02",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Montenegro",
       "flag1": "croatia.png",
       "flag2": "montenegro.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5436,
-      "rating2": 4892,
-      "rating_ev": 0,
-      "rank": 12,
+      "score1": 3,
+      "score2": 2,
+      "rating1": 5424,
+      "rating2": 4904,
+      "rating_ev": -12,
+      "rank": 14,
       "win_prob": 86.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

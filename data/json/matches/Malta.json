@@ -1,18 +1,18 @@
 {
   "team": "Malta",
   "stats": {
-    "matches_played": 451,
+    "matches_played": 452,
     "wins": 64,
     "draws": 77,
-    "losses": 310,
-    "goals_for": 289,
-    "goals_against": 1010,
-    "goal_difference": -721,
+    "losses": 311,
+    "goals_for": 291,
+    "goals_against": 1013,
+    "goal_difference": -722,
     "win_percentage": 14.2,
     "avg_points": 0.6,
     "best_rank": 64,
     "worst_rank": 146,
-    "avg_rank": 112.54,
+    "avg_rank": 112.59,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1983-12-21",
       "flag": "spain.png"
     },
-    "home_matches": 244,
+    "home_matches": 245,
     "away_matches": 181,
     "neutral_matches": 26,
     "first_match_date": "1957-02-24",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Poland",
       "flag1": "malta.png",
       "flag2": "poland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4726,
-      "rating2": 5237,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4736,
+      "rating2": 5227,
+      "rating_ev": 10,
       "rank": 132,
       "win_prob": 14.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",
@@ -196,11 +196,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4726,
-      "rating2": 4878,
+      "rating1": 4736,
+      "rating2": 4884,
       "rating_ev": 0,
       "rank": 132,
-      "win_prob": 24.9,
+      "win_prob": 25.2,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4726,
-      "rating2": 4878,
+      "rating1": 4736,
+      "rating2": 4884,
       "rating_ev": 0,
       "rank": 132,
-      "win_prob": 44.3,
+      "win_prob": 44.7,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Chad",
   "stats": {
-    "matches_played": 178,
+    "matches_played": 179,
     "wins": 34,
-    "draws": 40,
+    "draws": 41,
     "losses": 104,
-    "goals_for": 158,
-    "goals_against": 328,
+    "goals_for": 160,
+    "goals_against": 330,
     "goal_difference": -170,
-    "win_percentage": 19.1,
+    "win_percentage": 19.0,
     "avg_points": 0.8,
     "best_rank": 104,
     "worst_rank": 157,
-    "avg_rank": 131.85,
+    "avg_rank": 131.98,
     "biggest_win": {
       "score": "5-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 43,
     "away_matches": 58,
-    "neutral_matches": 77,
+    "neutral_matches": 78,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Mozambique",
       "flag1": "chad.png",
       "flag2": "mozambique.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4584,
-      "rating2": 4828,
-      "rating_ev": 0,
-      "rank": 156,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4591,
+      "rating2": 4821,
+      "rating_ev": 7,
+      "rank": 155,
       "win_prob": 25.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

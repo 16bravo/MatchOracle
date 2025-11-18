@@ -1,18 +1,18 @@
 {
   "team": "Somalia",
   "stats": {
-    "matches_played": 142,
-    "wins": 14,
+    "matches_played": 143,
+    "wins": 15,
     "draws": 19,
     "losses": 109,
-    "goals_for": 73,
-    "goals_against": 361,
-    "goal_difference": -288,
-    "win_percentage": 9.9,
-    "avg_points": 0.43,
+    "goals_for": 75,
+    "goals_against": 362,
+    "goal_difference": -287,
+    "win_percentage": 10.5,
+    "avg_points": 0.45,
     "best_rank": 109,
     "worst_rank": 193,
-    "avg_rank": 161.27,
+    "avg_rank": 161.32,
     "biggest_win": {
       "score": "5-2",
       "opponent": "Mauritania",
@@ -26,10 +26,10 @@
       "flag": "north_korea.png"
     },
     "home_matches": 10,
-    "away_matches": 42,
+    "away_matches": 43,
     "neutral_matches": 90,
     "first_match_date": "1963-11-14",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4427,
+      "rating1": 4449,
       "rating2": 4869,
       "rating_ev": 0,
-      "rank": 170,
-      "win_prob": 13.0,
+      "rank": 168,
+      "win_prob": 14.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bahrain",
       "flag1": "somalia.png",
       "flag2": "bahrain.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4427,
-      "rating2": 4849,
-      "rating_ev": 0,
-      "rank": 170,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4449,
+      "rating2": 4827,
+      "rating_ev": 22,
+      "rank": 169,
       "win_prob": 9.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

@@ -1,18 +1,18 @@
 {
   "team": "Mozambique",
   "stats": {
-    "matches_played": 409,
+    "matches_played": 410,
     "wins": 126,
-    "draws": 106,
+    "draws": 107,
     "losses": 177,
-    "goals_for": 413,
-    "goals_against": 526,
+    "goals_for": 415,
+    "goals_against": 528,
     "goal_difference": -113,
-    "win_percentage": 30.8,
+    "win_percentage": 30.7,
     "avg_points": 1.18,
     "best_rank": 79,
     "worst_rank": 143,
-    "avg_rank": 112.7,
+    "avg_rank": 112.69,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lesotho",
@@ -27,9 +27,9 @@
     },
     "home_matches": 153,
     "away_matches": 162,
-    "neutral_matches": 94,
+    "neutral_matches": 95,
     "first_match_date": "1975-06-25",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4828,
+      "rating1": 4821,
       "rating2": 5038,
       "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 28.5,
+      "rank": 108,
+      "win_prob": 27.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4828,
+      "rating1": 4821,
       "rating2": 4908,
       "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 41.3,
+      "rank": 108,
+      "win_prob": 40.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4828,
+      "rating1": 4821,
       "rating2": 5110,
       "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 22.6,
+      "rank": 108,
+      "win_prob": 22.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Chad",
       "flag1": "mozambique.png",
       "flag2": "chad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4828,
-      "rating2": 4584,
-      "rating_ev": 0,
-      "rank": 105,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4821,
+      "rating2": 4591,
+      "rating_ev": -7,
+      "rank": 108,
       "win_prob": 74.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

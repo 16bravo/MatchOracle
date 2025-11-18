@@ -1,18 +1,18 @@
 {
   "team": "Northern Ireland",
   "stats": {
-    "matches_played": 608,
-    "wins": 170,
+    "matches_played": 609,
+    "wins": 171,
     "draws": 148,
     "losses": 290,
-    "goals_for": 636,
+    "goals_for": 637,
     "goals_against": 920,
-    "goal_difference": -284,
-    "win_percentage": 28.0,
-    "avg_points": 1.08,
+    "goal_difference": -283,
+    "win_percentage": 28.1,
+    "avg_points": 1.09,
     "best_rank": 13,
     "worst_rank": 96,
-    "avg_rank": 39.46,
+    "avg_rank": 39.49,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Wales",
@@ -25,11 +25,11 @@
       "date": "1938-11-16",
       "flag": "england.png"
     },
-    "home_matches": 276,
+    "home_matches": 277,
     "away_matches": 296,
     "neutral_matches": 36,
     "first_match_date": "1921-02-26",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Luxembourg",
       "flag1": "northern_ireland.png",
       "flag2": "luxembourg.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5127,
-      "rating2": 4878,
-      "rating_ev": 0,
-      "rank": 52,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5121,
+      "rating2": 4884,
+      "rating_ev": -6,
+      "rank": 54,
       "win_prob": 82.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

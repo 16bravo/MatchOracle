@@ -1,18 +1,18 @@
 {
   "team": "Andorra",
   "stats": {
-    "matches_played": 225,
+    "matches_played": 226,
     "wins": 14,
     "draws": 31,
-    "losses": 180,
+    "losses": 181,
     "goals_for": 75,
-    "goals_against": 533,
-    "goal_difference": -458,
+    "goals_against": 537,
+    "goal_difference": -462,
     "win_percentage": 6.2,
     "avg_points": 0.32,
     "best_rank": 127,
     "worst_rank": 166,
-    "avg_rank": 150.44,
+    "avg_rank": 150.39,
     "biggest_win": {
       "score": "3-0",
       "opponent": "San Marino",
@@ -26,10 +26,10 @@
       "flag": "czechia.png"
     },
     "home_matches": 91,
-    "away_matches": 102,
+    "away_matches": 103,
     "neutral_matches": 32,
     "first_match_date": "1996-11-13",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Finland",
       "flag1": "andorra.png",
       "flag2": "finland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4713,
-      "rating2": 4987,
-      "rating_ev": 0,
-      "rank": 136,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4697,
+      "rating2": 5003,
+      "rating_ev": -16,
+      "rank": 139,
       "win_prob": 16.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

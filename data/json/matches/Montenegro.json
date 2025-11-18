@@ -1,18 +1,18 @@
 {
   "team": "Montenegro",
   "stats": {
-    "matches_played": 163,
+    "matches_played": 164,
     "wins": 55,
     "draws": 41,
-    "losses": 67,
-    "goals_for": 190,
-    "goals_against": 218,
-    "goal_difference": -28,
-    "win_percentage": 33.7,
+    "losses": 68,
+    "goals_for": 192,
+    "goals_against": 221,
+    "goal_difference": -29,
+    "win_percentage": 33.5,
     "avg_points": 1.26,
     "best_rank": 40,
     "worst_rank": 89,
-    "avg_rank": 59.15,
+    "avg_rank": 59.33,
     "biggest_win": {
       "score": "6-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "2019-11-14",
       "flag": "england.png"
     },
-    "home_matches": 84,
+    "home_matches": 85,
     "away_matches": 74,
     "neutral_matches": 5,
     "first_match_date": "2007-03-24",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Croatia",
       "flag1": "montenegro.png",
       "flag2": "croatia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4892,
-      "rating2": 5436,
-      "rating_ev": 0,
-      "rank": 89,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4904,
+      "rating2": 5424,
+      "rating_ev": 12,
+      "rank": 88,
       "win_prob": 13.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

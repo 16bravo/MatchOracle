@@ -1,18 +1,18 @@
 {
   "team": "Madagascar",
   "stats": {
-    "matches_played": 340,
-    "wins": 128,
+    "matches_played": 341,
+    "wins": 129,
     "draws": 73,
     "losses": 139,
-    "goals_for": 466,
+    "goals_for": 468,
     "goals_against": 514,
-    "goal_difference": -48,
-    "win_percentage": 37.6,
-    "avg_points": 1.34,
+    "goal_difference": -46,
+    "win_percentage": 37.8,
+    "avg_points": 1.35,
     "best_rank": 68,
     "worst_rank": 158,
-    "avg_rank": 107.29,
+    "avg_rank": 107.3,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Congo",
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 117,
-    "neutral_matches": 107,
+    "neutral_matches": 108,
     "first_match_date": "1947-12-31",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Equatorial Guinea",
       "flag1": "madagascar.png",
       "flag2": "eq_guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4805,
-      "rating2": 4860,
-      "rating_ev": 0,
-      "rank": 116,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4820,
+      "rating2": 4845,
+      "rating_ev": 15,
+      "rank": 109,
       "win_prob": 44.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

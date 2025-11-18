@@ -1,18 +1,18 @@
 {
   "team": "Cape Verde",
   "stats": {
-    "matches_played": 241,
+    "matches_played": 242,
     "wins": 90,
-    "draws": 57,
+    "draws": 58,
     "losses": 94,
-    "goals_for": 257,
-    "goals_against": 268,
+    "goals_for": 258,
+    "goals_against": 269,
     "goal_difference": -11,
-    "win_percentage": 37.3,
+    "win_percentage": 37.2,
     "avg_points": 1.36,
     "best_rank": 66,
     "worst_rank": 132,
-    "avg_rank": 99.44,
+    "avg_rank": 99.33,
     "biggest_win": {
       "score": "7-1",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 76,
     "away_matches": 84,
-    "neutral_matches": 81,
+    "neutral_matches": 82,
     "first_match_date": "1959-12-20",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Egypt",
       "flag1": "cape_verde.png",
       "flag2": "egypt.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4996,
-      "rating2": 5071,
-      "rating_ev": 0,
-      "rank": 74,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5000,
+      "rating2": 5067,
+      "rating_ev": 4,
+      "rank": 73,
       "win_prob": 41.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

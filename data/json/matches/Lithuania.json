@@ -1,18 +1,18 @@
 {
   "team": "Lithuania",
   "stats": {
-    "matches_played": 413,
+    "matches_played": 414,
     "wins": 104,
     "draws": 81,
-    "losses": 228,
+    "losses": 229,
     "goals_for": 405,
-    "goals_against": 751,
-    "goal_difference": -346,
-    "win_percentage": 25.2,
+    "goals_against": 755,
+    "goal_difference": -350,
+    "win_percentage": 25.1,
     "avg_points": 0.95,
     "best_rank": 39,
     "worst_rank": 140,
-    "avg_rank": 84.74,
+    "avg_rank": 84.81,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -26,10 +26,10 @@
       "flag": "egypt_2.png"
     },
     "home_matches": 165,
-    "away_matches": 205,
+    "away_matches": 206,
     "neutral_matches": 43,
     "first_match_date": "1923-06-24",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Netherlands",
       "flag1": "lithuania.png",
       "flag2": "netherlands.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4823,
-      "rating2": 5534,
-      "rating_ev": 0,
-      "rank": 109,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4816,
+      "rating2": 5541,
+      "rating_ev": -7,
+      "rank": 110,
       "win_prob": 3.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

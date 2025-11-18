@@ -1,18 +1,18 @@
 {
   "team": "Namibia",
   "stats": {
-    "matches_played": 301,
+    "matches_played": 302,
     "wins": 77,
     "draws": 91,
-    "losses": 133,
+    "losses": 134,
     "goals_for": 295,
-    "goals_against": 418,
-    "goal_difference": -123,
-    "win_percentage": 25.6,
+    "goals_against": 422,
+    "goal_difference": -127,
+    "win_percentage": 25.5,
     "avg_points": 1.07,
     "best_rank": 94,
     "worst_rank": 157,
-    "avg_rank": 122.92,
+    "avg_rank": 122.93,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Botswana",
@@ -26,10 +26,10 @@
       "flag": "egypt.png"
     },
     "home_matches": 102,
-    "away_matches": 117,
+    "away_matches": 118,
     "neutral_matches": 82,
     "first_match_date": "1989-05-16",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Comoros",
       "flag1": "namibia.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4786,
-      "rating2": 4848,
-      "rating_ev": 0,
-      "rank": 125,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4764,
+      "rating2": 4870,
+      "rating_ev": -22,
+      "rank": 127,
       "win_prob": 32.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

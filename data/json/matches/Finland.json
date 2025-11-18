@@ -1,18 +1,18 @@
 {
   "team": "Finland",
   "stats": {
-    "matches_played": 820,
-    "wins": 215,
+    "matches_played": 821,
+    "wins": 216,
     "draws": 166,
     "losses": 439,
-    "goals_for": 964,
+    "goals_for": 968,
     "goals_against": 1692,
-    "goal_difference": -728,
-    "win_percentage": 26.2,
+    "goal_difference": -724,
+    "win_percentage": 26.3,
     "avg_points": 0.99,
     "best_rank": 19,
     "worst_rank": 97,
-    "avg_rank": 51.18,
+    "avg_rank": 51.2,
     "biggest_win": {
       "score": "10-2",
       "opponent": "Estonia",
@@ -25,11 +25,11 @@
       "date": "1940-09-01",
       "flag": "germany_1.png"
     },
-    "home_matches": 336,
+    "home_matches": 337,
     "away_matches": 427,
     "neutral_matches": 57,
     "first_match_date": "1911-10-22",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 4987,
-      "rating2": 5483,
+      "rating1": 5003,
+      "rating2": 5536,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 7.2,
+      "rank": 72,
+      "win_prob": 6.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Andorra",
       "flag1": "finland.png",
       "flag2": "andorra.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4987,
-      "rating2": 4713,
-      "rating_ev": 0,
-      "rank": 75,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5003,
+      "rating2": 4697,
+      "rating_ev": 16,
+      "rank": 72,
       "win_prob": 83.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

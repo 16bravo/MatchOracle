@@ -1,18 +1,18 @@
 {
   "team": "Qatar",
   "stats": {
-    "matches_played": 679,
+    "matches_played": 680,
     "wins": 283,
     "draws": 172,
-    "losses": 224,
-    "goals_for": 974,
-    "goals_against": 801,
-    "goal_difference": 173,
-    "win_percentage": 41.7,
+    "losses": 225,
+    "goals_for": 975,
+    "goals_against": 803,
+    "goal_difference": 172,
+    "win_percentage": 41.6,
     "avg_points": 1.5,
     "best_rank": 34,
     "worst_rank": 147,
-    "avg_rank": 83.53,
+    "avg_rank": 83.56,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Bhutan",
@@ -25,11 +25,11 @@
       "date": "1973-12-31",
       "flag": "kuwait.png"
     },
-    "home_matches": 314,
+    "home_matches": 315,
     "away_matches": 144,
     "neutral_matches": 221,
     "first_match_date": "1970-03-27",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4868,
+      "rating1": 4856,
       "rating2": 5112,
       "rating_ev": 0,
-      "rank": 97,
-      "win_prob": 34.8,
+      "rank": 100,
+      "win_prob": 33.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Zimbabwe",
       "flag1": "qatar.png",
       "flag2": "zimbabwe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4868,
-      "rating2": 4801,
-      "rating_ev": 0,
-      "rank": 97,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4856,
+      "rating2": 4813,
+      "rating_ev": -12,
+      "rank": 100,
       "win_prob": 67.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

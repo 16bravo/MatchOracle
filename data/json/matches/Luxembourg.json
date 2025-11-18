@@ -1,18 +1,18 @@
 {
   "team": "Luxembourg",
   "stats": {
-    "matches_played": 465,
+    "matches_played": 466,
     "wins": 51,
     "draws": 61,
-    "losses": 353,
+    "losses": 354,
     "goals_for": 300,
-    "goals_against": 1212,
-    "goal_difference": -912,
-    "win_percentage": 11.0,
+    "goals_against": 1213,
+    "goal_difference": -913,
+    "win_percentage": 10.9,
     "avg_points": 0.46,
     "best_rank": 23,
     "worst_rank": 166,
-    "avg_rank": 103.23,
+    "avg_rank": 103.21,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Afghanistan",
@@ -26,10 +26,10 @@
       "flag": "germany_1.png"
     },
     "home_matches": 253,
-    "away_matches": 196,
+    "away_matches": 197,
     "neutral_matches": 16,
     "first_match_date": "1911-10-29",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Northern Ireland",
       "flag1": "luxembourg.png",
       "flag2": "northern_ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4878,
-      "rating2": 5127,
-      "rating_ev": 0,
-      "rank": 95,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4884,
+      "rating2": 5121,
+      "rating_ev": 6,
+      "rank": 94,
       "win_prob": 17.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",
@@ -196,11 +196,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4878,
-      "rating2": 4726,
+      "rating1": 4884,
+      "rating2": 4736,
       "rating_ev": 0,
-      "rank": 95,
-      "win_prob": 75.1,
+      "rank": 94,
+      "win_prob": 74.8,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4878,
-      "rating2": 4726,
+      "rating1": 4884,
+      "rating2": 4736,
       "rating_ev": 0,
-      "rank": 95,
-      "win_prob": 55.7,
+      "rank": 94,
+      "win_prob": 55.3,
       "type": "fixture"
     },
     {

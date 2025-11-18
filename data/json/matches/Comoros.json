@@ -1,18 +1,18 @@
 {
   "team": "Comoros",
   "stats": {
-    "matches_played": 147,
-    "wins": 39,
+    "matches_played": 148,
+    "wins": 40,
     "draws": 33,
     "losses": 75,
-    "goals_for": 134,
+    "goals_for": 138,
     "goals_against": 231,
-    "goal_difference": -97,
-    "win_percentage": 26.5,
-    "avg_points": 1.02,
+    "goal_difference": -93,
+    "win_percentage": 27.0,
+    "avg_points": 1.03,
     "best_rank": 91,
     "worst_rank": 191,
-    "avg_rank": 147.24,
+    "avg_rank": 146.9,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Seychelles",
@@ -25,11 +25,11 @@
       "date": "1979-08-31",
       "flag": "france.png"
     },
-    "home_matches": 28,
+    "home_matches": 29,
     "away_matches": 33,
     "neutral_matches": 86,
     "first_match_date": "1979-08-26",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-17"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 4848,
+      "rating1": 4870,
       "rating2": 5136,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 22.2,
+      "rank": 96,
+      "win_prob": 23.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4848,
+      "rating1": 4870,
       "rating2": 4837,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 51.2,
+      "rank": 96,
+      "win_prob": 53.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4848,
+      "rating1": 4870,
       "rating2": 5327,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 7.6,
+      "rank": 96,
+      "win_prob": 8.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 4848,
+      "rating1": 4870,
       "rating2": 4533,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 79.8,
+      "rank": 96,
+      "win_prob": 81.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Namibia",
       "flag1": "comoros.png",
       "flag2": "namibia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4848,
-      "rating2": 4786,
-      "rating_ev": 0,
-      "rank": 102,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4870,
+      "rating2": 4764,
+      "rating_ev": 22,
+      "rank": 96,
       "win_prob": 67.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",
