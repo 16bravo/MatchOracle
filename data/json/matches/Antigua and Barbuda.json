@@ -1,18 +1,18 @@
 {
   "team": "Antigua and Barbuda",
   "stats": {
-    "matches_played": 271,
+    "matches_played": 272,
     "wins": 93,
     "draws": 51,
-    "losses": 127,
-    "goals_for": 381,
-    "goals_against": 465,
-    "goal_difference": -84,
-    "win_percentage": 34.3,
-    "avg_points": 1.22,
+    "losses": 128,
+    "goals_for": 382,
+    "goals_against": 469,
+    "goal_difference": -87,
+    "win_percentage": 34.2,
+    "avg_points": 1.21,
     "best_rank": 101,
     "worst_rank": 199,
-    "avg_rank": 161.43,
+    "avg_rank": 161.56,
     "biggest_win": {
       "score": "10-0",
       "opponent": "US Virgin Islands",
@@ -25,15 +25,15 @@
       "date": "1972-11-10",
       "flag": "trinidad.png"
     },
-    "home_matches": 111,
+    "home_matches": 112,
     "away_matches": 97,
     "neutral_matches": 63,
     "first_match_date": "1950-02-01",
-    "last_match_date": "2025-11-12"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Antigua and Barbuda",
@@ -44,15 +44,15 @@
       "flag2": "barbados.png",
       "score1": "",
       "score2": "",
-      "rating1": 4091,
+      "rating1": 4074,
       "rating2": 4109,
       "rating_ev": 0,
       "rank": 198,
-      "win_prob": 58.9,
+      "win_prob": 57.1,
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Antigua and Barbuda",
@@ -63,11 +63,11 @@
       "flag2": "bonaire.png",
       "score1": "",
       "score2": "",
-      "rating1": 4091,
+      "rating1": 4074,
       "rating2": 3971,
       "rating_ev": 0,
       "rank": 198,
-      "win_prob": 72.4,
+      "win_prob": 70.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Guyana",
       "flag1": "antigua.png",
       "flag2": "guyana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4091,
-      "rating2": 4603,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4074,
+      "rating2": 4620,
+      "rating_ev": -17,
       "rank": 198,
       "win_prob": 14.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-12",

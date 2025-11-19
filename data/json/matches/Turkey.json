@@ -1,18 +1,18 @@
 {
   "team": "Turkey",
   "stats": {
-    "matches_played": 658,
+    "matches_played": 659,
     "wins": 259,
-    "draws": 153,
+    "draws": 154,
     "losses": 246,
-    "goals_for": 925,
-    "goals_against": 954,
+    "goals_for": 927,
+    "goals_against": 956,
     "goal_difference": -29,
-    "win_percentage": 39.4,
+    "win_percentage": 39.3,
     "avg_points": 1.41,
     "best_rank": 10,
     "worst_rank": 63,
-    "avg_rank": 32.43,
+    "avg_rank": 32.41,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Syria",
@@ -26,10 +26,10 @@
       "flag": "poland.png"
     },
     "home_matches": 286,
-    "away_matches": 294,
+    "away_matches": 295,
     "neutral_matches": 78,
     "first_match_date": "1923-10-26",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Spain",
       "flag1": "turkey.png",
       "flag2": "spain.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5348,
-      "rating2": 5749,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5377,
+      "rating2": 5720,
+      "rating_ev": 29,
       "rank": 20,
       "win_prob": 10.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

@@ -1,18 +1,18 @@
 {
   "team": "Belarus",
   "stats": {
-    "matches_played": 298,
+    "matches_played": 299,
     "wins": 88,
-    "draws": 75,
+    "draws": 76,
     "losses": 135,
     "goals_for": 334,
     "goals_against": 434,
     "goal_difference": -100,
-    "win_percentage": 29.5,
+    "win_percentage": 29.4,
     "avg_points": 1.14,
     "best_rank": 33,
     "worst_rank": 99,
-    "avg_rank": 65.88,
+    "avg_rank": 65.92,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Lithuania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 100,
     "away_matches": 154,
-    "neutral_matches": 44,
+    "neutral_matches": 45,
     "first_match_date": "1992-10-28",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Greece",
       "flag1": "belarus.png",
       "flag2": "greece.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4949,
-      "rating2": 5333,
-      "rating_ev": 0,
-      "rank": 80,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4972,
+      "rating2": 5310,
+      "rating_ev": 23,
+      "rank": 77,
       "win_prob": 15.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

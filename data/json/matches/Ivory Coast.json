@@ -1,18 +1,18 @@
 {
   "team": "Ivory Coast",
   "stats": {
-    "matches_played": 664,
-    "wins": 336,
+    "matches_played": 665,
+    "wins": 337,
     "draws": 169,
     "losses": 159,
-    "goals_for": 1075,
+    "goals_for": 1077,
     "goals_against": 658,
-    "goal_difference": 417,
-    "win_percentage": 50.6,
+    "goal_difference": 419,
+    "win_percentage": 50.7,
     "avg_points": 1.77,
     "best_rank": 11,
     "worst_rank": 80,
-    "avg_rank": 46.83,
+    "avg_rank": 46.84,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Central African Republic",
@@ -26,10 +26,10 @@
       "flag": "netherlands.png"
     },
     "home_matches": 230,
-    "away_matches": 224,
+    "away_matches": 225,
     "neutral_matches": 210,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
+      "rating1": 5119,
       "rating2": 4908,
       "rating_ev": 0,
       "rank": 56,
-      "win_prob": 70.8,
+      "win_prob": 71.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
+      "rating1": 5119,
       "rating2": 5038,
       "rating_ev": 0,
       "rank": 56,
-      "win_prob": 57.9,
+      "win_prob": 58.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
+      "rating1": 5119,
       "rating2": 4821,
       "rating_ev": 0,
       "rank": 56,
-      "win_prob": 77.9,
+      "win_prob": 78.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Oman",
       "flag1": "ivory_coast.png",
       "flag2": "oman.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5110,
-      "rating2": 4869,
-      "rating_ev": 0,
-      "rank": 56,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5119,
+      "rating2": 4860,
+      "rating_ev": 9,
+      "rank": 55,
       "win_prob": 64.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",
@@ -253,11 +253,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5110,
+      "rating1": 5119,
       "rating2": 5536,
       "rating_ev": 0,
       "rank": 56,
-      "win_prob": 9.3,
+      "win_prob": 9.6,
       "type": "fixture"
     },
     {

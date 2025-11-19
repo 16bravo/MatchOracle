@@ -1,14 +1,14 @@
 {
   "team": "Denmark",
   "stats": {
-    "matches_played": 900,
+    "matches_played": 901,
     "wins": 419,
     "draws": 185,
-    "losses": 296,
-    "goals_for": 1650,
-    "goals_against": 1210,
-    "goal_difference": 440,
-    "win_percentage": 46.6,
+    "losses": 297,
+    "goals_for": 1652,
+    "goals_against": 1214,
+    "goal_difference": 438,
+    "win_percentage": 46.5,
     "avg_points": 1.6,
     "best_rank": 1,
     "worst_rank": 49,
@@ -26,10 +26,10 @@
       "flag": "germany_1.png"
     },
     "home_matches": 411,
-    "away_matches": 393,
+    "away_matches": 394,
     "neutral_matches": 96,
     "first_match_date": "1908-10-19",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Scotland",
       "flag1": "denmark.png",
       "flag2": "scotland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5436,
-      "rating2": 5265,
-      "rating_ev": 0,
-      "rank": 12,
+      "score1": 2,
+      "score2": 4,
+      "rating1": 5404,
+      "rating2": 5297,
+      "rating_ev": -32,
+      "rank": 17,
       "win_prob": 57.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

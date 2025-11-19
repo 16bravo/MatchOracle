@@ -1,18 +1,18 @@
 {
   "team": "Hong Kong",
   "stats": {
-    "matches_played": 511,
+    "matches_played": 512,
     "wins": 181,
     "draws": 100,
-    "losses": 230,
-    "goals_for": 810,
-    "goals_against": 859,
-    "goal_difference": -49,
+    "losses": 231,
+    "goals_for": 811,
+    "goals_against": 861,
+    "goal_difference": -50,
     "win_percentage": 35.4,
     "avg_points": 1.26,
     "best_rank": 74,
     "worst_rank": 173,
-    "avg_rank": 130.2,
+    "avg_rank": 130.26,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "1948-03-31",
       "flag": "south_vietnam.png"
     },
-    "home_matches": 180,
+    "home_matches": 181,
     "away_matches": 151,
     "neutral_matches": 180,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Singapore",
       "flag1": "hong_kong.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4552,
-      "rating2": 4361,
-      "rating_ev": 0,
-      "rank": 160,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4521,
+      "rating2": 4392,
+      "rating_ev": -31,
+      "rank": 162,
       "win_prob": 78.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",
@@ -253,11 +253,11 @@
       "flag2": "india.png",
       "score1": "",
       "score2": "",
-      "rating1": 4552,
-      "rating2": 4499,
+      "rating1": 4521,
+      "rating2": 4474,
       "rating_ev": 0,
-      "rank": 160,
-      "win_prob": 44.9,
+      "rank": 162,
+      "win_prob": 44.2,
       "type": "fixture"
     },
     {

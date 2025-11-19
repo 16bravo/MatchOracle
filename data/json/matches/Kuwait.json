@@ -1,18 +1,18 @@
 {
   "team": "Kuwait",
   "stats": {
-    "matches_played": 732,
+    "matches_played": 733,
     "wins": 305,
-    "draws": 190,
+    "draws": 191,
     "losses": 237,
-    "goals_for": 1140,
-    "goals_against": 835,
+    "goals_for": 1142,
+    "goals_against": 837,
     "goal_difference": 305,
-    "win_percentage": 41.7,
+    "win_percentage": 41.6,
     "avg_points": 1.51,
     "best_rank": 21,
     "worst_rank": 144,
-    "avg_rank": 78.42,
+    "avg_rank": 78.5,
     "biggest_win": {
       "score": "20-0",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 258,
     "away_matches": 172,
-    "neutral_matches": 302,
+    "neutral_matches": 303,
     "first_match_date": "1961-09-03",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mauritania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4704,
+      "rating1": 4711,
       "rating2": 4808,
       "rating_ev": 0,
       "rank": 136,
-      "win_prob": 38.8,
+      "win_prob": 39.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Gambia",
       "flag1": "kuwait.png",
       "flag2": "gambia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4704,
-      "rating2": 4954,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4711,
+      "rating2": 4947,
+      "rating_ev": 7,
       "rank": 136,
       "win_prob": 25.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

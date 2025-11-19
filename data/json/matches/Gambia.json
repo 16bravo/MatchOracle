@@ -1,18 +1,18 @@
 {
   "team": "Gambia",
   "stats": {
-    "matches_played": 285,
+    "matches_played": 286,
     "wins": 80,
-    "draws": 79,
+    "draws": 80,
     "losses": 126,
-    "goals_for": 306,
-    "goals_against": 402,
+    "goals_for": 308,
+    "goals_against": 404,
     "goal_difference": -96,
-    "win_percentage": 28.1,
+    "win_percentage": 28.0,
     "avg_points": 1.12,
     "best_rank": 76,
     "worst_rank": 123,
-    "avg_rank": 99.94,
+    "avg_rank": 99.87,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Seychelles",
@@ -27,9 +27,9 @@
     },
     "home_matches": 0,
     "away_matches": 98,
-    "neutral_matches": 187,
+    "neutral_matches": 188,
     "first_match_date": "1953-02-09",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Kuwait",
       "flag1": "gambia.png",
       "flag2": "kuwait.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4954,
-      "rating2": 4704,
-      "rating_ev": 0,
-      "rank": 78,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4947,
+      "rating2": 4711,
+      "rating_ev": -7,
+      "rank": 80,
       "win_prob": 74.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

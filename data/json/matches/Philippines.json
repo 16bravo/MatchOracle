@@ -1,15 +1,15 @@
 {
   "team": "Philippines",
   "stats": {
-    "matches_played": 385,
-    "wins": 95,
+    "matches_played": 386,
+    "wins": 96,
     "draws": 58,
     "losses": 232,
-    "goals_for": 410,
+    "goals_for": 412,
     "goals_against": 991,
-    "goal_difference": -581,
-    "win_percentage": 24.7,
-    "avg_points": 0.89,
+    "goal_difference": -579,
+    "win_percentage": 24.9,
+    "avg_points": 0.9,
     "best_rank": 27,
     "worst_rank": 204,
     "avg_rank": 164.85,
@@ -26,10 +26,10 @@
       "flag": "japan.png"
     },
     "home_matches": 103,
-    "away_matches": 123,
+    "away_matches": 124,
     "neutral_matches": 159,
     "first_match_date": "1913-02-04",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Maldives",
       "flag1": "philippines.png",
       "flag2": "maldives.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4474,
-      "rating2": 4122,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4487,
+      "rating2": 4109,
+      "rating_ev": 13,
       "rank": 164,
       "win_prob": 74.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -120,11 +120,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4474,
-      "rating2": 4633,
+      "rating1": 4487,
+      "rating2": 4653,
       "rating_ev": 0,
-      "rank": 164,
-      "win_prob": 24.3,
+      "rank": 163,
+      "win_prob": 23.7,
       "type": "fixture"
     },
     {

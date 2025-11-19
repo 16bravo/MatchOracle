@@ -1,18 +1,18 @@
 {
   "team": "Switzerland",
   "stats": {
-    "matches_played": 890,
+    "matches_played": 891,
     "wins": 318,
-    "draws": 200,
+    "draws": 201,
     "losses": 372,
-    "goals_for": 1329,
-    "goals_against": 1476,
+    "goals_for": 1330,
+    "goals_against": 1477,
     "goal_difference": -147,
     "win_percentage": 35.7,
     "avg_points": 1.3,
     "best_rank": 7,
     "worst_rank": 41,
-    "avg_rank": 24.09,
+    "avg_rank": 24.07,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 423,
-    "away_matches": 389,
+    "away_matches": 390,
     "neutral_matches": 78,
     "first_match_date": "1905-02-12",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Kosovo",
       "flag1": "switzerland.png",
       "flag2": "kosovo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5451,
-      "rating2": 5190,
-      "rating_ev": 0,
-      "rank": 11,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5441,
+      "rating2": 5200,
+      "rating_ev": -10,
+      "rank": 12,
       "win_prob": 66.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

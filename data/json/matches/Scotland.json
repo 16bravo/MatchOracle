@@ -1,14 +1,14 @@
 {
   "team": "Scotland",
   "stats": {
-    "matches_played": 862,
-    "wins": 409,
+    "matches_played": 863,
+    "wins": 410,
     "draws": 187,
     "losses": 266,
-    "goals_for": 1478,
-    "goals_against": 1063,
-    "goal_difference": 415,
-    "win_percentage": 47.4,
+    "goals_for": 1482,
+    "goals_against": 1065,
+    "goal_difference": 417,
+    "win_percentage": 47.5,
     "avg_points": 1.64,
     "best_rank": 1,
     "worst_rank": 62,
@@ -25,11 +25,11 @@
       "date": "1954-06-19",
       "flag": "uruguay.png"
     },
-    "home_matches": 400,
+    "home_matches": 401,
     "away_matches": 412,
     "neutral_matches": 50,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Denmark",
       "flag1": "scotland.png",
       "flag2": "denmark.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5265,
-      "rating2": 5436,
-      "rating_ev": 0,
-      "rank": 27,
+      "score1": 4,
+      "score2": 2,
+      "rating1": 5297,
+      "rating2": 5404,
+      "rating_ev": 32,
+      "rank": 25,
       "win_prob": 42.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

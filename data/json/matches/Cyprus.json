@@ -1,18 +1,18 @@
 {
   "team": "Cyprus",
   "stats": {
-    "matches_played": 425,
+    "matches_played": 426,
     "wins": 83,
     "draws": 73,
-    "losses": 269,
-    "goals_for": 380,
-    "goals_against": 924,
-    "goal_difference": -544,
+    "losses": 270,
+    "goals_for": 382,
+    "goals_against": 928,
+    "goal_difference": -546,
     "win_percentage": 19.5,
     "avg_points": 0.76,
     "best_rank": 57,
     "worst_rank": 140,
-    "avg_rank": 89.88,
+    "avg_rank": 89.94,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Andorra",
@@ -25,11 +25,11 @@
       "date": "1969-05-21",
       "flag": "germany.png"
     },
-    "home_matches": 235,
+    "home_matches": 236,
     "away_matches": 184,
     "neutral_matches": 6,
     "first_match_date": "1949-07-30",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Estonia",
       "flag1": "cyprus.png",
       "flag2": "estonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4817,
-      "rating2": 4824,
-      "rating_ev": 0,
-      "rank": 110,
+      "score1": 2,
+      "score2": 4,
+      "rating1": 4801,
+      "rating2": 4840,
+      "rating_ev": -16,
+      "rank": 117,
       "win_prob": 60.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

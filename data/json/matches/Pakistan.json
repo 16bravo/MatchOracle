@@ -1,18 +1,18 @@
 {
   "team": "Pakistan",
   "stats": {
-    "matches_played": 276,
+    "matches_played": 277,
     "wins": 61,
     "draws": 50,
-    "losses": 165,
+    "losses": 166,
     "goals_for": 255,
-    "goals_against": 612,
-    "goal_difference": -357,
-    "win_percentage": 22.1,
+    "goals_against": 617,
+    "goal_difference": -362,
+    "win_percentage": 22.0,
     "avg_points": 0.84,
     "best_rank": 73,
     "worst_rank": 200,
-    "avg_rank": 162.45,
+    "avg_rank": 162.58,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Thailand",
@@ -25,11 +25,11 @@
       "date": "1969-03-12",
       "flag": "iran_1.png"
     },
-    "home_matches": 60,
+    "home_matches": 61,
     "away_matches": 92,
     "neutral_matches": 124,
     "first_match_date": "1950-10-27",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Syria",
       "flag1": "pakistan.png",
       "flag2": "syria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4092,
-      "rating2": 4825,
-      "rating_ev": 0,
-      "rank": 197,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 4063,
+      "rating2": 4854,
+      "rating_ev": -29,
+      "rank": 199,
       "win_prob": 6.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -120,11 +120,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4092,
+      "rating1": 4063,
       "rating2": 4118,
       "rating_ev": 0,
-      "rank": 197,
-      "win_prob": 58.0,
+      "rank": 199,
+      "win_prob": 54.9,
       "type": "fixture"
     },
     {

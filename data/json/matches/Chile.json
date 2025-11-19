@@ -1,18 +1,18 @@
 {
   "team": "Chile",
   "stats": {
-    "matches_played": 850,
-    "wins": 317,
+    "matches_played": 851,
+    "wins": 318,
     "draws": 188,
     "losses": 345,
-    "goals_for": 1191,
-    "goals_against": 1210,
-    "goal_difference": -19,
-    "win_percentage": 37.3,
+    "goals_for": 1193,
+    "goals_against": 1211,
+    "goal_difference": -18,
+    "win_percentage": 37.4,
     "avg_points": 1.34,
     "best_rank": 2,
     "worst_rank": 52,
-    "avg_rank": 22.9,
+    "avg_rank": 22.91,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Tahiti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 327,
     "away_matches": 308,
-    "neutral_matches": 215,
+    "neutral_matches": 216,
     "first_match_date": "1910-05-27",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Peru",
       "flag1": "chile.png",
       "flag2": "peru.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5220,
-      "rating2": 5213,
-      "rating_ev": 0,
-      "rank": 35,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5227,
+      "rating2": 5206,
+      "rating_ev": 7,
+      "rank": 32,
       "win_prob": 50.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

@@ -1,18 +1,18 @@
 {
   "team": "East Timor",
   "stats": {
-    "matches_played": 91,
+    "matches_played": 92,
     "wins": 11,
     "draws": 8,
-    "losses": 72,
+    "losses": 73,
     "goals_for": 82,
-    "goals_against": 291,
-    "goal_difference": -209,
-    "win_percentage": 12.1,
+    "goals_against": 296,
+    "goal_difference": -214,
+    "win_percentage": 12.0,
     "avg_points": 0.45,
     "best_rank": 203,
     "worst_rank": 211,
-    "avg_rank": 206.55,
+    "avg_rank": 206.54,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Cambodia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 6,
     "away_matches": 46,
-    "neutral_matches": 39,
+    "neutral_matches": 40,
     "first_match_date": "2003-03-21",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Tajikistan",
       "flag1": "timor.png",
       "flag2": "tajikistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3829,
-      "rating2": 4633,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 3809,
+      "rating2": 4653,
+      "rating_ev": -20,
       "rank": 206,
       "win_prob": 3.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -120,11 +120,11 @@
       "flag2": "maldives.png",
       "score1": "",
       "score2": "",
-      "rating1": 3829,
-      "rating2": 4122,
+      "rating1": 3809,
+      "rating2": 4109,
       "rating_ev": 0,
       "rank": 206,
-      "win_prob": 15.2,
+      "win_prob": 14.8,
       "type": "fixture"
     },
     {

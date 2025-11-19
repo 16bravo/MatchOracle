@@ -1,13 +1,13 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1008,
+    "matches_played": 1009,
     "wins": 444,
     "draws": 248,
-    "losses": 316,
-    "goals_for": 1590,
-    "goals_against": 1226,
-    "goal_difference": 364,
+    "losses": 317,
+    "goals_for": 1591,
+    "goals_against": 1231,
+    "goal_difference": 360,
     "win_percentage": 44.0,
     "avg_points": 1.57,
     "best_rank": 1,
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 332,
-    "away_matches": 426,
+    "away_matches": 427,
     "neutral_matches": 250,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "United States",
       "flag1": "uruguay.png",
       "flag2": "usa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5409,
-      "rating2": 5211,
-      "rating_ev": 0,
-      "rank": 17,
+      "score1": 1,
+      "score2": 5,
+      "rating1": 5379,
+      "rating2": 5241,
+      "rating_ev": -30,
+      "rank": 19,
       "win_prob": 60.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

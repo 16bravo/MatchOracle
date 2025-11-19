@@ -1,18 +1,18 @@
 {
   "team": "Kenya",
   "stats": {
-    "matches_played": 727,
+    "matches_played": 728,
     "wins": 274,
     "draws": 178,
-    "losses": 275,
+    "losses": 276,
     "goals_for": 1000,
-    "goals_against": 987,
-    "goal_difference": 13,
-    "win_percentage": 37.7,
-    "avg_points": 1.38,
+    "goals_against": 995,
+    "goal_difference": 5,
+    "win_percentage": 37.6,
+    "avg_points": 1.37,
     "best_rank": 43,
     "worst_rank": 131,
-    "avg_rank": 90.93,
+    "avg_rank": 90.98,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Zanzibar",
@@ -27,9 +27,9 @@
     },
     "home_matches": 264,
     "away_matches": 256,
-    "neutral_matches": 207,
+    "neutral_matches": 208,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Senegal",
       "flag1": "kenya.png",
       "flag2": "senegal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4827,
-      "rating2": 5256,
-      "rating_ev": 0,
-      "rank": 104,
+      "score1": 0,
+      "score2": 8,
+      "rating1": 4793,
+      "rating2": 5290,
+      "rating_ev": -34,
+      "rank": 122,
       "win_prob": 13.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

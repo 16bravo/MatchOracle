@@ -1,18 +1,18 @@
 {
   "team": "South Korea",
   "stats": {
-    "matches_played": 1047,
-    "wins": 573,
+    "matches_played": 1048,
+    "wins": 574,
     "draws": 257,
     "losses": 217,
-    "goals_for": 1908,
+    "goals_for": 1909,
     "goals_against": 953,
-    "goal_difference": 955,
-    "win_percentage": 54.7,
+    "goal_difference": 956,
+    "win_percentage": 54.8,
     "avg_points": 1.89,
     "best_rank": 19,
     "worst_rank": 100,
-    "avg_rank": 47.21,
+    "avg_rank": 47.2,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Nepal",
@@ -25,11 +25,11 @@
       "date": "1948-08-05",
       "flag": "sweden.png"
     },
-    "home_matches": 352,
+    "home_matches": 353,
     "away_matches": 249,
     "neutral_matches": 446,
     "first_match_date": "1942-08-16",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Ghana",
       "flag1": "south_korea.png",
       "flag2": "ghana.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 0,
       "rating1": 5204,
       "rating2": 5052,
       "rating_ev": 0,
-      "rank": 39,
+      "rank": 40,
       "win_prob": 75.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

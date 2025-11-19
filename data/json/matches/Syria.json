@@ -1,18 +1,18 @@
 {
   "team": "Syria",
   "stats": {
-    "matches_played": 572,
-    "wins": 212,
+    "matches_played": 573,
+    "wins": 213,
     "draws": 139,
     "losses": 221,
-    "goals_for": 822,
+    "goals_for": 827,
     "goals_against": 736,
-    "goal_difference": 86,
-    "win_percentage": 37.1,
-    "avg_points": 1.35,
+    "goal_difference": 91,
+    "win_percentage": 37.2,
+    "avg_points": 1.36,
     "best_rank": 61,
     "worst_rank": 118,
-    "avg_rank": 88.99,
+    "avg_rank": 89.01,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Oman",
@@ -26,10 +26,10 @@
       "flag": "greece_1.png"
     },
     "home_matches": 116,
-    "away_matches": 213,
+    "away_matches": 214,
     "neutral_matches": 243,
     "first_match_date": "1944-03-10",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "south_sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
+      "rating1": 4854,
       "rating2": 4585,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 74.1,
+      "rank": 101,
+      "win_prob": 76.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Pakistan",
       "flag1": "syria.png",
       "flag2": "pakistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4825,
-      "rating2": 4092,
-      "rating_ev": 0,
-      "rank": 106,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 4854,
+      "rating2": 4063,
+      "rating_ev": 29,
+      "rank": 101,
       "win_prob": 93.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -177,11 +177,11 @@
       "flag2": "afghanistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
+      "rating1": 4854,
       "rating2": 4329,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 89.3,
+      "rank": 101,
+      "win_prob": 90.4,
       "type": "fixture"
     },
     {

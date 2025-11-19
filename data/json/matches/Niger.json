@@ -1,18 +1,18 @@
 {
   "team": "Niger",
   "stats": {
-    "matches_played": 281,
+    "matches_played": 282,
     "wins": 63,
-    "draws": 66,
+    "draws": 67,
     "losses": 152,
-    "goals_for": 279,
-    "goals_against": 492,
+    "goals_for": 280,
+    "goals_against": 493,
     "goal_difference": -213,
-    "win_percentage": 22.4,
+    "win_percentage": 22.3,
     "avg_points": 0.91,
     "best_rank": 77,
     "worst_rank": 147,
-    "avg_rank": 119.6,
+    "avg_rank": 119.49,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 96,
     "away_matches": 115,
-    "neutral_matches": 70,
+    "neutral_matches": 71,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Guinea",
       "flag1": "niger.png",
       "flag2": "guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4901,
-      "rating2": 4983,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4903,
+      "rating2": 4981,
+      "rating_ev": 2,
       "rank": 89,
       "win_prob": 41.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

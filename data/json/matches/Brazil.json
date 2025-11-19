@@ -1,18 +1,18 @@
 {
   "team": "Brazil",
   "stats": {
-    "matches_played": 1063,
+    "matches_played": 1064,
     "wins": 671,
-    "draws": 221,
+    "draws": 222,
     "losses": 171,
-    "goals_for": 2291,
-    "goals_against": 950,
+    "goals_for": 2292,
+    "goals_against": 951,
     "goal_difference": 1341,
     "win_percentage": 63.1,
     "avg_points": 2.1,
     "best_rank": 1,
     "worst_rank": 14,
-    "avg_rank": 3.13,
+    "avg_rank": 3.14,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Bolivia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 373,
     "away_matches": 346,
-    "neutral_matches": 344,
+    "neutral_matches": 345,
     "first_match_date": "1914-09-20",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Tunisia",
       "flag1": "brazil.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5509,
-      "rating2": 5112,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5497,
+      "rating2": 5124,
+      "rating_ev": -12,
       "rank": 10,
       "win_prob": 84.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",
@@ -183,6 +183,44 @@
       "rank": 8,
       "win_prob": 49.9,
       "type": "past"
+    },
+    {
+      "date": "2025-03-31",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Brazil",
+      "team2": "Croatia",
+      "original_team1": "Brazil",
+      "original_team2": "Croatia",
+      "flag1": "brazil.png",
+      "flag2": "croatia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5497,
+      "rating2": 5424,
+      "rating_ev": 0,
+      "rank": 10,
+      "win_prob": 58.0,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-03-26",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Brazil",
+      "team2": "France",
+      "original_team1": "Brazil",
+      "original_team2": "France",
+      "flag1": "brazil.png",
+      "flag2": "france.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5497,
+      "rating2": 5551,
+      "rating_ev": 0,
+      "rank": 10,
+      "win_prob": 44.1,
+      "type": "fixture"
     },
     {
       "date": "2025-03-25",

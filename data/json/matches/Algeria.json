@@ -1,18 +1,18 @@
 {
   "team": "Algeria",
   "stats": {
-    "matches_played": 667,
-    "wins": 303,
+    "matches_played": 668,
+    "wins": 304,
     "draws": 175,
     "losses": 189,
-    "goals_for": 1025,
+    "goals_for": 1027,
     "goals_against": 682,
-    "goal_difference": 343,
-    "win_percentage": 45.4,
+    "goal_difference": 345,
+    "win_percentage": 45.5,
     "avg_points": 1.63,
     "best_rank": 16,
     "worst_rank": 106,
-    "avg_rank": 53.62,
+    "avg_rank": 53.6,
     "biggest_win": {
       "score": "15-1",
       "opponent": "South Yemen",
@@ -26,10 +26,10 @@
       "flag": "ussr.png"
     },
     "home_matches": 254,
-    "away_matches": 228,
+    "away_matches": 229,
     "neutral_matches": 185,
     "first_match_date": "1958-05-03",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5188,
+      "rating1": 5199,
       "rating2": 4845,
       "rating_ev": 0,
       "rank": 42,
-      "win_prob": 81.6,
+      "win_prob": 82.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5188,
-      "rating2": 5038,
+      "rating1": 5199,
+      "rating2": 5055,
       "rating_ev": 0,
       "rank": 42,
-      "win_prob": 65.9,
+      "win_prob": 65.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5188,
+      "rating1": 5199,
       "rating2": 4833,
       "rating_ev": 0,
       "rank": 42,
-      "win_prob": 82.4,
+      "win_prob": 83.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 5188,
-      "rating2": 4941,
+      "rating1": 5199,
+      "rating2": 4950,
       "rating_ev": 0,
       "rank": 42,
-      "win_prob": 74.7,
+      "win_prob": 74.8,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Saudi Arabia",
       "flag1": "algeria.png",
       "flag2": "saudi_arabia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5188,
-      "rating2": 5000,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5199,
+      "rating2": 4989,
+      "rating_ev": 11,
       "rank": 42,
       "win_prob": 59.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

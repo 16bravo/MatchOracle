@@ -1,14 +1,14 @@
 {
   "team": "Spain",
   "stats": {
-    "matches_played": 777,
+    "matches_played": 778,
     "wins": 460,
-    "draws": 179,
+    "draws": 180,
     "losses": 138,
-    "goals_for": 1586,
-    "goals_against": 695,
+    "goals_for": 1588,
+    "goals_against": 697,
     "goal_difference": 891,
-    "win_percentage": 59.2,
+    "win_percentage": 59.1,
     "avg_points": 2.01,
     "best_rank": 1,
     "worst_rank": 18,
@@ -25,15 +25,15 @@
       "date": "1928-06-04",
       "flag": "italy_1.png"
     },
-    "home_matches": 337,
+    "home_matches": 338,
     "away_matches": 302,
     "neutral_matches": 138,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Uruguay",
       "tournament": "Intercont Champ",
       "team1": "Spain",
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5749,
+      "rating1": 5720,
       "rating2": 5608,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 65.0,
+      "win_prob": 62.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Turkey",
       "flag1": "spain.png",
       "flag2": "turkey.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5749,
-      "rating2": 5348,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5720,
+      "rating2": 5377,
+      "rating_ev": -29,
       "rank": 1,
       "win_prob": 89.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

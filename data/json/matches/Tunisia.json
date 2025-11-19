@@ -1,15 +1,15 @@
 {
   "team": "Tunisia",
   "stats": {
-    "matches_played": 747,
+    "matches_played": 748,
     "wins": 319,
-    "draws": 205,
+    "draws": 206,
     "losses": 223,
-    "goals_for": 1058,
-    "goals_against": 803,
+    "goals_for": 1059,
+    "goals_against": 804,
     "goal_difference": 255,
-    "win_percentage": 42.7,
-    "avg_points": 1.56,
+    "win_percentage": 42.6,
+    "avg_points": 1.55,
     "best_rank": 31,
     "worst_rank": 88,
     "avg_rank": 52.64,
@@ -27,9 +27,9 @@
     },
     "home_matches": 328,
     "away_matches": 243,
-    "neutral_matches": 176,
+    "neutral_matches": 177,
     "first_match_date": "1954-05-31",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5112,
+      "rating1": 5124,
       "rating2": 4810,
       "rating_ev": 0,
-      "rank": 55,
-      "win_prob": 78.9,
+      "rank": 52,
+      "win_prob": 79.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5112,
+      "rating1": 5124,
       "rating2": 5102,
       "rating_ev": 0,
-      "rank": 55,
-      "win_prob": 51.1,
+      "rank": 52,
+      "win_prob": 52.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5112,
-      "rating2": 4881,
+      "rating1": 5124,
+      "rating2": 4870,
       "rating_ev": 0,
-      "rank": 55,
-      "win_prob": 73.3,
+      "rank": 52,
+      "win_prob": 75.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5112,
+      "rating1": 5124,
       "rating2": 4856,
       "rating_ev": 0,
-      "rank": 55,
-      "win_prob": 66.4,
+      "rank": 52,
+      "win_prob": 67.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Brazil",
       "flag1": "tunisia.png",
       "flag2": "brazil.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5112,
-      "rating2": 5509,
-      "rating_ev": 0,
-      "rank": 55,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5124,
+      "rating2": 5497,
+      "rating_ev": 12,
+      "rank": 52,
       "win_prob": 15.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

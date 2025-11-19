@@ -1,18 +1,18 @@
 {
   "team": "Slovenia",
   "stats": {
-    "matches_played": 313,
+    "matches_played": 314,
     "wins": 114,
-    "draws": 84,
+    "draws": 85,
     "losses": 115,
-    "goals_for": 388,
-    "goals_against": 365,
+    "goals_for": 389,
+    "goals_against": 366,
     "goal_difference": 23,
-    "win_percentage": 36.4,
+    "win_percentage": 36.3,
     "avg_points": 1.36,
     "best_rank": 24,
     "worst_rank": 69,
-    "avg_rank": 46.15,
+    "avg_rank": 46.14,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Oman",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 142,
-    "away_matches": 141,
+    "away_matches": 142,
     "neutral_matches": 30,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Sweden",
       "flag1": "slovenia.png",
       "flag2": "sweden.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5175,
-      "rating2": 5222,
-      "rating_ev": 0,
-      "rank": 43,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5183,
+      "rating2": 5214,
+      "rating_ev": 8,
+      "rank": 44,
       "win_prob": 34.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

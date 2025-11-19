@@ -1,18 +1,18 @@
 {
   "team": "Turkmenistan",
   "stats": {
-    "matches_played": 181,
-    "wins": 66,
+    "matches_played": 182,
+    "wins": 67,
     "draws": 34,
     "losses": 81,
-    "goals_for": 271,
-    "goals_against": 275,
-    "goal_difference": -4,
-    "win_percentage": 36.5,
-    "avg_points": 1.28,
+    "goals_for": 274,
+    "goals_against": 276,
+    "goal_difference": -2,
+    "win_percentage": 36.8,
+    "avg_points": 1.29,
     "best_rank": 70,
     "worst_rank": 160,
-    "avg_rank": 125.43,
+    "avg_rank": 125.62,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Afghanistan",
@@ -25,11 +25,11 @@
       "date": "1997-06-22",
       "flag": "tajikistan.png"
     },
-    "home_matches": 41,
+    "home_matches": 42,
     "away_matches": 73,
     "neutral_matches": 67,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Taiwan",
       "flag1": "turkmenistan.png",
       "flag2": "taiwan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4553,
-      "rating2": 4136,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4551,
+      "rating2": 4138,
+      "rating_ev": -2,
       "rank": 159,
       "win_prob": 90.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -177,11 +177,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4553,
-      "rating2": 4721,
+      "rating1": 4551,
+      "rating2": 4744,
       "rating_ev": 0,
-      "rank": 159,
-      "win_prob": 23.6,
+      "rank": 160,
+      "win_prob": 21.7,
       "type": "fixture"
     },
     {

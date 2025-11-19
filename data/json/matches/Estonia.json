@@ -1,18 +1,18 @@
 {
   "team": "Estonia",
   "stats": {
-    "matches_played": 536,
-    "wins": 131,
+    "matches_played": 537,
+    "wins": 132,
     "draws": 119,
     "losses": 286,
-    "goals_for": 526,
-    "goals_against": 955,
-    "goal_difference": -429,
-    "win_percentage": 24.4,
+    "goals_for": 530,
+    "goals_against": 957,
+    "goal_difference": -427,
+    "win_percentage": 24.6,
     "avg_points": 0.96,
     "best_rank": 32,
     "worst_rank": 154,
-    "avg_rank": 92.26,
+    "avg_rank": 92.28,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "finland.png"
     },
     "home_matches": 230,
-    "away_matches": 253,
+    "away_matches": 254,
     "neutral_matches": 53,
     "first_match_date": "1920-10-17",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Cyprus",
       "flag1": "estonia.png",
       "flag2": "cyprus.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4824,
-      "rating2": 4817,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 4,
+      "score2": 2,
+      "rating1": 4840,
+      "rating2": 4801,
+      "rating_ev": 16,
+      "rank": 103,
       "win_prob": 39.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

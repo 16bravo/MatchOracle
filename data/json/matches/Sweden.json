@@ -1,18 +1,18 @@
 {
   "team": "Sweden",
   "stats": {
-    "matches_played": 1117,
+    "matches_played": 1118,
     "wins": 549,
-    "draws": 234,
+    "draws": 235,
     "losses": 334,
-    "goals_for": 2223,
-    "goals_against": 1474,
+    "goals_for": 2224,
+    "goals_against": 1475,
     "goal_difference": 749,
     "win_percentage": 49.1,
     "avg_points": 1.68,
     "best_rank": 3,
     "worst_rank": 37,
-    "avg_rank": 16.74,
+    "avg_rank": 16.76,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Latvia",
@@ -25,11 +25,11 @@
       "date": "1908-10-20",
       "flag": "england.png"
     },
-    "home_matches": 486,
+    "home_matches": 487,
     "away_matches": 501,
     "neutral_matches": 130,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Slovenia",
       "flag1": "sweden.png",
       "flag2": "slovenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5222,
-      "rating2": 5175,
-      "rating_ev": 0,
-      "rank": 32,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5214,
+      "rating2": 5183,
+      "rating_ev": -8,
+      "rank": 36,
       "win_prob": 65.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

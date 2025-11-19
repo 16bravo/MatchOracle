@@ -1,18 +1,18 @@
 {
   "team": "Guyana",
   "stats": {
-    "matches_played": 448,
-    "wins": 139,
+    "matches_played": 449,
+    "wins": 140,
     "draws": 89,
     "losses": 220,
-    "goals_for": 574,
-    "goals_against": 777,
-    "goal_difference": -203,
-    "win_percentage": 31.0,
+    "goals_for": 578,
+    "goals_against": 778,
+    "goal_difference": -200,
+    "win_percentage": 31.2,
     "avg_points": 1.13,
     "best_rank": 15,
     "worst_rank": 184,
-    "avg_rank": 121.12,
+    "avg_rank": 121.19,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Anguilla",
@@ -26,14 +26,14 @@
       "flag": "netherlands.png"
     },
     "home_matches": 110,
-    "away_matches": 190,
+    "away_matches": 191,
     "neutral_matches": 148,
     "first_match_date": "1905-07-21",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Guyana",
@@ -44,15 +44,15 @@
       "flag2": "aruba.png",
       "score1": "",
       "score2": "",
-      "rating1": 4603,
+      "rating1": 4620,
       "rating2": 4162,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 87.0,
+      "rank": 152,
+      "win_prob": 87.8,
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Guyana",
@@ -63,11 +63,11 @@
       "flag2": "barbados.png",
       "score1": "",
       "score2": "",
-      "rating1": 4603,
+      "rating1": 4620,
       "rating2": 4109,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 89.3,
+      "rank": 152,
+      "win_prob": 89.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Antigua and Barbuda",
       "flag1": "guyana.png",
       "flag2": "antigua.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4603,
-      "rating2": 4091,
-      "rating_ev": 0,
-      "rank": 154,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 4620,
+      "rating2": 4074,
+      "rating_ev": 17,
+      "rank": 152,
       "win_prob": 85.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

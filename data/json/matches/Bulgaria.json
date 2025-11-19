@@ -1,18 +1,18 @@
 {
   "team": "Bulgaria",
   "stats": {
-    "matches_played": 767,
-    "wins": 277,
+    "matches_played": 768,
+    "wins": 278,
     "draws": 191,
     "losses": 299,
-    "goals_for": 1052,
-    "goals_against": 1141,
-    "goal_difference": -89,
-    "win_percentage": 36.1,
+    "goals_for": 1054,
+    "goals_against": 1142,
+    "goal_difference": -88,
+    "win_percentage": 36.2,
     "avg_points": 1.33,
     "best_rank": 10,
     "worst_rank": 97,
-    "avg_rank": 34.13,
+    "avg_rank": 34.2,
     "biggest_win": {
       "score": "10-2",
       "opponent": "Singapore",
@@ -25,11 +25,11 @@
       "date": "1933-05-21",
       "flag": "spain_2.png"
     },
-    "home_matches": 294,
+    "home_matches": 295,
     "away_matches": 396,
     "neutral_matches": 77,
     "first_match_date": "1924-05-21",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Georgia",
       "flag1": "bulgaria.png",
       "flag2": "georgia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4862,
-      "rating2": 5197,
-      "rating_ev": 0,
-      "rank": 98,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4890,
+      "rating2": 5169,
+      "rating_ev": 28,
+      "rank": 90,
       "win_prob": 26.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

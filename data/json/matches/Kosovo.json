@@ -1,18 +1,18 @@
 {
   "team": "Kosovo",
   "stats": {
-    "matches_played": 102,
+    "matches_played": 103,
     "wins": 40,
-    "draws": 22,
+    "draws": 23,
     "losses": 40,
-    "goals_for": 140,
-    "goals_against": 138,
+    "goals_for": 141,
+    "goals_against": 139,
     "goal_difference": 2,
-    "win_percentage": 39.2,
+    "win_percentage": 38.8,
     "avg_points": 1.39,
-    "best_rank": 43,
+    "best_rank": 41,
     "worst_rank": 104,
-    "avg_rank": 72.17,
+    "avg_rank": 71.86,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Malta",
@@ -25,11 +25,11 @@
       "date": "2016-10-06",
       "flag": "croatia.png"
     },
-    "home_matches": 46,
+    "home_matches": 47,
     "away_matches": 37,
     "neutral_matches": 19,
     "first_match_date": "1993-02-14",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Switzerland",
       "flag1": "kosovo.png",
       "flag2": "switzerland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5190,
-      "rating2": 5451,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5200,
+      "rating2": 5441,
+      "rating_ev": 10,
       "rank": 41,
       "win_prob": 33.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

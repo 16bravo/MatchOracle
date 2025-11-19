@@ -1,18 +1,18 @@
 {
   "team": "Uganda",
   "stats": {
-    "matches_played": 710,
+    "matches_played": 711,
     "wins": 299,
     "draws": 185,
-    "losses": 226,
+    "losses": 227,
     "goals_for": 1071,
-    "goals_against": 843,
-    "goal_difference": 228,
+    "goals_against": 847,
+    "goal_difference": 224,
     "win_percentage": 42.1,
     "avg_points": 1.52,
     "best_rank": 25,
     "worst_rank": 127,
-    "avg_rank": 82.57,
+    "avg_rank": 82.59,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Kenya",
@@ -26,10 +26,10 @@
       "flag": "ethiopia_1.png"
     },
     "home_matches": 242,
-    "away_matches": 239,
+    "away_matches": 240,
     "neutral_matches": 229,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4881,
+      "rating1": 4870,
       "rating2": 5102,
       "rating_ev": 0,
-      "rank": 95,
-      "win_prob": 27.5,
+      "rank": 96,
+      "win_prob": 26.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4881,
+      "rating1": 4870,
       "rating2": 4810,
       "rating_ev": 0,
-      "rank": 95,
-      "win_prob": 57.8,
+      "rank": 96,
+      "win_prob": 56.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4881,
-      "rating2": 5112,
+      "rating1": 4870,
+      "rating2": 5124,
       "rating_ev": 0,
-      "rank": 95,
-      "win_prob": 26.7,
+      "rank": 96,
+      "win_prob": 24.8,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Morocco",
       "flag1": "uganda.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4881,
-      "rating2": 5327,
-      "rating_ev": 0,
-      "rank": 95,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4870,
+      "rating2": 5338,
+      "rating_ev": -11,
+      "rank": 96,
       "win_prob": 8.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

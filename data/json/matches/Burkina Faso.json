@@ -1,18 +1,18 @@
 {
   "team": "Burkina Faso",
   "stats": {
-    "matches_played": 470,
-    "wins": 164,
+    "matches_played": 471,
+    "wins": 165,
     "draws": 126,
     "losses": 180,
-    "goals_for": 585,
+    "goals_for": 588,
     "goals_against": 636,
-    "goal_difference": -51,
-    "win_percentage": 34.9,
-    "avg_points": 1.31,
+    "goal_difference": -48,
+    "win_percentage": 35.0,
+    "avg_points": 1.32,
     "best_rank": 60,
     "worst_rank": 122,
-    "avg_rank": 91.65,
+    "avg_rank": 91.59,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 125,
     "away_matches": 176,
-    "neutral_matches": 169,
+    "neutral_matches": 170,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5038,
+      "rating1": 5055,
       "rating2": 4833,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 71.1,
+      "rank": 67,
+      "win_prob": 72.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5038,
-      "rating2": 5188,
+      "rating1": 5055,
+      "rating2": 5199,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 34.1,
+      "rank": 67,
+      "win_prob": 34.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5038,
+      "rating1": 5055,
       "rating2": 4845,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 70.0,
+      "rank": 67,
+      "win_prob": 71.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Benin",
       "flag1": "burkina.png",
       "flag2": "benin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5038,
-      "rating2": 4917,
-      "rating_ev": 0,
-      "rank": 69,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5055,
+      "rating2": 4900,
+      "rating_ev": 17,
+      "rank": 66,
       "win_prob": 63.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

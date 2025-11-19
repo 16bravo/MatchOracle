@@ -1,18 +1,18 @@
 {
   "team": "Oman",
   "stats": {
-    "matches_played": 584,
+    "matches_played": 585,
     "wins": 222,
     "draws": 147,
-    "losses": 215,
+    "losses": 216,
     "goals_for": 753,
-    "goals_against": 771,
-    "goal_difference": -18,
-    "win_percentage": 38.0,
+    "goals_against": 773,
+    "goal_difference": -20,
+    "win_percentage": 37.9,
     "avg_points": 1.39,
     "best_rank": 53,
     "worst_rank": 174,
-    "avg_rank": 101.45,
+    "avg_rank": 101.44,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Bhutan",
@@ -25,11 +25,11 @@
       "date": "1966-04-01",
       "flag": "libya.png"
     },
-    "home_matches": 225,
+    "home_matches": 226,
     "away_matches": 144,
     "neutral_matches": 215,
     "first_match_date": "1965-09-02",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4869,
+      "rating1": 4860,
       "rating2": 4449,
       "rating_ev": 0,
-      "rank": 97,
-      "win_prob": 86.0,
+      "rank": 98,
+      "win_prob": 85.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Ivory Coast",
       "flag1": "oman.png",
       "flag2": "ivory_coast.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4869,
-      "rating2": 5110,
-      "rating_ev": 0,
-      "rank": 97,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4860,
+      "rating2": 5119,
+      "rating_ev": -9,
+      "rank": 98,
       "win_prob": 35.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

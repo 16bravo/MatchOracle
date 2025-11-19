@@ -1,18 +1,18 @@
 {
   "team": "United States",
   "stats": {
-    "matches_played": 818,
-    "wins": 364,
+    "matches_played": 819,
+    "wins": 365,
     "draws": 171,
     "losses": 283,
-    "goals_for": 1236,
-    "goals_against": 1062,
-    "goal_difference": 174,
-    "win_percentage": 44.5,
-    "avg_points": 1.54,
+    "goals_for": 1241,
+    "goals_against": 1063,
+    "goal_difference": 178,
+    "win_percentage": 44.6,
+    "avg_points": 1.55,
     "best_rank": 12,
     "worst_rank": 94,
-    "avg_rank": 38.01,
+    "avg_rank": 38.0,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Barbados",
@@ -25,11 +25,11 @@
       "date": "1948-08-06",
       "flag": "norway.png"
     },
-    "home_matches": 482,
+    "home_matches": 483,
     "away_matches": 251,
     "neutral_matches": 85,
     "first_match_date": "1916-08-20",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Uruguay",
       "flag1": "usa.png",
       "flag2": "uruguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5211,
-      "rating2": 5409,
-      "rating_ev": 0,
-      "rank": 37,
+      "score1": 5,
+      "score2": 1,
+      "rating1": 5241,
+      "rating2": 5379,
+      "rating_ev": 30,
+      "rank": 31,
       "win_prob": 39.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",
@@ -297,6 +297,25 @@
       "rank": 34,
       "win_prob": 52.1,
       "type": "past"
+    },
+    {
+      "date": "2025-03-31",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "United States",
+      "team2": "Portugal",
+      "original_team1": "United States",
+      "original_team2": "Portugal",
+      "flag1": "usa.png",
+      "flag2": "portugal.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5241,
+      "rating2": 5562,
+      "rating_ev": 0,
+      "rank": 31,
+      "win_prob": 27.7,
+      "type": "fixture"
     },
     {
       "date": "2025-03-23",

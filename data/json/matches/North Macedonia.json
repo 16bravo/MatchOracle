@@ -1,18 +1,18 @@
 {
   "team": "North Macedonia",
   "stats": {
-    "matches_played": 300,
+    "matches_played": 301,
     "wins": 95,
     "draws": 77,
-    "losses": 128,
-    "goals_for": 363,
-    "goals_against": 396,
-    "goal_difference": -33,
-    "win_percentage": 31.7,
-    "avg_points": 1.21,
+    "losses": 129,
+    "goals_for": 364,
+    "goals_against": 403,
+    "goal_difference": -39,
+    "win_percentage": 31.6,
+    "avg_points": 1.2,
     "best_rank": 37,
     "worst_rank": 86,
-    "avg_rank": 62.7,
+    "avg_rank": 62.72,
     "biggest_win": {
       "score": "11-1",
       "opponent": "Liechtenstein",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 35,
-    "away_matches": 129,
+    "away_matches": 130,
     "neutral_matches": 136,
     "first_match_date": "1993-10-13",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Wales",
       "flag1": "macedonia.png",
       "flag2": "wales.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5107,
-      "rating2": 5155,
-      "rating_ev": 0,
-      "rank": 58,
+      "score1": 1,
+      "score2": 7,
+      "rating1": 5040,
+      "rating2": 5222,
+      "rating_ev": -67,
+      "rank": 68,
       "win_prob": 34.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

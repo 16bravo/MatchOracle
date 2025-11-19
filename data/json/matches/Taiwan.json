@@ -1,18 +1,18 @@
 {
   "team": "Taiwan",
   "stats": {
-    "matches_played": 335,
+    "matches_played": 336,
     "wins": 95,
     "draws": 51,
-    "losses": 189,
-    "goals_for": 460,
-    "goals_against": 781,
-    "goal_difference": -321,
-    "win_percentage": 28.4,
+    "losses": 190,
+    "goals_for": 461,
+    "goals_against": 784,
+    "goal_difference": -323,
+    "win_percentage": 28.3,
     "avg_points": 1.0,
     "best_rank": 49,
     "worst_rank": 202,
-    "avg_rank": 153.95,
+    "avg_rank": 154.06,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "kuwait.png"
     },
     "home_matches": 93,
-    "away_matches": 107,
+    "away_matches": 108,
     "neutral_matches": 135,
     "first_match_date": "1954-05-01",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Turkmenistan",
       "flag1": "taiwan.png",
       "flag2": "turkmenistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4136,
-      "rating2": 4553,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4138,
+      "rating2": 4551,
+      "rating_ev": 2,
       "rank": 190,
       "win_prob": 9.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -158,11 +158,11 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4136,
-      "rating2": 4100,
+      "rating1": 4138,
+      "rating2": 4077,
       "rating_ev": 0,
-      "rank": 190,
-      "win_prob": 64.5,
+      "rank": 189,
+      "win_prob": 67.0,
       "type": "fixture"
     },
     {

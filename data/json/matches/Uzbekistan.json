@@ -1,18 +1,18 @@
 {
   "team": "Uzbekistan",
   "stats": {
-    "matches_played": 359,
+    "matches_played": 360,
     "wins": 177,
-    "draws": 72,
+    "draws": 73,
     "losses": 110,
     "goals_for": 627,
     "goals_against": 394,
     "goal_difference": 233,
-    "win_percentage": 49.3,
+    "win_percentage": 49.2,
     "avg_points": 1.68,
     "best_rank": 38,
     "worst_rank": 98,
-    "avg_rank": 65.93,
+    "avg_rank": 65.89,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Mongolia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 127,
     "away_matches": 128,
-    "neutral_matches": 104,
+    "neutral_matches": 105,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Iran",
       "flag1": "uzbekistan.png",
       "flag2": "iran.png",
-      "score1": "",
-      "score2": "",
+      "score1": 0,
+      "score2": 0,
       "rating1": 5123,
       "rating2": 5130,
       "rating_ev": 0,
       "rank": 52,
       "win_prob": 49.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

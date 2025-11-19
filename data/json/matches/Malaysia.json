@@ -1,18 +1,18 @@
 {
   "team": "Malaysia",
   "stats": {
-    "matches_played": 918,
-    "wins": 355,
+    "matches_played": 919,
+    "wins": 356,
     "draws": 208,
     "losses": 355,
-    "goals_for": 1494,
+    "goals_for": 1495,
     "goals_against": 1346,
-    "goal_difference": 148,
+    "goal_difference": 149,
     "win_percentage": 38.7,
     "avg_points": 1.39,
     "best_rank": 60,
     "worst_rank": 183,
-    "avg_rank": 120.96,
+    "avg_rank": 120.99,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Philippines",
@@ -25,11 +25,11 @@
       "date": "2015-09-03",
       "flag": "uae.png"
     },
-    "home_matches": 345,
+    "home_matches": 346,
     "away_matches": 231,
     "neutral_matches": 342,
     "first_match_date": "1948-06-20",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Nepal",
       "flag1": "malaysia.png",
       "flag2": "nepal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4618,
-      "rating2": 4168,
-      "rating_ev": 0,
-      "rank": 152,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4600,
+      "rating2": 4186,
+      "rating_ev": -18,
+      "rank": 154,
       "win_prob": 91.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -196,11 +196,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 4618,
+      "rating1": 4600,
       "rating2": 4647,
       "rating_ev": 0,
-      "rank": 152,
-      "win_prob": 36.2,
+      "rank": 154,
+      "win_prob": 34.4,
       "type": "fixture"
     },
     {

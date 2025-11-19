@@ -1,18 +1,18 @@
 {
   "team": "Bhutan",
   "stats": {
-    "matches_played": 109,
+    "matches_played": 110,
     "wins": 10,
     "draws": 7,
-    "losses": 92,
-    "goals_for": 59,
-    "goals_against": 399,
-    "goal_difference": -340,
-    "win_percentage": 9.2,
+    "losses": 93,
+    "goals_for": 60,
+    "goals_against": 406,
+    "goal_difference": -346,
+    "win_percentage": 9.1,
     "avg_points": 0.34,
     "best_rank": 182,
     "worst_rank": 214,
-    "avg_rank": 207.11,
+    "avg_rank": 207.13,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 18,
     "away_matches": 39,
-    "neutral_matches": 52,
+    "neutral_matches": 53,
     "first_match_date": "1982-04-30",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Yemen",
       "flag1": "bhutan.png",
       "flag2": "yemen.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3728,
-      "rating2": 4533,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 7,
+      "rating1": 3698,
+      "rating2": 4563,
+      "rating_ev": -30,
       "rank": 209,
       "win_prob": 3.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",
@@ -158,11 +158,11 @@
       "flag2": "brunei.png",
       "score1": "",
       "score2": "",
-      "rating1": 3728,
-      "rating2": 3651,
+      "rating1": 3698,
+      "rating2": 3660,
       "rating_ev": 0,
       "rank": 209,
-      "win_prob": 68.5,
+      "win_prob": 64.7,
       "type": "fixture"
     },
     {

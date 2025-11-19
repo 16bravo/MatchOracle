@@ -1,18 +1,18 @@
 {
   "team": "Malawi",
   "stats": {
-    "matches_played": 661,
-    "wins": 218,
+    "matches_played": 662,
+    "wins": 219,
     "draws": 191,
     "losses": 252,
-    "goals_for": 768,
+    "goals_for": 769,
     "goals_against": 854,
-    "goal_difference": -86,
-    "win_percentage": 33.0,
+    "goal_difference": -85,
+    "win_percentage": 33.1,
     "avg_points": 1.28,
     "best_rank": 53,
     "worst_rank": 144,
-    "avg_rank": 103.18,
+    "avg_rank": 103.23,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Botswana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 285,
     "away_matches": 226,
-    "neutral_matches": 150,
+    "neutral_matches": 151,
     "first_match_date": "1957-12-31",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Lesotho",
       "flag1": "malawi.png",
       "flag2": "lesotho.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4702,
-      "rating2": 4629,
-      "rating_ev": 0,
-      "rank": 138,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4707,
+      "rating2": 4624,
+      "rating_ev": 5,
+      "rank": 137,
       "win_prob": 58.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

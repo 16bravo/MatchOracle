@@ -1,18 +1,18 @@
 {
   "team": "Peru",
   "stats": {
-    "matches_played": 707,
+    "matches_played": 708,
     "wins": 229,
     "draws": 175,
-    "losses": 303,
-    "goals_for": 858,
-    "goals_against": 986,
-    "goal_difference": -128,
-    "win_percentage": 32.4,
+    "losses": 304,
+    "goals_for": 859,
+    "goals_against": 988,
+    "goal_difference": -129,
+    "win_percentage": 32.3,
     "avg_points": 1.22,
     "best_rank": 13,
     "worst_rank": 76,
-    "avg_rank": 32.03,
+    "avg_rank": 32.04,
     "biggest_win": {
       "score": "9-1",
       "opponent": "Ecuador",
@@ -27,9 +27,9 @@
     },
     "home_matches": 268,
     "away_matches": 253,
-    "neutral_matches": 186,
+    "neutral_matches": 187,
     "first_match_date": "1927-11-01",
-    "last_match_date": "2025-11-12"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bolivia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5213,
-      "rating2": 5089,
+      "rating1": 5206,
+      "rating2": 5081,
       "rating_ev": 0,
-      "rank": 36,
-      "win_prob": 72.8,
+      "rank": 39,
+      "win_prob": 72.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Chile",
       "flag1": "peru.png",
       "flag2": "chile.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5213,
-      "rating2": 5220,
-      "rating_ev": 0,
-      "rank": 36,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5206,
+      "rating2": 5227,
+      "rating_ev": -7,
+      "rank": 39,
       "win_prob": 49.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-12",

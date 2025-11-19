@@ -1,18 +1,18 @@
 {
   "team": "Saudi Arabia",
   "stats": {
-    "matches_played": 803,
+    "matches_played": 804,
     "wins": 384,
     "draws": 187,
-    "losses": 232,
+    "losses": 233,
     "goals_for": 1247,
-    "goals_against": 856,
-    "goal_difference": 391,
+    "goals_against": 858,
+    "goal_difference": 389,
     "win_percentage": 47.8,
     "avg_points": 1.67,
     "best_rank": 37,
     "worst_rank": 127,
-    "avg_rank": 66.81,
+    "avg_rank": 66.82,
     "biggest_win": {
       "score": "10-0",
       "opponent": "East Timor",
@@ -25,11 +25,11 @@
       "date": "1961-09-03",
       "flag": "uar.png"
     },
-    "home_matches": 314,
+    "home_matches": 315,
     "away_matches": 146,
     "neutral_matches": 343,
     "first_match_date": "1957-10-18",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5000,
-      "rating2": 5327,
+      "rating1": 4989,
+      "rating2": 5338,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 19.4,
+      "rank": 75,
+      "win_prob": 18.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Algeria",
       "flag1": "saudi_arabia.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5000,
-      "rating2": 5188,
-      "rating_ev": 0,
-      "rank": 74,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4989,
+      "rating2": 5199,
+      "rating_ev": -11,
+      "rank": 75,
       "win_prob": 40.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

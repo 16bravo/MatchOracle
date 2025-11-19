@@ -1,18 +1,18 @@
 {
   "team": "Yemen",
   "stats": {
-    "matches_played": 287,
-    "wins": 63,
+    "matches_played": 288,
+    "wins": 64,
     "draws": 55,
     "losses": 169,
-    "goals_for": 285,
-    "goals_against": 571,
-    "goal_difference": -286,
-    "win_percentage": 22.0,
-    "avg_points": 0.85,
+    "goals_for": 292,
+    "goals_against": 572,
+    "goal_difference": -280,
+    "win_percentage": 22.2,
+    "avg_points": 0.86,
     "best_rank": 113,
     "worst_rank": 168,
-    "avg_rank": 147.65,
+    "avg_rank": 147.69,
     "biggest_win": {
       "score": "11-2",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 49,
     "away_matches": 85,
-    "neutral_matches": 153,
+    "neutral_matches": 154,
     "first_match_date": "1965-09-02",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 4533,
+      "rating1": 4563,
       "rating2": 4870,
       "rating_ev": 0,
-      "rank": 162,
-      "win_prob": 18.8,
+      "rank": 159,
+      "win_prob": 20.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bhutan",
       "flag1": "yemen.png",
       "flag2": "bhutan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4533,
-      "rating2": 3728,
-      "rating_ev": 0,
-      "rank": 162,
+      "score1": 7,
+      "score2": 1,
+      "rating1": 4563,
+      "rating2": 3698,
+      "rating_ev": 30,
+      "rank": 159,
       "win_prob": 96.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -139,11 +139,11 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4533,
-      "rating2": 4694,
+      "rating1": 4563,
+      "rating2": 4685,
       "rating_ev": 0,
-      "rank": 162,
-      "win_prob": 24.1,
+      "rank": 159,
+      "win_prob": 27.4,
       "type": "fixture"
     },
     {

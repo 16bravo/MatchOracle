@@ -1,18 +1,18 @@
 {
   "team": "Iraq",
   "stats": {
-    "matches_played": 747,
-    "wins": 352,
+    "matches_played": 748,
+    "wins": 353,
     "draws": 211,
     "losses": 184,
-    "goals_for": 1184,
-    "goals_against": 693,
-    "goal_difference": 491,
-    "win_percentage": 47.1,
+    "goals_for": 1186,
+    "goals_against": 694,
+    "goal_difference": 492,
+    "win_percentage": 47.2,
     "avg_points": 1.7,
     "best_rank": 34,
     "worst_rank": 101,
-    "avg_rank": 62.71,
+    "avg_rank": 62.74,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Ethiopia",
@@ -25,11 +25,11 @@
       "date": "2012-10-11",
       "flag": "brazil.png"
     },
-    "home_matches": 137,
+    "home_matches": 138,
     "away_matches": 230,
     "neutral_matches": 380,
     "first_match_date": "1944-03-05",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4941,
-      "rating2": 5188,
+      "rating1": 4950,
+      "rating2": 5199,
       "rating_ev": 0,
-      "rank": 81,
-      "win_prob": 25.3,
+      "rank": 79,
+      "win_prob": 25.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "United Arab Emirates",
       "flag1": "iraq.png",
       "flag2": "uae.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4941,
-      "rating2": 4951,
-      "rating_ev": 0,
-      "rank": 81,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4950,
+      "rating2": 4942,
+      "rating_ev": 9,
+      "rank": 80,
       "win_prob": 59.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

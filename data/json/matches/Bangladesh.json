@@ -1,18 +1,18 @@
 {
   "team": "Bangladesh",
   "stats": {
-    "matches_played": 322,
-    "wins": 84,
+    "matches_played": 323,
+    "wins": 85,
     "draws": 73,
     "losses": 165,
-    "goals_for": 289,
+    "goals_for": 290,
     "goals_against": 577,
-    "goal_difference": -288,
-    "win_percentage": 26.1,
-    "avg_points": 1.01,
+    "goal_difference": -287,
+    "win_percentage": 26.3,
+    "avg_points": 1.02,
     "best_rank": 144,
     "worst_rank": 200,
-    "avg_rank": 178.55,
+    "avg_rank": 178.56,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Maldives",
@@ -25,11 +25,11 @@
       "date": "1979-09-16",
       "flag": "south_korea.png"
     },
-    "home_matches": 91,
+    "home_matches": 92,
     "away_matches": 90,
     "neutral_matches": 141,
     "first_match_date": "1973-07-27",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "India",
       "flag1": "bangladesh.png",
       "flag2": "india.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4214,
-      "rating2": 4499,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4239,
+      "rating2": 4474,
+      "rating_ev": 25,
       "rank": 180,
       "win_prob": 30.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",
@@ -177,11 +177,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4214,
-      "rating2": 4361,
+      "rating1": 4239,
+      "rating2": 4392,
       "rating_ev": 0,
-      "rank": 180,
-      "win_prob": 25.3,
+      "rank": 179,
+      "win_prob": 24.8,
       "type": "fixture"
     },
     {

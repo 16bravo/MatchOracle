@@ -1,18 +1,18 @@
 {
   "team": "Jordan",
   "stats": {
-    "matches_played": 550,
+    "matches_played": 551,
     "wins": 194,
-    "draws": 149,
+    "draws": 150,
     "losses": 207,
     "goals_for": 682,
     "goals_against": 662,
     "goal_difference": 20,
-    "win_percentage": 35.3,
+    "win_percentage": 35.2,
     "avg_points": 1.33,
     "best_rank": 53,
     "worst_rank": 141,
-    "avg_rank": 91.92,
+    "avg_rank": 91.87,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Nepal",
@@ -27,9 +27,9 @@
     },
     "home_matches": 194,
     "away_matches": 177,
-    "neutral_matches": 179,
+    "neutral_matches": 180,
     "first_match_date": "1953-08-01",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5055,
+      "rating1": 5057,
       "rating2": 5067,
       "rating_ev": 0,
       "rank": 66,
-      "win_prob": 48.7,
+      "win_prob": 48.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 5055,
-      "rating2": 4951,
+      "rating1": 5057,
+      "rating2": 4942,
       "rating_ev": 0,
       "rank": 66,
-      "win_prob": 61.2,
+      "win_prob": 62.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Mali",
       "flag1": "jordan.png",
       "flag2": "mali.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5055,
-      "rating2": 5136,
-      "rating_ev": 0,
-      "rank": 66,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5057,
+      "rating2": 5134,
+      "rating_ev": 2,
+      "rank": 65,
       "win_prob": 41.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

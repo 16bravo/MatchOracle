@@ -1,18 +1,18 @@
 {
   "team": "Maldives",
   "stats": {
-    "matches_played": 234,
+    "matches_played": 235,
     "wins": 66,
     "draws": 40,
-    "losses": 128,
+    "losses": 129,
     "goals_for": 286,
-    "goals_against": 519,
-    "goal_difference": -233,
-    "win_percentage": 28.2,
-    "avg_points": 1.02,
+    "goals_against": 521,
+    "goal_difference": -235,
+    "win_percentage": 28.1,
+    "avg_points": 1.01,
     "best_rank": 161,
     "worst_rank": 205,
-    "avg_rank": 184.81,
+    "avg_rank": 184.84,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Mongolia",
@@ -25,11 +25,11 @@
       "date": "1997-06-02",
       "flag": "iran.png"
     },
-    "home_matches": 60,
+    "home_matches": 61,
     "away_matches": 82,
     "neutral_matches": 92,
     "first_match_date": "1979-08-27",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Philippines",
       "flag1": "maldives.png",
       "flag2": "philippines.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4122,
-      "rating2": 4474,
-      "rating_ev": 0,
-      "rank": 191,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4109,
+      "rating2": 4487,
+      "rating_ev": -13,
+      "rank": 193,
       "win_prob": 25.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -196,11 +196,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 4122,
-      "rating2": 3829,
+      "rating1": 4109,
+      "rating2": 3809,
       "rating_ev": 0,
-      "rank": 191,
-      "win_prob": 84.8,
+      "rank": 192,
+      "win_prob": 85.2,
       "type": "fixture"
     },
     {

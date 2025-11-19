@@ -1,18 +1,18 @@
 {
   "team": "San Marino",
   "stats": {
-    "matches_played": 223,
+    "matches_played": 224,
     "wins": 3,
     "draws": 11,
-    "losses": 209,
-    "goals_for": 40,
-    "goals_against": 882,
-    "goal_difference": -842,
+    "losses": 210,
+    "goals_for": 41,
+    "goals_against": 889,
+    "goal_difference": -848,
     "win_percentage": 1.3,
     "avg_points": 0.09,
     "best_rank": 156,
     "worst_rank": 196,
-    "avg_rank": 182.65,
+    "avg_rank": 182.63,
     "biggest_win": {
       "score": "3-1",
       "opponent": "Liechtenstein",
@@ -26,10 +26,10 @@
       "flag": "germany.png"
     },
     "home_matches": 107,
-    "away_matches": 109,
+    "away_matches": 110,
     "neutral_matches": 7,
     "first_match_date": "1987-09-16",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Romania",
       "flag1": "san_marino.png",
       "flag2": "romania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4260,
-      "rating2": 5134,
-      "rating_ev": 0,
-      "rank": 178,
+      "score1": 1,
+      "score2": 7,
+      "rating1": 4238,
+      "rating2": 5156,
+      "rating_ev": -22,
+      "rank": 180,
       "win_prob": 1.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

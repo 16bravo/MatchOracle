@@ -1,18 +1,18 @@
 {
   "team": "Faroe Islands",
   "stats": {
-    "matches_played": 272,
-    "wins": 42,
+    "matches_played": 273,
+    "wins": 43,
     "draws": 36,
     "losses": 194,
-    "goals_for": 189,
+    "goals_for": 190,
     "goals_against": 633,
-    "goal_difference": -444,
-    "win_percentage": 15.4,
+    "goal_difference": -443,
+    "win_percentage": 15.8,
     "avg_points": 0.6,
     "best_rank": 64,
     "worst_rank": 163,
-    "avg_rank": 129.58,
+    "avg_rank": 129.41,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Liechtenstein",
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 137,
-    "neutral_matches": 19,
+    "neutral_matches": 20,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Kazakhstan",
       "flag1": "faroe.png",
       "flag2": "kazakhstan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4930,
-      "rating2": 4885,
-      "rating_ev": 0,
-      "rank": 84,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4936,
+      "rating2": 4879,
+      "rating_ev": 6,
+      "rank": 82,
       "win_prob": 54.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",
