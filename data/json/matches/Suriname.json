@@ -1,14 +1,14 @@
 {
   "team": "Suriname",
   "stats": {
-    "matches_played": 528,
+    "matches_played": 529,
     "wins": 230,
     "draws": 125,
-    "losses": 173,
-    "goals_for": 954,
-    "goals_against": 717,
-    "goal_difference": 237,
-    "win_percentage": 43.6,
+    "losses": 174,
+    "goals_for": 955,
+    "goals_against": 720,
+    "goal_difference": 235,
+    "win_percentage": 43.5,
     "avg_points": 1.54,
     "best_rank": 28,
     "worst_rank": 168,
@@ -26,10 +26,10 @@
       "flag": "netherlands.png"
     },
     "home_matches": 219,
-    "away_matches": 221,
+    "away_matches": 222,
     "neutral_matches": 88,
     "first_match_date": "1915-08-17",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Guatemala",
       "flag1": "suriname.png",
       "flag2": "guatemala.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4886,
-      "rating2": 4911,
-      "rating_ev": 0,
-      "rank": 92,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4866,
+      "rating2": 4931,
+      "rating_ev": -20,
+      "rank": 97,
       "win_prob": 36.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

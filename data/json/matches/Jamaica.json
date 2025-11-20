@@ -1,18 +1,18 @@
 {
   "team": "Jamaica",
   "stats": {
-    "matches_played": 711,
+    "matches_played": 712,
     "wins": 275,
-    "draws": 167,
+    "draws": 168,
     "losses": 269,
     "goals_for": 948,
     "goals_against": 935,
     "goal_difference": 13,
-    "win_percentage": 38.7,
-    "avg_points": 1.4,
+    "win_percentage": 38.6,
+    "avg_points": 1.39,
     "best_rank": 49,
     "worst_rank": 146,
-    "avg_rank": 86.32,
+    "avg_rank": 86.31,
     "biggest_win": {
       "score": "12-0",
       "opponent": "British Virgin Islands",
@@ -25,11 +25,11 @@
       "date": "1999-02-24",
       "flag": "costa_rica.png"
     },
-    "home_matches": 269,
+    "home_matches": 270,
     "away_matches": 268,
     "neutral_matches": 174,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Cura\u00e7ao",
       "flag1": "jamaica.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4935,
-      "rating2": 4887,
-      "rating_ev": 0,
-      "rank": 83,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4926,
+      "rating2": 4896,
+      "rating_ev": -9,
+      "rank": 84,
       "win_prob": 65.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

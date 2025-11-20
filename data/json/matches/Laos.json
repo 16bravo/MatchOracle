@@ -1,18 +1,18 @@
 {
   "team": "Laos",
   "stats": {
-    "matches_played": 232,
+    "matches_played": 233,
     "wins": 42,
     "draws": 35,
-    "losses": 155,
+    "losses": 156,
     "goals_for": 234,
-    "goals_against": 734,
-    "goal_difference": -500,
-    "win_percentage": 18.1,
+    "goals_against": 736,
+    "goal_difference": -502,
+    "win_percentage": 18.0,
     "avg_points": 0.69,
     "best_rank": 149,
     "worst_rank": 207,
-    "avg_rank": 191.93,
+    "avg_rank": 191.98,
     "biggest_win": {
       "score": "6-1",
       "opponent": "East Timor",
@@ -25,11 +25,11 @@
       "date": "1963-11-15",
       "flag": null
     },
-    "home_matches": 47,
+    "home_matches": 48,
     "away_matches": 68,
     "neutral_matches": 117,
     "first_match_date": "1961-12-12",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-19"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Vietnam",
       "flag1": "laos.png",
       "flag2": "vietnam.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3917,
-      "rating2": 4647,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 3925,
+      "rating2": 4639,
+      "rating_ev": 8,
       "rank": 204,
       "win_prob": 7.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -120,11 +120,11 @@
       "flag2": "nepal.png",
       "score1": "",
       "score2": "",
-      "rating1": 3917,
+      "rating1": 3925,
       "rating2": 4186,
       "rating_ev": 0,
       "rank": 204,
-      "win_prob": 16.6,
+      "win_prob": 17.1,
       "type": "fixture"
     },
     {

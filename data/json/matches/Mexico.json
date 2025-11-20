@@ -1,18 +1,18 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1018,
+    "matches_played": 1019,
     "wins": 526,
     "draws": 235,
-    "losses": 257,
-    "goals_for": 1808,
-    "goals_against": 1050,
-    "goal_difference": 758,
-    "win_percentage": 51.7,
+    "losses": 258,
+    "goals_for": 1809,
+    "goals_against": 1052,
+    "goal_difference": 757,
+    "win_percentage": 51.6,
     "avg_points": 1.78,
     "best_rank": 2,
     "worst_rank": 41,
-    "avg_rank": 21.53,
+    "avg_rank": 21.54,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Bahamas",
@@ -27,13 +27,13 @@
     },
     "home_matches": 294,
     "away_matches": 269,
-    "neutral_matches": 455,
+    "neutral_matches": 456,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "country": "United States",
       "tournament": "Friendly",
       "team1": "Mexico",
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5274,
+      "rating1": 5268,
       "rating2": 5608,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 19.0,
+      "rank": 28,
+      "win_prob": 18.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Paraguay",
       "flag1": "mexico.png",
       "flag2": "paraguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5274,
-      "rating2": 5315,
-      "rating_ev": 0,
-      "rank": 27,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5268,
+      "rating2": 5321,
+      "rating_ev": -6,
+      "rank": 28,
       "win_prob": 45.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",
@@ -329,11 +329,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5274,
+      "rating1": 5268,
       "rating2": 5562,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 30.6,
+      "rank": 28,
+      "win_prob": 30.1,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Colombia",
   "stats": {
-    "matches_played": 648,
-    "wins": 264,
+    "matches_played": 649,
+    "wins": 265,
     "draws": 179,
     "losses": 205,
-    "goals_for": 840,
+    "goals_for": 843,
     "goals_against": 743,
-    "goal_difference": 97,
-    "win_percentage": 40.7,
+    "goal_difference": 100,
+    "win_percentage": 40.8,
     "avg_points": 1.5,
     "best_rank": 3,
     "worst_rank": 77,
-    "avg_rank": 25.17,
+    "avg_rank": 25.14,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guyana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 184,
     "away_matches": 230,
-    "neutral_matches": 234,
+    "neutral_matches": 235,
     "first_match_date": "1938-02-10",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Australia",
       "flag1": "colombia.png",
       "flag2": "australia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5521,
-      "rating2": 5246,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5533,
+      "rating2": 5234,
+      "rating_ev": 12,
       "rank": 9,
       "win_prob": 76.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",
@@ -196,11 +196,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5521,
+      "rating1": 5533,
       "rating2": 5424,
       "rating_ev": 0,
       "rank": 9,
-      "win_prob": 60.5,
+      "win_prob": 61.8,
       "type": "fixture"
     },
     {

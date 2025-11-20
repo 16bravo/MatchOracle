@@ -1,18 +1,18 @@
 {
   "team": "Canada",
   "stats": {
-    "matches_played": 478,
-    "wins": 186,
+    "matches_played": 479,
+    "wins": 187,
     "draws": 112,
     "losses": 180,
-    "goals_for": 615,
+    "goals_for": 617,
     "goals_against": 605,
-    "goal_difference": 10,
-    "win_percentage": 38.9,
-    "avg_points": 1.4,
+    "goal_difference": 12,
+    "win_percentage": 39.0,
+    "avg_points": 1.41,
     "best_rank": 16,
     "worst_rank": 100,
-    "avg_rank": 61.69,
+    "avg_rank": 61.62,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Cayman Islands",
@@ -27,9 +27,9 @@
     },
     "home_matches": 146,
     "away_matches": 200,
-    "neutral_matches": 132,
+    "neutral_matches": 133,
     "first_match_date": "1924-06-07",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Venezuela",
       "flag1": "canada.png",
       "flag2": "venezuela.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5273,
-      "rating2": 5208,
-      "rating_ev": 0,
-      "rank": 28,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5285,
+      "rating2": 5196,
+      "rating_ev": 12,
+      "rank": 27,
       "win_prob": 57.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 591,
-    "wins": 197,
+    "matches_played": 592,
+    "wins": 198,
     "draws": 143,
     "losses": 251,
-    "goals_for": 737,
+    "goals_for": 740,
     "goals_against": 906,
-    "goal_difference": -169,
-    "win_percentage": 33.3,
+    "goal_difference": -166,
+    "win_percentage": 33.4,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.3,
+    "avg_rank": 85.25,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "1938-02-16",
       "flag": "costa_rica.png"
     },
-    "home_matches": 200,
+    "home_matches": 201,
     "away_matches": 227,
     "neutral_matches": 164,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "El Salvador",
       "flag1": "panama.png",
       "flag2": "salvador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5093,
-      "rating2": 4654,
-      "rating_ev": 0,
-      "rank": 61,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5102,
+      "rating2": 4645,
+      "rating_ev": 9,
+      "rank": 59,
       "win_prob": 91.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",
@@ -329,11 +329,11 @@
       "flag2": "bolivia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5093,
+      "rating1": 5102,
       "rating2": 5081,
       "rating_ev": 0,
-      "rank": 61,
-      "win_prob": 40.5,
+      "rank": 58,
+      "win_prob": 41.4,
       "type": "fixture"
     },
     {

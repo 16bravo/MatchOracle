@@ -1,14 +1,14 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 786,
-    "wins": 275,
+    "matches_played": 787,
+    "wins": 276,
     "draws": 209,
     "losses": 302,
-    "goals_for": 999,
-    "goals_against": 1112,
-    "goal_difference": -113,
-    "win_percentage": 35.0,
+    "goals_for": 1001,
+    "goals_against": 1113,
+    "goal_difference": -112,
+    "win_percentage": 35.1,
     "avg_points": 1.32,
     "best_rank": 6,
     "worst_rank": 47,
@@ -27,9 +27,9 @@
     },
     "home_matches": 214,
     "away_matches": 365,
-    "neutral_matches": 207,
+    "neutral_matches": 208,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Mexico",
       "flag1": "paraguay.png",
       "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5315,
-      "rating2": 5274,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5321,
+      "rating2": 5268,
+      "rating_ev": 6,
       "rank": 23,
       "win_prob": 54.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

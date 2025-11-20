@@ -1,9 +1,9 @@
 {
   "team": "Cura\u00e7ao",
   "stats": {
-    "matches_played": 481,
+    "matches_played": 482,
     "wins": 196,
-    "draws": 119,
+    "draws": 120,
     "losses": 166,
     "goals_for": 854,
     "goals_against": 736,
@@ -12,7 +12,7 @@
     "avg_points": 1.47,
     "best_rank": 37,
     "worst_rank": 182,
-    "avg_rank": 105.83,
+    "avg_rank": 105.79,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Puerto Rico",
@@ -26,10 +26,10 @@
       "flag": "netherlands.png"
     },
     "home_matches": 111,
-    "away_matches": 168,
+    "away_matches": 169,
     "neutral_matches": 202,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Jamaica",
       "flag1": "curacao.png",
       "flag2": "jamaica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4887,
-      "rating2": 4935,
-      "rating_ev": 0,
-      "rank": 91,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4896,
+      "rating2": 4926,
+      "rating_ev": 9,
+      "rank": 90,
       "win_prob": 34.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

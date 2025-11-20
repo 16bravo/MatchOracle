@@ -1,18 +1,18 @@
 {
   "team": "Australia",
   "stats": {
-    "matches_played": 626,
+    "matches_played": 627,
     "wins": 324,
     "draws": 130,
-    "losses": 172,
+    "losses": 173,
     "goals_for": 1273,
-    "goals_against": 685,
-    "goal_difference": 588,
-    "win_percentage": 51.8,
+    "goals_against": 688,
+    "goal_difference": 585,
+    "win_percentage": 51.7,
     "avg_points": 1.76,
     "best_rank": 15,
     "worst_rank": 73,
-    "avg_rank": 37.83,
+    "avg_rank": 37.82,
     "biggest_win": {
       "score": "31-0",
       "opponent": "Eastern Samoa",
@@ -27,9 +27,9 @@
     },
     "home_matches": 261,
     "away_matches": 224,
-    "neutral_matches": 141,
+    "neutral_matches": 142,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Colombia",
       "flag1": "australia.png",
       "flag2": "colombia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5246,
-      "rating2": 5521,
-      "rating_ev": 0,
-      "rank": 30,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 5234,
+      "rating2": 5533,
+      "rating_ev": -12,
+      "rank": 31,
       "win_prob": 23.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",

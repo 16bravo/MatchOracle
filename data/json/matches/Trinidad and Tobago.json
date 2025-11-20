@@ -1,18 +1,18 @@
 {
   "team": "Trinidad and Tobago",
   "stats": {
-    "matches_played": 863,
-    "wins": 375,
+    "matches_played": 864,
+    "wins": 376,
     "draws": 190,
     "losses": 298,
-    "goals_for": 1445,
-    "goals_against": 1095,
-    "goal_difference": 350,
+    "goals_for": 1447,
+    "goals_against": 1096,
+    "goal_difference": 351,
     "win_percentage": 43.5,
-    "avg_points": 1.52,
+    "avg_points": 1.53,
     "best_rank": 14,
     "worst_rank": 142,
-    "avg_rank": 87.37,
+    "avg_rank": 87.41,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "2000-10-08",
       "flag": "mexico.png"
     },
-    "home_matches": 343,
+    "home_matches": 344,
     "away_matches": 360,
     "neutral_matches": 160,
     "first_match_date": "1905-07-21",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Bermuda",
       "flag1": "trinidad.png",
       "flag2": "bermuda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4808,
-      "rating2": 4320,
-      "rating_ev": 0,
-      "rank": 114,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4788,
+      "rating2": 4340,
+      "rating_ev": -20,
+      "rank": 124,
       "win_prob": 92.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

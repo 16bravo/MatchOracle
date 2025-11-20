@@ -1,18 +1,18 @@
 {
   "team": "Vietnam",
   "stats": {
-    "matches_played": 516,
-    "wins": 215,
+    "matches_played": 517,
+    "wins": 216,
     "draws": 102,
     "losses": 199,
-    "goals_for": 903,
+    "goals_for": 905,
     "goals_against": 768,
-    "goal_difference": 135,
-    "win_percentage": 41.7,
+    "goal_difference": 137,
+    "win_percentage": 41.8,
     "avg_points": 1.45,
     "best_rank": 62,
     "worst_rank": 172,
-    "avg_rank": 122.04,
+    "avg_rank": 122.1,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "indonesia.png"
     },
     "home_matches": 120,
-    "away_matches": 126,
+    "away_matches": 127,
     "neutral_matches": 270,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2025-11-19"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Laos",
       "flag1": "vietnam.png",
       "flag2": "laos.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4647,
-      "rating2": 3917,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4639,
+      "rating2": 3925,
+      "rating_ev": -8,
       "rank": 150,
       "win_prob": 93.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",
@@ -120,11 +120,11 @@
       "flag2": "malaysia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4647,
+      "rating1": 4639,
       "rating2": 4600,
       "rating_ev": 0,
       "rank": 150,
-      "win_prob": 65.6,
+      "win_prob": 64.8,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Guatemala",
   "stats": {
-    "matches_played": 621,
-    "wins": 224,
+    "matches_played": 622,
+    "wins": 225,
     "draws": 166,
     "losses": 231,
-    "goals_for": 873,
-    "goals_against": 836,
-    "goal_difference": 37,
-    "win_percentage": 36.1,
+    "goals_for": 876,
+    "goals_against": 837,
+    "goal_difference": 39,
+    "win_percentage": 36.2,
     "avg_points": 1.35,
     "best_rank": 31,
     "worst_rank": 113,
-    "avg_rank": 76.86,
+    "avg_rank": 76.87,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "1955-07-24",
       "flag": "costa_rica.png"
     },
-    "home_matches": 204,
+    "home_matches": 205,
     "away_matches": 180,
     "neutral_matches": 237,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Suriname",
       "flag1": "guatemala.png",
       "flag2": "suriname.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4911,
-      "rating2": 4886,
-      "rating_ev": 0,
-      "rank": 85,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4931,
+      "rating2": 4866,
+      "rating_ev": 20,
+      "rank": 84,
       "win_prob": 63.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

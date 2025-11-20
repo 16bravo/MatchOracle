@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 595,
-    "wins": 182,
+    "matches_played": 596,
+    "wins": 183,
     "draws": 159,
     "losses": 254,
-    "goals_for": 715,
+    "goals_for": 717,
     "goals_against": 901,
-    "goal_difference": -186,
-    "win_percentage": 30.6,
-    "avg_points": 1.18,
+    "goal_difference": -184,
+    "win_percentage": 30.7,
+    "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 34.94,
+    "avg_rank": 34.9,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -27,9 +27,9 @@
     },
     "home_matches": 183,
     "away_matches": 210,
-    "neutral_matches": 202,
+    "neutral_matches": 203,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "New Zealand",
       "flag1": "ecuador.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5415,
-      "rating2": 5103,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5420,
+      "rating2": 5098,
+      "rating_ev": 5,
       "rank": 15,
       "win_prob": 79.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

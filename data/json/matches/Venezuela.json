@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 475,
+    "matches_played": 476,
     "wins": 126,
     "draws": 105,
-    "losses": 244,
+    "losses": 245,
     "goals_for": 513,
-    "goals_against": 868,
-    "goal_difference": -355,
+    "goals_against": 870,
+    "goal_difference": -357,
     "win_percentage": 26.5,
-    "avg_points": 1.02,
+    "avg_points": 1.01,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.56,
+    "avg_rank": 63.51,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -27,9 +27,9 @@
     },
     "home_matches": 176,
     "away_matches": 178,
-    "neutral_matches": 121,
+    "neutral_matches": 122,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-11-14"
+    "last_match_date": "2025-11-18"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Canada",
       "flag1": "venezuela.png",
       "flag2": "canada.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5208,
-      "rating2": 5273,
-      "rating_ev": 0,
-      "rank": 38,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5196,
+      "rating2": 5285,
+      "rating_ev": -12,
+      "rank": 42,
       "win_prob": 42.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-14",
@@ -177,11 +177,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5208,
+      "rating1": 5196,
       "rating2": 5551,
       "rating_ev": 0,
-      "rank": 38,
-      "win_prob": 18.4,
+      "rank": 42,
+      "win_prob": 17.6,
       "type": "fixture"
     },
     {
