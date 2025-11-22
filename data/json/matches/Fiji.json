@@ -1,18 +1,18 @@
 {
   "team": "Fiji",
   "stats": {
-    "matches_played": 281,
+    "matches_played": 282,
     "wins": 125,
     "draws": 53,
-    "losses": 103,
+    "losses": 104,
     "goals_for": 635,
-    "goals_against": 450,
-    "goal_difference": 185,
-    "win_percentage": 44.5,
+    "goals_against": 452,
+    "goal_difference": 183,
+    "win_percentage": 44.3,
     "avg_points": 1.52,
     "best_rank": 109,
-    "worst_rank": 183,
-    "avg_rank": 155.73,
+    "worst_rank": 186,
+    "avg_rank": 155.84,
     "biggest_win": {
       "score": "24-0",
       "opponent": "Kiribati",
@@ -26,12 +26,31 @@
       "flag": "new_zealand.png"
     },
     "home_matches": 104,
-    "away_matches": 61,
+    "away_matches": 62,
     "neutral_matches": 116,
     "first_match_date": "1951-10-07",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2025-11-20"
   },
   "matches": [
+    {
+      "date": "2025-11-23",
+      "country": "Papua New Guinea",
+      "tournament": "Melanesian Cup",
+      "team1": "Fiji",
+      "team2": "Solomon Islands",
+      "original_team1": "Fiji",
+      "original_team2": "Solomon Islands",
+      "flag1": "fiji.png",
+      "flag2": "solomon.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4175,
+      "rating2": 4224,
+      "rating_ev": 0,
+      "rank": 186,
+      "win_prob": 44.6,
+      "type": "fixture"
+    },
     {
       "date": "2025-11-20",
       "country": "Papua New Guinea",
@@ -42,14 +61,14 @@
       "original_team2": "Papua New Guinea",
       "flag1": "fiji.png",
       "flag2": "papua.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4198,
-      "rating2": 4180,
-      "rating_ev": 0,
-      "rank": 183,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4175,
+      "rating2": 4203,
+      "rating_ev": -23,
+      "rank": 186,
       "win_prob": 41.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

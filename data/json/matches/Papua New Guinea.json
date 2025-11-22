@@ -1,18 +1,18 @@
 {
   "team": "Papua New Guinea",
   "stats": {
-    "matches_played": 157,
-    "wins": 49,
+    "matches_played": 158,
+    "wins": 50,
     "draws": 30,
     "losses": 78,
-    "goals_for": 320,
+    "goals_for": 322,
     "goals_against": 343,
-    "goal_difference": -23,
-    "win_percentage": 31.2,
-    "avg_points": 1.13,
+    "goal_difference": -21,
+    "win_percentage": 31.6,
+    "avg_points": 1.14,
     "best_rank": 148,
     "worst_rank": 197,
-    "avg_rank": 177.29,
+    "avg_rank": 177.32,
     "biggest_win": {
       "score": "20-0",
       "opponent": "Eastern Samoa",
@@ -25,13 +25,32 @@
       "date": "2023-06-20",
       "flag": "malaysia.png"
     },
-    "home_matches": 26,
+    "home_matches": 27,
     "away_matches": 42,
     "neutral_matches": 89,
     "first_match_date": "1963-08-29",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-11-20"
   },
   "matches": [
+    {
+      "date": "2025-11-23",
+      "country": "Papua New Guinea",
+      "tournament": "Melanesian Cup",
+      "team1": "Papua New Guinea",
+      "team2": "Vanuatu",
+      "original_team1": "Papua New Guinea",
+      "original_team2": "Vanuatu",
+      "flag1": "papua.png",
+      "flag2": "vanuatu.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4203,
+      "rating2": 4136,
+      "rating_ev": 0,
+      "rank": 182,
+      "win_prob": 67.6,
+      "type": "fixture"
+    },
     {
       "date": "2025-11-20",
       "country": "Papua New Guinea",
@@ -42,14 +61,14 @@
       "original_team2": "Fiji",
       "flag1": "papua.png",
       "flag2": "fiji.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4180,
-      "rating2": 4198,
-      "rating_ev": 0,
-      "rank": 186,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4203,
+      "rating2": 4175,
+      "rating_ev": 23,
+      "rank": 182,
       "win_prob": 58.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",
