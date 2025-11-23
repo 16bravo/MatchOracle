@@ -1,18 +1,18 @@
 {
   "team": "Bahrain",
   "stats": {
-    "matches_played": 622,
+    "matches_played": 623,
     "wins": 220,
     "draws": 164,
-    "losses": 238,
+    "losses": 239,
     "goals_for": 765,
-    "goals_against": 790,
-    "goal_difference": -25,
-    "win_percentage": 35.4,
+    "goals_against": 791,
+    "goal_difference": -26,
+    "win_percentage": 35.3,
     "avg_points": 1.32,
     "best_rank": 55,
     "worst_rank": 148,
-    "avg_rank": 96.93,
+    "avg_rank": 96.96,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Indonesia",
@@ -25,11 +25,11 @@
       "date": "1966-04-05",
       "flag": "iraq_3.png"
     },
-    "home_matches": 211,
+    "home_matches": 212,
     "away_matches": 158,
     "neutral_matches": 253,
     "first_match_date": "1966-04-01",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2025-11-21"
   },
   "matches": [
     {
@@ -44,12 +44,31 @@
       "flag2": "djibouti.png",
       "score1": "",
       "score2": "",
-      "rating1": 4827,
+      "rating1": 4806,
       "rating2": 4292,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 90.7,
+      "rank": 114,
+      "win_prob": 90.0,
       "type": "fixture"
+    },
+    {
+      "date": "2025-11-21",
+      "country": "Bahrain",
+      "tournament": "Friendly",
+      "team1": "Bahrain",
+      "team2": "Somalia",
+      "original_team1": "Bahrain",
+      "original_team2": "Somalia",
+      "flag1": "bahrain.png",
+      "flag2": "somalia.png",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4806,
+      "rating2": 4470,
+      "rating_ev": -21,
+      "rank": 114,
+      "win_prob": 88.9,
+      "type": "past"
     },
     {
       "date": "2025-11-17",

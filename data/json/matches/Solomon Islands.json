@@ -1,18 +1,18 @@
 {
   "team": "Solomon Islands",
   "stats": {
-    "matches_played": 217,
+    "matches_played": 218,
     "wins": 91,
-    "draws": 36,
+    "draws": 37,
     "losses": 90,
-    "goals_for": 452,
-    "goals_against": 412,
+    "goals_for": 453,
+    "goals_against": 413,
     "goal_difference": 40,
-    "win_percentage": 41.9,
+    "win_percentage": 41.7,
     "avg_points": 1.42,
     "best_rank": 147,
     "worst_rank": 187,
-    "avg_rank": 172.75,
+    "avg_rank": 172.78,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Cook Islands",
@@ -27,13 +27,13 @@
     },
     "home_matches": 59,
     "away_matches": 62,
-    "neutral_matches": 96,
+    "neutral_matches": 97,
     "first_match_date": "1963-08-30",
-    "last_match_date": "2025-11-20"
+    "last_match_date": "2025-11-22"
   },
   "matches": [
     {
-      "date": "2025-11-23",
+      "date": "2025-11-22",
       "country": "Papua New Guinea",
       "tournament": "Melanesian Cup",
       "team1": "Solomon Islands",
@@ -42,14 +42,14 @@
       "original_team2": "Fiji",
       "flag1": "solomon.png",
       "flag2": "fiji.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4224,
-      "rating2": 4175,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4221,
+      "rating2": 4178,
+      "rating_ev": -3,
       "rank": 180,
       "win_prob": 55.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-20",
