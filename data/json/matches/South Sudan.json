@@ -1,18 +1,18 @@
 {
   "team": "South Sudan",
   "stats": {
-    "matches_played": 78,
+    "matches_played": 79,
     "wins": 12,
     "draws": 16,
-    "losses": 50,
+    "losses": 51,
     "goals_for": 51,
-    "goals_against": 142,
-    "goal_difference": -91,
-    "win_percentage": 15.4,
-    "avg_points": 0.67,
+    "goals_against": 144,
+    "goal_difference": -93,
+    "win_percentage": 15.2,
+    "avg_points": 0.66,
     "best_rank": 151,
     "worst_rank": 173,
-    "avg_rank": 160.14,
+    "avg_rank": 160.13,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 16,
     "away_matches": 29,
-    "neutral_matches": 33,
+    "neutral_matches": 34,
     "first_match_date": "2012-07-10",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2025-11-25"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Syria",
       "flag1": "south_sudan.png",
       "flag2": "syria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4585,
-      "rating2": 4854,
-      "rating_ev": 0,
-      "rank": 157,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4573,
+      "rating2": 4866,
+      "rating_ev": -12,
+      "rank": 159,
       "win_prob": 23.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

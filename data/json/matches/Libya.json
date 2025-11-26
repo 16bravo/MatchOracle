@@ -1,18 +1,18 @@
 {
   "team": "Libya",
   "stats": {
-    "matches_played": 442,
+    "matches_played": 443,
     "wins": 162,
-    "draws": 103,
+    "draws": 104,
     "losses": 177,
     "goals_for": 600,
     "goals_against": 583,
     "goal_difference": 17,
-    "win_percentage": 36.7,
+    "win_percentage": 36.6,
     "avg_points": 1.33,
     "best_rank": 45,
     "worst_rank": 118,
-    "avg_rank": 82.22,
+    "avg_rank": 82.24,
     "biggest_win": {
       "score": "21-0",
       "opponent": "Oman",
@@ -27,9 +27,9 @@
     },
     "home_matches": 160,
     "away_matches": 160,
-    "neutral_matches": 122,
+    "neutral_matches": 123,
     "first_match_date": "1953-08-03",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-11-25"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Palestine",
       "flag1": "libya.png",
       "flag2": "palestine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4885,
-      "rating2": 4857,
-      "rating_ev": 0,
-      "rank": 92,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4883,
+      "rating2": 4859,
+      "rating_ev": -2,
+      "rank": 93,
       "win_prob": 53.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

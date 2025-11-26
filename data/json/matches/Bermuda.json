@@ -1,18 +1,18 @@
 {
   "team": "Bermuda",
   "stats": {
-    "matches_played": 228,
+    "matches_played": 229,
     "wins": 73,
-    "draws": 44,
+    "draws": 45,
     "losses": 111,
-    "goals_for": 351,
-    "goals_against": 409,
+    "goals_for": 353,
+    "goals_against": 411,
     "goal_difference": -58,
-    "win_percentage": 32.0,
+    "win_percentage": 31.9,
     "avg_points": 1.15,
     "best_rank": 103,
     "worst_rank": 175,
-    "avg_rank": 138.67,
+    "avg_rank": 138.83,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Montserrat",
@@ -26,7 +26,7 @@
       "flag": "curacao.png"
     },
     "home_matches": 103,
-    "away_matches": 80,
+    "away_matches": 81,
     "neutral_matches": 45,
     "first_match_date": "1964-08-10",
     "last_match_date": "2025-11-18"
@@ -49,6 +49,25 @@
       "rating_ev": 20,
       "rank": 174,
       "win_prob": 7.4,
+      "type": "past"
+    },
+    {
+      "date": "2025-11-18",
+      "country": "Trinidad and Tobago",
+      "tournament": "World Cup qualifier",
+      "team1": "Bermuda",
+      "team2": "Trinidad and Tobago",
+      "original_team1": "Bermuda",
+      "original_team2": "Trinidad and Tobago",
+      "flag1": "bermuda.png",
+      "flag2": "trinidad.png",
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4372,
+      "rating2": 4756,
+      "rating_ev": 32,
+      "rank": 174,
+      "win_prob": 8.6,
       "type": "past"
     },
     {
