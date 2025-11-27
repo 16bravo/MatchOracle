@@ -1,18 +1,18 @@
 {
   "team": "Lebanon",
   "stats": {
-    "matches_played": 395,
+    "matches_played": 396,
     "wins": 114,
     "draws": 105,
-    "losses": 176,
-    "goals_for": 474,
-    "goals_against": 589,
-    "goal_difference": -115,
-    "win_percentage": 28.9,
+    "losses": 177,
+    "goals_for": 475,
+    "goals_against": 591,
+    "goal_difference": -116,
+    "win_percentage": 28.8,
     "avg_points": 1.13,
     "best_rank": 49,
     "worst_rank": 163,
-    "avg_rank": 117.12,
+    "avg_rank": 117.18,
     "biggest_win": {
       "score": "11-1",
       "opponent": "Philippines",
@@ -27,9 +27,9 @@
     },
     "home_matches": 139,
     "away_matches": 130,
-    "neutral_matches": 126,
+    "neutral_matches": 127,
     "first_match_date": "1940-04-27",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-11-26"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Sudan",
       "flag1": "lebanon.png",
       "flag2": "sudan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4685,
-      "rating2": 4833,
-      "rating_ev": 0,
-      "rank": 141,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4680,
+      "rating2": 4838,
+      "rating_ev": -5,
+      "rank": 143,
       "win_prob": 34.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",
@@ -196,11 +196,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 4685,
-      "rating2": 4563,
+      "rating1": 4680,
+      "rating2": 4581,
       "rating_ev": 0,
-      "rank": 141,
-      "win_prob": 72.6,
+      "rank": 143,
+      "win_prob": 70.6,
       "type": "fixture"
     },
     {

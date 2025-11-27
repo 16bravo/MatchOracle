@@ -1,18 +1,18 @@
 {
   "team": "Yemen",
   "stats": {
-    "matches_played": 288,
+    "matches_played": 289,
     "wins": 64,
-    "draws": 55,
+    "draws": 56,
     "losses": 169,
-    "goals_for": 292,
-    "goals_against": 572,
+    "goals_for": 296,
+    "goals_against": 576,
     "goal_difference": -280,
-    "win_percentage": 22.2,
+    "win_percentage": 22.1,
     "avg_points": 0.86,
     "best_rank": 113,
     "worst_rank": 168,
-    "avg_rank": 147.69,
+    "avg_rank": 147.73,
     "biggest_win": {
       "score": "11-2",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 49,
     "away_matches": 85,
-    "neutral_matches": 154,
+    "neutral_matches": 155,
     "first_match_date": "1965-09-02",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-11-26"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Comoros",
       "flag1": "yemen.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4563,
-      "rating2": 4870,
-      "rating_ev": 0,
-      "rank": 160,
+      "score1": 4,
+      "score2": 4,
+      "rating1": 4581,
+      "rating2": 4852,
+      "rating_ev": 18,
+      "rank": 158,
       "win_prob": 20.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",
@@ -139,11 +139,11 @@
       "flag2": "lebanon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4563,
-      "rating2": 4685,
+      "rating1": 4581,
+      "rating2": 4680,
       "rating_ev": 0,
-      "rank": 160,
-      "win_prob": 27.4,
+      "rank": 158,
+      "win_prob": 29.4,
       "type": "fixture"
     },
     {
