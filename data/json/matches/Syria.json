@@ -1,14 +1,14 @@
 {
   "team": "Syria",
   "stats": {
-    "matches_played": 574,
-    "wins": 214,
+    "matches_played": 575,
+    "wins": 215,
     "draws": 139,
     "losses": 221,
-    "goals_for": 829,
+    "goals_for": 830,
     "goals_against": 736,
-    "goal_difference": 93,
-    "win_percentage": 37.3,
+    "goal_difference": 94,
+    "win_percentage": 37.4,
     "avg_points": 1.36,
     "best_rank": 61,
     "worst_rank": 118,
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 214,
-    "neutral_matches": 244,
+    "neutral_matches": 245,
     "first_match_date": "1944-03-10",
-    "last_match_date": "2025-11-25"
+    "last_match_date": "2025-12-01"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "palestine.png",
       "score1": "",
       "score2": "",
-      "rating1": 4866,
-      "rating2": 4859,
+      "rating1": 4895,
+      "rating2": 4878,
       "rating_ev": 0,
-      "rank": 96,
-      "win_prob": 50.8,
+      "rank": 91,
+      "win_prob": 51.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4866,
-      "rating2": 4856,
+      "rating1": 4895,
+      "rating2": 4837,
       "rating_ev": 0,
-      "rank": 96,
-      "win_prob": 40.3,
+      "rank": 91,
+      "win_prob": 45.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Tunisia",
       "flag1": "syria.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4866,
-      "rating2": 5124,
-      "rating_ev": 0,
-      "rank": 96,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4895,
+      "rating2": 5095,
+      "rating_ev": 29,
+      "rank": 91,
       "win_prob": 24.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-25",
@@ -234,11 +234,11 @@
       "flag2": "afghanistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4866,
+      "rating1": 4895,
       "rating2": 4329,
       "rating_ev": 0,
-      "rank": 96,
-      "win_prob": 90.8,
+      "rank": 91,
+      "win_prob": 91.7,
       "type": "fixture"
     },
     {

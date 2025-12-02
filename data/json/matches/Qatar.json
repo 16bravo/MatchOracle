@@ -1,18 +1,18 @@
 {
   "team": "Qatar",
   "stats": {
-    "matches_played": 680,
+    "matches_played": 681,
     "wins": 283,
     "draws": 172,
-    "losses": 225,
+    "losses": 226,
     "goals_for": 975,
-    "goals_against": 803,
-    "goal_difference": 172,
+    "goals_against": 804,
+    "goal_difference": 171,
     "win_percentage": 41.6,
     "avg_points": 1.5,
     "best_rank": 34,
     "worst_rank": 147,
-    "avg_rank": 83.56,
+    "avg_rank": 83.59,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Bhutan",
@@ -25,11 +25,11 @@
       "date": "1973-12-31",
       "flag": "kuwait.png"
     },
-    "home_matches": 315,
+    "home_matches": 316,
     "away_matches": 144,
     "neutral_matches": 221,
     "first_match_date": "1970-03-27",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2025-12-01"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4856,
-      "rating2": 5124,
+      "rating1": 4837,
+      "rating2": 5095,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 32.5,
+      "rank": 104,
+      "win_prob": 33.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4856,
-      "rating2": 4866,
+      "rating1": 4837,
+      "rating2": 4895,
       "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 59.7,
+      "rank": 104,
+      "win_prob": 54.6,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Palestine",
       "flag1": "qatar.png",
       "flag2": "palestine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4856,
-      "rating2": 4859,
-      "rating_ev": 0,
-      "rank": 99,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4837,
+      "rating2": 4878,
+      "rating_ev": -19,
+      "rank": 104,
       "win_prob": 60.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",
