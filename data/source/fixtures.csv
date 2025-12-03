@@ -40,9 +40,6 @@ date,home_team,away_team,tournament,country,neutral
 2025-03-31,Lebanon,Yemen,Asian Cup qualifier,Lebanon,False
 2025-03-31,Vietnam,Malaysia,Asian Cup qualifier,Vietnam,False
 2025-05-31,Germany,Finland,Friendly,Germany,False
-2025-12-02,Comoros,Morocco,Arab Cup,Qatar,True
-2025-12-02,Egypt,Kuwait,Arab Cup,Qatar,True
-2025-12-02,Oman,Saudi Arabia,Arab Cup,Qatar,True
 2025-12-03,Algeria,Sudan,Arab Cup,Qatar,True
 2025-12-03,Bahrain,Iraq,Arab Cup,Qatar,True
 2025-12-03,Jordan,United Arab Emirates,Arab Cup,Qatar,True
@@ -50,75 +47,76 @@ date,home_team,away_team,tournament,country,neutral
 2025-12-04,Qatar,Syria,Arab Cup,Qatar,False
 2025-12-05,Comoros,Saudi Arabia,Arab Cup,Qatar,True
 2025-12-05,Morocco,Oman,Arab Cup,Qatar,True
-2025-12-06,Iraq,Sudan,Arab Cup,Qatar,True
-2025-12-06,Egypt,United Arab Emirates,Arab Cup,Qatar,True
-2025-12-06,Jordan,Kuwait,Arab Cup,Qatar,True
 2025-12-06,Algeria,Bahrain,Arab Cup,Qatar,True
+2025-12-06,Egypt,United Arab Emirates,Arab Cup,Qatar,True
+2025-12-06,Iraq,Sudan,Arab Cup,Qatar,True
+2025-12-06,Jordan,Kuwait,Arab Cup,Qatar,True
 2025-12-07,Palestine,Syria,Arab Cup,Qatar,True
 2025-12-07,Qatar,Tunisia,Arab Cup,Qatar,False
 2025-12-08,Comoros,Oman,Arab Cup,Qatar,True
 2025-12-08,Morocco,Saudi Arabia,Arab Cup,Qatar,True
+2025-12-09,Egypt,Jordan,Arab Cup,Qatar,True
 2025-12-09,Kuwait,United Arab Emirates,Arab Cup,Qatar,True
 2025-12-09,Bahrain,Sudan,Arab Cup,Qatar,True
-2025-12-09,Egypt,Jordan,Arab Cup,Qatar,True
 2025-12-09,Algeria,Iraq,Arab Cup,Qatar,True
 2025-12-13,Angola,DR Congo,Friendly,Spain,True
 2025-12-14,Egypt,Nigeria,Friendly,Egypt,False
 2025-12-16,Angola,Mozambique,Friendly,Portugal,True
+2025-12-18,DR Congo,Ivory Coast,Friendly,Spain,True
 2025-12-18,Tunisia,Senegal,Friendly,Tunisia,False
-2025-12-21,Peru,Bolivia,Friendly,Peru,False
 2025-12-21,Morocco,Comoros,African Nations Cup,Morocco,False
+2025-12-21,Peru,Bolivia,Friendly,Peru,False
 2025-12-22,Angola,South Africa,African Nations Cup,Morocco,True
-2025-12-22,Mali,Zambia,African Nations Cup,Morocco,True
 2025-12-22,Egypt,Zimbabwe,African Nations Cup,Morocco,True
+2025-12-22,Mali,Zambia,African Nations Cup,Morocco,True
 2025-12-23,Benin,DR Congo,African Nations Cup,Morocco,True
 2025-12-23,Botswana,Senegal,African Nations Cup,Morocco,True
 2025-12-23,Nigeria,Tanzania,African Nations Cup,Morocco,True
 2025-12-23,Tunisia,Uganda,African Nations Cup,Morocco,True
 2025-12-24,Algeria,Sudan,African Nations Cup,Morocco,True
 2025-12-24,Burkina Faso,Equatorial Guinea,African Nations Cup,Morocco,True
-2025-12-24,Cameroon,Gabon,African Nations Cup,Morocco,True
 2025-12-24,Ivory Coast,Mozambique,African Nations Cup,Morocco,True
-2025-12-26,Morocco,Mali,African Nations Cup,Morocco,False
+2025-12-24,Cameroon,Gabon,African Nations Cup,Morocco,True
 2025-12-26,Angola,Zimbabwe,African Nations Cup,Morocco,True
 2025-12-26,Comoros,Zambia,African Nations Cup,Morocco,True
 2025-12-26,Egypt,South Africa,African Nations Cup,Morocco,True
-2025-12-27,Benin,Botswana,African Nations Cup,Morocco,True
+2025-12-26,Morocco,Mali,African Nations Cup,Morocco,False
 2025-12-27,DR Congo,Senegal,African Nations Cup,Morocco,True
-2025-12-27,Nigeria,Tunisia,African Nations Cup,Morocco,True
 2025-12-27,Tanzania,Uganda,African Nations Cup,Morocco,True
-2025-12-28,Algeria,Burkina Faso,African Nations Cup,Morocco,True
-2025-12-28,Cameroon,Ivory Coast,African Nations Cup,Morocco,True
-2025-12-28,Gabon,Mozambique,African Nations Cup,Morocco,True
+2025-12-27,Nigeria,Tunisia,African Nations Cup,Morocco,True
+2025-12-27,Benin,Botswana,African Nations Cup,Morocco,True
 2025-12-28,Equatorial Guinea,Sudan,African Nations Cup,Morocco,True
-2025-12-29,Comoros,Mali,African Nations Cup,Morocco,True
-2025-12-29,Morocco,Zambia,African Nations Cup,Morocco,False
+2025-12-28,Cameroon,Ivory Coast,African Nations Cup,Morocco,True
+2025-12-28,Algeria,Burkina Faso,African Nations Cup,Morocco,True
+2025-12-28,Gabon,Mozambique,African Nations Cup,Morocco,True
 2025-12-29,South Africa,Zimbabwe,African Nations Cup,Morocco,True
+2025-12-29,Morocco,Zambia,African Nations Cup,Morocco,False
+2025-12-29,Comoros,Mali,African Nations Cup,Morocco,True
 2025-12-29,Angola,Egypt,African Nations Cup,Morocco,True
-2025-12-30,Benin,Senegal,African Nations Cup,Morocco,True
-2025-12-30,Botswana,DR Congo,African Nations Cup,Morocco,True
-2025-12-30,Nigeria,Uganda,African Nations Cup,Morocco,True
 2025-12-30,Tanzania,Tunisia,African Nations Cup,Morocco,True
-2025-12-31,Cameroon,Mozambique,African Nations Cup,Morocco,True
+2025-12-30,Nigeria,Uganda,African Nations Cup,Morocco,True
+2025-12-30,Botswana,DR Congo,African Nations Cup,Morocco,True
+2025-12-30,Benin,Senegal,African Nations Cup,Morocco,True
+2025-12-31,Gabon,Ivory Coast,African Nations Cup,Morocco,True
 2025-12-31,Algeria,Equatorial Guinea,African Nations Cup,Morocco,True
 2025-12-31,Burkina Faso,Sudan,African Nations Cup,Morocco,True
-2025-12-31,Gabon,Ivory Coast,African Nations Cup,Morocco,True
-2026-03-02,Saint Kitts and Nevis,Saint Martin,Friendly tournament,St Kitts and Nevis,True
-2026-03-02,Anguilla,British Virgin Islands,Friendly tournament,Cayman Islands,True
-2026-03-02,Antigua and Barbuda,Barbados,Friendly tournament,Antigua and Barbuda,False
-2026-03-02,Antigua and Barbuda,Bonaire,Friendly tournament,Antigua and Barbuda,False
-2026-03-02,Aruba,Bonaire,Friendly tournament,Antigua and Barbuda,True
-2026-03-02,Aruba,Guyana,Friendly tournament,Antigua and Barbuda,True
-2026-03-02,Saint Martin,Sint Maarten,Friendly tournament,St Kitts and Nevis,True
-2026-03-02,Barbados,Guyana,Friendly tournament,Antigua and Barbuda,True
-2026-03-02,Belize,Sint Maarten,Friendly tournament,St Kitts and Nevis,True
-2026-03-02,Cayman Islands,Bahamas,Friendly tournament,Cayman Islands,False
-2026-03-02,Cuba,St Vincent & Grenadines,Friendly tournament,Dominican Rep,True
-2026-03-02,Dominican Republic,Cuba,Friendly tournament,Dominican Rep,True
-2026-03-02,Dominican Republic,Saint Lucia,Friendly tournament,Dominican Rep,True
-2026-03-02,Martinique,Saint Lucia,Friendly tournament,Dominican Rep,True
-2026-03-02,Martinique,St Vincent & Grenadines,Friendly tournament,Dominican Rep,True
-2026-03-02,Saint Kitts and Nevis,Dominica,Friendly tournament,St Kitts and Nevis,True
-2026-03-02,Belize,Dominica,Friendly tournament,St Kitts and Nevis,True
-2026-06-02,Argentina,Mexico,Friendly,United States,True
-2026-06-02,Argentina,Honduras,Friendly,United States,True
+2025-12-31,Cameroon,Mozambique,African Nations Cup,Morocco,True
+2026-03-03,Saint Kitts and Nevis,Saint Martin,Friendly tournament,St Kitts and Nevis,True
+2026-03-03,Anguilla,British Virgin Islands,Friendly tournament,Cayman Islands,True
+2026-03-03,Antigua and Barbuda,Barbados,Friendly tournament,Antigua and Barbuda,False
+2026-03-03,Antigua and Barbuda,Bonaire,Friendly tournament,Antigua and Barbuda,False
+2026-03-03,Aruba,Bonaire,Friendly tournament,Antigua and Barbuda,True
+2026-03-03,Aruba,Guyana,Friendly tournament,Antigua and Barbuda,True
+2026-03-03,Saint Martin,Sint Maarten,Friendly tournament,St Kitts and Nevis,True
+2026-03-03,Barbados,Guyana,Friendly tournament,Antigua and Barbuda,True
+2026-03-03,Belize,Sint Maarten,Friendly tournament,St Kitts and Nevis,True
+2026-03-03,Cayman Islands,Bahamas,Friendly tournament,Cayman Islands,False
+2026-03-03,Cuba,St Vincent & Grenadines,Friendly tournament,Dominican Rep,True
+2026-03-03,Dominican Republic,Cuba,Friendly tournament,Dominican Rep,True
+2026-03-03,Dominican Republic,Saint Lucia,Friendly tournament,Dominican Rep,True
+2026-03-03,Martinique,Saint Lucia,Friendly tournament,Dominican Rep,True
+2026-03-03,Martinique,St Vincent & Grenadines,Friendly tournament,Dominican Rep,True
+2026-03-03,Saint Kitts and Nevis,Dominica,Friendly tournament,St Kitts and Nevis,True
+2026-03-03,Belize,Dominica,Friendly tournament,St Kitts and Nevis,True
+2026-06-03,Argentina,Mexico,Friendly,United States,True
+2026-06-03,Argentina,Honduras,Friendly,United States,True
