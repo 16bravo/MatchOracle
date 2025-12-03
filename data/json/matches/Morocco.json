@@ -1,18 +1,18 @@
 {
   "team": "Morocco",
   "stats": {
-    "matches_played": 710,
-    "wins": 350,
+    "matches_played": 711,
+    "wins": 351,
     "draws": 198,
     "losses": 162,
-    "goals_for": 1070,
-    "goals_against": 604,
-    "goal_difference": 466,
-    "win_percentage": 49.3,
+    "goals_for": 1073,
+    "goals_against": 605,
+    "goal_difference": 468,
+    "win_percentage": 49.4,
     "avg_points": 1.76,
     "best_rank": 15,
     "worst_rank": 76,
-    "avg_rank": 44.74,
+    "avg_rank": 44.71,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Saudi Arabia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 310,
     "away_matches": 211,
-    "neutral_matches": 189,
+    "neutral_matches": 190,
     "first_match_date": "1957-10-19",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-12-02"
   },
   "matches": [
     {
@@ -44,7 +44,7 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5338,
+      "rating1": 5337,
       "rating2": 4839,
       "rating_ev": 0,
       "rank": 22,
@@ -63,7 +63,7 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5338,
+      "rating1": 5337,
       "rating2": 5134,
       "rating_ev": 0,
       "rank": 22,
@@ -82,11 +82,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5338,
-      "rating2": 4852,
+      "rating1": 5337,
+      "rating2": 4853,
       "rating_ev": 0,
       "rank": 22,
-      "win_prob": 92.6,
+      "win_prob": 92.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5338,
-      "rating2": 4989,
+      "rating1": 5337,
+      "rating2": 4994,
       "rating_ev": 0,
       "rank": 22,
-      "win_prob": 82.0,
+      "win_prob": 81.6,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 5338,
-      "rating2": 4837,
+      "rating1": 5337,
+      "rating2": 4832,
       "rating_ev": 0,
       "rank": 22,
-      "win_prob": 89.5,
+      "win_prob": 89.7,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Comoros",
       "flag1": "morocco.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5338,
-      "rating2": 4852,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5337,
+      "rating2": 4853,
+      "rating_ev": -1,
       "rank": 22,
       "win_prob": 88.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

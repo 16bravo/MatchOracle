@@ -1,14 +1,14 @@
 {
   "team": "Oman",
   "stats": {
-    "matches_played": 586,
+    "matches_played": 587,
     "wins": 222,
     "draws": 148,
-    "losses": 216,
-    "goals_for": 753,
-    "goals_against": 773,
-    "goal_difference": -20,
-    "win_percentage": 37.9,
+    "losses": 217,
+    "goals_for": 754,
+    "goals_against": 775,
+    "goal_difference": -21,
+    "win_percentage": 37.8,
     "avg_points": 1.39,
     "best_rank": 53,
     "worst_rank": 174,
@@ -27,9 +27,9 @@
     },
     "home_matches": 226,
     "away_matches": 144,
-    "neutral_matches": 216,
+    "neutral_matches": 217,
     "first_match_date": "1965-09-02",
-    "last_match_date": "2025-11-26"
+    "last_match_date": "2025-12-02"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
-      "rating2": 4852,
+      "rating1": 4832,
+      "rating2": 4853,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 48.3,
+      "rank": 105,
+      "win_prob": 47.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
-      "rating2": 5338,
+      "rating1": 4832,
+      "rating2": 5337,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 10.5,
+      "rank": 105,
+      "win_prob": 10.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Saudi Arabia",
       "flag1": "oman.png",
       "flag2": "saudi_arabia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4837,
-      "rating2": 4989,
-      "rating_ev": 0,
-      "rank": 104,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4832,
+      "rating2": 4994,
+      "rating_ev": -5,
+      "rank": 105,
       "win_prob": 33.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-26",
