@@ -1,18 +1,18 @@
 {
   "team": "Jordan",
   "stats": {
-    "matches_played": 551,
-    "wins": 194,
+    "matches_played": 552,
+    "wins": 195,
     "draws": 150,
     "losses": 207,
-    "goals_for": 682,
-    "goals_against": 662,
-    "goal_difference": 20,
-    "win_percentage": 35.2,
+    "goals_for": 684,
+    "goals_against": 663,
+    "goal_difference": 21,
+    "win_percentage": 35.3,
     "avg_points": 1.33,
     "best_rank": 53,
     "worst_rank": 141,
-    "avg_rank": 91.87,
+    "avg_rank": 91.82,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Nepal",
@@ -27,9 +27,9 @@
     },
     "home_matches": 194,
     "away_matches": 177,
-    "neutral_matches": 180,
+    "neutral_matches": 181,
     "first_match_date": "1953-08-01",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-12-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5057,
+      "rating1": 5064,
       "rating2": 5048,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 51.0,
+      "rank": 64,
+      "win_prob": 51.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 5057,
+      "rating1": 5064,
       "rating2": 4763,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 78.3,
+      "rank": 64,
+      "win_prob": 78.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "United Arab Emirates",
       "flag1": "jordan.png",
       "flag2": "uae.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5057,
-      "rating2": 4942,
-      "rating_ev": 0,
-      "rank": 65,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5064,
+      "rating2": 4935,
+      "rating_ev": 7,
+      "rank": 64,
       "win_prob": 62.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",
