@@ -1,18 +1,18 @@
 {
   "team": "Tunisia",
   "stats": {
-    "matches_played": 749,
+    "matches_played": 750,
     "wins": 319,
-    "draws": 206,
+    "draws": 207,
     "losses": 224,
-    "goals_for": 1059,
-    "goals_against": 805,
+    "goals_for": 1061,
+    "goals_against": 807,
     "goal_difference": 254,
-    "win_percentage": 42.6,
+    "win_percentage": 42.5,
     "avg_points": 1.55,
     "best_rank": 31,
     "worst_rank": 88,
-    "avg_rank": 52.65,
+    "avg_rank": 52.66,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Taiwan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 328,
     "away_matches": 243,
-    "neutral_matches": 178,
+    "neutral_matches": 179,
     "first_match_date": "1954-05-31",
-    "last_match_date": "2025-12-01"
+    "last_match_date": "2025-12-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5095,
+      "rating1": 5082,
       "rating2": 4810,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 77.6,
+      "rank": 61,
+      "win_prob": 76.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5095,
+      "rating1": 5082,
       "rating2": 5102,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 49.2,
+      "rank": 61,
+      "win_prob": 47.8,
       "type": "fixture"
     },
     {
@@ -82,30 +82,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5095,
+      "rating1": 5082,
       "rating2": 4870,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 72.8,
-      "type": "fixture"
-    },
-    {
-      "date": "2025-12-18",
-      "country": "Tunisia",
-      "tournament": "Friendly",
-      "team1": "Tunisia",
-      "team2": "Senegal",
-      "original_team1": "Tunisia",
-      "original_team2": "Senegal",
-      "flag1": "tunisia.png",
-      "flag2": "senegal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5095,
-      "rating2": 5290,
-      "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 39.7,
+      "rank": 61,
+      "win_prob": 71.7,
       "type": "fixture"
     },
     {
@@ -120,11 +101,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5095,
-      "rating2": 4837,
+      "rating1": 5082,
+      "rating2": 4835,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 66.6,
+      "rank": 61,
+      "win_prob": 65.5,
       "type": "fixture"
     },
     {
@@ -137,14 +118,14 @@
       "original_team2": "Palestine",
       "flag1": "tunisia.png",
       "flag2": "palestine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5095,
-      "rating2": 4878,
-      "rating_ev": 0,
-      "rank": 60,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5082,
+      "rating2": 4891,
+      "rating_ev": -13,
+      "rank": 61,
       "win_prob": 72.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-01",

@@ -1,18 +1,18 @@
 {
   "team": "Qatar",
   "stats": {
-    "matches_played": 681,
+    "matches_played": 682,
     "wins": 283,
-    "draws": 172,
+    "draws": 173,
     "losses": 226,
-    "goals_for": 975,
-    "goals_against": 804,
+    "goals_for": 976,
+    "goals_against": 805,
     "goal_difference": 171,
-    "win_percentage": 41.6,
+    "win_percentage": 41.5,
     "avg_points": 1.5,
     "best_rank": 34,
     "worst_rank": 147,
-    "avg_rank": 83.59,
+    "avg_rank": 83.62,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Bhutan",
@@ -25,11 +25,11 @@
       "date": "1973-12-31",
       "flag": "kuwait.png"
     },
-    "home_matches": 316,
+    "home_matches": 317,
     "away_matches": 144,
     "neutral_matches": 221,
     "first_match_date": "1970-03-27",
-    "last_match_date": "2025-12-01"
+    "last_match_date": "2025-12-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
-      "rating2": 5095,
+      "rating1": 4835,
+      "rating2": 5082,
       "rating_ev": 0,
       "rank": 104,
-      "win_prob": 33.4,
+      "win_prob": 34.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Syria",
       "flag1": "qatar.png",
       "flag2": "syria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4837,
-      "rating2": 4895,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4835,
+      "rating2": 4897,
+      "rating_ev": -2,
       "rank": 104,
       "win_prob": 54.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-01",
