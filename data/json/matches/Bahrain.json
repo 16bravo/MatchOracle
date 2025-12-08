@@ -1,18 +1,18 @@
 {
   "team": "Bahrain",
   "stats": {
-    "matches_played": 625,
+    "matches_played": 626,
     "wins": 221,
     "draws": 164,
-    "losses": 240,
-    "goals_for": 767,
-    "goals_against": 793,
-    "goal_difference": -26,
-    "win_percentage": 35.4,
+    "losses": 241,
+    "goals_for": 768,
+    "goals_against": 798,
+    "goal_difference": -30,
+    "win_percentage": 35.3,
     "avg_points": 1.32,
     "best_rank": 55,
     "worst_rank": 148,
-    "avg_rank": 97.04,
+    "avg_rank": 97.08,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Indonesia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 212,
     "away_matches": 158,
-    "neutral_matches": 255,
+    "neutral_matches": 256,
     "first_match_date": "1966-04-01",
-    "last_match_date": "2025-12-03"
+    "last_match_date": "2025-12-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4786,
-      "rating2": 4859,
+      "rating1": 4756,
+      "rating2": 4837,
       "rating_ev": 0,
-      "rank": 122,
-      "win_prob": 42.0,
+      "rank": 126,
+      "win_prob": 41.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Algeria",
       "flag1": "bahrain.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4786,
-      "rating2": 5178,
-      "rating_ev": 0,
-      "rank": 122,
+      "score1": 1,
+      "score2": 5,
+      "rating1": 4756,
+      "rating2": 5208,
+      "rating_ev": -30,
+      "rank": 126,
       "win_prob": 15.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-03",

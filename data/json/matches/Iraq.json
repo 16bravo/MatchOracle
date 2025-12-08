@@ -1,18 +1,18 @@
 {
   "team": "Iraq",
   "stats": {
-    "matches_played": 749,
-    "wins": 354,
+    "matches_played": 750,
+    "wins": 355,
     "draws": 211,
     "losses": 184,
-    "goals_for": 1188,
+    "goals_for": 1190,
     "goals_against": 695,
-    "goal_difference": 493,
+    "goal_difference": 495,
     "win_percentage": 47.3,
     "avg_points": 1.7,
     "best_rank": 34,
     "worst_rank": 101,
-    "avg_rank": 62.76,
+    "avg_rank": 62.78,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Ethiopia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 138,
     "away_matches": 230,
-    "neutral_matches": 381,
+    "neutral_matches": 382,
     "first_match_date": "1944-03-05",
-    "last_match_date": "2025-12-03"
+    "last_match_date": "2025-12-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4954,
-      "rating2": 5178,
+      "rating1": 4976,
+      "rating2": 5208,
       "rating_ev": 0,
-      "rank": 79,
-      "win_prob": 27.3,
+      "rank": 78,
+      "win_prob": 26.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Sudan",
       "flag1": "iraq.png",
       "flag2": "sudan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4954,
-      "rating2": 4859,
-      "rating_ev": 0,
-      "rank": 79,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4976,
+      "rating2": 4837,
+      "rating_ev": 22,
+      "rank": 78,
       "win_prob": 60.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-03",

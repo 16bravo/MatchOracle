@@ -1,18 +1,18 @@
 {
   "team": "Kuwait",
   "stats": {
-    "matches_played": 735,
+    "matches_played": 736,
     "wins": 306,
     "draws": 192,
-    "losses": 237,
-    "goals_for": 1145,
-    "goals_against": 838,
-    "goal_difference": 307,
+    "losses": 238,
+    "goals_for": 1146,
+    "goals_against": 841,
+    "goal_difference": 305,
     "win_percentage": 41.6,
     "avg_points": 1.51,
     "best_rank": 21,
     "worst_rank": 144,
-    "avg_rank": 78.64,
+    "avg_rank": 78.71,
     "biggest_win": {
       "score": "20-0",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 258,
     "away_matches": 172,
-    "neutral_matches": 305,
+    "neutral_matches": 306,
     "first_match_date": "1961-09-03",
-    "last_match_date": "2025-12-02"
+    "last_match_date": "2025-12-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 4763,
-      "rating2": 4935,
+      "rating1": 4753,
+      "rating2": 4942,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 32.0,
+      "rank": 130,
+      "win_prob": 30.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Jordan",
       "flag1": "kuwait.png",
       "flag2": "jordan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4763,
-      "rating2": 5064,
-      "rating_ev": 0,
-      "rank": 126,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4753,
+      "rating2": 5074,
+      "rating_ev": -10,
+      "rank": 130,
       "win_prob": 21.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-02",

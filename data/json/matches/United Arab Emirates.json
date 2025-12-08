@@ -1,18 +1,18 @@
 {
   "team": "United Arab Emirates",
   "stats": {
-    "matches_played": 652,
+    "matches_played": 653,
     "wins": 259,
-    "draws": 163,
+    "draws": 164,
     "losses": 230,
-    "goals_for": 915,
-    "goals_against": 804,
+    "goals_for": 916,
+    "goals_against": 805,
     "goal_difference": 111,
     "win_percentage": 39.7,
     "avg_points": 1.44,
     "best_rank": 47,
     "worst_rank": 153,
-    "avg_rank": 86.95,
+    "avg_rank": 86.94,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Brunei",
@@ -27,9 +27,9 @@
     },
     "home_matches": 280,
     "away_matches": 140,
-    "neutral_matches": 232,
+    "neutral_matches": 233,
     "first_match_date": "1972-03-17",
-    "last_match_date": "2025-12-03"
+    "last_match_date": "2025-12-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4935,
-      "rating2": 4763,
+      "rating1": 4942,
+      "rating2": 4753,
       "rating_ev": 0,
-      "rank": 83,
-      "win_prob": 68.0,
+      "rank": 82,
+      "win_prob": 69.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Egypt",
       "flag1": "uae.png",
       "flag2": "egypt.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4935,
-      "rating2": 5048,
-      "rating_ev": 0,
-      "rank": 83,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4942,
+      "rating2": 5041,
+      "rating_ev": 7,
+      "rank": 82,
       "win_prob": 37.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-03",
