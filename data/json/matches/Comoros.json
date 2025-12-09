@@ -1,18 +1,18 @@
 {
   "team": "Comoros",
   "stats": {
-    "matches_played": 151,
+    "matches_played": 152,
     "wins": 40,
     "draws": 34,
-    "losses": 77,
-    "goals_for": 144,
-    "goals_against": 241,
-    "goal_difference": -97,
-    "win_percentage": 26.5,
-    "avg_points": 1.02,
+    "losses": 78,
+    "goals_for": 145,
+    "goals_against": 243,
+    "goal_difference": -98,
+    "win_percentage": 26.3,
+    "avg_points": 1.01,
     "best_rank": 91,
     "worst_rank": 191,
-    "avg_rank": 145.99,
+    "avg_rank": 145.71,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Seychelles",
@@ -27,9 +27,9 @@
     },
     "home_matches": 29,
     "away_matches": 33,
-    "neutral_matches": 89,
+    "neutral_matches": 90,
     "first_match_date": "1979-08-26",
-    "last_match_date": "2025-12-05"
+    "last_match_date": "2025-12-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 4834,
+      "rating1": 4822,
       "rating2": 5134,
       "rating_ev": 0,
       "rank": 104,
-      "win_prob": 21.3,
+      "win_prob": 20.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4834,
+      "rating1": 4822,
       "rating2": 4839,
       "rating_ev": 0,
       "rank": 104,
-      "win_prob": 49.4,
+      "win_prob": 48.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4834,
-      "rating2": 5308,
+      "rating1": 4822,
+      "rating2": 5305,
       "rating_ev": 0,
       "rank": 104,
-      "win_prob": 7.8,
+      "win_prob": 7.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Oman",
       "flag1": "comoros.png",
       "flag2": "oman.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4834,
-      "rating2": 4861,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4822,
+      "rating2": 4873,
+      "rating_ev": -12,
       "rank": 104,
       "win_prob": 47.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-05",
