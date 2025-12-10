@@ -1,18 +1,18 @@
 {
   "team": "Sudan",
   "stats": {
-    "matches_played": 537,
+    "matches_played": 538,
     "wins": 183,
     "draws": 136,
-    "losses": 218,
-    "goals_for": 618,
-    "goals_against": 703,
-    "goal_difference": -85,
-    "win_percentage": 34.1,
-    "avg_points": 1.28,
+    "losses": 219,
+    "goals_for": 619,
+    "goals_against": 706,
+    "goal_difference": -87,
+    "win_percentage": 34.0,
+    "avg_points": 1.27,
     "best_rank": 36,
     "worst_rank": 138,
-    "avg_rank": 95.12,
+    "avg_rank": 95.14,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Oman",
@@ -27,9 +27,9 @@
     },
     "home_matches": 151,
     "away_matches": 200,
-    "neutral_matches": 186,
+    "neutral_matches": 187,
     "first_match_date": "1956-05-13",
-    "last_match_date": "2025-12-06"
+    "last_match_date": "2025-12-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
+      "rating1": 4805,
       "rating2": 5055,
       "rating_ev": 0,
-      "rank": 103,
-      "win_prob": 27.8,
+      "rank": 111,
+      "win_prob": 25.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
+      "rating1": 4805,
       "rating2": 4845,
       "rating_ev": 0,
-      "rank": 103,
-      "win_prob": 49.1,
+      "rank": 111,
+      "win_prob": 45.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
-      "rating2": 5208,
+      "rating1": 4805,
+      "rating2": 5222,
       "rating_ev": 0,
-      "rank": 103,
-      "win_prob": 16.7,
+      "rank": 111,
+      "win_prob": 14.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Bahrain",
       "flag1": "sudan.png",
       "flag2": "bahrain.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4837,
-      "rating2": 4756,
-      "rating_ev": 0,
-      "rank": 103,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4805,
+      "rating2": 4788,
+      "rating_ev": -32,
+      "rank": 111,
       "win_prob": 58.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-06",

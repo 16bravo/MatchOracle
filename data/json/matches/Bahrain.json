@@ -1,18 +1,18 @@
 {
   "team": "Bahrain",
   "stats": {
-    "matches_played": 626,
-    "wins": 221,
+    "matches_played": 627,
+    "wins": 222,
     "draws": 164,
     "losses": 241,
-    "goals_for": 768,
-    "goals_against": 798,
-    "goal_difference": -30,
-    "win_percentage": 35.3,
+    "goals_for": 771,
+    "goals_against": 799,
+    "goal_difference": -28,
+    "win_percentage": 35.4,
     "avg_points": 1.32,
     "best_rank": 55,
     "worst_rank": 148,
-    "avg_rank": 97.08,
+    "avg_rank": 97.12,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Indonesia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 212,
     "away_matches": 158,
-    "neutral_matches": 256,
+    "neutral_matches": 257,
     "first_match_date": "1966-04-01",
-    "last_match_date": "2025-12-06"
+    "last_match_date": "2025-12-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Sudan",
       "flag1": "bahrain.png",
       "flag2": "sudan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4756,
-      "rating2": 4837,
-      "rating_ev": 0,
-      "rank": 126,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4788,
+      "rating2": 4805,
+      "rating_ev": 32,
+      "rank": 122,
       "win_prob": 41.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-06",

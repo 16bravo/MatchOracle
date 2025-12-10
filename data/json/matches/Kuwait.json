@@ -1,18 +1,18 @@
 {
   "team": "Kuwait",
   "stats": {
-    "matches_played": 736,
+    "matches_played": 737,
     "wins": 306,
     "draws": 192,
-    "losses": 238,
-    "goals_for": 1146,
-    "goals_against": 841,
-    "goal_difference": 305,
-    "win_percentage": 41.6,
+    "losses": 239,
+    "goals_for": 1147,
+    "goals_against": 844,
+    "goal_difference": 303,
+    "win_percentage": 41.5,
     "avg_points": 1.51,
     "best_rank": 21,
     "worst_rank": 144,
-    "avg_rank": 78.71,
+    "avg_rank": 78.78,
     "biggest_win": {
       "score": "20-0",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 258,
     "away_matches": 172,
-    "neutral_matches": 306,
+    "neutral_matches": 307,
     "first_match_date": "1961-09-03",
-    "last_match_date": "2025-12-06"
+    "last_match_date": "2025-12-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "United Arab Emirates",
       "flag1": "kuwait.png",
       "flag2": "uae.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4753,
-      "rating2": 4942,
-      "rating_ev": 0,
-      "rank": 130,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4737,
+      "rating2": 4958,
+      "rating_ev": -16,
+      "rank": 133,
       "win_prob": 30.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-06",
