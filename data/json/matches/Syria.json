@@ -1,18 +1,18 @@
 {
   "team": "Syria",
   "stats": {
-    "matches_played": 577,
+    "matches_played": 578,
     "wins": 215,
     "draws": 141,
-    "losses": 221,
+    "losses": 222,
     "goals_for": 831,
-    "goals_against": 737,
-    "goal_difference": 94,
-    "win_percentage": 37.3,
+    "goals_against": 738,
+    "goal_difference": 93,
+    "win_percentage": 37.2,
     "avg_points": 1.36,
     "best_rank": 61,
     "worst_rank": 118,
-    "avg_rank": 89.03,
+    "avg_rank": 89.02,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Oman",
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 215,
-    "neutral_matches": 246,
+    "neutral_matches": 247,
     "first_match_date": "1944-03-10",
-    "last_match_date": "2025-12-07"
+    "last_match_date": "2025-12-11"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Morocco",
       "flag1": "syria.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4897,
-      "rating2": 5305,
-      "rating_ev": 0,
-      "rank": 90,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4907,
+      "rating2": 5295,
+      "rating_ev": 10,
+      "rank": 87,
       "win_prob": 14.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-07",
@@ -253,11 +253,11 @@
       "flag2": "afghanistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4897,
+      "rating1": 4907,
       "rating2": 4329,
       "rating_ev": 0,
-      "rank": 90,
-      "win_prob": 91.8,
+      "rank": 87,
+      "win_prob": 92.1,
       "type": "fixture"
     },
     {

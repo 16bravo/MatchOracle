@@ -1,18 +1,18 @@
 {
   "team": "Palestine",
   "stats": {
-    "matches_played": 283,
+    "matches_played": 284,
     "wins": 80,
     "draws": 75,
-    "losses": 128,
-    "goals_for": 359,
-    "goals_against": 441,
-    "goal_difference": -82,
-    "win_percentage": 28.3,
+    "losses": 129,
+    "goals_for": 360,
+    "goals_against": 443,
+    "goal_difference": -83,
+    "win_percentage": 28.2,
     "avg_points": 1.11,
     "best_rank": 64,
     "worst_rank": 159,
-    "avg_rank": 128.23,
+    "avg_rank": 128.1,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 18,
     "away_matches": 111,
-    "neutral_matches": 154,
+    "neutral_matches": 155,
     "first_match_date": "1934-03-16",
-    "last_match_date": "2025-12-07"
+    "last_match_date": "2025-12-11"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Saudi Arabia",
       "flag1": "palestine.png",
       "flag2": "saudi_arabia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4891,
-      "rating2": 5016,
-      "rating_ev": 0,
-      "rank": 92,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4884,
+      "rating2": 5023,
+      "rating_ev": -7,
+      "rank": 93,
       "win_prob": 36.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-07",
