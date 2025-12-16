@@ -1,18 +1,18 @@
 {
   "team": "Jordan",
   "stats": {
-    "matches_played": 555,
-    "wins": 198,
+    "matches_played": 556,
+    "wins": 199,
     "draws": 150,
     "losses": 207,
-    "goals_for": 691,
+    "goals_for": 692,
     "goals_against": 664,
-    "goal_difference": 27,
-    "win_percentage": 35.7,
+    "goal_difference": 28,
+    "win_percentage": 35.8,
     "avg_points": 1.34,
-    "best_rank": 53,
+    "best_rank": 52,
     "worst_rank": 141,
-    "avg_rank": 91.64,
+    "avg_rank": 91.57,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Nepal",
@@ -27,9 +27,9 @@
     },
     "home_matches": 194,
     "away_matches": 177,
-    "neutral_matches": 184,
+    "neutral_matches": 185,
     "first_match_date": "1953-08-01",
-    "last_match_date": "2025-12-12"
+    "last_match_date": "2025-12-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5118,
+      "rating1": 5126,
       "rating2": 5608,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 10.9,
+      "rank": 52,
+      "win_prob": 11.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5118,
+      "rating1": 5126,
       "rating2": 5206,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 40.4,
+      "rank": 52,
+      "win_prob": 41.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,30 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5118,
+      "rating1": 5126,
       "rating2": 5356,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 26.1,
+      "rank": 52,
+      "win_prob": 26.8,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-12-18",
+      "country": "Qatar",
+      "tournament": "Arab Cup",
+      "team1": "Jordan",
+      "team2": "Morocco",
+      "original_team1": "Jordan",
+      "original_team2": "Morocco",
+      "flag1": "jordan.png",
+      "flag2": "morocco.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5126,
+      "rating2": 5317,
+      "rating_ev": 0,
+      "rank": 52,
+      "win_prob": 30.2,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "Saudi Arabia",
       "flag1": "jordan.png",
       "flag2": "saudi_arabia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5118,
-      "rating2": 5023,
-      "rating_ev": 0,
-      "rank": 56,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5126,
+      "rating2": 5015,
+      "rating_ev": 8,
+      "rank": 52,
       "win_prob": 60.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-12",

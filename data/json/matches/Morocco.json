@@ -1,18 +1,18 @@
 {
   "team": "Morocco",
   "stats": {
-    "matches_played": 714,
-    "wins": 353,
+    "matches_played": 715,
+    "wins": 354,
     "draws": 199,
     "losses": 162,
-    "goals_for": 1075,
+    "goals_for": 1078,
     "goals_against": 605,
-    "goal_difference": 470,
-    "win_percentage": 49.4,
+    "goal_difference": 473,
+    "win_percentage": 49.5,
     "avg_points": 1.76,
     "best_rank": 15,
     "worst_rank": 76,
-    "avg_rank": 44.62,
+    "avg_rank": 44.59,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Saudi Arabia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 310,
     "away_matches": 211,
-    "neutral_matches": 193,
+    "neutral_matches": 194,
     "first_match_date": "1957-10-19",
-    "last_match_date": "2025-12-11"
+    "last_match_date": "2025-12-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5295,
+      "rating1": 5317,
       "rating2": 4984,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 79.5,
+      "rank": 23,
+      "win_prob": 81.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5295,
+      "rating1": 5317,
       "rating2": 5297,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 49.8,
+      "rank": 23,
+      "win_prob": 52.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5295,
+      "rating1": 5317,
       "rating2": 5497,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 29.2,
+      "rank": 23,
+      "win_prob": 31.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5295,
+      "rating1": 5317,
       "rating2": 4839,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 91.7,
+      "rank": 23,
+      "win_prob": 92.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5295,
+      "rating1": 5317,
       "rating2": 5134,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 75.9,
+      "rank": 23,
+      "win_prob": 77.6,
       "type": "fixture"
     },
     {
@@ -139,11 +139,30 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5295,
+      "rating1": 5317,
       "rating2": 4822,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 92.2,
+      "rank": 23,
+      "win_prob": 92.8,
+      "type": "fixture"
+    },
+    {
+      "date": "2025-12-18",
+      "country": "Qatar",
+      "tournament": "Arab Cup",
+      "team1": "Morocco",
+      "team2": "Jordan",
+      "original_team1": "Morocco",
+      "original_team2": "Jordan",
+      "flag1": "morocco.png",
+      "flag2": "jordan.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5317,
+      "rating2": 5126,
+      "rating_ev": 0,
+      "rank": 23,
+      "win_prob": 69.8,
       "type": "fixture"
     },
     {
@@ -156,14 +175,14 @@
       "original_team2": "United Arab Emirates",
       "flag1": "morocco.png",
       "flag2": "uae.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5295,
-      "rating2": 4974,
-      "rating_ev": 0,
-      "rank": 25,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5317,
+      "rating2": 4952,
+      "rating_ev": 22,
+      "rank": 23,
       "win_prob": 80.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-11",
