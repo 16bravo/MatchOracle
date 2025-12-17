@@ -1,18 +1,18 @@
 {
   "team": "Zambia",
   "stats": {
-    "matches_played": 844,
+    "matches_played": 845,
     "wins": 380,
     "draws": 215,
-    "losses": 249,
+    "losses": 250,
     "goals_for": 1333,
-    "goals_against": 899,
-    "goal_difference": 434,
+    "goals_against": 901,
+    "goal_difference": 432,
     "win_percentage": 45.0,
-    "avg_points": 1.61,
+    "avg_points": 1.6,
     "best_rank": 35,
     "worst_rank": 111,
-    "avg_rank": 66.43,
+    "avg_rank": 66.47,
     "biggest_win": {
       "score": "11-2",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 255,
     "away_matches": 346,
-    "neutral_matches": 243,
+    "neutral_matches": 244,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-12-16"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4839,
+      "rating1": 4832,
       "rating2": 5317,
       "rating_ev": 0,
       "rank": 102,
-      "win_prob": 7.7,
+      "win_prob": 7.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 4839,
+      "rating1": 4832,
       "rating2": 4822,
       "rating_ev": 0,
       "rank": 102,
-      "win_prob": 51.9,
+      "win_prob": 51.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 4839,
+      "rating1": 4832,
       "rating2": 5134,
       "rating_ev": 0,
       "rank": 102,
-      "win_prob": 21.6,
+      "win_prob": 21.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4839,
+      "rating1": 4832,
       "rating2": 5119,
       "rating_ev": 0,
       "rank": 102,
-      "win_prob": 22.8,
+      "win_prob": 22.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "DR Congo",
       "flag1": "zambia.png",
       "flag2": "dr_congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4839,
-      "rating2": 5063,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4832,
+      "rating2": 5070,
+      "rating_ev": -7,
       "rank": 102,
       "win_prob": 27.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",
