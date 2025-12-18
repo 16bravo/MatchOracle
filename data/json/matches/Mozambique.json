@@ -1,13 +1,13 @@
 {
   "team": "Mozambique",
   "stats": {
-    "matches_played": 410,
+    "matches_played": 411,
     "wins": 126,
     "draws": 107,
-    "losses": 177,
-    "goals_for": 415,
-    "goals_against": 528,
-    "goal_difference": -113,
+    "losses": 178,
+    "goals_for": 416,
+    "goals_against": 532,
+    "goal_difference": -116,
     "win_percentage": 30.7,
     "avg_points": 1.18,
     "best_rank": 79,
@@ -27,9 +27,9 @@
     },
     "home_matches": 153,
     "away_matches": 162,
-    "neutral_matches": 95,
+    "neutral_matches": 96,
     "first_match_date": "1975-06-25",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2025-12-17"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4821,
+      "rating1": 4807,
       "rating2": 5038,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 27.9,
+      "rank": 110,
+      "win_prob": 26.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4821,
+      "rating1": 4807,
       "rating2": 4908,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 40.5,
+      "rank": 110,
+      "win_prob": 39.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4821,
+      "rating1": 4807,
       "rating2": 5119,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 21.4,
+      "rank": 110,
+      "win_prob": 20.4,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Angola",
       "flag1": "mozambique.png",
       "flag2": "angola.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4821,
-      "rating2": 5027,
-      "rating_ev": 0,
-      "rank": 104,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4807,
+      "rating2": 5041,
+      "rating_ev": -14,
+      "rank": 110,
       "win_prob": 28.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

@@ -1,18 +1,18 @@
 {
   "team": "Angola",
   "stats": {
-    "matches_played": 453,
-    "wins": 167,
+    "matches_played": 454,
+    "wins": 168,
     "draws": 155,
     "losses": 131,
-    "goals_for": 540,
-    "goals_against": 460,
-    "goal_difference": 80,
-    "win_percentage": 36.9,
+    "goals_for": 544,
+    "goals_against": 461,
+    "goal_difference": 83,
+    "win_percentage": 37.0,
     "avg_points": 1.45,
     "best_rank": 58,
     "worst_rank": 138,
-    "avg_rank": 84.89,
+    "avg_rank": 84.85,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 157,
     "away_matches": 176,
-    "neutral_matches": 120,
+    "neutral_matches": 121,
     "first_match_date": "1976-02-08",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-12-17"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5027,
+      "rating1": 5041,
       "rating2": 5009,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 52.0,
+      "rank": 68,
+      "win_prob": 53.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "zimbabwe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5027,
+      "rating1": 5041,
       "rating2": 4813,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 71.9,
+      "rank": 68,
+      "win_prob": 73.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5027,
+      "rating1": 5041,
       "rating2": 5001,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 52.9,
+      "rank": 68,
+      "win_prob": 54.4,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Mozambique",
       "flag1": "angola.png",
       "flag2": "mozambique.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5027,
-      "rating2": 4821,
-      "rating_ev": 0,
-      "rank": 70,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5041,
+      "rating2": 4807,
+      "rating_ev": 14,
+      "rank": 68,
       "win_prob": 71.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",
