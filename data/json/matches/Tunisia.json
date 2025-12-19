@@ -1,18 +1,18 @@
 {
   "team": "Tunisia",
   "stats": {
-    "matches_played": 751,
-    "wins": 320,
+    "matches_played": 752,
+    "wins": 321,
     "draws": 207,
     "losses": 224,
-    "goals_for": 1064,
-    "goals_against": 807,
-    "goal_difference": 257,
-    "win_percentage": 42.6,
-    "avg_points": 1.55,
+    "goals_for": 1066,
+    "goals_against": 808,
+    "goal_difference": 258,
+    "win_percentage": 42.7,
+    "avg_points": 1.56,
     "best_rank": 31,
     "worst_rank": 88,
-    "avg_rank": 52.66,
+    "avg_rank": 52.67,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Taiwan",
@@ -25,11 +25,11 @@
       "date": "1960-07-20",
       "flag": "hungary.png"
     },
-    "home_matches": 328,
+    "home_matches": 329,
     "away_matches": 244,
     "neutral_matches": 179,
     "first_match_date": "1954-05-31",
-    "last_match_date": "2025-12-07"
+    "last_match_date": "2025-12-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
+      "rating1": 5109,
       "rating2": 5541,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 13.7,
+      "rank": 58,
+      "win_prob": 13.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
+      "rating1": 5109,
       "rating2": 5423,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 20.6,
+      "rank": 58,
+      "win_prob": 20.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
+      "rating1": 5109,
       "rating2": 4810,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 79.0,
+      "rank": 58,
+      "win_prob": 78.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
+      "rating1": 5109,
       "rating2": 5095,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 52.1,
+      "rank": 58,
+      "win_prob": 51.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
+      "rating1": 5109,
       "rating2": 4870,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 74.4,
+      "rank": 58,
+      "win_prob": 74.0,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Botswana",
       "flag1": "tunisia.png",
       "flag2": "botswana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5114,
-      "rating2": 4803,
-      "rating_ev": 0,
-      "rank": 57,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5109,
+      "rating2": 4808,
+      "rating_ev": -5,
+      "rank": 58,
       "win_prob": 85.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-07",
@@ -386,11 +386,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
+      "rating1": 5109,
       "rating2": 5285,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 23.3,
+      "rank": 58,
+      "win_prob": 22.9,
       "type": "fixture"
     },
     {
