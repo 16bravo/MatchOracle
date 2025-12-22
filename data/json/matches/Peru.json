@@ -1,14 +1,14 @@
 {
   "team": "Peru",
   "stats": {
-    "matches_played": 708,
-    "wins": 229,
+    "matches_played": 709,
+    "wins": 230,
     "draws": 175,
     "losses": 304,
-    "goals_for": 859,
+    "goals_for": 861,
     "goals_against": 988,
-    "goal_difference": -129,
-    "win_percentage": 32.3,
+    "goal_difference": -127,
+    "win_percentage": 32.4,
     "avg_points": 1.22,
     "best_rank": 13,
     "worst_rank": 76,
@@ -25,11 +25,11 @@
       "date": "1997-06-26",
       "flag": "brazil.png"
     },
-    "home_matches": 268,
+    "home_matches": 269,
     "away_matches": 253,
     "neutral_matches": 187,
     "first_match_date": "1927-11-01",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-12-21"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Bolivia",
       "flag1": "peru.png",
       "flag2": "bolivia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5206,
-      "rating2": 5081,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5213,
+      "rating2": 5074,
+      "rating_ev": 7,
       "rank": 38,
       "win_prob": 72.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

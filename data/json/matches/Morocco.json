@@ -1,18 +1,18 @@
 {
   "team": "Morocco",
   "stats": {
-    "matches_played": 716,
-    "wins": 355,
+    "matches_played": 717,
+    "wins": 356,
     "draws": 199,
     "losses": 162,
-    "goals_for": 1081,
+    "goals_for": 1083,
     "goals_against": 607,
-    "goal_difference": 474,
-    "win_percentage": 49.6,
+    "goal_difference": 476,
+    "win_percentage": 49.7,
     "avg_points": 1.77,
     "best_rank": 15,
     "worst_rank": 76,
-    "avg_rank": 44.56,
+    "avg_rank": 44.53,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Saudi Arabia",
@@ -25,11 +25,11 @@
       "date": "1961-10-11",
       "flag": "switzerland.png"
     },
-    "home_matches": 310,
+    "home_matches": 311,
     "away_matches": 211,
     "neutral_matches": 195,
     "first_match_date": "1957-10-19",
-    "last_match_date": "2025-12-18"
+    "last_match_date": "2025-12-21"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5320,
+      "rating1": 5313,
       "rating2": 4984,
       "rating_ev": 0,
       "rank": 23,
-      "win_prob": 81.2,
+      "win_prob": 80.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5320,
+      "rating1": 5313,
       "rating2": 5297,
       "rating_ev": 0,
       "rank": 23,
-      "win_prob": 52.5,
+      "win_prob": 51.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5320,
+      "rating1": 5313,
       "rating2": 5497,
       "rating_ev": 0,
       "rank": 23,
-      "win_prob": 31.5,
+      "win_prob": 30.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5320,
+      "rating1": 5313,
       "rating2": 4832,
       "rating_ev": 0,
       "rank": 23,
-      "win_prob": 92.6,
+      "win_prob": 92.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5320,
+      "rating1": 5313,
       "rating2": 5134,
       "rating_ev": 0,
       "rank": 23,
-      "win_prob": 77.8,
+      "win_prob": 77.3,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Comoros",
       "flag1": "morocco.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5320,
-      "rating2": 4822,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5313,
+      "rating2": 4829,
+      "rating_ev": -7,
       "rank": 23,
       "win_prob": 92.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-18",

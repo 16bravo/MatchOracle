@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 530,
+    "matches_played": 531,
     "wins": 120,
     "draws": 120,
-    "losses": 290,
+    "losses": 291,
     "goals_for": 544,
-    "goals_against": 1045,
-    "goal_difference": -501,
+    "goals_against": 1047,
+    "goal_difference": -503,
     "win_percentage": 22.6,
-    "avg_points": 0.91,
+    "avg_points": 0.9,
     "best_rank": 23,
     "worst_rank": 78,
-    "avg_rank": 50.78,
+    "avg_rank": 50.81,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -26,10 +26,10 @@
       "flag": "uruguay.png"
     },
     "home_matches": 186,
-    "away_matches": 204,
+    "away_matches": 205,
     "neutral_matches": 140,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-12-21"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Peru",
       "flag1": "bolivia.png",
       "flag2": "peru.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5081,
-      "rating2": 5206,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5074,
+      "rating2": 5213,
+      "rating_ev": -7,
       "rank": 63,
       "win_prob": 27.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",
@@ -215,11 +215,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 5081,
+      "rating1": 5074,
       "rating2": 4866,
       "rating_ev": 0,
       "rank": 63,
-      "win_prob": 72.0,
+      "win_prob": 71.3,
       "type": "fixture"
     },
     {
@@ -272,11 +272,11 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 5081,
+      "rating1": 5074,
       "rating2": 4761,
       "rating_ev": 0,
       "rank": 63,
-      "win_prob": 86.2,
+      "win_prob": 85.8,
       "type": "fixture"
     },
     {
@@ -291,11 +291,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5081,
+      "rating1": 5074,
       "rating2": 5268,
       "rating_ev": 0,
       "rank": 63,
-      "win_prob": 40.6,
+      "win_prob": 39.8,
       "type": "fixture"
     },
     {
@@ -310,11 +310,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 5081,
+      "rating1": 5074,
       "rating2": 5102,
       "rating_ev": 0,
       "rank": 63,
-      "win_prob": 58.6,
+      "win_prob": 57.8,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Comoros",
   "stats": {
-    "matches_played": 152,
+    "matches_played": 153,
     "wins": 40,
     "draws": 34,
-    "losses": 78,
+    "losses": 79,
     "goals_for": 145,
-    "goals_against": 243,
-    "goal_difference": -98,
-    "win_percentage": 26.3,
+    "goals_against": 245,
+    "goal_difference": -100,
+    "win_percentage": 26.1,
     "avg_points": 1.01,
     "best_rank": 91,
     "worst_rank": 191,
-    "avg_rank": 145.71,
+    "avg_rank": 145.43,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Seychelles",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 29,
-    "away_matches": 33,
+    "away_matches": 34,
     "neutral_matches": 90,
     "first_match_date": "1979-08-26",
-    "last_match_date": "2025-12-08"
+    "last_match_date": "2025-12-21"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 4822,
+      "rating1": 4829,
       "rating2": 5134,
       "rating_ev": 0,
       "rank": 103,
-      "win_prob": 20.4,
+      "win_prob": 20.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4822,
+      "rating1": 4829,
       "rating2": 4832,
       "rating_ev": 0,
       "rank": 103,
-      "win_prob": 48.9,
+      "win_prob": 49.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Morocco",
       "flag1": "comoros.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4822,
-      "rating2": 5320,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4829,
+      "rating2": 5313,
+      "rating_ev": 7,
       "rank": 103,
       "win_prob": 7.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-08",
