@@ -1,18 +1,18 @@
 {
   "team": "Angola",
   "stats": {
-    "matches_played": 454,
+    "matches_played": 455,
     "wins": 168,
     "draws": 155,
-    "losses": 131,
-    "goals_for": 544,
-    "goals_against": 461,
-    "goal_difference": 83,
-    "win_percentage": 37.0,
+    "losses": 132,
+    "goals_for": 545,
+    "goals_against": 463,
+    "goal_difference": 82,
+    "win_percentage": 36.9,
     "avg_points": 1.45,
     "best_rank": 58,
     "worst_rank": 138,
-    "avg_rank": 84.85,
+    "avg_rank": 84.82,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 157,
     "away_matches": 176,
-    "neutral_matches": 121,
+    "neutral_matches": 122,
     "first_match_date": "1976-02-08",
-    "last_match_date": "2025-12-17"
+    "last_match_date": "2025-12-22"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
-      "rating2": 5009,
+      "rating1": 5025,
+      "rating2": 5011,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 53.5,
+      "rank": 70,
+      "win_prob": 51.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "zimbabwe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5041,
-      "rating2": 4813,
+      "rating1": 5025,
+      "rating2": 4811,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 73.1,
+      "rank": 70,
+      "win_prob": 71.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "South Africa",
       "flag1": "angola.png",
       "flag2": "south_africa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5041,
-      "rating2": 5001,
-      "rating_ev": 0,
-      "rank": 68,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5025,
+      "rating2": 5017,
+      "rating_ev": -16,
+      "rank": 70,
       "win_prob": 54.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-17",
