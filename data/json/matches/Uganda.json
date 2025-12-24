@@ -1,18 +1,18 @@
 {
   "team": "Uganda",
   "stats": {
-    "matches_played": 711,
+    "matches_played": 712,
     "wins": 299,
     "draws": 185,
-    "losses": 227,
-    "goals_for": 1071,
-    "goals_against": 847,
-    "goal_difference": 224,
-    "win_percentage": 42.1,
+    "losses": 228,
+    "goals_for": 1072,
+    "goals_against": 850,
+    "goal_difference": 222,
+    "win_percentage": 42.0,
     "avg_points": 1.52,
     "best_rank": 25,
     "worst_rank": 127,
-    "avg_rank": 82.59,
+    "avg_rank": 82.61,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Kenya",
@@ -27,9 +27,9 @@
     },
     "home_matches": 242,
     "away_matches": 240,
-    "neutral_matches": 229,
+    "neutral_matches": 230,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-12-23"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "nigeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4870,
-      "rating2": 5095,
+      "rating1": 4857,
+      "rating2": 5092,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 27.2,
+      "rank": 99,
+      "win_prob": 26.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4870,
-      "rating2": 4810,
+      "rating1": 4857,
+      "rating2": 4813,
       "rating_ev": 0,
-      "rank": 98,
-      "win_prob": 56.6,
+      "rank": 99,
+      "win_prob": 54.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Tunisia",
       "flag1": "uganda.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4870,
-      "rating2": 5109,
-      "rating_ev": 0,
-      "rank": 98,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4857,
+      "rating2": 5122,
+      "rating_ev": -13,
+      "rank": 99,
       "win_prob": 26.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

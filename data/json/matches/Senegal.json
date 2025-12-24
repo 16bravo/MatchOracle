@@ -1,18 +1,18 @@
 {
   "team": "Senegal",
   "stats": {
-    "matches_played": 678,
-    "wins": 306,
+    "matches_played": 679,
+    "wins": 307,
     "draws": 189,
     "losses": 183,
-    "goals_for": 933,
+    "goals_for": 936,
     "goals_against": 640,
-    "goal_difference": 293,
-    "win_percentage": 45.1,
+    "goal_difference": 296,
+    "win_percentage": 45.2,
     "avg_points": 1.63,
-    "best_rank": 26,
+    "best_rank": 25,
     "worst_rank": 97,
-    "avg_rank": 58.81,
+    "avg_rank": 58.76,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 215,
     "away_matches": 234,
-    "neutral_matches": 229,
+    "neutral_matches": 230,
     "first_match_date": "1959-12-31",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-12-23"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5290,
+      "rating1": 5303,
       "rating2": 5544,
       "rating_ev": 0,
-      "rank": 26,
-      "win_prob": 24.8,
+      "rank": 25,
+      "win_prob": 25.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5290,
+      "rating1": 5303,
       "rating2": 5551,
       "rating_ev": 0,
-      "rank": 26,
-      "win_prob": 24.2,
+      "rank": 25,
+      "win_prob": 25.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5290,
-      "rating2": 4900,
+      "rating1": 5303,
+      "rating2": 4896,
       "rating_ev": 0,
-      "rank": 26,
-      "win_prob": 84.4,
+      "rank": 25,
+      "win_prob": 85.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5290,
-      "rating2": 5070,
+      "rating1": 5303,
+      "rating2": 5074,
       "rating_ev": 0,
-      "rank": 26,
-      "win_prob": 72.4,
+      "rank": 25,
+      "win_prob": 73.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Botswana",
       "flag1": "senegal.png",
       "flag2": "botswana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5290,
-      "rating2": 4808,
-      "rating_ev": 0,
-      "rank": 26,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5303,
+      "rating2": 4795,
+      "rating_ev": 13,
+      "rank": 25,
       "win_prob": 88.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",
@@ -291,11 +291,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5290,
+      "rating1": 5303,
       "rating2": 5241,
       "rating_ev": 0,
-      "rank": 26,
-      "win_prob": 44.5,
+      "rank": 25,
+      "win_prob": 45.9,
       "type": "fixture"
     },
     {

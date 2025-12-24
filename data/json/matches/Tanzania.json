@@ -1,15 +1,15 @@
 {
   "team": "Tanzania",
   "stats": {
-    "matches_played": 618,
+    "matches_played": 619,
     "wins": 179,
     "draws": 171,
-    "losses": 268,
-    "goals_for": 695,
-    "goals_against": 904,
-    "goal_difference": -209,
-    "win_percentage": 29.0,
-    "avg_points": 1.15,
+    "losses": 269,
+    "goals_for": 696,
+    "goals_against": 906,
+    "goal_difference": -210,
+    "win_percentage": 28.9,
+    "avg_points": 1.14,
     "best_rank": 67,
     "worst_rank": 156,
     "avg_rank": 107.93,
@@ -27,9 +27,9 @@
     },
     "home_matches": 204,
     "away_matches": 220,
-    "neutral_matches": 194,
+    "neutral_matches": 195,
     "first_match_date": "1945-12-31",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2025-12-23"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4810,
-      "rating2": 5109,
+      "rating1": 4813,
+      "rating2": 5122,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 21.4,
+      "rank": 106,
+      "win_prob": 20.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "uganda.png",
       "score1": "",
       "score2": "",
-      "rating1": 4810,
-      "rating2": 4870,
+      "rating1": 4813,
+      "rating2": 4857,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 43.4,
+      "rank": 106,
+      "win_prob": 45.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Nigeria",
       "flag1": "tanzania.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4810,
-      "rating2": 5095,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4813,
+      "rating2": 5092,
+      "rating_ev": 3,
+      "rank": 106,
       "win_prob": 22.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",
