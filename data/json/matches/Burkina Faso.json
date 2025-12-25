@@ -1,18 +1,18 @@
 {
   "team": "Burkina Faso",
   "stats": {
-    "matches_played": 471,
-    "wins": 165,
+    "matches_played": 472,
+    "wins": 166,
     "draws": 126,
     "losses": 180,
-    "goals_for": 588,
-    "goals_against": 636,
-    "goal_difference": -48,
-    "win_percentage": 35.0,
+    "goals_for": 590,
+    "goals_against": 637,
+    "goal_difference": -47,
+    "win_percentage": 35.2,
     "avg_points": 1.32,
     "best_rank": 60,
     "worst_rank": 122,
-    "avg_rank": 91.59,
+    "avg_rank": 91.54,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 125,
     "away_matches": 176,
-    "neutral_matches": 170,
+    "neutral_matches": 171,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2025-12-24"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5055,
-      "rating2": 4805,
+      "rating1": 5056,
+      "rating2": 4788,
       "rating_ev": 0,
       "rank": 66,
-      "win_prob": 74.9,
+      "win_prob": 76.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5055,
-      "rating2": 5206,
+      "rating1": 5056,
+      "rating2": 5223,
       "rating_ev": 0,
       "rank": 66,
-      "win_prob": 34.0,
+      "win_prob": 32.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Equatorial Guinea",
       "flag1": "burkina.png",
       "flag2": "eq_guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5055,
-      "rating2": 4845,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5056,
+      "rating2": 4844,
+      "rating_ev": 1,
       "rank": 66,
       "win_prob": 71.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

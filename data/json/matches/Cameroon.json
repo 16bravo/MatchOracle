@@ -1,18 +1,18 @@
 {
   "team": "Cameroon",
   "stats": {
-    "matches_played": 649,
-    "wins": 282,
+    "matches_played": 650,
+    "wins": 283,
     "draws": 198,
     "losses": 169,
-    "goals_for": 938,
+    "goals_for": 939,
     "goals_against": 702,
-    "goal_difference": 236,
+    "goal_difference": 237,
     "win_percentage": 43.5,
     "avg_points": 1.61,
     "best_rank": 23,
     "worst_rank": 80,
-    "avg_rank": 52.85,
+    "avg_rank": 52.88,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Chad",
@@ -27,9 +27,9 @@
     },
     "home_matches": 184,
     "away_matches": 240,
-    "neutral_matches": 225,
+    "neutral_matches": 226,
     "first_match_date": "1953-09-30",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2025-12-24"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 5038,
-      "rating2": 4807,
+      "rating1": 5044,
+      "rating2": 4811,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 73.3,
+      "rank": 68,
+      "win_prob": 73.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5038,
-      "rating2": 5119,
+      "rating1": 5044,
+      "rating2": 5115,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 41.2,
+      "rank": 68,
+      "win_prob": 42.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Gabon",
       "flag1": "cameroon.png",
       "flag2": "gabon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5038,
-      "rating2": 4908,
-      "rating_ev": 0,
-      "rank": 69,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5044,
+      "rating2": 4902,
+      "rating_ev": 6,
+      "rank": 68,
       "win_prob": 63.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",
