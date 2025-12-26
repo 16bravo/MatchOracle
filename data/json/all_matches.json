@@ -143,6 +143,46 @@
     {
       "date": "2026-06-26",
       "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Argentina",
+      "team2": "Honduras",
+      "original_team1": "Argentina",
+      "original_team2": "Honduras",
+      "flag1": "argentina.png",
+      "flag2": "honduras.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5608,
+      "rating2": 4950,
+      "rating_ev": 0,
+      "rank1": 2,
+      "rank2": 81,
+      "win_prob": 94.1,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-26",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Argentina",
+      "team2": "Mexico",
+      "original_team1": "Argentina",
+      "original_team2": "Mexico",
+      "flag1": "argentina.png",
+      "flag2": "mexico.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5608,
+      "rating2": 5268,
+      "rating_ev": 0,
+      "rank1": 2,
+      "rank2": 28,
+      "win_prob": 81.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-26",
+      "country": "United States",
       "tournament": "World Cup",
       "team1": "Cape Verde",
       "team2": "Saudi Arabia",
@@ -198,46 +238,6 @@
       "rank1": 5,
       "rank2": 6,
       "win_prob": 50.8,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-25",
-      "country": "United States",
-      "tournament": "Friendly",
-      "team1": "Argentina",
-      "team2": "Honduras",
-      "original_team1": "Argentina",
-      "original_team2": "Honduras",
-      "flag1": "argentina.png",
-      "flag2": "honduras.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5608,
-      "rating2": 4950,
-      "rating_ev": 0,
-      "rank1": 2,
-      "rank2": 81,
-      "win_prob": 94.1,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-25",
-      "country": "United States",
-      "tournament": "Friendly",
-      "team1": "Argentina",
-      "team2": "Mexico",
-      "original_team1": "Argentina",
-      "original_team2": "Mexico",
-      "flag1": "argentina.png",
-      "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5608,
-      "rating2": 5268,
-      "rating_ev": 0,
-      "rank1": 2,
-      "rank2": 28,
-      "win_prob": 81.4,
       "type": "fixture"
     },
     {
@@ -1161,7 +1161,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Antigua and Barbuda",
@@ -1181,7 +1181,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Antigua and Barbuda",
@@ -1201,7 +1201,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Aruba",
@@ -1221,7 +1221,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Aruba",
@@ -1241,7 +1241,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Barbados",
@@ -1261,7 +1261,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Cayman Islands",
       "tournament": "Friendly tournament",
       "team1": "Anguilla",
@@ -1281,7 +1281,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Cayman Islands",
       "tournament": "Friendly tournament",
       "team1": "Cayman Islands",
@@ -1301,7 +1301,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Cuba",
@@ -1321,7 +1321,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Dominican Republic",
@@ -1341,7 +1341,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Dominican Republic",
@@ -1361,7 +1361,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Martinique",
@@ -1381,7 +1381,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Martinique",
@@ -1401,7 +1401,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Belize",
@@ -1421,7 +1421,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Belize",
@@ -1441,7 +1441,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Saint Kitts and Nevis",
@@ -1461,7 +1461,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Saint Kitts and Nevis",
@@ -1481,7 +1481,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Saint Martin",
@@ -23938,46 +23938,6 @@
       "rank1": 179,
       "rank2": 141,
       "win_prob": 23.8,
-      "type": "past"
-    },
-    {
-      "date": "2024-12-25",
-      "country": "Kuwait",
-      "tournament": "Gulf Cup",
-      "team1": "Bahrain",
-      "team2": "Iraq",
-      "original_team1": "Bahrain",
-      "original_team2": "Iraq",
-      "flag1": "bahrain.png",
-      "flag2": "iraq.png",
-      "score1": 2,
-      "score2": 0,
-      "rating1": 4896,
-      "rating2": 4990,
-      "rating_ev": 38,
-      "rank1": 91,
-      "rank2": 75,
-      "win_prob": 32.2,
-      "type": "past"
-    },
-    {
-      "date": "2024-12-25",
-      "country": "Kuwait",
-      "tournament": "Gulf Cup",
-      "team1": "Saudi Arabia",
-      "team2": "Yemen",
-      "original_team1": "Saudi Arabia",
-      "original_team2": "Yemen",
-      "flag1": "saudi_arabia.png",
-      "flag2": "yemen.png",
-      "score1": 3,
-      "score2": 2,
-      "rating1": 4919,
-      "rating2": 4474,
-      "rating_ev": -13,
-      "rank1": 83,
-      "rank2": 163,
-      "win_prob": 88.3,
       "type": "past"
     }
   ]
