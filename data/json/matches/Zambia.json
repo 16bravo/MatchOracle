@@ -1,9 +1,9 @@
 {
   "team": "Zambia",
   "stats": {
-    "matches_played": 846,
+    "matches_played": 847,
     "wins": 380,
-    "draws": 216,
+    "draws": 217,
     "losses": 250,
     "goals_for": 1334,
     "goals_against": 902,
@@ -12,7 +12,7 @@
     "avg_points": 1.6,
     "best_rank": 35,
     "worst_rank": 111,
-    "avg_rank": 66.51,
+    "avg_rank": 66.55,
     "biggest_win": {
       "score": "11-2",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 255,
     "away_matches": 346,
-    "neutral_matches": 245,
+    "neutral_matches": 246,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-12-22"
+    "last_match_date": "2025-12-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4850,
-      "rating2": 5313,
+      "rating1": 4849,
+      "rating2": 5296,
       "rating_ev": 0,
       "rank": 100,
-      "win_prob": 8.1,
+      "win_prob": 8.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Comoros",
       "flag1": "zambia.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4850,
-      "rating2": 4829,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4849,
+      "rating2": 4830,
+      "rating_ev": -1,
       "rank": 100,
       "win_prob": 52.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-22",

@@ -1,18 +1,18 @@
 {
   "team": "Angola",
   "stats": {
-    "matches_played": 455,
+    "matches_played": 456,
     "wins": 168,
-    "draws": 155,
+    "draws": 156,
     "losses": 132,
-    "goals_for": 545,
-    "goals_against": 463,
+    "goals_for": 546,
+    "goals_against": 464,
     "goal_difference": 82,
-    "win_percentage": 36.9,
+    "win_percentage": 36.8,
     "avg_points": 1.45,
     "best_rank": 58,
     "worst_rank": 138,
-    "avg_rank": 84.82,
+    "avg_rank": 84.79,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 157,
     "away_matches": 176,
-    "neutral_matches": 122,
+    "neutral_matches": 123,
     "first_match_date": "1976-02-08",
-    "last_match_date": "2025-12-22"
+    "last_match_date": "2025-12-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5025,
-      "rating2": 5011,
+      "rating1": 5012,
+      "rating2": 5025,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 51.5,
+      "rank": 71,
+      "win_prob": 48.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Zimbabwe",
       "flag1": "angola.png",
       "flag2": "zimbabwe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5025,
-      "rating2": 4811,
-      "rating_ev": 0,
-      "rank": 70,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5012,
+      "rating2": 4824,
+      "rating_ev": -13,
+      "rank": 71,
       "win_prob": 71.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-22",

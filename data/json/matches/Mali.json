@@ -1,18 +1,18 @@
 {
   "team": "Mali",
   "stats": {
-    "matches_played": 603,
+    "matches_played": 604,
     "wins": 247,
-    "draws": 159,
+    "draws": 160,
     "losses": 197,
-    "goals_for": 804,
-    "goals_against": 683,
+    "goals_for": 805,
+    "goals_against": 684,
     "goal_difference": 121,
-    "win_percentage": 41.0,
+    "win_percentage": 40.9,
     "avg_points": 1.49,
     "best_rank": 48,
     "worst_rank": 115,
-    "avg_rank": 76.54,
+    "avg_rank": 76.5,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Mauritania",
@@ -26,10 +26,10 @@
       "flag": "algeria.png"
     },
     "home_matches": 188,
-    "away_matches": 218,
+    "away_matches": 219,
     "neutral_matches": 197,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-12-22"
+    "last_match_date": "2025-12-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "comoros.png",
       "score1": "",
       "score2": "",
-      "rating1": 5116,
-      "rating2": 4829,
+      "rating1": 5133,
+      "rating2": 4830,
       "rating_ev": 0,
-      "rank": 56,
-      "win_prob": 77.8,
+      "rank": 50,
+      "win_prob": 78.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Morocco",
       "flag1": "mali.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5116,
-      "rating2": 5313,
-      "rating_ev": 0,
-      "rank": 56,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5133,
+      "rating2": 5296,
+      "rating_ev": 17,
+      "rank": 50,
       "win_prob": 21.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-22",

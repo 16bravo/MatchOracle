@@ -1,18 +1,18 @@
 {
   "team": "Zimbabwe",
   "stats": {
-    "matches_played": 520,
+    "matches_played": 521,
     "wins": 199,
-    "draws": 150,
+    "draws": 151,
     "losses": 171,
-    "goals_for": 693,
-    "goals_against": 606,
+    "goals_for": 694,
+    "goals_against": 607,
     "goal_difference": 87,
-    "win_percentage": 38.3,
+    "win_percentage": 38.2,
     "avg_points": 1.44,
     "best_rank": 43,
     "worst_rank": 130,
-    "avg_rank": 85.23,
+    "avg_rank": 85.27,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Botswana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 165,
     "away_matches": 204,
-    "neutral_matches": 151,
+    "neutral_matches": 152,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-12-22"
+    "last_match_date": "2025-12-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4811,
-      "rating2": 5017,
+      "rating1": 4824,
+      "rating2": 5003,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 28.8,
+      "rank": 104,
+      "win_prob": 31.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Angola",
       "flag1": "zimbabwe.png",
       "flag2": "angola.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4811,
-      "rating2": 5025,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4824,
+      "rating2": 5012,
+      "rating_ev": 13,
+      "rank": 104,
       "win_prob": 28.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-22",
