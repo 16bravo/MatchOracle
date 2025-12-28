@@ -1,18 +1,18 @@
 {
   "team": "Senegal",
   "stats": {
-    "matches_played": 679,
+    "matches_played": 680,
     "wins": 307,
-    "draws": 189,
+    "draws": 190,
     "losses": 183,
-    "goals_for": 936,
-    "goals_against": 640,
+    "goals_for": 937,
+    "goals_against": 641,
     "goal_difference": 296,
-    "win_percentage": 45.2,
+    "win_percentage": 45.1,
     "avg_points": 1.63,
     "best_rank": 25,
     "worst_rank": 97,
-    "avg_rank": 58.76,
+    "avg_rank": 58.71,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 215,
     "away_matches": 234,
-    "neutral_matches": 230,
+    "neutral_matches": 231,
     "first_match_date": "1959-12-31",
-    "last_match_date": "2025-12-23"
+    "last_match_date": "2025-12-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
+      "rating1": 5289,
       "rating2": 5544,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 25.8,
+      "rank": 26,
+      "win_prob": 24.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
+      "rating1": 5289,
       "rating2": 5551,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 25.3,
+      "rank": 26,
+      "win_prob": 24.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
-      "rating2": 4896,
+      "rating1": 5289,
+      "rating2": 4904,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 85.3,
+      "rank": 26,
+      "win_prob": 84.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "DR Congo",
       "flag1": "senegal.png",
       "flag2": "dr_congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5303,
-      "rating2": 5074,
-      "rating_ev": 0,
-      "rank": 24,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5289,
+      "rating2": 5088,
+      "rating_ev": -14,
+      "rank": 26,
       "win_prob": 73.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-23",
@@ -291,11 +291,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5303,
+      "rating1": 5289,
       "rating2": 5241,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 45.9,
+      "rank": 26,
+      "win_prob": 44.3,
       "type": "fixture"
     },
     {

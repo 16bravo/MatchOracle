@@ -1,18 +1,18 @@
 {
   "team": "Tanzania",
   "stats": {
-    "matches_played": 619,
+    "matches_played": 620,
     "wins": 179,
-    "draws": 171,
+    "draws": 172,
     "losses": 269,
-    "goals_for": 696,
-    "goals_against": 906,
+    "goals_for": 697,
+    "goals_against": 907,
     "goal_difference": -210,
     "win_percentage": 28.9,
     "avg_points": 1.14,
     "best_rank": 67,
     "worst_rank": 156,
-    "avg_rank": 107.93,
+    "avg_rank": 107.92,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Somalia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 204,
     "away_matches": 220,
-    "neutral_matches": 195,
+    "neutral_matches": 196,
     "first_match_date": "1945-12-31",
-    "last_match_date": "2025-12-23"
+    "last_match_date": "2025-12-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4813,
-      "rating2": 5122,
+      "rating1": 4816,
+      "rating2": 5106,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 20.6,
+      "rank": 106,
+      "win_prob": 22.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Uganda",
       "flag1": "tanzania.png",
       "flag2": "uganda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4813,
-      "rating2": 4857,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4816,
+      "rating2": 4854,
+      "rating_ev": 3,
+      "rank": 106,
       "win_prob": 45.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-23",

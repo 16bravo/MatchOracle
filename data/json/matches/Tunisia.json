@@ -1,18 +1,18 @@
 {
   "team": "Tunisia",
   "stats": {
-    "matches_played": 753,
+    "matches_played": 754,
     "wins": 322,
     "draws": 207,
-    "losses": 224,
-    "goals_for": 1069,
-    "goals_against": 809,
-    "goal_difference": 260,
-    "win_percentage": 42.8,
+    "losses": 225,
+    "goals_for": 1071,
+    "goals_against": 812,
+    "goal_difference": 259,
+    "win_percentage": 42.7,
     "avg_points": 1.56,
     "best_rank": 31,
     "worst_rank": 88,
-    "avg_rank": 52.67,
+    "avg_rank": 52.68,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Taiwan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 329,
     "away_matches": 244,
-    "neutral_matches": 180,
+    "neutral_matches": 181,
     "first_match_date": "1954-05-31",
-    "last_match_date": "2025-12-23"
+    "last_match_date": "2025-12-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5122,
+      "rating1": 5106,
       "rating2": 5541,
       "rating_ev": 0,
-      "rank": 54,
-      "win_prob": 14.1,
+      "rank": 59,
+      "win_prob": 13.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5122,
+      "rating1": 5106,
       "rating2": 5423,
       "rating_ev": 0,
-      "rank": 54,
-      "win_prob": 21.2,
+      "rank": 59,
+      "win_prob": 20.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5122,
-      "rating2": 4813,
+      "rating1": 5106,
+      "rating2": 4816,
       "rating_ev": 0,
-      "rank": 54,
-      "win_prob": 79.4,
+      "rank": 59,
+      "win_prob": 78.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Nigeria",
       "flag1": "tunisia.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5122,
-      "rating2": 5092,
-      "rating_ev": 0,
-      "rank": 54,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 5106,
+      "rating2": 5108,
+      "rating_ev": -16,
+      "rank": 59,
       "win_prob": 53.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-23",
@@ -386,11 +386,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5122,
+      "rating1": 5106,
       "rating2": 5285,
       "rating_ev": 0,
-      "rank": 54,
-      "win_prob": 24.0,
+      "rank": 59,
+      "win_prob": 22.7,
       "type": "fixture"
     },
     {

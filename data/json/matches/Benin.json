@@ -1,18 +1,18 @@
 {
   "team": "Benin",
   "stats": {
-    "matches_played": 342,
-    "wins": 85,
+    "matches_played": 343,
+    "wins": 86,
     "draws": 83,
     "losses": 174,
-    "goals_for": 357,
+    "goals_for": 358,
     "goals_against": 598,
-    "goal_difference": -241,
-    "win_percentage": 24.9,
+    "goal_difference": -240,
+    "win_percentage": 25.1,
     "avg_points": 0.99,
     "best_rank": 64,
     "worst_rank": 156,
-    "avg_rank": 106.4,
+    "avg_rank": 106.34,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 104,
     "away_matches": 140,
-    "neutral_matches": 98,
+    "neutral_matches": 99,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-12-23"
+    "last_match_date": "2025-12-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
-      "rating2": 5303,
+      "rating1": 4904,
+      "rating2": 5289,
       "rating_ev": 0,
-      "rank": 90,
-      "win_prob": 14.7,
+      "rank": 87,
+      "win_prob": 15.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Botswana",
       "flag1": "benin.png",
       "flag2": "botswana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4896,
-      "rating2": 4795,
-      "rating_ev": 0,
-      "rank": 90,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4904,
+      "rating2": 4787,
+      "rating_ev": 8,
+      "rank": 87,
       "win_prob": 60.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-23",

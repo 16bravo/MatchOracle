@@ -1,18 +1,18 @@
 {
   "team": "DR Congo",
   "stats": {
-    "matches_played": 534,
+    "matches_played": 535,
     "wins": 218,
-    "draws": 148,
+    "draws": 149,
     "losses": 168,
-    "goals_for": 816,
-    "goals_against": 631,
+    "goals_for": 817,
+    "goals_against": 632,
     "goal_difference": 185,
-    "win_percentage": 40.8,
+    "win_percentage": 40.7,
     "avg_points": 1.5,
     "best_rank": 26,
     "worst_rank": 109,
-    "avg_rank": 66.35,
+    "avg_rank": 66.34,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Zambia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 103,
     "away_matches": 217,
-    "neutral_matches": 214,
+    "neutral_matches": 215,
     "first_match_date": "1948-12-31",
-    "last_match_date": "2025-12-23"
+    "last_match_date": "2025-12-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "botswana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5074,
-      "rating2": 4795,
+      "rating1": 5088,
+      "rating2": 4787,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 77.2,
+      "rank": 62,
+      "win_prob": 78.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Senegal",
       "flag1": "dr_congo.png",
       "flag2": "senegal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5074,
-      "rating2": 5303,
-      "rating_ev": 0,
-      "rank": 63,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5088,
+      "rating2": 5289,
+      "rating_ev": 14,
+      "rank": 62,
       "win_prob": 26.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-23",
