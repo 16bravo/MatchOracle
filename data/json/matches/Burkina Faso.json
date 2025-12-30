@@ -1,18 +1,18 @@
 {
   "team": "Burkina Faso",
   "stats": {
-    "matches_played": 472,
+    "matches_played": 473,
     "wins": 166,
     "draws": 126,
-    "losses": 180,
+    "losses": 181,
     "goals_for": 590,
-    "goals_against": 637,
-    "goal_difference": -47,
-    "win_percentage": 35.2,
+    "goals_against": 638,
+    "goal_difference": -48,
+    "win_percentage": 35.1,
     "avg_points": 1.32,
     "best_rank": 60,
     "worst_rank": 122,
-    "avg_rank": 91.54,
+    "avg_rank": 91.48,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 125,
     "away_matches": 176,
-    "neutral_matches": 171,
+    "neutral_matches": 172,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-12-24"
+    "last_match_date": "2025-12-28"
   },
   "matches": [
     {
@@ -44,12 +44,31 @@
       "flag2": "sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5056,
-      "rating2": 4788,
+      "rating1": 5052,
+      "rating2": 4805,
       "rating_ev": 0,
       "rank": 66,
-      "win_prob": 76.3,
+      "win_prob": 74.7,
       "type": "fixture"
+    },
+    {
+      "date": "2025-12-28",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Burkina Faso",
+      "team2": "Algeria",
+      "original_team1": "Burkina Faso",
+      "original_team2": "Algeria",
+      "flag1": "burkina.png",
+      "flag2": "algeria.png",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5052,
+      "rating2": 5227,
+      "rating_ev": -4,
+      "rank": 66,
+      "win_prob": 32.4,
+      "type": "past"
     },
     {
       "date": "2025-12-24",

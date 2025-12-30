@@ -1,18 +1,18 @@
 {
   "team": "Morocco",
   "stats": {
-    "matches_played": 718,
-    "wins": 356,
+    "matches_played": 719,
+    "wins": 357,
     "draws": 200,
     "losses": 162,
-    "goals_for": 1084,
+    "goals_for": 1087,
     "goals_against": 608,
-    "goal_difference": 476,
-    "win_percentage": 49.6,
+    "goal_difference": 479,
+    "win_percentage": 49.7,
     "avg_points": 1.77,
     "best_rank": 15,
     "worst_rank": 76,
-    "avg_rank": 44.5,
+    "avg_rank": 44.48,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Saudi Arabia",
@@ -25,11 +25,11 @@
       "date": "1961-10-11",
       "flag": "switzerland.png"
     },
-    "home_matches": 312,
+    "home_matches": 313,
     "away_matches": 211,
     "neutral_matches": 195,
     "first_match_date": "1957-10-19",
-    "last_match_date": "2025-12-26"
+    "last_match_date": "2025-12-29"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5296,
+      "rating1": 5305,
       "rating2": 4984,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 79.6,
+      "rank": 24,
+      "win_prob": 80.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5296,
+      "rating1": 5305,
       "rating2": 5297,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 49.9,
+      "rank": 24,
+      "win_prob": 50.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5296,
+      "rating1": 5305,
       "rating2": 5497,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 29.3,
+      "rank": 24,
+      "win_prob": 30.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Zambia",
       "flag1": "morocco.png",
       "flag2": "zambia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5296,
-      "rating2": 4849,
-      "rating_ev": 0,
-      "rank": 25,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5305,
+      "rating2": 4840,
+      "rating_ev": 9,
+      "rank": 24,
       "win_prob": 91.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-26",

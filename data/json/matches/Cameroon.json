@@ -1,18 +1,18 @@
 {
   "team": "Cameroon",
   "stats": {
-    "matches_played": 650,
+    "matches_played": 651,
     "wins": 283,
-    "draws": 198,
+    "draws": 199,
     "losses": 169,
-    "goals_for": 939,
-    "goals_against": 702,
+    "goals_for": 940,
+    "goals_against": 703,
     "goal_difference": 237,
     "win_percentage": 43.5,
     "avg_points": 1.61,
     "best_rank": 23,
     "worst_rank": 80,
-    "avg_rank": 52.88,
+    "avg_rank": 52.9,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Chad",
@@ -27,9 +27,9 @@
     },
     "home_matches": 184,
     "away_matches": 240,
-    "neutral_matches": 226,
+    "neutral_matches": 227,
     "first_match_date": "1953-09-30",
-    "last_match_date": "2025-12-24"
+    "last_match_date": "2025-12-28"
   },
   "matches": [
     {
@@ -44,12 +44,31 @@
       "flag2": "mozambique.png",
       "score1": "",
       "score2": "",
-      "rating1": 5044,
-      "rating2": 4811,
+      "rating1": 5048,
+      "rating2": 4830,
       "rating_ev": 0,
       "rank": 68,
-      "win_prob": 73.5,
+      "win_prob": 72.2,
       "type": "fixture"
+    },
+    {
+      "date": "2025-12-28",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Cameroon",
+      "team2": "Ivory Coast",
+      "original_team1": "Cameroon",
+      "original_team2": "Ivory Coast",
+      "flag1": "cameroon.png",
+      "flag2": "ivory_coast.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5048,
+      "rating2": 5111,
+      "rating_ev": 4,
+      "rank": 68,
+      "win_prob": 42.2,
+      "type": "past"
     },
     {
       "date": "2025-12-24",

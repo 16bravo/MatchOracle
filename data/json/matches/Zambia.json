@@ -1,18 +1,18 @@
 {
   "team": "Zambia",
   "stats": {
-    "matches_played": 847,
+    "matches_played": 848,
     "wins": 380,
     "draws": 217,
-    "losses": 250,
+    "losses": 251,
     "goals_for": 1334,
-    "goals_against": 902,
-    "goal_difference": 432,
-    "win_percentage": 44.9,
+    "goals_against": 905,
+    "goal_difference": 429,
+    "win_percentage": 44.8,
     "avg_points": 1.6,
     "best_rank": 35,
     "worst_rank": 111,
-    "avg_rank": 66.55,
+    "avg_rank": 66.59,
     "biggest_win": {
       "score": "11-2",
       "opponent": "Swaziland",
@@ -26,10 +26,10 @@
       "flag": "dr_congo_1.png"
     },
     "home_matches": 255,
-    "away_matches": 346,
+    "away_matches": 347,
     "neutral_matches": 246,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-12-26"
+    "last_match_date": "2025-12-29"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Morocco",
       "flag1": "zambia.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4849,
-      "rating2": 5296,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4840,
+      "rating2": 5305,
+      "rating_ev": -9,
       "rank": 100,
       "win_prob": 8.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-26",

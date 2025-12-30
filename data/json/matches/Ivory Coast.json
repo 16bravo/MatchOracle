@@ -1,18 +1,18 @@
 {
   "team": "Ivory Coast",
   "stats": {
-    "matches_played": 666,
+    "matches_played": 667,
     "wins": 338,
-    "draws": 169,
+    "draws": 170,
     "losses": 159,
-    "goals_for": 1078,
-    "goals_against": 658,
+    "goals_for": 1079,
+    "goals_against": 659,
     "goal_difference": 420,
-    "win_percentage": 50.8,
+    "win_percentage": 50.7,
     "avg_points": 1.78,
     "best_rank": 11,
     "worst_rank": 80,
-    "avg_rank": 46.86,
+    "avg_rank": 46.87,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Central African Republic",
@@ -27,9 +27,9 @@
     },
     "home_matches": 230,
     "away_matches": 225,
-    "neutral_matches": 211,
+    "neutral_matches": 212,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-12-24"
+    "last_match_date": "2025-12-28"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5115,
+      "rating1": 5111,
       "rating2": 4896,
       "rating_ev": 0,
       "rank": 56,
-      "win_prob": 72.3,
+      "win_prob": 72.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5115,
+      "rating1": 5111,
       "rating2": 5536,
       "rating_ev": 0,
       "rank": 56,
-      "win_prob": 14.0,
+      "win_prob": 13.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5115,
+      "rating1": 5111,
       "rating2": 5420,
       "rating_ev": 0,
       "rank": 56,
-      "win_prob": 20.9,
+      "win_prob": 20.6,
       "type": "fixture"
     },
     {
@@ -101,12 +101,31 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 5115,
-      "rating2": 4902,
+      "rating1": 5111,
+      "rating2": 4883,
       "rating_ev": 0,
       "rank": 56,
-      "win_prob": 71.8,
+      "win_prob": 73.1,
       "type": "fixture"
+    },
+    {
+      "date": "2025-12-28",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Ivory Coast",
+      "team2": "Cameroon",
+      "original_team1": "Ivory Coast",
+      "original_team2": "Cameroon",
+      "flag1": "ivory_coast.png",
+      "flag2": "cameroon.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5111,
+      "rating2": 5048,
+      "rating_ev": -4,
+      "rank": 56,
+      "win_prob": 57.8,
+      "type": "past"
     },
     {
       "date": "2025-12-24",

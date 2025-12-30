@@ -1,9 +1,9 @@
 {
   "team": "Angola",
   "stats": {
-    "matches_played": 456,
+    "matches_played": 457,
     "wins": 168,
-    "draws": 156,
+    "draws": 157,
     "losses": 132,
     "goals_for": 546,
     "goals_against": 464,
@@ -12,7 +12,7 @@
     "avg_points": 1.45,
     "best_rank": 58,
     "worst_rank": 138,
-    "avg_rank": 84.79,
+    "avg_rank": 84.76,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 157,
     "away_matches": 176,
-    "neutral_matches": 123,
+    "neutral_matches": 124,
     "first_match_date": "1976-02-08",
-    "last_match_date": "2025-12-26"
+    "last_match_date": "2025-12-29"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Egypt",
       "flag1": "angola.png",
       "flag2": "egypt.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5012,
-      "rating2": 5025,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5013,
+      "rating2": 5024,
+      "rating_ev": 1,
       "rank": 71,
       "win_prob": 48.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-26",

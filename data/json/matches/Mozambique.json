@@ -1,18 +1,18 @@
 {
   "team": "Mozambique",
   "stats": {
-    "matches_played": 412,
-    "wins": 126,
+    "matches_played": 413,
+    "wins": 127,
     "draws": 107,
     "losses": 179,
-    "goals_for": 416,
-    "goals_against": 533,
-    "goal_difference": -117,
-    "win_percentage": 30.6,
+    "goals_for": 419,
+    "goals_against": 535,
+    "goal_difference": -116,
+    "win_percentage": 30.8,
     "avg_points": 1.18,
     "best_rank": 79,
     "worst_rank": 143,
-    "avg_rank": 112.67,
+    "avg_rank": 112.65,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lesotho",
@@ -27,9 +27,9 @@
     },
     "home_matches": 153,
     "away_matches": 162,
-    "neutral_matches": 97,
+    "neutral_matches": 98,
     "first_match_date": "1975-06-25",
-    "last_match_date": "2025-12-24"
+    "last_match_date": "2025-12-28"
   },
   "matches": [
     {
@@ -44,12 +44,31 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4811,
-      "rating2": 5044,
+      "rating1": 4830,
+      "rating2": 5048,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 26.5,
+      "rank": 103,
+      "win_prob": 27.8,
       "type": "fixture"
+    },
+    {
+      "date": "2025-12-28",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Mozambique",
+      "team2": "Gabon",
+      "original_team1": "Mozambique",
+      "original_team2": "Gabon",
+      "flag1": "mozambique.png",
+      "flag2": "gabon.png",
+      "score1": 3,
+      "score2": 2,
+      "rating1": 4830,
+      "rating2": 4883,
+      "rating_ev": 19,
+      "rank": 102,
+      "win_prob": 40.1,
+      "type": "past"
     },
     {
       "date": "2025-12-24",
