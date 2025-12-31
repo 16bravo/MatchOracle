@@ -1,18 +1,18 @@
 {
   "team": "Nigeria",
   "stats": {
-    "matches_played": 702,
-    "wins": 322,
+    "matches_played": 703,
+    "wins": 323,
     "draws": 201,
     "losses": 179,
-    "goals_for": 1050,
-    "goals_against": 717,
-    "goal_difference": 333,
+    "goals_for": 1053,
+    "goals_against": 718,
+    "goal_difference": 335,
     "win_percentage": 45.9,
     "avg_points": 1.66,
     "best_rank": 23,
     "worst_rank": 71,
-    "avg_rank": 46.98,
+    "avg_rank": 46.99,
     "biggest_win": {
       "score": "10-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 235,
     "away_matches": 260,
-    "neutral_matches": 207,
+    "neutral_matches": 208,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2025-12-27"
+    "last_match_date": "2025-12-30"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Uganda",
       "flag1": "nigeria.png",
       "flag2": "uganda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5108,
-      "rating2": 4854,
-      "rating_ev": 0,
-      "rank": 58,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5121,
+      "rating2": 4841,
+      "rating_ev": 13,
+      "rank": 54,
       "win_prob": 75.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-27",

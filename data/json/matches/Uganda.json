@@ -1,18 +1,18 @@
 {
   "team": "Uganda",
   "stats": {
-    "matches_played": 713,
+    "matches_played": 714,
     "wins": 299,
     "draws": 186,
-    "losses": 228,
-    "goals_for": 1073,
-    "goals_against": 851,
-    "goal_difference": 222,
+    "losses": 229,
+    "goals_for": 1074,
+    "goals_against": 854,
+    "goal_difference": 220,
     "win_percentage": 41.9,
     "avg_points": 1.52,
     "best_rank": 25,
     "worst_rank": 127,
-    "avg_rank": 82.63,
+    "avg_rank": 82.66,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Kenya",
@@ -27,9 +27,9 @@
     },
     "home_matches": 242,
     "away_matches": 240,
-    "neutral_matches": 231,
+    "neutral_matches": 232,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-12-27"
+    "last_match_date": "2025-12-30"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Nigeria",
       "flag1": "uganda.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4854,
-      "rating2": 5108,
-      "rating_ev": 0,
-      "rank": 99,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4841,
+      "rating2": 5121,
+      "rating_ev": -13,
+      "rank": 100,
       "win_prob": 24.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-27",

@@ -1,18 +1,18 @@
 {
   "team": "Tanzania",
   "stats": {
-    "matches_played": 620,
+    "matches_played": 621,
     "wins": 179,
-    "draws": 172,
+    "draws": 173,
     "losses": 269,
-    "goals_for": 697,
-    "goals_against": 907,
+    "goals_for": 698,
+    "goals_against": 908,
     "goal_difference": -210,
-    "win_percentage": 28.9,
+    "win_percentage": 28.8,
     "avg_points": 1.14,
     "best_rank": 67,
     "worst_rank": 156,
-    "avg_rank": 107.92,
+    "avg_rank": 107.91,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Somalia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 204,
     "away_matches": 220,
-    "neutral_matches": 196,
+    "neutral_matches": 197,
     "first_match_date": "1945-12-31",
-    "last_match_date": "2025-12-27"
+    "last_match_date": "2025-12-30"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Tunisia",
       "flag1": "tanzania.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4816,
-      "rating2": 5106,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4833,
+      "rating2": 5089,
+      "rating_ev": 17,
+      "rank": 103,
       "win_prob": 22.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-27",
@@ -259,6 +259,25 @@
       "rank": 94,
       "win_prob": 7.5,
       "type": "past"
+    },
+    {
+      "date": "2025-01-04",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Tanzania",
+      "team2": "Morocco",
+      "original_team1": "Tanzania",
+      "original_team2": "Morocco",
+      "flag1": "tanzania.png",
+      "flag2": "morocco.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4833,
+      "rating2": 5305,
+      "rating_ev": 0,
+      "rank": 103,
+      "win_prob": 7.8,
+      "type": "fixture"
     },
     {
       "date": "2024-11-19",
