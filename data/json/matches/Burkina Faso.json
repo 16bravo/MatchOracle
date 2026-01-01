@@ -1,18 +1,18 @@
 {
   "team": "Burkina Faso",
   "stats": {
-    "matches_played": 473,
-    "wins": 166,
+    "matches_played": 474,
+    "wins": 167,
     "draws": 126,
     "losses": 181,
-    "goals_for": 590,
+    "goals_for": 592,
     "goals_against": 638,
-    "goal_difference": -48,
-    "win_percentage": 35.1,
+    "goal_difference": -46,
+    "win_percentage": 35.2,
     "avg_points": 1.32,
     "best_rank": 60,
     "worst_rank": 122,
-    "avg_rank": 91.48,
+    "avg_rank": 91.43,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -27,11 +27,30 @@
     },
     "home_matches": 125,
     "away_matches": 176,
-    "neutral_matches": 172,
+    "neutral_matches": 173,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-12-28"
+    "last_match_date": "2025-12-31"
   },
   "matches": [
+    {
+      "date": "2026-01-06",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Burkina Faso",
+      "team2": "Ivory Coast",
+      "original_team1": "Burkina Faso",
+      "original_team2": "Ivory Coast",
+      "flag1": "burkina.png",
+      "flag2": "ivory_coast.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5065,
+      "rating2": 5111,
+      "rating_ev": 0,
+      "rank": 66,
+      "win_prob": 45.0,
+      "type": "fixture"
+    },
     {
       "date": "2025-12-31",
       "country": "Morocco",
@@ -42,14 +61,14 @@
       "original_team2": "Sudan",
       "flag1": "burkina.png",
       "flag2": "sudan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5052,
-      "rating2": 4805,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5065,
+      "rating2": 4792,
+      "rating_ev": 13,
       "rank": 66,
       "win_prob": 74.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-28",

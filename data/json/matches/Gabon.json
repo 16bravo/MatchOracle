@@ -1,18 +1,18 @@
 {
   "team": "Gabon",
   "stats": {
-    "matches_played": 449,
+    "matches_played": 450,
     "wins": 156,
     "draws": 126,
-    "losses": 167,
-    "goals_for": 531,
-    "goals_against": 542,
-    "goal_difference": -11,
+    "losses": 168,
+    "goals_for": 533,
+    "goals_against": 545,
+    "goal_difference": -12,
     "win_percentage": 34.7,
     "avg_points": 1.32,
     "best_rank": 63,
     "worst_rank": 116,
-    "avg_rank": 88.58,
+    "avg_rank": 88.59,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Benin",
@@ -27,9 +27,9 @@
     },
     "home_matches": 179,
     "away_matches": 148,
-    "neutral_matches": 122,
+    "neutral_matches": 123,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-12-28"
+    "last_match_date": "2025-12-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Ivory Coast",
       "flag1": "gabon.png",
       "flag2": "ivory_coast.png",
-      "score1": "",
-      "score2": "",
+      "score1": 2,
+      "score2": 3,
       "rating1": 4883,
       "rating2": 5111,
       "rating_ev": 0,
       "rank": 94,
       "win_prob": 26.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-28",

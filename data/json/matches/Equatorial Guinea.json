@@ -1,18 +1,18 @@
 {
   "team": "Equatorial Guinea",
   "stats": {
-    "matches_played": 190,
+    "matches_played": 191,
     "wins": 55,
     "draws": 43,
-    "losses": 92,
-    "goals_for": 174,
-    "goals_against": 274,
-    "goal_difference": -100,
-    "win_percentage": 28.9,
+    "losses": 93,
+    "goals_for": 175,
+    "goals_against": 277,
+    "goal_difference": -102,
+    "win_percentage": 28.8,
     "avg_points": 1.09,
     "best_rank": 69,
     "worst_rank": 168,
-    "avg_rank": 122.92,
+    "avg_rank": 122.82,
     "biggest_win": {
       "score": "4-0",
       "opponent": "South Sudan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 80,
     "away_matches": 62,
-    "neutral_matches": 48,
+    "neutral_matches": 49,
     "first_match_date": "1975-05-23",
-    "last_match_date": "2025-12-28"
+    "last_match_date": "2025-12-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Algeria",
       "flag1": "eq_guinea.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4827,
-      "rating2": 5227,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4823,
+      "rating2": 5231,
+      "rating_ev": -4,
       "rank": 105,
       "win_prob": 15.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-28",
