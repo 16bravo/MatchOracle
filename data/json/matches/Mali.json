@@ -1,18 +1,18 @@
 {
   "team": "Mali",
   "stats": {
-    "matches_played": 605,
+    "matches_played": 606,
     "wins": 247,
-    "draws": 161,
+    "draws": 162,
     "losses": 197,
-    "goals_for": 805,
-    "goals_against": 684,
+    "goals_for": 806,
+    "goals_against": 685,
     "goal_difference": 121,
     "win_percentage": 40.8,
     "avg_points": 1.49,
     "best_rank": 48,
     "worst_rank": 115,
-    "avg_rank": 76.46,
+    "avg_rank": 76.43,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Mauritania",
@@ -27,11 +27,30 @@
     },
     "home_matches": 188,
     "away_matches": 219,
-    "neutral_matches": 198,
+    "neutral_matches": 199,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-12-29"
+    "last_match_date": "2026-01-03"
   },
   "matches": [
+    {
+      "date": "2026-01-09",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Mali",
+      "team2": "Senegal",
+      "original_team1": "Mali",
+      "original_team2": "Senegal",
+      "flag1": "mali.png",
+      "flag2": "senegal.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5113,
+      "rating2": 5305,
+      "rating_ev": 0,
+      "rank": 56,
+      "win_prob": 30.1,
+      "type": "fixture"
+    },
     {
       "date": "2026-01-03",
       "country": "Morocco",
@@ -42,14 +61,14 @@
       "original_team2": "Tunisia",
       "flag1": "mali.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5115,
-      "rating2": 5089,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5113,
+      "rating2": 5091,
+      "rating_ev": -2,
       "rank": 56,
       "win_prob": 52.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-29",

@@ -1,18 +1,18 @@
 {
   "team": "Tunisia",
   "stats": {
-    "matches_played": 755,
+    "matches_played": 756,
     "wins": 322,
-    "draws": 208,
+    "draws": 209,
     "losses": 225,
-    "goals_for": 1072,
-    "goals_against": 813,
+    "goals_for": 1073,
+    "goals_against": 814,
     "goal_difference": 259,
     "win_percentage": 42.6,
     "avg_points": 1.55,
     "best_rank": 31,
     "worst_rank": 88,
-    "avg_rank": 52.69,
+    "avg_rank": 52.7,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Taiwan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 329,
     "away_matches": 244,
-    "neutral_matches": 182,
+    "neutral_matches": 183,
     "first_match_date": "1954-05-31",
-    "last_match_date": "2025-12-30"
+    "last_match_date": "2026-01-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5089,
+      "rating1": 5091,
       "rating2": 5541,
       "rating_ev": 0,
       "rank": 62,
-      "win_prob": 12.5,
+      "win_prob": 12.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5089,
+      "rating1": 5091,
       "rating2": 5423,
       "rating_ev": 0,
       "rank": 62,
-      "win_prob": 19.0,
+      "win_prob": 19.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5089,
+      "rating1": 5091,
       "rating2": 5285,
       "rating_ev": 0,
       "rank": 62,
-      "win_prob": 21.4,
+      "win_prob": 21.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Mali",
       "flag1": "tunisia.png",
       "flag2": "mali.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5089,
-      "rating2": 5115,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5091,
+      "rating2": 5113,
+      "rating_ev": 2,
       "rank": 62,
       "win_prob": 47.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-30",

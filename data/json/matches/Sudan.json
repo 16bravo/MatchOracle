@@ -1,18 +1,18 @@
 {
   "team": "Sudan",
   "stats": {
-    "matches_played": 541,
+    "matches_played": 542,
     "wins": 184,
     "draws": 136,
-    "losses": 221,
-    "goals_for": 620,
-    "goals_against": 711,
-    "goal_difference": -91,
-    "win_percentage": 34.0,
+    "losses": 222,
+    "goals_for": 621,
+    "goals_against": 714,
+    "goal_difference": -93,
+    "win_percentage": 33.9,
     "avg_points": 1.27,
     "best_rank": 36,
     "worst_rank": 138,
-    "avg_rank": 95.27,
+    "avg_rank": 95.31,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Oman",
@@ -27,9 +27,9 @@
     },
     "home_matches": 151,
     "away_matches": 200,
-    "neutral_matches": 190,
+    "neutral_matches": 191,
     "first_match_date": "1956-05-13",
-    "last_match_date": "2025-12-31"
+    "last_match_date": "2026-01-03"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Senegal",
       "flag1": "sudan.png",
       "flag2": "senegal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4792,
-      "rating2": 5307,
-      "rating_ev": 0,
-      "rank": 120,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4794,
+      "rating2": 5305,
+      "rating_ev": 2,
+      "rank": 117,
       "win_prob": 10.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-31",
