@@ -1,18 +1,18 @@
 {
   "team": "Tanzania",
   "stats": {
-    "matches_played": 621,
+    "matches_played": 622,
     "wins": 179,
     "draws": 173,
-    "losses": 269,
+    "losses": 270,
     "goals_for": 698,
-    "goals_against": 908,
-    "goal_difference": -210,
+    "goals_against": 909,
+    "goal_difference": -211,
     "win_percentage": 28.8,
     "avg_points": 1.14,
     "best_rank": 67,
     "worst_rank": 156,
-    "avg_rank": 107.91,
+    "avg_rank": 107.9,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Somalia",
@@ -26,10 +26,10 @@
       "flag": "kenya_1.png"
     },
     "home_matches": 204,
-    "away_matches": 220,
+    "away_matches": 221,
     "neutral_matches": 197,
     "first_match_date": "1945-12-31",
-    "last_match_date": "2025-12-30"
+    "last_match_date": "2026-01-04"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Morocco",
       "flag1": "tanzania.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4833,
-      "rating2": 5305,
-      "rating_ev": 0,
-      "rank": 103,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4852,
+      "rating2": 5286,
+      "rating_ev": 19,
+      "rank": 99,
       "win_prob": 7.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-30",

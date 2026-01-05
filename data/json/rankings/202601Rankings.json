@@ -2,7 +2,7 @@
   "year": 2026,
   "month": 1,
   "latest_date": [
-    "2026-01-04 00:00:00"
+    "2026-01-05 00:00:00"
   ],
   "rankings": [
     {
@@ -237,16 +237,6 @@
     },
     {
       "ranking": 24,
-      "flag": "morocco.png",
-      "team": "Morocco",
-      "reference_team": "Morocco",
-      "points": 5305,
-      "confederation": "CAF",
-      "ranking_change": 0,
-      "points_change": 0
-    },
-    {
-      "ranking": 24,
       "flag": "senegal.png",
       "team": "Senegal",
       "reference_team": "Senegal",
@@ -256,12 +246,22 @@
       "points_change": 0
     },
     {
-      "ranking": 26,
+      "ranking": 25,
       "flag": "scotland.png",
       "team": "Scotland",
       "reference_team": "Scotland",
       "points": 5297,
       "confederation": "UEFA",
+      "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 26,
+      "flag": "morocco.png",
+      "team": "Morocco",
+      "reference_team": "Morocco",
+      "points": 5286,
+      "confederation": "CAF",
       "ranking_change": 0,
       "points_change": 0
     },
@@ -667,20 +667,20 @@
     },
     {
       "ranking": 67,
-      "flag": "ghana.png",
-      "team": "Ghana",
-      "reference_team": "Ghana",
-      "points": 5052,
+      "flag": "cameroon.png",
+      "team": "Cameroon",
+      "reference_team": "Cameroon",
+      "points": 5060,
       "confederation": "CAF",
       "ranking_change": 0,
       "points_change": 0
     },
     {
       "ranking": 68,
-      "flag": "cameroon.png",
-      "team": "Cameroon",
-      "reference_team": "Cameroon",
-      "points": 5049,
+      "flag": "ghana.png",
+      "team": "Ghana",
+      "reference_team": "Ghana",
+      "points": 5052,
       "confederation": "CAF",
       "ranking_change": 0,
       "points_change": 0
@@ -727,16 +727,6 @@
     },
     {
       "ranking": 73,
-      "flag": "south_africa.png",
-      "team": "South Africa",
-      "reference_team": "South Africa",
-      "points": 5006,
-      "confederation": "CAF",
-      "ranking_change": 0,
-      "points_change": 0
-    },
-    {
-      "ranking": 74,
       "flag": "finland.png",
       "team": "Finland",
       "reference_team": "Finland",
@@ -746,11 +736,21 @@
       "points_change": 0
     },
     {
-      "ranking": 75,
+      "ranking": 74,
       "flag": "cape_verde.png",
       "team": "Cape Verde",
       "reference_team": "Cape Verde",
       "points": 5000,
+      "confederation": "CAF",
+      "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 75,
+      "flag": "south_africa.png",
+      "team": "South Africa",
+      "reference_team": "South Africa",
+      "points": 4995,
       "confederation": "CAF",
       "ranking_change": 0,
       "points_change": 0
@@ -987,6 +987,16 @@
     },
     {
       "ranking": 99,
+      "flag": "tanzania.png",
+      "team": "Tanzania",
+      "reference_team": "Tanzania",
+      "points": 4852,
+      "confederation": "CAF",
+      "ranking_change": 0,
+      "points_change": 0
+    },
+    {
+      "ranking": 100,
       "flag": "comoros.png",
       "team": "Comoros",
       "reference_team": "Comoros",
@@ -996,7 +1006,7 @@
       "points_change": 0
     },
     {
-      "ranking": 100,
+      "ranking": 101,
       "flag": "uganda.png",
       "team": "Uganda",
       "reference_team": "Uganda",
@@ -1006,7 +1016,7 @@
       "points_change": 0
     },
     {
-      "ranking": 101,
+      "ranking": 102,
       "flag": "estonia.png",
       "team": "Estonia",
       "reference_team": "Estonia",
@@ -1016,21 +1026,11 @@
       "points_change": 0
     },
     {
-      "ranking": 101,
+      "ranking": 102,
       "flag": "zambia.png",
       "team": "Zambia",
       "reference_team": "Zambia",
       "points": 4840,
-      "confederation": "CAF",
-      "ranking_change": 0,
-      "points_change": 0
-    },
-    {
-      "ranking": 103,
-      "flag": "tanzania.png",
-      "team": "Tanzania",
-      "reference_team": "Tanzania",
-      "points": 4833,
       "confederation": "CAF",
       "ranking_change": 0,
       "points_change": 0

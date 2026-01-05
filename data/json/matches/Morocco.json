@@ -1,18 +1,18 @@
 {
   "team": "Morocco",
   "stats": {
-    "matches_played": 719,
-    "wins": 357,
+    "matches_played": 720,
+    "wins": 358,
     "draws": 200,
     "losses": 162,
-    "goals_for": 1087,
+    "goals_for": 1088,
     "goals_against": 608,
-    "goal_difference": 479,
+    "goal_difference": 480,
     "win_percentage": 49.7,
     "avg_points": 1.77,
     "best_rank": 15,
     "worst_rank": 76,
-    "avg_rank": 44.48,
+    "avg_rank": 44.45,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Saudi Arabia",
@@ -25,11 +25,11 @@
       "date": "1961-10-11",
       "flag": "switzerland.png"
     },
-    "home_matches": 313,
+    "home_matches": 314,
     "away_matches": 211,
     "neutral_matches": 195,
     "first_match_date": "1957-10-19",
-    "last_match_date": "2025-12-29"
+    "last_match_date": "2026-01-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5305,
+      "rating1": 5286,
       "rating2": 4984,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 80.2,
+      "rank": 26,
+      "win_prob": 78.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5305,
+      "rating1": 5286,
       "rating2": 5297,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 50.9,
+      "rank": 26,
+      "win_prob": 48.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,30 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5305,
+      "rating1": 5286,
       "rating2": 5497,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 30.1,
+      "rank": 26,
+      "win_prob": 28.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-01-09",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Morocco",
+      "team2": "Cameroon",
+      "original_team1": "Morocco",
+      "original_team2": "Cameroon",
+      "flag1": "morocco.png",
+      "flag2": "cameroon.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5286,
+      "rating2": 5060,
+      "rating_ev": 0,
+      "rank": 26,
+      "win_prob": 80.7,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "Tanzania",
       "flag1": "morocco.png",
       "flag2": "tanzania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5305,
-      "rating2": 4833,
-      "rating_ev": 0,
-      "rank": 24,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5286,
+      "rating2": 4852,
+      "rating_ev": -19,
+      "rank": 26,
       "win_prob": 92.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-29",
