@@ -1,18 +1,18 @@
 {
   "team": "Egypt",
   "stats": {
-    "matches_played": 856,
-    "wins": 437,
+    "matches_played": 857,
+    "wins": 438,
     "draws": 208,
     "losses": 211,
-    "goals_for": 1490,
-    "goals_against": 890,
-    "goal_difference": 600,
+    "goals_for": 1493,
+    "goals_against": 891,
+    "goal_difference": 602,
     "win_percentage": 51.1,
-    "avg_points": 1.77,
+    "avg_points": 1.78,
     "best_rank": 13,
     "worst_rank": 73,
-    "avg_rank": 41.95,
+    "avg_rank": 41.98,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Laos",
@@ -27,9 +27,9 @@
     },
     "home_matches": 335,
     "away_matches": 270,
-    "neutral_matches": 251,
+    "neutral_matches": 252,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2025-12-29"
+    "last_match_date": "2026-01-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 5024,
+      "rating1": 5043,
       "rating2": 5130,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 38.5,
+      "rank": 69,
+      "win_prob": 40.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5024,
+      "rating1": 5043,
       "rating2": 5098,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 41.9,
+      "rank": 69,
+      "win_prob": 44.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5024,
+      "rating1": 5043,
       "rating2": 5448,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 13.8,
+      "rank": 69,
+      "win_prob": 14.8,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Benin",
       "flag1": "egypt.png",
       "flag2": "benin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5024,
-      "rating2": 4886,
-      "rating_ev": 0,
-      "rank": 70,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5043,
+      "rating2": 4867,
+      "rating_ev": 19,
+      "rank": 69,
       "win_prob": 64.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-29",

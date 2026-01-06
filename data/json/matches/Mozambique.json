@@ -1,18 +1,18 @@
 {
   "team": "Mozambique",
   "stats": {
-    "matches_played": 414,
+    "matches_played": 415,
     "wins": 127,
     "draws": 107,
-    "losses": 180,
+    "losses": 181,
     "goals_for": 420,
-    "goals_against": 537,
-    "goal_difference": -117,
-    "win_percentage": 30.7,
+    "goals_against": 541,
+    "goal_difference": -121,
+    "win_percentage": 30.6,
     "avg_points": 1.18,
     "best_rank": 79,
     "worst_rank": 143,
-    "avg_rank": 112.63,
+    "avg_rank": 112.64,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lesotho",
@@ -27,9 +27,9 @@
     },
     "home_matches": 153,
     "away_matches": 162,
-    "neutral_matches": 99,
+    "neutral_matches": 100,
     "first_match_date": "1975-06-25",
-    "last_match_date": "2025-12-31"
+    "last_match_date": "2026-01-05"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Nigeria",
       "flag1": "mozambique.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4829,
-      "rating2": 5121,
-      "rating_ev": 0,
-      "rank": 104,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4793,
+      "rating2": 5157,
+      "rating_ev": -36,
+      "rank": 118,
       "win_prob": 21.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-31",
