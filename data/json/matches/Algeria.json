@@ -1,18 +1,18 @@
 {
   "team": "Algeria",
   "stats": {
-    "matches_played": 675,
-    "wins": 309,
+    "matches_played": 676,
+    "wins": 310,
     "draws": 177,
     "losses": 189,
-    "goals_for": 1042,
+    "goals_for": 1043,
     "goals_against": 685,
-    "goal_difference": 357,
-    "win_percentage": 45.8,
+    "goal_difference": 358,
+    "win_percentage": 45.9,
     "avg_points": 1.64,
     "best_rank": 16,
     "worst_rank": 106,
-    "avg_rank": 53.42,
+    "avg_rank": 53.39,
     "biggest_win": {
       "score": "15-1",
       "opponent": "South Yemen",
@@ -27,9 +27,9 @@
     },
     "home_matches": 254,
     "away_matches": 229,
-    "neutral_matches": 192,
+    "neutral_matches": 193,
     "first_match_date": "1958-05-03",
-    "last_match_date": "2025-12-31"
+    "last_match_date": "2026-01-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5231,
+      "rating1": 5238,
       "rating2": 5356,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 36.6,
+      "rank": 31,
+      "win_prob": 37.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5231,
+      "rating1": 5238,
       "rating2": 5123,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 61.7,
+      "rank": 31,
+      "win_prob": 62.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,30 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5231,
+      "rating1": 5238,
       "rating2": 5608,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 16.3,
+      "rank": 31,
+      "win_prob": 16.7,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-01-10",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Algeria",
+      "team2": "Nigeria",
+      "original_team1": "Algeria",
+      "original_team2": "Nigeria",
+      "flag1": "algeria.png",
+      "flag2": "nigeria.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5238,
+      "rating2": 5157,
+      "rating_ev": 0,
+      "rank": 31,
+      "win_prob": 58.8,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "DR Congo",
       "flag1": "algeria.png",
       "flag2": "dr_congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5231,
-      "rating2": 5111,
-      "rating_ev": 0,
-      "rank": 32,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5238,
+      "rating2": 5104,
+      "rating_ev": 7,
+      "rank": 31,
       "win_prob": 62.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-31",

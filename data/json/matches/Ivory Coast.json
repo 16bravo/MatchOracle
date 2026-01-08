@@ -1,18 +1,18 @@
 {
   "team": "Ivory Coast",
   "stats": {
-    "matches_played": 668,
-    "wins": 339,
+    "matches_played": 669,
+    "wins": 340,
     "draws": 170,
     "losses": 159,
-    "goals_for": 1082,
+    "goals_for": 1085,
     "goals_against": 661,
-    "goal_difference": 421,
-    "win_percentage": 50.7,
+    "goal_difference": 424,
+    "win_percentage": 50.8,
     "avg_points": 1.78,
     "best_rank": 11,
     "worst_rank": 80,
-    "avg_rank": 46.88,
+    "avg_rank": 46.89,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Central African Republic",
@@ -27,9 +27,9 @@
     },
     "home_matches": 230,
     "away_matches": 225,
-    "neutral_matches": 213,
+    "neutral_matches": 214,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-12-31"
+    "last_match_date": "2026-01-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5111,
+      "rating1": 5149,
       "rating2": 4896,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 72.0,
+      "rank": 50,
+      "win_prob": 75.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5111,
+      "rating1": 5149,
       "rating2": 5536,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 13.8,
+      "rank": 50,
+      "win_prob": 15.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,30 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5111,
+      "rating1": 5149,
       "rating2": 5420,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 20.6,
+      "rank": 50,
+      "win_prob": 23.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-01-10",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Ivory Coast",
+      "team2": "Egypt",
+      "original_team1": "Ivory Coast",
+      "original_team2": "Egypt",
+      "flag1": "ivory_coast.png",
+      "flag2": "egypt.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5149,
+      "rating2": 5043,
+      "rating_ev": 0,
+      "rank": 50,
+      "win_prob": 61.5,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "Burkina Faso",
       "flag1": "ivory_coast.png",
       "flag2": "burkina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5111,
-      "rating2": 5065,
-      "rating_ev": 0,
-      "rank": 57,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5149,
+      "rating2": 5027,
+      "rating_ev": 38,
+      "rank": 50,
       "win_prob": 55.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-31",
