@@ -1,18 +1,18 @@
 {
   "team": "Algeria",
   "stats": {
-    "matches_played": 676,
+    "matches_played": 677,
     "wins": 310,
     "draws": 177,
-    "losses": 189,
+    "losses": 190,
     "goals_for": 1043,
-    "goals_against": 685,
-    "goal_difference": 358,
-    "win_percentage": 45.9,
+    "goals_against": 687,
+    "goal_difference": 356,
+    "win_percentage": 45.8,
     "avg_points": 1.64,
     "best_rank": 16,
     "worst_rank": 106,
-    "avg_rank": 53.39,
+    "avg_rank": 53.37,
     "biggest_win": {
       "score": "15-1",
       "opponent": "South Yemen",
@@ -27,9 +27,9 @@
     },
     "home_matches": 254,
     "away_matches": 229,
-    "neutral_matches": 193,
+    "neutral_matches": 194,
     "first_match_date": "1958-05-03",
-    "last_match_date": "2026-01-06"
+    "last_match_date": "2026-01-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5238,
+      "rating1": 5206,
       "rating2": 5356,
       "rating_ev": 0,
-      "rank": 31,
-      "win_prob": 37.3,
+      "rank": 39,
+      "win_prob": 34.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5238,
+      "rating1": 5206,
       "rating2": 5123,
       "rating_ev": 0,
-      "rank": 31,
-      "win_prob": 62.4,
+      "rank": 39,
+      "win_prob": 59.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5238,
+      "rating1": 5206,
       "rating2": 5608,
       "rating_ev": 0,
-      "rank": 31,
-      "win_prob": 16.7,
+      "rank": 39,
+      "win_prob": 15.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Nigeria",
       "flag1": "algeria.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5238,
-      "rating2": 5157,
-      "rating_ev": 0,
-      "rank": 31,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5206,
+      "rating2": 5189,
+      "rating_ev": -32,
+      "rank": 39,
       "win_prob": 58.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-06",
