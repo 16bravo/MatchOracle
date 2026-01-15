@@ -1,18 +1,18 @@
 {
   "team": "Egypt",
   "stats": {
-    "matches_played": 858,
+    "matches_played": 859,
     "wins": 439,
     "draws": 208,
-    "losses": 211,
+    "losses": 212,
     "goals_for": 1496,
-    "goals_against": 893,
-    "goal_difference": 603,
-    "win_percentage": 51.2,
+    "goals_against": 894,
+    "goal_difference": 602,
+    "win_percentage": 51.1,
     "avg_points": 1.78,
     "best_rank": 13,
     "worst_rank": 73,
-    "avg_rank": 42.01,
+    "avg_rank": 42.04,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Laos",
@@ -27,9 +27,9 @@
     },
     "home_matches": 335,
     "away_matches": 270,
-    "neutral_matches": 253,
+    "neutral_matches": 254,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2026-01-10"
+    "last_match_date": "2026-01-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 5063,
+      "rating1": 5064,
       "rating2": 5130,
       "rating_ev": 0,
       "rank": 66,
-      "win_prob": 42.7,
+      "win_prob": 42.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5063,
+      "rating1": 5064,
       "rating2": 5098,
       "rating_ev": 0,
       "rank": 66,
-      "win_prob": 46.2,
+      "win_prob": 46.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,30 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5063,
+      "rating1": 5064,
       "rating2": 5448,
       "rating_ev": 0,
       "rank": 66,
       "win_prob": 15.9,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-01-17",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Egypt",
+      "team2": "Nigeria",
+      "original_team1": "Egypt",
+      "original_team2": "Nigeria",
+      "flag1": "egypt.png",
+      "flag2": "nigeria.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5064,
+      "rating2": 5201,
+      "rating_ev": 0,
+      "rank": 66,
+      "win_prob": 35.4,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "Senegal",
       "flag1": "egypt.png",
       "flag2": "senegal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5063,
-      "rating2": 5308,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5064,
+      "rating2": 5307,
+      "rating_ev": 1,
       "rank": 66,
       "win_prob": 25.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-10",

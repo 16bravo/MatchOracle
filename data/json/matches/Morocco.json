@@ -1,18 +1,18 @@
 {
   "team": "Morocco",
   "stats": {
-    "matches_played": 721,
+    "matches_played": 722,
     "wins": 359,
-    "draws": 200,
+    "draws": 201,
     "losses": 162,
     "goals_for": 1090,
     "goals_against": 608,
     "goal_difference": 482,
-    "win_percentage": 49.8,
+    "win_percentage": 49.7,
     "avg_points": 1.77,
     "best_rank": 15,
     "worst_rank": 76,
-    "avg_rank": 44.42,
+    "avg_rank": 44.4,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Saudi Arabia",
@@ -25,11 +25,11 @@
       "date": "1961-10-11",
       "flag": "switzerland.png"
     },
-    "home_matches": 315,
+    "home_matches": 316,
     "away_matches": 211,
     "neutral_matches": 195,
     "first_match_date": "1957-10-19",
-    "last_match_date": "2026-01-09"
+    "last_match_date": "2026-01-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5295,
+      "rating1": 5283,
       "rating2": 4984,
       "rating_ev": 0,
-      "rank": 26,
-      "win_prob": 79.5,
+      "rank": 27,
+      "win_prob": 78.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5295,
+      "rating1": 5283,
       "rating2": 5297,
       "rating_ev": 0,
-      "rank": 26,
-      "win_prob": 49.8,
+      "rank": 27,
+      "win_prob": 48.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,30 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5295,
+      "rating1": 5283,
       "rating2": 5497,
       "rating_ev": 0,
-      "rank": 26,
-      "win_prob": 29.2,
+      "rank": 27,
+      "win_prob": 28.1,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-01-18",
+      "country": "Morocco",
+      "tournament": "African Nations Cup",
+      "team1": "Morocco",
+      "team2": "Senegal",
+      "original_team1": "Morocco",
+      "original_team2": "Senegal",
+      "flag1": "morocco.png",
+      "flag2": "senegal.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5283,
+      "rating2": 5307,
+      "rating_ev": 0,
+      "rank": 27,
+      "win_prob": 58.2,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "Nigeria",
       "flag1": "morocco.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5295,
-      "rating2": 5189,
-      "rating_ev": 0,
-      "rank": 26,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5283,
+      "rating2": 5201,
+      "rating_ev": -12,
+      "rank": 27,
       "win_prob": 71.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-09",
