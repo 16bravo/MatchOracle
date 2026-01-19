@@ -1,18 +1,18 @@
 {
   "team": "Senegal",
   "stats": {
-    "matches_played": 684,
-    "wins": 311,
+    "matches_played": 685,
+    "wins": 312,
     "draws": 190,
     "losses": 183,
-    "goals_for": 945,
+    "goals_for": 946,
     "goals_against": 642,
-    "goal_difference": 303,
+    "goal_difference": 304,
     "win_percentage": 45.5,
     "avg_points": 1.64,
-    "best_rank": 24,
+    "best_rank": 22,
     "worst_rank": 97,
-    "avg_rank": 58.51,
+    "avg_rank": 58.46,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Mauritania",
@@ -26,10 +26,10 @@
       "flag": "guinea.png"
     },
     "home_matches": 215,
-    "away_matches": 234,
+    "away_matches": 235,
     "neutral_matches": 235,
     "first_match_date": "1959-12-31",
-    "last_match_date": "2026-01-14"
+    "last_match_date": "2026-01-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5307,
+      "rating1": 5325,
       "rating2": 5544,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 26.2,
+      "rank": 22,
+      "win_prob": 27.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5307,
+      "rating1": 5325,
       "rating2": 5551,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 25.6,
+      "rank": 22,
+      "win_prob": 27.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5307,
+      "rating1": 5325,
       "rating2": 5241,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 46.3,
+      "rank": 22,
+      "win_prob": 48.3,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Morocco",
       "flag1": "senegal.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5307,
-      "rating2": 5283,
-      "rating_ev": 0,
-      "rank": 24,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5325,
+      "rating2": 5265,
+      "rating_ev": 18,
+      "rank": 22,
       "win_prob": 41.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-14",

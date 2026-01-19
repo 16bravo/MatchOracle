@@ -393,11 +393,11 @@
       "score1": "",
       "score2": "",
       "rating1": 5585,
-      "rating2": 5102,
+      "rating2": 5104,
       "rating_ev": 0,
       "rank1": 3,
-      "rank2": 60,
-      "win_prob": 88.8,
+      "rank2": 59,
+      "win_prob": 88.7,
       "type": "fixture"
     },
     {
@@ -475,7 +475,7 @@
       "rating1": 5072,
       "rating2": 5130,
       "rating_ev": 0,
-      "rank1": 65,
+      "rank1": 64,
       "rank2": 51,
       "win_prob": 43.6,
       "type": "fixture"
@@ -516,7 +516,7 @@
       "rating2": 5321,
       "rating_ev": 0,
       "rank1": 31,
-      "rank2": 22,
+      "rank2": 23,
       "win_prob": 40.5,
       "type": "fixture"
     },
@@ -592,12 +592,12 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5285,
+      "rating1": 5282,
       "rating2": 5441,
       "rating_ev": 0,
       "rank1": 26,
       "rank2": 12,
-      "win_prob": 43.9,
+      "win_prob": 43.5,
       "type": "fixture"
     },
     {
@@ -653,11 +653,11 @@
       "score1": "",
       "score2": "",
       "rating1": 4984,
-      "rating2": 5283,
+      "rating2": 5265,
       "rating_ev": 0,
       "rank1": 76,
-      "rank2": 27,
-      "win_prob": 21.4,
+      "rank2": 28,
+      "win_prob": 22.7,
       "type": "fixture"
     },
     {
@@ -673,11 +673,11 @@
       "score1": "",
       "score2": "",
       "rating1": 5424,
-      "rating2": 5102,
+      "rating2": 5104,
       "rating_ev": 0,
       "rank1": 13,
-      "rank2": 60,
-      "win_prob": 80.2,
+      "rank2": 59,
+      "win_prob": 80.1,
       "type": "fixture"
     },
     {
@@ -773,11 +773,11 @@
       "score1": "",
       "score2": "",
       "rating1": 5544,
-      "rating2": 5307,
+      "rating2": 5325,
       "rating_ev": 0,
       "rank1": 6,
-      "rank2": 24,
-      "win_prob": 73.8,
+      "rank2": 22,
+      "win_prob": 72.3,
       "type": "fixture"
     },
     {
@@ -795,7 +795,7 @@
       "rating1": 5072,
       "rating2": 5098,
       "rating_ev": 0,
-      "rank1": 65,
+      "rank1": 64,
       "rank2": 61,
       "win_prob": 47.1,
       "type": "fixture"
@@ -923,6 +923,46 @@
     {
       "date": "2026-06-19",
       "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Argentina",
+      "team2": "Honduras",
+      "original_team1": "Argentina",
+      "original_team2": "Honduras",
+      "flag1": "argentina.png",
+      "flag2": "honduras.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5608,
+      "rating2": 4950,
+      "rating_ev": 0,
+      "rank1": 2,
+      "rank2": 81,
+      "win_prob": 94.1,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-19",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Argentina",
+      "team2": "Mexico",
+      "original_team1": "Argentina",
+      "original_team2": "Mexico",
+      "flag1": "argentina.png",
+      "flag2": "mexico.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5608,
+      "rating2": 5268,
+      "rating_ev": 0,
+      "rank1": 2,
+      "rank2": 27,
+      "win_prob": 81.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-19",
+      "country": "United States",
       "tournament": "World Cup",
       "team1": "Brazil",
       "team2": "Haiti",
@@ -952,12 +992,12 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5283,
+      "rating1": 5265,
       "rating2": 5297,
       "rating_ev": 0,
-      "rank1": 27,
+      "rank1": 28,
       "rank2": 25,
-      "win_prob": 48.5,
+      "win_prob": 46.5,
       "type": "fixture"
     },
     {
@@ -992,12 +1032,12 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5285,
+      "rating1": 5282,
       "rating2": 4803,
       "rating_ev": 0,
       "rank1": 26,
       "rank2": 111,
-      "win_prob": 92.5,
+      "win_prob": 92.4,
       "type": "fixture"
     },
     {
@@ -1015,49 +1055,9 @@
       "rating1": 5268,
       "rating2": 5204,
       "rating_ev": 0,
-      "rank1": 28,
+      "rank1": 27,
       "rank2": 40,
       "win_prob": 67.3,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-18",
-      "country": "United States",
-      "tournament": "Friendly",
-      "team1": "Argentina",
-      "team2": "Honduras",
-      "original_team1": "Argentina",
-      "original_team2": "Honduras",
-      "flag1": "argentina.png",
-      "flag2": "honduras.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5608,
-      "rating2": 4950,
-      "rating_ev": 0,
-      "rank1": 2,
-      "rank2": 81,
-      "win_prob": 94.1,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-18",
-      "country": "United States",
-      "tournament": "Friendly",
-      "team1": "Argentina",
-      "team2": "Mexico",
-      "original_team1": "Argentina",
-      "original_team2": "Mexico",
-      "flag1": "argentina.png",
-      "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5608,
-      "rating2": 5268,
-      "rating_ev": 0,
-      "rank1": 2,
-      "rank2": 28,
-      "win_prob": 81.4,
       "type": "fixture"
     },
     {
@@ -1073,11 +1073,11 @@
       "score1": "",
       "score2": "",
       "rating1": 5052,
-      "rating2": 5102,
+      "rating2": 5104,
       "rating_ev": 0,
       "rank1": 67,
-      "rank2": 60,
-      "win_prob": 44.5,
+      "rank2": 59,
+      "win_prob": 44.3,
       "type": "fixture"
     },
     {
@@ -1173,11 +1173,11 @@
       "score1": "",
       "score2": "",
       "rating1": 5551,
-      "rating2": 5307,
+      "rating2": 5325,
       "rating_ev": 0,
       "rank1": 5,
-      "rank2": 24,
-      "win_prob": 74.4,
+      "rank2": 22,
+      "win_prob": 72.9,
       "type": "fixture"
     },
     {
@@ -1196,7 +1196,7 @@
       "rating2": 5072,
       "rating_ev": 0,
       "rank1": 11,
-      "rank2": 65,
+      "rank2": 64,
       "win_prob": 83.6,
       "type": "fixture"
     },
@@ -1333,11 +1333,11 @@
       "score1": "",
       "score2": "",
       "rating1": 5497,
-      "rating2": 5283,
+      "rating2": 5265,
       "rating_ev": 0,
       "rank1": 10,
-      "rank2": 27,
-      "win_prob": 71.9,
+      "rank2": 28,
+      "win_prob": 73.4,
       "type": "fixture"
     },
     {
@@ -1396,7 +1396,7 @@
       "rating2": 5321,
       "rating_ev": 0,
       "rank1": 30,
-      "rank2": 22,
+      "rank2": 23,
       "win_prob": 52.2,
       "type": "fixture"
     },
@@ -1415,7 +1415,7 @@
       "rating1": 5268,
       "rating2": 4995,
       "rating_ev": 0,
-      "rank1": 28,
+      "rank1": 27,
       "rank2": 75,
       "win_prob": 83.6,
       "type": "fixture"
@@ -1512,12 +1512,12 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5285,
+      "rating1": 5282,
       "rating2": 5123,
       "rating_ev": 0,
       "rank1": 26,
       "rank2": 53,
-      "win_prob": 76.0,
+      "win_prob": 75.7,
       "type": "fixture"
     },
     {
@@ -1573,11 +1573,11 @@
       "score1": "",
       "score2": "",
       "rating1": 5241,
-      "rating2": 5307,
+      "rating2": 5325,
       "rating_ev": 0,
       "rank1": 30,
-      "rank2": 24,
-      "win_prob": 53.7,
+      "rank2": 22,
+      "win_prob": 51.7,
       "type": "fixture"
     },
     {
@@ -2056,7 +2056,7 @@
       "rating2": 5268,
       "rating_ev": 0,
       "rank1": 11,
-      "rank2": 28,
+      "rank2": 27,
       "win_prob": 68.8,
       "type": "fixture"
     },
@@ -2132,12 +2132,12 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5285,
+      "rating1": 5282,
       "rating2": 5091,
       "rating_ev": 0,
       "rank1": 26,
       "rank2": 62,
-      "win_prob": 78.4,
+      "win_prob": 78.2,
       "type": "fixture"
     },
     {
@@ -2178,6 +2178,26 @@
       "rank1": 8,
       "rank2": 67,
       "win_prob": 92.5,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-03-30",
+      "country": "Scotland",
+      "tournament": "Friendly",
+      "team1": "Scotland",
+      "team2": "Cura\u00e7ao",
+      "original_team1": "Scotland",
+      "original_team2": "Cura\u00e7ao",
+      "flag1": "scotland.png",
+      "flag2": "curacao.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5297,
+      "rating2": 4896,
+      "rating_ev": 0,
+      "rank1": 25,
+      "rank2": 89,
+      "win_prob": 89.8,
       "type": "fixture"
     },
     {
@@ -2235,7 +2255,7 @@
       "rating1": 5268,
       "rating2": 5562,
       "rating_ev": 0,
-      "rank1": 28,
+      "rank1": 27,
       "rank2": 4,
       "win_prob": 30.1,
       "type": "fixture"
@@ -2532,12 +2552,12 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 5074,
+      "rating1": 5072,
       "rating2": 4866,
       "rating_ev": 0,
       "rank1": 64,
       "rank2": 98,
-      "win_prob": 71.3,
+      "win_prob": 71.2,
       "type": "fixture"
     },
     {
@@ -2552,12 +2572,12 @@
       "flag2": "caledonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4920,
       "rating2": 4459,
       "rating_ev": 0,
       "rank1": 85,
       "rank2": 168,
-      "win_prob": 88.2,
+      "win_prob": 87.9,
       "type": "fixture"
     },
     {
@@ -2801,7 +2821,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Antigua and Barbuda",
@@ -2821,7 +2841,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Antigua and Barbuda",
@@ -2841,7 +2861,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Aruba",
@@ -2861,7 +2881,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Aruba",
@@ -2881,7 +2901,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Antigua and Barbuda",
       "tournament": "Friendly tournament",
       "team1": "Barbados",
@@ -2901,7 +2921,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Cayman Islands",
       "tournament": "Friendly tournament",
       "team1": "Anguilla",
@@ -2921,7 +2941,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Cayman Islands",
       "tournament": "Friendly tournament",
       "team1": "Cayman Islands",
@@ -2941,7 +2961,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Cuba",
@@ -2961,7 +2981,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Dominican Republic",
@@ -2981,7 +3001,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Dominican Republic",
@@ -3001,7 +3021,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Martinique",
@@ -3021,7 +3041,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Dominican Rep",
       "tournament": "Friendly tournament",
       "team1": "Martinique",
@@ -3041,7 +3061,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Belize",
@@ -3055,13 +3075,13 @@
       "rating1": 4377,
       "rating2": 4022,
       "rating_ev": 0,
-      "rank1": 172,
+      "rank1": 173,
       "rank2": 201,
       "win_prob": 82.4,
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Belize",
@@ -3075,13 +3095,13 @@
       "rating1": 4377,
       "rating2": 4024,
       "rating_ev": 0,
-      "rank1": 172,
+      "rank1": 173,
       "rank2": 200,
       "win_prob": 82.2,
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Saint Kitts and Nevis",
@@ -3101,7 +3121,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Saint Kitts and Nevis",
@@ -3121,7 +3141,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "St Kitts and Nevis",
       "tournament": "Friendly tournament",
       "team1": "Saint Martin",
@@ -3155,7 +3175,7 @@
       "rating1": 5268,
       "rating2": 5110,
       "rating_ev": 0,
-      "rank1": 28,
+      "rank1": 27,
       "rank2": 57,
       "win_prob": 75.6,
       "type": "fixture"
@@ -3172,12 +3192,12 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 5074,
+      "rating1": 5072,
       "rating2": 4761,
       "rating_ev": 0,
       "rank1": 64,
       "rank2": 126,
-      "win_prob": 85.8,
+      "win_prob": 85.7,
       "type": "fixture"
     },
     {
@@ -3192,12 +3212,12 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5074,
+      "rating1": 5072,
       "rating2": 5268,
       "rating_ev": 0,
       "rank1": 64,
-      "rank2": 28,
-      "win_prob": 39.8,
+      "rank2": 27,
+      "win_prob": 39.6,
       "type": "fixture"
     },
     {
@@ -3212,12 +3232,12 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5102,
+      "rating1": 5104,
       "rating2": 5268,
       "rating_ev": 0,
-      "rank1": 60,
-      "rank2": 28,
-      "win_prob": 42.8,
+      "rank1": 59,
+      "rank2": 27,
+      "win_prob": 43.0,
       "type": "fixture"
     },
     {
@@ -3230,15 +3250,15 @@
       "original_team2": "Panama",
       "flag1": "bolivia.png",
       "flag2": "panama.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5074,
-      "rating2": 5102,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5072,
+      "rating2": 5104,
+      "rating_ev": -2,
       "rank1": 64,
-      "rank2": 60,
+      "rank2": 59,
       "win_prob": 57.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-18",
@@ -3250,15 +3270,15 @@
       "original_team2": "Jamaica",
       "flag1": "grenada.png",
       "flag2": "jamaica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4376,
-      "rating2": 4926,
-      "rating_ev": 0,
-      "rank1": 173,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4382,
+      "rating2": 4920,
+      "rating_ev": 6,
+      "rank1": 172,
       "rank2": 85,
       "win_prob": 13.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-18",
@@ -3270,15 +3290,15 @@
       "original_team2": "Senegal",
       "flag1": "morocco.png",
       "flag2": "senegal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5283,
-      "rating2": 5307,
-      "rating_ev": 0,
-      "rank1": 27,
-      "rank2": 24,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5265,
+      "rating2": 5325,
+      "rating_ev": -18,
+      "rank1": 28,
+      "rank2": 22,
       "win_prob": 58.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-17",
@@ -3310,15 +3330,15 @@
       "original_team2": "Guatemala",
       "flag1": "canada.png",
       "flag2": "guatemala.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5285,
-      "rating2": 4931,
-      "rating_ev": 0,
-      "rank1": 26,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5282,
+      "rating2": 4934,
+      "rating_ev": -3,
+      "rank1": 27,
       "rank2": 84,
       "win_prob": 82.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-14",
@@ -24698,26 +24718,6 @@
       "rank1": 26,
       "rank2": 56,
       "win_prob": 78.3,
-      "type": "past"
-    },
-    {
-      "date": "2025-01-18",
-      "country": "United States",
-      "tournament": "Friendly",
-      "team1": "United States",
-      "team2": "Venezuela",
-      "original_team1": "United States",
-      "original_team2": "Venezuela",
-      "flag1": "usa.png",
-      "flag2": "venezuela.png",
-      "score1": 3,
-      "score2": 1,
-      "rating1": 5283,
-      "rating2": 5230,
-      "rating_ev": 10,
-      "rank1": 26,
-      "rank2": 35,
-      "win_prob": 64.2,
       "type": "past"
     }
   ]

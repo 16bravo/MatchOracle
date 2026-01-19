@@ -1,18 +1,18 @@
 {
   "team": "Guatemala",
   "stats": {
-    "matches_played": 622,
+    "matches_played": 623,
     "wins": 225,
     "draws": 166,
-    "losses": 231,
+    "losses": 232,
     "goals_for": 876,
-    "goals_against": 837,
-    "goal_difference": 39,
-    "win_percentage": 36.2,
+    "goals_against": 838,
+    "goal_difference": 38,
+    "win_percentage": 36.1,
     "avg_points": 1.35,
     "best_rank": 31,
     "worst_rank": 113,
-    "avg_rank": 76.87,
+    "avg_rank": 76.88,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 205,
     "away_matches": 180,
-    "neutral_matches": 237,
+    "neutral_matches": 238,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-01-17"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Canada",
       "flag1": "guatemala.png",
       "flag2": "canada.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4931,
-      "rating2": 5285,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4934,
+      "rating2": 5282,
+      "rating_ev": 3,
       "rank": 84,
       "win_prob": 17.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

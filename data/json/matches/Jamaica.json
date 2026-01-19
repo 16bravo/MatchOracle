@@ -1,15 +1,15 @@
 {
   "team": "Jamaica",
   "stats": {
-    "matches_played": 712,
-    "wins": 275,
+    "matches_played": 713,
+    "wins": 276,
     "draws": 168,
     "losses": 269,
-    "goals_for": 948,
+    "goals_for": 949,
     "goals_against": 935,
-    "goal_difference": 13,
-    "win_percentage": 38.6,
-    "avg_points": 1.39,
+    "goal_difference": 14,
+    "win_percentage": 38.7,
+    "avg_points": 1.4,
     "best_rank": 49,
     "worst_rank": 146,
     "avg_rank": 86.31,
@@ -26,10 +26,10 @@
       "flag": "costa_rica.png"
     },
     "home_matches": 270,
-    "away_matches": 268,
+    "away_matches": 269,
     "neutral_matches": 174,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-01-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "caledonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4920,
       "rating2": 4459,
       "rating_ev": 0,
       "rank": 85,
-      "win_prob": 88.2,
+      "win_prob": 87.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Grenada",
       "flag1": "jamaica.png",
       "flag2": "grenada.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4926,
-      "rating2": 4376,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4920,
+      "rating2": 4382,
+      "rating_ev": -6,
       "rank": 85,
       "win_prob": 87.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",
