@@ -723,6 +723,46 @@
     {
       "date": "2026-06-22",
       "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Argentina",
+      "team2": "Honduras",
+      "original_team1": "Argentina",
+      "original_team2": "Honduras",
+      "flag1": "argentina.png",
+      "flag2": "honduras.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5608,
+      "rating2": 4950,
+      "rating_ev": 0,
+      "rank1": 2,
+      "rank2": 81,
+      "win_prob": 94.1,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-22",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Argentina",
+      "team2": "Mexico",
+      "original_team1": "Argentina",
+      "original_team2": "Mexico",
+      "flag1": "argentina.png",
+      "flag2": "mexico.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5608,
+      "rating2": 5268,
+      "rating_ev": 0,
+      "rank1": 2,
+      "rank2": 27,
+      "win_prob": 81.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-22",
+      "country": "United States",
       "tournament": "World Cup",
       "team1": "Algeria",
       "team2": "Jordan",
@@ -798,46 +838,6 @@
       "rank1": 64,
       "rank2": 61,
       "win_prob": 47.1,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-21",
-      "country": "United States",
-      "tournament": "Friendly",
-      "team1": "Argentina",
-      "team2": "Honduras",
-      "original_team1": "Argentina",
-      "original_team2": "Honduras",
-      "flag1": "argentina.png",
-      "flag2": "honduras.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5608,
-      "rating2": 4950,
-      "rating_ev": 0,
-      "rank1": 2,
-      "rank2": 81,
-      "win_prob": 94.1,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-21",
-      "country": "United States",
-      "tournament": "Friendly",
-      "team1": "Argentina",
-      "team2": "Mexico",
-      "original_team1": "Argentina",
-      "original_team2": "Mexico",
-      "flag1": "argentina.png",
-      "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5608,
-      "rating2": 5268,
-      "rating_ev": 0,
-      "rank1": 2,
-      "rank2": 27,
-      "win_prob": 81.4,
       "type": "fixture"
     },
     {
@@ -1962,6 +1962,26 @@
     },
     {
       "date": "2026-03-31",
+      "country": "Morocco",
+      "tournament": "Friendly",
+      "team1": "Morocco",
+      "team2": "Paraguay",
+      "original_team1": "Morocco",
+      "original_team2": "Paraguay",
+      "flag1": "morocco.png",
+      "flag2": "paraguay.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5265,
+      "rating2": 5321,
+      "rating_ev": 0,
+      "rank1": 28,
+      "rank2": 23,
+      "win_prob": 54.8,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-03-31",
       "country": "Nepal",
       "tournament": "Asian Cup qualifier",
       "team1": "Nepal",
@@ -2442,6 +2462,26 @@
     },
     {
       "date": "2026-03-28",
+      "country": "Greece",
+      "tournament": "Friendly",
+      "team1": "Greece",
+      "team2": "Paraguay",
+      "original_team1": "Greece",
+      "original_team2": "Paraguay",
+      "flag1": "greece.png",
+      "flag2": "paraguay.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5310,
+      "rating2": 5321,
+      "rating_ev": 0,
+      "rank1": 24,
+      "rank2": 23,
+      "win_prob": 59.6,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-03-28",
       "country": "Mexico",
       "tournament": "Friendly",
       "team1": "Mexico",
@@ -2618,6 +2658,26 @@
       "rank1": 2,
       "rank2": 1,
       "win_prob": 37.9,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-03-27",
+      "country": "Spain",
+      "tournament": "Friendly",
+      "team1": "Ecuador",
+      "team2": "Morocco",
+      "original_team1": "Ecuador",
+      "original_team2": "Morocco",
+      "flag1": "ecuador.png",
+      "flag2": "morocco.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5420,
+      "rating2": 5265,
+      "rating_ev": 0,
+      "rank1": 15,
+      "rank2": 28,
+      "win_prob": 66.4,
       "type": "fixture"
     },
     {
@@ -3121,7 +3181,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Antigua and Barbuda",
       "tournament": "CONCACAF Series",
       "team1": "Antigua and Barbuda",
@@ -3141,7 +3201,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Antigua and Barbuda",
       "tournament": "CONCACAF Series",
       "team1": "Antigua and Barbuda",
@@ -3161,7 +3221,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Antigua and Barbuda",
       "tournament": "CONCACAF Series",
       "team1": "Aruba",
@@ -3181,7 +3241,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Antigua and Barbuda",
       "tournament": "CONCACAF Series",
       "team1": "Aruba",
@@ -3201,7 +3261,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Antigua and Barbuda",
       "tournament": "CONCACAF Series",
       "team1": "Barbados",
@@ -3221,7 +3281,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Cayman Islands",
       "tournament": "CONCACAF Series",
       "team1": "Anguilla",
@@ -3241,7 +3301,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Cayman Islands",
       "tournament": "CONCACAF Series",
       "team1": "Cayman Islands",
@@ -3261,7 +3321,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Dominican Rep",
       "tournament": "CONCACAF Series",
       "team1": "Cuba",
@@ -3281,7 +3341,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Dominican Rep",
       "tournament": "CONCACAF Series",
       "team1": "Dominican Republic",
@@ -3301,7 +3361,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Dominican Rep",
       "tournament": "CONCACAF Series",
       "team1": "Dominican Republic",
@@ -3321,7 +3381,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Dominican Rep",
       "tournament": "CONCACAF Series",
       "team1": "Martinique",
@@ -3341,7 +3401,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "Dominican Rep",
       "tournament": "CONCACAF Series",
       "team1": "Martinique",
@@ -3361,7 +3421,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "St Kitts and Nevis",
       "tournament": "CONCACAF Series",
       "team1": "Belize",
@@ -3381,7 +3441,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "St Kitts and Nevis",
       "tournament": "CONCACAF Series",
       "team1": "Belize",
@@ -3401,7 +3461,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "St Kitts and Nevis",
       "tournament": "CONCACAF Series",
       "team1": "Saint Kitts and Nevis",
@@ -3421,7 +3481,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "St Kitts and Nevis",
       "tournament": "CONCACAF Series",
       "team1": "Saint Kitts and Nevis",
@@ -3441,7 +3501,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "country": "St Kitts and Nevis",
       "tournament": "CONCACAF Series",
       "team1": "Saint Martin",
