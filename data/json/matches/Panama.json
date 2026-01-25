@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 593,
+    "matches_played": 594,
     "wins": 198,
     "draws": 144,
-    "losses": 251,
+    "losses": 252,
     "goals_for": 741,
-    "goals_against": 907,
-    "goal_difference": -166,
-    "win_percentage": 33.4,
+    "goals_against": 908,
+    "goal_difference": -167,
+    "win_percentage": 33.3,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.21,
+    "avg_rank": 85.17,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "1938-02-16",
       "flag": "costa_rica.png"
     },
-    "home_matches": 201,
+    "home_matches": 202,
     "away_matches": 228,
     "neutral_matches": 164,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-01-18"
+    "last_match_date": "2026-01-22"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5104,
+      "rating1": 5099,
       "rating2": 5585,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 11.3,
+      "rank": 60,
+      "win_prob": 11.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5104,
+      "rating1": 5099,
       "rating2": 5424,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 19.9,
+      "rank": 60,
+      "win_prob": 19.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5104,
+      "rating1": 5099,
       "rating2": 5052,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 55.7,
+      "rank": 60,
+      "win_prob": 55.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Mexico",
       "flag1": "panama.png",
       "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5104,
-      "rating2": 5268,
-      "rating_ev": 0,
-      "rank": 59,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5099,
+      "rating2": 5273,
+      "rating_ev": -5,
+      "rank": 60,
       "win_prob": 43.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-18",
