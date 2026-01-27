@@ -1,18 +1,18 @@
 {
   "team": "Uzbekistan",
   "stats": {
-    "matches_played": 360,
+    "matches_played": 361,
     "wins": 177,
-    "draws": 73,
+    "draws": 74,
     "losses": 110,
-    "goals_for": 627,
-    "goals_against": 394,
+    "goals_for": 629,
+    "goals_against": 396,
     "goal_difference": 233,
-    "win_percentage": 49.2,
+    "win_percentage": 49.0,
     "avg_points": 1.68,
     "best_rank": 38,
     "worst_rank": 98,
-    "avg_rank": 65.89,
+    "avg_rank": 65.86,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Mongolia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 127,
     "away_matches": 128,
-    "neutral_matches": 105,
+    "neutral_matches": 106,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-01-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5123,
+      "rating1": 5113,
       "rating2": 5562,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 13.1,
+      "rank": 56,
+      "win_prob": 12.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5123,
+      "rating1": 5113,
       "rating2": 5533,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 14.5,
+      "rank": 56,
+      "win_prob": 14.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5123,
+      "rating1": 5113,
       "rating2": 5282,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 24.3,
+      "rank": 56,
+      "win_prob": 23.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "China",
       "flag1": "uzbekistan.png",
       "flag2": "china.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5123,
-      "rating2": 4797,
-      "rating_ev": 0,
-      "rank": 53,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5113,
+      "rating2": 4807,
+      "rating_ev": -10,
+      "rank": 56,
       "win_prob": 80.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",
