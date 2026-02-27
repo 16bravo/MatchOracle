@@ -1,14 +1,14 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1021,
-    "wins": 528,
+    "matches_played": 1022,
+    "wins": 529,
     "draws": 235,
     "losses": 258,
-    "goals_for": 1811,
+    "goals_for": 1815,
     "goals_against": 1052,
-    "goal_difference": 759,
-    "win_percentage": 51.7,
+    "goal_difference": 763,
+    "win_percentage": 51.8,
     "avg_points": 1.78,
     "best_rank": 2,
     "worst_rank": 41,
@@ -25,15 +25,15 @@
       "date": "1961-05-10",
       "flag": "england.png"
     },
-    "home_matches": 294,
+    "home_matches": 295,
     "away_matches": 271,
     "neutral_matches": 456,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2026-01-25"
+    "last_match_date": "2026-02-25"
   },
   "matches": [
     {
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "country": "United States",
       "tournament": "Friendly",
       "team1": "Mexico",
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5277,
+      "rating1": 5296,
       "rating2": 5608,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 19.2,
+      "rank": 26,
+      "win_prob": 20.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5277,
+      "rating1": 5296,
       "rating2": 5204,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 68.1,
+      "rank": 26,
+      "win_prob": 69.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5277,
+      "rating1": 5296,
       "rating2": 4995,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 84.2,
+      "rank": 26,
+      "win_prob": 85.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5277,
+      "rating1": 5296,
       "rating2": 5222,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 66.4,
+      "rank": 26,
+      "win_prob": 68.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5277,
+      "rating1": 5296,
       "rating2": 5234,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 54.7,
+      "rank": 26,
+      "win_prob": 56.8,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5277,
+      "rating1": 5296,
       "rating2": 5052,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 80.6,
+      "rank": 26,
+      "win_prob": 81.8,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5277,
+      "rating1": 5296,
       "rating2": 5448,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 32.1,
+      "rank": 26,
+      "win_prob": 33.9,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5277,
+      "rating1": 5296,
       "rating2": 5562,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 30.9,
+      "rank": 26,
+      "win_prob": 32.7,
       "type": "fixture"
     },
     {
@@ -194,14 +194,14 @@
       "original_team2": "Iceland",
       "flag1": "mexico.png",
       "flag2": "iceland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5277,
-      "rating2": 5110,
-      "rating_ev": 0,
-      "rank": 27,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5296,
+      "rating2": 5091,
+      "rating_ev": 19,
+      "rank": 26,
       "win_prob": 76.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-25",
