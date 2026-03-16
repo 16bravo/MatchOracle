@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 533,
-    "wins": 120,
+    "matches_played": 534,
+    "wins": 121,
     "draws": 121,
     "losses": 292,
-    "goals_for": 545,
+    "goals_for": 548,
     "goals_against": 1049,
-    "goal_difference": -504,
-    "win_percentage": 22.5,
-    "avg_points": 0.9,
+    "goal_difference": -501,
+    "win_percentage": 22.7,
+    "avg_points": 0.91,
     "best_rank": 23,
     "worst_rank": 78,
-    "avg_rank": 50.86,
+    "avg_rank": 50.88,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -25,11 +25,11 @@
       "date": "1927-11-06",
       "flag": "uruguay.png"
     },
-    "home_matches": 188,
+    "home_matches": 189,
     "away_matches": 205,
     "neutral_matches": 140,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2026-01-25"
+    "last_match_date": "2026-03-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "suriname.png",
       "score1": "",
       "score2": "",
-      "rating1": 5068,
+      "rating1": 5076,
       "rating2": 4866,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 70.8,
+      "rank": 64,
+      "win_prob": 71.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Trinidad and Tobago",
       "flag1": "bolivia.png",
       "flag2": "trinidad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5068,
-      "rating2": 4756,
-      "rating_ev": 0,
-      "rank": 65,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5076,
+      "rating2": 4748,
+      "rating_ev": 8,
+      "rank": 64,
       "win_prob": 85.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-25",
