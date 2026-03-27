@@ -1,18 +1,18 @@
 {
   "team": "Kosovo",
   "stats": {
-    "matches_played": 103,
-    "wins": 40,
+    "matches_played": 104,
+    "wins": 41,
     "draws": 23,
     "losses": 40,
-    "goals_for": 141,
-    "goals_against": 139,
-    "goal_difference": 2,
-    "win_percentage": 38.8,
-    "avg_points": 1.39,
-    "best_rank": 41,
+    "goals_for": 145,
+    "goals_against": 142,
+    "goal_difference": 3,
+    "win_percentage": 39.4,
+    "avg_points": 1.4,
+    "best_rank": 36,
     "worst_rank": 104,
-    "avg_rank": 71.86,
+    "avg_rank": 71.52,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Malta",
@@ -26,12 +26,31 @@
       "flag": "croatia.png"
     },
     "home_matches": 47,
-    "away_matches": 37,
+    "away_matches": 38,
     "neutral_matches": 19,
     "first_match_date": "1993-02-14",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
+    {
+      "date": "2026-03-31",
+      "country": "Kosovo",
+      "tournament": "World Cup qualifier",
+      "team1": "Kosovo",
+      "team2": "Turkey",
+      "original_team1": "Kosovo",
+      "original_team2": "Turkey",
+      "flag1": "kosovo.png",
+      "flag2": "turkey.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5216,
+      "rating2": 5372,
+      "rating_ev": 0,
+      "rank": 36,
+      "win_prob": 43.9,
+      "type": "fixture"
+    },
     {
       "date": "2026-03-26",
       "country": "Slovakia",
@@ -42,14 +61,14 @@
       "original_team2": "Slovakia",
       "flag1": "kosovo.png",
       "flag2": "slovakia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5200,
-      "rating2": 5142,
-      "rating_ev": 0,
-      "rank": 41,
+      "score1": 4,
+      "score2": 3,
+      "rating1": 5216,
+      "rating2": 5126,
+      "rating_ev": 16,
+      "rank": 36,
       "win_prob": 45.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

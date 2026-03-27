@@ -1,18 +1,18 @@
 {
   "team": "Finland",
   "stats": {
-    "matches_played": 821,
-    "wins": 216,
+    "matches_played": 822,
+    "wins": 217,
     "draws": 166,
     "losses": 439,
-    "goals_for": 968,
+    "goals_for": 970,
     "goals_against": 1692,
-    "goal_difference": -724,
-    "win_percentage": 26.3,
+    "goal_difference": -722,
+    "win_percentage": 26.4,
     "avg_points": 0.99,
     "best_rank": 19,
     "worst_rank": 97,
-    "avg_rank": 51.2,
+    "avg_rank": 51.23,
     "biggest_win": {
       "score": "10-2",
       "opponent": "Estonia",
@@ -26,10 +26,10 @@
       "flag": "germany_1.png"
     },
     "home_matches": 337,
-    "away_matches": 427,
+    "away_matches": 428,
     "neutral_matches": 57,
     "first_match_date": "1911-10-22",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "hungary.png",
       "score1": "",
       "score2": "",
-      "rating1": 5003,
+      "rating1": 5042,
       "rating2": 5175,
       "rating_ev": 0,
-      "rank": 73,
-      "win_prob": 23.3,
+      "rank": 69,
+      "win_prob": 26.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5003,
+      "rating1": 5042,
       "rating2": 5536,
       "rating_ev": 0,
-      "rank": 73,
-      "win_prob": 6.2,
+      "rank": 69,
+      "win_prob": 7.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "cape_verde.png",
       "score1": "",
       "score2": "",
-      "rating1": 5003,
-      "rating2": 5000,
+      "rating1": 5042,
+      "rating2": 4986,
       "rating_ev": 0,
-      "rank": 73,
-      "win_prob": 50.3,
+      "rank": 69,
+      "win_prob": 56.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "New Zealand",
       "flag1": "finland.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5003,
-      "rating2": 5098,
-      "rating_ev": 0,
-      "rank": 73,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5042,
+      "rating2": 5059,
+      "rating_ev": 39,
+      "rank": 69,
       "win_prob": 29.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

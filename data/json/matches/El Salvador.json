@@ -1,18 +1,18 @@
 {
   "team": "El Salvador",
   "stats": {
-    "matches_played": 678,
+    "matches_played": 679,
     "wins": 224,
-    "draws": 151,
+    "draws": 152,
     "losses": 303,
-    "goals_for": 853,
-    "goals_against": 1011,
+    "goals_for": 855,
+    "goals_against": 1013,
     "goal_difference": -158,
     "win_percentage": 33.0,
     "avg_points": 1.21,
     "best_rank": 37,
     "worst_rank": 150,
-    "avg_rank": 87.48,
+    "avg_rank": 87.56,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "hungary.png"
     },
     "home_matches": 206,
-    "away_matches": 206,
+    "away_matches": 207,
     "neutral_matches": 266,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "martinique.png",
       "score1": "",
       "score2": "",
-      "rating1": 4645,
-      "rating2": 4672,
+      "rating1": 4658,
+      "rating2": 4668,
       "rating_ev": 0,
-      "rank": 149,
-      "win_prob": 47.0,
+      "rank": 146,
+      "win_prob": 48.9,
       "type": "fixture"
     },
     {
       "date": "2026-03-26",
-      "country": "Dominican Rep",
+      "country": "Dominican Republic",
       "tournament": "CONCACAF Series",
       "team1": "El Salvador",
       "team2": "Dominican Republic",
@@ -61,14 +61,14 @@
       "original_team2": "Dominican Republic",
       "flag1": "salvador.png",
       "flag2": "dominican_rep.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4645,
-      "rating2": 4761,
-      "rating_ev": 0,
-      "rank": 149,
-      "win_prob": 37.5,
-      "type": "fixture"
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4658,
+      "rating2": 4748,
+      "rating_ev": 13,
+      "rank": 146,
+      "win_prob": 27.9,
+      "type": "past"
     },
     {
       "date": "2025-11-18",

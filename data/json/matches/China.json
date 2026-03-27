@@ -1,18 +1,18 @@
 {
   "team": "China",
   "stats": {
-    "matches_played": 742,
-    "wins": 360,
+    "matches_played": 743,
+    "wins": 361,
     "draws": 158,
     "losses": 224,
-    "goals_for": 1384,
+    "goals_for": 1386,
     "goals_against": 822,
-    "goal_difference": 562,
-    "win_percentage": 48.5,
+    "goal_difference": 564,
+    "win_percentage": 48.6,
     "avg_points": 1.67,
     "best_rank": 24,
     "worst_rank": 128,
-    "avg_rank": 60.7,
+    "avg_rank": 60.76,
     "biggest_win": {
       "score": "19-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 270,
     "away_matches": 247,
-    "neutral_matches": 225,
+    "neutral_matches": 226,
     "first_match_date": "1913-02-04",
-    "last_match_date": "2026-01-26"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cameroon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
-      "rating2": 5051,
+      "rating1": 4840,
+      "rating2": 5054,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 25.6,
+      "rank": 102,
+      "win_prob": 28.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Cura\u00e7ao",
       "flag1": "china.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4807,
-      "rating2": 4896,
-      "rating_ev": 0,
-      "rank": 110,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4840,
+      "rating2": 4863,
+      "rating_ev": 33,
+      "rank": 102,
       "win_prob": 40.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-26",

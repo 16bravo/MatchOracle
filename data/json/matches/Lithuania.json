@@ -1,18 +1,18 @@
 {
   "team": "Lithuania",
   "stats": {
-    "matches_played": 414,
-    "wins": 104,
+    "matches_played": 415,
+    "wins": 105,
     "draws": 81,
     "losses": 229,
-    "goals_for": 405,
+    "goals_for": 407,
     "goals_against": 755,
-    "goal_difference": -350,
-    "win_percentage": 25.1,
+    "goal_difference": -348,
+    "win_percentage": 25.3,
     "avg_points": 0.95,
     "best_rank": 39,
     "worst_rank": 140,
-    "avg_rank": 84.81,
+    "avg_rank": 84.85,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -26,10 +26,10 @@
       "flag": "egypt_2.png"
     },
     "home_matches": 165,
-    "away_matches": 206,
+    "away_matches": 207,
     "neutral_matches": 43,
     "first_match_date": "1923-06-24",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4816,
-      "rating2": 4809,
+      "rating1": 4829,
+      "rating2": 4806,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 61.5,
+      "rank": 104,
+      "win_prob": 63.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "georgia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4816,
-      "rating2": 5169,
+      "rating1": 4829,
+      "rating2": 5165,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 25.1,
+      "rank": 104,
+      "win_prob": 26.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Moldova",
       "flag1": "lithuania.png",
       "flag2": "moldova.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4816,
-      "rating2": 4696,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4829,
+      "rating2": 4683,
+      "rating_ev": 13,
+      "rank": 104,
       "win_prob": 52.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

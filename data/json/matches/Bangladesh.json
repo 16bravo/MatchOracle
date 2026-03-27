@@ -1,15 +1,15 @@
 {
   "team": "Bangladesh",
   "stats": {
-    "matches_played": 323,
+    "matches_played": 324,
     "wins": 85,
     "draws": 73,
-    "losses": 165,
+    "losses": 166,
     "goals_for": 290,
-    "goals_against": 577,
-    "goal_difference": -287,
-    "win_percentage": 26.3,
-    "avg_points": 1.02,
+    "goals_against": 580,
+    "goal_difference": -290,
+    "win_percentage": 26.2,
+    "avg_points": 1.01,
     "best_rank": 144,
     "worst_rank": 200,
     "avg_rank": 178.56,
@@ -26,14 +26,14 @@
       "flag": "south_korea.png"
     },
     "home_matches": 92,
-    "away_matches": 90,
+    "away_matches": 91,
     "neutral_matches": 141,
     "first_match_date": "1973-07-27",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
-      "date": "2026-06-25",
+      "date": "2026-06-27",
       "country": "Fiji",
       "tournament": "Friendly",
       "team1": "Bangladesh",
@@ -44,11 +44,11 @@
       "flag2": "fiji.png",
       "score1": "",
       "score2": "",
-      "rating1": 4239,
+      "rating1": 4233,
       "rating2": 4178,
       "rating_ev": 0,
-      "rank": 178,
-      "win_prob": 45.8,
+      "rank": 179,
+      "win_prob": 45.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4239,
+      "rating1": 4233,
       "rating2": 4392,
       "rating_ev": 0,
-      "rank": 178,
-      "win_prob": 24.8,
+      "rank": 179,
+      "win_prob": 24.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Vietnam",
       "flag1": "bangladesh.png",
       "flag2": "vietnam.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4239,
-      "rating2": 4639,
-      "rating_ev": 0,
-      "rank": 178,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4233,
+      "rating2": 4645,
+      "rating_ev": -6,
+      "rank": 179,
       "win_prob": 10.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

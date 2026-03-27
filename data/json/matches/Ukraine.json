@@ -1,18 +1,18 @@
 {
   "team": "Ukraine",
   "stats": {
-    "matches_played": 331,
+    "matches_played": 332,
     "wins": 149,
     "draws": 93,
-    "losses": 89,
-    "goals_for": 463,
-    "goals_against": 348,
-    "goal_difference": 115,
-    "win_percentage": 45.0,
+    "losses": 90,
+    "goals_for": 464,
+    "goals_against": 351,
+    "goal_difference": 113,
+    "win_percentage": 44.9,
     "avg_points": 1.63,
     "best_rank": 10,
     "worst_rank": 61,
-    "avg_rank": 29.21,
+    "avg_rank": 29.23,
     "biggest_win": {
       "score": "9-0",
       "opponent": "San Marino",
@@ -27,9 +27,9 @@
     },
     "home_matches": 131,
     "away_matches": 142,
-    "neutral_matches": 58,
+    "neutral_matches": 59,
     "first_match_date": "1992-04-29",
-    "last_match_date": "2025-11-16"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Sweden",
       "flag1": "ukraine.png",
       "flag2": "sweden.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5248,
-      "rating2": 5214,
-      "rating_ev": 0,
-      "rank": 29,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 5218,
+      "rating2": 5244,
+      "rating_ev": -30,
+      "rank": 36,
       "win_prob": 53.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-16",

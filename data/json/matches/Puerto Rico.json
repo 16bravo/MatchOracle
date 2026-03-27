@@ -1,18 +1,18 @@
 {
   "team": "Puerto Rico",
   "stats": {
-    "matches_played": 196,
-    "wins": 44,
+    "matches_played": 197,
+    "wins": 45,
     "draws": 31,
     "losses": 121,
-    "goals_for": 222,
+    "goals_for": 226,
     "goals_against": 491,
-    "goal_difference": -269,
-    "win_percentage": 22.4,
-    "avg_points": 0.83,
+    "goal_difference": -265,
+    "win_percentage": 22.8,
+    "avg_points": 0.84,
     "best_rank": 87,
     "worst_rank": 196,
-    "avg_rank": 167.12,
+    "avg_rank": 167.11,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Saint Martin",
@@ -25,13 +25,32 @@
       "date": "1959-01-07",
       "flag": "netherlands.png"
     },
-    "home_matches": 70,
+    "home_matches": 71,
     "away_matches": 71,
     "neutral_matches": 55,
     "first_match_date": "1940-11-12",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2026-03-25"
   },
   "matches": [
+    {
+      "date": "2026-03-28",
+      "country": "Puerto Rico",
+      "tournament": "FIFA Series",
+      "team1": "Puerto Rico",
+      "team2": "US Virgin Islands",
+      "original_team1": "Puerto Rico",
+      "original_team2": "US Virgin Islands",
+      "flag1": "puerto_rico.png",
+      "flag2": "us_virgin.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4480,
+      "rating2": 3491,
+      "rating_ev": 0,
+      "rank": 165,
+      "win_prob": 98.7,
+      "type": "fixture"
+    },
     {
       "date": "2026-03-25",
       "country": "Puerto Rico",
@@ -42,14 +61,14 @@
       "original_team2": "Guam",
       "flag1": "puerto_rico.png",
       "flag2": "guam.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4473,
-      "rating2": 3753,
-      "rating_ev": 0,
-      "rank": 166,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4480,
+      "rating2": 3746,
+      "rating_ev": 7,
+      "rank": 165,
       "win_prob": 96.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

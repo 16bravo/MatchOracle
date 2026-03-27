@@ -1,18 +1,18 @@
 {
   "team": "Gibraltar",
   "stats": {
-    "matches_played": 106,
+    "matches_played": 107,
     "wins": 12,
     "draws": 14,
-    "losses": 80,
+    "losses": 81,
     "goals_for": 44,
-    "goals_against": 330,
-    "goal_difference": -286,
-    "win_percentage": 11.3,
+    "goals_against": 331,
+    "goal_difference": -287,
+    "win_percentage": 11.2,
     "avg_points": 0.47,
     "best_rank": 162,
     "worst_rank": 186,
-    "avg_rank": 174.45,
+    "avg_rank": 174.4,
     "biggest_win": {
       "score": "3-0",
       "opponent": "Faroe Islands",
@@ -25,11 +25,11 @@
       "date": "2023-11-18",
       "flag": "france.png"
     },
-    "home_matches": 36,
+    "home_matches": 37,
     "away_matches": 48,
     "neutral_matches": 22,
     "first_match_date": "2007-07-04",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,31 +44,31 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4428,
-      "rating2": 4809,
+      "rating1": 4431,
+      "rating2": 4806,
       "rating_ev": 0,
-      "rank": 170,
-      "win_prob": 11.0,
+      "rank": 169,
+      "win_prob": 11.3,
       "type": "fixture"
     },
     {
       "date": "2026-03-26",
       "country": "Gibraltar",
-      "tournament": "European League C/D",
+      "tournament": "European Nations League C/D",
       "team1": "Gibraltar",
       "team2": "Latvia",
       "original_team1": "Gibraltar",
       "original_team2": "Latvia",
       "flag1": "gibraltar.png",
       "flag2": "latvia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4428,
-      "rating2": 4809,
-      "rating_ev": 0,
-      "rank": 170,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4431,
+      "rating2": 4806,
+      "rating_ev": 3,
+      "rank": 169,
       "win_prob": 22.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

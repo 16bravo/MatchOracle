@@ -1,18 +1,18 @@
 {
   "team": "Belarus",
   "stats": {
-    "matches_played": 299,
-    "wins": 88,
+    "matches_played": 300,
+    "wins": 89,
     "draws": 76,
     "losses": 135,
-    "goals_for": 334,
+    "goals_for": 335,
     "goals_against": 434,
-    "goal_difference": -100,
-    "win_percentage": 29.4,
+    "goal_difference": -99,
+    "win_percentage": 29.7,
     "avg_points": 1.14,
     "best_rank": 33,
     "worst_rank": 99,
-    "avg_rank": 65.92,
+    "avg_rank": 65.96,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "belgium.png"
     },
     "home_matches": 100,
-    "away_matches": 154,
+    "away_matches": 155,
     "neutral_matches": 45,
     "first_match_date": "1992-10-28",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4972,
+      "rating1": 4977,
       "rating2": 4793,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 58.6,
+      "win_prob": 59.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Cyprus",
       "flag1": "belarus.png",
       "flag2": "cyprus.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4972,
-      "rating2": 4801,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4977,
+      "rating2": 4796,
+      "rating_ev": 5,
       "rank": 77,
       "win_prob": 57.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

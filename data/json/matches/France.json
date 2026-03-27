@@ -1,13 +1,13 @@
 {
   "team": "France",
   "stats": {
-    "matches_played": 933,
-    "wins": 469,
+    "matches_played": 934,
+    "wins": 470,
     "draws": 195,
     "losses": 269,
-    "goals_for": 1685,
-    "goals_against": 1277,
-    "goal_difference": 408,
+    "goals_for": 1687,
+    "goals_against": 1278,
+    "goal_difference": 409,
     "win_percentage": 50.3,
     "avg_points": 1.72,
     "best_rank": 1,
@@ -27,9 +27,9 @@
     },
     "home_matches": 471,
     "away_matches": 340,
-    "neutral_matches": 122,
+    "neutral_matches": 123,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2025-11-16"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5551,
+      "rating1": 5556,
       "rating2": 5544,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 50.8,
+      "win_prob": 51.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5551,
+      "rating1": 5556,
       "rating2": 5325,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 72.9,
+      "win_prob": 73.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5551,
+      "rating1": 5556,
       "rating2": 5129,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 90.6,
+      "win_prob": 90.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5551,
-      "rating2": 5533,
+      "rating1": 5556,
+      "rating2": 5523,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 52.0,
+      "win_prob": 53.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Brazil",
       "flag1": "france.png",
       "flag2": "brazil.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5551,
-      "rating2": 5497,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5556,
+      "rating2": 5492,
+      "rating_ev": 5,
       "rank": 5,
       "win_prob": 55.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-16",

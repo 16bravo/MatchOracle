@@ -1,18 +1,18 @@
 {
   "team": "Bosnia and Herzegovina",
   "stats": {
-    "matches_played": 276,
+    "matches_played": 277,
     "wins": 103,
-    "draws": 62,
+    "draws": 63,
     "losses": 111,
-    "goals_for": 385,
-    "goals_against": 382,
+    "goals_for": 386,
+    "goals_against": 383,
     "goal_difference": 3,
-    "win_percentage": 37.3,
+    "win_percentage": 37.2,
     "avg_points": 1.34,
     "best_rank": 8,
     "worst_rank": 87,
-    "avg_rank": 49.9,
+    "avg_rank": 49.95,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -26,12 +26,31 @@
       "flag": "germany.png"
     },
     "home_matches": 115,
-    "away_matches": 135,
+    "away_matches": 136,
     "neutral_matches": 26,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
+    {
+      "date": "2026-03-26",
+      "country": "Wales",
+      "tournament": "World Cup qualifier",
+      "team1": "Bosnia and Herzegovina",
+      "team2": "Wales",
+      "original_team1": "Bosnia and Herzegovina",
+      "original_team2": "Wales",
+      "flag1": "bosnia.png",
+      "flag2": "wales.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5082,
+      "rating2": 5207,
+      "rating_ev": 15,
+      "rank": 64,
+      "win_prob": 24.6,
+      "type": "past"
+    },
     {
       "date": "2025-11-18",
       "country": "Austria",

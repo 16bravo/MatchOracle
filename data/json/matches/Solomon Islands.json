@@ -1,18 +1,18 @@
 {
   "team": "Solomon Islands",
   "stats": {
-    "matches_played": 218,
+    "matches_played": 219,
     "wins": 91,
     "draws": 37,
-    "losses": 90,
-    "goals_for": 453,
-    "goals_against": 413,
-    "goal_difference": 40,
-    "win_percentage": 41.7,
+    "losses": 91,
+    "goals_for": 455,
+    "goals_against": 423,
+    "goal_difference": 32,
+    "win_percentage": 41.6,
     "avg_points": 1.42,
     "best_rank": 147,
     "worst_rank": 187,
-    "avg_rank": 172.78,
+    "avg_rank": 172.84,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Cook Islands",
@@ -27,9 +27,9 @@
     },
     "home_matches": 59,
     "away_matches": 62,
-    "neutral_matches": 97,
+    "neutral_matches": 98,
     "first_match_date": "1963-08-30",
-    "last_match_date": "2025-11-22"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Bulgaria",
       "flag1": "solomon.png",
       "flag2": "bulgaria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4221,
-      "rating2": 4890,
-      "rating_ev": 0,
-      "rank": 180,
+      "score1": 2,
+      "score2": 10,
+      "rating1": 4166,
+      "rating2": 4945,
+      "rating_ev": -55,
+      "rank": 187,
       "win_prob": 5.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-22",

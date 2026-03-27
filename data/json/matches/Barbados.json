@@ -1,18 +1,18 @@
 {
   "team": "Barbados",
   "stats": {
-    "matches_played": 370,
+    "matches_played": 371,
     "wins": 114,
     "draws": 95,
-    "losses": 161,
-    "goals_for": 473,
-    "goals_against": 613,
-    "goal_difference": -140,
-    "win_percentage": 30.8,
+    "losses": 162,
+    "goals_for": 474,
+    "goals_against": 616,
+    "goal_difference": -142,
+    "win_percentage": 30.7,
     "avg_points": 1.18,
     "best_rank": 64,
     "worst_rank": 197,
-    "avg_rank": 145.29,
+    "avg_rank": 145.43,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 165,
     "away_matches": 131,
-    "neutral_matches": 74,
+    "neutral_matches": 75,
     "first_match_date": "1929-04-20",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "st_vincent.png",
       "score1": "",
       "score2": "",
-      "rating1": 4077,
-      "rating2": 4464,
+      "rating1": 4052,
+      "rating2": 4414,
       "rating_ev": 0,
-      "rank": 195,
-      "win_prob": 15.8,
+      "rank": 197,
+      "win_prob": 17.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Saint Martin",
       "flag1": "barbados.png",
       "flag2": "france.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4077,
-      "rating2": 4116,
-      "rating_ev": 0,
-      "rank": 195,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4052,
+      "rating2": 4141,
+      "rating_ev": -25,
+      "rank": 197,
       "win_prob": 45.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

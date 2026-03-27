@@ -1,14 +1,14 @@
 {
   "team": "Suriname",
   "stats": {
-    "matches_played": 529,
+    "matches_played": 530,
     "wins": 230,
     "draws": 125,
-    "losses": 174,
-    "goals_for": 955,
-    "goals_against": 720,
-    "goal_difference": 235,
-    "win_percentage": 43.5,
+    "losses": 175,
+    "goals_for": 956,
+    "goals_against": 722,
+    "goal_difference": 234,
+    "win_percentage": 43.4,
     "avg_points": 1.54,
     "best_rank": 28,
     "worst_rank": 168,
@@ -27,9 +27,9 @@
     },
     "home_matches": 219,
     "away_matches": 222,
-    "neutral_matches": 88,
+    "neutral_matches": 89,
     "first_match_date": "1915-08-17",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Bolivia",
       "flag1": "suriname.png",
       "flag2": "bolivia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4866,
-      "rating2": 5076,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4865,
+      "rating2": 5077,
+      "rating_ev": -1,
       "rank": 98,
       "win_prob": 28.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

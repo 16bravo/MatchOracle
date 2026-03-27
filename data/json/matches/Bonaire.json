@@ -1,18 +1,18 @@
 {
   "team": "Bonaire",
   "stats": {
-    "matches_played": 103,
-    "wins": 23,
+    "matches_played": 104,
+    "wins": 24,
     "draws": 12,
     "losses": 68,
-    "goals_for": 116,
-    "goals_against": 256,
-    "goal_difference": -140,
-    "win_percentage": 22.3,
-    "avg_points": 0.79,
+    "goals_for": 119,
+    "goals_against": 257,
+    "goal_difference": -138,
+    "win_percentage": 23.1,
+    "avg_points": 0.81,
     "best_rank": 75,
     "worst_rank": 205,
-    "avg_rank": 174.21,
+    "avg_rank": 174.45,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Aruba",
@@ -25,11 +25,11 @@
       "date": "1969-08-09",
       "flag": null
     },
-    "home_matches": 17,
+    "home_matches": 18,
     "away_matches": 52,
     "neutral_matches": 34,
     "first_match_date": "1934-02-04",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 3988,
-      "rating2": 4116,
+      "rating1": 4038,
+      "rating2": 4141,
       "rating_ev": 0,
-      "rank": 202,
-      "win_prob": 46.9,
+      "rank": 199,
+      "win_prob": 49.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "St Vincent & Grenadines",
       "flag1": "bonaire.png",
       "flag2": "st_vincent.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3988,
-      "rating2": 4464,
-      "rating_ev": 0,
-      "rank": 202,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4038,
+      "rating2": 4414,
+      "rating_ev": 50,
+      "rank": 199,
       "win_prob": 16.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

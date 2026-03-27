@@ -1,18 +1,18 @@
 {
   "team": "St Vincent & Grenadines",
   "stats": {
-    "matches_played": 357,
+    "matches_played": 358,
     "wins": 130,
     "draws": 81,
-    "losses": 146,
-    "goals_for": 561,
-    "goals_against": 638,
-    "goal_difference": -77,
-    "win_percentage": 36.4,
+    "losses": 147,
+    "goals_for": 562,
+    "goals_against": 641,
+    "goal_difference": -79,
+    "win_percentage": 36.3,
     "avg_points": 1.32,
     "best_rank": 65,
     "worst_rank": 187,
-    "avg_rank": 152.12,
+    "avg_rank": 152.17,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Montserrat",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 133,
-    "away_matches": 135,
+    "away_matches": 136,
     "neutral_matches": 89,
     "first_match_date": "1936-09-12",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "barbados.png",
       "score1": "",
       "score2": "",
-      "rating1": 4464,
-      "rating2": 4077,
+      "rating1": 4414,
+      "rating2": 4052,
       "rating_ev": 0,
-      "rank": 167,
-      "win_prob": 84.2,
+      "rank": 170,
+      "win_prob": 82.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bonaire",
       "flag1": "st_vincent.png",
       "flag2": "bonaire.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4464,
-      "rating2": 3988,
-      "rating_ev": 0,
-      "rank": 167,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4414,
+      "rating2": 4038,
+      "rating_ev": -50,
+      "rank": 170,
       "win_prob": 83.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

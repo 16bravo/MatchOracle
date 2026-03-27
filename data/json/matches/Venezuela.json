@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 476,
-    "wins": 126,
+    "matches_played": 477,
+    "wins": 127,
     "draws": 105,
     "losses": 245,
-    "goals_for": 513,
-    "goals_against": 870,
-    "goal_difference": -357,
-    "win_percentage": 26.5,
-    "avg_points": 1.01,
+    "goals_for": 517,
+    "goals_against": 871,
+    "goal_difference": -354,
+    "win_percentage": 26.6,
+    "avg_points": 1.02,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.51,
+    "avg_rank": 63.46,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -27,9 +27,9 @@
     },
     "home_matches": 176,
     "away_matches": 178,
-    "neutral_matches": 122,
+    "neutral_matches": 123,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5196,
+      "rating1": 5211,
       "rating2": 5113,
       "rating_ev": 0,
-      "rank": 42,
-      "win_prob": 48.2,
+      "rank": 39,
+      "win_prob": 49.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Trinidad and Tobago",
       "flag1": "venezuela.png",
       "flag2": "trinidad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5196,
-      "rating2": 4748,
-      "rating_ev": 0,
-      "rank": 42,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5211,
+      "rating2": 4733,
+      "rating_ev": 15,
+      "rank": 39,
       "win_prob": 87.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

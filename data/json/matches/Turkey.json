@@ -1,18 +1,18 @@
 {
   "team": "Turkey",
   "stats": {
-    "matches_played": 659,
-    "wins": 259,
+    "matches_played": 660,
+    "wins": 260,
     "draws": 154,
     "losses": 246,
-    "goals_for": 927,
+    "goals_for": 928,
     "goals_against": 956,
-    "goal_difference": -29,
-    "win_percentage": 39.3,
-    "avg_points": 1.41,
+    "goal_difference": -28,
+    "win_percentage": 39.4,
+    "avg_points": 1.42,
     "best_rank": 10,
     "worst_rank": 63,
-    "avg_rank": 32.41,
+    "avg_rank": 32.39,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Syria",
@@ -25,13 +25,32 @@
       "date": "1968-04-24",
       "flag": "poland.png"
     },
-    "home_matches": 286,
+    "home_matches": 287,
     "away_matches": 295,
     "neutral_matches": 78,
     "first_match_date": "1923-10-26",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
+    {
+      "date": "2026-03-31",
+      "country": "Kosovo",
+      "tournament": "World Cup qualifier",
+      "team1": "Turkey",
+      "team2": "Kosovo",
+      "original_team1": "Turkey",
+      "original_team2": "Kosovo",
+      "flag1": "turkey.png",
+      "flag2": "kosovo.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5372,
+      "rating2": 5216,
+      "rating_ev": 0,
+      "rank": 19,
+      "win_prob": 56.1,
+      "type": "fixture"
+    },
     {
       "date": "2026-03-26",
       "country": "Turkey",
@@ -42,14 +61,14 @@
       "original_team2": "Romania",
       "flag1": "turkey.png",
       "flag2": "romania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5377,
-      "rating2": 5156,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5372,
+      "rating2": 5161,
+      "rating_ev": -5,
       "rank": 19,
       "win_prob": 80.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

@@ -1,14 +1,14 @@
 {
   "team": "Brazil",
   "stats": {
-    "matches_played": 1064,
+    "matches_played": 1065,
     "wins": 671,
     "draws": 222,
-    "losses": 171,
-    "goals_for": 2292,
-    "goals_against": 951,
-    "goal_difference": 1341,
-    "win_percentage": 63.1,
+    "losses": 172,
+    "goals_for": 2293,
+    "goals_against": 953,
+    "goal_difference": 1340,
+    "win_percentage": 63.0,
     "avg_points": 2.1,
     "best_rank": 1,
     "worst_rank": 14,
@@ -27,9 +27,9 @@
     },
     "home_matches": 373,
     "away_matches": 346,
-    "neutral_matches": 345,
+    "neutral_matches": 346,
     "first_match_date": "1914-09-20",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5497,
+      "rating1": 5492,
       "rating2": 5297,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 70.6,
+      "win_prob": 70.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5497,
+      "rating1": 5492,
       "rating2": 4984,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 90.0,
+      "win_prob": 89.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5497,
+      "rating1": 5492,
       "rating2": 5265,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 73.4,
+      "win_prob": 73.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5497,
+      "rating1": 5492,
       "rating2": 5072,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 86.2,
+      "win_prob": 86.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 5497,
+      "rating1": 5492,
       "rating2": 5099,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 89.7,
+      "win_prob": 89.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5497,
-      "rating2": 5424,
+      "rating1": 5492,
+      "rating2": 5434,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 58.0,
+      "win_prob": 56.4,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "France",
       "flag1": "brazil.png",
       "flag2": "france.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5497,
-      "rating2": 5551,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5492,
+      "rating2": 5556,
+      "rating_ev": -5,
       "rank": 10,
       "win_prob": 44.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

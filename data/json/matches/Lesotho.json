@@ -1,9 +1,9 @@
 {
   "team": "Lesotho",
   "stats": {
-    "matches_played": 338,
+    "matches_played": 339,
     "wins": 67,
-    "draws": 101,
+    "draws": 102,
     "losses": 170,
     "goals_for": 264,
     "goals_against": 548,
@@ -12,7 +12,7 @@
     "avg_points": 0.89,
     "best_rank": 112,
     "worst_rank": 167,
-    "avg_rank": 144.88,
+    "avg_rank": 144.92,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 109,
     "away_matches": 138,
-    "neutral_matches": 91,
+    "neutral_matches": 92,
     "first_match_date": "1970-08-08",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,31 +44,31 @@
       "flag2": "seychelles.png",
       "score1": "",
       "score2": "",
-      "rating1": 4624,
-      "rating2": 4087,
+      "rating1": 4593,
+      "rating2": 4118,
       "rating_ev": 0,
-      "rank": 151,
-      "win_prob": 90.8,
+      "rank": 157,
+      "win_prob": 88.5,
       "type": "fixture"
     },
     {
       "date": "2026-03-26",
       "country": "South Africa",
-      "tournament": "African Cup qualifier",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Lesotho",
       "team2": "Seychelles",
       "original_team1": "Lesotho",
       "original_team2": "Seychelles",
       "flag1": "lesotho.png",
       "flag2": "seychelles.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4624,
-      "rating2": 4087,
-      "rating_ev": 0,
-      "rank": 151,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4593,
+      "rating2": 4118,
+      "rating_ev": -31,
+      "rank": 157,
       "win_prob": 90.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

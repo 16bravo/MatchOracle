@@ -1,18 +1,18 @@
 {
   "team": "Georgia",
   "stats": {
-    "matches_played": 313,
+    "matches_played": 314,
     "wins": 104,
-    "draws": 66,
+    "draws": 67,
     "losses": 143,
-    "goals_for": 402,
-    "goals_against": 435,
+    "goals_for": 404,
+    "goals_against": 437,
     "goal_difference": -33,
-    "win_percentage": 33.2,
+    "win_percentage": 33.1,
     "avg_points": 1.21,
     "best_rank": 29,
     "worst_rank": 90,
-    "avg_rank": 59.61,
+    "avg_rank": 59.57,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Thailand",
@@ -25,11 +25,11 @@
       "date": "2023-09-08",
       "flag": "spain.png"
     },
-    "home_matches": 135,
+    "home_matches": 136,
     "away_matches": 147,
     "neutral_matches": 31,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5169,
-      "rating2": 5156,
+      "rating1": 5165,
+      "rating2": 5161,
       "rating_ev": 0,
       "rank": 47,
-      "win_prob": 62.1,
+      "win_prob": 61.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "lithuania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5169,
-      "rating2": 4816,
+      "rating1": 5165,
+      "rating2": 4829,
       "rating_ev": 0,
       "rank": 47,
-      "win_prob": 74.9,
+      "win_prob": 73.5,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Israel",
       "flag1": "georgia.png",
       "flag2": "israel.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5169,
-      "rating2": 5122,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5165,
+      "rating2": 5126,
+      "rating_ev": -4,
       "rank": 47,
       "win_prob": 65.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

@@ -1,18 +1,18 @@
 {
   "team": "Ireland",
   "stats": {
-    "matches_played": 735,
+    "matches_played": 736,
     "wins": 259,
-    "draws": 191,
+    "draws": 192,
     "losses": 285,
-    "goals_for": 967,
-    "goals_against": 1153,
+    "goals_for": 969,
+    "goals_against": 1155,
     "goal_difference": -186,
     "win_percentage": 35.2,
     "avg_points": 1.32,
     "best_rank": 4,
     "worst_rank": 61,
-    "avg_rank": 22.6,
+    "avg_rank": 22.63,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Malta",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 375,
-    "away_matches": 301,
+    "away_matches": 302,
     "neutral_matches": 59,
     "first_match_date": "1882-02-18",
-    "last_match_date": "2025-11-16"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5170,
+      "rating1": 5179,
       "rating2": 5282,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 28.3,
+      "rank": 45,
+      "win_prob": 29.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5170,
+      "rating1": 5179,
       "rating2": 4803,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 88.4,
+      "rank": 45,
+      "win_prob": 88.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "grenada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5170,
+      "rating1": 5179,
       "rating2": 4382,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 96.2,
+      "rank": 45,
+      "win_prob": 96.4,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Czechia",
       "flag1": "ireland.png",
       "flag2": "czechia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5170,
-      "rating2": 5221,
-      "rating_ev": 0,
-      "rank": 46,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5179,
+      "rating2": 5212,
+      "rating_ev": 9,
+      "rank": 45,
       "win_prob": 34.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-16",

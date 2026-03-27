@@ -1,15 +1,15 @@
 {
   "team": "Croatia",
   "stats": {
-    "matches_played": 396,
-    "wins": 208,
+    "matches_played": 397,
+    "wins": 209,
     "draws": 106,
     "losses": 82,
-    "goals_for": 691,
-    "goals_against": 397,
-    "goal_difference": 294,
-    "win_percentage": 52.5,
-    "avg_points": 1.84,
+    "goals_for": 693,
+    "goals_against": 398,
+    "goal_difference": 295,
+    "win_percentage": 52.6,
+    "avg_points": 1.85,
     "best_rank": 5,
     "worst_rank": 31,
     "avg_rank": 14.65,
@@ -27,9 +27,9 @@
     },
     "home_matches": 156,
     "away_matches": 167,
-    "neutral_matches": 73,
+    "neutral_matches": 74,
     "first_match_date": "1940-04-02",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5424,
+      "rating1": 5434,
       "rating2": 5052,
       "rating_ev": 0,
       "rank": 13,
-      "win_prob": 83.4,
+      "win_prob": 84.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 5424,
+      "rating1": 5434,
       "rating2": 5099,
       "rating_ev": 0,
       "rank": 13,
-      "win_prob": 80.4,
+      "win_prob": 81.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5424,
+      "rating1": 5434,
       "rating2": 5585,
       "rating_ev": 0,
       "rank": 13,
-      "win_prob": 33.0,
+      "win_prob": 34.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5424,
+      "rating1": 5434,
       "rating2": 5183,
       "rating_ev": 0,
       "rank": 13,
-      "win_prob": 81.7,
+      "win_prob": 82.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5424,
+      "rating1": 5434,
       "rating2": 5448,
       "rating_ev": 0,
       "rank": 13,
-      "win_prob": 58.2,
+      "win_prob": 59.3,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5424,
-      "rating2": 5497,
+      "rating1": 5434,
+      "rating2": 5492,
       "rating_ev": 0,
       "rank": 13,
-      "win_prob": 42.0,
+      "win_prob": 43.6,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Colombia",
       "flag1": "croatia.png",
       "flag2": "colombia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5424,
-      "rating2": 5533,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5434,
+      "rating2": 5523,
+      "rating_ev": 10,
       "rank": 13,
       "win_prob": 38.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

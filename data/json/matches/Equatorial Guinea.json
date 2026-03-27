@@ -1,18 +1,18 @@
 {
   "team": "Equatorial Guinea",
   "stats": {
-    "matches_played": 191,
-    "wins": 55,
+    "matches_played": 192,
+    "wins": 56,
     "draws": 43,
     "losses": 93,
-    "goals_for": 175,
+    "goals_for": 176,
     "goals_against": 277,
-    "goal_difference": -102,
-    "win_percentage": 28.8,
-    "avg_points": 1.09,
+    "goal_difference": -101,
+    "win_percentage": 29.2,
+    "avg_points": 1.1,
     "best_rank": 69,
     "worst_rank": 168,
-    "avg_rank": 122.82,
+    "avg_rank": 122.72,
     "biggest_win": {
       "score": "4-0",
       "opponent": "South Sudan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 80,
     "away_matches": 62,
-    "neutral_matches": 49,
+    "neutral_matches": 50,
     "first_match_date": "1975-05-23",
-    "last_match_date": "2025-12-31"
+    "last_match_date": "2026-03-25"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "madagascar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4823,
+      "rating1": 4826,
       "rating2": 4820,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 50.3,
+      "rank": 105,
+      "win_prob": 50.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Kyrgyzstan",
       "flag1": "eq_guinea.png",
       "flag2": "kyrgyzstan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4823,
-      "rating2": 4703,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4826,
+      "rating2": 4700,
+      "rating_ev": 3,
       "rank": 104,
       "win_prob": 62.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-31",

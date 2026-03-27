@@ -1,18 +1,18 @@
 {
   "team": "Luxembourg",
   "stats": {
-    "matches_played": 466,
-    "wins": 51,
+    "matches_played": 467,
+    "wins": 52,
     "draws": 61,
     "losses": 354,
-    "goals_for": 300,
+    "goals_for": 302,
     "goals_against": 1213,
-    "goal_difference": -913,
-    "win_percentage": 10.9,
+    "goal_difference": -911,
+    "win_percentage": 11.1,
     "avg_points": 0.46,
     "best_rank": 23,
     "worst_rank": 166,
-    "avg_rank": 103.21,
+    "avg_rank": 103.18,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Afghanistan",
@@ -26,10 +26,10 @@
       "flag": "germany_1.png"
     },
     "home_matches": 253,
-    "away_matches": 197,
+    "away_matches": 198,
     "neutral_matches": 16,
     "first_match_date": "1911-10-29",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,31 +44,31 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4884,
-      "rating2": 4736,
+      "rating1": 4908,
+      "rating2": 4712,
       "rating_ev": 0,
-      "rank": 91,
-      "win_prob": 74.8,
+      "rank": 87,
+      "win_prob": 78.6,
       "type": "fixture"
     },
     {
       "date": "2026-03-26",
       "country": "Malta",
-      "tournament": "European League C/D",
+      "tournament": "European Nations League C/D",
       "team1": "Luxembourg",
       "team2": "Malta",
       "original_team1": "Luxembourg",
       "original_team2": "Malta",
       "flag1": "luxembourg.png",
       "flag2": "malta.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4884,
-      "rating2": 4736,
-      "rating_ev": 0,
-      "rank": 91,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4908,
+      "rating2": 4712,
+      "rating_ev": 24,
+      "rank": 86,
       "win_prob": 55.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

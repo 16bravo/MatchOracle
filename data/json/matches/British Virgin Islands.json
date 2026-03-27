@@ -1,14 +1,14 @@
 {
   "team": "British Virgin Islands",
   "stats": {
-    "matches_played": 137,
+    "matches_played": 138,
     "wins": 23,
-    "draws": 23,
+    "draws": 24,
     "losses": 91,
-    "goals_for": 126,
-    "goals_against": 396,
+    "goals_for": 127,
+    "goals_against": 397,
     "goal_difference": -270,
-    "win_percentage": 16.8,
+    "win_percentage": 16.7,
     "avg_points": 0.67,
     "best_rank": 180,
     "worst_rank": 214,
@@ -26,10 +26,10 @@
       "flag": "dominican_rep.png"
     },
     "home_matches": 36,
-    "away_matches": 61,
+    "away_matches": 62,
     "neutral_matches": 40,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "anguilla.png",
       "score1": "",
       "score2": "",
-      "rating1": 3893,
-      "rating2": 3596,
+      "rating1": 3899,
+      "rating2": 3622,
       "rating_ev": 0,
-      "rank": 206,
-      "win_prob": 78.5,
+      "rank": 205,
+      "win_prob": 77.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Cayman Islands",
       "flag1": "gb_virgin.png",
       "flag2": "cayman.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3893,
-      "rating2": 3898,
-      "rating_ev": 0,
-      "rank": 206,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 3899,
+      "rating2": 3892,
+      "rating_ev": 6,
+      "rank": 205,
       "win_prob": 38.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

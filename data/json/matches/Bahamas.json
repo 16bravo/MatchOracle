@@ -1,18 +1,18 @@
 {
   "team": "Bahamas",
   "stats": {
-    "matches_played": 89,
+    "matches_played": 90,
     "wins": 17,
     "draws": 11,
-    "losses": 61,
-    "goals_for": 90,
-    "goals_against": 294,
-    "goal_difference": -204,
-    "win_percentage": 19.1,
-    "avg_points": 0.7,
+    "losses": 62,
+    "goals_for": 91,
+    "goals_against": 297,
+    "goal_difference": -206,
+    "win_percentage": 18.9,
+    "avg_points": 0.69,
     "best_rank": 157,
     "worst_rank": 213,
-    "avg_rank": 197.85,
+    "avg_rank": 198.02,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Turks and Caicos Islands",
@@ -27,9 +27,9 @@
     },
     "home_matches": 30,
     "away_matches": 30,
-    "neutral_matches": 29,
+    "neutral_matches": 30,
     "first_match_date": "1965-07-17",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cayman.png",
       "score1": "",
       "score2": "",
-      "rating1": 3568,
-      "rating2": 3898,
+      "rating1": 3542,
+      "rating2": 3892,
       "rating_ev": 0,
       "rank": 213,
-      "win_prob": 13.3,
+      "win_prob": 12.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Anguilla",
       "flag1": "bahamas.png",
       "flag2": "anguilla.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3568,
-      "rating2": 3596,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 3542,
+      "rating2": 3622,
+      "rating_ev": -26,
       "rank": 213,
       "win_prob": 46.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

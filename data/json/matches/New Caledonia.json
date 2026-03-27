@@ -1,18 +1,18 @@
 {
   "team": "New Caledonia",
   "stats": {
-    "matches_played": 273,
+    "matches_played": 274,
     "wins": 133,
     "draws": 33,
-    "losses": 107,
+    "losses": 108,
     "goals_for": 673,
-    "goals_against": 405,
-    "goal_difference": 268,
-    "win_percentage": 48.7,
+    "goals_against": 406,
+    "goal_difference": 267,
+    "win_percentage": 48.5,
     "avg_points": 1.58,
     "best_rank": 51,
     "worst_rank": 184,
-    "avg_rank": 138.22,
+    "avg_rank": 138.32,
     "biggest_win": {
       "score": "18-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 85,
     "away_matches": 68,
-    "neutral_matches": 120,
+    "neutral_matches": 121,
     "first_match_date": "1933-08-15",
-    "last_match_date": "2025-10-08"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Jamaica",
       "flag1": "caledonia.png",
       "flag2": "jamaica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4459,
-      "rating2": 4930,
-      "rating_ev": 0,
-      "rank": 168,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4472,
+      "rating2": 4917,
+      "rating_ev": 13,
+      "rank": 167,
       "win_prob": 11.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-08",

@@ -1,18 +1,18 @@
 {
   "team": "Denmark",
   "stats": {
-    "matches_played": 901,
-    "wins": 419,
+    "matches_played": 902,
+    "wins": 420,
     "draws": 185,
     "losses": 297,
-    "goals_for": 1652,
+    "goals_for": 1656,
     "goals_against": 1214,
-    "goal_difference": 438,
-    "win_percentage": 46.5,
+    "goal_difference": 442,
+    "win_percentage": 46.6,
     "avg_points": 1.6,
     "best_rank": 1,
     "worst_rank": 49,
-    "avg_rank": 19.17,
+    "avg_rank": 19.16,
     "biggest_win": {
       "score": "17-1",
       "opponent": "France",
@@ -25,13 +25,32 @@
       "date": "1937-05-16",
       "flag": "germany_1.png"
     },
-    "home_matches": 411,
+    "home_matches": 412,
     "away_matches": 394,
     "neutral_matches": 96,
     "first_match_date": "1908-10-19",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
+    {
+      "date": "2026-03-31",
+      "country": "Czechia",
+      "tournament": "World Cup qualifier",
+      "team1": "Denmark",
+      "team2": "Czechia",
+      "original_team1": "Denmark",
+      "original_team2": "Czechia",
+      "flag1": "denmark.png",
+      "flag2": "czechia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5430,
+      "rating2": 5212,
+      "rating_ev": 0,
+      "rank": 14,
+      "win_prob": 62.6,
+      "type": "fixture"
+    },
     {
       "date": "2026-03-26",
       "country": "Denmark",
@@ -42,14 +61,14 @@
       "original_team2": "North Macedonia",
       "flag1": "denmark.png",
       "flag2": "macedonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5404,
-      "rating2": 5040,
-      "rating_ev": 0,
-      "rank": 16,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5430,
+      "rating2": 5014,
+      "rating_ev": 26,
+      "rank": 13,
       "win_prob": 88.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

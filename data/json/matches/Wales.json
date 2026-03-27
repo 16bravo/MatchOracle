@@ -1,18 +1,18 @@
 {
   "team": "Wales",
   "stats": {
-    "matches_played": 731,
+    "matches_played": 732,
     "wins": 236,
-    "draws": 164,
+    "draws": 165,
     "losses": 331,
-    "goals_for": 915,
-    "goals_against": 1171,
+    "goals_for": 916,
+    "goals_against": 1172,
     "goal_difference": -256,
-    "win_percentage": 32.3,
+    "win_percentage": 32.2,
     "avg_points": 1.19,
     "best_rank": 3,
     "worst_rank": 76,
-    "avg_rank": 24.67,
+    "avg_rank": 24.69,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Ireland",
@@ -25,11 +25,11 @@
       "date": "1878-03-23",
       "flag": "scotland.png"
     },
-    "home_matches": 343,
+    "home_matches": 344,
     "away_matches": 356,
     "neutral_matches": 32,
     "first_match_date": "1876-03-25",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,12 +44,31 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5222,
+      "rating1": 5207,
       "rating2": 5052,
       "rating_ev": 0,
-      "rank": 34,
-      "win_prob": 76.6,
+      "rank": 40,
+      "win_prob": 75.4,
       "type": "fixture"
+    },
+    {
+      "date": "2026-03-26",
+      "country": "Wales",
+      "tournament": "World Cup qualifier",
+      "team1": "Wales",
+      "team2": "Bosnia and Herzegovina",
+      "original_team1": "Wales",
+      "original_team2": "Bosnia and Herzegovina",
+      "flag1": "wales.png",
+      "flag2": "bosnia.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5207,
+      "rating2": 5082,
+      "rating_ev": -15,
+      "rank": 39,
+      "win_prob": 75.4,
+      "type": "past"
     },
     {
       "date": "2025-11-18",

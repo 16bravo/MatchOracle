@@ -1,18 +1,18 @@
 {
   "team": "Moldova",
   "stats": {
-    "matches_played": 297,
+    "matches_played": 298,
     "wins": 59,
     "draws": 68,
-    "losses": 170,
+    "losses": 171,
     "goals_for": 240,
-    "goals_against": 515,
-    "goal_difference": -275,
-    "win_percentage": 19.9,
+    "goals_against": 517,
+    "goal_difference": -277,
+    "win_percentage": 19.8,
     "avg_points": 0.82,
     "best_rank": 74,
     "worst_rank": 144,
-    "avg_rank": 102.81,
+    "avg_rank": 102.94,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Pakistan",
@@ -25,11 +25,11 @@
       "date": "2025-09-09",
       "flag": "norway.png"
     },
-    "home_matches": 112,
+    "home_matches": 113,
     "away_matches": 144,
     "neutral_matches": 41,
     "first_match_date": "1991-07-02",
-    "last_match_date": "2025-11-16"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4696,
+      "rating1": 4683,
       "rating2": 4793,
       "rating_ev": 0,
-      "rank": 140,
-      "win_prob": 29.6,
+      "rank": 141,
+      "win_prob": 28.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 4696,
-      "rating2": 4801,
+      "rating1": 4683,
+      "rating2": 4796,
       "rating_ev": 0,
-      "rank": 140,
-      "win_prob": 28.9,
+      "rank": 141,
+      "win_prob": 28.2,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Lithuania",
       "flag1": "moldova.png",
       "flag2": "lithuania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4696,
-      "rating2": 4816,
-      "rating_ev": 0,
-      "rank": 140,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4683,
+      "rating2": 4829,
+      "rating_ev": -13,
+      "rank": 141,
       "win_prob": 47.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-16",

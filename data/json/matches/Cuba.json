@@ -1,18 +1,18 @@
 {
   "team": "Cuba",
   "stats": {
-    "matches_played": 501,
+    "matches_played": 502,
     "wins": 191,
-    "draws": 115,
+    "draws": 116,
     "losses": 195,
-    "goals_for": 689,
-    "goals_against": 699,
+    "goals_for": 691,
+    "goals_against": 701,
     "goal_difference": -10,
-    "win_percentage": 38.1,
+    "win_percentage": 38.0,
     "avg_points": 1.37,
     "best_rank": 33,
     "worst_rank": 165,
-    "avg_rank": 103.01,
+    "avg_rank": 103.12,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Turks and Caicos Islands",
@@ -27,9 +27,9 @@
     },
     "home_matches": 113,
     "away_matches": 214,
-    "neutral_matches": 174,
+    "neutral_matches": 175,
     "first_match_date": "1930-03-16",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 4597,
-      "rating2": 4761,
+      "rating1": 4601,
+      "rating2": 4748,
       "rating_ev": 0,
       "rank": 155,
-      "win_prob": 32.7,
+      "win_prob": 34.4,
       "type": "fixture"
     },
     {
       "date": "2026-03-26",
-      "country": "Dominican Rep",
+      "country": "Dominican Republic",
       "tournament": "CONCACAF Series",
       "team1": "Cuba",
       "team2": "Martinique",
@@ -61,14 +61,14 @@
       "original_team2": "Martinique",
       "flag1": "cuba.png",
       "flag2": "martinique.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4597,
-      "rating2": 4672,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4601,
+      "rating2": 4668,
+      "rating_ev": 4,
       "rank": 155,
       "win_prob": 41.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

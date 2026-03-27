@@ -1,18 +1,18 @@
 {
   "team": "Anguilla",
   "stats": {
-    "matches_played": 116,
-    "wins": 16,
+    "matches_played": 117,
+    "wins": 17,
     "draws": 14,
     "losses": 86,
-    "goals_for": 73,
-    "goals_against": 410,
-    "goal_difference": -337,
-    "win_percentage": 13.8,
-    "avg_points": 0.53,
+    "goals_for": 76,
+    "goals_against": 411,
+    "goal_difference": -335,
+    "win_percentage": 14.5,
+    "avg_points": 0.56,
     "best_rank": 185,
     "worst_rank": 215,
-    "avg_rank": 210.54,
+    "avg_rank": 210.56,
     "biggest_win": {
       "score": "4-1",
       "opponent": "Montserrat",
@@ -27,9 +27,9 @@
     },
     "home_matches": 31,
     "away_matches": 50,
-    "neutral_matches": 35,
+    "neutral_matches": 36,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gb_virgin.png",
       "score1": "",
       "score2": "",
-      "rating1": 3596,
-      "rating2": 3893,
+      "rating1": 3622,
+      "rating2": 3899,
       "rating_ev": 0,
       "rank": 212,
-      "win_prob": 21.5,
+      "win_prob": 23.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Bahamas",
       "flag1": "anguilla.png",
       "flag2": "bahamas.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3596,
-      "rating2": 3568,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 3622,
+      "rating2": 3542,
+      "rating_ev": 26,
       "rank": 212,
       "win_prob": 53.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

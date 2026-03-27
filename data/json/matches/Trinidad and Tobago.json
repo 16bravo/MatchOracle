@@ -1,18 +1,18 @@
 {
   "team": "Trinidad and Tobago",
   "stats": {
-    "matches_played": 866,
+    "matches_played": 867,
     "wins": 376,
     "draws": 191,
-    "losses": 299,
-    "goals_for": 1449,
-    "goals_against": 1101,
-    "goal_difference": 348,
+    "losses": 300,
+    "goals_for": 1450,
+    "goals_against": 1105,
+    "goal_difference": 345,
     "win_percentage": 43.4,
     "avg_points": 1.52,
     "best_rank": 14,
     "worst_rank": 142,
-    "avg_rank": 87.51,
+    "avg_rank": 87.56,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 345,
     "away_matches": 361,
-    "neutral_matches": 160,
+    "neutral_matches": 161,
     "first_match_date": "1905-07-21",
-    "last_match_date": "2026-03-15"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4748,
+      "rating1": 4733,
       "rating2": 4883,
       "rating_ev": 0,
-      "rank": 129,
-      "win_prob": 35.6,
+      "rank": 133,
+      "win_prob": 34.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Venezuela",
       "flag1": "trinidad.png",
       "flag2": "venezuela.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4748,
-      "rating2": 5196,
-      "rating_ev": 0,
-      "rank": 129,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4733,
+      "rating2": 5211,
+      "rating_ev": -15,
+      "rank": 133,
       "win_prob": 12.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-15",

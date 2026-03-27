@@ -1,18 +1,18 @@
 {
   "team": "Czechia",
   "stats": {
-    "matches_played": 879,
+    "matches_played": 880,
     "wins": 425,
-    "draws": 194,
+    "draws": 195,
     "losses": 260,
-    "goals_for": 1621,
-    "goals_against": 1090,
+    "goals_for": 1623,
+    "goals_against": 1092,
     "goal_difference": 531,
-    "win_percentage": 48.4,
+    "win_percentage": 48.3,
     "avg_points": 1.67,
     "best_rank": 1,
     "worst_rank": 42,
-    "avg_rank": 13.22,
+    "avg_rank": 13.25,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Yugoslavia",
@@ -25,13 +25,32 @@
       "date": "1939-05-21",
       "flag": "austria.png"
     },
-    "home_matches": 147,
+    "home_matches": 148,
     "away_matches": 416,
     "neutral_matches": 316,
     "first_match_date": "1903-04-05",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
+    {
+      "date": "2026-03-31",
+      "country": "Czechia",
+      "tournament": "World Cup qualifier",
+      "team1": "Czechia",
+      "team2": "Denmark",
+      "original_team1": "Czechia",
+      "original_team2": "Denmark",
+      "flag1": "czechia.png",
+      "flag2": "denmark.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5212,
+      "rating2": 5430,
+      "rating_ev": 0,
+      "rank": 38,
+      "win_prob": 37.4,
+      "type": "fixture"
+    },
     {
       "date": "2026-03-26",
       "country": "Czechia",
@@ -42,14 +61,14 @@
       "original_team2": "Ireland",
       "flag1": "czechia.png",
       "flag2": "ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5221,
-      "rating2": 5170,
-      "rating_ev": 0,
-      "rank": 36,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5212,
+      "rating2": 5179,
+      "rating_ev": -9,
+      "rank": 38,
       "win_prob": 66.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

@@ -1,18 +1,18 @@
 {
   "team": "Poland",
   "stats": {
-    "matches_played": 915,
-    "wins": 398,
+    "matches_played": 916,
+    "wins": 399,
     "draws": 224,
     "losses": 293,
-    "goals_for": 1554,
-    "goals_against": 1231,
-    "goal_difference": 323,
-    "win_percentage": 43.5,
+    "goals_for": 1556,
+    "goals_against": 1232,
+    "goal_difference": 324,
+    "win_percentage": 43.6,
     "avg_points": 1.55,
     "best_rank": 1,
     "worst_rank": 48,
-    "avg_rank": 24.19,
+    "avg_rank": 24.2,
     "biggest_win": {
       "score": "10-0",
       "opponent": "San Marino",
@@ -25,13 +25,32 @@
       "date": "1948-06-26",
       "flag": "denmark.png"
     },
-    "home_matches": 394,
+    "home_matches": 395,
     "away_matches": 406,
     "neutral_matches": 115,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
+    {
+      "date": "2026-03-31",
+      "country": "Sweden",
+      "tournament": "World Cup qualifier",
+      "team1": "Poland",
+      "team2": "Sweden",
+      "original_team1": "Poland",
+      "original_team2": "Sweden",
+      "flag1": "poland.png",
+      "flag2": "sweden.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5231,
+      "rating2": 5244,
+      "rating_ev": 0,
+      "rank": 32,
+      "win_prob": 37.9,
+      "type": "fixture"
+    },
     {
       "date": "2026-03-26",
       "country": "Poland",
@@ -42,14 +61,14 @@
       "original_team2": "Albania",
       "flag1": "poland.png",
       "flag2": "albania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5227,
-      "rating2": 5150,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5231,
+      "rating2": 5146,
+      "rating_ev": 4,
       "rank": 32,
       "win_prob": 68.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

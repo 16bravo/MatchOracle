@@ -1,18 +1,18 @@
 {
   "team": "Malta",
   "stats": {
-    "matches_played": 452,
+    "matches_played": 453,
     "wins": 64,
     "draws": 77,
-    "losses": 311,
+    "losses": 312,
     "goals_for": 291,
-    "goals_against": 1013,
-    "goal_difference": -722,
-    "win_percentage": 14.2,
-    "avg_points": 0.6,
+    "goals_against": 1015,
+    "goal_difference": -724,
+    "win_percentage": 14.1,
+    "avg_points": 0.59,
     "best_rank": 64,
     "worst_rank": 146,
-    "avg_rank": 112.59,
+    "avg_rank": 112.64,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1983-12-21",
       "flag": "spain.png"
     },
-    "home_matches": 245,
+    "home_matches": 246,
     "away_matches": 181,
     "neutral_matches": 26,
     "first_match_date": "1957-02-24",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,31 +44,31 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4736,
-      "rating2": 4884,
+      "rating1": 4712,
+      "rating2": 4908,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 25.2,
+      "rank": 135,
+      "win_prob": 21.4,
       "type": "fixture"
     },
     {
       "date": "2026-03-26",
       "country": "Malta",
-      "tournament": "European League C/D",
+      "tournament": "European Nations League C/D",
       "team1": "Malta",
       "team2": "Luxembourg",
       "original_team1": "Malta",
       "original_team2": "Luxembourg",
       "flag1": "malta.png",
       "flag2": "luxembourg.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4736,
-      "rating2": 4884,
-      "rating_ev": 0,
-      "rank": 134,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4712,
+      "rating2": 4908,
+      "rating_ev": -24,
+      "rank": 135,
       "win_prob": 44.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

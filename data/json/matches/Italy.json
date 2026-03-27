@@ -1,14 +1,14 @@
 {
   "team": "Italy",
   "stats": {
-    "matches_played": 900,
-    "wins": 479,
+    "matches_played": 901,
+    "wins": 480,
     "draws": 244,
     "losses": 177,
-    "goals_for": 1578,
+    "goals_for": 1580,
     "goals_against": 893,
-    "goal_difference": 685,
-    "win_percentage": 53.2,
+    "goal_difference": 687,
+    "win_percentage": 53.3,
     "avg_points": 1.87,
     "best_rank": 1,
     "worst_rank": 26,
@@ -25,11 +25,11 @@
       "date": "1924-04-06",
       "flag": "hungary_2.png"
     },
-    "home_matches": 406,
+    "home_matches": 407,
     "away_matches": 323,
     "neutral_matches": 171,
     "first_match_date": "1910-05-15",
-    "last_match_date": "2025-11-16"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5386,
+      "rating1": 5392,
       "rating2": 5206,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 68.8,
+      "win_prob": 69.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Northern Ireland",
       "flag1": "italy.png",
       "flag2": "northern_ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5386,
-      "rating2": 5121,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5392,
+      "rating2": 5115,
+      "rating_ev": 6,
       "rank": 17,
       "win_prob": 83.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-16",

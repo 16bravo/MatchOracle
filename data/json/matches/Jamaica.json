@@ -1,14 +1,14 @@
 {
   "team": "Jamaica",
   "stats": {
-    "matches_played": 714,
-    "wins": 277,
+    "matches_played": 715,
+    "wins": 278,
     "draws": 168,
     "losses": 269,
-    "goals_for": 951,
+    "goals_for": 952,
     "goals_against": 935,
-    "goal_difference": 16,
-    "win_percentage": 38.8,
+    "goal_difference": 17,
+    "win_percentage": 38.9,
     "avg_points": 1.4,
     "best_rank": 49,
     "worst_rank": 146,
@@ -27,11 +27,30 @@
     },
     "home_matches": 270,
     "away_matches": 270,
-    "neutral_matches": 174,
+    "neutral_matches": 175,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2026-02-21"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
+    {
+      "date": "2026-03-31",
+      "country": "Mexico",
+      "tournament": "World Cup qualifier",
+      "team1": "Jamaica",
+      "team2": "DR Congo",
+      "original_team1": "Jamaica",
+      "original_team2": "DR Congo",
+      "flag1": "jamaica.png",
+      "flag2": "dr_congo.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4917,
+      "rating2": 5097,
+      "rating_ev": 0,
+      "rank": 86,
+      "win_prob": 31.2,
+      "type": "fixture"
+    },
     {
       "date": "2026-03-26",
       "country": "Mexico",
@@ -42,14 +61,14 @@
       "original_team2": "New Caledonia",
       "flag1": "jamaica.png",
       "flag2": "caledonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4930,
-      "rating2": 4459,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4917,
+      "rating2": 4472,
+      "rating_ev": -13,
       "rank": 85,
       "win_prob": 88.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-02-21",

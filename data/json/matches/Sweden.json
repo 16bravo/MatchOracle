@@ -1,18 +1,18 @@
 {
   "team": "Sweden",
   "stats": {
-    "matches_played": 1118,
-    "wins": 549,
+    "matches_played": 1119,
+    "wins": 550,
     "draws": 235,
     "losses": 334,
-    "goals_for": 2224,
-    "goals_against": 1475,
-    "goal_difference": 749,
-    "win_percentage": 49.1,
+    "goals_for": 2227,
+    "goals_against": 1476,
+    "goal_difference": 751,
+    "win_percentage": 49.2,
     "avg_points": 1.68,
     "best_rank": 3,
     "worst_rank": 37,
-    "avg_rank": 16.76,
+    "avg_rank": 16.77,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Latvia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 487,
     "away_matches": 501,
-    "neutral_matches": 130,
+    "neutral_matches": 131,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,30 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5214,
+      "rating1": 5244,
       "rating2": 5544,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 13.3,
+      "rank": 29,
+      "win_prob": 14.8,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-03-31",
+      "country": "Sweden",
+      "tournament": "World Cup qualifier",
+      "team1": "Sweden",
+      "team2": "Poland",
+      "original_team1": "Sweden",
+      "original_team2": "Poland",
+      "flag1": "sweden.png",
+      "flag2": "poland.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5244,
+      "rating2": 5231,
+      "rating_ev": 0,
+      "rank": 29,
+      "win_prob": 62.1,
       "type": "fixture"
     },
     {
@@ -61,14 +80,14 @@
       "original_team2": "Ukraine",
       "flag1": "sweden.png",
       "flag2": "ukraine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5214,
-      "rating2": 5248,
-      "rating_ev": 0,
-      "rank": 37,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5244,
+      "rating2": 5218,
+      "rating_ev": 30,
+      "rank": 29,
       "win_prob": 46.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

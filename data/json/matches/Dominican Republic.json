@@ -1,18 +1,18 @@
 {
   "team": "Dominican Republic",
   "stats": {
-    "matches_played": 187,
+    "matches_played": 188,
     "wins": 69,
-    "draws": 31,
+    "draws": 32,
     "losses": 87,
-    "goals_for": 296,
-    "goals_against": 298,
+    "goals_for": 298,
+    "goals_against": 300,
     "goal_difference": -2,
-    "win_percentage": 36.9,
+    "win_percentage": 36.7,
     "avg_points": 1.27,
     "best_rank": 100,
     "worst_rank": 187,
-    "avg_rank": 162.94,
+    "avg_rank": 162.75,
     "biggest_win": {
       "score": "17-0",
       "opponent": "British Virgin Islands",
@@ -25,11 +25,11 @@
       "date": "2008-10-08",
       "flag": "trinidad.png"
     },
-    "home_matches": 86,
+    "home_matches": 87,
     "away_matches": 61,
     "neutral_matches": 40,
     "first_match_date": "1949-05-14",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "cuba.png",
       "score1": "",
       "score2": "",
-      "rating1": 4761,
-      "rating2": 4597,
+      "rating1": 4748,
+      "rating2": 4601,
       "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 67.3,
+      "rank": 128,
+      "win_prob": 65.6,
       "type": "fixture"
     },
     {
       "date": "2026-03-26",
-      "country": "Dominican Rep",
+      "country": "Dominican Republic",
       "tournament": "CONCACAF Series",
       "team1": "Dominican Republic",
       "team2": "El Salvador",
@@ -61,14 +61,14 @@
       "original_team2": "El Salvador",
       "flag1": "dominican_rep.png",
       "flag2": "salvador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4761,
-      "rating2": 4645,
-      "rating_ev": 0,
-      "rank": 126,
-      "win_prob": 62.5,
-      "type": "fixture"
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4748,
+      "rating2": 4658,
+      "rating_ev": -13,
+      "rank": 128,
+      "win_prob": 72.1,
+      "type": "past"
     },
     {
       "date": "2025-11-18",

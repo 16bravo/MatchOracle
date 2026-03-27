@@ -1,18 +1,18 @@
 {
   "team": "Cura\u00e7ao",
   "stats": {
-    "matches_played": 482,
+    "matches_played": 483,
     "wins": 196,
     "draws": 120,
-    "losses": 166,
+    "losses": 167,
     "goals_for": 854,
-    "goals_against": 736,
-    "goal_difference": 118,
-    "win_percentage": 40.7,
+    "goals_against": 738,
+    "goal_difference": 116,
+    "win_percentage": 40.6,
     "avg_points": 1.47,
     "best_rank": 37,
     "worst_rank": 182,
-    "avg_rank": 105.79,
+    "avg_rank": 105.78,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Puerto Rico",
@@ -27,9 +27,9 @@
     },
     "home_matches": 111,
     "away_matches": 169,
-    "neutral_matches": 202,
+    "neutral_matches": 203,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
+      "rating1": 4863,
       "rating2": 5129,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 26.5,
+      "rank": 98,
+      "win_prob": 23.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
+      "rating1": 4863,
       "rating2": 5420,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 9.6,
+      "rank": 98,
+      "win_prob": 8.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
+      "rating1": 4863,
       "rating2": 5536,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 6.3,
+      "rank": 98,
+      "win_prob": 5.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "aruba.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
-      "rating2": 4200,
+      "rating1": 4863,
+      "rating2": 4210,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 96.6,
+      "rank": 98,
+      "win_prob": 96.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
+      "rating1": 4863,
       "rating2": 5297,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 10.2,
+      "rank": 98,
+      "win_prob": 9.0,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4896,
-      "rating2": 5234,
+      "rating1": 4863,
+      "rating2": 5231,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 12.9,
+      "rank": 98,
+      "win_prob": 11.6,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "China",
       "flag1": "curacao.png",
       "flag2": "china.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4896,
-      "rating2": 4807,
-      "rating_ev": 0,
-      "rank": 89,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4863,
+      "rating2": 4840,
+      "rating_ev": -33,
+      "rank": 98,
       "win_prob": 59.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

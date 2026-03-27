@@ -1,18 +1,18 @@
 {
   "team": "Cayman Islands",
   "stats": {
-    "matches_played": 129,
+    "matches_played": 130,
     "wins": 27,
-    "draws": 24,
+    "draws": 25,
     "losses": 78,
-    "goals_for": 128,
-    "goals_against": 310,
+    "goals_for": 129,
+    "goals_against": 311,
     "goal_difference": -182,
-    "win_percentage": 20.9,
-    "avg_points": 0.81,
+    "win_percentage": 20.8,
+    "avg_points": 0.82,
     "best_rank": 166,
-    "worst_rank": 205,
-    "avg_rank": 188.97,
+    "worst_rank": 206,
+    "avg_rank": 189.1,
     "biggest_win": {
       "score": "5-0",
       "opponent": "British Virgin Islands",
@@ -25,11 +25,11 @@
       "date": "2021-03-29",
       "flag": "canada.png"
     },
-    "home_matches": 60,
+    "home_matches": 61,
     "away_matches": 39,
     "neutral_matches": 30,
     "first_match_date": "1985-03-03",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2026-03-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bahamas.png",
       "score1": "",
       "score2": "",
-      "rating1": 3898,
-      "rating2": 3568,
+      "rating1": 3892,
+      "rating2": 3542,
       "rating_ev": 0,
-      "rank": 205,
-      "win_prob": 86.7,
+      "rank": 206,
+      "win_prob": 87.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "British Virgin Islands",
       "flag1": "cayman.png",
       "flag2": "gb_virgin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3898,
-      "rating2": 3893,
-      "rating_ev": 0,
-      "rank": 205,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 3892,
+      "rating2": 3899,
+      "rating_ev": -6,
+      "rank": 206,
       "win_prob": 61.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",
