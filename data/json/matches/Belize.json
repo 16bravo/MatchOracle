@@ -1,18 +1,18 @@
 {
   "team": "Belize",
   "stats": {
-    "matches_played": 129,
+    "matches_played": 130,
     "wins": 34,
     "draws": 23,
-    "losses": 72,
-    "goals_for": 142,
-    "goals_against": 241,
-    "goal_difference": -99,
-    "win_percentage": 26.4,
-    "avg_points": 0.97,
+    "losses": 73,
+    "goals_for": 144,
+    "goals_against": 244,
+    "goal_difference": -100,
+    "win_percentage": 26.2,
+    "avg_points": 0.96,
     "best_rank": 60,
     "worst_rank": 179,
-    "avg_rank": 159.96,
+    "avg_rank": 160.08,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Nicaragua",
@@ -27,9 +27,9 @@
     },
     "home_matches": 43,
     "away_matches": 45,
-    "neutral_matches": 41,
+    "neutral_matches": 42,
     "first_match_date": "1928-02-19",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "guyana.png",
       "score1": "",
       "score2": "",
-      "rating1": 4377,
-      "rating2": 4613,
+      "rating1": 4342,
+      "rating2": 4607,
       "rating_ev": 0,
       "rank": 175,
-      "win_prob": 26.3,
+      "win_prob": 23.9,
       "type": "fixture"
     },
     {
       "date": "2026-03-27",
-      "country": "Dominican Rep",
+      "country": "Dominican Republic",
       "tournament": "CONCACAF Series",
       "team1": "Belize",
       "team2": "Sint Maarten",
@@ -61,14 +61,14 @@
       "original_team2": "Sint Maarten",
       "flag1": "belize.png",
       "flag2": "st_maarten.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4377,
-      "rating2": 4024,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4342,
+      "rating2": 4059,
+      "rating_ev": -35,
       "rank": 175,
       "win_prob": 82.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

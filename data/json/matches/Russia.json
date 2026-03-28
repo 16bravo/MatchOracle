@@ -1,18 +1,18 @@
 {
   "team": "Russia",
   "stats": {
-    "matches_played": 772,
-    "wins": 402,
+    "matches_played": 773,
+    "wins": 403,
     "draws": 201,
     "losses": 169,
-    "goals_for": 1383,
-    "goals_against": 753,
-    "goal_difference": 630,
+    "goals_for": 1386,
+    "goals_against": 754,
+    "goal_difference": 632,
     "win_percentage": 52.1,
     "avg_points": 1.82,
     "best_rank": 1,
     "worst_rank": 38,
-    "avg_rank": 13.95,
+    "avg_rank": 13.96,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1912-07-01",
       "flag": "germany_1.png"
     },
-    "home_matches": 161,
+    "home_matches": 162,
     "away_matches": 358,
     "neutral_matches": 253,
     "first_match_date": "1912-06-30",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5346,
+      "rating1": 5339,
       "rating2": 5110,
       "rating_ev": 0,
       "rank": 21,
-      "win_prob": 81.3,
+      "win_prob": 80.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Nicaragua",
       "flag1": "russia.png",
       "flag2": "nicaragua.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5346,
-      "rating2": 4712,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5339,
+      "rating2": 4719,
+      "rating_ev": -7,
       "rank": 21,
       "win_prob": 95.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

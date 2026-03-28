@@ -1,18 +1,18 @@
 {
   "team": "Libya",
   "stats": {
-    "matches_played": 443,
+    "matches_played": 444,
     "wins": 162,
-    "draws": 104,
+    "draws": 105,
     "losses": 177,
     "goals_for": 600,
     "goals_against": 583,
     "goal_difference": 17,
-    "win_percentage": 36.6,
+    "win_percentage": 36.5,
     "avg_points": 1.33,
     "best_rank": 45,
     "worst_rank": 118,
-    "avg_rank": 82.24,
+    "avg_rank": 82.26,
     "biggest_win": {
       "score": "21-0",
       "opponent": "Oman",
@@ -27,9 +27,9 @@
     },
     "home_matches": 160,
     "away_matches": 160,
-    "neutral_matches": 123,
+    "neutral_matches": 124,
     "first_match_date": "1953-08-03",
-    "last_match_date": "2025-11-25"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "liberia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
-      "rating2": 4723,
+      "rating1": 4884,
+      "rating2": 4720,
       "rating_ev": 0,
       "rank": 93,
-      "win_prob": 66.9,
+      "win_prob": 67.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Niger",
       "flag1": "libya.png",
       "flag2": "niger.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4883,
-      "rating2": 4903,
-      "rating_ev": 0,
-      "rank": 93,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4884,
+      "rating2": 4902,
+      "rating_ev": 1,
+      "rank": 91,
       "win_prob": 47.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-25",

@@ -1,18 +1,18 @@
 {
   "team": "Andorra",
   "stats": {
-    "matches_played": 226,
+    "matches_played": 227,
     "wins": 14,
     "draws": 31,
-    "losses": 181,
+    "losses": 182,
     "goals_for": 75,
-    "goals_against": 537,
-    "goal_difference": -462,
+    "goals_against": 539,
+    "goal_difference": -464,
     "win_percentage": 6.2,
     "avg_points": 0.32,
     "best_rank": 127,
     "worst_rank": 166,
-    "avg_rank": 150.39,
+    "avg_rank": 150.34,
     "biggest_win": {
       "score": "3-0",
       "opponent": "San Marino",
@@ -26,10 +26,10 @@
       "flag": "czechia.png"
     },
     "home_matches": 91,
-    "away_matches": 103,
+    "away_matches": 104,
     "neutral_matches": 32,
     "first_match_date": "1996-11-13",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 4697,
+      "rating1": 4692,
       "rating2": 4238,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 82.3,
+      "rank": 140,
+      "win_prob": 82.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Montenegro",
       "flag1": "andorra.png",
       "flag2": "montenegro.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4697,
-      "rating2": 4904,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4692,
+      "rating2": 4909,
+      "rating_ev": -5,
       "rank": 139,
       "win_prob": 20.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

@@ -1,18 +1,18 @@
 {
   "team": "Montenegro",
   "stats": {
-    "matches_played": 164,
-    "wins": 55,
+    "matches_played": 165,
+    "wins": 56,
     "draws": 41,
     "losses": 68,
-    "goals_for": 192,
+    "goals_for": 194,
     "goals_against": 221,
-    "goal_difference": -29,
-    "win_percentage": 33.5,
-    "avg_points": 1.26,
+    "goal_difference": -27,
+    "win_percentage": 33.9,
+    "avg_points": 1.27,
     "best_rank": 40,
     "worst_rank": 89,
-    "avg_rank": 59.33,
+    "avg_rank": 59.49,
     "biggest_win": {
       "score": "6-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "2019-11-14",
       "flag": "england.png"
     },
-    "home_matches": 85,
+    "home_matches": 86,
     "away_matches": 74,
     "neutral_matches": 5,
     "first_match_date": "2007-03-24",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4904,
+      "rating1": 4909,
       "rating2": 5183,
       "rating_ev": 0,
-      "rank": 89,
-      "win_prob": 31.4,
+      "rank": 85,
+      "win_prob": 31.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Andorra",
       "flag1": "montenegro.png",
       "flag2": "andorra.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4904,
-      "rating2": 4697,
-      "rating_ev": 0,
-      "rank": 89,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4909,
+      "rating2": 4692,
+      "rating_ev": 5,
+      "rank": 86,
       "win_prob": 79.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

@@ -1,18 +1,18 @@
 {
   "team": "Burundi",
   "stats": {
-    "matches_played": 237,
-    "wins": 71,
+    "matches_played": 238,
+    "wins": 72,
     "draws": 55,
     "losses": 111,
-    "goals_for": 263,
+    "goals_for": 267,
     "goals_against": 327,
-    "goal_difference": -64,
-    "win_percentage": 30.0,
-    "avg_points": 1.13,
+    "goal_difference": -60,
+    "win_percentage": 30.3,
+    "avg_points": 1.14,
     "best_rank": 87,
     "worst_rank": 146,
-    "avg_rank": 123.3,
+    "avg_rank": 123.25,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Djibouti",
@@ -26,10 +26,10 @@
       "flag": "uganda_1.png"
     },
     "home_matches": 50,
-    "away_matches": 87,
+    "away_matches": 88,
     "neutral_matches": 100,
     "first_match_date": "1953-09-19",
-    "last_match_date": "2025-10-14"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,31 +44,31 @@
       "flag2": "chad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4755,
-      "rating2": 4591,
+      "rating1": 4804,
+      "rating2": 4542,
       "rating_ev": 0,
-      "rank": 125,
-      "win_prob": 76.1,
+      "rank": 114,
+      "win_prob": 83.0,
       "type": "fixture"
     },
     {
       "date": "2026-03-27",
       "country": "Chad",
-      "tournament": "African Cup qualifier",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Burundi",
       "team2": "Chad",
       "original_team1": "Burundi",
       "original_team2": "Chad",
       "flag1": "burundi.png",
       "flag2": "chad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4755,
-      "rating2": 4591,
-      "rating_ev": 0,
-      "rank": 125,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4804,
+      "rating2": 4542,
+      "rating_ev": 49,
+      "rank": 113,
       "win_prob": 57.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-14",

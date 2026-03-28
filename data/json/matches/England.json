@@ -1,12 +1,12 @@
 {
   "team": "England",
   "stats": {
-    "matches_played": 1151,
+    "matches_played": 1152,
     "wins": 675,
-    "draws": 261,
+    "draws": 262,
     "losses": 215,
-    "goals_for": 2681,
-    "goals_against": 1113,
+    "goals_for": 2682,
+    "goals_against": 1114,
     "goal_difference": 1568,
     "win_percentage": 58.6,
     "avg_points": 1.99,
@@ -25,11 +25,11 @@
       "date": "1954-05-23",
       "flag": "hungary_4.png"
     },
-    "home_matches": 508,
+    "home_matches": 509,
     "away_matches": 515,
     "neutral_matches": 128,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2025-11-16"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 5585,
+      "rating1": 5576,
       "rating2": 5099,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 88.9,
+      "win_prob": 88.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5585,
-      "rating2": 5052,
+      "rating1": 5576,
+      "rating2": 5037,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 90.7,
+      "win_prob": 90.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5585,
+      "rating1": 5576,
       "rating2": 5434,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 66.0,
+      "win_prob": 65.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 5585,
-      "rating2": 5085,
+      "rating1": 5576,
+      "rating2": 5087,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 89.5,
+      "win_prob": 89.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5585,
-      "rating2": 5059,
+      "rating1": 5576,
+      "rating2": 5098,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 90.4,
+      "win_prob": 88.6,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5585,
+      "rating1": 5576,
       "rating2": 5423,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 76.0,
+      "win_prob": 75.2,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Uruguay",
       "flag1": "england.png",
       "flag2": "uruguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5585,
-      "rating2": 5379,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5576,
+      "rating2": 5388,
+      "rating_ev": -9,
       "rank": 3,
       "win_prob": 79.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-16",

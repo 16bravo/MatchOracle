@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 594,
+    "matches_played": 595,
     "wins": 198,
-    "draws": 144,
+    "draws": 145,
     "losses": 252,
-    "goals_for": 741,
-    "goals_against": 908,
+    "goals_for": 742,
+    "goals_against": 909,
     "goal_difference": -167,
     "win_percentage": 33.3,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.17,
+    "avg_rank": 85.12,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "costa_rica.png"
     },
     "home_matches": 202,
-    "away_matches": 228,
+    "away_matches": 229,
     "neutral_matches": 164,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-01-22"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5099,
-      "rating2": 5585,
+      "rating2": 5576,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 11.1,
+      "rank": 60,
+      "win_prob": 11.4,
       "type": "fixture"
     },
     {
@@ -66,7 +66,7 @@
       "rating1": 5099,
       "rating2": 5434,
       "rating_ev": 0,
-      "rank": 58,
+      "rank": 60,
       "win_prob": 18.9,
       "type": "fixture"
     },
@@ -83,10 +83,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5099,
-      "rating2": 5052,
+      "rating2": 5037,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 55.2,
+      "rank": 60,
+      "win_prob": 56.8,
       "type": "fixture"
     },
     {
@@ -102,10 +102,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5099,
-      "rating2": 5492,
+      "rating2": 5497,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 10.5,
+      "rank": 60,
+      "win_prob": 10.3,
       "type": "fixture"
     },
     {
@@ -123,7 +123,7 @@
       "rating1": 5099,
       "rating2": 4995,
       "rating_ev": 0,
-      "rank": 58,
+      "rank": 60,
       "win_prob": 50.5,
       "type": "fixture"
     },
@@ -137,14 +137,14 @@
       "original_team2": "South Africa",
       "flag1": "panama.png",
       "flag2": "south_africa.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 1,
       "rating1": 5099,
       "rating2": 4995,
       "rating_ev": 0,
-      "rank": 58,
+      "rank": 59,
       "win_prob": 50.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-22",

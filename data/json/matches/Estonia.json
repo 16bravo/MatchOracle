@@ -1,18 +1,18 @@
 {
   "team": "Estonia",
   "stats": {
-    "matches_played": 537,
+    "matches_played": 538,
     "wins": 132,
-    "draws": 119,
+    "draws": 120,
     "losses": 286,
-    "goals_for": 530,
-    "goals_against": 957,
+    "goals_for": 531,
+    "goals_against": 958,
     "goal_difference": -427,
-    "win_percentage": 24.6,
+    "win_percentage": 24.5,
     "avg_points": 0.96,
     "best_rank": 32,
     "worst_rank": 154,
-    "avg_rank": 92.28,
+    "avg_rank": 92.3,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lithuania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 230,
     "away_matches": 254,
-    "neutral_matches": 53,
+    "neutral_matches": 54,
     "first_match_date": "1920-10-17",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,30 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4840,
+      "rating1": 4837,
       "rating2": 4936,
       "rating_ev": 0,
       "rank": 102,
-      "win_prob": 50.4,
+      "win_prob": 50.1,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-03-30",
+      "country": "Rwanda",
+      "tournament": "FIFA Series",
+      "team1": "Estonia",
+      "team2": "Rwanda",
+      "original_team1": "Estonia",
+      "original_team2": "Rwanda",
+      "flag1": "estonia.png",
+      "flag2": "rwanda.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4837,
+      "rating2": 4821,
+      "rating_ev": 0,
+      "rank": 102,
+      "win_prob": 40.9,
       "type": "fixture"
     },
     {
@@ -61,14 +80,14 @@
       "original_team2": "Kenya",
       "flag1": "estonia.png",
       "flag2": "kenya.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4840,
-      "rating2": 4793,
-      "rating_ev": 0,
-      "rank": 102,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4837,
+      "rating2": 4796,
+      "rating_ev": -3,
+      "rank": 103,
       "win_prob": 55.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

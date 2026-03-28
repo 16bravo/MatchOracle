@@ -1,15 +1,15 @@
 {
   "team": "Germany",
   "stats": {
-    "matches_played": 1038,
-    "wins": 597,
+    "matches_played": 1039,
+    "wins": 598,
     "draws": 217,
     "losses": 224,
-    "goals_for": 2325,
-    "goals_against": 1222,
-    "goal_difference": 1103,
-    "win_percentage": 57.5,
-    "avg_points": 1.93,
+    "goals_for": 2329,
+    "goals_against": 1225,
+    "goal_difference": 1104,
+    "win_percentage": 57.6,
+    "avg_points": 1.94,
     "best_rank": 1,
     "worst_rank": 20,
     "avg_rank": 6.5,
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 309,
-    "away_matches": 412,
+    "away_matches": 413,
     "neutral_matches": 317,
     "first_match_date": "1908-04-05",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5536,
-      "rating2": 5420,
+      "rating1": 5543,
+      "rating2": 5415,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 62.5,
+      "rank": 7,
+      "win_prob": 63.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5536,
+      "rating1": 5543,
       "rating2": 5129,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 85.3,
+      "rank": 7,
+      "win_prob": 85.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5536,
-      "rating2": 4863,
+      "rating1": 5543,
+      "rating2": 4896,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 94.4,
+      "rank": 7,
+      "win_prob": 93.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5536,
+      "rating1": 5543,
       "rating2": 5241,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 70.0,
+      "rank": 7,
+      "win_prob": 70.6,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5536,
+      "rating1": 5543,
       "rating2": 5042,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 92.8,
+      "rank": 7,
+      "win_prob": 93.0,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5536,
-      "rating2": 5052,
+      "rating1": 5543,
+      "rating2": 5037,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 92.5,
+      "rank": 7,
+      "win_prob": 93.1,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Switzerland",
       "flag1": "germany.png",
       "flag2": "switzerland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5536,
-      "rating2": 5441,
-      "rating_ev": 0,
-      "rank": 8,
+      "score1": 4,
+      "score2": 3,
+      "rating1": 5543,
+      "rating2": 5434,
+      "rating_ev": 7,
+      "rank": 7,
       "win_prob": 49.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

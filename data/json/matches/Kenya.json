@@ -1,18 +1,18 @@
 {
   "team": "Kenya",
   "stats": {
-    "matches_played": 728,
+    "matches_played": 729,
     "wins": 274,
-    "draws": 178,
+    "draws": 179,
     "losses": 276,
-    "goals_for": 1000,
-    "goals_against": 995,
+    "goals_for": 1001,
+    "goals_against": 996,
     "goal_difference": 5,
     "win_percentage": 37.6,
     "avg_points": 1.37,
     "best_rank": 43,
     "worst_rank": 131,
-    "avg_rank": 90.98,
+    "avg_rank": 91.01,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Zanzibar",
@@ -27,11 +27,30 @@
     },
     "home_matches": 264,
     "away_matches": 256,
-    "neutral_matches": 208,
+    "neutral_matches": 209,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
+    {
+      "date": "2026-03-30",
+      "country": "Rwanda",
+      "tournament": "FIFA Series",
+      "team1": "Kenya",
+      "team2": "Grenada",
+      "original_team1": "Kenya",
+      "original_team2": "Grenada",
+      "flag1": "kenya.png",
+      "flag2": "grenada.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4796,
+      "rating2": 4359,
+      "rating_ev": 0,
+      "rank": 117,
+      "win_prob": 86.8,
+      "type": "fixture"
+    },
     {
       "date": "2026-03-27",
       "country": "Rwanda",
@@ -42,14 +61,14 @@
       "original_team2": "Estonia",
       "flag1": "kenya.png",
       "flag2": "estonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4793,
-      "rating2": 4840,
-      "rating_ev": 0,
-      "rank": 118,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4796,
+      "rating2": 4837,
+      "rating_ev": 3,
+      "rank": 115,
       "win_prob": 44.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

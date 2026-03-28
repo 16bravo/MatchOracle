@@ -1,18 +1,18 @@
 {
   "team": "Benin",
   "stats": {
-    "matches_played": 345,
-    "wins": 86,
+    "matches_played": 346,
+    "wins": 87,
     "draws": 83,
     "losses": 176,
-    "goals_for": 359,
+    "goals_for": 360,
     "goals_against": 604,
-    "goal_difference": -245,
-    "win_percentage": 24.9,
+    "goal_difference": -244,
+    "win_percentage": 25.1,
     "avg_points": 0.99,
     "best_rank": 64,
     "worst_rank": 156,
-    "avg_rank": 106.27,
+    "avg_rank": 106.24,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 104,
     "away_matches": 140,
-    "neutral_matches": 101,
+    "neutral_matches": 102,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2026-01-05"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4867,
-      "rating2": 4970,
+      "rating1": 4870,
+      "rating2": 4965,
       "rating_ev": 0,
-      "rank": 96,
-      "win_prob": 38.9,
+      "rank": 97,
+      "win_prob": 39.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Liberia",
       "flag1": "benin.png",
       "flag2": "liberia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4867,
-      "rating2": 4723,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4870,
+      "rating2": 4720,
+      "rating_ev": 3,
       "rank": 96,
       "win_prob": 65.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-05",

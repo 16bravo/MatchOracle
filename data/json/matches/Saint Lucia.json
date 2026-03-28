@@ -1,18 +1,18 @@
 {
   "team": "Saint Lucia",
   "stats": {
-    "matches_played": 252,
+    "matches_played": 253,
     "wins": 83,
     "draws": 39,
-    "losses": 130,
-    "goals_for": 347,
-    "goals_against": 476,
-    "goal_difference": -129,
-    "win_percentage": 32.9,
+    "losses": 131,
+    "goals_for": 348,
+    "goals_against": 482,
+    "goal_difference": -134,
+    "win_percentage": 32.8,
     "avg_points": 1.14,
     "best_rank": 72,
     "worst_rank": 192,
-    "avg_rank": 162.2,
+    "avg_rank": 162.32,
     "biggest_win": {
       "score": "14-1",
       "opponent": "US Virgin Islands",
@@ -26,10 +26,10 @@
       "flag": "st_vincent.png"
     },
     "home_matches": 83,
-    "away_matches": 102,
+    "away_matches": 103,
     "neutral_matches": 67,
     "first_match_date": "1936-01-31",
-    "last_match_date": "2025-11-15"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Azerbaijan",
       "flag1": "st_lucia.png",
       "flag2": "azerbaijan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4154,
-      "rating2": 4793,
-      "rating_ev": 0,
-      "rank": 188,
+      "score1": 1,
+      "score2": 6,
+      "rating1": 4131,
+      "rating2": 4816,
+      "rating_ev": -23,
+      "rank": 192,
       "win_prob": 4.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-15",

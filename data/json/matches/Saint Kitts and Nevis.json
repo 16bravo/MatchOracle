@@ -1,18 +1,18 @@
 {
   "team": "Saint Kitts and Nevis",
   "stats": {
-    "matches_played": 240,
+    "matches_played": 241,
     "wins": 95,
     "draws": 46,
-    "losses": 99,
+    "losses": 100,
     "goals_for": 405,
-    "goals_against": 383,
-    "goal_difference": 22,
-    "win_percentage": 39.6,
-    "avg_points": 1.38,
+    "goals_against": 387,
+    "goal_difference": 18,
+    "win_percentage": 39.4,
+    "avg_points": 1.37,
     "best_rank": 83,
-    "worst_rank": 198,
-    "avg_rank": 161.22,
+    "worst_rank": 199,
+    "avg_rank": 161.38,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Montserrat",
@@ -26,12 +26,31 @@
       "flag": "mexico.png"
     },
     "home_matches": 120,
-    "away_matches": 76,
+    "away_matches": 77,
     "neutral_matches": 44,
     "first_match_date": "1938-08-18",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
+    {
+      "date": "2026-03-31",
+      "country": "Indonesia",
+      "tournament": "FIFA Series",
+      "team1": "Saint Kitts and Nevis",
+      "team2": "Solomon Islands",
+      "original_team1": "Saint Kitts and Nevis",
+      "original_team2": "Solomon Islands",
+      "flag1": "kitts.png",
+      "flag2": "solomon.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4037,
+      "rating2": 4221,
+      "rating_ev": 0,
+      "rank": 200,
+      "win_prob": 30.8,
+      "type": "fixture"
+    },
     {
       "date": "2026-03-27",
       "country": "Indonesia",
@@ -42,14 +61,14 @@
       "original_team2": "Indonesia",
       "flag1": "kitts.png",
       "flag2": "indonesia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4049,
-      "rating2": 4676,
-      "rating_ev": 0,
-      "rank": 198,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4037,
+      "rating2": 4688,
+      "rating_ev": -12,
+      "rank": 199,
       "win_prob": 4.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

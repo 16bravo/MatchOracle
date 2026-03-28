@@ -1,18 +1,18 @@
 {
   "team": "Togo",
   "stats": {
-    "matches_played": 484,
+    "matches_played": 485,
     "wins": 150,
-    "draws": 126,
+    "draws": 127,
     "losses": 208,
-    "goals_for": 521,
-    "goals_against": 666,
+    "goals_for": 523,
+    "goals_against": 668,
     "goal_difference": -145,
-    "win_percentage": 31.0,
+    "win_percentage": 30.9,
     "avg_points": 1.19,
     "best_rank": 49,
     "worst_rank": 130,
-    "avg_rank": 90.63,
+    "avg_rank": 90.67,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 172,
     "away_matches": 193,
-    "neutral_matches": 119,
+    "neutral_matches": 120,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2025-10-13"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "niger.png",
       "score1": "",
       "score2": "",
-      "rating1": 4809,
-      "rating2": 4903,
+      "rating1": 4814,
+      "rating2": 4902,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 39.8,
+      "rank": 109,
+      "win_prob": 40.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Guinea",
       "flag1": "togo.png",
       "flag2": "guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4809,
-      "rating2": 4970,
-      "rating_ev": 0,
-      "rank": 108,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4814,
+      "rating2": 4965,
+      "rating_ev": 5,
+      "rank": 110,
       "win_prob": 33.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-13",

@@ -1,18 +1,18 @@
 {
   "team": "Netherlands",
   "stats": {
-    "matches_played": 893,
-    "wins": 459,
+    "matches_played": 894,
+    "wins": 460,
     "draws": 195,
     "losses": 239,
-    "goals_for": 1869,
-    "goals_against": 1132,
-    "goal_difference": 737,
-    "win_percentage": 51.4,
+    "goals_for": 1871,
+    "goals_against": 1133,
+    "goal_difference": 738,
+    "win_percentage": 51.5,
     "avg_points": 1.76,
     "best_rank": 1,
     "worst_rank": 35,
-    "avg_rank": 10.31,
+    "avg_rank": 10.3,
     "biggest_win": {
       "score": "11-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "1907-12-21",
       "flag": "england.png"
     },
-    "home_matches": 422,
+    "home_matches": 423,
     "away_matches": 357,
     "neutral_matches": 114,
     "first_match_date": "1905-04-30",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
+      "rating1": 5545,
       "rating2": 5091,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 87.4,
+      "rank": 6,
+      "win_prob": 87.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
+      "rating1": 5545,
       "rating2": 5423,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 62.7,
+      "rank": 6,
+      "win_prob": 63.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
-      "rating2": 5206,
+      "rating1": 5545,
+      "rating2": 5240,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 86.9,
+      "rank": 6,
+      "win_prob": 85.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
-      "rating2": 5420,
+      "rating1": 5545,
+      "rating2": 5415,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 72.5,
+      "rank": 6,
+      "win_prob": 73.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Norway",
       "flag1": "netherlands.png",
       "flag2": "norway.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5541,
-      "rating2": 5544,
-      "rating_ev": 0,
-      "rank": 7,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5545,
+      "rating2": 5540,
+      "rating_ev": 4,
+      "rank": 6,
       "win_prob": 60.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-17",

@@ -1,18 +1,18 @@
 {
   "team": "Nicaragua",
   "stats": {
-    "matches_played": 250,
+    "matches_played": 251,
     "wins": 54,
     "draws": 31,
-    "losses": 165,
-    "goals_for": 257,
-    "goals_against": 614,
-    "goal_difference": -357,
-    "win_percentage": 21.6,
+    "losses": 166,
+    "goals_for": 258,
+    "goals_against": 617,
+    "goal_difference": -359,
+    "win_percentage": 21.5,
     "avg_points": 0.77,
     "best_rank": 67,
     "worst_rank": 187,
-    "avg_rank": 146.89,
+    "avg_rank": 146.84,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Turks and Caicos Islands",
@@ -26,10 +26,10 @@
       "flag": "honduras.png"
     },
     "home_matches": 63,
-    "away_matches": 97,
+    "away_matches": 98,
     "neutral_matches": 90,
     "first_match_date": "1929-05-01",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Russia",
       "flag1": "nicaragua.png",
       "flag2": "russia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4712,
-      "rating2": 5346,
-      "rating_ev": 0,
-      "rank": 135,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4719,
+      "rating2": 5339,
+      "rating_ev": 7,
+      "rank": 136,
       "win_prob": 4.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

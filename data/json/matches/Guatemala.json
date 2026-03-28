@@ -1,18 +1,18 @@
 {
   "team": "Guatemala",
   "stats": {
-    "matches_played": 623,
+    "matches_played": 624,
     "wins": 225,
     "draws": 166,
-    "losses": 232,
+    "losses": 233,
     "goals_for": 876,
-    "goals_against": 838,
-    "goal_difference": 38,
+    "goals_against": 845,
+    "goal_difference": 31,
     "win_percentage": 36.1,
     "avg_points": 1.35,
     "best_rank": 31,
     "worst_rank": 113,
-    "avg_rank": 76.88,
+    "avg_rank": 76.9,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 205,
     "away_matches": 180,
-    "neutral_matches": 238,
+    "neutral_matches": 239,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2026-01-17"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Algeria",
       "flag1": "guatemala.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4934,
-      "rating2": 5206,
-      "rating_ev": 0,
-      "rank": 85,
+      "score1": 0,
+      "score2": 7,
+      "rating1": 4900,
+      "rating2": 5240,
+      "rating_ev": -34,
+      "rank": 90,
       "win_prob": 23.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-17",

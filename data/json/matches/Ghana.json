@@ -1,18 +1,18 @@
 {
   "team": "Ghana",
   "stats": {
-    "matches_played": 756,
+    "matches_played": 757,
     "wins": 363,
     "draws": 188,
-    "losses": 205,
-    "goals_for": 1208,
-    "goals_against": 783,
-    "goal_difference": 425,
+    "losses": 206,
+    "goals_for": 1209,
+    "goals_against": 788,
+    "goal_difference": 421,
     "win_percentage": 48.0,
     "avg_points": 1.69,
     "best_rank": 14,
     "worst_rank": 89,
-    "avg_rank": 49.72,
+    "avg_rank": 49.75,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Nyasaland",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 234,
-    "away_matches": 280,
+    "away_matches": 281,
     "neutral_matches": 242,
     "first_match_date": "1950-05-28",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5037,
       "rating2": 5434,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 16.0,
+      "rank": 69,
+      "win_prob": 15.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
-      "rating2": 5585,
+      "rating1": 5037,
+      "rating2": 5576,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 9.3,
+      "rank": 69,
+      "win_prob": 9.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5037,
       "rating2": 5099,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 44.8,
+      "rank": 69,
+      "win_prob": 43.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
-      "rating2": 5207,
+      "rating1": 5037,
+      "rating2": 5222,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 24.6,
+      "rank": 69,
+      "win_prob": 22.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5037,
       "rating2": 5296,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 18.2,
+      "rank": 69,
+      "win_prob": 17.2,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
-      "rating2": 5536,
+      "rating1": 5037,
+      "rating2": 5543,
       "rating_ev": 0,
-      "rank": 68,
-      "win_prob": 7.5,
+      "rank": 69,
+      "win_prob": 6.9,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Austria",
       "flag1": "ghana.png",
       "flag2": "austria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5052,
-      "rating2": 5356,
-      "rating_ev": 0,
-      "rank": 68,
+      "score1": 1,
+      "score2": 5,
+      "rating1": 5037,
+      "rating2": 5371,
+      "rating_ev": -15,
+      "rank": 69,
       "win_prob": 14.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

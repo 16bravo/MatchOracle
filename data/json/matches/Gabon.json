@@ -1,18 +1,18 @@
 {
   "team": "Gabon",
   "stats": {
-    "matches_played": 450,
+    "matches_played": 451,
     "wins": 156,
     "draws": 126,
-    "losses": 168,
-    "goals_for": 533,
-    "goals_against": 545,
-    "goal_difference": -12,
-    "win_percentage": 34.7,
+    "losses": 169,
+    "goals_for": 534,
+    "goals_against": 548,
+    "goal_difference": -14,
+    "win_percentage": 34.6,
     "avg_points": 1.32,
     "best_rank": 63,
     "worst_rank": 116,
-    "avg_rank": 88.59,
+    "avg_rank": 88.61,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Benin",
@@ -26,10 +26,10 @@
       "flag": "cameroon_2.png"
     },
     "home_matches": 179,
-    "away_matches": 148,
+    "away_matches": 149,
     "neutral_matches": 123,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2025-12-31"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "trinidad.png",
       "score1": "",
       "score2": "",
-      "rating1": 4883,
-      "rating2": 4733,
+      "rating1": 4875,
+      "rating2": 4748,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 65.9,
+      "rank": 95,
+      "win_prob": 63.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Uzbekistan",
       "flag1": "gabon.png",
       "flag2": "uzbekistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4883,
-      "rating2": 5113,
-      "rating_ev": 0,
-      "rank": 93,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4875,
+      "rating2": 5121,
+      "rating_ev": -8,
+      "rank": 94,
       "win_prob": 19.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-31",

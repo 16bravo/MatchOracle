@@ -1,18 +1,18 @@
 {
   "team": "Guinea",
   "stats": {
-    "matches_played": 597,
+    "matches_played": 598,
     "wins": 224,
-    "draws": 175,
+    "draws": 176,
     "losses": 198,
-    "goals_for": 845,
-    "goals_against": 735,
+    "goals_for": 847,
+    "goals_against": 737,
     "goal_difference": 110,
     "win_percentage": 37.5,
     "avg_points": 1.42,
     "best_rank": 30,
     "worst_rank": 115,
-    "avg_rank": 73.09,
+    "avg_rank": 73.1,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 148,
     "away_matches": 233,
-    "neutral_matches": 216,
+    "neutral_matches": 217,
     "first_match_date": "1958-12-07",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 4970,
-      "rating2": 4867,
+      "rating1": 4965,
+      "rating2": 4870,
       "rating_ev": 0,
       "rank": 78,
-      "win_prob": 61.1,
+      "win_prob": 60.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Togo",
       "flag1": "guinea.png",
       "flag2": "togo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4970,
-      "rating2": 4809,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4965,
+      "rating2": 4814,
+      "rating_ev": -5,
       "rank": 78,
       "win_prob": 67.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

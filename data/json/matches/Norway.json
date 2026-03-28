@@ -1,18 +1,18 @@
 {
   "team": "Norway",
   "stats": {
-    "matches_played": 880,
+    "matches_played": 881,
     "wins": 332,
     "draws": 195,
-    "losses": 353,
-    "goals_for": 1364,
-    "goals_against": 1436,
-    "goal_difference": -72,
+    "losses": 354,
+    "goals_for": 1365,
+    "goals_against": 1438,
+    "goal_difference": -73,
     "win_percentage": 37.7,
     "avg_points": 1.35,
     "best_rank": 6,
     "worst_rank": 72,
-    "avg_rank": 31.57,
+    "avg_rank": 31.54,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Finland",
@@ -26,10 +26,10 @@
       "flag": "denmark.png"
     },
     "home_matches": 422,
-    "away_matches": 406,
+    "away_matches": 407,
     "neutral_matches": 52,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2025-11-16"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5544,
+      "rating1": 5540,
       "rating2": 5556,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 48.7,
+      "rank": 8,
+      "win_prob": 48.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5544,
+      "rating1": 5540,
       "rating2": 5325,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 72.3,
+      "rank": 8,
+      "win_prob": 72.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5544,
-      "rating2": 5265,
+      "rating1": 5540,
+      "rating2": 5270,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 77.2,
+      "rank": 8,
+      "win_prob": 76.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5544,
+      "rating1": 5540,
       "rating2": 5244,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 85.2,
+      "rank": 8,
+      "win_prob": 84.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5544,
-      "rating2": 5441,
+      "rating1": 5540,
+      "rating2": 5434,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 70.9,
+      "rank": 8,
+      "win_prob": 71.2,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Netherlands",
       "flag1": "norway.png",
       "flag2": "netherlands.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5544,
-      "rating2": 5541,
-      "rating_ev": 0,
-      "rank": 6,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5540,
+      "rating2": 5545,
+      "rating_ev": -4,
+      "rank": 8,
       "win_prob": 39.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-16",

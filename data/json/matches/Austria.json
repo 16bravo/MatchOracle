@@ -1,18 +1,18 @@
 {
   "team": "Austria",
   "stats": {
-    "matches_played": 861,
-    "wins": 368,
+    "matches_played": 862,
+    "wins": 369,
     "draws": 183,
     "losses": 310,
-    "goals_for": 1549,
-    "goals_against": 1315,
-    "goal_difference": 234,
-    "win_percentage": 42.7,
-    "avg_points": 1.49,
+    "goals_for": 1554,
+    "goals_against": 1316,
+    "goal_difference": 238,
+    "win_percentage": 42.8,
+    "avg_points": 1.5,
     "best_rank": 3,
     "worst_rank": 63,
-    "avg_rank": 21.6,
+    "avg_rank": 21.59,
     "biggest_win": {
       "score": "10-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "1908-06-08",
       "flag": "england.png"
     },
-    "home_matches": 428,
+    "home_matches": 429,
     "away_matches": 382,
     "neutral_matches": 51,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5356,
-      "rating2": 5206,
+      "rating1": 5371,
+      "rating2": 5240,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 65.9,
+      "win_prob": 64.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5356,
-      "rating2": 5608,
+      "rating1": 5371,
+      "rating2": 5589,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 24.9,
+      "win_prob": 27.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5356,
-      "rating2": 5123,
+      "rating1": 5371,
+      "rating2": 5121,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 73.5,
+      "win_prob": 74.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5356,
+      "rating1": 5371,
       "rating2": 5091,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 83.2,
+      "win_prob": 84.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5356,
+      "rating1": 5371,
       "rating2": 5204,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 75.1,
+      "win_prob": 76.3,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Ghana",
       "flag1": "austria.png",
       "flag2": "ghana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5356,
-      "rating2": 5052,
-      "rating_ev": 0,
+      "score1": 5,
+      "score2": 1,
+      "rating1": 5371,
+      "rating2": 5037,
+      "rating_ev": 15,
       "rank": 20,
       "win_prob": 85.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

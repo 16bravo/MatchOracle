@@ -1,18 +1,18 @@
 {
   "team": "Egypt",
   "stats": {
-    "matches_played": 860,
-    "wins": 439,
+    "matches_played": 861,
+    "wins": 440,
     "draws": 209,
     "losses": 212,
-    "goals_for": 1496,
+    "goals_for": 1500,
     "goals_against": 894,
-    "goal_difference": 602,
-    "win_percentage": 51.0,
-    "avg_points": 1.77,
+    "goal_difference": 606,
+    "win_percentage": 51.1,
+    "avg_points": 1.78,
     "best_rank": 13,
     "worst_rank": 73,
-    "avg_rank": 42.07,
+    "avg_rank": 42.09,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Laos",
@@ -26,10 +26,10 @@
       "flag": "italy_1.png"
     },
     "home_matches": 335,
-    "away_matches": 270,
+    "away_matches": 271,
     "neutral_matches": 255,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2026-01-17"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 5072,
-      "rating2": 5130,
+      "rating1": 5100,
+      "rating2": 5120,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 43.6,
+      "rank": 59,
+      "win_prob": 47.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5072,
-      "rating2": 5059,
+      "rating1": 5100,
+      "rating2": 5098,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 51.4,
+      "rank": 59,
+      "win_prob": 50.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5072,
+      "rating1": 5100,
       "rating2": 5448,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 16.4,
+      "rank": 59,
+      "win_prob": 18.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5072,
-      "rating2": 5492,
+      "rating1": 5100,
+      "rating2": 5497,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 14.0,
+      "rank": 59,
+      "win_prob": 15.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5072,
-      "rating2": 5720,
+      "rating1": 5100,
+      "rating2": 5723,
       "rating_ev": 0,
-      "rank": 65,
-      "win_prob": 4.1,
+      "rank": 59,
+      "win_prob": 4.5,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Saudi Arabia",
       "flag1": "egypt.png",
       "flag2": "saudi_arabia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5072,
-      "rating2": 5011,
-      "rating_ev": 0,
-      "rank": 65,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5100,
+      "rating2": 4983,
+      "rating_ev": 28,
+      "rank": 59,
       "win_prob": 45.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-17",

@@ -1,18 +1,18 @@
 {
   "team": "Saudi Arabia",
   "stats": {
-    "matches_played": 810,
+    "matches_played": 811,
     "wins": 387,
     "draws": 188,
-    "losses": 235,
+    "losses": 236,
     "goals_for": 1254,
-    "goals_against": 863,
-    "goal_difference": 391,
-    "win_percentage": 47.8,
-    "avg_points": 1.67,
+    "goals_against": 867,
+    "goal_difference": 387,
+    "win_percentage": 47.7,
+    "avg_points": 1.66,
     "best_rank": 37,
     "worst_rank": 127,
-    "avg_rank": 66.86,
+    "avg_rank": 66.87,
     "biggest_win": {
       "score": "10-0",
       "opponent": "East Timor",
@@ -25,11 +25,11 @@
       "date": "1961-09-03",
       "flag": "uar.png"
     },
-    "home_matches": 315,
+    "home_matches": 316,
     "away_matches": 146,
     "neutral_matches": 349,
     "first_match_date": "1957-10-18",
-    "last_match_date": "2025-12-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cape_verde.png",
       "score1": "",
       "score2": "",
-      "rating1": 5011,
-      "rating2": 4986,
+      "rating1": 4983,
+      "rating2": 5000,
       "rating_ev": 0,
-      "rank": 73,
-      "win_prob": 52.8,
+      "rank": 76,
+      "win_prob": 48.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5011,
-      "rating2": 5720,
+      "rating1": 4983,
+      "rating2": 5723,
       "rating_ev": 0,
-      "rank": 73,
-      "win_prob": 5.0,
+      "rank": 76,
+      "win_prob": 4.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5011,
-      "rating2": 5379,
+      "rating1": 4983,
+      "rating2": 5388,
       "rating_ev": 0,
-      "rank": 73,
-      "win_prob": 16.9,
+      "rank": 76,
+      "win_prob": 14.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5011,
-      "rating2": 5222,
+      "rating1": 4983,
+      "rating2": 5219,
       "rating_ev": 0,
-      "rank": 73,
-      "win_prob": 20.4,
+      "rank": 76,
+      "win_prob": 18.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Egypt",
       "flag1": "saudi_arabia.png",
       "flag2": "egypt.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5011,
-      "rating2": 5072,
-      "rating_ev": 0,
-      "rank": 73,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4983,
+      "rating2": 5100,
+      "rating_ev": -28,
+      "rank": 76,
       "win_prob": 54.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-18",

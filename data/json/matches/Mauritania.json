@@ -1,18 +1,18 @@
 {
   "team": "Mauritania",
   "stats": {
-    "matches_played": 294,
+    "matches_played": 295,
     "wins": 54,
     "draws": 71,
-    "losses": 169,
-    "goals_for": 211,
-    "goals_against": 517,
-    "goal_difference": -306,
-    "win_percentage": 18.4,
+    "losses": 170,
+    "goals_for": 212,
+    "goals_against": 519,
+    "goal_difference": -307,
+    "win_percentage": 18.3,
     "avg_points": 0.79,
     "best_rank": 94,
     "worst_rank": 164,
-    "avg_rank": 131.43,
+    "avg_rank": 131.38,
     "biggest_win": {
       "score": "8-2",
       "opponent": "Somalia",
@@ -26,10 +26,10 @@
       "flag": "guinea.png"
     },
     "home_matches": 91,
-    "away_matches": 89,
+    "away_matches": 90,
     "neutral_matches": 114,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2025-11-25"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Argentina",
       "flag1": "mauritania.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4775,
-      "rating2": 5608,
-      "rating_ev": 0,
-      "rank": 122,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4794,
+      "rating2": 5589,
+      "rating_ev": 19,
+      "rank": 119,
       "win_prob": 2.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-25",

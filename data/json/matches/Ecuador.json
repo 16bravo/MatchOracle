@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 596,
+    "matches_played": 597,
     "wins": 183,
-    "draws": 159,
+    "draws": 160,
     "losses": 254,
-    "goals_for": 717,
-    "goals_against": 901,
+    "goals_for": 718,
+    "goals_against": 902,
     "goal_difference": -184,
     "win_percentage": 30.7,
     "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 34.9,
+    "avg_rank": 34.87,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -27,9 +27,9 @@
     },
     "home_matches": 183,
     "away_matches": 210,
-    "neutral_matches": 203,
+    "neutral_matches": 204,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5420,
-      "rating2": 5536,
+      "rating1": 5415,
+      "rating2": 5543,
       "rating_ev": 0,
       "rank": 16,
-      "win_prob": 37.5,
+      "win_prob": 36.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5420,
-      "rating2": 4863,
+      "rating1": 5415,
+      "rating2": 4896,
       "rating_ev": 0,
       "rank": 16,
-      "win_prob": 91.4,
+      "win_prob": 90.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5420,
+      "rating1": 5415,
       "rating2": 5129,
       "rating_ev": 0,
       "rank": 16,
-      "win_prob": 78.1,
+      "win_prob": 77.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5420,
-      "rating2": 5541,
+      "rating1": 5415,
+      "rating2": 5545,
       "rating_ev": 0,
       "rank": 16,
-      "win_prob": 27.5,
+      "win_prob": 26.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Morocco",
       "flag1": "ecuador.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5420,
-      "rating2": 5265,
-      "rating_ev": 0,
-      "rank": 16,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5415,
+      "rating2": 5270,
+      "rating_ev": -5,
+      "rank": 15,
       "win_prob": 66.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

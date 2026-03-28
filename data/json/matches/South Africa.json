@@ -1,18 +1,18 @@
 {
   "team": "South Africa",
   "stats": {
-    "matches_played": 516,
+    "matches_played": 517,
     "wins": 229,
-    "draws": 151,
+    "draws": 152,
     "losses": 136,
-    "goals_for": 707,
-    "goals_against": 526,
+    "goals_for": 708,
+    "goals_against": 527,
     "goal_difference": 181,
-    "win_percentage": 44.4,
+    "win_percentage": 44.3,
     "avg_points": 1.62,
     "best_rank": 13,
     "worst_rank": 98,
-    "avg_rank": 63.06,
+    "avg_rank": 63.08,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1920-07-17",
       "flag": "england.png"
     },
-    "home_matches": 269,
+    "home_matches": 270,
     "away_matches": 158,
     "neutral_matches": 89,
     "first_match_date": "1906-07-09",
-    "last_match_date": "2026-01-04"
+    "last_match_date": "2026-03-27"
   },
   "matches": [
     {
@@ -99,14 +99,14 @@
       "original_team2": "Panama",
       "flag1": "south_africa.png",
       "flag2": "panama.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 1,
       "rating1": 4995,
       "rating2": 5099,
       "rating_ev": 0,
       "rank": 74,
       "win_prob": 49.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-04",
