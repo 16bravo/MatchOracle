@@ -1,12 +1,12 @@
 {
   "team": "Iceland",
   "stats": {
-    "matches_played": 521,
+    "matches_played": 522,
     "wins": 158,
-    "draws": 102,
+    "draws": 103,
     "losses": 261,
-    "goals_for": 627,
-    "goals_against": 877,
+    "goals_for": 629,
+    "goals_against": 879,
     "goal_difference": -250,
     "win_percentage": 30.3,
     "avg_points": 1.11,
@@ -26,10 +26,10 @@
       "flag": "denmark.png"
     },
     "home_matches": 215,
-    "away_matches": 249,
+    "away_matches": 250,
     "neutral_matches": 57,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2026-02-25"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5091,
-      "rating2": 5423,
+      "rating1": 5108,
+      "rating2": 5429,
       "rating_ev": 0,
-      "rank": 61,
-      "win_prob": 13.2,
+      "rank": 58,
+      "win_prob": 13.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5091,
+      "rating1": 5108,
       "rating2": 4984,
       "rating_ev": 0,
-      "rank": 61,
-      "win_prob": 61.6,
+      "rank": 58,
+      "win_prob": 63.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Canada",
       "flag1": "iceland.png",
       "flag2": "canada.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5091,
-      "rating2": 5282,
-      "rating_ev": 0,
-      "rank": 61,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5108,
+      "rating2": 5265,
+      "rating_ev": 17,
+      "rank": 58,
       "win_prob": 21.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-02-25",

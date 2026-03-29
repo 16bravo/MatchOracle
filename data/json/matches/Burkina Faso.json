@@ -1,18 +1,18 @@
 {
   "team": "Burkina Faso",
   "stats": {
-    "matches_played": 475,
-    "wins": 167,
+    "matches_played": 476,
+    "wins": 168,
     "draws": 126,
     "losses": 182,
-    "goals_for": 592,
+    "goals_for": 597,
     "goals_against": 641,
-    "goal_difference": -49,
-    "win_percentage": 35.2,
+    "goal_difference": -44,
+    "win_percentage": 35.3,
     "avg_points": 1.32,
     "best_rank": 60,
     "worst_rank": 122,
-    "avg_rank": 91.38,
+    "avg_rank": 91.33,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -25,11 +25,11 @@
       "date": "1981-08-30",
       "flag": "algeria.png"
     },
-    "home_matches": 125,
+    "home_matches": 126,
     "away_matches": 176,
     "neutral_matches": 174,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2026-01-06"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "guinea_bissau.png",
       "score1": "",
       "score2": "",
-      "rating1": 5027,
-      "rating2": 4745,
+      "rating1": 5048,
+      "rating2": 4724,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 84.2,
+      "rank": 68,
+      "win_prob": 86.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Guinea-Bissau",
       "flag1": "burkina.png",
       "flag2": "guinea_bissau.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5027,
-      "rating2": 4745,
-      "rating_ev": 0,
-      "rank": 70,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 5048,
+      "rating2": 4724,
+      "rating_ev": 21,
+      "rank": 68,
       "win_prob": 84.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-06",

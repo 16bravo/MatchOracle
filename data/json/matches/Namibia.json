@@ -1,14 +1,14 @@
 {
   "team": "Namibia",
   "stats": {
-    "matches_played": 303,
+    "matches_played": 304,
     "wins": 77,
-    "draws": 91,
+    "draws": 92,
     "losses": 135,
     "goals_for": 295,
     "goals_against": 424,
     "goal_difference": -129,
-    "win_percentage": 25.4,
+    "win_percentage": 25.3,
     "avg_points": 1.06,
     "best_rank": 94,
     "worst_rank": 157,
@@ -27,9 +27,9 @@
     },
     "home_matches": 102,
     "away_matches": 119,
-    "neutral_matches": 82,
+    "neutral_matches": 83,
     "first_match_date": "1989-05-16",
-    "last_match_date": "2026-03-25"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Comoros",
       "flag1": "namibia.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4764,
-      "rating2": 4848,
-      "rating_ev": 0,
-      "rank": 127,
-      "win_prob": 40.9,
-      "type": "fixture"
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4755,
+      "rating2": 4842,
+      "rating_ev": 6,
+      "rank": 125,
+      "win_prob": 39.3,
+      "type": "past"
     },
     {
       "date": "2026-03-25",

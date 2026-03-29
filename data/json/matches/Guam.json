@@ -1,18 +1,18 @@
 {
   "team": "Guam",
   "stats": {
-    "matches_played": 125,
-    "wins": 27,
+    "matches_played": 126,
+    "wins": 28,
     "draws": 13,
     "losses": 85,
-    "goals_for": 149,
+    "goals_for": 155,
     "goals_against": 575,
-    "goal_difference": -426,
-    "win_percentage": 21.6,
-    "avg_points": 0.75,
+    "goal_difference": -420,
+    "win_percentage": 22.2,
+    "avg_points": 0.77,
     "best_rank": 176,
     "worst_rank": 219,
-    "avg_rank": 209.38,
+    "avg_rank": 209.37,
     "biggest_win": {
       "score": "15-2",
       "opponent": "Palau",
@@ -27,9 +27,9 @@
     },
     "home_matches": 22,
     "away_matches": 36,
-    "neutral_matches": 67,
+    "neutral_matches": 68,
     "first_match_date": "1975-08-02",
-    "last_match_date": "2026-03-25"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Eastern Samoa",
       "flag1": "guam.png",
       "flag2": "us_samoa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3753,
-      "rating2": 2345,
-      "rating_ev": 0,
+      "score1": 6,
+      "score2": 0,
+      "rating1": 3752,
+      "rating2": 2319,
+      "rating_ev": 6,
       "rank": 208,
       "win_prob": 99.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-25",

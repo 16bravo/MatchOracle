@@ -1,18 +1,18 @@
 {
   "team": "Guinea-Bissau",
   "stats": {
-    "matches_played": 206,
+    "matches_played": 207,
     "wins": 57,
     "draws": 49,
-    "losses": 100,
+    "losses": 101,
     "goals_for": 205,
-    "goals_against": 302,
-    "goal_difference": -97,
-    "win_percentage": 27.7,
-    "avg_points": 1.07,
+    "goals_against": 307,
+    "goal_difference": -102,
+    "win_percentage": 27.5,
+    "avg_points": 1.06,
     "best_rank": 70,
     "worst_rank": 149,
-    "avg_rank": 115.82,
+    "avg_rank": 115.9,
     "biggest_win": {
       "score": "7-2",
       "opponent": "Benin",
@@ -26,10 +26,10 @@
       "flag": "mali.png"
     },
     "home_matches": 61,
-    "away_matches": 55,
+    "away_matches": 56,
     "neutral_matches": 90,
     "first_match_date": "1953-06-02",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4745,
-      "rating2": 5027,
+      "rating1": 4724,
+      "rating2": 5048,
       "rating_ev": 0,
-      "rank": 130,
-      "win_prob": 15.8,
+      "rank": 132,
+      "win_prob": 13.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Burkina Faso",
       "flag1": "guinea_bissau.png",
       "flag2": "burkina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4745,
-      "rating2": 5027,
-      "rating_ev": 0,
-      "rank": 130,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 4724,
+      "rating2": 5048,
+      "rating_ev": -21,
+      "rank": 132,
       "win_prob": 15.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

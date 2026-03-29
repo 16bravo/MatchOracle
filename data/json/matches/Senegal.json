@@ -1,18 +1,18 @@
 {
   "team": "Senegal",
   "stats": {
-    "matches_played": 685,
-    "wins": 312,
+    "matches_played": 686,
+    "wins": 313,
     "draws": 190,
     "losses": 183,
-    "goals_for": 946,
+    "goals_for": 948,
     "goals_against": 642,
-    "goal_difference": 304,
-    "win_percentage": 45.5,
-    "avg_points": 1.64,
+    "goal_difference": 306,
+    "win_percentage": 45.6,
+    "avg_points": 1.65,
     "best_rank": 22,
     "worst_rank": 97,
-    "avg_rank": 58.46,
+    "avg_rank": 58.4,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 215,
     "away_matches": 235,
-    "neutral_matches": 235,
+    "neutral_matches": 236,
     "first_match_date": "1959-12-31",
-    "last_match_date": "2026-01-18"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5325,
+      "rating1": 5335,
       "rating2": 5540,
       "rating_ev": 0,
-      "rank": 23,
-      "win_prob": 28.0,
+      "rank": 22,
+      "win_prob": 28.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5325,
-      "rating2": 5556,
+      "rating1": 5335,
+      "rating2": 5551,
       "rating_ev": 0,
-      "rank": 23,
-      "win_prob": 26.7,
+      "rank": 22,
+      "win_prob": 28.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5325,
-      "rating2": 5241,
+      "rating1": 5335,
+      "rating2": 5224,
       "rating_ev": 0,
-      "rank": 23,
-      "win_prob": 48.3,
+      "rank": 22,
+      "win_prob": 51.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "gambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5325,
+      "rating1": 5335,
       "rating2": 4947,
       "rating_ev": 0,
-      "rank": 23,
-      "win_prob": 88.9,
+      "rank": 22,
+      "win_prob": 89.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Peru",
       "flag1": "senegal.png",
       "flag2": "peru.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5325,
-      "rating2": 5213,
-      "rating_ev": 0,
-      "rank": 23,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5335,
+      "rating2": 5203,
+      "rating_ev": 10,
+      "rank": 22,
       "win_prob": 62.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-01-18",

@@ -1,18 +1,18 @@
 {
   "team": "San Marino",
   "stats": {
-    "matches_played": 224,
+    "matches_played": 225,
     "wins": 3,
     "draws": 11,
-    "losses": 210,
-    "goals_for": 41,
-    "goals_against": 889,
-    "goal_difference": -848,
+    "losses": 211,
+    "goals_for": 42,
+    "goals_against": 891,
+    "goal_difference": -849,
     "win_percentage": 1.3,
     "avg_points": 0.09,
     "best_rank": 156,
     "worst_rank": 196,
-    "avg_rank": 182.63,
+    "avg_rank": 182.61,
     "biggest_win": {
       "score": "3-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "2006-09-06",
       "flag": "germany.png"
     },
-    "home_matches": 107,
+    "home_matches": 108,
     "away_matches": 110,
     "neutral_matches": 7,
     "first_match_date": "1987-09-16",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4238,
+      "rating1": 4248,
       "rating2": 4692,
       "rating_ev": 0,
-      "rank": 179,
-      "win_prob": 18.0,
+      "rank": 178,
+      "win_prob": 18.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Faroe Islands",
       "flag1": "san_marino.png",
       "flag2": "faroe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4238,
-      "rating2": 4936,
-      "rating_ev": 0,
-      "rank": 179,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4248,
+      "rating2": 4926,
+      "rating_ev": 10,
+      "rank": 178,
       "win_prob": 7.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

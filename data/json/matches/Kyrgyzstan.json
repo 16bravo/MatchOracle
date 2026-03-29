@@ -1,18 +1,18 @@
 {
   "team": "Kyrgyzstan",
   "stats": {
-    "matches_played": 188,
+    "matches_played": 189,
     "wins": 55,
     "draws": 30,
-    "losses": 103,
-    "goals_for": 204,
-    "goals_against": 329,
-    "goal_difference": -125,
-    "win_percentage": 29.3,
-    "avg_points": 1.04,
+    "losses": 104,
+    "goals_for": 206,
+    "goals_against": 334,
+    "goal_difference": -128,
+    "win_percentage": 29.1,
+    "avg_points": 1.03,
     "best_rank": 131,
     "worst_rank": 179,
-    "avg_rank": 158.48,
+    "avg_rank": 158.39,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Myanmar",
@@ -27,9 +27,9 @@
     },
     "home_matches": 47,
     "away_matches": 73,
-    "neutral_matches": 68,
+    "neutral_matches": 69,
     "first_match_date": "1992-08-23",
-    "last_match_date": "2026-03-25"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Madagascar",
       "flag1": "kyrgyzstan.png",
       "flag2": "madagascar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4703,
-      "rating2": 4820,
-      "rating_ev": 0,
-      "rank": 138,
-      "win_prob": 37.4,
-      "type": "fixture"
+      "score1": 2,
+      "score2": 5,
+      "rating1": 4683,
+      "rating2": 4837,
+      "rating_ev": -17,
+      "rank": 141,
+      "win_prob": 37.1,
+      "type": "past"
     },
     {
       "date": "2026-03-25",

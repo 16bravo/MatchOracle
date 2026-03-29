@@ -1,18 +1,18 @@
 {
   "team": "Zimbabwe",
   "stats": {
-    "matches_played": 522,
-    "wins": 199,
+    "matches_played": 523,
+    "wins": 200,
     "draws": 151,
     "losses": 172,
-    "goals_for": 696,
+    "goals_for": 699,
     "goals_against": 610,
-    "goal_difference": 86,
-    "win_percentage": 38.1,
-    "avg_points": 1.43,
+    "goal_difference": 89,
+    "win_percentage": 38.2,
+    "avg_points": 1.44,
     "best_rank": 43,
     "worst_rank": 130,
-    "avg_rank": 85.3,
+    "avg_rank": 85.33,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Botswana",
@@ -26,10 +26,10 @@
       "flag": "south_africa_2.png"
     },
     "home_matches": 165,
-    "away_matches": 204,
+    "away_matches": 205,
     "neutral_matches": 153,
     "first_match_date": "1946-12-31",
-    "last_match_date": "2025-12-29"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Botswana",
       "flag1": "zimbabwe.png",
       "flag2": "botswana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4821,
-      "rating2": 4764,
-      "rating_ev": 0,
-      "rank": 105,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4864,
+      "rating2": 4721,
+      "rating_ev": 43,
+      "rank": 98,
       "win_prob": 45.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-29",

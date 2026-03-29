@@ -1,18 +1,18 @@
 {
   "team": "Japan",
   "stats": {
-    "matches_played": 827,
-    "wins": 405,
+    "matches_played": 828,
+    "wins": 406,
     "draws": 168,
     "losses": 254,
-    "goals_for": 1502,
+    "goals_for": 1503,
     "goals_against": 973,
-    "goal_difference": 529,
+    "goal_difference": 530,
     "win_percentage": 49.0,
     "avg_points": 1.67,
     "best_rank": 10,
     "worst_rank": 122,
-    "avg_rank": 50.85,
+    "avg_rank": 50.8,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Philippines",
@@ -26,10 +26,10 @@
       "flag": "usa_1912.png"
     },
     "home_matches": 330,
-    "away_matches": 199,
+    "away_matches": 200,
     "neutral_matches": 298,
     "first_match_date": "1917-05-09",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5423,
+      "rating1": 5429,
       "rating2": 5091,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 80.9,
+      "rank": 13,
+      "win_prob": 81.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5423,
+      "rating1": 5429,
       "rating2": 5545,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 36.9,
+      "rank": 13,
+      "win_prob": 37.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "iceland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5423,
-      "rating2": 5091,
+      "rating1": 5429,
+      "rating2": 5108,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 86.8,
+      "rank": 13,
+      "win_prob": 86.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5423,
+      "rating1": 5429,
       "rating2": 5576,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 24.8,
+      "rank": 13,
+      "win_prob": 25.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Scotland",
       "flag1": "japan.png",
       "flag2": "scotland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5423,
-      "rating2": 5297,
-      "rating_ev": 0,
-      "rank": 15,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5429,
+      "rating2": 5291,
+      "rating_ev": 6,
+      "rank": 13,
       "win_prob": 52.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

@@ -1,18 +1,18 @@
 {
   "team": "Hungary",
   "stats": {
-    "matches_played": 1034,
-    "wins": 488,
+    "matches_played": 1035,
+    "wins": 489,
     "draws": 221,
     "losses": 325,
-    "goals_for": 2085,
+    "goals_for": 2086,
     "goals_against": 1529,
-    "goal_difference": 556,
+    "goal_difference": 557,
     "win_percentage": 47.2,
     "avg_points": 1.63,
     "best_rank": 1,
     "worst_rank": 71,
-    "avg_rank": 22.36,
+    "avg_rank": 22.38,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Russia",
@@ -25,11 +25,11 @@
       "date": "1908-06-10",
       "flag": "england.png"
     },
-    "home_matches": 465,
+    "home_matches": 466,
     "away_matches": 495,
     "neutral_matches": 74,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2025-11-16"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5175,
-      "rating2": 4894,
+      "rating1": 5179,
+      "rating2": 4879,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 68.7,
+      "rank": 43,
+      "win_prob": 70.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5175,
-      "rating2": 5042,
+      "rating1": 5179,
+      "rating2": 5003,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 73.6,
+      "rank": 43,
+      "win_prob": 77.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5175,
+      "rating1": 5179,
       "rating2": 5301,
       "rating_ev": 0,
-      "rank": 46,
-      "win_prob": 47.1,
+      "rank": 43,
+      "win_prob": 47.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Slovenia",
       "flag1": "hungary.png",
       "flag2": "slovenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5175,
-      "rating2": 5183,
-      "rating_ev": 0,
-      "rank": 46,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5179,
+      "rating2": 5179,
+      "rating_ev": 4,
+      "rank": 43,
       "win_prob": 60.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-16",

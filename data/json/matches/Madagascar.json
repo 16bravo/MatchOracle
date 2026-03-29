@@ -1,18 +1,18 @@
 {
   "team": "Madagascar",
   "stats": {
-    "matches_played": 341,
-    "wins": 129,
+    "matches_played": 342,
+    "wins": 130,
     "draws": 73,
     "losses": 139,
-    "goals_for": 468,
-    "goals_against": 514,
-    "goal_difference": -46,
-    "win_percentage": 37.8,
+    "goals_for": 473,
+    "goals_against": 516,
+    "goal_difference": -43,
+    "win_percentage": 38.0,
     "avg_points": 1.35,
     "best_rank": 68,
     "worst_rank": 158,
-    "avg_rank": 107.3,
+    "avg_rank": 107.29,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Congo",
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 117,
-    "neutral_matches": 108,
+    "neutral_matches": 109,
     "first_match_date": "1947-12-31",
-    "last_match_date": "2025-11-17"
+    "last_match_date": "2026-03-28"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "eq_guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4820,
-      "rating2": 4826,
+      "rating1": 4837,
+      "rating2": 4823,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 49.3,
+      "rank": 103,
+      "win_prob": 51.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Kyrgyzstan",
       "flag1": "madagascar.png",
       "flag2": "kyrgyzstan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4820,
-      "rating2": 4703,
-      "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 62.6,
-      "type": "fixture"
+      "score1": 5,
+      "score2": 2,
+      "rating1": 4837,
+      "rating2": 4683,
+      "rating_ev": 17,
+      "rank": 103,
+      "win_prob": 62.9,
+      "type": "past"
     },
     {
       "date": "2025-11-17",
