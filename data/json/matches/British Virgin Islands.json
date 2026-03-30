@@ -1,15 +1,15 @@
 {
   "team": "British Virgin Islands",
   "stats": {
-    "matches_played": 138,
-    "wins": 23,
+    "matches_played": 139,
+    "wins": 24,
     "draws": 24,
     "losses": 91,
-    "goals_for": 127,
+    "goals_for": 131,
     "goals_against": 397,
-    "goal_difference": -270,
-    "win_percentage": 16.7,
-    "avg_points": 0.67,
+    "goal_difference": -266,
+    "win_percentage": 17.3,
+    "avg_points": 0.69,
     "best_rank": 180,
     "worst_rank": 214,
     "avg_rank": 204.78,
@@ -27,9 +27,9 @@
     },
     "home_matches": 36,
     "away_matches": 62,
-    "neutral_matches": 40,
+    "neutral_matches": 41,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-29"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Anguilla",
       "flag1": "gb_virgin.png",
       "flag2": "anguilla.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3893,
-      "rating2": 3596,
-      "rating_ev": 0,
-      "rank": 205,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 3929,
+      "rating2": 3560,
+      "rating_ev": 36,
+      "rank": 204,
       "win_prob": 78.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

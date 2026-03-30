@@ -1,18 +1,18 @@
 {
   "team": "Macao",
   "stats": {
-    "matches_played": 164,
+    "matches_played": 165,
     "wins": 24,
     "draws": 17,
-    "losses": 123,
+    "losses": 124,
     "goals_for": 140,
-    "goals_against": 492,
-    "goal_difference": -352,
-    "win_percentage": 14.6,
+    "goals_against": 498,
+    "goal_difference": -358,
+    "win_percentage": 14.5,
     "avg_points": 0.54,
     "best_rank": 97,
     "worst_rank": 212,
-    "avg_rank": 189.87,
+    "avg_rank": 189.99,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Northern Mariana Islands",
@@ -27,9 +27,9 @@
     },
     "home_matches": 53,
     "away_matches": 52,
-    "neutral_matches": 59,
+    "neutral_matches": 60,
     "first_match_date": "1948-03-29",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-29"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Tanzania",
       "flag1": "macao.png",
       "flag2": "tanzania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3650,
-      "rating2": 4809,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 6,
+      "rating1": 3635,
+      "rating2": 4824,
+      "rating_ev": -15,
       "rank": 211,
       "win_prob": 1.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

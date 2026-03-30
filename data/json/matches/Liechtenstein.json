@@ -1,18 +1,18 @@
 {
   "team": "Liechtenstein",
   "stats": {
-    "matches_played": 256,
+    "matches_played": 257,
     "wins": 19,
     "draws": 32,
-    "losses": 205,
-    "goals_for": 103,
-    "goals_against": 718,
-    "goal_difference": -615,
+    "losses": 206,
+    "goals_for": 104,
+    "goals_against": 722,
+    "goal_difference": -618,
     "win_percentage": 7.4,
     "avg_points": 0.35,
     "best_rank": 117,
     "worst_rank": 184,
-    "avg_rank": 153.49,
+    "avg_rank": 153.58,
     "biggest_win": {
       "score": "4-0",
       "opponent": "Luxembourg",
@@ -27,9 +27,9 @@
     },
     "home_matches": 114,
     "away_matches": 124,
-    "neutral_matches": 18,
+    "neutral_matches": 19,
     "first_match_date": "1981-06-14",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-29"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Aruba",
       "flag1": "liechtenstein.png",
       "flag2": "aruba.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4343,
-      "rating2": 4200,
-      "rating_ev": 0,
-      "rank": 174,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4294,
+      "rating2": 4249,
+      "rating_ev": -49,
+      "rank": 176,
       "win_prob": 65.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

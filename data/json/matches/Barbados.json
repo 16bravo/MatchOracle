@@ -1,18 +1,18 @@
 {
   "team": "Barbados",
   "stats": {
-    "matches_played": 371,
+    "matches_played": 372,
     "wins": 114,
     "draws": 95,
-    "losses": 162,
-    "goals_for": 474,
-    "goals_against": 616,
-    "goal_difference": -142,
-    "win_percentage": 30.7,
-    "avg_points": 1.18,
+    "losses": 163,
+    "goals_for": 476,
+    "goals_against": 619,
+    "goal_difference": -143,
+    "win_percentage": 30.6,
+    "avg_points": 1.17,
     "best_rank": 64,
     "worst_rank": 197,
-    "avg_rank": 145.43,
+    "avg_rank": 145.57,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 165,
     "away_matches": 131,
-    "neutral_matches": 75,
+    "neutral_matches": 76,
     "first_match_date": "1929-04-20",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-29"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "St Vincent & Grenadines",
       "flag1": "barbados.png",
       "flag2": "st_vincent.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4052,
-      "rating2": 4414,
-      "rating_ev": 0,
-      "rank": 198,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4059,
+      "rating2": 4407,
+      "rating_ev": 7,
+      "rank": 196,
       "win_prob": 17.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

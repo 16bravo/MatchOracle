@@ -1,18 +1,18 @@
 {
   "team": "Lithuania",
   "stats": {
-    "matches_played": 415,
+    "matches_played": 416,
     "wins": 105,
     "draws": 81,
-    "losses": 229,
+    "losses": 230,
     "goals_for": 407,
-    "goals_against": 755,
-    "goal_difference": -348,
-    "win_percentage": 25.3,
+    "goals_against": 757,
+    "goal_difference": -350,
+    "win_percentage": 25.2,
     "avg_points": 0.95,
     "best_rank": 39,
     "worst_rank": 140,
-    "avg_rank": 84.85,
+    "avg_rank": 84.91,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -25,11 +25,11 @@
       "date": "1924-05-27",
       "flag": "egypt_2.png"
     },
-    "home_matches": 165,
+    "home_matches": 166,
     "away_matches": 207,
     "neutral_matches": 43,
     "first_match_date": "1923-06-24",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-29"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4816,
+      "rating1": 4810,
       "rating2": 4806,
       "rating_ev": 0,
-      "rank": 107,
-      "win_prob": 61.8,
+      "rank": 110,
+      "win_prob": 61.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Georgia",
       "flag1": "lithuania.png",
       "flag2": "georgia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4816,
-      "rating2": 5165,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4810,
+      "rating2": 5171,
+      "rating_ev": -6,
+      "rank": 110,
       "win_prob": 25.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

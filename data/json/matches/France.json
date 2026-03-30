@@ -1,18 +1,18 @@
 {
   "team": "France",
   "stats": {
-    "matches_played": 934,
-    "wins": 470,
+    "matches_played": 935,
+    "wins": 471,
     "draws": 195,
     "losses": 269,
-    "goals_for": 1687,
-    "goals_against": 1278,
-    "goal_difference": 409,
-    "win_percentage": 50.3,
+    "goals_for": 1690,
+    "goals_against": 1279,
+    "goal_difference": 411,
+    "win_percentage": 50.4,
     "avg_points": 1.72,
     "best_rank": 1,
     "worst_rank": 36,
-    "avg_rank": 12.23,
+    "avg_rank": 12.22,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Gibraltar",
@@ -27,9 +27,9 @@
     },
     "home_matches": 471,
     "away_matches": 340,
-    "neutral_matches": 123,
+    "neutral_matches": 124,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-29"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5551,
+      "rating1": 5564,
       "rating2": 5540,
       "rating_ev": 0,
-      "rank": 5,
-      "win_prob": 51.2,
+      "rank": 4,
+      "win_prob": 52.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5551,
+      "rating1": 5564,
       "rating2": 5335,
       "rating_ev": 0,
-      "rank": 5,
-      "win_prob": 72.0,
+      "rank": 4,
+      "win_prob": 73.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5551,
+      "rating1": 5564,
       "rating2": 5158,
       "rating_ev": 0,
-      "rank": 5,
-      "win_prob": 89.5,
+      "rank": 4,
+      "win_prob": 90.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Colombia",
       "flag1": "france.png",
       "flag2": "colombia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5551,
-      "rating2": 5523,
-      "rating_ev": 0,
-      "rank": 5,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5564,
+      "rating2": 5510,
+      "rating_ev": 13,
+      "rank": 4,
       "win_prob": 53.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

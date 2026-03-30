@@ -1,18 +1,18 @@
 {
   "team": "Djibouti",
   "stats": {
-    "matches_played": 119,
-    "wins": 10,
+    "matches_played": 120,
+    "wins": 11,
     "draws": 11,
     "losses": 98,
-    "goals_for": 80,
+    "goals_for": 81,
     "goals_against": 420,
-    "goal_difference": -340,
-    "win_percentage": 8.4,
-    "avg_points": 0.34,
+    "goal_difference": -339,
+    "win_percentage": 9.2,
+    "avg_points": 0.37,
     "best_rank": 96,
     "worst_rank": 201,
-    "avg_rank": 185.7,
+    "avg_rank": 185.61,
     "biggest_win": {
       "score": "4-1",
       "opponent": "South Yemen",
@@ -26,30 +26,30 @@
       "flag": "uganda.png"
     },
     "home_matches": 24,
-    "away_matches": 37,
+    "away_matches": 38,
     "neutral_matches": 58,
     "first_match_date": "1947-12-05",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-29"
   },
   "matches": [
     {
       "date": "2026-03-29",
       "country": "South Sudan",
-      "tournament": "African Cup qualifier",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Djibouti",
       "team2": "South Sudan",
       "original_team1": "Djibouti",
       "original_team2": "South Sudan",
       "flag1": "djibouti.png",
       "flag2": "south_sudan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4276,
-      "rating2": 4573,
-      "rating_ev": 0,
-      "rank": 177,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4313,
+      "rating2": 4536,
+      "rating_ev": 37,
+      "rank": 175,
       "win_prob": 15.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

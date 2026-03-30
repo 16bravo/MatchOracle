@@ -1,18 +1,18 @@
 {
   "team": "Georgia",
   "stats": {
-    "matches_played": 314,
-    "wins": 104,
+    "matches_played": 315,
+    "wins": 105,
     "draws": 67,
     "losses": 143,
-    "goals_for": 404,
+    "goals_for": 406,
     "goals_against": 437,
-    "goal_difference": -33,
-    "win_percentage": 33.1,
+    "goal_difference": -31,
+    "win_percentage": 33.3,
     "avg_points": 1.21,
     "best_rank": 29,
     "worst_rank": 90,
-    "avg_rank": 59.57,
+    "avg_rank": 59.52,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Thailand",
@@ -26,10 +26,10 @@
       "flag": "spain.png"
     },
     "home_matches": 136,
-    "away_matches": 147,
+    "away_matches": 148,
     "neutral_matches": 31,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-29"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5165,
+      "rating1": 5171,
       "rating2": 5156,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 61.7,
+      "rank": 46,
+      "win_prob": 62.4,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Lithuania",
       "flag1": "georgia.png",
       "flag2": "lithuania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5165,
-      "rating2": 4816,
-      "rating_ev": 0,
-      "rank": 47,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5171,
+      "rating2": 4810,
+      "rating_ev": 6,
+      "rank": 46,
       "win_prob": 74.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",
