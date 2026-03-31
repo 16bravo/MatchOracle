@@ -1,18 +1,18 @@
 {
   "team": "Bonaire",
   "stats": {
-    "matches_played": 104,
+    "matches_played": 105,
     "wins": 24,
     "draws": 12,
-    "losses": 68,
+    "losses": 69,
     "goals_for": 119,
-    "goals_against": 257,
-    "goal_difference": -138,
-    "win_percentage": 23.1,
-    "avg_points": 0.81,
+    "goals_against": 260,
+    "goal_difference": -141,
+    "win_percentage": 22.9,
+    "avg_points": 0.8,
     "best_rank": 75,
     "worst_rank": 205,
-    "avg_rank": 174.45,
+    "avg_rank": 174.72,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Aruba",
@@ -25,11 +25,11 @@
       "date": "1969-08-09",
       "flag": null
     },
-    "home_matches": 18,
+    "home_matches": 19,
     "away_matches": 52,
     "neutral_matches": 34,
     "first_match_date": "1934-02-04",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-29"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Saint Martin",
       "flag1": "bonaire.png",
       "flag2": "france.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3988,
-      "rating2": 4116,
-      "rating_ev": 0,
-      "rank": 202,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 3949,
+      "rating2": 4155,
+      "rating_ev": -39,
+      "rank": 203,
       "win_prob": 46.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

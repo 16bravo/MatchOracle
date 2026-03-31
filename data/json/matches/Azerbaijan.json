@@ -1,18 +1,18 @@
 {
   "team": "Azerbaijan",
   "stats": {
-    "matches_played": 321,
+    "matches_played": 322,
     "wins": 66,
-    "draws": 80,
+    "draws": 81,
     "losses": 175,
-    "goals_for": 262,
-    "goals_against": 541,
+    "goals_for": 263,
+    "goals_against": 542,
     "goal_difference": -279,
-    "win_percentage": 20.6,
+    "win_percentage": 20.5,
     "avg_points": 0.87,
     "best_rank": 36,
     "worst_rank": 131,
-    "avg_rank": 100.12,
+    "avg_rank": 100.15,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Saint Lucia",
@@ -25,11 +25,11 @@
       "date": "1995-09-06",
       "flag": "france.png"
     },
-    "home_matches": 115,
+    "home_matches": 116,
     "away_matches": 152,
     "neutral_matches": 54,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Sierra Leone",
       "flag1": "azerbaijan.png",
       "flag2": "sierra_leone.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4816,
-      "rating2": 4805,
-      "rating_ev": 0,
-      "rank": 108,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4810,
+      "rating2": 4811,
+      "rating_ev": -6,
+      "rank": 110,
       "win_prob": 61.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

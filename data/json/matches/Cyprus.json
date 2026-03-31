@@ -1,18 +1,18 @@
 {
   "team": "Cyprus",
   "stats": {
-    "matches_played": 427,
-    "wins": 83,
+    "matches_played": 428,
+    "wins": 84,
     "draws": 73,
     "losses": 271,
-    "goals_for": 382,
-    "goals_against": 929,
-    "goal_difference": -547,
-    "win_percentage": 19.4,
-    "avg_points": 0.75,
+    "goals_for": 385,
+    "goals_against": 931,
+    "goal_difference": -546,
+    "win_percentage": 19.6,
+    "avg_points": 0.76,
     "best_rank": 57,
     "worst_rank": 140,
-    "avg_rank": 90.0,
+    "avg_rank": 90.06,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Andorra",
@@ -25,11 +25,11 @@
       "date": "1969-05-21",
       "flag": "germany.png"
     },
-    "home_matches": 237,
+    "home_matches": 238,
     "away_matches": 184,
     "neutral_matches": 6,
     "first_match_date": "1949-07-30",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Moldova",
       "flag1": "cyprus.png",
       "flag2": "moldova.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4796,
-      "rating2": 4683,
-      "rating_ev": 0,
-      "rank": 117,
+      "score1": 3,
+      "score2": 2,
+      "rating1": 4797,
+      "rating2": 4682,
+      "rating_ev": 1,
+      "rank": 116,
       "win_prob": 71.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

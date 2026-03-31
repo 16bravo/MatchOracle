@@ -1,18 +1,18 @@
 {
   "team": "Gabon",
   "stats": {
-    "matches_played": 451,
+    "matches_played": 452,
     "wins": 156,
-    "draws": 126,
+    "draws": 127,
     "losses": 169,
-    "goals_for": 534,
-    "goals_against": 548,
+    "goals_for": 536,
+    "goals_against": 550,
     "goal_difference": -14,
-    "win_percentage": 34.6,
+    "win_percentage": 34.5,
     "avg_points": 1.32,
     "best_rank": 63,
     "worst_rank": 116,
-    "avg_rank": 88.61,
+    "avg_rank": 88.62,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Benin",
@@ -27,9 +27,9 @@
     },
     "home_matches": 179,
     "away_matches": 149,
-    "neutral_matches": 123,
+    "neutral_matches": 124,
     "first_match_date": "1960-04-14",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Trinidad and Tobago",
       "flag1": "gabon.png",
       "flag2": "trinidad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4875,
-      "rating2": 4733,
-      "rating_ev": 0,
-      "rank": 94,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4867,
+      "rating2": 4741,
+      "rating_ev": -8,
+      "rank": 96,
       "win_prob": 65.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

@@ -1,9 +1,9 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 477,
+    "matches_played": 478,
     "wins": 127,
-    "draws": 105,
+    "draws": 106,
     "losses": 245,
     "goals_for": 517,
     "goals_against": 871,
@@ -12,7 +12,7 @@
     "avg_points": 1.02,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.46,
+    "avg_rank": 63.41,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 176,
-    "away_matches": 178,
+    "away_matches": 179,
     "neutral_matches": 123,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Uzbekistan",
       "flag1": "venezuela.png",
       "flag2": "uzbekistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5196,
-      "rating2": 5121,
-      "rating_ev": 0,
-      "rank": 42,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5197,
+      "rating2": 5120,
+      "rating_ev": 1,
+      "rank": 41,
       "win_prob": 47.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

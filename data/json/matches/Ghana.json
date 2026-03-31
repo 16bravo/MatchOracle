@@ -1,18 +1,18 @@
 {
   "team": "Ghana",
   "stats": {
-    "matches_played": 757,
+    "matches_played": 758,
     "wins": 363,
     "draws": 188,
-    "losses": 206,
-    "goals_for": 1209,
-    "goals_against": 788,
-    "goal_difference": 421,
-    "win_percentage": 48.0,
-    "avg_points": 1.69,
+    "losses": 207,
+    "goals_for": 1210,
+    "goals_against": 790,
+    "goal_difference": 420,
+    "win_percentage": 47.9,
+    "avg_points": 1.68,
     "best_rank": 14,
     "worst_rank": 89,
-    "avg_rank": 49.75,
+    "avg_rank": 49.77,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Nyasaland",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 234,
-    "away_matches": 281,
+    "away_matches": 282,
     "neutral_matches": 242,
     "first_match_date": "1950-05-28",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5037,
+      "rating1": 5048,
       "rating2": 5424,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 15.8,
+      "rank": 68,
+      "win_prob": 16.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5037,
+      "rating1": 5048,
       "rating2": 5576,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 9.1,
+      "rank": 68,
+      "win_prob": 9.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 5037,
+      "rating1": 5048,
       "rating2": 5099,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 43.2,
+      "rank": 68,
+      "win_prob": 44.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5037,
+      "rating1": 5048,
       "rating2": 5207,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 23.4,
+      "rank": 68,
+      "win_prob": 24.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5037,
+      "rating1": 5048,
       "rating2": 5301,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 16.9,
+      "rank": 68,
+      "win_prob": 17.6,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Germany",
       "flag1": "ghana.png",
       "flag2": "germany.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5037,
-      "rating2": 5543,
-      "rating_ev": 0,
-      "rank": 69,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5048,
+      "rating2": 5532,
+      "rating_ev": 11,
+      "rank": 68,
       "win_prob": 6.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

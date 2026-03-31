@@ -1,18 +1,18 @@
 {
   "team": "Saint Martin",
   "stats": {
-    "matches_played": 81,
-    "wins": 31,
+    "matches_played": 82,
+    "wins": 32,
     "draws": 8,
     "losses": 42,
-    "goals_for": 122,
+    "goals_for": 125,
     "goals_against": 178,
-    "goal_difference": -56,
-    "win_percentage": 38.3,
-    "avg_points": 1.25,
+    "goal_difference": -53,
+    "win_percentage": 39.0,
+    "avg_points": 1.27,
     "best_rank": 164,
     "worst_rank": 210,
-    "avg_rank": 194.43,
+    "avg_rank": 194.35,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "jamaica.png"
     },
     "home_matches": 15,
-    "away_matches": 33,
+    "away_matches": 34,
     "neutral_matches": 33,
     "first_match_date": "1988-06-14",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-29"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Bonaire",
       "flag1": "france.png",
       "flag2": "bonaire.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4116,
-      "rating2": 3988,
-      "rating_ev": 0,
-      "rank": 193,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4155,
+      "rating2": 3949,
+      "rating_ev": 39,
+      "rank": 188,
       "win_prob": 53.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

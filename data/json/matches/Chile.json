@@ -1,18 +1,18 @@
 {
   "team": "Chile",
   "stats": {
-    "matches_played": 852,
+    "matches_played": 853,
     "wins": 319,
     "draws": 188,
-    "losses": 345,
-    "goals_for": 1197,
-    "goals_against": 1213,
-    "goal_difference": -16,
+    "losses": 346,
+    "goals_for": 1198,
+    "goals_against": 1217,
+    "goal_difference": -19,
     "win_percentage": 37.4,
     "avg_points": 1.34,
     "best_rank": 2,
     "worst_rank": 52,
-    "avg_rank": 22.92,
+    "avg_rank": 22.94,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Tahiti",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 327,
-    "away_matches": 308,
+    "away_matches": 309,
     "neutral_matches": 217,
     "first_match_date": "1910-05-27",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5227,
+      "rating1": 5182,
       "rating2": 5557,
       "rating_ev": 0,
-      "rank": 31,
-      "win_prob": 13.3,
+      "rank": 42,
+      "win_prob": 11.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "New Zealand",
       "flag1": "chile.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5227,
-      "rating2": 5059,
-      "rating_ev": 0,
-      "rank": 31,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 5182,
+      "rating2": 5104,
+      "rating_ev": -45,
+      "rank": 42,
       "win_prob": 57.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

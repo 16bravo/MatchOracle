@@ -1,18 +1,18 @@
 {
   "team": "Solomon Islands",
   "stats": {
-    "matches_played": 219,
+    "matches_played": 220,
     "wins": 91,
     "draws": 37,
-    "losses": 91,
-    "goals_for": 455,
-    "goals_against": 423,
-    "goal_difference": 32,
-    "win_percentage": 41.6,
-    "avg_points": 1.42,
+    "losses": 92,
+    "goals_for": 457,
+    "goals_against": 427,
+    "goal_difference": 30,
+    "win_percentage": 41.4,
+    "avg_points": 1.41,
     "best_rank": 147,
-    "worst_rank": 187,
-    "avg_rank": 172.84,
+    "worst_rank": 191,
+    "avg_rank": 172.93,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Cook Islands",
@@ -27,13 +27,13 @@
     },
     "home_matches": 59,
     "away_matches": 62,
-    "neutral_matches": 98,
+    "neutral_matches": 99,
     "first_match_date": "1963-08-30",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
-      "date": "2026-03-31",
+      "date": "2026-03-30",
       "country": "Indonesia",
       "tournament": "FIFA Series",
       "team1": "Solomon Islands",
@@ -42,14 +42,14 @@
       "original_team2": "Saint Kitts and Nevis",
       "flag1": "solomon.png",
       "flag2": "kitts.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4166,
-      "rating2": 4037,
-      "rating_ev": 0,
-      "rank": 187,
+      "score1": 2,
+      "score2": 4,
+      "rating1": 4131,
+      "rating2": 4072,
+      "rating_ev": -35,
+      "rank": 191,
       "win_prob": 63.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

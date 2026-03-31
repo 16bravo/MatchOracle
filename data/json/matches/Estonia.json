@@ -1,18 +1,18 @@
 {
   "team": "Estonia",
   "stats": {
-    "matches_played": 538,
+    "matches_played": 539,
     "wins": 132,
     "draws": 120,
-    "losses": 286,
+    "losses": 287,
     "goals_for": 531,
-    "goals_against": 958,
-    "goal_difference": -427,
+    "goals_against": 960,
+    "goal_difference": -429,
     "win_percentage": 24.5,
     "avg_points": 0.96,
     "best_rank": 32,
     "worst_rank": 154,
-    "avg_rank": 92.3,
+    "avg_rank": 92.33,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "finland.png"
     },
     "home_matches": 230,
-    "away_matches": 254,
+    "away_matches": 255,
     "neutral_matches": 54,
     "first_match_date": "1920-10-17",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
+      "rating1": 4814,
       "rating2": 4926,
       "rating_ev": 0,
-      "rank": 103,
-      "win_prob": 51.2,
+      "rank": 107,
+      "win_prob": 48.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Rwanda",
       "flag1": "estonia.png",
       "flag2": "rwanda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4837,
-      "rating2": 4821,
-      "rating_ev": 0,
-      "rank": 103,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4814,
+      "rating2": 4844,
+      "rating_ev": -23,
+      "rank": 107,
       "win_prob": 40.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

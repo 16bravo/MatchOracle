@@ -1,18 +1,18 @@
 {
   "team": "Belize",
   "stats": {
-    "matches_played": 130,
+    "matches_played": 131,
     "wins": 34,
     "draws": 23,
-    "losses": 73,
-    "goals_for": 144,
-    "goals_against": 244,
-    "goal_difference": -100,
-    "win_percentage": 26.2,
-    "avg_points": 0.96,
+    "losses": 74,
+    "goals_for": 145,
+    "goals_against": 247,
+    "goal_difference": -102,
+    "win_percentage": 26.0,
+    "avg_points": 0.95,
     "best_rank": 60,
     "worst_rank": 179,
-    "avg_rank": 160.08,
+    "avg_rank": 160.18,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Nicaragua",
@@ -27,14 +27,14 @@
     },
     "home_matches": 43,
     "away_matches": 45,
-    "neutral_matches": 42,
+    "neutral_matches": 43,
     "first_match_date": "1928-02-19",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
       "date": "2026-03-30",
-      "country": "Dominican Rep",
+      "country": "Dominican Republic",
       "tournament": "CONCACAF Series",
       "team1": "Belize",
       "team2": "Guyana",
@@ -42,14 +42,14 @@
       "original_team2": "Guyana",
       "flag1": "belize.png",
       "flag2": "guyana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4342,
-      "rating2": 4607,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4330,
+      "rating2": 4619,
+      "rating_ev": -12,
       "rank": 174,
       "win_prob": 23.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

@@ -1,18 +1,18 @@
 {
   "team": "Finland",
   "stats": {
-    "matches_played": 822,
+    "matches_played": 823,
     "wins": 217,
-    "draws": 166,
+    "draws": 167,
     "losses": 439,
-    "goals_for": 970,
-    "goals_against": 1692,
+    "goals_for": 971,
+    "goals_against": 1693,
     "goal_difference": -722,
     "win_percentage": 26.4,
     "avg_points": 0.99,
     "best_rank": 19,
     "worst_rank": 97,
-    "avg_rank": 51.23,
+    "avg_rank": 51.25,
     "biggest_win": {
       "score": "10-2",
       "opponent": "Estonia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 337,
     "away_matches": 428,
-    "neutral_matches": 57,
+    "neutral_matches": 58,
     "first_match_date": "1911-10-22",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -44,7 +44,7 @@
       "flag2": "hungary.png",
       "score1": "",
       "score2": "",
-      "rating1": 5003,
+      "rating1": 5002,
       "rating2": 5179,
       "rating_ev": 0,
       "rank": 72,
@@ -63,11 +63,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5003,
-      "rating2": 5543,
+      "rating1": 5002,
+      "rating2": 5532,
       "rating_ev": 0,
       "rank": 72,
-      "win_prob": 6.1,
+      "win_prob": 6.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Cape Verde",
       "flag1": "finland.png",
       "flag2": "cape_verde.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5003,
-      "rating2": 4986,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5002,
+      "rating2": 4987,
+      "rating_ev": -1,
       "rank": 72,
       "win_prob": 51.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

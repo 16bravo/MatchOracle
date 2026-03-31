@@ -1,18 +1,18 @@
 {
   "team": "Moldova",
   "stats": {
-    "matches_played": 298,
+    "matches_played": 299,
     "wins": 59,
     "draws": 68,
-    "losses": 171,
-    "goals_for": 240,
-    "goals_against": 517,
-    "goal_difference": -277,
-    "win_percentage": 19.8,
+    "losses": 172,
+    "goals_for": 242,
+    "goals_against": 520,
+    "goal_difference": -278,
+    "win_percentage": 19.7,
     "avg_points": 0.82,
     "best_rank": 74,
     "worst_rank": 144,
-    "avg_rank": 102.94,
+    "avg_rank": 103.07,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Pakistan",
@@ -26,10 +26,10 @@
       "flag": "norway.png"
     },
     "home_matches": 113,
-    "away_matches": 144,
+    "away_matches": 145,
     "neutral_matches": 41,
     "first_match_date": "1991-07-02",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4683,
+      "rating1": 4682,
       "rating2": 4789,
       "rating_ev": 0,
       "rank": 141,
-      "win_prob": 28.8,
+      "win_prob": 28.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Cyprus",
       "flag1": "moldova.png",
       "flag2": "cyprus.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4683,
-      "rating2": 4796,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4682,
+      "rating2": 4797,
+      "rating_ev": -1,
       "rank": 141,
       "win_prob": 28.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

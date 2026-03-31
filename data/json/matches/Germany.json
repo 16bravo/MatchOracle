@@ -1,13 +1,13 @@
 {
   "team": "Germany",
   "stats": {
-    "matches_played": 1039,
-    "wins": 598,
+    "matches_played": 1040,
+    "wins": 599,
     "draws": 217,
     "losses": 224,
-    "goals_for": 2329,
-    "goals_against": 1225,
-    "goal_difference": 1104,
+    "goals_for": 2331,
+    "goals_against": 1226,
+    "goal_difference": 1105,
     "win_percentage": 57.6,
     "avg_points": 1.94,
     "best_rank": 1,
@@ -25,11 +25,11 @@
       "date": "1909-03-13",
       "flag": "england.png"
     },
-    "home_matches": 309,
+    "home_matches": 310,
     "away_matches": 413,
     "neutral_matches": 317,
     "first_match_date": "1908-04-05",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5543,
+      "rating1": 5532,
       "rating2": 5415,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 63.7,
+      "rank": 8,
+      "win_prob": 62.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5543,
+      "rating1": 5532,
       "rating2": 5158,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 84.1,
+      "rank": 8,
+      "win_prob": 83.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5543,
+      "rating1": 5532,
       "rating2": 4863,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 94.5,
+      "rank": 8,
+      "win_prob": 94.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5543,
+      "rating1": 5532,
       "rating2": 5224,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 72.1,
+      "rank": 8,
+      "win_prob": 71.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5543,
-      "rating2": 5003,
+      "rating1": 5532,
+      "rating2": 5002,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 93.9,
+      "rank": 8,
+      "win_prob": 93.7,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Ghana",
       "flag1": "germany.png",
       "flag2": "ghana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5543,
-      "rating2": 5037,
-      "rating_ev": 0,
-      "rank": 7,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5532,
+      "rating2": 5048,
+      "rating_ev": -11,
+      "rank": 8,
       "win_prob": 93.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

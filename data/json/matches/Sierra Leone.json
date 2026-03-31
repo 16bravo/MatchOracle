@@ -1,18 +1,18 @@
 {
   "team": "Sierra Leone",
   "stats": {
-    "matches_played": 325,
+    "matches_played": 326,
     "wins": 93,
-    "draws": 86,
+    "draws": 87,
     "losses": 146,
-    "goals_for": 308,
-    "goals_against": 454,
+    "goals_for": 309,
+    "goals_against": 455,
     "goal_difference": -146,
-    "win_percentage": 28.6,
+    "win_percentage": 28.5,
     "avg_points": 1.12,
     "best_rank": 53,
     "worst_rank": 146,
-    "avg_rank": 99.18,
+    "avg_rank": 99.21,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Niger",
@@ -26,10 +26,10 @@
       "flag": "mali.png"
     },
     "home_matches": 110,
-    "away_matches": 127,
+    "away_matches": 128,
     "neutral_matches": 88,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2025-10-12"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Azerbaijan",
       "flag1": "sierra_leone.png",
       "flag2": "azerbaijan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4805,
-      "rating2": 4816,
-      "rating_ev": 0,
-      "rank": 113,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4811,
+      "rating2": 4810,
+      "rating_ev": 6,
+      "rank": 109,
       "win_prob": 38.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-10-12",

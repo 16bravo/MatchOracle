@@ -1,18 +1,18 @@
 {
   "team": "Trinidad and Tobago",
   "stats": {
-    "matches_played": 867,
+    "matches_played": 868,
     "wins": 376,
-    "draws": 191,
+    "draws": 192,
     "losses": 300,
-    "goals_for": 1450,
-    "goals_against": 1105,
+    "goals_for": 1452,
+    "goals_against": 1107,
     "goal_difference": 345,
-    "win_percentage": 43.4,
+    "win_percentage": 43.3,
     "avg_points": 1.52,
     "best_rank": 14,
     "worst_rank": 142,
-    "avg_rank": 87.56,
+    "avg_rank": 87.6,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 345,
     "away_matches": 361,
-    "neutral_matches": 161,
+    "neutral_matches": 162,
     "first_match_date": "1905-07-21",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-30"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Gabon",
       "flag1": "trinidad.png",
       "flag2": "gabon.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4733,
-      "rating2": 4875,
-      "rating_ev": 0,
-      "rank": 130,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4741,
+      "rating2": 4867,
+      "rating_ev": 8,
+      "rank": 128,
       "win_prob": 34.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",
