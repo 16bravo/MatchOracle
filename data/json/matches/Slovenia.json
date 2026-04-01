@@ -1,18 +1,18 @@
 {
   "team": "Slovenia",
   "stats": {
-    "matches_played": 315,
-    "wins": 114,
+    "matches_played": 316,
+    "wins": 115,
     "draws": 85,
     "losses": 116,
-    "goals_for": 389,
-    "goals_against": 367,
-    "goal_difference": 22,
-    "win_percentage": 36.2,
+    "goals_for": 392,
+    "goals_against": 369,
+    "goal_difference": 23,
+    "win_percentage": 36.4,
     "avg_points": 1.36,
     "best_rank": 24,
     "worst_rank": 69,
-    "avg_rank": 46.13,
+    "avg_rank": 46.12,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Oman",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 142,
-    "away_matches": 143,
+    "away_matches": 144,
     "neutral_matches": 30,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5179,
-      "rating2": 5424,
+      "rating1": 5181,
+      "rating2": 5412,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 18.1,
+      "rank": 44,
+      "win_prob": 19.0,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Montenegro",
       "flag1": "slovenia.png",
       "flag2": "montenegro.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5179,
-      "rating2": 4909,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 2,
+      "rating1": 5181,
+      "rating2": 4907,
+      "rating_ev": 2,
       "rank": 43,
       "win_prob": 67.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

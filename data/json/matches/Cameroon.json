@@ -1,18 +1,18 @@
 {
   "team": "Cameroon",
   "stats": {
-    "matches_played": 655,
-    "wins": 285,
+    "matches_played": 656,
+    "wins": 286,
     "draws": 199,
     "losses": 171,
-    "goals_for": 944,
+    "goals_for": 946,
     "goals_against": 708,
-    "goal_difference": 236,
-    "win_percentage": 43.5,
+    "goal_difference": 238,
+    "win_percentage": 43.6,
     "avg_points": 1.61,
     "best_rank": 23,
     "worst_rank": 80,
-    "avg_rank": 52.99,
+    "avg_rank": 53.01,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Chad",
@@ -27,9 +27,9 @@
     },
     "home_matches": 184,
     "away_matches": 242,
-    "neutral_matches": 229,
+    "neutral_matches": 230,
     "first_match_date": "1953-09-30",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "China",
       "flag1": "cameroon.png",
       "flag2": "china.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5051,
-      "rating2": 4807,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5064,
+      "rating2": 4794,
+      "rating_ev": 13,
       "rank": 67,
       "win_prob": 74.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

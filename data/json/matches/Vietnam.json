@@ -1,18 +1,18 @@
 {
   "team": "Vietnam",
   "stats": {
-    "matches_played": 518,
-    "wins": 217,
+    "matches_played": 519,
+    "wins": 218,
     "draws": 102,
     "losses": 199,
-    "goals_for": 908,
-    "goals_against": 768,
-    "goal_difference": 140,
-    "win_percentage": 41.9,
-    "avg_points": 1.45,
+    "goals_for": 911,
+    "goals_against": 769,
+    "goal_difference": 142,
+    "win_percentage": 42.0,
+    "avg_points": 1.46,
     "best_rank": 62,
     "worst_rank": 172,
-    "avg_rank": 122.15,
+    "avg_rank": 122.2,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "1971-05-02",
       "flag": "indonesia.png"
     },
-    "home_matches": 121,
+    "home_matches": 122,
     "away_matches": 127,
     "neutral_matches": 270,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cambodia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4639,
+      "rating1": 4659,
       "rating2": 4170,
       "rating_ev": 0,
-      "rank": 149,
-      "win_prob": 92.1,
+      "rank": 146,
+      "win_prob": 92.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "indonesia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4639,
+      "rating1": 4659,
       "rating2": 4680,
       "rating_ev": 0,
-      "rank": 149,
-      "win_prob": 35.0,
+      "rank": 146,
+      "win_prob": 37.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4639,
-      "rating2": 4392,
+      "rating1": 4659,
+      "rating2": 4391,
       "rating_ev": 0,
-      "rank": 149,
-      "win_prob": 82.0,
+      "rank": 146,
+      "win_prob": 83.3,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Malaysia",
       "flag1": "vietnam.png",
       "flag2": "malaysia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4639,
-      "rating2": 4600,
-      "rating_ev": 0,
-      "rank": 149,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4659,
+      "rating2": 4580,
+      "rating_ev": 20,
+      "rank": 146,
       "win_prob": 64.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

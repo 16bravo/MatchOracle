@@ -1,18 +1,18 @@
 {
   "team": "Madagascar",
   "stats": {
-    "matches_played": 342,
+    "matches_played": 343,
     "wins": 130,
-    "draws": 73,
+    "draws": 74,
     "losses": 139,
-    "goals_for": 473,
-    "goals_against": 516,
+    "goals_for": 474,
+    "goals_against": 517,
     "goal_difference": -43,
-    "win_percentage": 38.0,
+    "win_percentage": 37.9,
     "avg_points": 1.35,
     "best_rank": 68,
     "worst_rank": 158,
-    "avg_rank": 107.29,
+    "avg_rank": 107.27,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Congo",
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 117,
-    "neutral_matches": 109,
+    "neutral_matches": 110,
     "first_match_date": "1947-12-31",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Equatorial Guinea",
       "flag1": "madagascar.png",
       "flag2": "eq_guinea.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 1,
       "rating1": 4837,
       "rating2": 4823,
       "rating_ev": 0,
-      "rank": 104,
+      "rank": 101,
       "win_prob": 51.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

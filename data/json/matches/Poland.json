@@ -1,18 +1,18 @@
 {
   "team": "Poland",
   "stats": {
-    "matches_played": 916,
+    "matches_played": 917,
     "wins": 399,
     "draws": 224,
-    "losses": 293,
-    "goals_for": 1556,
-    "goals_against": 1232,
-    "goal_difference": 324,
-    "win_percentage": 43.6,
+    "losses": 294,
+    "goals_for": 1558,
+    "goals_against": 1235,
+    "goal_difference": 323,
+    "win_percentage": 43.5,
     "avg_points": 1.55,
     "best_rank": 1,
     "worst_rank": 48,
-    "avg_rank": 24.2,
+    "avg_rank": 24.21,
     "biggest_win": {
       "score": "10-0",
       "opponent": "San Marino",
@@ -26,10 +26,10 @@
       "flag": "denmark.png"
     },
     "home_matches": 395,
-    "away_matches": 406,
+    "away_matches": 407,
     "neutral_matches": 115,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Sweden",
       "flag1": "poland.png",
       "flag2": "sweden.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5227,
-      "rating2": 5214,
-      "rating_ev": 0,
-      "rank": 31,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 5218,
+      "rating2": 5223,
+      "rating_ev": -9,
+      "rank": 34,
       "win_prob": 40.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

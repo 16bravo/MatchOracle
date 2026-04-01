@@ -1,14 +1,14 @@
 {
   "team": "Austria",
   "stats": {
-    "matches_played": 862,
-    "wins": 369,
+    "matches_played": 863,
+    "wins": 370,
     "draws": 183,
     "losses": 310,
-    "goals_for": 1554,
+    "goals_for": 1555,
     "goals_against": 1316,
-    "goal_difference": 238,
-    "win_percentage": 42.8,
+    "goal_difference": 239,
+    "win_percentage": 42.9,
     "avg_points": 1.5,
     "best_rank": 3,
     "worst_rank": 63,
@@ -25,11 +25,11 @@
       "date": "1908-06-08",
       "flag": "england.png"
     },
-    "home_matches": 429,
+    "home_matches": 430,
     "away_matches": 382,
     "neutral_matches": 51,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5371,
-      "rating2": 5240,
+      "rating1": 5369,
+      "rating2": 5244,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 64.0,
+      "win_prob": 63.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5371,
-      "rating2": 5589,
+      "rating1": 5369,
+      "rating2": 5598,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 27.8,
+      "win_prob": 26.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5371,
-      "rating2": 5121,
+      "rating1": 5369,
+      "rating2": 5126,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 74.9,
+      "win_prob": 74.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5371,
+      "rating1": 5369,
       "rating2": 5099,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 83.6,
+      "win_prob": 83.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "South Korea",
       "flag1": "austria.png",
       "flag2": "south_korea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5371,
-      "rating2": 5175,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5369,
+      "rating2": 5177,
+      "rating_ev": -2,
       "rank": 20,
       "win_prob": 78.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

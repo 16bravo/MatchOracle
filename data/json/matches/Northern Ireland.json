@@ -1,18 +1,18 @@
 {
   "team": "Northern Ireland",
   "stats": {
-    "matches_played": 610,
+    "matches_played": 611,
     "wins": 171,
-    "draws": 148,
+    "draws": 149,
     "losses": 291,
-    "goals_for": 637,
-    "goals_against": 922,
+    "goals_for": 638,
+    "goals_against": 923,
     "goal_difference": -285,
     "win_percentage": 28.0,
     "avg_points": 1.08,
     "best_rank": 13,
     "worst_rank": 96,
-    "avg_rank": 39.51,
+    "avg_rank": 39.54,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Wales",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 277,
-    "away_matches": 297,
+    "away_matches": 298,
     "neutral_matches": 36,
     "first_match_date": "1921-02-26",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Wales",
       "flag1": "northern_ireland.png",
       "flag2": "wales.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5115,
-      "rating2": 5207,
-      "rating_ev": 0,
-      "rank": 56,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5121,
+      "rating2": 5201,
+      "rating_ev": 6,
+      "rank": 53,
       "win_prob": 30.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

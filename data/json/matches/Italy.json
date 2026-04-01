@@ -1,18 +1,18 @@
 {
   "team": "Italy",
   "stats": {
-    "matches_played": 901,
+    "matches_played": 902,
     "wins": 480,
-    "draws": 244,
+    "draws": 245,
     "losses": 177,
-    "goals_for": 1580,
-    "goals_against": 893,
+    "goals_for": 1581,
+    "goals_against": 894,
     "goal_difference": 687,
-    "win_percentage": 53.3,
+    "win_percentage": 53.2,
     "avg_points": 1.87,
     "best_rank": 1,
     "worst_rank": 26,
-    "avg_rank": 9.63,
+    "avg_rank": 9.65,
     "biggest_win": {
       "score": "10-0",
       "opponent": "United States",
@@ -26,10 +26,10 @@
       "flag": "hungary_2.png"
     },
     "home_matches": 407,
-    "away_matches": 323,
+    "away_matches": 324,
     "neutral_matches": 171,
     "first_match_date": "1910-05-15",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,12 +44,31 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5386,
-      "rating2": 5240,
+      "rating1": 5373,
+      "rating2": 5244,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 65.5,
+      "rank": 19,
+      "win_prob": 63.8,
       "type": "fixture"
+    },
+    {
+      "date": "2026-03-31",
+      "country": "Bosnia and Herzegovina",
+      "tournament": "World Cup qualifier",
+      "team1": "Italy",
+      "team2": "Bosnia and Herzegovina",
+      "original_team1": "Italy",
+      "original_team2": "Bosnia and Herzegovina",
+      "flag1": "italy.png",
+      "flag2": "bosnia.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5373,
+      "rating2": 5080,
+      "rating_ev": -13,
+      "rank": 19,
+      "win_prob": 72.1,
+      "type": "past"
     },
     {
       "date": "2026-03-26",

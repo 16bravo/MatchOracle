@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 597,
+    "matches_played": 598,
     "wins": 183,
-    "draws": 160,
+    "draws": 161,
     "losses": 254,
-    "goals_for": 718,
-    "goals_against": 902,
+    "goals_for": 719,
+    "goals_against": 903,
     "goal_difference": -184,
-    "win_percentage": 30.7,
+    "win_percentage": 30.6,
     "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 34.87,
+    "avg_rank": 34.83,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 183,
-    "away_matches": 210,
+    "away_matches": 211,
     "neutral_matches": 204,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5415,
+      "rating1": 5422,
       "rating2": 5532,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 37.4,
+      "rank": 14,
+      "win_prob": 38.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5415,
-      "rating2": 4863,
+      "rating1": 5422,
+      "rating2": 4837,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 91.3,
+      "rank": 14,
+      "win_prob": 92.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5415,
-      "rating2": 5158,
+      "rating1": 5422,
+      "rating2": 5169,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 75.5,
+      "rank": 14,
+      "win_prob": 75.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Netherlands",
       "flag1": "ecuador.png",
       "flag2": "netherlands.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5415,
-      "rating2": 5545,
-      "rating_ev": 0,
-      "rank": 15,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5422,
+      "rating2": 5538,
+      "rating_ev": 7,
+      "rank": 14,
       "win_prob": 26.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

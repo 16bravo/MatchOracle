@@ -1,18 +1,18 @@
 {
   "team": "Chad",
   "stats": {
-    "matches_played": 180,
+    "matches_played": 181,
     "wins": 34,
     "draws": 41,
-    "losses": 105,
+    "losses": 106,
     "goals_for": 160,
-    "goals_against": 334,
-    "goal_difference": -174,
-    "win_percentage": 18.9,
+    "goals_against": 338,
+    "goal_difference": -178,
+    "win_percentage": 18.8,
     "avg_points": 0.79,
     "best_rank": 104,
-    "worst_rank": 161,
-    "avg_rank": 132.14,
+    "worst_rank": 162,
+    "avg_rank": 132.3,
     "biggest_win": {
       "score": "5-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -26,30 +26,30 @@
       "flag": "congo.png"
     },
     "home_matches": 44,
-    "away_matches": 58,
+    "away_matches": 59,
     "neutral_matches": 78,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
       "date": "2026-03-31",
       "country": "Burundi",
-      "tournament": "African Cup qualifier",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Chad",
       "team2": "Burundi",
       "original_team1": "Chad",
       "original_team2": "Burundi",
       "flag1": "chad.png",
       "flag2": "burundi.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4542,
-      "rating2": 4804,
-      "rating_ev": 0,
-      "rank": 160,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4510,
+      "rating2": 4836,
+      "rating_ev": -32,
+      "rank": 162,
       "win_prob": 17.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

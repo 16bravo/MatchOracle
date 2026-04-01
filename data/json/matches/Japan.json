@@ -1,18 +1,18 @@
 {
   "team": "Japan",
   "stats": {
-    "matches_played": 828,
-    "wins": 406,
+    "matches_played": 829,
+    "wins": 407,
     "draws": 168,
     "losses": 254,
-    "goals_for": 1503,
+    "goals_for": 1504,
     "goals_against": 973,
-    "goal_difference": 530,
-    "win_percentage": 49.0,
-    "avg_points": 1.67,
+    "goal_difference": 531,
+    "win_percentage": 49.1,
+    "avg_points": 1.68,
     "best_rank": 10,
     "worst_rank": 122,
-    "avg_rank": 50.8,
+    "avg_rank": 50.76,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Philippines",
@@ -26,12 +26,31 @@
       "flag": "usa_1912.png"
     },
     "home_matches": 330,
-    "away_matches": 200,
+    "away_matches": 201,
     "neutral_matches": 298,
     "first_match_date": "1917-05-09",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
+    {
+      "date": "2026-06-25",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Japan",
+      "team2": "Sweden",
+      "original_team1": "Japan",
+      "original_team2": "Sweden",
+      "flag1": "japan.png",
+      "flag2": "sweden.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5443,
+      "rating2": 5223,
+      "rating_ev": 0,
+      "rank": 12,
+      "win_prob": 72.4,
+      "type": "fixture"
+    },
     {
       "date": "2026-06-20",
       "country": "Mexico",
@@ -44,11 +63,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5429,
+      "rating1": 5443,
       "rating2": 5099,
       "rating_ev": 0,
-      "rank": 13,
-      "win_prob": 80.8,
+      "rank": 12,
+      "win_prob": 81.7,
       "type": "fixture"
     },
     {
@@ -63,11 +82,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5429,
-      "rating2": 5545,
+      "rating1": 5443,
+      "rating2": 5538,
       "rating_ev": 0,
-      "rank": 13,
-      "win_prob": 37.5,
+      "rank": 12,
+      "win_prob": 39.7,
       "type": "fixture"
     },
     {
@@ -82,11 +101,11 @@
       "flag2": "iceland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5429,
-      "rating2": 5108,
+      "rating1": 5443,
+      "rating2": 5100,
       "rating_ev": 0,
-      "rank": 13,
-      "win_prob": 86.2,
+      "rank": 12,
+      "win_prob": 87.3,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "England",
       "flag1": "japan.png",
       "flag2": "england.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5429,
-      "rating2": 5576,
-      "rating_ev": 0,
-      "rank": 13,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5443,
+      "rating2": 5562,
+      "rating_ev": 14,
+      "rank": 12,
       "win_prob": 25.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

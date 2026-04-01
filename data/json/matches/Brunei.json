@@ -1,18 +1,18 @@
 {
   "team": "Brunei",
   "stats": {
-    "matches_played": 150,
+    "matches_played": 151,
     "wins": 27,
     "draws": 13,
-    "losses": 110,
-    "goals_for": 118,
-    "goals_against": 483,
-    "goal_difference": -365,
-    "win_percentage": 18.0,
-    "avg_points": 0.63,
+    "losses": 111,
+    "goals_for": 119,
+    "goals_against": 485,
+    "goal_difference": -366,
+    "win_percentage": 17.9,
+    "avg_points": 0.62,
     "best_rank": 168,
     "worst_rank": 212,
-    "avg_rank": 196.06,
+    "avg_rank": 196.15,
     "biggest_win": {
       "score": "4-0",
       "opponent": "East Timor",
@@ -27,9 +27,9 @@
     },
     "home_matches": 29,
     "away_matches": 42,
-    "neutral_matches": 79,
+    "neutral_matches": 80,
     "first_match_date": "1971-05-22",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 3660,
-      "rating2": 3809,
+      "rating1": 3648,
+      "rating2": 3821,
       "rating_ev": 0,
       "rank": 210,
-      "win_prob": 34.2,
+      "win_prob": 31.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 3660,
-      "rating2": 3809,
+      "rating1": 3648,
+      "rating2": 3821,
       "rating_ev": 0,
       "rank": 210,
-      "win_prob": 44.6,
+      "win_prob": 42.0,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Bhutan",
       "flag1": "brunei.png",
       "flag2": "bhutan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3660,
-      "rating2": 3698,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 3648,
+      "rating2": 3710,
+      "rating_ev": -12,
       "rank": 210,
       "win_prob": 45.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

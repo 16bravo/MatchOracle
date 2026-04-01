@@ -1,15 +1,15 @@
 {
   "team": "Somalia",
   "stats": {
-    "matches_played": 146,
+    "matches_played": 147,
     "wins": 16,
-    "draws": 21,
+    "draws": 22,
     "losses": 109,
     "goals_for": 76,
     "goals_against": 362,
     "goal_difference": -286,
-    "win_percentage": 11.0,
-    "avg_points": 0.47,
+    "win_percentage": 10.9,
+    "avg_points": 0.48,
     "best_rank": 109,
     "worst_rank": 193,
     "avg_rank": 161.38,
@@ -26,30 +26,30 @@
       "flag": "north_korea.png"
     },
     "home_matches": 10,
-    "away_matches": 44,
+    "away_matches": 45,
     "neutral_matches": 92,
     "first_match_date": "1963-11-14",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
       "date": "2026-03-31",
       "country": "Mauritius",
-      "tournament": "African Cup qualifier",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Somalia",
       "team2": "Mauritius",
       "original_team1": "Somalia",
       "original_team2": "Mauritius",
       "flag1": "somalia.png",
       "flag2": "mauritius.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4500,
-      "rating2": 4603,
-      "rating_ev": 0,
-      "rank": 163,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4512,
+      "rating2": 4591,
+      "rating_ev": 12,
+      "rank": 162,
       "win_prob": 29.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

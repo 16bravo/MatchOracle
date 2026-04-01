@@ -1,15 +1,15 @@
 {
   "team": "South Korea",
   "stats": {
-    "matches_played": 1049,
+    "matches_played": 1050,
     "wins": 574,
     "draws": 257,
-    "losses": 218,
+    "losses": 219,
     "goals_for": 1909,
-    "goals_against": 957,
-    "goal_difference": 952,
+    "goals_against": 958,
+    "goal_difference": 951,
     "win_percentage": 54.7,
-    "avg_points": 1.89,
+    "avg_points": 1.88,
     "best_rank": 19,
     "worst_rank": 100,
     "avg_rank": 47.2,
@@ -26,10 +26,10 @@
       "flag": "sweden.png"
     },
     "home_matches": 353,
-    "away_matches": 249,
+    "away_matches": 250,
     "neutral_matches": 447,
     "first_match_date": "1942-08-16",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5175,
-      "rating2": 4995,
+      "rating1": 5177,
+      "rating2": 4988,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 68.8,
+      "rank": 46,
+      "win_prob": 69.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,30 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5175,
+      "rating1": 5177,
       "rating2": 5301,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 27.0,
+      "rank": 46,
+      "win_prob": 27.2,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-11",
+      "country": "Mexico",
+      "tournament": "World Cup",
+      "team1": "South Korea",
+      "team2": "Czechia",
+      "original_team1": "South Korea",
+      "original_team2": "Czechia",
+      "flag1": "south_korea.png",
+      "flag2": "czechia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5177,
+      "rating2": 5218,
+      "rating_ev": 0,
+      "rank": 46,
+      "win_prob": 45.5,
       "type": "fixture"
     },
     {
@@ -80,14 +99,14 @@
       "original_team2": "Austria",
       "flag1": "south_korea.png",
       "flag2": "austria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5175,
-      "rating2": 5371,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5177,
+      "rating2": 5369,
+      "rating_ev": 2,
       "rank": 45,
       "win_prob": 21.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

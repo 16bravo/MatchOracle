@@ -1,18 +1,18 @@
 {
   "team": "Benin",
   "stats": {
-    "matches_played": 346,
-    "wins": 87,
+    "matches_played": 347,
+    "wins": 88,
     "draws": 83,
     "losses": 176,
-    "goals_for": 360,
+    "goals_for": 361,
     "goals_against": 604,
-    "goal_difference": -244,
-    "win_percentage": 25.1,
-    "avg_points": 0.99,
+    "goal_difference": -243,
+    "win_percentage": 25.4,
+    "avg_points": 1.0,
     "best_rank": 64,
     "worst_rank": 156,
-    "avg_rank": 106.24,
+    "avg_rank": 106.21,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 104,
     "away_matches": 140,
-    "neutral_matches": 102,
+    "neutral_matches": 103,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Guinea",
       "flag1": "benin.png",
       "flag2": "guinea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4870,
-      "rating2": 4965,
-      "rating_ev": 0,
-      "rank": 95,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4880,
+      "rating2": 4955,
+      "rating_ev": 10,
+      "rank": 94,
       "win_prob": 39.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

@@ -1,18 +1,18 @@
 {
   "team": "Hong Kong",
   "stats": {
-    "matches_played": 512,
+    "matches_played": 513,
     "wins": 181,
     "draws": 100,
-    "losses": 231,
-    "goals_for": 811,
-    "goals_against": 861,
-    "goal_difference": -50,
-    "win_percentage": 35.4,
-    "avg_points": 1.26,
+    "losses": 232,
+    "goals_for": 812,
+    "goals_against": 863,
+    "goal_difference": -51,
+    "win_percentage": 35.3,
+    "avg_points": 1.25,
     "best_rank": 74,
     "worst_rank": 173,
-    "avg_rank": 130.26,
+    "avg_rank": 130.32,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "south_vietnam.png"
     },
     "home_matches": 181,
-    "away_matches": 151,
+    "away_matches": 152,
     "neutral_matches": 180,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cambodia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4521,
+      "rating1": 4510,
       "rating2": 4170,
       "rating_ev": 0,
       "rank": 162,
-      "win_prob": 74.8,
+      "win_prob": 73.9,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "India",
       "flag1": "hong_kong.png",
       "flag2": "india.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4521,
-      "rating2": 4474,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4510,
+      "rating2": 4485,
+      "rating_ev": -11,
       "rank": 162,
       "win_prob": 44.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

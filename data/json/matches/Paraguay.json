@@ -1,14 +1,14 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 788,
+    "matches_played": 789,
     "wins": 277,
     "draws": 209,
-    "losses": 302,
-    "goals_for": 1002,
-    "goals_against": 1113,
-    "goal_difference": -111,
-    "win_percentage": 35.2,
+    "losses": 303,
+    "goals_for": 1003,
+    "goals_against": 1115,
+    "goal_difference": -112,
+    "win_percentage": 35.1,
     "avg_points": 1.32,
     "best_rank": 6,
     "worst_rank": 47,
@@ -27,9 +27,9 @@
     },
     "home_matches": 214,
     "away_matches": 366,
-    "neutral_matches": 208,
+    "neutral_matches": 209,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,30 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5330,
-      "rating2": 5231,
+      "rating1": 5321,
+      "rating2": 5257,
       "rating_ev": 0,
       "rank": 23,
-      "win_prob": 60.7,
+      "win_prob": 57.0,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-19",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Paraguay",
+      "team2": "Turkey",
+      "original_team1": "Paraguay",
+      "original_team2": "Turkey",
+      "flag1": "paraguay.png",
+      "flag2": "turkey.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5321,
+      "rating2": 5381,
+      "rating_ev": 0,
+      "rank": 23,
+      "win_prob": 43.4,
       "type": "fixture"
     },
     {
@@ -63,11 +82,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5330,
-      "rating2": 5224,
+      "rating1": 5321,
+      "rating2": 5217,
       "rating_ev": 0,
       "rank": 23,
-      "win_prob": 50.7,
+      "win_prob": 50.5,
       "type": "fixture"
     },
     {
@@ -80,14 +99,14 @@
       "original_team2": "Morocco",
       "flag1": "paraguay.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5330,
-      "rating2": 5270,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5321,
+      "rating2": 5279,
+      "rating_ev": -9,
       "rank": 23,
       "win_prob": 56.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

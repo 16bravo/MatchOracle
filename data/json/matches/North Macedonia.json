@@ -1,18 +1,18 @@
 {
   "team": "North Macedonia",
   "stats": {
-    "matches_played": 302,
+    "matches_played": 303,
     "wins": 95,
-    "draws": 77,
+    "draws": 78,
     "losses": 130,
     "goals_for": 364,
     "goals_against": 407,
     "goal_difference": -43,
-    "win_percentage": 31.5,
+    "win_percentage": 31.4,
     "avg_points": 1.2,
     "best_rank": 37,
     "worst_rank": 86,
-    "avg_rank": 62.75,
+    "avg_rank": 62.77,
     "biggest_win": {
       "score": "11-1",
       "opponent": "Liechtenstein",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 35,
-    "away_matches": 131,
+    "away_matches": 132,
     "neutral_matches": 136,
     "first_match_date": "1993-10-13",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Ireland",
       "flag1": "macedonia.png",
       "flag2": "ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5014,
-      "rating2": 5170,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5021,
+      "rating2": 5163,
+      "rating_ev": 7,
       "rank": 70,
       "win_prob": 24.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

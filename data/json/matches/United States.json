@@ -1,13 +1,13 @@
 {
   "team": "United States",
   "stats": {
-    "matches_played": 820,
+    "matches_played": 821,
     "wins": 365,
     "draws": 171,
-    "losses": 284,
+    "losses": 285,
     "goals_for": 1243,
-    "goals_against": 1068,
-    "goal_difference": 175,
+    "goals_against": 1070,
+    "goal_difference": 173,
     "win_percentage": 44.5,
     "avg_points": 1.54,
     "best_rank": 12,
@@ -25,13 +25,32 @@
       "date": "1948-08-06",
       "flag": "norway.png"
     },
-    "home_matches": 484,
+    "home_matches": 485,
     "away_matches": 251,
     "neutral_matches": 85,
     "first_match_date": "1916-08-20",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
+    {
+      "date": "2026-06-25",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "United States",
+      "team2": "Turkey",
+      "original_team1": "United States",
+      "original_team2": "Turkey",
+      "flag1": "usa.png",
+      "flag2": "turkey.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5217,
+      "rating2": 5381,
+      "rating_ev": 0,
+      "rank": 35,
+      "win_prob": 43.0,
+      "type": "fixture"
+    },
     {
       "date": "2026-06-19",
       "country": "United States",
@@ -44,11 +63,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5224,
-      "rating2": 5231,
+      "rating1": 5217,
+      "rating2": 5257,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 60.1,
+      "rank": 35,
+      "win_prob": 56.5,
       "type": "fixture"
     },
     {
@@ -63,11 +82,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5224,
-      "rating2": 5330,
+      "rating1": 5217,
+      "rating2": 5321,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 49.3,
+      "rank": 35,
+      "win_prob": 49.5,
       "type": "fixture"
     },
     {
@@ -82,11 +101,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5224,
+      "rating1": 5217,
       "rating2": 5532,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 28.8,
+      "rank": 35,
+      "win_prob": 28.2,
       "type": "fixture"
     },
     {
@@ -101,11 +120,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5224,
+      "rating1": 5217,
       "rating2": 5335,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 48.8,
+      "rank": 35,
+      "win_prob": 48.0,
       "type": "fixture"
     },
     {
@@ -118,14 +137,14 @@
       "original_team2": "Portugal",
       "flag1": "usa.png",
       "flag2": "portugal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5224,
-      "rating2": 5557,
-      "rating_ev": 0,
-      "rank": 32,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5217,
+      "rating2": 5564,
+      "rating_ev": -7,
+      "rank": 36,
       "win_prob": 26.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

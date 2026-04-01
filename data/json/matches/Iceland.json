@@ -1,14 +1,14 @@
 {
   "team": "Iceland",
   "stats": {
-    "matches_played": 522,
+    "matches_played": 523,
     "wins": 158,
-    "draws": 103,
+    "draws": 104,
     "losses": 261,
-    "goals_for": 629,
-    "goals_against": 879,
+    "goals_for": 630,
+    "goals_against": 880,
     "goal_difference": -250,
-    "win_percentage": 30.3,
+    "win_percentage": 30.2,
     "avg_points": 1.11,
     "best_rank": 18,
     "worst_rank": 105,
@@ -27,9 +27,9 @@
     },
     "home_matches": 215,
     "away_matches": 250,
-    "neutral_matches": 57,
+    "neutral_matches": 58,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5108,
-      "rating2": 5429,
+      "rating1": 5100,
+      "rating2": 5443,
       "rating_ev": 0,
-      "rank": 58,
-      "win_prob": 13.8,
+      "rank": 61,
+      "win_prob": 12.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Haiti",
       "flag1": "iceland.png",
       "flag2": "haiti.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5108,
-      "rating2": 4976,
-      "rating_ev": 0,
-      "rank": 58,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5100,
+      "rating2": 4984,
+      "rating_ev": -8,
+      "rank": 61,
       "win_prob": 64.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

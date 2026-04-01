@@ -1,18 +1,18 @@
 {
   "team": "Luxembourg",
   "stats": {
-    "matches_played": 467,
-    "wins": 52,
+    "matches_played": 468,
+    "wins": 53,
     "draws": 61,
     "losses": 354,
-    "goals_for": 302,
+    "goals_for": 305,
     "goals_against": 1213,
-    "goal_difference": -911,
-    "win_percentage": 11.1,
-    "avg_points": 0.46,
+    "goal_difference": -908,
+    "win_percentage": 11.3,
+    "avg_points": 0.47,
     "best_rank": 23,
     "worst_rank": 166,
-    "avg_rank": 103.18,
+    "avg_rank": 103.14,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Afghanistan",
@@ -25,31 +25,31 @@
       "date": "1936-08-04",
       "flag": "germany_1.png"
     },
-    "home_matches": 253,
+    "home_matches": 254,
     "away_matches": 198,
     "neutral_matches": 16,
     "first_match_date": "1911-10-29",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
       "date": "2026-03-31",
       "country": "Luxembourg",
-      "tournament": "European League C/D",
+      "tournament": "European Nations League C/D",
       "team1": "Luxembourg",
       "team2": "Malta",
       "original_team1": "Luxembourg",
       "original_team2": "Malta",
       "flag1": "luxembourg.png",
       "flag2": "malta.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4884,
-      "rating2": 4712,
-      "rating_ev": 0,
-      "rank": 91,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4909,
+      "rating2": 4687,
+      "rating_ev": 25,
+      "rank": 86,
       "win_prob": 76.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

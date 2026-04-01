@@ -1,14 +1,14 @@
 {
   "team": "Denmark",
   "stats": {
-    "matches_played": 902,
+    "matches_played": 903,
     "wins": 420,
-    "draws": 185,
+    "draws": 186,
     "losses": 297,
-    "goals_for": 1656,
-    "goals_against": 1214,
+    "goals_for": 1658,
+    "goals_against": 1216,
     "goal_difference": 442,
-    "win_percentage": 46.6,
+    "win_percentage": 46.5,
     "avg_points": 1.6,
     "best_rank": 1,
     "worst_rank": 49,
@@ -26,10 +26,10 @@
       "flag": "germany_1.png"
     },
     "home_matches": 412,
-    "away_matches": 394,
+    "away_matches": 395,
     "neutral_matches": 96,
     "first_match_date": "1908-10-19",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Czechia",
       "flag1": "denmark.png",
       "flag2": "czechia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5404,
-      "rating2": 5212,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5398,
+      "rating2": 5218,
+      "rating_ev": -6,
       "rank": 16,
       "win_prob": 60.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

@@ -1,18 +1,18 @@
 {
   "team": "Morocco",
   "stats": {
-    "matches_played": 724,
-    "wins": 359,
+    "matches_played": 725,
+    "wins": 360,
     "draws": 202,
     "losses": 163,
-    "goals_for": 1091,
-    "goals_against": 610,
-    "goal_difference": 481,
-    "win_percentage": 49.6,
+    "goals_for": 1093,
+    "goals_against": 611,
+    "goal_difference": 482,
+    "win_percentage": 49.7,
     "avg_points": 1.77,
     "best_rank": 15,
     "worst_rank": 76,
-    "avg_rank": 44.35,
+    "avg_rank": 44.33,
     "biggest_win": {
       "score": "13-1",
       "opponent": "Saudi Arabia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 317,
     "away_matches": 211,
-    "neutral_matches": 196,
+    "neutral_matches": 197,
     "first_match_date": "1957-10-19",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5270,
-      "rating2": 4976,
+      "rating1": 5279,
+      "rating2": 4984,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 78.3,
+      "win_prob": 78.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5270,
-      "rating2": 5291,
+      "rating1": 5279,
+      "rating2": 5280,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 47.7,
+      "win_prob": 49.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5270,
-      "rating2": 5492,
+      "rating1": 5279,
+      "rating2": 5504,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 27.4,
+      "win_prob": 27.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5270,
-      "rating2": 5540,
+      "rating1": 5279,
+      "rating2": 5534,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 23.5,
+      "win_prob": 24.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Paraguay",
       "flag1": "morocco.png",
       "flag2": "paraguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5270,
-      "rating2": 5330,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5279,
+      "rating2": 5321,
+      "rating_ev": 9,
       "rank": 27,
       "win_prob": 43.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

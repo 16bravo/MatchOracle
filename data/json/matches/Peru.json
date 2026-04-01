@@ -1,18 +1,18 @@
 {
   "team": "Peru",
   "stats": {
-    "matches_played": 710,
+    "matches_played": 711,
     "wins": 230,
-    "draws": 175,
+    "draws": 176,
     "losses": 305,
-    "goals_for": 861,
-    "goals_against": 990,
+    "goals_for": 863,
+    "goals_against": 992,
     "goal_difference": -129,
-    "win_percentage": 32.4,
+    "win_percentage": 32.3,
     "avg_points": 1.22,
     "best_rank": 13,
     "worst_rank": 76,
-    "avg_rank": 32.05,
+    "avg_rank": 32.06,
     "biggest_win": {
       "score": "9-1",
       "opponent": "Ecuador",
@@ -27,9 +27,9 @@
     },
     "home_matches": 269,
     "away_matches": 253,
-    "neutral_matches": 188,
+    "neutral_matches": 189,
     "first_match_date": "1927-11-01",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5203,
-      "rating2": 5723,
+      "rating1": 5195,
+      "rating2": 5702,
       "rating_ev": 0,
-      "rank": 38,
-      "win_prob": 9.8,
+      "rank": 40,
+      "win_prob": 10.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Honduras",
       "flag1": "peru.png",
       "flag2": "honduras.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5203,
-      "rating2": 4950,
-      "rating_ev": 0,
-      "rank": 38,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5195,
+      "rating2": 4958,
+      "rating_ev": -8,
+      "rank": 40,
       "win_prob": 75.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

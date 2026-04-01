@@ -1,18 +1,18 @@
 {
   "team": "Equatorial Guinea",
   "stats": {
-    "matches_played": 192,
+    "matches_played": 193,
     "wins": 56,
-    "draws": 43,
+    "draws": 44,
     "losses": 93,
-    "goals_for": 176,
-    "goals_against": 277,
+    "goals_for": 177,
+    "goals_against": 278,
     "goal_difference": -101,
-    "win_percentage": 29.2,
+    "win_percentage": 29.0,
     "avg_points": 1.1,
     "best_rank": 69,
     "worst_rank": 168,
-    "avg_rank": 122.72,
+    "avg_rank": 122.65,
     "biggest_win": {
       "score": "4-0",
       "opponent": "South Sudan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 80,
     "away_matches": 62,
-    "neutral_matches": 50,
+    "neutral_matches": 51,
     "first_match_date": "1975-05-23",
-    "last_match_date": "2026-03-25"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Madagascar",
       "flag1": "eq_guinea.png",
       "flag2": "madagascar.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 1,
       "rating1": 4823,
       "rating2": 4837,
       "rating_ev": 0,
-      "rank": 106,
+      "rank": 108,
       "win_prob": 48.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-25",

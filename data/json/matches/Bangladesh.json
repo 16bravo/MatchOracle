@@ -1,13 +1,13 @@
 {
   "team": "Bangladesh",
   "stats": {
-    "matches_played": 324,
+    "matches_played": 325,
     "wins": 85,
     "draws": 73,
-    "losses": 166,
+    "losses": 167,
     "goals_for": 290,
-    "goals_against": 580,
-    "goal_difference": -290,
+    "goals_against": 581,
+    "goal_difference": -291,
     "win_percentage": 26.2,
     "avg_points": 1.01,
     "best_rank": 144,
@@ -26,14 +26,14 @@
       "flag": "south_korea.png"
     },
     "home_matches": 92,
-    "away_matches": 91,
+    "away_matches": 92,
     "neutral_matches": 141,
     "first_match_date": "1973-07-27",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
-      "date": "2026-06-30",
+      "date": "2026-06-01",
       "country": "Fiji",
       "tournament": "Friendly",
       "team1": "Bangladesh",
@@ -44,11 +44,11 @@
       "flag2": "fiji.png",
       "score1": "",
       "score2": "",
-      "rating1": 4233,
+      "rating1": 4234,
       "rating2": 4178,
       "rating_ev": 0,
       "rank": 180,
-      "win_prob": 45.1,
+      "win_prob": 45.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Singapore",
       "flag1": "bangladesh.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4233,
-      "rating2": 4392,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4234,
+      "rating2": 4391,
+      "rating_ev": 1,
       "rank": 180,
       "win_prob": 24.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

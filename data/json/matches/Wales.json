@@ -1,18 +1,18 @@
 {
   "team": "Wales",
   "stats": {
-    "matches_played": 732,
+    "matches_played": 733,
     "wins": 236,
-    "draws": 165,
+    "draws": 166,
     "losses": 331,
-    "goals_for": 916,
-    "goals_against": 1172,
+    "goals_for": 917,
+    "goals_against": 1173,
     "goal_difference": -256,
     "win_percentage": 32.2,
     "avg_points": 1.19,
     "best_rank": 3,
     "worst_rank": 76,
-    "avg_rank": 24.69,
+    "avg_rank": 24.71,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Ireland",
@@ -25,11 +25,11 @@
       "date": "1878-03-23",
       "flag": "scotland.png"
     },
-    "home_matches": 344,
+    "home_matches": 345,
     "away_matches": 356,
     "neutral_matches": 32,
     "first_match_date": "1876-03-25",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5207,
+      "rating1": 5201,
       "rating2": 5048,
       "rating_ev": 0,
       "rank": 37,
-      "win_prob": 75.7,
+      "win_prob": 75.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Northern Ireland",
       "flag1": "wales.png",
       "flag2": "northern_ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5207,
-      "rating2": 5115,
-      "rating_ev": 0,
-      "rank": 37,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5201,
+      "rating2": 5121,
+      "rating_ev": -6,
+      "rank": 39,
       "win_prob": 69.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

@@ -1,18 +1,18 @@
 {
   "team": "Ukraine",
   "stats": {
-    "matches_played": 332,
-    "wins": 149,
+    "matches_played": 333,
+    "wins": 150,
     "draws": 93,
     "losses": 90,
-    "goals_for": 464,
+    "goals_for": 465,
     "goals_against": 351,
-    "goal_difference": 113,
-    "win_percentage": 44.9,
+    "goal_difference": 114,
+    "win_percentage": 45.0,
     "avg_points": 1.63,
     "best_rank": 10,
     "worst_rank": 61,
-    "avg_rank": 29.23,
+    "avg_rank": 29.24,
     "biggest_win": {
       "score": "9-0",
       "opponent": "San Marino",
@@ -27,9 +27,9 @@
     },
     "home_matches": 131,
     "away_matches": 142,
-    "neutral_matches": 59,
+    "neutral_matches": 60,
     "first_match_date": "1992-04-29",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Albania",
       "flag1": "ukraine.png",
       "flag2": "albania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5218,
-      "rating2": 5146,
-      "rating_ev": 0,
-      "rank": 34,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5223,
+      "rating2": 5141,
+      "rating_ev": 5,
+      "rank": 31,
       "win_prob": 57.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

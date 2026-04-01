@@ -1,18 +1,18 @@
 {
   "team": "Nigeria",
   "stats": {
-    "matches_played": 708,
+    "matches_played": 709,
     "wins": 326,
-    "draws": 203,
+    "draws": 204,
     "losses": 179,
-    "goals_for": 1061,
-    "goals_against": 719,
+    "goals_for": 1063,
+    "goals_against": 721,
     "goal_difference": 342,
     "win_percentage": 46.0,
     "avg_points": 1.67,
     "best_rank": 23,
     "worst_rank": 71,
-    "avg_rank": 46.96,
+    "avg_rank": 46.95,
     "biggest_win": {
       "score": "10-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 235,
     "away_matches": 261,
-    "neutral_matches": 212,
+    "neutral_matches": 213,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Jordan",
       "flag1": "nigeria.png",
       "flag2": "jordan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5203,
-      "rating2": 5121,
-      "rating_ev": 0,
-      "rank": 38,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5198,
+      "rating2": 5126,
+      "rating_ev": -5,
+      "rank": 39,
       "win_prob": 58.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

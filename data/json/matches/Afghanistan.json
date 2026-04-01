@@ -1,18 +1,18 @@
 {
   "team": "Afghanistan",
   "stats": {
-    "matches_played": 163,
+    "matches_played": 164,
     "wins": 36,
     "draws": 39,
-    "losses": 88,
-    "goals_for": 151,
-    "goals_against": 331,
-    "goal_difference": -180,
-    "win_percentage": 22.1,
+    "losses": 89,
+    "goals_for": 152,
+    "goals_against": 336,
+    "goal_difference": -184,
+    "win_percentage": 22.0,
     "avg_points": 0.9,
     "best_rank": 86,
     "worst_rank": 200,
-    "avg_rank": 175.7,
+    "avg_rank": 175.71,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 9,
     "away_matches": 64,
-    "neutral_matches": 90,
+    "neutral_matches": 91,
     "first_match_date": "1941-08-24",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Syria",
       "flag1": "afghanistan.png",
       "flag2": "syria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4308,
-      "rating2": 4907,
-      "rating_ev": 0,
-      "rank": 176,
+      "score1": 1,
+      "score2": 5,
+      "rating1": 4289,
+      "rating2": 4926,
+      "rating_ev": -19,
+      "rank": 177,
       "win_prob": 7.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

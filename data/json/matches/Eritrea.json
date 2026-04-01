@@ -1,18 +1,18 @@
 {
   "team": "Eritrea",
   "stats": {
-    "matches_played": 85,
-    "wins": 16,
+    "matches_played": 86,
+    "wins": 17,
     "draws": 19,
     "losses": 50,
-    "goals_for": 59,
-    "goals_against": 136,
-    "goal_difference": -77,
-    "win_percentage": 18.8,
-    "avg_points": 0.79,
+    "goals_for": 61,
+    "goals_against": 137,
+    "goal_difference": -76,
+    "win_percentage": 19.8,
+    "avg_points": 0.81,
     "best_rank": 118,
     "worst_rank": 163,
-    "avg_rank": 147.18,
+    "avg_rank": 147.24,
     "biggest_win": {
       "score": "3-0",
       "opponent": "Djibouti",
@@ -26,30 +26,30 @@
       "flag": "ghana.png"
     },
     "home_matches": 20,
-    "away_matches": 27,
+    "away_matches": 28,
     "neutral_matches": 38,
     "first_match_date": "1992-06-26",
-    "last_match_date": "2026-03-25"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
       "date": "2026-03-31",
       "country": "Eswatini",
-      "tournament": "African Cup qualifier",
+      "tournament": "African Nations Cup qualifier",
       "team1": "Eritrea",
       "team2": "Eswatini",
       "original_team1": "Eritrea",
       "original_team2": "Eswatini",
       "flag1": "eritrea.png",
       "flag2": "eswatini.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4584,
-      "rating2": 4637,
-      "rating_ev": 0,
-      "rank": 155,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4607,
+      "rating2": 4614,
+      "rating_ev": 23,
+      "rank": 153,
       "win_prob": 33.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-25",

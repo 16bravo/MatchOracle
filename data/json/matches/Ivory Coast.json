@@ -1,14 +1,14 @@
 {
   "team": "Ivory Coast",
   "stats": {
-    "matches_played": 671,
-    "wins": 341,
+    "matches_played": 672,
+    "wins": 342,
     "draws": 170,
     "losses": 160,
-    "goals_for": 1091,
+    "goals_for": 1092,
     "goals_against": 664,
-    "goal_difference": 427,
-    "win_percentage": 50.8,
+    "goal_difference": 428,
+    "win_percentage": 50.9,
     "avg_points": 1.78,
     "best_rank": 11,
     "worst_rank": 80,
@@ -27,9 +27,9 @@
     },
     "home_matches": 230,
     "away_matches": 225,
-    "neutral_matches": 216,
+    "neutral_matches": 217,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5158,
-      "rating2": 4863,
+      "rating1": 5169,
+      "rating2": 4837,
       "rating_ev": 0,
       "rank": 48,
-      "win_prob": 78.4,
+      "win_prob": 80.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5158,
+      "rating1": 5169,
       "rating2": 5532,
       "rating_ev": 0,
       "rank": 48,
-      "win_prob": 16.5,
+      "win_prob": 17.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5158,
-      "rating2": 5415,
+      "rating1": 5169,
+      "rating2": 5422,
       "rating_ev": 0,
       "rank": 48,
-      "win_prob": 24.5,
+      "win_prob": 24.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5158,
+      "rating1": 5169,
       "rating2": 5564,
       "rating_ev": 0,
       "rank": 48,
-      "win_prob": 10.0,
+      "win_prob": 10.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Scotland",
       "flag1": "ivory_coast.png",
       "flag2": "scotland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5158,
-      "rating2": 5291,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5169,
+      "rating2": 5280,
+      "rating_ev": 11,
       "rank": 48,
       "win_prob": 35.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

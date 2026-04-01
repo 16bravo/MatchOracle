@@ -1,14 +1,14 @@
 {
   "team": "Netherlands",
   "stats": {
-    "matches_played": 894,
+    "matches_played": 895,
     "wins": 460,
-    "draws": 195,
+    "draws": 196,
     "losses": 239,
-    "goals_for": 1871,
-    "goals_against": 1133,
+    "goals_for": 1872,
+    "goals_against": 1134,
     "goal_difference": 738,
-    "win_percentage": 51.5,
+    "win_percentage": 51.4,
     "avg_points": 1.76,
     "best_rank": 1,
     "worst_rank": 35,
@@ -25,11 +25,11 @@
       "date": "1907-12-21",
       "flag": "england.png"
     },
-    "home_matches": 423,
+    "home_matches": 424,
     "away_matches": 357,
     "neutral_matches": 114,
     "first_match_date": "1905-04-30",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,30 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5545,
+      "rating1": 5538,
       "rating2": 5099,
       "rating_ev": 0,
       "rank": 6,
-      "win_prob": 87.2,
+      "win_prob": 86.9,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-20",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Netherlands",
+      "team2": "Sweden",
+      "original_team1": "Netherlands",
+      "original_team2": "Sweden",
+      "flag1": "netherlands.png",
+      "flag2": "sweden.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5538,
+      "rating2": 5223,
+      "rating_ev": 0,
+      "rank": 6,
+      "win_prob": 79.8,
       "type": "fixture"
     },
     {
@@ -63,11 +82,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5545,
-      "rating2": 5429,
+      "rating1": 5538,
+      "rating2": 5443,
       "rating_ev": 0,
       "rank": 6,
-      "win_prob": 62.5,
+      "win_prob": 60.3,
       "type": "fixture"
     },
     {
@@ -82,11 +101,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5545,
-      "rating2": 5240,
+      "rating1": 5538,
+      "rating2": 5244,
       "rating_ev": 0,
       "rank": 6,
-      "win_prob": 85.4,
+      "win_prob": 84.8,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "Ecuador",
       "flag1": "netherlands.png",
       "flag2": "ecuador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5545,
-      "rating2": 5415,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5538,
+      "rating2": 5422,
+      "rating_ev": -7,
       "rank": 6,
       "win_prob": 73.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

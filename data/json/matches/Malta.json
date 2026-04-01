@@ -1,18 +1,18 @@
 {
   "team": "Malta",
   "stats": {
-    "matches_played": 453,
+    "matches_played": 454,
     "wins": 64,
     "draws": 77,
-    "losses": 312,
+    "losses": 313,
     "goals_for": 291,
-    "goals_against": 1015,
-    "goal_difference": -724,
+    "goals_against": 1018,
+    "goal_difference": -727,
     "win_percentage": 14.1,
     "avg_points": 0.59,
     "best_rank": 64,
     "worst_rank": 146,
-    "avg_rank": 112.64,
+    "avg_rank": 112.69,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Liechtenstein",
@@ -26,30 +26,30 @@
       "flag": "spain.png"
     },
     "home_matches": 246,
-    "away_matches": 181,
+    "away_matches": 182,
     "neutral_matches": 26,
     "first_match_date": "1957-02-24",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
       "date": "2026-03-31",
       "country": "Luxembourg",
-      "tournament": "European League C/D",
+      "tournament": "European Nations League C/D",
       "team1": "Malta",
       "team2": "Luxembourg",
       "original_team1": "Malta",
       "original_team2": "Luxembourg",
       "flag1": "malta.png",
       "flag2": "luxembourg.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4712,
-      "rating2": 4884,
-      "rating_ev": 0,
-      "rank": 136,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4687,
+      "rating2": 4909,
+      "rating_ev": -25,
+      "rank": 138,
       "win_prob": 23.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

@@ -1,18 +1,18 @@
 {
   "team": "Togo",
   "stats": {
-    "matches_played": 485,
-    "wins": 150,
+    "matches_played": 486,
+    "wins": 151,
     "draws": 127,
     "losses": 208,
-    "goals_for": 523,
+    "goals_for": 524,
     "goals_against": 668,
-    "goal_difference": -145,
-    "win_percentage": 30.9,
+    "goal_difference": -144,
+    "win_percentage": 31.1,
     "avg_points": 1.19,
     "best_rank": 49,
     "worst_rank": 130,
-    "avg_rank": 90.67,
+    "avg_rank": 90.7,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 172,
     "away_matches": 193,
-    "neutral_matches": 120,
+    "neutral_matches": 121,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Niger",
       "flag1": "togo.png",
       "flag2": "niger.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4814,
-      "rating2": 4902,
-      "rating_ev": 0,
-      "rank": 107,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4824,
+      "rating2": 4892,
+      "rating_ev": 10,
+      "rank": 106,
       "win_prob": 40.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

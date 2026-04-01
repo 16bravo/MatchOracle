@@ -1,18 +1,18 @@
 {
   "team": "Kazakhstan",
   "stats": {
-    "matches_played": 267,
-    "wins": 68,
+    "matches_played": 268,
+    "wins": 69,
     "draws": 57,
     "losses": 142,
-    "goals_for": 278,
+    "goals_for": 279,
     "goals_against": 447,
-    "goal_difference": -169,
-    "win_percentage": 25.5,
-    "avg_points": 0.98,
+    "goal_difference": -168,
+    "win_percentage": 25.7,
+    "avg_points": 0.99,
     "best_rank": 72,
     "worst_rank": 116,
-    "avg_rank": 98.69,
+    "avg_rank": 98.66,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Pakistan",
@@ -25,16 +25,16 @@
       "date": "2021-11-13",
       "flag": "france.png"
     },
-    "home_matches": 102,
+    "home_matches": 103,
     "away_matches": 119,
     "neutral_matches": 46,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2026-03-25"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
       "date": "2026-06-09",
-      "country": "Kazakhstan",
+      "country": "Hungary",
       "tournament": "Friendly",
       "team1": "Kazakhstan",
       "team2": "Hungary",
@@ -44,11 +44,11 @@
       "flag2": "hungary.png",
       "score1": "",
       "score2": "",
-      "rating1": 4879,
-      "rating2": 5179,
+      "rating1": 4885,
+      "rating2": 5180,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 29.5,
+      "rank": 91,
+      "win_prob": 15.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4879,
+      "rating1": 4885,
       "rating2": 4789,
       "rating_ev": 0,
-      "rank": 93,
-      "win_prob": 48.9,
+      "rank": 91,
+      "win_prob": 49.6,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Comoros",
       "flag1": "kazakhstan.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4879,
-      "rating2": 4842,
-      "rating_ev": 0,
-      "rank": 93,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4885,
+      "rating2": 4836,
+      "rating_ev": 6,
+      "rank": 90,
       "win_prob": 64.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-25",

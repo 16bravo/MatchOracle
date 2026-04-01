@@ -1,18 +1,18 @@
 {
   "team": "Montenegro",
   "stats": {
-    "matches_played": 165,
+    "matches_played": 166,
     "wins": 56,
     "draws": 41,
-    "losses": 68,
-    "goals_for": 194,
-    "goals_against": 221,
-    "goal_difference": -27,
-    "win_percentage": 33.9,
-    "avg_points": 1.27,
+    "losses": 69,
+    "goals_for": 196,
+    "goals_against": 224,
+    "goal_difference": -28,
+    "win_percentage": 33.7,
+    "avg_points": 1.26,
     "best_rank": 40,
     "worst_rank": 89,
-    "avg_rank": 59.49,
+    "avg_rank": 59.66,
     "biggest_win": {
       "score": "6-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "2019-11-14",
       "flag": "england.png"
     },
-    "home_matches": 86,
+    "home_matches": 87,
     "away_matches": 74,
     "neutral_matches": 5,
     "first_match_date": "2007-03-24",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Slovenia",
       "flag1": "montenegro.png",
       "flag2": "slovenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4909,
-      "rating2": 5179,
-      "rating_ev": 0,
-      "rank": 85,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4907,
+      "rating2": 5181,
+      "rating_ev": -2,
+      "rank": 87,
       "win_prob": 32.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

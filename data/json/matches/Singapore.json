@@ -1,18 +1,18 @@
 {
   "team": "Singapore",
   "stats": {
-    "matches_played": 757,
-    "wins": 235,
+    "matches_played": 758,
+    "wins": 236,
     "draws": 156,
     "losses": 366,
-    "goals_for": 1010,
+    "goals_for": 1011,
     "goals_against": 1367,
-    "goal_difference": -357,
-    "win_percentage": 31.0,
+    "goal_difference": -356,
+    "win_percentage": 31.1,
     "avg_points": 1.14,
     "best_rank": 80,
     "worst_rank": 180,
-    "avg_rank": 137.81,
+    "avg_rank": 137.86,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Laos",
@@ -25,11 +25,11 @@
       "date": "1969-11-09",
       "flag": "burma_1.png"
     },
-    "home_matches": 312,
+    "home_matches": 313,
     "away_matches": 179,
     "neutral_matches": 266,
     "first_match_date": "1948-05-22",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "indonesia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4392,
+      "rating1": 4391,
       "rating2": 4680,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 30.6,
+      "win_prob": 30.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 4392,
-      "rating2": 4639,
+      "rating1": 4391,
+      "rating2": 4659,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 18.0,
+      "win_prob": 16.7,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Bangladesh",
       "flag1": "singapore.png",
       "flag2": "bangladesh.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4392,
-      "rating2": 4233,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4391,
+      "rating2": 4234,
+      "rating_ev": -1,
       "rank": 171,
       "win_prob": 75.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

@@ -1,9 +1,9 @@
 {
   "team": "San Marino",
   "stats": {
-    "matches_played": 225,
+    "matches_played": 226,
     "wins": 3,
-    "draws": 11,
+    "draws": 12,
     "losses": 211,
     "goals_for": 42,
     "goals_against": 891,
@@ -12,7 +12,7 @@
     "avg_points": 0.09,
     "best_rank": 156,
     "worst_rank": 196,
-    "avg_rank": 182.61,
+    "avg_rank": 182.59,
     "biggest_win": {
       "score": "3-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "2006-09-06",
       "flag": "germany.png"
     },
-    "home_matches": 108,
+    "home_matches": 109,
     "away_matches": 110,
     "neutral_matches": 7,
     "first_match_date": "1987-09-16",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Andorra",
       "flag1": "san_marino.png",
       "flag2": "andorra.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4248,
-      "rating2": 4692,
-      "rating_ev": 0,
-      "rank": 179,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4258,
+      "rating2": 4682,
+      "rating_ev": 10,
+      "rank": 178,
       "win_prob": 18.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

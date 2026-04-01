@@ -1,18 +1,18 @@
 {
   "team": "Greece",
   "stats": {
-    "matches_played": 654,
+    "matches_played": 655,
     "wins": 251,
-    "draws": 155,
+    "draws": 156,
     "losses": 248,
     "goals_for": 833,
     "goals_against": 898,
     "goal_difference": -65,
-    "win_percentage": 38.4,
+    "win_percentage": 38.3,
     "avg_points": 1.39,
     "best_rank": 12,
     "worst_rank": 74,
-    "avg_rank": 35.5,
+    "avg_rank": 35.48,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Syria",
@@ -26,10 +26,10 @@
       "flag": "hungary_2.png"
     },
     "home_matches": 298,
-    "away_matches": 294,
+    "away_matches": 295,
     "neutral_matches": 62,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Hungary",
       "flag1": "greece.png",
       "flag2": "hungary.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5301,
-      "rating2": 5179,
-      "rating_ev": 0,
-      "rank": 24,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5300,
+      "rating2": 5180,
+      "rating_ev": -1,
+      "rank": 25,
       "win_prob": 52.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

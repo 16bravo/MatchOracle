@@ -1,14 +1,14 @@
 {
   "team": "Iran",
   "stats": {
-    "matches_played": 676,
-    "wins": 384,
+    "matches_played": 677,
+    "wins": 385,
     "draws": 158,
     "losses": 134,
-    "goals_for": 1280,
+    "goals_for": 1285,
     "goals_against": 530,
-    "goal_difference": 750,
-    "win_percentage": 56.8,
+    "goal_difference": 755,
+    "win_percentage": 56.9,
     "avg_points": 1.94,
     "best_rank": 12,
     "worst_rank": 104,
@@ -27,9 +27,9 @@
     },
     "home_matches": 225,
     "away_matches": 194,
-    "neutral_matches": 257,
+    "neutral_matches": 258,
     "first_match_date": "1941-08-23",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5120,
-      "rating2": 5100,
+      "rating1": 5183,
+      "rating2": 5121,
       "rating_ev": 0,
-      "rank": 54,
-      "win_prob": 52.2,
+      "rank": 42,
+      "win_prob": 56.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5120,
+      "rating1": 5183,
       "rating2": 5465,
       "rating_ev": 0,
-      "rank": 54,
-      "win_prob": 18.3,
+      "rank": 42,
+      "win_prob": 22.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5120,
+      "rating1": 5183,
       "rating2": 5104,
       "rating_ev": 0,
-      "rank": 54,
-      "win_prob": 51.8,
+      "rank": 42,
+      "win_prob": 58.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Costa Rica",
       "flag1": "iran.png",
       "flag2": "costa_rica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5120,
-      "rating2": 5087,
-      "rating_ev": 0,
-      "rank": 54,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 5183,
+      "rating2": 5024,
+      "rating_ev": 63,
+      "rank": 42,
       "win_prob": 53.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

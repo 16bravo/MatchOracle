@@ -1,18 +1,18 @@
 {
   "team": "Australia",
   "stats": {
-    "matches_played": 628,
-    "wins": 325,
+    "matches_played": 629,
+    "wins": 326,
     "draws": 130,
     "losses": 173,
-    "goals_for": 1274,
-    "goals_against": 688,
-    "goal_difference": 586,
+    "goals_for": 1279,
+    "goals_against": 689,
+    "goal_difference": 590,
     "win_percentage": 51.8,
     "avg_points": 1.76,
     "best_rank": 15,
     "worst_rank": 73,
-    "avg_rank": 37.81,
+    "avg_rank": 37.79,
     "biggest_win": {
       "score": "31-0",
       "opponent": "Eastern Samoa",
@@ -25,11 +25,11 @@
       "date": "1956-11-15",
       "flag": "ussr.png"
     },
-    "home_matches": 262,
+    "home_matches": 263,
     "away_matches": 224,
     "neutral_matches": 142,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5231,
-      "rating2": 5330,
+      "rating1": 5257,
+      "rating2": 5321,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 39.3,
+      "rank": 29,
+      "win_prob": 43.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,30 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5231,
-      "rating2": 5224,
+      "rating1": 5257,
+      "rating2": 5217,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 39.9,
+      "rank": 29,
+      "win_prob": 43.5,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-13",
+      "country": "Canada",
+      "tournament": "World Cup",
+      "team1": "Australia",
+      "team2": "Turkey",
+      "original_team1": "Australia",
+      "original_team2": "Turkey",
+      "flag1": "australia.png",
+      "flag2": "turkey.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5257,
+      "rating2": 5381,
+      "rating_ev": 0,
+      "rank": 29,
+      "win_prob": 36.7,
       "type": "fixture"
     },
     {
@@ -82,11 +101,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5231,
+      "rating1": 5257,
       "rating2": 5301,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 42.4,
+      "rank": 29,
+      "win_prob": 45.2,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "Cura\u00e7ao",
       "flag1": "australia.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5231,
-      "rating2": 4863,
-      "rating_ev": 0,
-      "rank": 30,
+      "score1": 5,
+      "score2": 1,
+      "rating1": 5257,
+      "rating2": 4837,
+      "rating_ev": 26,
+      "rank": 29,
       "win_prob": 88.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

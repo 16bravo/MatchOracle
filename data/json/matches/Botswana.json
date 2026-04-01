@@ -1,15 +1,15 @@
 {
   "team": "Botswana",
   "stats": {
-    "matches_played": 354,
-    "wins": 92,
+    "matches_played": 355,
+    "wins": 93,
     "draws": 104,
     "losses": 158,
-    "goals_for": 285,
+    "goals_for": 286,
     "goals_against": 459,
-    "goal_difference": -174,
-    "win_percentage": 26.0,
-    "avg_points": 1.07,
+    "goal_difference": -173,
+    "win_percentage": 26.2,
+    "avg_points": 1.08,
     "best_rank": 102,
     "worst_rank": 175,
     "avg_rank": 131.08,
@@ -25,11 +25,11 @@
       "date": "1968-07-13",
       "flag": "malawi.png"
     },
-    "home_matches": 157,
+    "home_matches": 158,
     "away_matches": 131,
     "neutral_matches": 66,
     "first_match_date": "1968-07-13",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Malawi",
       "flag1": "botswana.png",
       "flag2": "malawi.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4721,
-      "rating2": 4707,
-      "rating_ev": 0,
-      "rank": 133,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4728,
+      "rating2": 4700,
+      "rating_ev": 7,
+      "rank": 132,
       "win_prob": 62.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

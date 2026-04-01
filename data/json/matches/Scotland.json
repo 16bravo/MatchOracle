@@ -1,18 +1,18 @@
 {
   "team": "Scotland",
   "stats": {
-    "matches_played": 864,
+    "matches_played": 865,
     "wins": 410,
     "draws": 187,
-    "losses": 267,
+    "losses": 268,
     "goals_for": 1482,
-    "goals_against": 1066,
-    "goal_difference": 416,
-    "win_percentage": 47.5,
+    "goals_against": 1067,
+    "goal_difference": 415,
+    "win_percentage": 47.4,
     "avg_points": 1.64,
     "best_rank": 1,
     "worst_rank": 62,
-    "avg_rank": 19.14,
+    "avg_rank": 19.15,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Ireland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 402,
     "away_matches": 412,
-    "neutral_matches": 50,
+    "neutral_matches": 51,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5291,
-      "rating2": 5492,
+      "rating1": 5280,
+      "rating2": 5504,
       "rating_ev": 0,
       "rank": 26,
-      "win_prob": 29.3,
+      "win_prob": 27.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5291,
-      "rating2": 5270,
+      "rating1": 5280,
+      "rating2": 5279,
       "rating_ev": 0,
       "rank": 26,
-      "win_prob": 52.3,
+      "win_prob": 50.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5291,
-      "rating2": 4976,
+      "rating1": 5280,
+      "rating2": 4984,
       "rating_ev": 0,
       "rank": 26,
-      "win_prob": 79.8,
+      "win_prob": 78.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5291,
-      "rating2": 4863,
+      "rating1": 5280,
+      "rating2": 4837,
       "rating_ev": 0,
       "rank": 26,
-      "win_prob": 90.8,
+      "win_prob": 91.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Ivory Coast",
       "flag1": "scotland.png",
       "flag2": "ivory_coast.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5291,
-      "rating2": 5158,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5280,
+      "rating2": 5169,
+      "rating_ev": -11,
       "rank": 26,
       "win_prob": 64.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

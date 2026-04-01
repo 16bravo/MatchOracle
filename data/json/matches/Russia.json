@@ -1,9 +1,9 @@
 {
   "team": "Russia",
   "stats": {
-    "matches_played": 773,
+    "matches_played": 774,
     "wins": 403,
-    "draws": 201,
+    "draws": 202,
     "losses": 169,
     "goals_for": 1386,
     "goals_against": 754,
@@ -12,7 +12,7 @@
     "avg_points": 1.82,
     "best_rank": 1,
     "worst_rank": 38,
-    "avg_rank": 13.96,
+    "avg_rank": 13.97,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1912-07-01",
       "flag": "germany_1.png"
     },
-    "home_matches": 162,
+    "home_matches": 163,
     "away_matches": 358,
     "neutral_matches": 253,
     "first_match_date": "1912-06-30",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Mali",
       "flag1": "russia.png",
       "flag2": "mali.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5339,
-      "rating2": 5110,
-      "rating_ev": 0,
-      "rank": 21,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5329,
+      "rating2": 5120,
+      "rating_ev": -10,
+      "rank": 23,
       "win_prob": 80.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

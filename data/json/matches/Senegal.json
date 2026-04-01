@@ -1,18 +1,18 @@
 {
   "team": "Senegal",
   "stats": {
-    "matches_played": 686,
-    "wins": 313,
+    "matches_played": 687,
+    "wins": 314,
     "draws": 190,
     "losses": 183,
-    "goals_for": 948,
-    "goals_against": 642,
-    "goal_difference": 306,
-    "win_percentage": 45.6,
+    "goals_for": 951,
+    "goals_against": 643,
+    "goal_difference": 308,
+    "win_percentage": 45.7,
     "avg_points": 1.65,
     "best_rank": 22,
     "worst_rank": 97,
-    "avg_rank": 58.4,
+    "avg_rank": 58.35,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Mauritania",
@@ -25,11 +25,11 @@
       "date": "1966-03-06",
       "flag": "guinea.png"
     },
-    "home_matches": 215,
+    "home_matches": 216,
     "away_matches": 235,
     "neutral_matches": 236,
     "first_match_date": "1959-12-31",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5335,
-      "rating2": 5540,
+      "rating2": 5534,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 28.9,
+      "rank": 21,
+      "win_prob": 29.5,
       "type": "fixture"
     },
     {
@@ -66,7 +66,7 @@
       "rating1": 5335,
       "rating2": 5564,
       "rating_ev": 0,
-      "rank": 22,
+      "rank": 21,
       "win_prob": 26.8,
       "type": "fixture"
     },
@@ -83,10 +83,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5335,
-      "rating2": 5224,
+      "rating2": 5217,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 51.2,
+      "rank": 21,
+      "win_prob": 52.0,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Gambia",
       "flag1": "senegal.png",
       "flag2": "gambia.png",
-      "score1": "",
-      "score2": "",
+      "score1": 3,
+      "score2": 1,
       "rating1": 5335,
       "rating2": 4947,
       "rating_ev": 0,
       "rank": 22,
       "win_prob": 89.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

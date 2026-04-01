@@ -1,18 +1,18 @@
 {
   "team": "Tajikistan",
   "stats": {
-    "matches_played": 211,
+    "matches_played": 212,
     "wins": 79,
-    "draws": 44,
+    "draws": 45,
     "losses": 88,
-    "goals_for": 300,
-    "goals_against": 307,
+    "goals_for": 301,
+    "goals_against": 308,
     "goal_difference": -7,
-    "win_percentage": 37.4,
+    "win_percentage": 37.3,
     "avg_points": 1.33,
     "best_rank": 83,
     "worst_rank": 165,
-    "avg_rank": 139.79,
+    "avg_rank": 139.83,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "2005-04-10",
       "flag": "iran.png"
     },
-    "home_matches": 54,
+    "home_matches": 55,
     "away_matches": 84,
     "neutral_matches": 73,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Philippines",
       "flag1": "tajikistan.png",
       "flag2": "philippines.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4653,
-      "rating2": 4487,
-      "rating_ev": 0,
-      "rank": 147,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4637,
+      "rating2": 4503,
+      "rating_ev": -16,
+      "rank": 149,
       "win_prob": 76.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

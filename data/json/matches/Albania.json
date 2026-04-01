@@ -1,18 +1,18 @@
 {
   "team": "Albania",
   "stats": {
-    "matches_played": 405,
+    "matches_played": 406,
     "wins": 115,
     "draws": 85,
-    "losses": 205,
+    "losses": 206,
     "goals_for": 389,
-    "goals_against": 598,
-    "goal_difference": -209,
-    "win_percentage": 28.4,
+    "goals_against": 599,
+    "goal_difference": -210,
+    "win_percentage": 28.3,
     "avg_points": 1.06,
     "best_rank": 34,
     "worst_rank": 88,
-    "avg_rank": 60.62,
+    "avg_rank": 60.59,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Vietnam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 189,
     "away_matches": 184,
-    "neutral_matches": 32,
+    "neutral_matches": 33,
     "first_match_date": "1946-10-07",
-    "last_match_date": "2026-03-26"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Ukraine",
       "flag1": "albania.png",
       "flag2": "ukraine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5146,
-      "rating2": 5218,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5141,
+      "rating2": 5223,
+      "rating_ev": -5,
       "rank": 50,
       "win_prob": 42.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-26",

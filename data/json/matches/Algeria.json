@@ -1,18 +1,18 @@
 {
   "team": "Algeria",
   "stats": {
-    "matches_played": 678,
+    "matches_played": 679,
     "wins": 311,
-    "draws": 177,
+    "draws": 178,
     "losses": 190,
     "goals_for": 1050,
     "goals_against": 687,
     "goal_difference": 363,
-    "win_percentage": 45.9,
+    "win_percentage": 45.8,
     "avg_points": 1.64,
     "best_rank": 16,
     "worst_rank": 106,
-    "avg_rank": 53.34,
+    "avg_rank": 53.3,
     "biggest_win": {
       "score": "15-1",
       "opponent": "South Yemen",
@@ -27,9 +27,9 @@
     },
     "home_matches": 254,
     "away_matches": 229,
-    "neutral_matches": 195,
+    "neutral_matches": 196,
     "first_match_date": "1958-05-03",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5240,
-      "rating2": 5371,
+      "rating1": 5244,
+      "rating2": 5369,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 36.0,
+      "rank": 30,
+      "win_prob": 36.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5240,
-      "rating2": 5121,
+      "rating1": 5244,
+      "rating2": 5126,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 62.8,
+      "rank": 30,
+      "win_prob": 62.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5240,
-      "rating2": 5589,
+      "rating1": 5244,
+      "rating2": 5598,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 18.0,
+      "rank": 30,
+      "win_prob": 17.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5240,
-      "rating2": 5386,
+      "rating1": 5244,
+      "rating2": 5373,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 34.5,
+      "rank": 30,
+      "win_prob": 36.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5240,
-      "rating2": 5545,
+      "rating1": 5244,
+      "rating2": 5538,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 14.6,
+      "rank": 30,
+      "win_prob": 15.2,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Uruguay",
       "flag1": "algeria.png",
       "flag2": "uruguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5240,
-      "rating2": 5388,
-      "rating_ev": 0,
-      "rank": 29,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5244,
+      "rating2": 5384,
+      "rating_ev": 4,
+      "rank": 30,
       "win_prob": 34.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

@@ -1,18 +1,18 @@
 {
   "team": "Malaysia",
   "stats": {
-    "matches_played": 919,
+    "matches_played": 920,
     "wins": 356,
     "draws": 208,
-    "losses": 355,
-    "goals_for": 1495,
-    "goals_against": 1346,
-    "goal_difference": 149,
+    "losses": 356,
+    "goals_for": 1496,
+    "goals_against": 1349,
+    "goal_difference": 147,
     "win_percentage": 38.7,
     "avg_points": 1.39,
     "best_rank": 60,
     "worst_rank": 183,
-    "avg_rank": 120.99,
+    "avg_rank": 121.03,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Philippines",
@@ -26,10 +26,10 @@
       "flag": "uae.png"
     },
     "home_matches": 346,
-    "away_matches": 231,
+    "away_matches": 232,
     "neutral_matches": 342,
     "first_match_date": "1948-06-20",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 4600,
-      "rating2": 4487,
+      "rating1": 4580,
+      "rating2": 4503,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 71.8,
+      "rank": 156,
+      "win_prob": 68.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4600,
-      "rating2": 4744,
+      "rating1": 4580,
+      "rating2": 4741,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 25.5,
+      "rank": 156,
+      "win_prob": 24.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "laos.png",
       "score1": "",
       "score2": "",
-      "rating1": 4600,
-      "rating2": 3925,
+      "rating1": 4580,
+      "rating2": 3949,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 96.3,
+      "rank": 156,
+      "win_prob": 95.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4600,
-      "rating2": 4118,
+      "rating1": 4580,
+      "rating2": 4134,
       "rating_ev": 0,
-      "rank": 154,
-      "win_prob": 83.6,
+      "rank": 156,
+      "win_prob": 81.5,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Vietnam",
       "flag1": "malaysia.png",
       "flag2": "vietnam.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4600,
-      "rating2": 4639,
-      "rating_ev": 0,
-      "rank": 154,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4580,
+      "rating2": 4659,
+      "rating_ev": -20,
+      "rank": 156,
       "win_prob": 35.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

@@ -1,18 +1,18 @@
 {
   "team": "Gambia",
   "stats": {
-    "matches_played": 286,
+    "matches_played": 287,
     "wins": 80,
     "draws": 80,
-    "losses": 126,
-    "goals_for": 308,
-    "goals_against": 404,
-    "goal_difference": -96,
-    "win_percentage": 28.0,
-    "avg_points": 1.12,
+    "losses": 127,
+    "goals_for": 309,
+    "goals_against": 407,
+    "goal_difference": -98,
+    "win_percentage": 27.9,
+    "avg_points": 1.11,
     "best_rank": 76,
     "worst_rank": 123,
-    "avg_rank": 99.87,
+    "avg_rank": 99.81,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Seychelles",
@@ -26,10 +26,10 @@
       "flag": "guinea.png"
     },
     "home_matches": 0,
-    "away_matches": 98,
+    "away_matches": 99,
     "neutral_matches": 188,
     "first_match_date": "1953-02-09",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Senegal",
       "flag1": "gambia.png",
       "flag2": "senegal.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 3,
       "rating1": 4947,
       "rating2": 5335,
       "rating_ev": 0,
       "rank": 82,
       "win_prob": 10.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

@@ -1,18 +1,18 @@
 {
   "team": "Honduras",
   "stats": {
-    "matches_played": 666,
+    "matches_played": 667,
     "wins": 263,
-    "draws": 173,
+    "draws": 174,
     "losses": 230,
-    "goals_for": 962,
-    "goals_against": 854,
+    "goals_for": 964,
+    "goals_against": 856,
     "goal_difference": 108,
-    "win_percentage": 39.5,
+    "win_percentage": 39.4,
     "avg_points": 1.44,
     "best_rank": 24,
     "worst_rank": 109,
-    "avg_rank": 62.9,
+    "avg_rank": 62.93,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Nicaragua",
@@ -27,13 +27,13 @@
     },
     "home_matches": 212,
     "away_matches": 217,
-    "neutral_matches": 237,
+    "neutral_matches": 238,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
-      "date": "2026-06-30",
+      "date": "2026-06-01",
       "country": "United States",
       "tournament": "Friendly",
       "team1": "Honduras",
@@ -44,11 +44,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 4950,
-      "rating2": 5589,
+      "rating1": 4958,
+      "rating2": 5598,
       "rating_ev": 0,
-      "rank": 81,
-      "win_prob": 6.4,
+      "rank": 78,
+      "win_prob": 6.3,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Peru",
       "flag1": "honduras.png",
       "flag2": "peru.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4950,
-      "rating2": 5203,
-      "rating_ev": 0,
-      "rank": 81,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4958,
+      "rating2": 5195,
+      "rating_ev": 8,
+      "rank": 78,
       "win_prob": 24.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

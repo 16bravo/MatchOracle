@@ -1,18 +1,18 @@
 {
   "team": "Taiwan",
   "stats": {
-    "matches_played": 336,
+    "matches_played": 337,
     "wins": 95,
     "draws": 51,
-    "losses": 190,
-    "goals_for": 461,
-    "goals_against": 784,
-    "goal_difference": -323,
-    "win_percentage": 28.3,
+    "losses": 191,
+    "goals_for": 462,
+    "goals_against": 787,
+    "goal_difference": -325,
+    "win_percentage": 28.2,
     "avg_points": 1.0,
     "best_rank": 49,
     "worst_rank": 202,
-    "avg_rank": 154.06,
+    "avg_rank": 154.18,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "2006-11-09",
       "flag": "kuwait.png"
     },
-    "home_matches": 93,
+    "home_matches": 94,
     "away_matches": 108,
     "neutral_matches": 135,
     "first_match_date": "1954-05-01",
-    "last_match_date": "2025-11-18"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Sri Lanka",
       "flag1": "taiwan.png",
       "flag2": "sri_lanka.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4138,
-      "rating2": 4034,
-      "rating_ev": 0,
-      "rank": 190,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4099,
+      "rating2": 4073,
+      "rating_ev": -39,
+      "rank": 194,
       "win_prob": 71.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-18",

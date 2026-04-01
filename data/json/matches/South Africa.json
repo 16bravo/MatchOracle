@@ -1,18 +1,18 @@
 {
   "team": "South Africa",
   "stats": {
-    "matches_played": 517,
+    "matches_played": 518,
     "wins": 229,
     "draws": 152,
-    "losses": 136,
-    "goals_for": 708,
-    "goals_against": 527,
-    "goal_difference": 181,
-    "win_percentage": 44.3,
+    "losses": 137,
+    "goals_for": 709,
+    "goals_against": 529,
+    "goal_difference": 180,
+    "win_percentage": 44.2,
     "avg_points": 1.62,
     "best_rank": 13,
     "worst_rank": 98,
-    "avg_rank": 63.08,
+    "avg_rank": 63.1,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1920-07-17",
       "flag": "england.png"
     },
-    "home_matches": 270,
+    "home_matches": 271,
     "away_matches": 158,
     "neutral_matches": 89,
     "first_match_date": "1906-07-09",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,30 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4995,
-      "rating2": 5175,
+      "rating1": 4988,
+      "rating2": 5177,
       "rating_ev": 0,
       "rank": 73,
-      "win_prob": 31.2,
+      "win_prob": 30.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-18",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "South Africa",
+      "team2": "Czechia",
+      "original_team1": "South Africa",
+      "original_team2": "Czechia",
+      "flag1": "south_africa.png",
+      "flag2": "czechia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4988,
+      "rating2": 5218,
+      "rating_ev": 0,
+      "rank": 73,
+      "win_prob": 26.8,
       "type": "fixture"
     },
     {
@@ -63,11 +82,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 4995,
+      "rating1": 4988,
       "rating2": 5301,
       "rating_ev": 0,
       "rank": 73,
-      "win_prob": 14.5,
+      "win_prob": 14.2,
       "type": "fixture"
     },
     {
@@ -80,14 +99,14 @@
       "original_team2": "Panama",
       "flag1": "south_africa.png",
       "flag2": "panama.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4995,
-      "rating2": 5099,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4988,
+      "rating2": 5106,
+      "rating_ev": -7,
       "rank": 73,
       "win_prob": 49.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",
