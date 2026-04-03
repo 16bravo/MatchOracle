@@ -1,18 +1,18 @@
 {
   "team": "Tunisia",
   "stats": {
-    "matches_played": 757,
+    "matches_played": 758,
     "wins": 323,
-    "draws": 209,
+    "draws": 210,
     "losses": 225,
     "goals_for": 1074,
     "goals_against": 814,
     "goal_difference": 260,
-    "win_percentage": 42.7,
+    "win_percentage": 42.6,
     "avg_points": 1.56,
     "best_rank": 31,
     "worst_rank": 88,
-    "avg_rank": 52.71,
+    "avg_rank": 52.72,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Taiwan",
@@ -26,10 +26,10 @@
       "flag": "hungary.png"
     },
     "home_matches": 329,
-    "away_matches": 244,
+    "away_matches": 245,
     "neutral_matches": 184,
     "first_match_date": "1954-05-31",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
+      "rating1": 5115,
       "rating2": 5538,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 13.1,
+      "rank": 59,
+      "win_prob": 13.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
+      "rating1": 5115,
       "rating2": 5443,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 18.3,
+      "rank": 59,
+      "win_prob": 19.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
+      "rating1": 5115,
       "rating2": 5223,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 36.7,
+      "rank": 59,
+      "win_prob": 38.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
-      "rating2": 5465,
+      "rating1": 5115,
+      "rating2": 5460,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 11.6,
+      "rank": 59,
+      "win_prob": 12.6,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5099,
+      "rating1": 5115,
       "rating2": 5369,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 16.5,
+      "rank": 59,
+      "win_prob": 17.5,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Canada",
       "flag1": "tunisia.png",
       "flag2": "canada.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5099,
-      "rating2": 5265,
-      "rating_ev": 0,
-      "rank": 63,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5115,
+      "rating2": 5249,
+      "rating_ev": 16,
+      "rank": 59,
       "win_prob": 23.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

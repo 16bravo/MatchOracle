@@ -1,18 +1,18 @@
 {
   "team": "Canada",
   "stats": {
-    "matches_played": 481,
+    "matches_played": 482,
     "wins": 188,
-    "draws": 113,
+    "draws": 114,
     "losses": 180,
     "goals_for": 620,
     "goals_against": 607,
     "goal_difference": 13,
-    "win_percentage": 39.1,
+    "win_percentage": 39.0,
     "avg_points": 1.41,
     "best_rank": 16,
     "worst_rank": 100,
-    "avg_rank": 61.47,
+    "avg_rank": 61.41,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Cayman Islands",
@@ -25,11 +25,11 @@
       "date": "1993-07-18",
       "flag": "mexico.png"
     },
-    "home_matches": 147,
+    "home_matches": 148,
     "away_matches": 200,
     "neutral_matches": 134,
     "first_match_date": "1924-06-07",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-03-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5265,
+      "rating1": 5249,
       "rating2": 5440,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 41.8,
+      "rank": 29,
+      "win_prob": 40.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5265,
+      "rating1": 5249,
       "rating2": 4803,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 91.9,
+      "rank": 29,
+      "win_prob": 91.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5265,
+      "rating1": 5249,
       "rating2": 5163,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 70.8,
+      "rank": 29,
+      "win_prob": 69.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5265,
+      "rating1": 5249,
       "rating2": 5120,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 74.6,
+      "rank": 29,
+      "win_prob": 73.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Tunisia",
       "flag1": "canada.png",
       "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5265,
-      "rating2": 5099,
-      "rating_ev": 0,
-      "rank": 28,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5249,
+      "rating2": 5115,
+      "rating_ev": -16,
+      "rank": 29,
       "win_prob": 76.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",
